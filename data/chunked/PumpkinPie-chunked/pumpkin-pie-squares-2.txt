@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , cream together butter and brown sugar .
+PREDID: 0
+PRED: cream
+  DOBJ: butter, brown sugar
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Mix in flour .
+PREDID: 0
+PRED: mix
+  PARG: flour
+    PREP: in
+
+
+SENTID: 3
+SENT: Fold in oats .
+PREDID: 0
+PRED: fold
+  PARG: oats
+    PREP: in
+
+
+SENTID: 4
+SENT: Press into a 9x13 inch baking dish .
+PREDID: 0
+PRED: press
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in preheated oven 15 minutes , until set .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 15 minutes
+    PREP: in
+  PARG: set
+    PREP: until
+
+
+SENTID: 6
+SENT: In a large bowl , beat eggs with white sugar .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large bowl
+    PREP: in
+  PARG: white sugar
+    PREP: with
+
+
+SENTID: 7
+SENT: Beat in pumpkin and evaporated milk .
+PREDID: 0
+PRED: beat
+  PARG: pumpkin, evaporated milk
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix in salt , cinnamon , ginger and cloves .
+PREDID: 0
+PRED: mix
+  PARG: salt , cinnamon , ginger, cloves
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour over baked crust .
+PREDID: 0
+PRED: pour
+  PARG: baked crust
+    PREP: over
+
+
+SENTID: 10
+SENT: Bake in preheated oven 20 minutes , until set .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 20 minutes
+    PREP: in
+  PARG: set
+    PREP: until
+
+
+SENTID: 11
+SENT: Let cool before cutting into squares .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: cutting
+    PREP: before
+  PARG: squares
+    PREP: into
+

@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: In a large bowl , mix the cabbage , green onions , cilantro , and tomato .
+PREDID: 0
+PRED: mix
+  DOBJ: the cabbage , green onions , cilantro , tomato
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In a skillet over medium heat , cook and stir the sesame oil , black pepper , and chili pepper until heated through .
+PREDID: 0
+PRED: cook
+  DOBJ: the sesame oil , black pepper , chili pepper
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix in the bacon bits and almonds .
+PREDID: 0
+PRED: mix
+  PARG: the bacon bits, almonds
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir about 5 minutes , until almonds are lightly browned .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes
+    PREP: about
+
+PREDID: 1
+PRED: stir
+  PARG: almonds are lightly browned
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove from heat , and toss with the cabbage mixture .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: toss
+  PARG: the cabbage mixture
+    PREP: with
+
+
+SENTID: 5
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

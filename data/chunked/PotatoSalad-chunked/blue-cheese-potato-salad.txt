@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 3
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain , cool and chop .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 6
+SENT: In a large bowl , whisk together the oil , vinegar , green onions , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the oil , vinegar , green onions , salt, pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Add the potatoes , bacon and cheese and toss to coat .
+PREDID: 0
+PRED: add
+  DOBJ: the potatoes , bacon, cheese
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

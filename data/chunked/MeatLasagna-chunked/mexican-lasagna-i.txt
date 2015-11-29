@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine beef , beans , oregano , cumin and garlic powder .
+PREDID: 0
+PRED: combine
+  DOBJ: beef , beans , oregano , cumin, garlic powder
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Place 4 uncooked noodles in bottom of a 9x13 inch pan .
+PREDID: 0
+PRED: place
+  DOBJ: 4 uncooked noodles
+  PARG: bottom of a 9x13 inch pan
+    PREP: in
+
+
+SENTID: 3
+SENT: Spread half of beef mixure over noodles .
+PREDID: 0
+PRED: spread
+  DOBJ: half of beef mixure
+  PARG: noodles
+    PREP: over
+
+
+SENTID: 4
+SENT: Top with 4 noodles .
+PREDID: 0
+PRED: top
+  PARG: 4 noodles
+    PREP: with
+
+
+SENTID: 5
+SENT: Spread with remaining mixure , and top with remaining noodles .
+PREDID: 0
+PRED: spread
+  PARG: remaining mixure
+    PREP: with
+
+PREDID: 1
+PRED: top
+  PARG: remaining noodles
+    PREP: with
+
+
+SENTID: 6
+SENT: In a medium bowl , mix water and picante sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: water, picante sauce
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour evenly over layers .
+PREDID: 0
+PRED: pour
+  PARG: layers
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Cover tightly with foil .
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+  OARG: tightly
+
+
+SENTID: 9
+SENT: Bake 1Ê1/2 hours in the preheated oven , or until noodles are tender .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: noodles are tender
+    PREP: until
+  OARG: 1Ê1/2 hours
+
+
+SENTID: 10
+SENT: Blend sour cream and olives in a medium bowl .
+PREDID: 0
+PRED: blend
+  DOBJ: sour cream, olives
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: Spoon over lasagna , and top with Jack and Cheddar cheese .
+PREDID: 0
+PRED: spoon
+  PARG: lasagna
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: jack, cheddar cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake uncovered until cheese melts , about 5 to 10 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: cheese melts , about 5 to 10 minutes
+    PREP: until
+

@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: Follow the recipe for Creamy Macaroni and Cheese using Vermont white cheddar .
+PREDID: 0
+PRED: follow
+  DOBJ: the recipe
+  PARG: creamy macaroni, cheese using vermont white cheddar
+    PREP: for
+
+
+SENTID: 1
+SENT: Fry bacon in a large skillet over medium-high heat until crisp , about 5 minutes .
+PREDID: 0
+PRED: fry
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: crisp , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer to a paper towel-lined plate .
+PREDID: 0
+PRED: transfer
+  PARG: a paper towel-lined plate
+    PREP: to
+
+
+SENTID: 3
+SENT: Pour off all but 3 tablespoons of bacon drippings .
+PREDID: 0
+PRED: pour
+  PARG: all but 3 tablespoons of bacon drippings
+    PREP: off
+
+
+SENTID: 4
+SENT: Add onions and thyme ;
+PREDID: 0
+PRED: add
+  DOBJ: onions, thyme
+
+
+SENTID: 5
+SENT: saute until soft and golden brown , 8 to 10 minutes .
+PREDID: 0
+PRED: saute
+  PARG: soft, golden brown , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir bacon and onions into macaroni .
+PREDID: 0
+PRED: stir
+  DOBJ: bacon, onions
+  PARG: macaroni
+    PREP: into
+
+
+SENTID: 7
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

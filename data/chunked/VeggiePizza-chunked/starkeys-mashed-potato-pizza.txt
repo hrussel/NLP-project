@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook bacon in a large deep skillet over medium heat until crisp .
+PREDID: 0
+PRED: cook
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crisp
+    PREP: until
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 2
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 3
+SENT: Spread the pizza dough out on a lightly greased baking sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: the pizza dough
+  PARG: on a lightly greased baking sheet
+    PREP: out
+
+
+SENTID: 4
+SENT: Sprinkle the cheese and bacon evenly over the potatoes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the cheese, bacon
+  PARG: the potatoes
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Bake the pizza in the preheated oven until the cheese is melted and bubbly , about 20 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the pizza
+  PARG: the preheated oven
+    PREP: in
+  PARG: the cheese is melted, bubbly , about 20 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Let cool for 2 minutes , then slice into wedges and top each one with a small dollop of sour cream .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 2 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: slice
+  PARG: wedges
+    PREP: into
+
+PREDID: 2
+PRED: top
+  DOBJ: each one with a small dollop of sour cream
+

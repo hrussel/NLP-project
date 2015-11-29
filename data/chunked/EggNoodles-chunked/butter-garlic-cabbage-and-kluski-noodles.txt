@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir in kluski noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: kluski noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook kluski noodles uncovered , stirring occasionally , until tender but still slightly firm , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: kluski noodles uncovered , stirring
+  PARG: tender but still slightly firm , 7 to 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 4
+SENT: Return to pot and stir in 3 tablespoons butter until butter has melted and coated the noodles .
+PREDID: 0
+PRED: return
+  PARG: pot
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: 3 tablespoons butter
+    PREP: in
+  PARG: butter has melted, coated the noodles
+    PREP: until
+
+
+SENTID: 5
+SENT: Set noodles aside .
+PREDID: 0
+PRED: set
+  DOBJ: noodles
+  OARG: aside
+
+
+SENTID: 6
+SENT: Melt 2 tablespoons butter in a large pot over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook and stir sweet onion in butter until translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: sweet onion
+
+PREDID: 1
+PRED: stir
+  PARG: butter
+    PREP: in
+  PARG: translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Add garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: garlic
+
+
+SENTID: 9
+SENT: Thoroughly mix in crushed red pepper flakes and Italian seasoning .
+PREDID: 0
+PRED: mix
+  PARG: crushed red pepper flakes, italian seasoning
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 10
+SENT: Stir cabbage and water into onion mixture until well combined .
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage, water
+  PARG: onion mixture
+    PREP: into
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 11
+SENT: Cover and cook , stirring often , until cabbage is tender and reduced in volume by about half , 15 to 20 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: stirring
+
+PREDID: 1
+PRED: cook
+  PARG: cabbage is tender, reduced in volume by about half , 15 to 20 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 12
+SENT: Gently stir the buttered kluski noodles into the cabbage mixture until well combined .
+PREDID: 0
+PRED: stir
+  DOBJ: the buttered kluski noodles
+  PARG: the cabbage mixture
+    PREP: into
+  PARG: well combined
+    PREP: until
+  OARG: gently
+
+
+SENTID: 13
+SENT: For a more buttery flavor , stir in 3 more tablespoons butter if desired ;
+PREDID: 0
+PRED: stir
+  PARG: a more buttery flavor
+    PREP: for
+  PARG: 3 more tablespoons butter
+    PREP: in
+  PARG: desired
+    PREP: if
+
+
+SENTID: 14
+SENT: season to taste with salt , black pepper , and garlic powder .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt , black pepper , garlic powder
+    PREP: with
+

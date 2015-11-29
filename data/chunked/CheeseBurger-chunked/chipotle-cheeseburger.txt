@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: In medium bowl , stir together mayonnaise , 1 tbsp . chipotle sauce , 1 tsp . garlic , cilantro and adobo ;
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , 1 tbsp . chipotle sauce , 1 tsp . garlic , cilantro, adobo
+  PARG: medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: cover and refrigerate until ready to use .
+PREDID: 0
+PRED: cover
+  PARG: ready to use
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 2
+SENT: In large bowl , gently mix together beef , chopped chipotle , 3 tbsp . chipotle sauce , remaining garlic and adobo until combined .
+PREDID: 0
+PRED: mix
+  DOBJ: beef , chopped chipotle , 3 tbsp . chipotle sauce , remaining garlic, adobo
+  PARG: large bowl
+    PREP: in
+  PARG: combined
+    PREP: until
+  OARG: gently
+  OARG: together
+
+
+SENTID: 3
+SENT: Divide meat into 6 portions ;
+PREDID: 0
+PRED: divide
+  DOBJ: meat
+  PARG: 6 portions
+    PREP: into
+
+
+SENTID: 4
+SENT: form into 1 inch-thick patties .
+PREDID: 0
+PRED: form
+  PARG: 1 inch-thick patties
+    PREP: into
+
+
+SENTID: 5
+SENT: Prepare grill to medium-high heat , grease with oil -LRB- or heat oil in medium skillet over medium-high heat -RRB- .
+PREDID: 0
+PRED: prepare
+  DOBJ: grill
+  PARG: medium-high heat
+    PREP: to
+
+PREDID: 1
+PRED: grease
+  PARG: oil -lrb-
+    PREP: with
+
+PREDID: 2
+PRED: heat
+  DOBJ: oil
+  PARG: medium skillet
+    PREP: in
+  PARG: medium-high heat -rrb-
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook burgers , flipping once , until charred and cooked to desired doneness -LRB- about 12 minutes total for medium rare -RRB- .
+PREDID: 0
+PRED: cook
+  DOBJ: burgers , flipping
+  PARG: charred, cooked to desired doneness -lrb- about 12 minutes total for medium rare -rrb-
+    PREP: until
+  OARG: once
+
+
+SENTID: 7
+SENT: Add cheese to patties about 5 minutes before taking them off grill .
+PREDID: 0
+PRED: add
+  DOBJ: cheese
+  PARG: patties
+    PREP: to
+  PARG: 5 minutes
+    PREP: about
+  PARG: taking them
+    PREP: before
+  PARG: grill
+    PREP: off
+
+
+SENTID: 8
+SENT: To assemble , divide patties evenly among bottom buns ;
+PREDID: 0
+PRED: divide
+  DOBJ: patties
+  PARG: bottom buns
+    PREP: among
+  OARG: to assemble
+  OARG: evenly
+
+
+SENTID: 9
+SENT: top with onion slice , tomato slice , lettuce and top bun spread with reserved chipotle mayonnaise .
+PREDID: 0
+PRED: top
+  PARG: onion
+    PREP: with
+
+PREDID: 1
+PRED: slice
+  DOBJ: tomato
+
+PREDID: 2
+PRED: slice
+  DOBJ: lettuce, top bun spread
+  PARG: reserved chipotle mayonnaise
+    PREP: with
+

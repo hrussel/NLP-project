@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Bake pie shell at 450 degrees F -LRB- 230 degrees C -RRB- for 5 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pie shell
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: at
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 2
+SENT: Turn oven down to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: turn
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+  OARG: down
+
+
+SENTID: 3
+SENT: Beat eggs and salt until very light and lemon colored .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs, salt
+  PARG: very light, lemon colored
+    PREP: until
+
+
+SENTID: 4
+SENT: Beat in sugar a little at a time .
+PREDID: 0
+PRED: beat
+  PARG: sugar a little
+    PREP: in
+  PARG: a time
+    PREP: at
+
+
+SENTID: 5
+SENT: With a wire whisk , fold in melted butter or margarine , and corn syrup .
+PREDID: 0
+PRED: fold
+  PARG: a wire whisk
+    PREP: with
+  PARG: melted butter or margarine , corn syrup
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour into partially baked shell .
+PREDID: 0
+PRED: pour
+  PARG: partially baked shell
+    PREP: into
+
+
+SENTID: 7
+SENT: Arrange pecan halves on top , broken side down .
+PREDID: 0
+PRED: arrange
+  DOBJ: pecan halves
+  PARG: top , broken side
+    PREP: on
+  OARG: down
+
+
+SENTID: 8
+SENT: Bake for 10 minutes , and reduce heat to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: 10 minutes
+    PREP: for
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Bake for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+

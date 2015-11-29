@@ -1,0 +1,93 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 52	Bring
+T3	predicate 100 103	Add
+T4	predicate 114 118	cook
+T5	predicate 158 163	drain
+T6	predicate 165 169	Toss
+T7	predicate 202 207	place
+T8	predicate 231 237	Spread
+T9	predicate 267 272	cover
+T10	predicate 298 304	Spread
+T11	predicate 330 333	top
+T12	predicate 394 398	toss
+T13	predicate 472 480	Sprinkle
+T14	predicate 518 522	Bake
+T15	arg_location 523 540	in preheated oven
+T16	Evolution 526 540	preheated oven
+E1	Evolution:T16 Cause:T1
+R1	location Arg1:T14 Arg2:T15	
+R2	object Arg1:T14 Arg2:T13	
+T17	arg_duration 541 547	1 hour
+R3	duration Arg1:T14 Arg2:T17	
+T18	arg_duration 549 573	until bubbly and golden.
+R4	duration Arg1:T14 Arg2:T18	
+T19	arg_object 8 12	oven
+T20	arg_other 13 45	to 350 degrees F (175 degrees C)
+R5	object Arg1:T1 Arg2:T19	
+R6	other Arg1:T1 Arg2:T20	
+T21	arg_object 53 88	a large pot of lightly salted water
+T22	arg_other 89 98	to a boil
+R7	object Arg1:T2 Arg2:T21	
+R8	other Arg1:T2 Arg2:T22	
+T23	arg_object 104 109	pasta
+T24	ingredient 104 109	pasta
+R9	object Arg1:T3 Arg2:T23	
+R10	co-object Arg1:T3 Arg2:T2	
+R11	object Arg1:T4 Arg2:T3	
+T25	arg_duration 119 156	for 8 to 10 minutes or until al dente
+R12	duration Arg1:T4 Arg2:T25	
+R13	object Arg1:T5 Arg2:T4	
+R14	object Arg1:T6 Arg2:T5	
+T26	arg_co-object 170 197	with half the melted butter
+R15	co-object Arg1:T6 Arg2:T26	
+T27	ingredient 175 197	half the melted butter
+R16	object Arg1:T7 Arg2:T6	
+T28	arg_location 208 229	in a 9x13 baking dish
+R17	location Arg1:T7 Arg2:T28	
+T29	arg_object 238 248	sauerkraut
+T30	ingredient 238 248	sauerkraut
+T31	arg_co-object 249 265	over the noodles
+T32	Evolution 254 265	the noodles
+E2	Evolution:T32 Cause:T7
+R18	object Arg1:T8 Arg2:T29	
+R19	co-object Arg1:T8 Arg2:T31	
+R20	object Arg1:T9 Arg2:T8	
+T33	arg_other 273 279	evenly
+T34	arg_co-object 280 296	with corned beef
+T35	ingredient 285 296	corned beef
+R21	other Arg1:T9 Arg2:T33	
+R22	co-object Arg1:T9 Arg2:T34	
+T36	arg_object 305 315	mayonnaise
+T37	ingredient 305 315	mayonnaise
+R23	object Arg1:T10 Arg2:T36	
+T38	arg_co-object 316 325	over beef
+T39	Evolution 321 325	beef
+E3	Evolution:T39 Cause:T9
+R24	co-object Arg1:T10 Arg2:T38	
+R25	object Arg1:T11 Arg2:T10	
+T40	arg_co-object 334 375	with the shredded Swiss and tomato slices
+T41	ingredient 339 357	the shredded Swiss
+T42	ingredient 362 375	tomato slices
+R26	co-object Arg1:T11 Arg2:T40	
+T43	arg_location 377 392	In a small bowl
+R27	location Arg1:T12 Arg2:T43	
+T44	arg_other 399 407	together
+R28	other Arg1:T12 Arg2:T44	
+T45	arg_object 408 424	crushed crackers
+T46	arg_object 429 441	caraway seed
+T47	ingredient 408 424	crushed crackers
+T48	ingredient 429 441	caraway seed
+R29	object Arg1:T12 Arg2:T45	
+R30	object Arg1:T12 Arg2:T46	
+T49	arg_co-object 442 470	with remaining melted butter
+T50	ingredient 447 470	remaining melted butter
+R31	co-object Arg1:T12 Arg2:T49	
+T51	arg_object 481 494	crumb mixture
+R32	object Arg1:T13 Arg2:T51	
+T52	Evolution 481 494	crumb mixture
+E4	Evolution:T52 Cause:T12
+T53	arg_co-object 495 516	over Swiss and tomato
+T54	Evolution 500 516	Swiss and tomato
+E5	Evolution:T54 Cause:T11
+R33	co-object Arg1:T13 Arg2:T53	
+R34	co-object Arg1:T5 Arg2:T4	

@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground beef , ground turkey , Italian sausage , vegetable soup , eggs , bread crumbs , barbeque sauce , ketchup , yellow mustard , garlic , Worcestershire sauce , browning sauce , seasoned salt , and black pepper in a bowl until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , ground turkey , italian sausage , vegetable soup , eggs , bread crumbs , barbeque sauce , ketchup , yellow mustard , garlic , worcestershire sauce , browning sauce , seasoned salt , black pepper
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Form into a loaf and place meat loaf into a 9x13-inch baking dish .
+PREDID: 0
+PRED: form
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: meat loaf
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until meat loaf is browned and no longer pink inside , 60 to 75 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: meat loaf is browned, no longer pink inside , 60 to 75 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Let meat loaf rest for 10 minutes before cutting into 1/2-inch thick slices .
+PREDID: 0
+PRED: let
+  DOBJ: meat loaf rest
+  PARG: 10 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+  PARG: 1/2-inch thick slices
+    PREP: into
+

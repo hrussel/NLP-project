@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , dissolve yeast and sugar in warm water .
+PREDID: 0
+PRED: dissolve
+  DOBJ: yeast, sugar
+  PARG: a medium bowl
+    PREP: in
+  PARG: warm water
+    PREP: in
+
+
+SENTID: 2
+SENT: Let stand until creamy , about 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: creamy , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in flour , salt and oil .
+PREDID: 0
+PRED: stir
+  PARG: flour , salt, oil
+    PREP: in
+
+
+SENTID: 4
+SENT: Beat until smooth .
+PREDID: 0
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Let rest for 5 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: rest
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Turn dough out onto a lightly floured surface and pat or roll into a round .
+PREDID: 0
+PRED: turn
+  DOBJ: dough
+  PARG: onto a lightly floured surface
+    PREP: out
+
+PREDID: 1
+PRED: pat
+  PARG: a round
+    PREP: into
+
+PREDID: 2
+PRED: roll
+
+
+SENTID: 7
+SENT: Transfer crust to a lightly greased pizza pan or baker 's peel dusted with cornmeal .
+PREDID: 0
+PRED: transfer
+  DOBJ: crust
+  PARG: a lightly greased pizza pan or baker 's peel dusted
+    PREP: to
+  PARG: cornmeal
+    PREP: with
+
+
+SENTID: 8
+SENT: Spread with desired toppings and bake in preheated oven for 15 to 20 minutes , or until golden brown .
+PREDID: 0
+PRED: spread
+  PARG: desired toppings
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 9
+SENT: Let baked pizza cool for 5 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: baked pizza cool
+  PARG: 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

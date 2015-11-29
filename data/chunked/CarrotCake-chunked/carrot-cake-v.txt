@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour two 9 inch round pans .
+PREDID: 0
+PRED: grease
+  DOBJ: two 9 inch round pans
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: In a large bowl , combine sugar and oil ;
+PREDID: 0
+PRED: combine
+  DOBJ: sugar
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: oil
+
+
+SENTID: 3
+SENT: beat well .
+PREDID: 0
+PRED: beat
+  OARG: well
+
+
+SENTID: 4
+SENT: Add eggs , carrots , and 1 teaspoon vanilla ;
+PREDID: 0
+PRED: add
+  DOBJ: eggs , carrots , 1 teaspoon vanilla
+
+
+SENTID: 5
+SENT: beat mixture until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: mixture
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Combine flour , salt , soda , and spices ;
+PREDID: 0
+PRED: combine
+  DOBJ: flour , salt , soda , spices
+
+
+SENTID: 7
+SENT: add to creamed mixture , beating well .
+PREDID: 0
+PRED: add
+  PARG: creamed mixture , beating
+    PREP: to
+  OARG: well
+
+
+SENTID: 8
+SENT: Pour batter into prepared pans .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared pans
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake for 30 minutes , or until cake tests done .
+PREDID: 0
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+  PARG: cake tests done
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool in pans for 10 minutes , and then transfer layers to wire racks .
+PREDID: 0
+PRED: cool
+  PARG: pans
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: transfer
+  DOBJ: layers
+  PARG: wire racks
+    PREP: to
+
+
+SENTID: 11
+SENT: Combine cream cheese and butter or margarine , beating until light and fluffy .
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese, butter or margarine , beating
+  PARG: light, fluffy
+    PREP: until
+
+
+SENTID: 12
+SENT: Add 1 tablespoon vanilla and confectioners ' sugar ;
+PREDID: 0
+PRED: add
+  DOBJ: 1 tablespoon vanilla, confectioners ' sugar
+
+
+SENTID: 13
+SENT: beat until smooth .
+PREDID: 0
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 14
+SENT: Stir in chopped pecans .
+PREDID: 0
+PRED: stir
+  PARG: chopped pecans
+    PREP: in
+
+
+SENTID: 15
+SENT: Fill and frost the cake with cream cheese frosting .
+PREDID: 0
+PRED: fill
+  DOBJ: the cake
+
+PREDID: 1
+PRED: frost
+  PARG: cream cheese frosting
+    PREP: with
+
+
+SENTID: 16
+SENT: Garnish with pecans , if desired .
+PREDID: 0
+PRED: garnish
+  PARG: pecans
+    PREP: with
+  PARG: desired
+    PREP: if
+

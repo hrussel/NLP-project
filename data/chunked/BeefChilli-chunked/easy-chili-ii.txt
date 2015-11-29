@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: In a medium saucepan over medium heat , cook beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in beans , tomatoes , onion and bell pepper ;
+PREDID: 0
+PRED: stir
+  PARG: beans , tomatoes , onion, bell pepper
+    PREP: in
+
+
+SENTID: 2
+SENT: reduce heat and simmer 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  OARG: 30 minutes
+

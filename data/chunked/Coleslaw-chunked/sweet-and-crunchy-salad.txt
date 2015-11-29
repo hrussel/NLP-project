@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: Place noodles in a bowl of warm water and soak for 15 minutes or until soft .
+PREDID: 0
+PRED: place
+  DOBJ: noodles
+  PARG: a bowl of warm water
+    PREP: in
+
+PREDID: 1
+PRED: soak
+  PARG: 15 minutes
+    PREP: for
+  PARG: soft
+    PREP: until
+
+
+SENTID: 1
+SENT: Whisk together the oil , sugar , vinegar and seasoning packs .
+PREDID: 0
+PRED: whisk
+  DOBJ: the oil , sugar , vinegar, seasoning packs
+  OARG: together
+
+
+SENTID: 2
+SENT: Drain the noodles and combine in a large bowl with the coleslaw , oranges , water chestnuts , green onions and sunflower seeds .
+PREDID: 0
+PRED: drain
+  DOBJ: the noodles
+
+PREDID: 1
+PRED: combine
+  PARG: a large bowl
+    PREP: in
+  PARG: the coleslaw , oranges , water chestnuts , green onions, sunflower seeds
+    PREP: with
+
+
+SENTID: 3
+SENT: Pour dressing over salad and toss to coat evenly .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 4
+SENT: Refrigerate for 2 to 4 hours .
+PREDID: 0
+PRED: refrigerate
+  PARG: 2 to 4 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: Add cashews before serving .
+PREDID: 0
+PRED: add
+  DOBJ: cashews
+  PARG: serving
+    PREP: before
+

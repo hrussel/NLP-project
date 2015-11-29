@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+
+
+SENTID: 6
+SENT: Heat the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Stir in the onion ;
+PREDID: 0
+PRED: stir
+  PARG: the onion
+    PREP: in
+
+
+SENTID: 8
+SENT: cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 9
+SENT: Reduce heat to medium-low , and continue cooking and stirring until the onion is golden brown , 10 to 15 minutes more .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , continue cooking, stirring
+    PREP: to
+  PARG: the onion is golden brown , 10 to 15 minutes more
+    PREP: until
+
+
+SENTID: 10
+SENT: Meanwhile , combine eggs , salt , and pepper in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , salt , pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 11
+SENT: Stir in the noodles and onion .
+PREDID: 0
+PRED: stir
+  PARG: the noodles, onion
+    PREP: in
+
+
+SENTID: 12
+SENT: Pour noodle mixture into the prepared baking dish and cover with aluminum foil .
+PREDID: 0
+PRED: pour
+  DOBJ: noodle mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake in the preheated oven until noodles are golden brown , 45 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: noodles are golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 1 hour
+    PREP: to
+  OARG: 45 minutes
+

@@ -1,0 +1,211 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat Bundt pan with vegetable oil spray .
+PREDID: 0
+PRED: coat
+  DOBJ: bundt pan
+  PARG: vegetable oil
+    PREP: with
+
+PREDID: 1
+PRED: spray
+
+
+SENTID: 2
+SENT: Flour pan and tap out excess flour .
+PREDID: 0
+PRED: flour
+  DOBJ: pan
+
+PREDID: 1
+PRED: tap
+  PARG: excess flour
+    PREP: out
+
+
+SENTID: 3
+SENT: In a medium bowl , sift together flour , salt , soda and pumpkin pie spice .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , salt , soda, pumpkin pie spice
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a separate bowl , combine coconut , walnuts and raisins .
+PREDID: 0
+PRED: combine
+  DOBJ: coconut , walnuts, raisins
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Grate carrots -LRB- to make 3 cups -RRB- .
+PREDID: 0
+PRED: grate
+  DOBJ: carrots -lrb-
+  PARG: make 3 cups -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: In a large bowl , combine sugar , pineapple with juice , oil and applesauce .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar , pineapple
+  PARG: a large bowl
+    PREP: in
+  PARG: juice , oil, applesauce
+    PREP: with
+
+
+SENTID: 10
+SENT: Beat on high speed for 3 minutes .
+PREDID: 0
+PRED: beat
+  PARG: high speed
+    PREP: on
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Beat in eggs one at a time .
+PREDID: 0
+PRED: beat
+  PARG: eggs one at a time
+    PREP: in
+
+
+SENTID: 12
+SENT: Add vanilla and carrots .
+PREDID: 0
+PRED: add
+  DOBJ: vanilla, carrots
+
+
+SENTID: 13
+SENT: Add flour mixture and beat on low speed until combined .
+PREDID: 0
+PRED: add
+  DOBJ: flour mixture
+
+PREDID: 1
+PRED: beat
+  PARG: low speed
+    PREP: on
+  PARG: combined
+    PREP: until
+
+
+SENTID: 14
+SENT: Add coconut , walnuts and raisins and combine .
+PREDID: 0
+PRED: add
+  DOBJ: coconut , walnuts, raisins
+
+PREDID: 1
+PRED: combine
+
+
+SENTID: 15
+SENT: Put batter into 10 inch Bundt pan .
+PREDID: 0
+PRED: put
+  DOBJ: batter
+  PARG: 10 inch bundt pan
+    PREP: into
+
+
+SENTID: 16
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 60 to 70 minutes , or until toothpick inserted into center of cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 60 to 70 minutes
+    PREP: for
+  PARG: toothpick inserted into center of cake comes out clean
+    PREP: until
+
+
+SENTID: 17
+SENT: Cool in pan on wire rack .
+PREDID: 0
+PRED: cool
+  PARG: pan
+    PREP: in
+  PARG: wire rack
+    PREP: on
+
+
+SENTID: 18
+SENT: Invert onto serving plate .
+PREDID: 0
+PRED: invert
+  PARG: serving plate
+    PREP: onto
+
+
+SENTID: 19
+SENT: Frost , and refrigerate one hour .
+PREDID: 0
+PRED: frost
+
+PREDID: 1
+PRED: refrigerate
+  OARG: one hour
+
+
+SENTID: 20
+SENT: In a large bowl , combine cream cheese , butter , confectioners sugar , orange zest and juice .
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: butter
+  DOBJ: confectioners sugar , orange zest, juice
+
+
+SENTID: 21
+SENT: Beat until smooth .
+PREDID: 0
+PRED: beat
+  PARG: smooth
+    PREP: until
+

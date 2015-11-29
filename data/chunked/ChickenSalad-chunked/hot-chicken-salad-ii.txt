@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small skillet , saute the mushrooms in oil .
+PREDID: 0
+PRED: saute
+  DOBJ: the mushrooms
+  PARG: a small skillet
+    PREP: in
+  PARG: oil
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix together the chicken , mayonnaise , soup , sauteed mushrooms , water chestnuts and celery .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , mayonnaise , soup , sauteed mushrooms , water chestnuts, celery
+  OARG: together
+
+
+SENTID: 3
+SENT: Place mixture in a 12x7 .5 inch casserole dish .
+PREDID: 0
+PRED: place
+  DOBJ: mixture
+  PARG: a 12x7 .5 inch casserole dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Top with the crushed crackers , tossed with melted butter .
+PREDID: 0
+PRED: top
+  PARG: the crushed crackers , tossed
+    PREP: with
+  PARG: melted butter
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake in the preheated oven for 30 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 to 45 minutes
+    PREP: for
+

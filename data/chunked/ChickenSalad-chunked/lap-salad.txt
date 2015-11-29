@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: Combine chicken , nuts , onion , sugar , sesame seeds , noodles and their flavor packet and cabbage in large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , nuts , onion , sugar , sesame seeds , noodles, their flavor packet, cabbage
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In small bowl combine oil , salt , pepper and vinegar .
+PREDID: 0
+PRED: combine
+  DOBJ: oil , salt , pepper, vinegar
+  PARG: small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour oil mixture over noodle mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: oil mixture
+  PARG: noodle mixture
+    PREP: over
+
+
+SENTID: 3
+SENT: Let stand overnight in refrigerator and serve .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: refrigerator
+    PREP: in
+  OARG: overnight
+
+PREDID: 1
+PRED: serve
+

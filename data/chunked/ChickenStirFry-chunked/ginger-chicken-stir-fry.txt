@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Mix cornstarch , broth , soy sauce , lemon juice and ginger until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: cornstarch , broth , soy sauce , lemon juice, ginger
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat 1 tablespoon oil in medium skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon oil
+  PARG: medium skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Add chicken and stir-fry until browned and done .
+PREDID: 0
+PRED: add
+  DOBJ: chicken, stir-fry
+  PARG: browned, done
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove chicken .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+
+
+SENTID: 5
+SENT: Heat remaining oil over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: remaining oil
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Add broccoli , carrots and onion and stir-fry until tender-crisp .
+PREDID: 0
+PRED: add
+  DOBJ: broccoli , carrots, onion, stir-fry
+  PARG: tender-crisp
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir cornstarch mixture and add .
+PREDID: 0
+PRED: stir
+  DOBJ: cornstarch mixture
+
+PREDID: 1
+PRED: add
+
+
+SENTID: 8
+SENT: Cook until mixture boils and thickens , stirring constantly .
+PREDID: 0
+PRED: cook
+  PARG: mixture boils, thickens , stirring constantly
+    PREP: until
+
+
+SENTID: 9
+SENT: Return chicken to skillet and heat through .
+PREDID: 0
+PRED: return
+  DOBJ: chicken
+  PARG: skillet
+    PREP: to
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 10
+SENT: Sprinkle with cilantro .
+PREDID: 0
+PRED: sprinkle
+  PARG: cilantro
+    PREP: with
+
+
+SENTID: 11
+SENT: Serve over rice , if desired .
+PREDID: 0
+PRED: serve
+  PARG: rice
+    PREP: over
+  PARG: desired
+    PREP: if
+

@@ -1,0 +1,177 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: When hot , lightly oil grate .
+PREDID: 0
+PRED: grate
+  DOBJ: oil
+  OARG: when hot
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Mix together the ground beef , 2 tablespoons barbeque seasoning , and chipotle peppers in adobo sauce in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , 2 tablespoons barbeque seasoning , chipotle peppers
+  PARG: adobo sauce
+    PREP: in
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: divide mixture into two halves ;
+PREDID: 0
+PRED: divide
+  DOBJ: mixture
+  PARG: two halves
+    PREP: into
+
+
+SENTID: 4
+SENT: form each half into large rectangles , making one larger and thinner than the other ;
+PREDID: 0
+PRED: form
+  DOBJ: making one larger, thinner
+  PARG: large rectangles
+    PREP: into
+  PARG: the other
+    PREP: than
+  OARG: each half
+
+
+SENTID: 5
+SENT: lay the rectangles on large sheets of aluminum foil .
+PREDID: 0
+PRED: lay
+  DOBJ: the rectangles
+  PARG: large sheets of aluminum foil
+    PREP: on
+
+
+SENTID: 6
+SENT: Mix together the cream cheese and 1 teaspoon barbeque seasoning ;
+PREDID: 0
+PRED: mix
+  DOBJ: the cream cheese, 1 teaspoon barbeque seasoning
+  OARG: together
+
+
+SENTID: 7
+SENT: spread on top of the smaller , thicker rectangle of meat .
+PREDID: 0
+PRED: spread
+  PARG: top of the smaller , thicker rectangle of meat
+    PREP: on
+
+
+SENTID: 8
+SENT: Melt the butter in a skillet over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Cook the onion , bell pepper , mushrooms , and garlic in the hot butter until the onion has softened ;
+PREDID: 0
+PRED: cook
+  DOBJ: the onion , bell pepper , mushrooms , garlic
+  PARG: the hot butter
+    PREP: in
+  PARG: the onion has softened
+    PREP: until
+
+
+SENTID: 10
+SENT: spread atop the cream cheese mixture ;
+PREDID: 0
+PRED: spread
+  PARG: the cream cheese mixture
+    PREP: atop
+
+
+SENTID: 11
+SENT: top with the Cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: the cheddar cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Place the thinner rectangle of meat atop the smaller piece by lifting the aluminum foil beneath it and flipping it onto the cream cheese and vegetable layer .
+PREDID: 0
+PRED: place
+  DOBJ: the thinner rectangle of meat
+  PARG: the smaller piece
+    PREP: atop
+  PARG: lifting the aluminum foil
+    PREP: by
+  PARG: it, flipping it
+    PREP: beneath
+  PARG: the cream cheese, vegetable layer
+    PREP: onto
+
+
+SENTID: 13
+SENT: Fold the edges of the aluminum foil beneath the loaf upwards , so as to form a bowl , to keep the grease from leaking onto the grill while cooking .
+PREDID: 0
+PRED: fold
+  DOBJ: the edges of the aluminum foil
+  PARG: the loaf upwards
+    PREP: beneath
+  PARG: to form a bowl
+    PREP: as
+  PARG: keep the grease
+    PREP: to
+  PARG: leaking
+    PREP: from
+  PARG: the grill
+    PREP: onto
+  PARG: cooking
+    PREP: while
+  OARG: so
+
+
+SENTID: 14
+SENT: Brush the top of the loaf with barbeque sauce .
+PREDID: 0
+PRED: brush
+  DOBJ: the top of the loaf
+  PARG: barbeque sauce
+    PREP: with
+
+
+SENTID: 15
+SENT: Cook on the preheated grill until the top of the loaf is cooked completely through , about 30 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the preheated grill
+    PREP: on
+  PARG: the top of the loaf is cooked completely through , about 30 minutes
+    PREP: until
+
+
+SENTID: 16
+SENT: Slice into six even pieces to serve .
+PREDID: 0
+PRED: slice
+  PARG: six even pieces
+    PREP: into
+  PARG: serve
+    PREP: to
+

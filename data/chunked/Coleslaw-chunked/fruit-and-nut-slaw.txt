@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Drain pineapple , reserving 2 tablespoons juice .
+PREDID: 0
+PRED: drain
+  DOBJ: reserving 2 tablespoons juice
+  OARG: pineapple
+
+
+SENTID: 1
+SENT: Cut pineapple into thin strips , and place in a large bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: pineapple
+  PARG: thin strips
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: In a medium bowl , combine reserved pineapple juice and lemon juice .
+PREDID: 0
+PRED: combine
+  DOBJ: reserved pineapple juice, lemon juice
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Toss with banana , and add to pineapple .
+PREDID: 0
+PRED: toss
+  PARG: banana
+    PREP: with
+
+PREDID: 1
+PRED: add
+  PARG: pineapple
+    PREP: to
+
+
+SENTID: 4
+SENT: Add cabbage , celery , mandarin oranges , walnuts and raisins ;
+PREDID: 0
+PRED: add
+  DOBJ: cabbage , celery , mandarin oranges , walnuts, raisins
+
+
+SENTID: 5
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 6
+SENT: Blend yogurt and salt together , and add to cabbage mixture ;
+PREDID: 0
+PRED: blend
+  DOBJ: yogurt, salt
+  OARG: together
+
+PREDID: 1
+PRED: add
+  PARG: cabbage mixture
+    PREP: to
+
+
+SENTID: 7
+SENT: toss lightly .
+PREDID: 0
+PRED: toss
+  OARG: lightly
+
+
+SENTID: 8
+SENT: Cover , and refrigerate until thoroughly chilled .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: thoroughly chilled
+    PREP: until
+

@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine ground beef , 1/2 cup of the onion dip , bread crumbs , celery , onion , dill , salt , pepper and eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , 1/2 cup of the onion dip , bread crumbs , celery , onion , dill , salt , pepper, eggs
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Use your hands to mix until well blended .
+PREDID: 0
+PRED: use
+  DOBJ: your hands
+  PARG: mix
+    PREP: to
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 3
+SENT: Press into a 9x5 inch loaf pan , or form a loaf and place it in a 9x13 inch baking dish .
+PREDID: 0
+PRED: press
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+PREDID: 1
+PRED: form
+  DOBJ: a loaf
+
+PREDID: 2
+PRED: place
+  DOBJ: it
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Bake for 1 hour in the preheated oven , or until the internal temperature of the loaf is 160 degrees F -LRB- 72 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the internal temperature of the loaf is 160 degrees f -lrb- 72 degrees c -rrb-
+    PREP: until
+
+
+SENTID: 5
+SENT: While the meatloaf is baking , prepare the sauce .
+PREDID: 0
+PRED: prepare
+  DOBJ: the sauce
+  PARG: the meatloaf is baking
+    PREP: while
+
+
+SENTID: 6
+SENT: In a saucepan over medium heat , combine the remaining onion dip and cream of mushroom soup .
+PREDID: 0
+PRED: combine
+  DOBJ: the remaining onion dip, cream of mushroom soup
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook , stirring until heated through .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 8
+SENT: Spoon over servings of meatloaf .
+PREDID: 0
+PRED: spoon
+  PARG: servings of meatloaf
+    PREP: over
+

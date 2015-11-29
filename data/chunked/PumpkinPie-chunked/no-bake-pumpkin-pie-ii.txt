@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: In a large bowl , mix the milk and pumpkin until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: the milk, pumpkin
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 1
+SENT: Add the pudding mix , pumpkin pie spice and cinnamon and mix until well combined .
+PREDID: 0
+PRED: add
+  DOBJ: the pudding
+
+PREDID: 1
+PRED: mix
+  DOBJ: pumpkin pie spice, cinnamon
+
+PREDID: 2
+PRED: mix
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Fold in the whipped topping and pour into pie shell .
+PREDID: 0
+PRED: fold
+  PARG: the whipped topping
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

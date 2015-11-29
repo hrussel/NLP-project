@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Place the ground beef in a large pot over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring to crumble , until evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: evenly browned
+    PREP: until
+  OARG: to crumble
+
+
+SENTID: 2
+SENT: Drain off grease .
+PREDID: 0
+PRED: drain
+  PARG: grease
+    PREP: off
+
+
+SENTID: 3
+SENT: Place the pot over medium heat , and add the onion , garlic , green pepper , red pepper and kidney beans .
+PREDID: 0
+PRED: place
+  DOBJ: the pot
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: add
+  DOBJ: the onion , garlic , green pepper , red pepper, kidney beans
+
+
+SENTID: 4
+SENT: Cook and stir for a few minutes .
+PREDID: 0
+PRED: cook
+  PARG: a few minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Stir in the tomato sauce and water , and season with chili powder .
+PREDID: 0
+PRED: stir
+  PARG: the tomato sauce, water
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: chili powder
+    PREP: with
+
+
+SENTID: 6
+SENT: Simmer over low heat for 40 minutes uncovered .
+PREDID: 0
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: 40 minutes uncovered
+    PREP: for
+

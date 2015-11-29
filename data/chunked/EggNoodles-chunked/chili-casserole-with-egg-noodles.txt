@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x14 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x14 inch baking dish
+
+
+SENTID: 2
+SENT: Fill a large pot with lightly-salted water and bring to a boil ;
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly-salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: stir in the egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Stirring occasionally , boil uncovered until the pasta is cooked yet still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: uncovered
+  PARG: the pasta is cooked yet still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+  OARG: stirring
+
+
+SENTID: 5
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 6
+SENT: Place a large skillet over medium-high heat ;
+PREDID: 0
+PRED: place
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook and stir the ground beef in the skillet until completely browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+
+PREDID: 1
+PRED: stir
+  PARG: the skillet
+    PREP: in
+  PARG: completely browned
+    PREP: until
+
+
+SENTID: 8
+SENT: Add the onion and garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: the onion, garlic
+
+
+SENTID: 9
+SENT: continue cooking and stirring until the onion is translucent .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking, stirring
+  PARG: the onion is translucent
+    PREP: until
+
+
+SENTID: 10
+SENT: Pour all of the tomato sauce , water , and red wine into the mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: all of the tomato sauce , water , red wine
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 11
+SENT: Season with cumin , oregano , and cayenne pepper .
+PREDID: 0
+PRED: season
+  PARG: cumin , oregano , cayenne pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Bring the mixture to a simmer .
+PREDID: 0
+PRED: bring
+  DOBJ: the mixture
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 13
+SENT: Mix the cooked pasta into the sauce ;
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked pasta
+  PARG: the sauce
+    PREP: into
+
+
+SENTID: 14
+SENT: transfer the mixture to the prepared baking dish .
+PREDID: 0
+PRED: transfer
+  DOBJ: the mixture
+  PARG: the prepared baking dish
+    PREP: to
+
+
+SENTID: 15
+SENT: Sprinkle the Cheddar cheese over the top of the pasta and sauce .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the cheddar cheese
+  PARG: the top of the pasta, sauce
+    PREP: over
+
+
+SENTID: 16
+SENT: Bake in the preheated oven until the cheese is melted and the sauce has absorbed into the dish , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the cheese is melted, the sauce has absorbed into the dish , about 20 minutes
+    PREP: until
+

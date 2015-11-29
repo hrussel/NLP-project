@@ -1,0 +1,190 @@
+SENTID: 0
+SENT: Preheat the oven to 325 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 325 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the carrot , celery , onion , red bell pepper , mushrooms , and garlic in a food processor , and pulse until very finely chopped , almost to a puree .
+PREDID: 0
+PRED: place
+  DOBJ: the carrot , celery , onion , red bell pepper , mushrooms , garlic
+  PARG: a food processor
+    PREP: in
+
+PREDID: 1
+PRED: pulse
+  PARG: very finely chopped , almost to a puree
+    PREP: until
+
+
+SENTID: 2
+SENT: Place the minced vegetables into a large mixing bowl , and mix in ground chuck , Worcestershire sauce , and egg .
+PREDID: 0
+PRED: place
+  DOBJ: the minced vegetables
+  PARG: a large mixing bowl
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  PARG: ground chuck , worcestershire sauce , egg
+    PREP: in
+
+
+SENTID: 3
+SENT: Add Italian herbs , salt , black pepper , and cayenne pepper .
+PREDID: 0
+PRED: add
+  DOBJ: italian herbs , salt , black pepper , cayenne pepper
+
+
+SENTID: 4
+SENT: Mix gently with a wooden spoon to incorporate vegetables and egg into the meat .
+PREDID: 0
+PRED: mix
+  PARG: a wooden spoon
+    PREP: with
+  PARG: the meat
+    PREP: into
+  OARG: gently
+  OARG: to incorporate vegetables, egg
+
+
+SENTID: 5
+SENT: Pour in bread crumbs .
+PREDID: 0
+PRED: pour
+  PARG: bread crumbs
+    PREP: in
+
+
+SENTID: 6
+SENT: With your hand , gently mix in the crumbs with your fingertips just until combined , about 1 minute .
+PREDID: 0
+PRED: mix
+  PARG: your hand
+    PREP: with
+  PARG: the crumbs
+    PREP: in
+  PARG: your fingertips
+    PREP: with
+  PARG: combined , about 1 minute
+    PREP: until
+  OARG: gently
+  OARG: just
+
+
+SENTID: 7
+SENT: Form the meatloaf into a ball .
+PREDID: 0
+PRED: form
+  DOBJ: the meatloaf
+  PARG: a ball
+    PREP: into
+
+
+SENTID: 8
+SENT: Pour olive oil into a baking dish and place the ball of meat into the dish .
+PREDID: 0
+PRED: pour
+  DOBJ: olive oil
+  PARG: a baking dish
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: the ball of meat
+  PARG: the dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Shape the ball into a loaf , about 4 inches high by 6 inches long .
+PREDID: 0
+PRED: shape
+  DOBJ: the ball
+  PARG: a loaf
+    PREP: into
+  PARG: 4 inches high
+    PREP: about
+  PARG: 6 inches
+    PREP: by
+  OARG: long
+
+
+SENTID: 10
+SENT: Bake in the preheated oven just until the meatloaf is hot , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the meatloaf is hot , about 15 minutes
+    PREP: until
+  OARG: just
+
+
+SENTID: 11
+SENT: Meanwhile , in a small bowl , mix together brown sugar , ketchup , Dijon mustard , and hot sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: brown sugar , ketchup , dijon mustard , hot sauce
+  PARG: a small bowl
+    PREP: in
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 12
+SENT: Stir until the brown sugar has dissolved .
+PREDID: 0
+PRED: stir
+  PARG: the brown sugar has dissolved
+    PREP: until
+
+
+SENTID: 13
+SENT: Remove the meatloaf from the oven .
+PREDID: 0
+PRED: remove
+  DOBJ: the meatloaf
+  PARG: the oven
+    PREP: from
+
+
+SENTID: 14
+SENT: With the back of a spoon , smooth the glaze onto the top of the meatloaf , then pull a little bit of glaze down the sides of the meatloaf with the back of the spoon .
+PREDID: 0
+PRED: smooth
+  DOBJ: the glaze
+  PARG: the back of a spoon
+    PREP: with
+  PARG: the top of the meatloaf
+    PREP: onto
+  OARG: then
+
+PREDID: 1
+PRED: pull
+  DOBJ: the sides of the meatloaf
+  PARG: the back of the spoon
+    PREP: with
+  OARG: down
+  OARG: a little bit of glaze
+
+
+SENTID: 15
+SENT: Return meatloaf to oven , and bake until the loaf is no longer pink inside and the glaze has baked onto the loaf , 30 to 35 more minutes .
+PREDID: 0
+PRED: return
+  DOBJ: meatloaf
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the loaf is no longer pink inside, the glaze has baked onto the loaf , 30 to 35 more minutes
+    PREP: until
+

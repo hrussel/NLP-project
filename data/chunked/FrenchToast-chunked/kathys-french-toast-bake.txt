@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: Spread the French bread cubes and cream cheese cubes evenly in a 9x13-inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: the french bread cubes, cream cheese cubes
+  PARG: a 9x13-inch baking dish
+    PREP: in
+  OARG: evenly
+
+
+SENTID: 1
+SENT: Whisk eggs , milk , maple syrup , and cinnamon together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , milk , maple syrup , cinnamon
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: pour mixture over bread and cream cheese .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: bread, cream cheese
+    PREP: over
+
+
+SENTID: 3
+SENT: Cover and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  OARG: overnight
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 4
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Bake in preheated oven until golden brown , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: golden brown , about 45 minutes
+    PREP: until
+

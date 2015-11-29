@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 3
+SENT: Slice eggs in half lengthwise .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 4
+SENT: Remove yolks to a small bowl and mash ;
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+  PARG: a small bowl
+    PREP: to
+
+PREDID: 1
+PRED: mash
+
+
+SENTID: 5
+SENT: reserve hollow egg whites .
+PREDID: 0
+PRED: reserve
+  DOBJ: hollow egg whites
+
+
+SENTID: 6
+SENT: Fry bacon in a large skillet over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: fry
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Drain the bacon slices on paper towels and crumble .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+PREDID: 1
+PRED: crumble
+
+
+SENTID: 8
+SENT: Reserve a small amount of bacon and Cheddar cheese in separate bowls ;
+PREDID: 0
+PRED: reserve
+  DOBJ: a small amount of bacon, cheddar cheese
+  PARG: separate bowls
+    PREP: in
+
+
+SENTID: 9
+SENT: stir remainder into mashed egg yolks with mayonnaise .
+PREDID: 0
+PRED: stir
+  DOBJ: remainder
+  PARG: mashed egg yolks
+    PREP: into
+  PARG: mayonnaise
+    PREP: with
+
+
+SENTID: 10
+SENT: Stir in mustard and wasabi .
+PREDID: 0
+PRED: stir
+  PARG: mustard, wasabi
+    PREP: in
+
+
+SENTID: 11
+SENT: Fill egg whites with a heaping spoonful of the yolk mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: egg whites
+  PARG: a heaping spoonful of the yolk mixture
+    PREP: with
+
+
+SENTID: 12
+SENT: Sprinkle with reserved bacon and Cheddar cheese before serving .
+PREDID: 0
+PRED: sprinkle
+  PARG: reserved bacon, cheddar cheese
+    PREP: with
+  PARG: serving
+    PREP: before
+

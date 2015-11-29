@@ -1,0 +1,34 @@
+SENTID: 0
+SENT: Mix broth , mayonnaise , cheese and dill weed .
+PREDID: 0
+PRED: mix
+  DOBJ: broth , mayonnaise , cheese, dill weed
+
+
+SENTID: 1
+SENT: Toss pasta , tomatoes , peas , mushrooms , onion , chicken and broth mixture until evenly coated .
+PREDID: 0
+PRED: toss
+  DOBJ: pasta , tomatoes , peas , mushrooms , onion , chicken, broth mixture
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Cover and refrigerate at least 2 hours .
+PREDID: 0
+PRED: cover
+  PARG: least 2 hours
+    PREP: at
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 3
+SENT: Serve on lettuce .
+PREDID: 0
+PRED: serve
+  PARG: lettuce
+    PREP: on
+

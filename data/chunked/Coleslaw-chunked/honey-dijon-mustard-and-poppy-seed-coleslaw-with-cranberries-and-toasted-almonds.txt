@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Spray a small skillet lightly with olive oil cooking spray and place over medium-low heat .
+PREDID: 0
+PRED: spray
+  DOBJ: a small skillet
+  PARG: olive oil cooking spray
+    PREP: with
+  OARG: lightly
+
+PREDID: 1
+PRED: place
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir almonds in the skillet until lightly golden brown and fragrant , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: almonds
+
+PREDID: 1
+PRED: stir
+  PARG: the skillet
+    PREP: in
+  PARG: lightly golden brown, fragrant , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from heat and transfer to a bowl to cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  PARG: a bowl
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Stir cabbage , cranberries , green bell pepper , celery , and chives in a salad bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage , cranberries , green bell pepper , celery , chives
+  PARG: a salad bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Toss toasted almonds with cabbage mixture .
+PREDID: 0
+PRED: toss
+  DOBJ: toasted almonds
+  PARG: cabbage mixture
+    PREP: with
+
+
+SENTID: 5
+SENT: Whisk mayonnaise , honey-Dijon mustard , honey , and poppy seeds together in a small bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , honey-dijon mustard , honey , poppy seeds
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Stir dressing into slaw until coated .
+PREDID: 0
+PRED: stir
+  DOBJ: dressing
+  PARG: slaw
+    PREP: into
+  PARG: coated
+    PREP: until
+
+
+SENTID: 7
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+

@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Mix corn syrup , eggs , sugar , butter and vanilla using a spoon .
+PREDID: 0
+PRED: mix
+  DOBJ: corn syrup , eggs , sugar , butter, vanilla
+
+
+SENTID: 1
+SENT: Stir in pecans .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour into pie crust .
+PREDID: 0
+PRED: pour
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake at 350 degrees F on center rack of oven for 60 to 70 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f
+    PREP: at
+  PARG: center rack of oven
+    PREP: on
+  PARG: 60 to 70 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Cool for 2 hours before serving .
+PREDID: 0
+PRED: cool
+  PARG: 2 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

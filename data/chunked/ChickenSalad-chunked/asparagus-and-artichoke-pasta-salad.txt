@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 3
+SENT: Meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Add asparagus and cook until tender , about 1 minute .
+PREDID: 0
+PRED: add
+  DOBJ: asparagus
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 1 minute
+    PREP: until
+
+
+SENTID: 5
+SENT: Strain asparagus out of water and immediately plunge into a bowl filled with ice water ;
+PREDID: 0
+PRED: strain
+  DOBJ: asparagus
+  PARG: of water
+    PREP: out
+  OARG: immediately
+
+PREDID: 1
+PRED: plunge
+  PARG: a bowl filled
+    PREP: into
+  PARG: ice water
+    PREP: with
+
+
+SENTID: 6
+SENT: let sit in ice water until completely cold , then cut into 1 inch pieces . Next , add pasta to boiling water and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: let
+  DOBJ: sit
+  PARG: ice water
+    PREP: in
+  PARG: completely cold
+    PREP: until
+
+PREDID: 1
+PRED: cut
+  PARG: 1 inch pieces . next
+    PREP: into
+
+PREDID: 2
+PRED: add
+  DOBJ: pasta
+  PARG: boiling water
+    PREP: to
+
+PREDID: 3
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 7
+SENT: drain , rinse with cold water until chilled , then drain well .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: with
+  PARG: chilled
+    PREP: until
+
+PREDID: 2
+PRED: drain
+  OARG: well
+
+
+SENTID: 8
+SENT: Stir together mayonnaise , balsamic vinaigrette , lemon juice , and Worcestershire sauce in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , balsamic vinaigrette , lemon juice , worcestershire sauce
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Fold in artichoke , chicken , cranberries , almonds , crumbled bacon , and asparagus .
+PREDID: 0
+PRED: fold
+  PARG: artichoke , chicken , cranberries , almonds , crumbled bacon , asparagus
+    PREP: in
+
+
+SENTID: 10
+SENT: Season to taste with salt and pepper , then fold in cooked pasta .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: fold
+  PARG: cooked pasta
+    PREP: in
+
+
+SENTID: 11
+SENT: Refrigerate for at least 1 hour before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: at least 1 hour
+    PREP: for
+  PARG: serving
+    PREP: before
+

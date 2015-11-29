@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Set the slow cooker to High .
+PREDID: 0
+PRED: set
+  DOBJ: the slow cooker
+  PARG: high
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the pork in the slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: the pork
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 2
+SENT: Season top of pork with salt , pepper , onion powder , and garlic powder .
+PREDID: 0
+PRED: season
+  DOBJ: top of pork
+  PARG: salt , pepper , onion powder , garlic powder
+    PREP: with
+
+
+SENTID: 3
+SENT: Pour beer into the bottom of the slow cooker and place the lid on the slow cooker crock .
+PREDID: 0
+PRED: pour
+  DOBJ: beer
+  PARG: the bottom of the slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: the lid
+  PARG: the slow cooker crock
+    PREP: on
+
+
+SENTID: 4
+SENT: Cook pork on High for 1 hour .
+PREDID: 0
+PRED: cook
+  DOBJ: pork
+  PARG: high
+    PREP: on
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 5
+SENT: Reduce slow cooker heat to Low and cook for at least 8 hours or overnight .
+PREDID: 0
+PRED: reduce
+  DOBJ: slow cooker heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: at least 8 hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Remove pork from the slow cooker and shred with two forks .
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: the slow cooker
+    PREP: from
+
+PREDID: 1
+PRED: shred
+  PARG: two forks
+    PREP: with
+
+
+SENTID: 7
+SENT: Discard juices and rinse out slow cooker crock .
+PREDID: 0
+PRED: discard
+  DOBJ: juices
+
+PREDID: 1
+PRED: rinse
+  PARG: slow cooker crock
+    PREP: out
+
+
+SENTID: 8
+SENT: Return shredded pork to slow cooker and stir barbeque sauce into pork .
+PREDID: 0
+PRED: return
+  DOBJ: shredded pork
+  OARG: to slow cooker
+
+PREDID: 1
+PRED: stir
+  DOBJ: barbeque sauce
+  PARG: pork
+    PREP: into
+
+
+SENTID: 9
+SENT: Cook on Medium for 1 hour .
+PREDID: 0
+PRED: cook
+  PARG: medium
+    PREP: on
+  PARG: 1 hour
+    PREP: for
+

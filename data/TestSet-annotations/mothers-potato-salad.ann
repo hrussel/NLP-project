@@ -1,0 +1,194 @@
+T1	predicate 0 5	Place
+T2	predicate 40 45	cover
+T3	predicate 65 70	Bring
+T4	predicate 102 108	reduce
+T5	predicate 129 134	cover
+T6	predicate 140 146	simmer
+T7	predicate 179 184	Drain
+T8	predicate 189 194	allow
+T9	predicate 229 234	Allow
+T10	predicate 270 275	Place
+T11	predicate 323 327	fill
+T12	predicate 368 373	Cover
+T13	predicate 391 396	bring
+T14	predicate 460 466	remove
+T15	predicate 485 488	let
+T16	predicate 537 545	Pour out
+T17	predicate 566 570	cool
+T18	predicate 618 622	Peel
+T19	predicate 627 632	slice
+T20	predicate 644 651	Reserve
+T21	predicate 691 694	Mix
+T22	predicate 773 776	mix
+T23	predicate 875 879	Pour
+T24	predicate 931 935	toss
+T25	predicate 980 986	Season
+T26	predicate 1011 1014	top
+T27	predicate 1103 1108	Chill
+T28	arg_object 6 18	the potatoes
+T29	ingredient 6 18	the potatoes
+T30	arg_location 19 35	into a large pot
+R1	object Arg1:T1 Arg2:T28	
+R2	location Arg1:T1 Arg2:T30	
+R3	object Arg1:T2 Arg2:T1	
+T31	arg_co-object 46 63	with salted water
+T32	ingredient 51 63	salted water
+R4	co-object Arg1:T2 Arg2:T31	
+R5	object Arg1:T3 Arg2:T2	
+T33	arg_other 71 80	to a boil
+T34	arg_other 81 95	over high heat
+R6	other Arg1:T3 Arg2:T33	
+R7	other Arg1:T3 Arg2:T34	
+T35	arg_object 109 113	heat
+R8	co-object Arg1:T4 Arg2:T3	
+R9	object Arg1:T4 Arg2:T35	
+T36	arg_other 114 127	to medium-low
+R10	other Arg1:T4 Arg2:T36	
+R11	object Arg1:T5 Arg2:T4	
+R12	object Arg1:T6 Arg2:T5	
+T37	arg_duration 147 177	until tender, about 20 minutes
+R13	duration Arg1:T6 Arg2:T37	
+R14	object Arg1:T7 Arg2:T6	
+R15	co-object Arg1:T7 Arg2:T6	
+R16	object Arg1:T8 Arg2:T7	
+T38	arg_other 195 207	to steam dry
+T39	arg_duration 208 227	for a minute or two
+R17	other Arg1:T8 Arg2:T38	
+R18	duration Arg1:T8 Arg2:T39	
+T40	arg_other 235 242	to cool
+R19	other Arg1:T9 Arg2:T40	
+R20	object Arg1:T9 Arg2:T8	
+T41	predicate 244 248	peel
+T42	predicate 254 257	cut
+R21	object Arg1:T41 Arg2:T9	
+R22	object Arg1:T42 Arg2:T41	
+T43	arg_other 258 268	into cubes
+R23	other Arg1:T42 Arg2:T43	
+T44	arg_object 276 284	the eggs
+T45	ingredient 276 284	the eggs
+R24	object Arg1:T10 Arg2:T44	
+T46	arg_location 285 300	into a saucepan
+T47	arg_other 301 318	in a single layer
+R25	location Arg1:T10 Arg2:T46	
+R26	other Arg1:T10 Arg2:T47	
+R27	object Arg1:T11 Arg2:T10	
+T48	arg_co-object 328 338	with water
+T49	ingredient 333 338	water
+R28	co-object Arg1:T11 Arg2:T48	
+T50	arg_other 339 366	to cover the eggs by 1 inch
+R29	other Arg1:T11 Arg2:T50	
+T51	arg_location 374 386	the saucepan
+R30	object Arg1:T12 Arg2:T11	
+R31	location Arg1:T12 Arg2:T51	
+R32	same-location Arg1:T51 Arg2:T46	
+T52	arg_object 397 406	the water
+T53	Evolution 397 406	the water
+E1	Evolution:T53 Cause:T12
+R33	object Arg1:T13 Arg2:T52	
+T54	arg_other 407 416	to a boil
+T55	arg_other 417 431	over high heat
+R34	other Arg1:T13 Arg2:T54	
+R35	other Arg1:T13 Arg2:T55	
+T56	arg_other 433 458	Once the water is boiling
+R36	other Arg1:T14 Arg2:T56	
+R37	object Arg1:T14 Arg2:T13	
+T57	arg_location 467 480	from the heat
+R38	location Arg1:T14 Arg2:T57	
+T58	arg_object 489 497	the eggs
+T59	Evolution 489 497	the eggs
+E2	Evolution:T59 Cause:T14
+T60	arg_co-object 504 520	in the hot water
+T61	Evolution 507 520	the hot water
+E3	Evolution:T61 Cause:T14
+T62	arg_other 498 503	stand
+R39	object Arg1:T15 Arg2:T58	
+R40	other Arg1:T15 Arg2:T62	
+R41	co-object Arg1:T15 Arg2:T60	
+T63	arg_duration 521 535	for 15 minutes
+R42	duration Arg1:T15 Arg2:T63	
+R43	co-object Arg1:T16 Arg2:T15	
+T64	arg_object 546 559	the hot water
+T65	Evolution 546 559	the hot water
+E4	Evolution:T65 Cause:T15
+R44	object Arg1:T16 Arg2:T64	
+T66	arg_object 571 579	the eggs
+T67	Evolution 571 579	the eggs
+E5	Evolution:T67 Cause:T16
+R45	object Arg1:T17 Arg2:T66	
+T68	arg_location 580 616	under cold running water in the sink
+R46	location Arg1:T17 Arg2:T68	
+R47	object Arg1:T18 Arg2:T17	
+R48	object Arg1:T19 Arg2:T18	
+T69	arg_other 633 642	once cold
+R49	other Arg1:T18 Arg2:T69	
+T70	arg_object 652 677	1 attractive slice of egg
+T71	Evolution 652 677	1 attractive slice of egg
+E6	Evolution:T71 Cause:T19
+T72	arg_other 678 689	for garnish
+R50	object Arg1:T20 Arg2:T70	
+R51	other Arg1:T20 Arg2:T72	
+T73	arg_object 695 709	the mayonnaise
+T74	arg_object 714 721	mustard
+T75	ingredient 695 709	the mayonnaise
+T76	ingredient 714 721	mustard
+R52	object Arg1:T21 Arg2:T73	
+R53	object Arg1:T21 Arg2:T74	
+T77	arg_location 731 740	in a bowl
+R54	location Arg1:T21 Arg2:T77	
+T78	arg_location 742 763	In a large salad bowl
+T79	arg_other 765 772	lightly
+R55	other Arg1:T22 Arg2:T79	
+R56	location Arg1:T22 Arg2:T78	
+T80	arg_object 786 798	the potatoes
+T81	Evolution 786 798	the potatoes
+E7	Evolution:T81 Cause:T42
+T82	arg_object 800 804	eggs
+T84	arg_object 806 811	onion
+T85	ingredient 806 811	onion
+T83	Evolution 800 804	eggs
+E8	Evolution:T83 Cause:T19
+T86	arg_object 813 819	celery
+T87	ingredient 813 819	celery
+T88	arg_object 821 835	sweet gherkins
+T89	ingredient 821 835	sweet gherkins
+T90	arg_object 841 847	olives
+T91	ingredient 841 847	olives
+T92	arg_duration 848 873	until thoroughly combined
+R57	object Arg1:T22 Arg2:T80	
+R58	object Arg1:T22 Arg2:T82	
+R59	object Arg1:T22 Arg2:T84	
+R60	object Arg1:T22 Arg2:T86	
+R61	object Arg1:T22 Arg2:T88	
+R62	object Arg1:T22 Arg2:T90	
+R63	duration Arg1:T22 Arg2:T92	
+T93	arg_object 880 903	the mayonnaise dressing
+T94	Evolution 880 903	the mayonnaise dressing
+E9	Evolution:T94 Cause:T21
+T95	arg_co-object 904 918	over the salad
+T96	Evolution 909 918	the salad
+E10	Evolution:T96 Cause:T22
+R64	object Arg1:T23 Arg2:T93	
+R65	co-object Arg1:T23 Arg2:T95	
+R66	object Arg1:T24 Arg2:T23	
+T97	arg_other 941 978	to coat the ingredients with dressing
+R67	other Arg1:T24 Arg2:T97	
+R68	object Arg1:T25 Arg2:T24	
+T98	arg_other 987 995	to taste
+T99	arg_co-object 996 1005	with salt
+T100	ingredient 1001 1005	salt
+R69	other Arg1:T25 Arg2:T98	
+R70	co-object Arg1:T25 Arg2:T99	
+T101	arg_object 1015 1024	the salad
+T102	Evolution 1015 1024	the salad
+E11	Evolution:T102 Cause:T25
+R71	object Arg1:T26 Arg2:T101	
+T103	arg_co-object 1025 1089	with slices of green pepper and reserved egg slice in the center
+T104	ingredient 1030 1052	slices of green pepper
+T105	Evolution 1057 1075	reserved egg slice
+E12	Evolution:T105 Cause:T20
+R72	co-object Arg1:T26 Arg2:T103	
+T106	arg_other 1090 1101	for garnish
+R73	other Arg1:T26 Arg2:T106	
+R74	object Arg1:T27 Arg2:T26	
+T107	arg_duration 1109 1129	until ready to serve
+R75	duration Arg1:T27 Arg2:T107	

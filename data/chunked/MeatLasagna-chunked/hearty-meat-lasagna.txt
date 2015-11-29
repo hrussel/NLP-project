@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 180 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 180 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Heat oil in a large saucepan or Dutch oven set over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large saucepan or dutch oven
+    PREP: in
+
+PREDID: 1
+PRED: set
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Add onion , green pepper , garlic and dried herbs ;
+PREDID: 0
+PRED: add
+  DOBJ: onion , green pepper , garlic, dried herbs
+
+
+SENTID: 3
+SENT: cook for 5 to 10 minutes or until vegetables soften .
+PREDID: 0
+PRED: cook
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: vegetables soften
+    PREP: until
+
+
+SENTID: 4
+SENT: Crumble in beef and pork and brown all over , about 5 minutes .
+PREDID: 0
+PRED: crumble
+  PARG: beef, pork
+    PREP: in
+
+PREDID: 1
+PRED: brown
+  DOBJ: all over
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 5
+SENT: Stir in tomato juice , chili sauce , tomato paste and Worcestershire Sauce ;
+PREDID: 0
+PRED: stir
+  PARG: tomato juice , chili sauce , tomato paste, worcestershire sauce
+    PREP: in
+
+
+SENTID: 6
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Reduce heat to medium-low and simmer for 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Spread 1/4 of the sauce in to a 13 - x 9-in -LRB- 3 L -RRB- casserole dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 of the sauce
+  PARG: to a 13 - x 9-in -lrb- 3 l -rrb- casserole dish
+    PREP: in
+
+
+SENTID: 9
+SENT: Top with 3 noodles .
+PREDID: 0
+PRED: top
+  PARG: 3 noodles
+    PREP: with
+
+
+SENTID: 10
+SENT: Layer with 1/4 more sauce and 1/3 of the cheese .
+PREDID: 0
+PRED: layer
+  PARG: 1/4 more sauce, 1/3 of the cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Repeat layers twice , ending with cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  PARG: cheese
+    PREP: with
+  OARG: twice
+
+
+SENTID: 12
+SENT: Cover with foil and bake for 1 hour .
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 13
+SENT: Remove foil and bake for 15 minutes or until golden .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: 15 minutes
+    PREP: for
+  PARG: golden
+    PREP: until
+
+
+SENTID: 14
+SENT: Let stand for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

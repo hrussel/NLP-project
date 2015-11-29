@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Heat vegetable oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add chile peppers , onion , garlic , and ginger ;
+PREDID: 0
+PRED: add
+  DOBJ: chile peppers , onion , garlic , ginger
+
+
+SENTID: 5
+SENT: cook until fragrant , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: fragrant , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Add 5 tablespoons dark soy sauce ;
+PREDID: 0
+PRED: add
+  DOBJ: 5 tablespoons dark soy sauce
+
+
+SENTID: 7
+SENT: fry for 1 more minute .
+PREDID: 0
+PRED: fry
+  PARG: 1 more minute
+    PREP: for
+
+
+SENTID: 8
+SENT: Cook and stir chicken in the onion mixture over high heat until chicken is no longer pink in the center , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+
+PREDID: 1
+PRED: stir
+  PARG: the onion mixture
+    PREP: in
+  PARG: high heat
+    PREP: over
+  PARG: chicken is no longer pink in the center , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Add green bell pepper and carrots and cook until softened , about 5 more minutes .
+PREDID: 0
+PRED: add
+  DOBJ: green bell pepper, carrots
+
+PREDID: 1
+PRED: cook
+  PARG: softened , about 5 more minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Gently fold noodles into chicken mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: noodles
+  PARG: chicken mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 11
+SENT: Mix in white pepper , 5 more tablespoons dark soy sauce , and cilantro until heated through , about 5 minutes .
+PREDID: 0
+PRED: mix
+  PARG: white pepper , 5 more tablespoons dark soy sauce , cilantro
+    PREP: in
+  PARG: heated through , about 5 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Sprinkle with green onion to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: green onion
+    PREP: with
+  PARG: serve
+    PREP: to
+

@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: In a blender or food processor , puree the onion and celery ;
+PREDID: 0
+PRED: puree
+  DOBJ: the onion, celery
+  PARG: a blender or food processor
+    PREP: in
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Melt 2 tablespoons margarine in a large saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons margarine
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Stir in the onion and celery puree and the poblano chile pepper .
+PREDID: 0
+PRED: stir
+  PARG: the onion, celery puree, the poblano chile pepper
+    PREP: in
+
+
+SENTID: 4
+SENT: Stirring constantly , cook about 5 minutes , until tender .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: 5 minutes
+    PREP: about
+  PARG: tender
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 5
+SENT: Mix in heavy cream , half-and-half cream , sugar , and lobster base .
+PREDID: 0
+PRED: mix
+  PARG: heavy cream , half-and-half cream , sugar , lobster base
+    PREP: in
+
+
+SENTID: 6
+SENT: Season with chile de arbol and black pepper .
+PREDID: 0
+PRED: season
+  PARG: chile
+    PREP: with
+  PARG: arbol, black pepper
+    PREP: de
+
+
+SENTID: 7
+SENT: Stirring often , bring to a gentle boil .
+PREDID: 0
+PRED: bring
+  DOBJ: stirring
+  PARG: a gentle boil
+    PREP: to
+  OARG: often
+
+
+SENTID: 8
+SENT: Melt 1/2 cup margarine in a medium saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1/2 cup margarine
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Mix in the flour , and stir constantly until thickened .
+PREDID: 0
+PRED: mix
+  PARG: the flour
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: thickened
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 10
+SENT: Remove from heat , and gradually mix into the large saucepan .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+  OARG: gradually
+
+PREDID: 1
+PRED: mix
+  PARG: the large saucepan
+    PREP: into
+
+
+SENTID: 11
+SENT: Cook and stir until the mixture is well blended and thickened .
+PREDID: 0
+PRED: cook
+  PARG: the mixture is well blended, thickened
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 12
+SENT: Mix cream-style corn and whole kernel corn into the large saucepan mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: cream-style corn, whole kernel corn
+  PARG: the large saucepan mixture
+    PREP: into
+
+
+SENTID: 13
+SENT: Stir in the shrimp , and cook 2 minutes , or until opaque .
+PREDID: 0
+PRED: stir
+  PARG: the shrimp
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: opaque
+    PREP: until
+  OARG: 2 minutes
+
+
+SENTID: 14
+SENT: Season with salt and sugar .
+PREDID: 0
+PRED: season
+  PARG: salt, sugar
+    PREP: with
+

@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground beef , eggs , onion , milk , bread crumbs , salt , and black pepper in a large bowl until completely combined to make the rat body mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , eggs , onion , milk , bread crumbs , salt , black pepper
+  PARG: a large bowl
+    PREP: in
+  PARG: completely combined to make the rat body mixture
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix Cheddar cheese , 3/4 bottle of barbeque sauce , and 1 cup French-fried onions together gently in a separate bowl to make the rat guts .
+PREDID: 0
+PRED: mix
+  DOBJ: cheddar cheese , 3/4 bottle of barbeque sauce , 1 cup french-fried onions
+  PARG: a separate bowl
+    PREP: in
+  PARG: make the rat guts
+    PREP: to
+  OARG: together
+  OARG: gently
+
+
+SENTID: 3
+SENT: Put about half the rat body mixture onto a sheet of waxed paper and form it into the shape of a rat body .
+PREDID: 0
+PRED: put
+  PARG: half the rat body mixture
+    PREP: about
+  PARG: a sheet of waxed paper
+    PREP: onto
+
+PREDID: 1
+PRED: form
+  DOBJ: it
+  PARG: the shape of a rat body
+    PREP: into
+
+
+SENTID: 4
+SENT: Spread a thick layer of the cheese mixture on top of the body leaving 1/2 inch of space along the outer edge .
+PREDID: 0
+PRED: spread
+  DOBJ: a thick layer of the cheese mixture
+  PARG: top of the body
+    PREP: on
+  PARG: the outer edge
+    PREP: along
+
+
+SENTID: 5
+SENT: Put remaining rat body mixture on top , forming the body and creating a solid seal around the edges so the guts do n't ooze out while baking .
+PREDID: 0
+PRED: put
+  DOBJ: remaining rat body mixture
+  PARG: top
+    PREP: on
+  PARG: the edges
+    PREP: around
+  PARG: while baking
+    PREP: out
+  OARG: so
+  OARG: n't
+
+
+SENTID: 6
+SENT: Place the top part of a broiler pan on the rat and carefully flip it over .
+PREDID: 0
+PRED: place
+  DOBJ: the top part of a broiler pan
+  PARG: the rat
+    PREP: on
+  OARG: carefully
+
+PREDID: 1
+PRED: flip
+  DOBJ: over
+  OARG: it
+
+
+SENTID: 7
+SENT: Reshape rat body as needed .
+PREDID: 0
+PRED: reshape
+  DOBJ: rat body
+  PARG: needed
+    PREP: as
+
+
+SENTID: 8
+SENT: Place olives onto the rat body for the eyes and nose , potato slices for the ears , and spaghetti for the whiskers .
+PREDID: 0
+PRED: place
+  DOBJ: olives
+  PARG: the rat body
+    PREP: onto
+  PARG: the eyes, nose , potato slices
+    PREP: for
+  PARG: the ears , spaghetti
+    PREP: for
+  PARG: the whiskers
+    PREP: for
+
+
+SENTID: 9
+SENT: Spread 1/4 bottle barbeque sauce over the body of the rat and sprinkle with crushed French-fried onions .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 bottle barbeque sauce
+  PARG: the body of the rat
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: crushed french-fried onions
+    PREP: with
+
+
+SENTID: 10
+SENT: Set the broiler rack atop the broiler pan .
+PREDID: 0
+PRED: set
+  DOBJ: the broiler rack
+  PARG: the broiler pan
+    PREP: atop
+
+
+SENTID: 11
+SENT: Bake in preheated oven until the cheese is melted , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the cheese is melted , about 1 hour
+    PREP: until
+
+
+SENTID: 12
+SENT: Allow ratloaf to cool 5 minutes before slicing to serve .
+PREDID: 0
+PRED: allow
+  DOBJ: ratloaf
+  PARG: slicing
+    PREP: before
+  PARG: serve
+    PREP: to
+  OARG: to cool 5 minutes
+

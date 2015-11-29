@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Spread onion slices and garlic cloves in the bottom of a slow cooker ;
+PREDID: 0
+PRED: spread
+  DOBJ: onion slices, garlic cloves
+  PARG: the bottom of a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: stir in beef broth , barbeque sauce , brown sugar , cider vinegar , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: beef broth , barbeque sauce , brown sugar , cider vinegar , pepper
+    PREP: in
+
+
+SENTID: 2
+SENT: Add pork roast .
+PREDID: 0
+PRED: add
+  DOBJ: pork roast
+
+
+SENTID: 3
+SENT: Cover and cook on Low for 6 to 8 hours .
+PREDID: 0
+PRED: cover
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 6 to 8 hours
+    PREP: for
+
+
+SENTID: 4
+SENT: Remove pork from slow cooker .
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: slow cooker
+    PREP: from
+
+
+SENTID: 5
+SENT: Strain juices and return to the slow cooker .
+PREDID: 0
+PRED: strain
+  DOBJ: juices
+
+PREDID: 1
+PRED: return
+  PARG: the slow cooker
+    PREP: to
+
+
+SENTID: 6
+SENT: Mix water and cornstarch in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: water, cornstarch
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: stir into juices until sauce is thickened .
+PREDID: 0
+PRED: stir
+  PARG: juices
+    PREP: into
+  PARG: sauce is thickened
+    PREP: until
+

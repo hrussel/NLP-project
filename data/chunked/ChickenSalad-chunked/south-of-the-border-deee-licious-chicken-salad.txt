@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: In a large bowl , combine the chicken , tomatoes , red onion , jicama , cilantro and lime juice .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , tomatoes , red onion , jicama , cilantro, lime juice
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Toss together well .
+PREDID: 0
+PRED: toss
+  OARG: together
+  OARG: well
+
+
+SENTID: 2
+SENT: Garnish with slices of avocado , season with salt and pepper and serve immediately .
+PREDID: 0
+PRED: garnish
+  PARG: slices of avocado
+    PREP: with
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 2
+PRED: serve
+  OARG: immediately
+

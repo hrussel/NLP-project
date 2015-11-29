@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Heat olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir sweet onion and garlic in the hot oil until the onion is tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: sweet onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: the onion is tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Break ground beef into the skillet ;
+PREDID: 0
+PRED: break
+  DOBJ: ground beef
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 3
+SENT: cook and stir until browned and crumbly , 5 to 7 minutes more .
+PREDID: 0
+PRED: cook
+  PARG: browned, crumbly , 5 to 7 minutes more
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Reduce heat to medium-low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir chili sauce , Worcestershire sauce , garlic powder , chili powder , salt , and pepper into the beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: chili sauce , worcestershire sauce , garlic powder , chili powder , salt , pepper
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Pour cheese spread into the skillet ;
+PREDID: 0
+PRED: pour
+  DOBJ: cheese
+
+PREDID: 1
+PRED: spread
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 7
+SENT: cook and stir until the cheese spread is melted evenly through the beef mixture , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the cheese
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: spread
+  DOBJ: is melted
+  OARG: evenly
+  OARG: the beef mixture , 3 to 5 minutes
+
+
+SENTID: 8
+SENT: Transfer beef mixture to a serving dish .
+PREDID: 0
+PRED: transfer
+  DOBJ: beef mixture
+  PARG: a serving dish
+    PREP: to
+
+
+SENTID: 9
+SENT: Layer lettuce , tomatoes , and pickles atop the beef mixture to serve .
+PREDID: 0
+PRED: layer
+  DOBJ: lettuce , tomatoes , pickles
+  PARG: the beef mixture
+    PREP: atop
+  PARG: serve
+    PREP: to
+

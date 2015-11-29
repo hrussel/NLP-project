@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a large bowl mix the chicken , celery , water chestnuts , mushrooms , mayonnaise , lemon juice , salt , onion , and almonds .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , celery , water chestnuts , mushrooms , mayonnaise , lemon juice , salt , onion , almonds
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Transfer to the baking dish , and top with Cheddar cheese and crushed potato chips .
+PREDID: 0
+PRED: transfer
+  PARG: the baking dish
+    PREP: to
+
+PREDID: 1
+PRED: top
+  PARG: cheddar cheese, crushed potato chips
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake in the preheated oven for 30 minutes , until lightly browned
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: lightly browned
+    PREP: until
+

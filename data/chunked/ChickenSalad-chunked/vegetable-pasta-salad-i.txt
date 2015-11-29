@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bake chicken breast halves in a preheated oven until the juices run clear .
+PREDID: 0
+PRED: bake
+  DOBJ: chicken breast halves
+  PARG: a preheated oven
+    PREP: in
+  PARG: the juices run clear
+    PREP: until
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add rotini pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: rotini pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: 4 minutes before the pasta is ready , add frozen vegetables .
+PREDID: 0
+PRED: add
+  DOBJ: frozen vegetables
+  PARG: the pasta is ready
+    PREP: before
+  OARG: 4 minutes
+
+
+SENTID: 6
+SENT: When pasta is cooked , remove pasta and vegetables from heat , drain .
+PREDID: 0
+PRED: remove
+  DOBJ: pasta, vegetables
+  PARG: heat
+    PREP: from
+  OARG: when pasta is cooked
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 7
+SENT: Cut chicken into small cubes and add to the pasta-vegetable mix .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: small cubes
+    PREP: into
+
+PREDID: 1
+PRED: add
+  PARG: the pasta-vegetable mix
+    PREP: to
+
+
+SENTID: 8
+SENT: Season with olive oil , pepper , salt .
+PREDID: 0
+PRED: season
+  PARG: olive oil , pepper , salt
+    PREP: with
+

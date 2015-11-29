@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: Bring a pot of water to a simmer over low heat .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of water
+  PARG: a simmer
+    PREP: to
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the chicken breast to the water and cook until no longer pink in the center and the juices run clear , about 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken breast
+  PARG: the water
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: no longer pink in the center, the juices run clear , about 30 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove the chicken from the water and allow to cool before shredding the meat into a large bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+  PARG: the water
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: shredding the meat
+    PREP: before
+  PARG: a large bowl
+    PREP: into
+  OARG: to cool
+
+
+SENTID: 3
+SENT: While the chicken cooks , bring a pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of lightly salted water
+  PARG: the chicken cooks
+    PREP: while
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook the macaroni at a boil until cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the macaroni
+  PARG: a boil
+    PREP: at
+  PARG: cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain and rinse with cool water to halt the cooking process until the pasta is cool to the touch .
+PREDID: 0
+PRED: drain
+  PARG: cool water
+    PREP: with
+
+PREDID: 1
+PRED: rinse
+  PARG: halt the cooking
+    PREP: to
+
+PREDID: 2
+PRED: process
+  PARG: the pasta is
+    PREP: until
+
+PREDID: 3
+PRED: cool
+  PARG: the touch
+    PREP: to
+
+
+SENTID: 6
+SENT: Add to the bowl with the chicken .
+PREDID: 0
+PRED: add
+  PARG: the bowl
+    PREP: to
+  PARG: the chicken
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir the pineapple , apple , celery , carrot , and raisins to the bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: the pineapple , apple , celery , carrot , raisins
+  PARG: the bowl
+    PREP: to
+
+
+SENTID: 8
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 9
+SENT: Add the mayonnaise , sugar , and seasoned salt ;
+PREDID: 0
+PRED: add
+  DOBJ: the mayonnaise , sugar , seasoned salt
+
+
+SENTID: 10
+SENT: gently stir the mixture until evenly coated .
+PREDID: 0
+PRED: stir
+  DOBJ: the mixture
+  PARG: evenly coated
+    PREP: until
+  OARG: gently
+
+
+SENTID: 11
+SENT: Refrigerate at least 30 minutes before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 30 minutes
+    PREP: at
+  PARG: serving
+    PREP: before
+

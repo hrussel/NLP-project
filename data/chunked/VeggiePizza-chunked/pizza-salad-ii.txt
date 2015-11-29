@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a large pot of salted boiling water , cook pasta until al dente , rinse under cold water and drain .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of salted boiling water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: under
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 1
+SENT: In a large bowl , combine the pasta , red bell pepper , green bell pepper , tomato , green onions , mushrooms , pepperoni , olives , garlic , oregano , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: the pasta , red bell pepper , green bell pepper , tomato , green onions , mushrooms , pepperoni , olives , garlic , oregano , salt, pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Toss together and refrigerate until chilled .
+PREDID: 0
+PRED: toss
+  PARG: chilled
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 3
+SENT: Before serving , add dressing and cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: dressing
+  PARG: serving
+    PREP: before
+
+PREDID: 1
+PRED: cheese
+
+
+SENTID: 4
+SENT: mix together well .
+PREDID: 0
+PRED: mix
+  OARG: together
+  OARG: well
+

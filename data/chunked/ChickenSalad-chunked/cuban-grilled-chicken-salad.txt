@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Toss the romaine with the onion , avocado , and peppers in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the romaine
+  PARG: the onion , avocado , peppers
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Divide among four salad plates .
+PREDID: 0
+PRED: divide
+  PARG: four salad plates
+    PREP: among
+
+
+SENTID: 2
+SENT: Top each salad with a mound of black beans , some pineapple chunks , and the chopped chicken meat .
+PREDID: 0
+PRED: top
+  DOBJ: each salad
+  PARG: a mound of black beans , some pineapple chunks , the chopped chicken meat
+    PREP: with
+
+
+SENTID: 3
+SENT: Whisk together the olive oil with the garlic , salt , and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the olive oil
+  PARG: the garlic , salt , pepper
+    PREP: with
+  OARG: together
+
+
+SENTID: 4
+SENT: Drizzle this dressing over each salad along with a little lime juice .
+PREDID: 0
+PRED: drizzle
+  DOBJ: this dressing
+  PARG: each salad
+    PREP: over
+  PARG: with a little lime juice
+    PREP: along
+

@@ -1,0 +1,69 @@
+T1	predicate 0 4	Cook
+T2	predicate 43 49	Remove
+T3	predicate 64 67	set
+T4	predicate 101 106	whisk
+T5	predicate 165 172	Stir in
+T6	predicate 239 244	Cover
+T7	predicate 249 260	refrigerate
+T9	predicate 295 303	sprinkle
+T10	arg_object 5 9	rice
+T11	ingredient 5 9	rice
+R1	object Arg1:T1 Arg2:T10	
+T12	arg_other 10 41	according to package directions
+R2	other Arg1:T1 Arg2:T12	
+R3	object Arg1:T2 Arg2:T1	
+T13	arg_location 50 59	from heat
+R5	object Arg1:T3 Arg2:T2	
+R4	location Arg1:T2 Arg2:T13	
+T14	arg_other 68 73	aside
+T15	arg_other 74 81	to cool
+R6	other Arg1:T3 Arg2:T14	
+R7	other Arg1:T3 Arg2:T15	
+T16	arg_location 83 99	In a medium bowl
+R8	location Arg1:T4 Arg2:T16	
+T17	arg_other 107 115	together
+T18	arg_object 116 130	the mayonnaise
+T19	arg_object 132 139	vinegar
+T20	arg_object 141 146	sugar
+T21	arg_object 148 152	salt
+T22	arg_object 157 163	pepper
+T23	ingredient 157 163	pepper
+T24	ingredient 148 152	salt
+T25	ingredient 141 146	sugar
+T26	ingredient 132 139	vinegar
+T27	ingredient 116 130	the mayonnaise
+R9	other Arg1:T4 Arg2:T17	
+R10	object Arg1:T4 Arg2:T18	
+R11	object Arg1:T4 Arg2:T19	
+R12	object Arg1:T4 Arg2:T20	
+R13	object Arg1:T4 Arg2:T21	
+R14	object Arg1:T4 Arg2:T22	
+R15	co-object Arg1:T5 Arg2:T4	
+T28	arg_object 173 177	rice
+T29	Evolution 173 177	rice
+E1	Evolution:T29 Cause:T3
+T30	arg_object 179 185	turkey
+T31	ingredient 179 185	turkey
+T32	arg_object 187 192	onion
+T33	ingredient 187 192	onion
+T34	arg_object 197 203	grapes
+T36	arg_duration 204 237	until evenly coated with dressing
+T35	ingredient 197 203	grapes
+R16	object Arg1:T5 Arg2:T28	
+R17	object Arg1:T5 Arg2:T30	
+R18	object Arg1:T5 Arg2:T32	
+R19	object Arg1:T5 Arg2:T34	
+R20	duration Arg1:T5 Arg2:T36	
+R21	object Arg1:T6 Arg2:T5	
+R22	object Arg1:T7 Arg2:T6	
+T37	arg_duration 261 277	for 1 to 2 hours
+R23	duration Arg1:T7 Arg2:T37	
+T38	arg_object 304 320	slivered almonds
+T39	ingredient 304 320	slivered almonds
+R25	object Arg1:T9 Arg2:T38	
+T40	arg_co-object 321 346	over the top of the salad
+T41	Evolution 326 346	the top of the salad
+E2	Evolution:T41 Cause:T7
+R26	co-object Arg1:T9 Arg2:T40	
+T8	arg_other 279 293	Before serving
+R24	other Arg1:T9 Arg2:T8	

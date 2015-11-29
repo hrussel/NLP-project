@@ -1,0 +1,62 @@
+digraph recipe {
+E0[label="melt (S0,P0)", shape=oval, style=filled, fillcolor=azure]
+E1[label="cook and stir (S0,P1)", shape=oval, style=filled, fillcolor=azure]
+E2[label="remove (S1,P2)", shape=oval, style=filled, fillcolor=azure]
+E3[label="transfer (S1,P3)", shape=oval, style=filled, fillcolor=azure]
+E4[label="stir (S2,P4)", shape=oval, style=filled, fillcolor=azure]
+E5[label="whisk (S3,P5)", shape=oval, style=filled, fillcolor=azure]
+E6[label="pour (S3,P6)", shape=oval, style=filled, fillcolor=azure]
+E7[label="toss (S3,P7)", shape=oval, style=filled, fillcolor=azure]
+D0[label="DOBJ: butter
+(text: butter)", shape=box, style=filled, fillcolor=peachpuff]
+D0 -> E0
+P0_0[label="PREP: in a large skillet", shape=box, style=filled, fillcolor=white]
+P0_0 -> E0
+O0_0[label="OTHER: over medium heat", shape=box, style=filled, fillcolor=white]
+O0_0 -> E0
+D5[label="DOBJ: soy sauce
+(text: soy sauce)", shape=box, style=filled, fillcolor=peachpuff]
+D5 -> E5
+P5_0[label="PREP: in a separate bowl", shape=box, style=filled, fillcolor=white]
+P5_0 -> E5
+O5_0[label="OTHER: white sugar
+(text: until sugar has dissolved)", shape=box, style=filled, fillcolor=peachpuff]
+O5_0 -> E5
+D1_ing[label="DOBJ: (3 ounce) package ramen noodles
+(text: ramen noodles)", shape=box, style=filled, fillcolor=peachpuff]
+D1_ing -> E1
+E0 -> E1 [label="OUTPUT: 
+INPUT: in hot butter"]
+O1_0_ing[label="OTHER: sunflower kernels
+(text: null until sunflower kernels are lightly browned)", shape=box, style=filled, fillcolor=peachpuff]
+O1_0_ing -> E1
+O1_0_0[label="OTHER: fragrant", shape=box, style=filled, fillcolor=white]
+O1_0_0 -> E1
+O1_0_1[label="OTHER:  3 to 5 minutes", shape=box, style=filled, fillcolor=white]
+O1_0_1 -> E1
+E1 -> E2 [label="OUTPUT: 
+INPUT: "]
+P2_0_0[label="PREP: from heat", shape=box, style=filled, fillcolor=white]
+P2_0_0 -> E2
+E2 -> E3 [label="OUTPUT: 
+INPUT: "]
+P3_0_0[label="PREP: into a bowl", shape=box, style=filled, fillcolor=white]
+P3_0_0 -> E3
+O3_0_0[label="OTHER: to cool", shape=box, style=filled, fillcolor=white]
+O3_0_0 -> E3
+E3 -> E4 [label="OUTPUT: 
+INPUT: ramen noodles"]
+P4_0_ing[label="PREP: with head napa cabbage, spring onions
+(text: with spring onions, napa cabbage)", shape=box, style=filled, fillcolor=peachpuff]
+P4_0_ing -> E4
+P4_1_0[label="PREP: in a large salad bowl", shape=box, style=filled, fillcolor=white]
+P4_1_0 -> E4
+E5 -> E6 [label="OUTPUT: 
+INPUT: dressing"]
+E4 -> E6 [label="OUTPUT: 
+INPUT: over salad"]
+E6 -> E7 [label="OUTPUT: 
+INPUT: "]
+EOR[label="Bon appetit!", shape=oval, style=filled, fillcolor=plum]
+E7 -> EOR
+}

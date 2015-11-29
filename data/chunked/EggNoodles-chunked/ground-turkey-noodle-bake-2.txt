@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease an 8-inch square baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8-inch square baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Heat a large skillet over medium-high heat and stir in turkey and onion .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: turkey, onion
+    PREP: in
+
+
+SENTID: 6
+SENT: Cook and stir until turkey mixture is crumbly , evenly browned , and no longer pink , about 10 minutes ;
+PREDID: 0
+PRED: cook
+  PARG: turkey mixture is crumbly , evenly browned , no longer pink , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 8
+SENT: Stir in tomato sauce and Italian seasoning ;
+PREDID: 0
+PRED: stir
+  PARG: tomato sauce, italian seasoning
+    PREP: in
+
+
+SENTID: 9
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Reduce heat to low , cover , and simmer for 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Combine milk , cream cheese , parsley , and garlic in a small saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: milk , cream cheese , parsley , garlic
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 12
+SENT: Cook and stir over medium heat until cream cheese is melted , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: cream cheese is melted , about 5 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Toss noodles with cream cheese mixture ;
+PREDID: 0
+PRED: toss
+  DOBJ: noodles
+  PARG: cream cheese mixture
+    PREP: with
+
+
+SENTID: 14
+SENT: transfer to prepared baking dish .
+PREDID: 0
+PRED: transfer
+  PARG: prepared baking dish
+    PREP: to
+
+
+SENTID: 15
+SENT: Top with turkey mixture and sprinkle with mozzarella cheese .
+PREDID: 0
+PRED: top
+  PARG: turkey mixture
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake in preheated oven until cheese is melted , 15 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: cheese is melted , 15 to 30 minutes
+    PREP: until
+

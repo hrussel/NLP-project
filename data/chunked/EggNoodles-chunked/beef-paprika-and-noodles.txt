@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Heat oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir steak in hot oil until browned completely , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: steak
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: browned completely , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir water , ketchup , onion , Worcestershire sauce , brown sugar , paprika , mustard , garlic , salt , and pepper with the beef in the pot ;
+PREDID: 0
+PRED: stir
+  DOBJ: water , ketchup , onion , worcestershire sauce , brown sugar , paprika , mustard , garlic , salt , pepper
+  PARG: the beef
+    PREP: with
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 3
+SENT: bring to a boil , reduce heat to low , and cook at a simmer until meat is tender and the sauce thickens , 2 to 3 hours .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: a simmer
+    PREP: at
+  PARG: meat is tender, the sauce thickens , 2 to 3 hours
+    PREP: until
+
+
+SENTID: 4
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: Ladle beef mixture over noodles to serve .
+PREDID: 0
+PRED: ladle
+  DOBJ: beef mixture
+  PARG: noodles
+    PREP: over
+  PARG: serve
+    PREP: to
+

@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil , cook the egg noodles 6 to 8 minutes , until al dente , and drain .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: al dente
+    PREP: until
+  OARG: the egg noodles 6 to 8 minutes
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 1
+SENT: Heat the oil in a skillet over medium heat , and saute the garlic about 1 minute .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  DOBJ: the garlic
+  PARG: 1 minute
+    PREP: about
+
+
+SENTID: 2
+SENT: Stir in the spinach , and cook about 1 minute .
+PREDID: 0
+PRED: stir
+  PARG: the spinach
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 1 minute
+    PREP: about
+
+
+SENTID: 3
+SENT: Mix in the cooked egg noodles , chile paste , and ketchup , and toss until well coated .
+PREDID: 0
+PRED: mix
+  PARG: the cooked egg noodles , chile paste , ketchup
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 4
+SENT: Make a hole in the center of the noodle mixture .
+PREDID: 0
+PRED: make
+  DOBJ: a hole
+  PARG: the center of the noodle mixture
+    PREP: in
+
+
+SENTID: 5
+SENT: Place the egg in the center , and scramble , tossing with the noodles just before egg is finished cooking .
+PREDID: 0
+PRED: place
+  DOBJ: the egg
+  PARG: the center
+    PREP: in
+
+PREDID: 1
+PRED: scramble
+  DOBJ: tossing
+  PARG: the noodles
+    PREP: with
+  PARG: egg is finished cooking
+    PREP: before
+  OARG: just
+
+
+SENTID: 6
+SENT: Mix the sugar and enough water to keep the mixture moist into the skillet .
+PREDID: 0
+PRED: mix
+  DOBJ: the sugar
+  PARG: keep the mixture moist
+    PREP: to
+  PARG: the skillet
+    PREP: into
+  OARG: enough
+
+
+SENTID: 7
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Continue to cook , stirring constantly , about 6 minutes .
+PREDID: 0
+PRED: continue
+  PARG: cook , stirring
+    PREP: to
+  PARG: 6 minutes
+    PREP: about
+  OARG: constantly
+
+
+SENTID: 9
+SENT: Toss in the sprouts and peas , and cook and stir about 4 minutes , until heated through .
+PREDID: 0
+PRED: toss
+  PARG: the sprouts, peas
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 4 minutes
+    PREP: about
+
+PREDID: 2
+PRED: stir
+  PARG: heated through
+    PREP: until
+

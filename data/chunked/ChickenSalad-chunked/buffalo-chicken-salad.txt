@@ -1,0 +1,8 @@
+SENTID: 0
+SENT: Combine the chicken , ranch dressing , buffalo wing sauce , celery , green onions , salt and pepper in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , ranch dressing , buffalo wing sauce , celery , green onions , salt, pepper
+  PARG: a bowl
+    PREP: in
+

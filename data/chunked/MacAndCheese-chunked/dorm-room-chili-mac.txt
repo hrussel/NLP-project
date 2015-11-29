@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: Cook macaroni and cheese in a saucepan on the stovetop according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni, cheese
+  PARG: a saucepan
+    PREP: in
+  PARG: the stovetop according
+    PREP: on
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Once macaroni and cheese is done , stir in chili , and cook over medium heat until hot , about 2 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: macaroni, cheese is done
+  PARG: chili
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: hot , about 2 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Sprinkle with shredded cheese to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: shredded cheese
+    PREP: with
+  PARG: serve
+    PREP: to
+

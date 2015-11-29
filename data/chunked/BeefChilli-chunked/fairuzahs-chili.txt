@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: In a large pot , combine the ground beef , ground turkey , and onion .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , ground turkey , onion
+  PARG: a large pot
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook , stirring , over medium heat until meat is cooked through , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: medium heat
+    PREP: over
+  PARG: meat is cooked through , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in the kidney beans , baked beans , tomatoes , and mushrooms .
+PREDID: 0
+PRED: stir
+  PARG: the kidney beans , baked beans , tomatoes , mushrooms
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with chili powder , garlic , garlic powder , cinnamon , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: chili powder , garlic , garlic powder , cinnamon , salt , pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Reduce heat to low , and simmer for at least 1 hour , stirring occasionally .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: at least 1 hour , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: After the first half-hour has passed , taste , and adjust seasonings to suit your preference .
+PREDID: 0
+PRED: taste
+  PARG: the first half-hour has passed
+    PREP: after
+
+PREDID: 1
+PRED: adjust
+  DOBJ: seasonings
+  PARG: suit your preference
+    PREP: to
+

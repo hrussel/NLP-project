@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large saucepan over medium high heat , brown the ground beef for 5 to 10 minutes ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: 5 to 10 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 3
+SENT: Add the onion , salt , ground black pepper , chili powder , tomatoes , corn , peas and green beans .
+PREDID: 0
+PRED: add
+  DOBJ: the onion , salt , ground black pepper , chili powder , tomatoes , corn , peas, green beans
+
+
+SENTID: 4
+SENT: Reduce heat to low and let simmer .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low, let simmer
+    PREP: to
+
+
+SENTID: 5
+SENT: Meanwhile , in a large bowl , combine the buttermilk baking mix and the milk .
+PREDID: 0
+PRED: combine
+  DOBJ: the buttermilk baking mix, the milk
+  PARG: a large bowl
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Mix well to form a dough .
+PREDID: 0
+PRED: mix
+  PARG: form a dough
+    PREP: to
+  OARG: well
+
+
+SENTID: 7
+SENT: Split in half and roll dough out to line the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: split
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: roll
+  DOBJ: dough
+  PARG: to line the bottom of a 9x13 inch baking dish
+    PREP: out
+
+
+SENTID: 8
+SENT: Make sure dough covers the bottom and sides of the dish .
+PREDID: 0
+PRED: make
+  DOBJ: dough covers the bottom, sides of the dish
+  OARG: sure
+
+
+SENTID: 9
+SENT: After the beef mixture has simmered for about 15 to 20 minutes , pour into the baking dish over the dough .
+PREDID: 0
+PRED: pour
+  PARG: the beef mixture has simmered
+    PREP: after
+  PARG: about 15 to 20 minutes
+    PREP: for
+  PARG: the baking dish
+    PREP: into
+  PARG: the dough
+    PREP: over
+
+
+SENTID: 10
+SENT: Spoon the mashed potatoes over the beef mixture , spreading evenly .
+PREDID: 0
+PRED: spoon
+  DOBJ: the mashed potatoes
+  PARG: the beef mixture , spreading
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 11
+SENT: Layer the cheese over the potatoes .
+PREDID: 0
+PRED: layer
+  DOBJ: the cheese
+  PARG: the potatoes
+    PREP: over
+
+
+SENTID: 12
+SENT: Roll out the other half of the dough to fit over the top .
+PREDID: 0
+PRED: roll
+  PARG: the other half of the dough
+    PREP: out
+  PARG: fit
+    PREP: to
+  PARG: the top
+    PREP: over
+
+
+SENTID: 13
+SENT: Trim the edges and seal .
+PREDID: 0
+PRED: trim
+  DOBJ: the edges
+
+PREDID: 1
+PRED: seal
+
+
+SENTID: 14
+SENT: Bake at 450 degrees F -LRB- 230 degrees C -RRB- for 25 to 35 minutes , or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: at
+  PARG: 25 to 35 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+

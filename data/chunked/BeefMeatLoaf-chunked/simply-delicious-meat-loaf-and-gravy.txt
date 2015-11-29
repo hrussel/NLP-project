@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Mix thoroughly beef , bread crumbs and egg .
+PREDID: 0
+PRED: mix
+  DOBJ: beef , bread crumbs, egg
+  OARG: thoroughly
+
+
+SENTID: 1
+SENT: Shape firmly into 8x4-inch loaf in baking pan .
+PREDID: 0
+PRED: shape
+  PARG: 8x4-inch loaf
+    PREP: into
+  PARG: baking pan
+    PREP: in
+  OARG: firmly
+
+
+SENTID: 2
+SENT: Bake at 350 degrees F for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Spread 1/2 can soup over top of meat loaf .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/2 can soup
+  PARG: top of meat loaf
+    PREP: over
+
+
+SENTID: 4
+SENT: Bake 30 minutes or until done .
+PREDID: 0
+PRED: bake
+  PARG: done
+    PREP: until
+  OARG: 30 minutes
+
+
+SENTID: 5
+SENT: Mix 2 tablespoons drippings , remaining soup and water in saucepan .
+PREDID: 0
+PRED: mix
+  DOBJ: 2 tablespoons drippings , remaining soup, water
+  PARG: saucepan
+    PREP: in
+
+
+SENTID: 6
+SENT: Heat through and serve with meat loaf .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+  PARG: meat loaf
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground beef , onion , bell pepper , 1 cup Cheddar cheese , Worcestershire sauce , sour cream , and crackers together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , onion , bell pepper , 1 cup cheddar cheese , worcestershire sauce , sour cream , crackers
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Place mixture on a baking dish and shape into a loaf .
+PREDID: 0
+PRED: place
+  DOBJ: mixture
+  PARG: a baking dish
+    PREP: on
+
+PREDID: 1
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until no longer pink in the center , 35 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , 35 to 40 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Heat the cream of mushroom soup , milk , and 1Ê1/2 cup Cheddar cheese in a saucepan over medium heat until the cheese has melted , about 10 minutes .
+PREDID: 0
+PRED: heat
+  DOBJ: the cream of mushroom soup , milk , 1Ê1/2 cup cheddar cheese
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the cheese has melted , about 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour sauce over the meatloaf before serving .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: the meatloaf
+    PREP: over
+  PARG: serving
+    PREP: before
+

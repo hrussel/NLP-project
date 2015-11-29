@@ -1,0 +1,213 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly coat a 9x13 inch pan with olive oil .
+PREDID: 0
+PRED: coat
+  DOBJ: a 9x13 inch pan
+  PARG: olive oil
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Heat oil in a frying pan over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a frying pan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook onions and garlic in oil until tender and semi-transparent .
+PREDID: 0
+PRED: cook
+  DOBJ: onions, garlic
+  PARG: oil
+    PREP: in
+  PARG: tender, semi-transparent
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in mushrooms , and cook until soft .
+PREDID: 0
+PRED: stir
+  PARG: mushrooms
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: soft
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 6
+SENT: In a sauce pan , combine spinach and 1/4 cup water .
+PREDID: 0
+PRED: combine
+  DOBJ: spinach, 1/4 cup water
+  PARG: a sauce pan
+    PREP: in
+
+
+SENTID: 7
+SENT: Cover , and cook over medium heat until wilted .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: wilted
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 9
+SENT: In a large bowl , mix together spinach , onion mixture , and ricotta cheese .
+PREDID: 0
+PRED: mix
+  DOBJ: spinach , onion mixture , ricotta cheese
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: In a frying pan , brown moose meat over medium-high heat , stirring frequently .
+PREDID: 0
+PRED: brown
+  DOBJ: moose meat
+  PARG: a frying pan
+    PREP: in
+  PARG: medium-high heat , stirring
+    PREP: over
+  OARG: frequently
+
+
+SENTID: 11
+SENT: When the pink color is almost gone , stir in the cocoa and brown sugar .
+PREDID: 0
+PRED: stir
+  DOBJ: gone
+  PARG: the cocoa, brown sugar
+    PREP: in
+  OARG: when the pink color is
+  OARG: almost
+
+
+SENTID: 12
+SENT: Once the meat is well browned , drain to remove excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: the meat is
+  PARG: remove excess grease
+    PREP: to
+  OARG: once
+  OARG: well
+
+
+SENTID: 13
+SENT: Stir in spaghetti sauce and water , and season with oregano , Italian seasoning , and salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: spaghetti sauce, water
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: oregano , italian seasoning , salt, pepper
+    PREP: with
+
+
+SENTID: 14
+SENT: Ladle enough of the meat sauce into a 9x13 inch baking dish to cover the bottom in a thin layer .
+PREDID: 0
+PRED: ladle
+  PARG: the meat sauce
+    PREP: of
+  PARG: a 9x13 inch baking dish
+    PREP: into
+  PARG: cover the bottom
+    PREP: to
+  PARG: a thin layer
+    PREP: in
+  OARG: enough
+
+
+SENTID: 15
+SENT: Arrange a single layer of oven ready noodles over the sauce .
+PREDID: 0
+PRED: arrange
+  DOBJ: a single layer of oven ready noodles
+  PARG: the sauce
+    PREP: over
+
+
+SENTID: 16
+SENT: Spread one half of the ricotta cheese mixture over the noodles , and top with some of the tomato sauce and a sprinkle of parmesan and mozzarella cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: one half of the ricotta cheese mixture
+  PARG: the noodles
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: some of the tomato sauce, a sprinkle of parmesan, mozzarella cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: Repeat with remaining ingredients , ending with a generous layer of mozzarella cheese .
+PREDID: 0
+PRED: repeat
+  PARG: remaining ingredients , ending
+    PREP: with
+  PARG: a generous layer of mozzarella cheese
+    PREP: with
+
+
+SENTID: 18
+SENT: Cover pan with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 19
+SENT: Bake for 45 minutes , or until lasagna is hot and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+  PARG: lasagna is hot, bubbly
+    PREP: until
+

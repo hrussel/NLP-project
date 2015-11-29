@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: In a large stock pot , cook the ground beef , ground pork , and chopped onions until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef , ground pork , chopped onions
+  PARG: a large stock pot
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain grease well .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+  OARG: well
+
+
+SENTID: 2
+SENT: Using the same stock pot , stir in the chopped mushrooms , whole tomatoes , tomato paste , oregano flakes , garlic cloves , bay leaves , dried basil , parsley flakes , salt and pepper to taste , and sugar .
+PREDID: 0
+PRED: stir
+  DOBJ: using the same stock pot
+  PARG: the chopped mushrooms , whole tomatoes , tomato paste , oregano flakes , garlic cloves , bay leaves , dried basil , parsley flakes , salt, pepper
+    PREP: in
+  PARG: taste , sugar
+    PREP: to
+
+
+SENTID: 3
+SENT: Simmer over low heat for one hour .
+PREDID: 0
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: one hour
+    PREP: for
+
+
+SENTID: 4
+SENT: In a large pot , cook lasagna noodles in boiling salted water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: Rinse with cool water , and drain well .
+PREDID: 0
+PRED: rinse
+  PARG: cool water
+    PREP: with
+
+PREDID: 1
+PRED: drain
+  OARG: well
+
+
+SENTID: 6
+SENT: In a separate bowl , combine cottage or ricotta cheese , eggs , and grated Parmesan cheese .
+PREDID: 0
+PRED: combine
+  DOBJ: cottage or ricotta cheese , eggs , grated parmesan cheese
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix grated Colby and mozzarella cheeses together in a medium bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: grated colby, mozzarella cheeses
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: In each 13x9 inch casserole dish layer 1/2 cup meat sauce , then noodles , Parmesan-egg mixture , and grated Colby-mozzarella cheese .
+PREDID: 0
+PRED: layer
+  DOBJ: noodles , parmesan-egg mixture , grated colby-mozzarella cheese
+  PARG: each 13x9 inch casserole dish
+    PREP: in
+  OARG: then
+  OARG: 1/2 cup meat sauce
+
+
+SENTID: 9
+SENT: Repeat until all ingredients are used up .
+PREDID: 0
+PRED: repeat
+  PARG: all ingredients are used up
+    PREP: until
+
+
+SENTID: 10
+SENT: Bake in a preheated 375 degree F -LRB- 190 degree C -RRB- oven for one hour and 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 375 degree f -lrb- 190 degree c -rrb- oven
+    PREP: in
+  PARG: one hour, 45 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Let stand 15 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 15 minutes
+

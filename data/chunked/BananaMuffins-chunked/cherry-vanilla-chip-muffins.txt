@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease or line a 12-cup muffin tin with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: a 12-cup muffin tin
+  OARG: lightly
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl blend the banana , egg substitute , soy milk , oil and applesauce together .
+PREDID: 0
+PRED: blend
+  DOBJ: the banana , egg substitute , soy milk , oil, applesauce
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in the rice flour , sucanat , baking powder and salt .
+PREDID: 0
+PRED: stir
+  PARG: the rice flour , sucanat , baking powder, salt
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix until just moistened then stir in the dried cherries and vanilla chips .
+PREDID: 0
+PRED: mix
+  PARG: just moistened
+    PREP: until
+
+PREDID: 1
+PRED: stir
+  PARG: the dried cherries, vanilla chips
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour batter into the prepared muffin tin , filling each cup 2/3 full .
+PREDID: 0
+PRED: pour
+  DOBJ: filling each cup 2/3 full
+  PARG: the prepared muffin tin
+    PREP: into
+  OARG: batter
+
+
+SENTID: 6
+SENT: Bake at 400 degrees F -LRB- 205 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+

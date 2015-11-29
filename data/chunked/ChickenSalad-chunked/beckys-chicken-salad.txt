@@ -1,0 +1,25 @@
+SENTID: 0
+SENT: In a medium bowl , whip cream to soft peaks .
+PREDID: 0
+PRED: whip
+  DOBJ: cream
+  PARG: a medium bowl
+    PREP: in
+  PARG: soft peaks
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine meat , celery , grapes , almonds , parsley , salt , and mayonnaise with whipped cream .
+PREDID: 0
+PRED: combine
+  DOBJ: meat , celery , grapes , almonds , parsley , salt , mayonnaise
+  PARG: whipped cream
+    PREP: with
+
+
+SENTID: 2
+SENT: Chill .
+PREDID: 0
+PRED: chill
+

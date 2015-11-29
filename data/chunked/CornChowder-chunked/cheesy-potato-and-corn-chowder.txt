@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: In large saucepan , melt margarine over medium high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: margarine
+  PARG: large saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add celery and onion ;
+PREDID: 0
+PRED: add
+  DOBJ: celery, onion
+
+
+SENTID: 2
+SENT: Add chicken broth ;
+PREDID: 0
+PRED: add
+  DOBJ: chicken broth
+
+
+SENTID: 3
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Add potatoes ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+
+SENTID: 5
+SENT: cook over low heat for 20 to 25 minutes or until potatoes are soft , stirring occasionally .
+PREDID: 0
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: 20 to 25 minutes
+    PREP: for
+  PARG: potatoes are soft , stirring occasionally
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in corn and chiles ;
+PREDID: 0
+PRED: stir
+  PARG: corn, chiles
+    PREP: in
+
+
+SENTID: 7
+SENT: return to boiling .
+PREDID: 0
+PRED: return
+  PARG: boiling
+    PREP: to
+
+
+SENTID: 8
+SENT: Dissolve gravy mix in milk ;
+PREDID: 0
+PRED: dissolve
+  DOBJ: gravy mix
+  PARG: milk
+    PREP: in
+
+
+SENTID: 9
+SENT: stir into boiling mixture .
+PREDID: 0
+PRED: stir
+  PARG: boiling mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Add cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: cheese
+
+
+SENTID: 11
+SENT: cook and stir over low heat until cheese is melted .
+PREDID: 0
+PRED: cook
+  PARG: low heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: cheese is melted
+    PREP: until
+

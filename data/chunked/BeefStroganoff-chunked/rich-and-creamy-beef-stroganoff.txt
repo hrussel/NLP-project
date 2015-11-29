@@ -1,0 +1,238 @@
+SENTID: 0
+SENT: Place the beef into a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the beef
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Stir in the red wine , salt , and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: the red wine , salt , black pepper
+    PREP: in
+
+
+SENTID: 2
+SENT: Marinate for 10 minutes , then remove the beef and pat dry with a paper towel .
+PREDID: 0
+PRED: marinate
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  DOBJ: the beef
+
+PREDID: 2
+PRED: pat
+  DOBJ: dry
+  PARG: a paper towel
+    PREP: with
+
+
+SENTID: 3
+SENT: Reserve the remaining marinade .
+PREDID: 0
+PRED: reserve
+  DOBJ: the remaining marinade
+
+
+SENTID: 4
+SENT: Heat the olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Stir in the beef ;
+PREDID: 0
+PRED: stir
+  PARG: the beef
+    PREP: in
+
+
+SENTID: 6
+SENT: cook and stir until browned , then transfer to a plate , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  PARG: browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: transfer
+  PARG: a plate , 5 to 7 minutes
+    PREP: to
+
+
+SENTID: 7
+SENT: Drain any remaining grease from the skillet .
+PREDID: 0
+PRED: drain
+  DOBJ: any remaining
+
+PREDID: 1
+PRED: grease
+  PARG: the skillet
+    PREP: from
+
+
+SENTID: 8
+SENT: Melt 2 tablespoons butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons butter
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Stir in the onion , garlic , and a pinch of salt .
+PREDID: 0
+PRED: stir
+  PARG: the onion , garlic , a pinch of salt
+    PREP: in
+
+
+SENTID: 10
+SENT: Cook and stir until the onion is soft and translucent .
+PREDID: 0
+PRED: cook
+  PARG: the onion is soft, translucent
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 11
+SENT: Transfer the onion mixture to the plate with the prepared beef ;
+PREDID: 0
+PRED: transfer
+  DOBJ: the onion mixture
+  PARG: the plate
+    PREP: to
+  PARG: the prepared beef
+    PREP: with
+
+
+SENTID: 12
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 13
+SENT: Melt another 2 tablespoons butter in the same skillet over medium heat , and stir in the mushrooms .
+PREDID: 0
+PRED: melt
+  DOBJ: another 2 tablespoons butter
+  PARG: the same skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the mushrooms
+    PREP: in
+
+
+SENTID: 14
+SENT: Place the cooked mushrooms in a bowl and set aside .
+PREDID: 0
+PRED: place
+  DOBJ: the cooked mushrooms
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 15
+SENT: Melt 1/4 cup of butter in the skillet .
+PREDID: 0
+PRED: melt
+  DOBJ: 1/4 cup of butter
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 16
+SENT: Whisk in the flour , cook and stir until the flour no longer tastes raw , about 4 minutes .
+PREDID: 0
+PRED: whisk
+  PARG: the flour , cook, stir
+    PREP: in
+  PARG: the flour no longer tastes raw , about 4 minutes
+    PREP: until
+
+
+SENTID: 17
+SENT: Slowly whisk in the beef stock .
+PREDID: 0
+PRED: whisk
+  PARG: the beef stock
+    PREP: in
+  OARG: slowly
+
+
+SENTID: 18
+SENT: Bring to a boil , stirring constantly , then reduce heat to medium low .
+PREDID: 0
+PRED: bring
+  DOBJ: reduce heat
+  PARG: a boil , stirring
+    PREP: to
+  PARG: medium low
+    PREP: to
+  OARG: constantly
+  OARG: then
+
+
+SENTID: 19
+SENT: Pour in the reserved red wine marinade , Worcestershire sauce , prepared mustard , and red pepper flakes , then add the beef and onion mixture .
+PREDID: 0
+PRED: pour
+  PARG: the reserved red wine marinade , worcestershire sauce , prepared mustard , red pepper flakes
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the beef, onion mixture
+
+
+SENTID: 20
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 21
+SENT: Stir in the mushrooms , sour cream , and cream cheese about 5 minutes before serving .
+PREDID: 0
+PRED: stir
+  PARG: the mushrooms , sour cream , cream cheese
+    PREP: in
+  PARG: 5 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+

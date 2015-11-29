@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine the vegetable juice , brown sugar , and Worcestershire sauce in a saucepan over medium heat ;
+PREDID: 0
+PRED: combine
+  DOBJ: the vegetable juice , brown sugar , worcestershire sauce
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: cook until the sauce thickens , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the sauce thickens , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Mix the ground beef , garlic powder , onion powder , ranch dressing mix , sage , salt , and pepper together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , garlic powder , onion powder , ranch dressing mix , sage , salt , pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Gradually sprinkle the bread crumbs into the meat while mixing so the crumbs are distributed evenly throughout ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the crumbs are distributed
+  PARG: the meat
+    PREP: into
+  PARG: mixing
+    PREP: while
+  OARG: gradually
+  OARG: so
+  OARG: the bread crumbs
+  OARG: evenly
+
+
+SENTID: 5
+SENT: add the egg and milk and continue mixing .
+PREDID: 0
+PRED: add
+  DOBJ: the egg, milk, continue mixing
+
+
+SENTID: 6
+SENT: Shape the mixture into a loaf and transfer to a loaf pan .
+PREDID: 0
+PRED: shape
+  DOBJ: the mixture
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: transfer
+  PARG: a loaf pan
+    PREP: to
+
+
+SENTID: 7
+SENT: Pour about half the sauce over the meatloaf .
+PREDID: 0
+PRED: pour
+  PARG: half the sauce
+    PREP: about
+  PARG: the meatloaf
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+
+
+SENTID: 9
+SENT: Cut the meatloaf into 6 even slices .
+PREDID: 0
+PRED: cut
+  DOBJ: the meatloaf
+  PARG: 6 even slices
+    PREP: into
+
+
+SENTID: 10
+SENT: Pour the remaining sauce over the slices to serve .
+PREDID: 0
+PRED: pour
+  DOBJ: the remaining sauce
+  PARG: the slices
+    PREP: over
+  PARG: serve
+    PREP: to
+

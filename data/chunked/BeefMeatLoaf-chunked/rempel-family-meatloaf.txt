@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir the ground beef , crushed crackers , Cheddar cheese , and onion soup mix in a large bowl until well combined .
+PREDID: 0
+PRED: stir
+  DOBJ: the ground beef , crushed crackers , cheddar cheese , onion soup
+
+PREDID: 1
+PRED: mix
+  PARG: a large bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Whisk the eggs , ketchup , and steak sauce in a separate bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , ketchup , steak sauce
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Mix the eggs into the meat until evenly combined , if the mixture seems too dry , add a little water .
+PREDID: 0
+PRED: mix
+  DOBJ: the eggs
+  PARG: the meat
+    PREP: into
+  PARG: evenly combined , if the mixture seems too dry , add a little water
+    PREP: until
+
+
+SENTID: 4
+SENT: Press into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: press
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in preheated oven until the meatloaf reaches 160 degrees F -LRB- 71 degrees C -RRB- and is no longer pink in the center , 45 to 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the meatloaf reaches 160 degrees f -lrb- 71 degrees c -rrb-, is no longer pink in the center , 45 to 60 minutes
+    PREP: until
+

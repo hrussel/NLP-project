@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: To prepare the dressing , whisk together the hoisin sauce , peanut butter , brown sugar , chili paste , ginger , vinegar , and sesame oil .
+PREDID: 0
+PRED: whisk
+  DOBJ: the hoisin sauce , peanut butter , brown sugar , chili paste , ginger , vinegar , sesame oil
+  OARG: to prepare the dressing
+  OARG: together
+
+
+SENTID: 1
+SENT: Grill or broil the chicken breasts until cooked , about 10 minutes .
+PREDID: 0
+PRED: grill
+  DOBJ: the chicken breasts
+
+PREDID: 1
+PRED: broil
+  PARG: cooked , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Cool and slice .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: slice
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Spray a large shallow pan with nonstick vegetable spray ;
+PREDID: 0
+PRED: spray
+  DOBJ: a large shallow pan
+  PARG: nonstick vegetable spray
+    PREP: with
+
+
+SENTID: 5
+SENT: arrange shredded wontons in a single layer and bake until golden brown , about 20 minutes .
+PREDID: 0
+PRED: arrange
+  DOBJ: shredded wontons
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: bake
+  PARG: golden brown , about 20 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 7
+SENT: In a large bowl , combine the chicken , wontons , lettuce , carrots , green onions and cilantro .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , wontons , lettuce , carrots , green onions, cilantro
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Toss with dressing and serve .
+PREDID: 0
+PRED: toss
+  PARG: dressing
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13-inch baking dish with cooking spray .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+  PARG: cooking spray
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Stir ground beef , onion , oats , Cheddar cheese , milk , egg , and salt together in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: ground beef , onion , oats , cheddar cheese , milk , egg , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 4
+SENT: Divide meat mixture into 8 equal portions and form each into a loaf shape .
+PREDID: 0
+PRED: divide
+  DOBJ: meat mixture
+  PARG: 8 equal portions
+    PREP: into
+
+PREDID: 1
+PRED: form
+  DOBJ: each into a loaf shape
+
+
+SENTID: 5
+SENT: Place loaves in prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: loaves
+  PARG: prepared baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir ketchup , brown sugar , and mustard together in a bowl until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: ketchup , brown sugar , mustard
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: Spread ketchup mixture over meat loaves .
+PREDID: 0
+PRED: spread
+  DOBJ: ketchup mixture
+  PARG: meat loaves
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until no longer pink in the center , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 40 minutes
+    PREP: until
+

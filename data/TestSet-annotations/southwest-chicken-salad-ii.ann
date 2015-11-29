@@ -1,0 +1,52 @@
+T1	predicate 38 42	cook
+T2	predicate 81 87	Season
+T3	predicate 127 131	toss
+T4	predicate 216 224	Transfer
+T5	predicate 264 267	top
+T6	arg_location 0 19	In a small saucepan
+T7	arg_other 20 36	over medium heat
+R1	other Arg1:T1 Arg2:T7	
+R2	location Arg1:T1 Arg2:T6	
+T8	arg_object 43 58	the black beans
+T9	ingredient 43 58	the black beans
+R3	object Arg1:T1 Arg2:T8	
+T10	arg_duration 59 79	until heated through
+R4	duration Arg1:T1 Arg2:T10	
+R5	object Arg1:T2 Arg2:T1	
+T11	arg_co-object 88 108	with salt and pepper
+T12	ingredient 93 97	salt
+T13	ingredient 102 108	pepper
+R6	co-object Arg1:T2 Arg2:T11	
+T14	arg_location 110 125	In a large bowl
+R7	location Arg1:T3 Arg2:T14	
+T15	arg_other 132 140	together
+T16	arg_object 141 152	the cabbage
+T17	ingredient 141 152	the cabbage
+T18	arg_object 154 169	romaine lettuce
+T19	ingredient 154 169	romaine lettuce
+T20	arg_object 171 188	green bell pepper
+T21	ingredient 171 188	green bell pepper
+T22	arg_object 190 194	corn
+T23	ingredient 190 194	corn
+T24	arg_object 200 214	Cheddar cheese
+T25	ingredient 200 214	Cheddar cheese
+R8	other Arg1:T3 Arg2:T15	
+R9	object Arg1:T3 Arg2:T16	
+R10	object Arg1:T3 Arg2:T18	
+R11	object Arg1:T3 Arg2:T20	
+R12	object Arg1:T3 Arg2:T22	
+R13	object Arg1:T3 Arg2:T24	
+T26	arg_object 225 241	the tossed salad
+T27	Evolution 225 241	the tossed salad
+E1	Evolution:T27 Cause:T3
+R14	object Arg1:T4 Arg2:T26	
+T28	arg_location 242 258	to serving bowls
+R15	location Arg1:T4 Arg2:T28	
+R16	object Arg1:T5 Arg2:T4	
+T29	arg_co-object 268 340	with the warmed black beans, chicken, tortilla chips, and Ranch dressing
+R17	co-object Arg1:T5 Arg2:T29	
+T30	Evolution 273 295	the warmed black beans
+E2	Evolution:T30 Cause:T2
+T31	ingredient 297 304	chicken
+T32	ingredient 306 320	tortilla chips
+T33	ingredient 326 340	Ranch dressing

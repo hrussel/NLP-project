@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix together the beef , pork , bread crumbs , eggs , onion , and celery .
+PREDID: 0
+PRED: mix
+  DOBJ: the beef , pork , bread crumbs , eggs , onion , celery
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Season with 3 tablespoons soy sauce , ginger , and 2 tablespoons hoisin sauce .
+PREDID: 0
+PRED: season
+  PARG: 3 tablespoons soy sauce , ginger , 2 tablespoons hoisin sauce
+    PREP: with
+
+
+SENTID: 3
+SENT: Pat mixture into a shallow 2 quart baking pan .
+PREDID: 0
+PRED: pat
+  DOBJ: mixture
+  PARG: a shallow 2 quart baking pan
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Drain grease from pan .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+  PARG: pan
+    PREP: from
+
+
+SENTID: 6
+SENT: In a small bowl , mix 1/2 cup hoisin with 2 tablespoons ketchup .
+PREDID: 0
+PRED: mix
+  DOBJ: 1/2 cup hoisin
+  PARG: a small bowl
+    PREP: in
+  PARG: 2 tablespoons ketchup
+    PREP: with
+
+
+SENTID: 7
+SENT: Spread over top of meatloaf .
+PREDID: 0
+PRED: spread
+  PARG: top of meatloaf
+    PREP: over
+
+
+SENTID: 8
+SENT: Continue baking for 20 minutes or so .
+PREDID: 0
+PRED: continue
+  DOBJ: baking
+  PARG: 20 minutes
+    PREP: for
+  OARG: so
+
+
+SENTID: 9
+SENT: Remove from oven , and let rest for 5 minutes .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: rest
+  PARG: 5 minutes
+    PREP: for
+

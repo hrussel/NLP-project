@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Place cubed potatoes into a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: cubed potatoes
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 6
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: simmer for 10 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Cool eggs under cold running water and and peel .
+PREDID: 0
+PRED: cool
+  DOBJ: eggs
+  PARG: cold running water and
+    PREP: under
+
+PREDID: 1
+PRED: peel
+
+
+SENTID: 9
+SENT: Chop eggs into small pieces and add to potato cubes .
+PREDID: 0
+PRED: chop
+  DOBJ: eggs
+  PARG: small pieces
+    PREP: into
+
+PREDID: 1
+PRED: add
+  PARG: potato cubes
+    PREP: to
+
+
+SENTID: 10
+SENT: Add bacon , pickles , green onion , Cheddar cheese , parsley , salt , and ground black pepper to bowl .
+PREDID: 0
+PRED: add
+  DOBJ: bacon , pickles , green onion , cheddar cheese , parsley , salt , ground black pepper
+  PARG: bowl
+    PREP: to
+
+
+SENTID: 11
+SENT: Stir to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 12
+SENT: Whisk together ranch dressing , mayonnaise , and mustard in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: ranch dressing , mayonnaise , mustard
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 13
+SENT: Add to potato mixture and mix well to coat .
+PREDID: 0
+PRED: add
+  PARG: potato mixture
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  PARG: coat
+    PREP: to
+  OARG: well
+
+
+SENTID: 14
+SENT: Refrigerate at least 2 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

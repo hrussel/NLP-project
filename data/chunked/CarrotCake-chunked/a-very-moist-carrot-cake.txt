@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13-inch cake pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch cake pan
+
+
+SENTID: 2
+SENT: Beat the oil and sugar with an electric mixer in a large bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the oil, sugar
+  PARG: an electric mixer
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Add eggs , one at a time , allowing each egg to blend into the oil mixture before adding the next .
+PREDID: 0
+PRED: add
+  DOBJ: eggs , one at a time
+  PARG: blend
+    PREP: to
+  PARG: the oil mixture
+    PREP: into
+  PARG: adding the next
+    PREP: before
+
+
+SENTID: 4
+SENT: Stir flour , baking powder , baking soda , cinnamon , and salt together in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: flour , baking powder , baking soda , cinnamon , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: beat into the wet mixture .
+PREDID: 0
+PRED: beat
+  PARG: the wet mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Fold grated carrots through the batter , mixing just enough to evenly combine .
+PREDID: 0
+PRED: fold
+  DOBJ: the batter , mixing
+  OARG: grated carrots
+  OARG: just
+  OARG: enough
+  OARG: to evenly combine
+
+
+SENTID: 7
+SENT: Pour batter into the prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until a toothpick inserted into the center comes out clean , 50 to 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , 50 to 60 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool in the pan for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pan
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

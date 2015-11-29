@@ -1,0 +1,13 @@
+SENTID: 0
+SENT: Gently blend all ingredients together and serve over greens .
+PREDID: 0
+PRED: blend
+  DOBJ: all ingredients
+  OARG: gently
+  OARG: together
+
+PREDID: 1
+PRED: serve
+  PARG: greens
+    PREP: over
+

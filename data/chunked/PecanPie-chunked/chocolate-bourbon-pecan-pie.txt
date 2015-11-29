@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees F -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees f -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small saucepan combine sugar , corn syrup , and butter or margarine .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar , corn syrup , butter or margarine
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook over medium heat , stirring constantly , until butter or margarine melts and sugar dissolves .
+PREDID: 0
+PRED: cook
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: butter or margarine melts, sugar dissolves
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 3
+SENT: Cool slightly .
+PREDID: 0
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 4
+SENT: In a large bowl combine eggs , bourbon , vanilla , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , bourbon , vanilla , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Slowly pour sugar mixture into egg mixture , whisking constantly .
+PREDID: 0
+PRED: pour
+  DOBJ: sugar mixture
+  PARG: egg mixture , whisking
+    PREP: into
+  OARG: slowly
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Stir in chocolate chips and pecans .
+PREDID: 0
+PRED: stir
+  PARG: chocolate chips, pecans
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour mixture into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 50 to 55 minutes , or until set and golden .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 to 55 minutes
+    PREP: for
+  PARG: set, golden
+    PREP: until
+
+
+SENTID: 10
+SENT: May be served warm or chilled .
+PREDID: 0
+PRED: served
+  DOBJ: warm or chilled
+  OARG: may be
+

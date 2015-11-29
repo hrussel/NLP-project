@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Place breasts into a glass baking dish and marinate in steak sauce for 15 to 60 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: breasts
+  PARG: a glass baking dish
+    PREP: into
+
+PREDID: 1
+PRED: marinate
+  PARG: steak sauce
+    PREP: in
+  PARG: 15 to 60 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Grill chicken until no longer pink and the juices run clear .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken
+  PARG: no longer pink, the juices run clear
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from grill , and chop into bite-size pieces . To a large pot of boiling water , add bouillon cubes and pasta .
+PREDID: 0
+PRED: remove
+  PARG: grill
+    PREP: from
+
+PREDID: 1
+PRED: chop
+  PARG: bite-size pieces
+    PREP: into
+  PARG: a large pot of boiling water
+    PREP: to
+
+PREDID: 2
+PRED: add
+  DOBJ: bouillon cubes, pasta
+
+
+SENTID: 4
+SENT: Cook pasta until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain , and rinse under cold water .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: under
+
+
+SENTID: 6
+SENT: In a large bowl , combine chicken , pasta , onion , avocados and tomatoes .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , pasta , onion , avocados, tomatoes
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix in salad dressing , cover , and refrigerate until chilled .
+PREDID: 0
+PRED: mix
+  PARG: salad dressing
+    PREP: in
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+

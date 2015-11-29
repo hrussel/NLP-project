@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Sprinkle chicken pieces with Cajun seasoning .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chicken pieces
+  PARG: cajun seasoning
+    PREP: with
+
+
+SENTID: 1
+SENT: Whisk chicken broth , cornstarch , and 3 teaspoons soy sauce together in a bowl until completely blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: chicken broth , cornstarch , 3 teaspoons soy sauce
+  PARG: a bowl
+    PREP: in
+  PARG: completely blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Heat 1 tablespoon olive oil in a deep frying pan or wok over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon olive oil
+  PARG: a deep frying pan or wok
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook and stir chicken in hot oil until cooked through , 6 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: cooked through , 6 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove chicken from pan and drain any accumulated liquids .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: drain
+  DOBJ: any accumulated liquids
+
+
+SENTID: 5
+SENT: Heat remaining 1 tablespoon olive oil in the frying pan or wok over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: remaining 1 tablespoon olive oil
+  PARG: the frying pan or wok
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Stir fry cabbage , snap peas , asparagus , celery , red bell pepper , green onions , and bamboo shoots for 1 minute .
+PREDID: 0
+PRED: stir
+  DOBJ: fry cabbage , snap peas , asparagus , celery , red bell pepper , green onions , bamboo shoots
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 7
+SENT: Stir in 1 teaspoon soy sauce .
+PREDID: 0
+PRED: stir
+  PARG: 1 teaspoon soy sauce
+    PREP: in
+
+
+SENTID: 8
+SENT: Continue cooking until vegetables are tender but still crisp , about 3 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: vegetables are tender but still crisp , about 3 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir chicken into cabbage mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: chicken
+  PARG: cabbage mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Pour chicken broth mixture over chicken mixture , reduce heat to medium , and simmer until sauce thickens , about 1 minute .
+PREDID: 0
+PRED: pour
+  DOBJ: chicken broth mixture
+  PARG: chicken mixture
+    PREP: over
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: sauce thickens , about 1 minute
+    PREP: until
+
+
+SENTID: 11
+SENT: Reduce heat to low ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 12
+SENT: add cashews and cook until heated through , 1 minute .
+PREDID: 0
+PRED: add
+  DOBJ: cashews
+
+PREDID: 1
+PRED: cook
+  PARG: heated through , 1 minute
+    PREP: until
+
+
+SENTID: 13
+SENT: Sprinkle with paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+

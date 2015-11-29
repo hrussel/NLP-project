@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Grill chicken breasts , cut into small pieces and set aside .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken breasts
+
+PREDID: 1
+PRED: cut
+  PARG: small pieces
+    PREP: into
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: In a medium bowl , blend yogurt and curry with a whisk and stir in chicken , mango , cranberries , walnuts and mozzarella .
+PREDID: 0
+PRED: blend
+  DOBJ: yogurt, curry
+  PARG: a medium bowl
+    PREP: in
+  PARG: a whisk
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: chicken , mango , cranberries , walnuts, mozzarella
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well and serve on lettuce leaves if desired .
+PREDID: 0
+PRED: mix
+  PARG: lettuce leaves
+    PREP: on
+  OARG: well
+
+PREDID: 1
+PRED: serve
+  PARG: desired
+    PREP: if
+

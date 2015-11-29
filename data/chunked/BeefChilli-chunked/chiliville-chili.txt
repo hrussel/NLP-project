@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: In a Dutch oven , cook sausage and ground beef over medium heat until meat is cooked and browned ;
+PREDID: 0
+PRED: cook
+  DOBJ: sausage, ground beef
+  PARG: a dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: meat is cooked, browned
+    PREP: until
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Stir in onion , celery and garlic .
+PREDID: 0
+PRED: stir
+  PARG: onion , celery, garlic
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir until tender .
+PREDID: 0
+PRED: cook
+  PARG: tender
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Add tomatoes , beans , broth , tomato paste , sugar , chili powder , Worcestershire sauce , cumin and red pepper flakes .
+PREDID: 0
+PRED: add
+  DOBJ: tomatoes , beans , broth , tomato paste , sugar , chili powder , worcestershire sauce , cumin, red pepper flakes
+
+
+SENTID: 5
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: reduce heat , cover and simmer for 20 minutes , stirring occasionally .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat , cover, simmer
+  PARG: 20 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Serve with cheese , sour cream and onion .
+PREDID: 0
+PRED: serve
+  PARG: cheese , sour cream, onion
+    PREP: with
+

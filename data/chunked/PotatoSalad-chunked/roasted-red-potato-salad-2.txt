@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread potato pieces onto a baking sheet and drizzle with olive oil .
+PREDID: 0
+PRED: spread
+  DOBJ: potato pieces
+  PARG: a baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: drizzle
+  PARG: olive oil
+    PREP: with
+
+
+SENTID: 2
+SENT: Roast in the preheated oven until tender , about 45 minutes ;
+PREDID: 0
+PRED: roast
+  PARG: the preheated oven
+    PREP: in
+  PARG: tender , about 45 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: remove from oven and let cool at least 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+  PARG: least 15 minutes
+    PREP: at
+
+
+SENTID: 4
+SENT: Place roasted potatoes into a large salad bowl and combine with hard-cooked eggs , celery , green onion , and bacon ;
+PREDID: 0
+PRED: place
+  DOBJ: roasted potatoes
+  PARG: a large salad bowl
+    PREP: into
+
+PREDID: 1
+PRED: combine
+  PARG: hard-cooked eggs , celery , green onion , bacon
+    PREP: with
+
+
+SENTID: 5
+SENT: stir in mayonnaise and season to taste with salt and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Cover and refrigerate for 1 hour to let flavors blend .
+PREDID: 0
+PRED: cover
+  PARG: 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+  PARG: let flavors blend
+    PREP: to
+

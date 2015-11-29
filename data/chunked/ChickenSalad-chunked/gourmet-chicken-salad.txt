@@ -1,0 +1,13 @@
+SENTID: 0
+SENT: Mix together chicken , grapes , nuts , celery , oranges , and dressing .
+PREDID: 0
+PRED: mix
+  DOBJ: chicken , grapes , nuts , celery , oranges , dressing
+  OARG: together
+
+
+SENTID: 1
+SENT: Chill .
+PREDID: 0
+PRED: chill
+

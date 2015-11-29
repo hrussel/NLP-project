@@ -1,0 +1,15 @@
+SENTID: 0
+SENT: Mix together the mayonnaise , sour cream , mustard , ketchup , Worcestershire sauce , onion and salt and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise , sour cream , mustard , ketchup , worcestershire sauce , onion, salt, pepper
+  OARG: together
+
+
+SENTID: 1
+SENT: Refrigerate until ready to toss with potatoes .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to toss with potatoes
+    PREP: until
+

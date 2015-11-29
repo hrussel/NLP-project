@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool and chop .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 3
+SENT: Place bacon and onion in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: bacon, onion
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 4
+SENT: Cook over medium heat until bacon is evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: bacon is evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain excess grease from skillet .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+  PARG: skillet
+    PREP: from
+
+
+SENTID: 6
+SENT: Add the sugar and vinegar to the bacon and onion mixture and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: the sugar, vinegar
+  PARG: the bacon, onion mixture
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Pour the mixture over the potatoes and stir .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the potatoes
+    PREP: over
+
+PREDID: 1
+PRED: stir
+

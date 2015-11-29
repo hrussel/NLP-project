@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Break the ground beef into small pieces into a large pot over medium-high heat .
+PREDID: 0
+PRED: break
+  DOBJ: the ground beef
+  PARG: small pieces
+    PREP: into
+  PARG: a large pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir green bell pepper , onion , seasoned salt , 1Ê1/2 teaspoon ground annatto seed , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , and 1Ê1/2 teaspoon red pepper flakes through the ground beef ;
+PREDID: 0
+PRED: stir
+  DOBJ: green bell pepper , onion , seasoned salt , 1Ê1/2 teaspoon ground annatto seed , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , 1Ê1/2 teaspoon red pepper flakes
+
+
+SENTID: 2
+SENT: Pour diced tomatoes , pinto beans , black beans , and red beans into the pot ;
+PREDID: 0
+PRED: pour
+  DOBJ: diced tomatoes , pinto beans , black beans , red beans
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 3
+SENT: season with chili seasoning , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , 1Ê1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , and garlic .
+PREDID: 0
+PRED: season
+  PARG: chili seasoning , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , 1Ê1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , garlic
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring to a boil , reduce heat to medium-low , and simmer until the beans are tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , simmer
+    PREP: to
+  PARG: the beans are tender , about 20 minutes
+    PREP: until
+

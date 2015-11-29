@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Place the pumpkin halves in a large saucepan , and fill with water to barely cover .
+PREDID: 0
+PRED: place
+  DOBJ: the pumpkin halves
+  PARG: a large saucepan
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  OARG: to barely cover
+
+
+SENTID: 1
+SENT: Bring the pan to a boil , then reduce heat to medium-low and simmer the pumpkin until tender , about 30 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: the pan
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer the pumpkin
+    PREP: to
+  PARG: tender , about 30 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain the pumpkin and scoop out the pumpkin meat ;
+PREDID: 0
+PRED: drain
+  DOBJ: the pumpkin
+
+PREDID: 1
+PRED: scoop
+  PARG: the pumpkin meat
+    PREP: out
+
+
+SENTID: 3
+SENT: discard the peel .
+PREDID: 0
+PRED: discard
+  DOBJ: the peel
+
+
+SENTID: 4
+SENT: Mash the pumpkin until smooth .
+PREDID: 0
+PRED: mash
+  DOBJ: the pumpkin
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 6
+SENT: Place 2 cups of the mashed pumpkin in a large bowl , and stir in the milk , coffee creamer , eggs , brown sugar , walnuts , and cinnamon until the mixture is well combined .
+PREDID: 0
+PRED: place
+  DOBJ: 2 cups of the mashed pumpkin
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the milk , coffee creamer , eggs , brown sugar , walnuts , cinnamon
+    PREP: in
+  PARG: the mixture is well combined
+    PREP: until
+
+
+SENTID: 7
+SENT: Spoon the filling into the pie crust , and bake in the preheated oven until the pie filling is firm and cooked through , about 1 hour .
+PREDID: 0
+PRED: spoon
+  DOBJ: the filling
+  PARG: the pie crust
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the pie filling is firm, cooked through , about 1 hour
+    PREP: until
+

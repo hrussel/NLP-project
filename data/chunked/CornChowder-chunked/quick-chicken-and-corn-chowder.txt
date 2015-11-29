@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Heat olive oil in a saucepan over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: saute chicken , onion , red bell pepper , and garlic until chicken is no longer pink in the center and onion is tender , 3 to 5 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: chicken , onion , red bell pepper , garlic
+  PARG: chicken is no longer pink in the center, onion is tender , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add chicken broth and corn to chicken mixture .
+PREDID: 0
+PRED: add
+  DOBJ: chicken broth, corn
+  PARG: chicken mixture
+    PREP: to
+
+
+SENTID: 3
+SENT: Whisk milk and cornstarch together in a bowl until dissolved ;
+PREDID: 0
+PRED: whisk
+  DOBJ: milk, cornstarch
+  PARG: a bowl
+    PREP: in
+  PARG: dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: stir into soup .
+PREDID: 0
+PRED: stir
+  PARG: soup
+    PREP: into
+
+
+SENTID: 5
+SENT: Bring soup to a boil , reduce heat , and simmer until thickened , about 15 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: soup
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: thickened , about 15 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir white beans , Cheddar cheese , salt , and pepper into soup ;
+PREDID: 0
+PRED: stir
+  DOBJ: white beans , cheddar cheese , salt , pepper
+  PARG: soup
+    PREP: into
+
+
+SENTID: 7
+SENT: simmer until cheese is melted , about 5 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: cheese is melted , about 5 minutes
+    PREP: until
+

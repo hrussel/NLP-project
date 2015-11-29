@@ -1,0 +1,32 @@
+SENTID: 0
+SENT: Whisk mayonnaise , sugar , rice wine vinegar , lemon juice , horseradish , onion powder , dry mustard , celery salt , salt , and black pepper in a large mixing bowl , stirring to dissolve sugar .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , sugar , rice wine vinegar , lemon juice , horseradish , onion powder , dry mustard , celery salt , salt , black pepper
+  PARG: a large mixing bowl , stirring
+    PREP: in
+  PARG: dissolve sugar
+    PREP: to
+
+
+SENTID: 1
+SENT: Fold coleslaw mix into dressing .
+PREDID: 0
+PRED: fold
+  DOBJ: coleslaw mix
+  PARG: dressing
+    PREP: into
+
+
+SENTID: 2
+SENT: Cover bowl and refrigerate 1 hour before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+  OARG: 1 hour
+

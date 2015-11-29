@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , fry bacon pieces until browned .
+PREDID: 0
+PRED: fry
+  DOBJ: bacon pieces
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Crumble the ground beef into the skillet with the bacon , and stir in the green pepper and onion .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: the skillet
+    PREP: into
+  PARG: the bacon
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: the green pepper, onion
+    PREP: in
+
+
+SENTID: 2
+SENT: Continue to cook until the beef is no longer pink .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: the beef is no longer pink
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain off any excess grease .
+PREDID: 0
+PRED: drain
+  PARG: any excess grease
+    PREP: off
+
+
+SENTID: 4
+SENT: Stir in the chili seasoning mix until the meat is coated .
+PREDID: 0
+PRED: stir
+  PARG: the chili seasoning
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: the meat is coated
+    PREP: until
+
+
+SENTID: 5
+SENT: Add the tomatoes and beans to the skillet , mix well , and simmer for 15 to 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the tomatoes, beans
+  PARG: the skillet
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+PREDID: 2
+PRED: simmer
+  PARG: 15 to 20 minutes
+    PREP: for
+

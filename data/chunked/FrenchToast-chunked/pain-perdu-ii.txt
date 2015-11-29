@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: In a large bowl , combine eggs , sugar , milk , brandy and orange zest .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , sugar , milk , brandy, orange zest
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Beat until thick and foamy .
+PREDID: 0
+PRED: beat
+  PARG: thick, foamy
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour mixture into a shallow pan .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: a shallow pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Soak bread slices in the mixture for 1 to 2 minutes on each side until they are thoroughly soaked through .
+PREDID: 0
+PRED: soak
+  DOBJ: bread slices
+  PARG: the mixture
+    PREP: in
+  PARG: 1 to 2 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+  PARG: they are thoroughly soaked through
+    PREP: until
+
+
+SENTID: 4
+SENT: Heat a griddle or frying pan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a griddle or frying pan
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Lightly spray griddle with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: griddle
+  PARG: cooking spray
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 6
+SENT: Cook the bread slices 1 to 2 minutes on each side , until golden brown .
+PREDID: 0
+PRED: cook
+  PARG: each side
+    PREP: on
+  PARG: golden brown
+    PREP: until
+  OARG: the bread slices 1 to 2 minutes
+
+
+SENTID: 7
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

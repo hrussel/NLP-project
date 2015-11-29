@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: In a large Dutch oven heat the oil over high heat and brown the cubed stew meat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large dutch oven
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+PREDID: 1
+PRED: brown
+  DOBJ: the cubed stew meat
+
+
+SENTID: 1
+SENT: Remove from pan .
+PREDID: 0
+PRED: remove
+  PARG: pan
+    PREP: from
+
+
+SENTID: 2
+SENT: In the same pan , saute the bacon , onion and celery until onions are translucent and bacon is fully cooked .
+PREDID: 0
+PRED: saute
+  DOBJ: the bacon , onion, celery
+  PARG: the same pan
+    PREP: in
+  PARG: onions are translucent, bacon is fully cooked
+    PREP: until
+
+
+SENTID: 3
+SENT: Return the browned stew meat to the pan .
+PREDID: 0
+PRED: return
+  DOBJ: the browned stew meat
+  PARG: the pan
+    PREP: to
+
+
+SENTID: 4
+SENT: Stir in seasoning salt , Worcestershire sauce and beef broth .
+PREDID: 0
+PRED: stir
+  PARG: seasoning salt , worcestershire sauce, beef broth
+    PREP: in
+
+
+SENTID: 5
+SENT: Bring to a boil , then cover and reduce the heat to medium .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: cover
+  DOBJ: the heat
+
+PREDID: 2
+PRED: reduce
+  PARG: medium
+    PREP: to
+
+
+SENTID: 6
+SENT: Simmer for 1 to 1Ê1/2 hours or until meat is fork tender .
+PREDID: 0
+PRED: simmer
+  PARG: 1 to 1Ê1/2 hours
+    PREP: for
+  PARG: meat is fork tender
+    PREP: until
+
+
+SENTID: 7
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Add the egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: the egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 9
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 10
+SENT: In a skillet , melt the butter over medium heat and saute the mushrooms for 3 to 4 minutes .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  DOBJ: the mushrooms
+  PARG: 3 to 4 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Add the mushrooms to the meat mixture .
+PREDID: 0
+PRED: add
+  DOBJ: the mushrooms
+  PARG: the meat mixture
+    PREP: to
+
+
+SENTID: 12
+SENT: Bring the meat mixture to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: the meat mixture
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 13
+SENT: Mix together the cornstarch and the water , and stir into the meat mixture ;
+PREDID: 0
+PRED: mix
+  DOBJ: the cornstarch, the water
+  OARG: together
+
+PREDID: 1
+PRED: stir
+  PARG: the meat mixture
+    PREP: into
+
+
+SENTID: 14
+SENT: Stir in sour cream until creamy serve over the egg noodles .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+  PARG: creamy serve over the egg noodles
+    PREP: until
+

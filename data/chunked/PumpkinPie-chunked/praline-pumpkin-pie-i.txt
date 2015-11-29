@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Melt the butter or margarine in a saucepan , and stir in the 1/2 cup chopped pecans and brown sugar .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter or margarine
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the 1/2 cup chopped pecans, brown sugar
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook until bubbly .
+PREDID: 0
+PRED: cook
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 2
+SENT: Spread over the bottom of cooled pie shell .
+PREDID: 0
+PRED: spread
+  PARG: the bottom of cooled pie shell
+    PREP: over
+
+
+SENTID: 3
+SENT: Combine custard mix , white sugar , and spices in a 2 quart saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: custard mix , white sugar , spices
+  PARG: a 2 quart saucepan
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in evaporated milk , milk , and pumpkin puree .
+PREDID: 0
+PRED: stir
+  PARG: evaporated milk , milk , pumpkin puree
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook while stirring until bubbly .
+PREDID: 0
+PRED: cook
+  PARG: stirring
+    PREP: while
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 6
+SENT: Cover , and cool for 10 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cool
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Pour pumpkin custard filling into pie shell , and chill until firm .
+PREDID: 0
+PRED: pour
+  DOBJ: pumpkin custard filling
+  PARG: pie shell
+    PREP: into
+
+PREDID: 1
+PRED: chill
+  PARG: firm
+    PREP: until
+

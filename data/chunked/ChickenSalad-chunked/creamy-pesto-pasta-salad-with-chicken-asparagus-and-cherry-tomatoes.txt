@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Mix dressing ingredients in a small bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: dressing ingredients
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: keep chilled until ready to toss with salad .
+PREDID: 0
+PRED: keep
+  DOBJ: chilled
+  PARG: ready to toss with salad
+    PREP: until
+
+
+SENTID: 2
+SENT: -LRB- Store in clean jar with lid .
+PREDID: 0
+PRED: store
+  PARG: clean jar
+    PREP: in
+  PARG: lid
+    PREP: with
+  OARG: 
+
+
+SENTID: 3
+SENT: -RRB- Bring 1 gallon of water and 2 Tbs .
+PREDID: 0
+PRED: bring
+  DOBJ: 1 gallon of water, 2 tbs
+  OARG: 
+
+
+SENTID: 4
+SENT: Add pasta and , using package times as a guide , boil , stirring frequently and adding asparagus the last 1 minute , until just tender .
+PREDID: 0
+PRED: add
+  DOBJ: pasta, , using package times
+  PARG: a guide , boil , stirring
+    PREP: as
+  PARG: just tender
+    PREP: until
+  OARG: frequently
+  OARG: and adding asparagus the last 1 minute
+
+
+SENTID: 5
+SENT: Set aside to cool while preparing remaining salad ingredients .
+PREDID: 0
+PRED: set
+  PARG: preparing remaining salad ingredients
+    PREP: while
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 6
+SENT: Place all salad ingredients -LRB- except buttermilk dressing -RRB- in a large bowl or transfer to a gallon-size zippered bag .
+PREDID: 0
+PRED: place
+  DOBJ: all salad ingredients -lrb-
+  PARG: buttermilk dressing -rrb-
+    PREP: except
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: transfer
+  PARG: a gallon-size zippered bag
+    PREP: to
+
+
+SENTID: 7
+SENT: -LRB- Can be covered and refrigerated several hours at this point .
+PREDID: 0
+PRED: can
+  PARG: this point
+    PREP: at
+  OARG: 
+  OARG: be covered, refrigerated several hours
+
+
+SENTID: 8
+SENT: -RRB- When ready to serve , add dressing ;
+PREDID: 0
+PRED: add
+  DOBJ: dressing
+  PARG: serve
+    PREP: to
+  OARG: 
+  OARG: when ready
+
+
+SENTID: 9
+SENT: toss to coat and serve .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+PREDID: 1
+PRED: serve
+

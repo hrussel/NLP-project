@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: Put the quinoa and chicken broth in a medium saucepan and bring to a boil .
+PREDID: 0
+PRED: put
+  DOBJ: the quinoa, chicken broth
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Reduce heat to low , cover and simmer until the liquid is absorbed , 12 to 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low , cover, simmer
+    PREP: to
+  PARG: the liquid is absorbed , 12 to 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Fluff with a fork .
+PREDID: 0
+PRED: fluff
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 3
+SENT: While quinoa cooks , heat 1 tablespoon of the oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon of the oil
+  PARG: quinoa cooks
+    PREP: while
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add the sausage and cook , stirring occasionally , until browned , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the sausage
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: browned , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Transfer sausage to a plate .
+PREDID: 0
+PRED: transfer
+  DOBJ: sausage
+  PARG: a plate
+    PREP: to
+
+
+SENTID: 6
+SENT: Add another tablespoon oil to pan , then add the onion and cook until softened , about 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: another tablespoon oil
+  PARG: pan
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the onion
+
+PREDID: 2
+PRED: cook
+  PARG: softened , about 3 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Add the squash and carrots and cook about 5 minutes , until the vegetables are tender-firm .
+PREDID: 0
+PRED: add
+  DOBJ: the squash, carrots
+
+PREDID: 1
+PRED: cook
+  PARG: 5 minutes
+    PREP: about
+  PARG: the vegetables are tender-firm
+    PREP: until
+
+
+SENTID: 8
+SENT: In a large bowl , whisk together the lemon juice , remaining oil , cumin , salt and black pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the lemon juice , remaining oil , cumin , salt, black pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Add quinoa , sausage , squash-carrot and onion mixture and mix .
+PREDID: 0
+PRED: add
+  DOBJ: quinoa , sausage , squash-carrot, onion mixture
+
+PREDID: 1
+PRED: mix
+
+
+SENTID: 10
+SENT: Chill in the refrigerator at least 30 minutes or up to two days .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: least 30 minutes
+    PREP: at
+  PARG: two days
+    PREP: to
+  OARG: up
+
+
+SENTID: 11
+SENT: When ready to serve , stir in the parsley .
+PREDID: 0
+PRED: stir
+  PARG: serve
+    PREP: to
+  PARG: the parsley
+    PREP: in
+  OARG: when ready
+

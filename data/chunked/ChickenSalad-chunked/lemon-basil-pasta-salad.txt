@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Preheat grill for medium heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: grill
+  PARG: medium heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 1
+SENT: Season chicken breasts with salt and black pepper .
+PREDID: 0
+PRED: season
+  DOBJ: chicken breasts
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Cook chicken breasts on the preheated grill until no longer pink in the center and the juices run clear , about 30 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken breasts
+  PARG: the preheated grill
+    PREP: on
+  PARG: no longer pink in the center, the juices run clear , about 30 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Cut chicken into cubes .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: cubes
+    PREP: into
+
+
+SENTID: 4
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the rotini
+  PARG: a boil
+    PREP: at
+  PARG: tender yet firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: Season pasta with garlic salt .
+PREDID: 0
+PRED: season
+  DOBJ: pasta
+  PARG: garlic salt
+    PREP: with
+
+
+SENTID: 8
+SENT: Whisk vegetable oil , lemon juice , basil , and Parmesan cheese together in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: vegetable oil , lemon juice , basil , parmesan cheese
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Add pasta , chicken , and spinach leaves .
+PREDID: 0
+PRED: add
+  DOBJ: pasta , chicken , spinach leaves
+
+
+SENTID: 10
+SENT: Toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 11
+SENT: Cover and chill for 2 hours before serving .
+PREDID: 0
+PRED: cover
+  PARG: 2 hours
+    PREP: for
+
+PREDID: 1
+PRED: chill
+  PARG: serving
+    PREP: before
+

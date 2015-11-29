@@ -1,0 +1,28 @@
+SENTID: 0
+SENT: In a bowl , lightly mix the apple , grapes , pecans , apple pie spice , and mayonnaise together until thoroughly combined ;
+PREDID: 0
+PRED: mix
+  DOBJ: the apple , grapes , pecans , apple pie spice , mayonnaise
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: lightly
+  OARG: together
+
+
+SENTID: 1
+SENT: stir in the chicken breast meat .
+PREDID: 0
+PRED: stir
+  PARG: the chicken breast meat
+    PREP: in
+
+
+SENTID: 2
+SENT: Chill until cold .
+PREDID: 0
+PRED: chill
+  PARG: cold
+    PREP: until
+

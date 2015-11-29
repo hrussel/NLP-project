@@ -1,0 +1,35 @@
+SENTID: 0
+SENT: In a large mixing bowl , combine the chicken , oranges , pineapple and pecans .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , oranges , pineapple, pecans
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk together the mayonnaise , dill weed and sugar .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , dill weed, sugar
+  OARG: together
+
+
+SENTID: 2
+SENT: Add to the chicken mixture , toss well and refrigerate over night so flavors may blend .
+PREDID: 0
+PRED: add
+  PARG: the chicken mixture
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  PARG: night
+    PREP: over
+  OARG: well
+
+PREDID: 2
+PRED: refrigerate
+  DOBJ: flavors may blend
+  OARG: so
+

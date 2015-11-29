@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x5 inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5 inch loaf pan
+
+
+SENTID: 2
+SENT: Lightly mix the ground chuck , onion , brown sugar , egg , salsa , and bread crumbs in a bowl , and spoon into the prepared baking dish .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground chuck , onion , brown sugar , egg , salsa , bread crumbs
+  PARG: a bowl
+    PREP: in
+  OARG: lightly
+
+PREDID: 1
+PRED: spoon
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven for about 45 minutes , until the meatloaf is cooked all the way through and the top is browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: about 45 minutes
+    PREP: for
+  PARG: the meatloaf is cooked all the way through, the top is browned
+    PREP: until
+

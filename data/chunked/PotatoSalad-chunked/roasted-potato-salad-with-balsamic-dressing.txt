@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cut the potatoes into 3/4-inch chunks , and place into a bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: the potatoes
+  PARG: 3/4-inch chunks
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 2
+SENT: Drizzle with canola oil , and spread out onto a baking sheet .
+PREDID: 0
+PRED: drizzle
+  PARG: canola oil
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  PARG: onto a baking sheet
+    PREP: out
+
+
+SENTID: 3
+SENT: Turn potatoes so skin sides are down .
+PREDID: 0
+PRED: turn
+  DOBJ: skin sides are
+  OARG: so
+  OARG: potatoes
+  OARG: down
+
+
+SENTID: 4
+SENT: Sprinkle the potatoes with thyme , chili powder , kosher salt , and pepper .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the potatoes
+  PARG: thyme , chili powder , kosher salt , pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until the potatoes are golden brown , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the potatoes are golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 45 minutes
+    PREP: about
+
+
+SENTID: 6
+SENT: Remove and allow to cool .
+PREDID: 0
+PRED: remove
+  OARG: to cool
+
+PREDID: 1
+PRED: allow
+
+
+SENTID: 7
+SENT: In a large salad bowl , lightly toss the cooled potatoes , green onions , roasted red peppers , olives , artichoke hearts , parsley , and Gorgonzola cheese until thoroughly combined .
+PREDID: 0
+PRED: toss
+  DOBJ: the cooled potatoes , green onions , roasted red peppers , olives , artichoke hearts , parsley , gorgonzola cheese
+  PARG: a large salad bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: lightly
+
+
+SENTID: 8
+SENT: Place the balsamic vinegar , olive oil , Dijon mustard , garlic , oregano , and basil into a blender , and pulse a few times until the dressing is thickened and creamy .
+PREDID: 0
+PRED: place
+  DOBJ: the balsamic vinegar , olive oil , dijon mustard , garlic , oregano , basil
+  PARG: a blender
+    PREP: into
+
+PREDID: 1
+PRED: pulse
+  DOBJ: a few times
+  PARG: the dressing is thickened, creamy
+    PREP: until
+
+
+SENTID: 9
+SENT: Season to taste with salt and pepper , pour over the potato salad , and toss lightly .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: pour
+  PARG: the potato salad
+    PREP: over
+
+PREDID: 2
+PRED: toss
+  OARG: lightly
+
+
+SENTID: 10
+SENT: Chill for 4 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: 4 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

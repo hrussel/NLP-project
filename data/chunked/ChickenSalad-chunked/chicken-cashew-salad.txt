@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and rinse with cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: In large bowl , combine brown sugar , salad dressing , lemon juice , vinegar and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , salad dressing , lemon juice , vinegar, salt
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Toss dressing mixture with cooked pasta , celery , green pepper , onion and chicken .
+PREDID: 0
+PRED: toss
+  DOBJ: dressing mixture
+  PARG: cooked pasta , celery , green pepper , onion, chicken
+    PREP: with
+
+
+SENTID: 5
+SENT: Chill until ready to serve .
+PREDID: 0
+PRED: chill
+  PARG: ready to serve
+    PREP: until
+
+
+SENTID: 6
+SENT: Mix in cashews just before serving .
+PREDID: 0
+PRED: mix
+  PARG: cashews
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: just
+

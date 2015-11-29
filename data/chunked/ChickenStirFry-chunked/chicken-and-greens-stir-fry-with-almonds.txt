@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Cut chicken crosswise into 1/4-inch -LRB- 0.5 cm -RRB- thick strips .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: 1/4-inch -lrb- 0.5 cm -rrb- thick strips
+    PREP: into
+  OARG: crosswise
+
+
+SENTID: 1
+SENT: In a bowl , combine chicken , ginger and brown sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , ginger, brown sugar
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: In a large skillet , toast almonds over medium-high heat , stirring , for 2 min or until golden and fragrant ;
+PREDID: 0
+PRED: toast
+  DOBJ: almonds
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat , stirring
+    PREP: over
+  PARG: 2 min
+    PREP: for
+  PARG: golden, fragrant
+    PREP: until
+
+
+SENTID: 3
+SENT: transfer to a bowl .
+PREDID: 0
+PRED: transfer
+  PARG: a bowl
+    PREP: to
+
+
+SENTID: 4
+SENT: Add butter to pan ;
+PREDID: 0
+PRED: add
+  DOBJ: butter
+  PARG: pan
+    PREP: to
+
+
+SENTID: 5
+SENT: swirl to coat .
+PREDID: 0
+PRED: swirl
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Add chicken mixture and onion ;
+PREDID: 0
+PRED: add
+  DOBJ: chicken mixture, onion
+
+
+SENTID: 7
+SENT: saute for 5 min or until chicken turns white all over and onion is softened .
+PREDID: 0
+PRED: saute
+  PARG: 5 min
+    PREP: for
+  PARG: chicken turns white all over, onion is softened
+    PREP: until
+
+
+SENTID: 8
+SENT: Whisk cornstarch into Cream and stir into pan with soy sauce .
+PREDID: 0
+PRED: whisk
+  DOBJ: cornstarch
+  PARG: cream
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: pan
+    PREP: into
+  PARG: soy sauce
+    PREP: with
+
+
+SENTID: 9
+SENT: Bring to a simmer , stirring .
+PREDID: 0
+PRED: bring
+  PARG: a simmer , stirring
+    PREP: to
+
+
+SENTID: 10
+SENT: Stir in bok choy ;
+PREDID: 0
+PRED: stir
+  PARG: bok choy
+    PREP: in
+
+
+SENTID: 11
+SENT: simmer , stirring , for 3 min or until bok choy is tender crisp and chicken is no longer pink inside .
+PREDID: 0
+PRED: simmer
+  DOBJ: stirring
+  PARG: 3 min
+    PREP: for
+  PARG: bok choy is tender crisp, chicken is no longer pink inside
+    PREP: until
+
+
+SENTID: 12
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 13
+SENT: stir in hot pepper sauce to taste .
+PREDID: 0
+PRED: stir
+  PARG: hot pepper sauce
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 14
+SENT: Sprinkle with almonds and basil ;
+PREDID: 0
+PRED: sprinkle
+  PARG: almonds, basil
+    PREP: with
+
+
+SENTID: 15
+SENT: serve lime wedges to squeeze over top .
+PREDID: 0
+PRED: serve
+  DOBJ: lime wedges
+  PARG: squeeze
+    PREP: to
+  PARG: top
+    PREP: over
+

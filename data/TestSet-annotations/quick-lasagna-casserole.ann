@@ -1,0 +1,110 @@
+T1	predicate 0 7	Preheat
+T2	predicate 31 35	Cook
+T3	predicate 75 80	drain
+T4	predicate 101 105	cook
+T5	predicate 209 214	drain
+T6	predicate 220 228	Transfer
+T7	predicate 267 274	Stir in
+T8	predicate 346 354	Transfer
+T9	predicate 427 431	stir
+T10	predicate 502 507	Spoon
+T11	predicate 568 576	Sprinkle
+T12	predicate 636 640	Bake
+T13	predicate 699 702	Let
+T14	predicate 727 734	serving
+T15	arg_object 8 12	oven
+T16	arg_other 13 29	to 375 degrees F
+R1	object Arg1:T1 Arg2:T15	
+R2	other Arg1:T1 Arg2:T16	
+R3	location Arg1:T12 Arg2:T1	
+T17	arg_object 36 41	pasta
+T18	arg_other 42 73	according to package directions
+R4	object Arg1:T2 Arg2:T17	
+R5	other Arg1:T2 Arg2:T18	
+R6	object Arg1:T3 Arg2:T2	
+T19	arg_location 82 100	In a large skillet
+R7	location Arg1:T4 Arg2:T19	
+T20	arg_object 106 142	Johnsonville® Italian Ground Sausage
+T21	ingredient 106 142	Johnsonville® Italian Ground Sausage
+T22	arg_object 144 149	onion
+T23	ingredient 144 149	onion
+T24	arg_object 151 163	sweet pepper
+T25	ingredient 151 163	sweet pepper
+T26	arg_object 169 175	garlic
+T27	ingredient 169 175	garlic
+T28	arg_duration 176 207	until sausage is no longer pink
+R8	object Arg1:T4 Arg2:T20	
+R9	object Arg1:T4 Arg2:T22	
+R10	object Arg1:T4 Arg2:T24	
+R11	object Arg1:T4 Arg2:T26	
+R12	duration Arg1:T4 Arg2:T28	
+T29	arg_object 215 218	fat
+T30	Evolution 215 218	fat
+E1	Evolution:T30 Cause:T4
+R13	object Arg1:T5 Arg2:T29	
+R14	co-object Arg1:T5 Arg2:T4	
+T31	arg_object 229 244	sausage mixture
+T32	Evolution 229 244	sausage mixture
+E2	Evolution:T32 Cause:T5
+T33	arg_location 245 265	to a very large bowl
+R15	object Arg1:T6 Arg2:T31	
+R16	location Arg1:T6 Arg2:T33	
+R17	co-object Arg1:T7 Arg2:T6	
+T34	arg_object 275 313	Classico® Tomato and Basil pasta sauce
+T35	ingredient 275 313	Classico® Tomato and Basil pasta sauce
+T36	arg_object 315 326	fennel seed
+T37	ingredient 315 326	fennel seed
+T38	arg_object 332 344	cooked pasta
+T39	Evolution 332 344	cooked pasta
+E3	Evolution:T39 Cause:T3
+R18	object Arg1:T7 Arg2:T34	
+R19	object Arg1:T7 Arg2:T36	
+R20	object Arg1:T7 Arg2:T38	
+T40	arg_object 355 372	the pasta mixture
+T41	Evolution 355 372	the pasta mixture
+E4	Evolution:T41 Cause:T7
+T42	arg_location 373 408	to a 3-quart rectangular baking pan
+R21	object Arg1:T8 Arg2:T40	
+R22	location Arg1:T8 Arg2:T42	
+T43	arg_location 410 426	In a medium bowl
+T44	arg_other 432 440	together
+T45	arg_object 441 455	ricotta cheese
+T46	arg_object 457 460	egg
+T47	arg_object 466 500	1 cup of the Italian blend cheeses
+T48	ingredient 466 500	1 cup of the Italian blend cheeses
+T49	ingredient 457 460	egg
+T50	ingredient 441 455	ricotta cheese
+R23	other Arg1:T9 Arg2:T44	
+R24	location Arg1:T9 Arg2:T43	
+R25	object Arg1:T9 Arg2:T45	
+R26	object Arg1:T9 Arg2:T46	
+R27	object Arg1:T9 Arg2:T47	
+T51	arg_object 508 526	the ricotta cheese
+T52	Evolution 508 526	the ricotta cheese
+E5	Evolution:T52 Cause:T9
+T53	arg_co-object 527 549	over the pasta mixture
+T54	Evolution 532 549	the pasta mixture
+E6	Evolution:T54 Cause:T8
+R28	object Arg1:T10 Arg2:T51	
+R29	co-object Arg1:T10 Arg2:T53	
+T55	arg_other 550 566	in large dollops
+R30	other Arg1:T10 Arg2:T55	
+T56	arg_object 577 621	the remaining shredded Italian blend cheeses
+T57	ingredient 577 621	the remaining shredded Italian blend cheeses
+R31	object Arg1:T11 Arg2:T56	
+T58	arg_co-object 622 634	over the top
+T59	Evolution 627 634	the top
+E7	Evolution:T59 Cause:T10
+R32	co-object Arg1:T11 Arg2:T58	
+T60	arg_other 642 651	uncovered
+T61	arg_duration 653 697	for 35 to 40 minutes or until heated through
+R33	object Arg1:T12 Arg2:T11	
+R34	other Arg1:T12 Arg2:T60	
+R35	duration Arg1:T12 Arg2:T61	
+R36	object Arg1:T13 Arg2:T12	
+T62	arg_other 703 708	stand
+T63	arg_duration 709 719	10 minutes
+R37	other Arg1:T13 Arg2:T62	
+R38	duration Arg1:T13 Arg2:T63	
+R39	object Arg1:T14 Arg2:T13	
+R40	co-object Arg1:T3 Arg2:T2	

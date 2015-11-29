@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Saute garlic , onion and peppers in olive oil until onions are transparent .
+PREDID: 0
+PRED: saute
+  DOBJ: garlic , onion, peppers
+  PARG: olive oil
+    PREP: in
+  PARG: onions are transparent
+    PREP: until
+
+
+SENTID: 1
+SENT: Add meat and brown .
+PREDID: 0
+PRED: add
+  DOBJ: meat
+
+PREDID: 1
+PRED: brown
+
+
+SENTID: 2
+SENT: Stir in tomatoes and once mixture is very hot , add the packages of potatoes .
+PREDID: 0
+PRED: stir
+  DOBJ: hot , add the packages of potatoes
+  PARG: tomatoes
+    PREP: in
+  OARG: once
+  OARG: very
+  OARG: mixture is
+
+
+SENTID: 3
+SENT: Mix thoroughly , add beans and simmer for at least one hour on medium heat .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+PREDID: 1
+PRED: add
+  DOBJ: beans
+
+PREDID: 2
+PRED: simmer
+  PARG: at least one hour
+    PREP: for
+  PARG: medium heat
+    PREP: on
+
+
+SENTID: 4
+SENT: Gather up your own buckaroos and serve the chili topped with a large dollop of Fiesta Dip .
+PREDID: 0
+PRED: gather
+  DOBJ: your own buckaroos
+  OARG: up
+
+PREDID: 1
+PRED: serve
+  DOBJ: the chili topped
+  PARG: a large dollop of fiesta dip
+    PREP: with
+

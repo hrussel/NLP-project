@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: In a large bowl , beat together eggs , orange juice , milk , sugar , nutmeg and vanilla extract .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , orange juice , milk , sugar , nutmeg, vanilla extract
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Place bread slices in a tightly spaced single layer in the bottom of a flat dish or baking pan .
+PREDID: 0
+PRED: place
+  DOBJ: bread slices
+  PARG: a tightly spaced single layer
+    PREP: in
+  PARG: the bottom of a flat dish or baking pan
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour milk mixture over bread , cover and refrigerate overnight , turning once .
+PREDID: 0
+PRED: pour
+  DOBJ: milk mixture
+  PARG: bread
+    PREP: over
+
+PREDID: 1
+PRED: cover
+  OARG: overnight
+
+PREDID: 2
+PRED: refrigerate
+  DOBJ: turning
+  OARG: once
+
+
+SENTID: 3
+SENT: When ready to cook , preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: cook
+    PREP: to
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+  OARG: when ready
+
+
+SENTID: 4
+SENT: Coat a jelly roll pan , or rimmed baking sheet , evenly with the melted butter .
+PREDID: 0
+PRED: coat
+  DOBJ: a jelly roll pan , or rimmed baking sheet
+  PARG: the melted butter
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Arrange soaked bread slices in a single layer on pan .
+PREDID: 0
+PRED: arrange
+  DOBJ: soaked bread slices
+  PARG: a single layer
+    PREP: in
+  PARG: pan
+    PREP: on
+
+
+SENTID: 6
+SENT: Sprinkle evenly with orange peel and pecans .
+PREDID: 0
+PRED: sprinkle
+  PARG: orange peel, pecans
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Bake in preheated oven until golden , 20 to 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: golden , 20 to 25 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Check slices during last 10 minutes of baking time to avoid burning .
+PREDID: 0
+PRED: check
+  DOBJ: slices
+  PARG: last 10 minutes of baking time
+    PREP: during
+  OARG: to avoid burning
+

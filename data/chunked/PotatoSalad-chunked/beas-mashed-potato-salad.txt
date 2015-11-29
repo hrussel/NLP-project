@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: Prepare Idahoan Baby Reds following package instructions .
+PREDID: 0
+PRED: prepare
+  DOBJ: idahoan baby reds following package instructions
+
+
+SENTID: 1
+SENT: Stir in pickles , radishes , hard-boiled egg , celery and red onion .
+PREDID: 0
+PRED: stir
+  PARG: pickles , radishes , hard-boiled egg , celery, red onion
+    PREP: in
+
+
+SENTID: 2
+SENT: Combine mayo and mustards in a separate bowl and mix into mashed potato mixture .
+PREDID: 0
+PRED: combine
+  DOBJ: mayo, mustards
+  PARG: a separate bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: mashed potato mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Season to taste with salt and pepper and celery seed if using .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper, celery seed
+    PREP: with
+  PARG: using
+    PREP: if
+

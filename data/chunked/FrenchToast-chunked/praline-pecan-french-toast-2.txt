@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Mix half-and-half , eggs , vanilla , and 1 tablespoon dark brown sugar together in a large shallow bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: half-and-half , eggs , vanilla , 1 tablespoon dark brown sugar
+  PARG: a large shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: add French bread .
+PREDID: 0
+PRED: add
+  DOBJ: french bread
+
+
+SENTID: 2
+SENT: Cover bowl with plastic wrap and refrigerate 8 hours to overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 8 hours
+  OARG: to overnight
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Place butter in a 9x13-inch casserole dish .
+PREDID: 0
+PRED: place
+  DOBJ: butter
+  PARG: a 9x13-inch casserole dish
+    PREP: in
+
+
+SENTID: 5
+SENT: Place casserole dish in the preheating oven to melt butter , about 5 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: casserole dish
+  PARG: the preheating oven
+    PREP: in
+  PARG: melt butter
+    PREP: to
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 6
+SENT: Swirl butter over bottom of the dish .
+PREDID: 0
+PRED: swirl
+  DOBJ: butter
+  PARG: bottom of the dish
+    PREP: over
+
+
+SENTID: 7
+SENT: Spread brown sugar , maple syrup , and pecans over the melted butter .
+PREDID: 0
+PRED: spread
+  DOBJ: brown sugar , maple syrup , pecans
+  PARG: the melted butter
+    PREP: over
+
+
+SENTID: 8
+SENT: Arrange soaked bread atop pecan mixture .
+PREDID: 0
+PRED: arrange
+  DOBJ: soaked bread
+  PARG: pecan mixture
+    PREP: atop
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until French toast is cooked through , 30 to 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: french toast is cooked through , 30 to 35 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Sprinkle with confectioners ' sugar .
+PREDID: 0
+PRED: sprinkle
+  PARG: confectioners ' sugar
+    PREP: with
+

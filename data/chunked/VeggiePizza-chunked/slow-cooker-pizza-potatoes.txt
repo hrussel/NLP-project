@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Heat oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir potatoes and onion in oil until the onion is translucent , 7 to 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: potatoes, onion
+
+PREDID: 1
+PRED: stir
+  PARG: oil
+    PREP: in
+  PARG: the onion is translucent , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Put potato mixture in a slow cooker and add mozzarella cheese and pepperoni .
+PREDID: 0
+PRED: put
+  DOBJ: potato mixture
+  PARG: a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: mozzarella cheese, pepperoni
+
+
+SENTID: 4
+SENT: Pour pizza sauce over the mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: pizza sauce
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook on Low for 6 to 10 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 6 to 10 hours
+    PREP: for
+

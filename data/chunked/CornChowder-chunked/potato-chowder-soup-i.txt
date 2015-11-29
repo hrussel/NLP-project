@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Place potatoes , carrots , celery , onion and salt in a large pot with water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes , carrots , celery , onion, salt
+  PARG: a large pot
+    PREP: in
+  PARG: water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , reduce heat and simmer 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  OARG: 20 minutes
+
+
+SENTID: 2
+SENT: Meanwhile , combine butter , milk and flour in a small saucepan over medium-low heat .
+PREDID: 0
+PRED: combine
+  DOBJ: butter , milk, flour
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Stir constantly until smooth and thick .
+PREDID: 0
+PRED: stir
+  PARG: smooth, thick
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 4
+SENT: Pour milk mixture into cooked vegetables .
+PREDID: 0
+PRED: pour
+  DOBJ: milk mixture
+  PARG: cooked vegetables
+    PREP: into
+
+
+SENTID: 5
+SENT: Stir in corn and cheese until cheese is melted .
+PREDID: 0
+PRED: stir
+  PARG: corn, cheese
+    PREP: in
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

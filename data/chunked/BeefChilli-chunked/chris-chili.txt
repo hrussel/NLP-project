@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Prepare soup from a packet of onion soup mix according to the package directions , and set 1Ê1/2 cups aside .
+PREDID: 0
+PRED: prepare
+  DOBJ: soup
+  PARG: a packet of onion soup mix according
+    PREP: from
+  PARG: the package directions
+    PREP: to
+
+PREDID: 1
+PRED: set
+  DOBJ: 1Ê1/2 cups
+  OARG: aside
+
+
+SENTID: 1
+SENT: Place bacon grease into a large stainless steel soup pot over medium-high heat , and cook and stir the cubed round and sirloin steak meat in the bacon fat until well browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon grease
+  PARG: a large stainless steel soup pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: the cubed round, sirloin steak meat
+
+PREDID: 2
+PRED: stir
+  PARG: the bacon fat
+    PREP: in
+  PARG: well browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour in the reserved onion soup , bring to a boil , then reduce to a simmer and cook for 7 minutes , stirring to dissolve any browned flavor bits from the pot .
+PREDID: 0
+PRED: pour
+  PARG: the reserved onion soup
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 2
+PRED: reduce
+  PARG: a simmer
+    PREP: to
+
+PREDID: 3
+PRED: cook
+  PARG: 7 minutes , stirring
+    PREP: for
+  PARG: dissolve any browned flavor bits
+    PREP: to
+  PARG: the pot
+    PREP: from
+
+
+SENTID: 3
+SENT: Stir in salt , chili powder , cumin , black pepper , kidney beans , tomato paste , and tomato sauce .
+PREDID: 0
+PRED: stir
+  PARG: salt , chili powder , cumin , black pepper , kidney beans , tomato paste , tomato sauce
+    PREP: in
+
+
+SENTID: 4
+SENT: Bring the mixture to a boil , stirring frequently to avoid burning the bottom , then cover , reduce heat to low , and simmer for 1 hour , stirring occasionally .
+PREDID: 0
+PRED: bring
+  DOBJ: cover , reduce heat
+  PARG: a boil , stirring
+    PREP: to
+  PARG: low , simmer
+    PREP: to
+  PARG: 1 hour , stirring
+    PREP: for
+  OARG: frequently
+  OARG: to avoid burning the bottom
+  OARG: then
+  OARG: the mixture
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Stir in the cocoa powder , cola , and hot sauce , and simmer for 20 more minutes .
+PREDID: 0
+PRED: stir
+  PARG: the cocoa powder , cola , hot sauce
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: 20 more minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

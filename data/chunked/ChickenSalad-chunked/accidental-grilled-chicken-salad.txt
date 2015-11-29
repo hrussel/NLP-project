@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Place chicken breast halves in a large resealable plastic bag with lemon juice , olive oil , and lemon pepper .
+PREDID: 0
+PRED: place
+  DOBJ: chicken breast halves
+  PARG: a large resealable plastic bag
+    PREP: in
+  PARG: lemon juice , olive oil , lemon pepper
+    PREP: with
+
+
+SENTID: 1
+SENT: Shake to coat , and marinate in the refrigerator for at least 1 hour .
+PREDID: 0
+PRED: shake
+  PARG: coat
+    PREP: to
+
+PREDID: 1
+PRED: marinate
+  PARG: the refrigerator
+    PREP: in
+  PARG: at least 1 hour
+    PREP: for
+
+
+SENTID: 2
+SENT: Preheat a grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: a grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 3
+SENT: Lightly oil the grill grate .
+PREDID: 0
+PRED: oil
+  DOBJ: the grill grate
+  OARG: lightly
+
+
+SENTID: 4
+SENT: Place the Vidalia onions and mushrooms on the grill , and cook until lightly charred on both sides ;
+PREDID: 0
+PRED: place
+  DOBJ: the vidalia onions, mushrooms
+  PARG: the grill
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: lightly charred on both sides
+    PREP: until
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Place chicken onto the grill , and discard marinade .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: the grill
+    PREP: onto
+
+PREDID: 1
+PRED: discard
+  DOBJ: marinade
+
+
+SENTID: 7
+SENT: Cook for 15 minutes , turning once , or until juices run clear .
+PREDID: 0
+PRED: cook
+  PARG: 15 minutes , turning
+    PREP: for
+  PARG: juices run clear
+    PREP: until
+  OARG: once
+
+
+SENTID: 8
+SENT: Remove from heat , cool , and chop .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 9
+SENT: In a large bowl , thoroughly mix the onions , mushrooms , chicken , and mayonnaise .
+PREDID: 0
+PRED: mix
+  DOBJ: the onions , mushrooms , chicken , mayonnaise
+  PARG: a large bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 10
+SENT: Season with hot sauce , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: hot sauce , salt , pepper
+    PREP: with
+
+
+SENTID: 11
+SENT: Cover , and refrigerate until serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

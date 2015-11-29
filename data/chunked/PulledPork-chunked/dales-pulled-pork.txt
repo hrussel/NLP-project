@@ -1,0 +1,190 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Season pork shoulder roast generously with sea salt and black pepper .
+PREDID: 0
+PRED: season
+  DOBJ: pork shoulder roast
+  PARG: sea salt, black pepper
+    PREP: with
+  OARG: generously
+
+
+SENTID: 2
+SENT: Heat olive oil in a 4-quart oven-safe pot with a lid over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a 4-quart oven-safe pot
+    PREP: in
+  PARG: a lid
+    PREP: with
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Sear seasoned pork roast in hot oil on all sides until completely browned , 2 to 3 minutes per side .
+PREDID: 0
+PRED: sear
+  DOBJ: seasoned pork roast
+  PARG: hot oil
+    PREP: in
+  PARG: all sides
+    PREP: on
+  PARG: completely browned , 2 to 3 minutes per side
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove the pork roast to a cutting board , reserving the fat in the pot .
+PREDID: 0
+PRED: remove
+  DOBJ: reserving the fat
+  PARG: a cutting board
+    PREP: to
+  PARG: the pot
+    PREP: in
+  OARG: the pork roast
+
+
+SENTID: 5
+SENT: Allow the pot to cool slightly and place over low heat .
+PREDID: 0
+PRED: allow
+  DOBJ: the pot
+  OARG: to cool
+  OARG: slightly
+
+PREDID: 1
+PRED: place
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook and stir onion and garlic in reserved hot oil until the onions are translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: reserved hot oil
+    PREP: in
+  PARG: the onions are translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour the chicken broth into the pot ;
+PREDID: 0
+PRED: pour
+  DOBJ: the chicken broth
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 8
+SENT: bring to a boil while scraping the browned bits of food off of the bottom of the pan with a flat-edged wooden spoon .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: scraping the browned bits of food
+    PREP: while
+  PARG: of the bottom of the pan
+    PREP: off
+  PARG: a flat-edged wooden spoon
+    PREP: with
+
+
+SENTID: 9
+SENT: Stir liquid smoke into the onion mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: liquid smoke
+  PARG: the onion mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Return pork roast to the pot and cover with a lid .
+PREDID: 0
+PRED: return
+  DOBJ: pork roast
+  PARG: the pot
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: a lid
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in preheated oven until completely tender , 3 to 4 hours .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: completely tender , 3 to 4 hours
+    PREP: until
+
+
+SENTID: 12
+SENT: Remove pork to a cutting board , cover loosely with aluminum foil , and allow it to rest for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: a cutting board
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+  OARG: loosely
+
+PREDID: 2
+PRED: allow
+  DOBJ: it
+  PARG: rest
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Shred the pork with a 2 forks into fine shreds .
+PREDID: 0
+PRED: shred
+  DOBJ: the pork
+  PARG: a 2 forks
+    PREP: with
+  PARG: fine shreds
+    PREP: into
+
+
+SENTID: 14
+SENT: Return shredded pork to the pot and stir with the remaining liquid to serve .
+PREDID: 0
+PRED: return
+  DOBJ: shredded pork
+  PARG: the pot
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the remaining liquid
+    PREP: with
+  PARG: serve
+    PREP: to
+

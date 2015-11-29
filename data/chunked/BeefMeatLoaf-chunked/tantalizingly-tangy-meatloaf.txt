@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the ground beef , bread crumbs , egg , garlic powder and Worcestershire sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , bread crumbs , egg , garlic powder, worcestershire sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well , and place into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: place
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in preheated oven for 30 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 to 50 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Meanwhile , in a separate medium bowl , stir together the ketchup , brown sugar and pineapple preserves .
+PREDID: 0
+PRED: stir
+  DOBJ: the ketchup , brown sugar, pineapple preserves
+  PARG: a separate medium bowl
+    PREP: in
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour over the meatloaf about 20 minutes before removing from oven .
+PREDID: 0
+PRED: pour
+  PARG: the meatloaf
+    PREP: over
+  PARG: 20 minutes
+    PREP: about
+  PARG: removing
+    PREP: before
+  PARG: oven
+    PREP: from
+

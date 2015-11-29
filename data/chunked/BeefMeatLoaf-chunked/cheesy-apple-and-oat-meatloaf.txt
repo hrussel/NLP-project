@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x5 inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5 inch loaf pan
+
+
+SENTID: 2
+SENT: Mix the beef , pork , egg , apple , onion , Worcestershire sauce , salt , and pepper in a mixing bowl until evenly mixed .
+PREDID: 0
+PRED: mix
+  DOBJ: the beef , pork , egg , apple , onion , worcestershire sauce , salt , pepper
+  PARG: a mixing bowl
+    PREP: in
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 3
+SENT: Add the Cheddar cheese , bread crumbs , and oats ;
+PREDID: 0
+PRED: add
+  DOBJ: the cheddar cheese , bread crumbs , oats
+
+
+SENTID: 4
+SENT: mix again until evenly mixed .
+PREDID: 0
+PRED: mix
+  PARG: evenly mixed
+    PREP: until
+  OARG: again
+
+
+SENTID: 5
+SENT: Pack the meat mixture into the prepared loaf pan .
+PREDID: 0
+PRED: pack
+  DOBJ: the meat mixture
+  PARG: the prepared loaf pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+
+
+SENTID: 7
+SENT: Allow the meatloaf to rest for 10 minutes before slicing to keep the meat from crumbling .
+PREDID: 0
+PRED: allow
+  DOBJ: the meatloaf
+  PARG: rest
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+  PARG: keep the meat
+    PREP: to
+  PARG: crumbling
+    PREP: from
+

@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Fry bacon in a Dutch oven until crisp ;
+PREDID: 0
+PRED: fry
+  DOBJ: bacon
+  PARG: a dutch oven
+    PREP: in
+  PARG: crisp
+    PREP: until
+
+
+SENTID: 1
+SENT: remove bacon , reserving 2 tablespoons drippings .
+PREDID: 0
+PRED: remove
+  DOBJ: reserving 2 tablespoons drippings
+  OARG: bacon
+
+
+SENTID: 2
+SENT: Crumble bacon and set aside .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Saute onion in reserved drippings until tender ;
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: reserved drippings
+    PREP: in
+  PARG: tender
+    PREP: until
+
+
+SENTID: 4
+SENT: add potatoes and water .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes, water
+
+
+SENTID: 5
+SENT: Cover and simmer 15 to 20 minutes or until potatoes are tender .
+PREDID: 0
+PRED: cover
+  OARG: 15 to 20 minutes
+
+PREDID: 1
+PRED: simmer
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in milk , corn , salt , and pepper to taste ;
+PREDID: 0
+PRED: stir
+  PARG: milk , corn , salt , pepper
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 7
+SENT: continue to cook , stirring frequently , until heated through .
+PREDID: 0
+PRED: continue
+  PARG: cook , stirring
+    PREP: to
+  PARG: heated through
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 8
+SENT: Sprinkle with crumbled bacon to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: crumbled bacon
+    PREP: with
+  PARG: serve
+    PREP: to
+

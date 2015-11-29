@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Heat griddle to smoking .
+PREDID: 0
+PRED: heat
+  DOBJ: griddle
+  PARG: smoking
+    PREP: to
+
+
+SENTID: 1
+SENT: Rub chicken breasts with oil and season with salt and pepper .
+PREDID: 0
+PRED: rub
+  DOBJ: chicken breasts
+  PARG: oil
+    PREP: with
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Place on griddle and cook on both sides until chicken is cooked through .
+PREDID: 0
+PRED: place
+  PARG: griddle
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: both sides
+    PREP: on
+  PARG: chicken is cooked through
+    PREP: until
+
+
+SENTID: 3
+SENT: At the same time , fry bacon pieces in a non-stick pan .
+PREDID: 0
+PRED: fry
+  DOBJ: bacon pieces
+  PARG: the same time
+    PREP: at
+  PARG: a non-stick pan
+    PREP: in
+
+
+SENTID: 4
+SENT: Drain on paper towel .
+PREDID: 0
+PRED: drain
+  PARG: paper towel
+    PREP: on
+
+
+SENTID: 5
+SENT: Cook pasta in lightly salted boiling water until just al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: lightly salted boiling water
+    PREP: in
+  PARG: just al dente
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain and drizzle with olive oil .
+PREDID: 0
+PRED: drain
+  PARG: olive oil
+    PREP: with
+
+PREDID: 1
+PRED: drizzle
+
+
+SENTID: 7
+SENT: Transfer all to a large bowl with sliced onions and mix Maille ¨ Dijon Originale mustard into salad .
+PREDID: 0
+PRED: transfer
+  DOBJ: all to a large bowl
+  PARG: sliced onions
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  DOBJ: maille ¨ dijon originale mustard
+  PARG: salad
+    PREP: into
+
+
+SENTID: 8
+SENT: Season .
+PREDID: 0
+PRED: season
+
+
+SENTID: 9
+SENT: Toss lightly .
+PREDID: 0
+PRED: toss
+  OARG: lightly
+
+
+SENTID: 10
+SENT: Serve in bowls sprinkled with parsley .
+PREDID: 0
+PRED: serve
+  PARG: bowls sprinkled
+    PREP: in
+  PARG: parsley
+    PREP: with
+

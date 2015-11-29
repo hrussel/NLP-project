@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Sprinkle pork chops with garlic powder , salt and pepper and place in a large greased sauce pan or deep skillet with chopped onion and fry until very brown and well cooked .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pork chops
+  PARG: garlic powder , salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: place
+  DOBJ: skillet
+  PARG: a large greased sauce pan
+    PREP: in
+  PARG: chopped onion
+    PREP: with
+  OARG: deep
+
+PREDID: 2
+PRED: fry
+  PARG: very brown, well cooked
+    PREP: until
+
+
+SENTID: 1
+SENT: When done , remove chops and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: chops
+  OARG: when done
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Add a little water to the saucepan or skillet and mix up the drippings a bit .
+PREDID: 0
+PRED: add
+  DOBJ: a little water
+  PARG: the saucepan or skillet
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  DOBJ: the drippings a bit
+  OARG: up
+
+
+SENTID: 3
+SENT: Place cabbage into the pot , and allow to cook down completely .
+PREDID: 0
+PRED: place
+  DOBJ: cabbage
+  PARG: the pot
+    PREP: into
+
+PREDID: 1
+PRED: allow
+  PARG: cook
+    PREP: to
+  OARG: down
+  OARG: completely
+
+
+SENTID: 4
+SENT: In a separate large saucepan , boil the egg noodles in water until cooked .
+PREDID: 0
+PRED: boil
+  DOBJ: the egg noodles
+  PARG: a separate large saucepan
+    PREP: in
+  PARG: water
+    PREP: in
+  PARG: cooked
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain noodles and mix in butter .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: mix
+  PARG: butter
+    PREP: in
+
+
+SENTID: 6
+SENT: Cut up the pork chops to bite size pieces and set aside .
+PREDID: 0
+PRED: cut
+  DOBJ: the pork chops
+  PARG: bite size pieces
+    PREP: to
+  OARG: up
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: When the cabbage has cooked down , add pork and cooked noodles and mix completely .
+PREDID: 0
+PRED: add
+  DOBJ: pork, cooked noodles
+  OARG: when the cabbage has cooked
+  OARG: down
+
+PREDID: 1
+PRED: mix
+  OARG: completely
+

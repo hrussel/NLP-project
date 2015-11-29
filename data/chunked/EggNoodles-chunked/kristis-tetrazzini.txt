@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat a 13x9 inch baking dish with cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a 13x9 inch baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In a 3 quart saucepan , boil chicken for about 30 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: chicken
+  PARG: a 3 quart saucepan
+    PREP: in
+  PARG: about 30 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain , and cut into bite sized pieces . Meanwhile , cook pasta according to directions .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cut
+  PARG: bite sized pieces
+    PREP: into
+  OARG: meanwhile
+
+PREDID: 2
+PRED: cook
+  DOBJ: pasta according
+  PARG: directions
+    PREP: to
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: In a large bowl , mix together cream of chicken soup , broccoli , celery , sliced mushrooms , seasoned salt , salt , pepper , and onion .
+PREDID: 0
+PRED: mix
+  DOBJ: cream of chicken soup , broccoli , celery , sliced mushrooms , seasoned salt , salt , pepper , onion
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Stir in pasta and chicken pieces . Spread mixture into the prepared baking dish .
+PREDID: 0
+PRED: stir
+  PARG: pasta, chicken pieces
+    PREP: in
+
+PREDID: 1
+PRED: spread
+  DOBJ: mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Sprinkle with shredded cheese and paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: shredded cheese, paprika
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+

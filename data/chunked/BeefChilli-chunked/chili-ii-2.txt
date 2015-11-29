@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: In a large Dutch oven , heat the olive oil over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a large dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Brown the ground beef until no longer pink .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: no longer pink
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain most of the fat from the ground beef .
+PREDID: 0
+PRED: drain
+  DOBJ: most of the fat
+  PARG: the ground beef
+    PREP: from
+
+
+SENTID: 3
+SENT: Push the ground beef to the sides of the pan and saute the onion and garlic in the middle until softened .
+PREDID: 0
+PRED: push
+  DOBJ: the ground beef
+  PARG: the sides of the pan
+    PREP: to
+
+PREDID: 1
+PRED: saute
+  DOBJ: the onion, garlic
+  PARG: the middle
+    PREP: in
+  PARG: softened
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour in beef stock , red wine , and balsamic vinegar .
+PREDID: 0
+PRED: pour
+  PARG: beef stock , red wine , balsamic vinegar
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in tomatoes , sun-dried tomatoes , tomato paste and black beans .
+PREDID: 0
+PRED: stir
+  PARG: tomatoes , sun-dried tomatoes , tomato paste, black beans
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 7
+SENT: Sprinkle in the cayenne pepper , chili powder , salt , pepper , oregano , sage and sugar , then add the bay leaf .
+PREDID: 0
+PRED: sprinkle
+  PARG: the cayenne pepper , chili powder , salt , pepper , oregano , sage, sugar
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the bay leaf
+
+
+SENTID: 8
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 9
+SENT: Cover and simmer on lowest heat for 45 to 90 minutes .
+PREDID: 0
+PRED: cover
+  PARG: lowest heat
+    PREP: on
+
+PREDID: 1
+PRED: simmer
+  PARG: 45 to 90 minutes
+    PREP: for
+

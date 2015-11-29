@@ -1,0 +1,180 @@
+T1	predicate 0 7	Preheat
+T3	predicate 195 201	Mix in
+T4	predicate 262 265	Cut
+T5	predicate 303 307	roll
+T6	predicate 335 346	refrigerate
+T7	predicate 382 386	mash
+T9	predicate 591 597	Mix in
+T10	predicate 677 680	Cut
+T11	predicate 710 713	cut
+T12	predicate 778 783	press
+T13	predicate 864 868	Fill
+T14	predicate 931 942	Refrigerate
+T15	predicate 998 1002	Bake
+T16	predicate 1109 1114	Allow
+T17	predicate 1151 1155	Mash
+T18	predicate 1270 1276	mix in
+T19	predicate 1349 1363	Spread or pipe
+T20	predicate 1400 1408	Sprinkle
+T21	predicate 1446 1457	Refrigerate
+T22	arg_object 8 12	oven
+T23	arg_other 13 45	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T22	
+R2	other Arg1:T1 Arg2:T23	
+T2	predicate 72 80	creaming
+T24	arg_other 81 89	together
+T25	arg_object 90 115	12 ounces of cream cheese
+T26	arg_co-object 116 152	with 1 pound of butter and the sugar
+R3	other Arg1:T2 Arg2:T24	
+R4	object Arg1:T2 Arg2:T25	
+R5	co-object Arg1:T2 Arg2:T26	
+T27	ingredient 90 115	12 ounces of cream cheese
+T28	ingredient 121 138	1 pound of butter
+T29	ingredient 143 152	the sugar
+T30	arg_location 153 168	in a large bowl
+T31	arg_duration 169 193	until thoroughly blended
+R6	location Arg1:T2 Arg2:T30	
+R7	duration Arg1:T2 Arg2:T31	
+T32	arg_object 202 211	the flour
+R8	object Arg1:T3 Arg2:T32	
+R9	co-object Arg1:T3 Arg2:T2	
+T33	ingredient 202 211	the flour
+T34	arg_other 213 231	a little at a time
+T35	arg_duration 233 260	until the dough is workable
+R10	other Arg1:T3 Arg2:T34	
+R11	duration Arg1:T3 Arg2:T35	
+T36	arg_object 266 275	the dough
+T37	Evolution 266 275	the dough
+E1	Evolution:T37 Cause:T3
+T38	arg_other 276 301	into 4 equal-sized pieces
+R12	object Arg1:T4 Arg2:T36	
+R13	other Arg1:T4 Arg2:T38	
+T39	arg_object 308 318	the pieces
+T40	Evolution 308 318	the pieces
+E2	Evolution:T40 Cause:T4
+T41	arg_other 319 329	into balls
+R14	object Arg1:T5 Arg2:T39	
+R15	other Arg1:T5 Arg2:T41	
+R16	object Arg1:T6 Arg2:T5	
+T42	arg_duration 347 359	until needed
+R17	duration Arg1:T6 Arg2:T42	
+T43	arg_object 387 412	12 ounces of cream cheese
+T44	ingredient 387 412	12 ounces of cream cheese
+R18	object Arg1:T7 Arg2:T43	
+T45	arg_co-object 413 468	with brown sugar, pumpkin pie spice, cinnamon, and salt
+R19	co-object Arg1:T7 Arg2:T45	
+T46	ingredient 418 429	brown sugar
+T47	ingredient 431 448	pumpkin pie spice
+T48	ingredient 450 458	cinnamon
+T49	ingredient 464 468	salt
+T50	arg_location 469 478	in a bowl
+T51	arg_duration 479 509	until smooth and well combined
+R20	location Arg1:T7 Arg2:T50	
+R21	duration Arg1:T7 Arg2:T51	
+T8	predicate 511 518	beat in
+T52	arg_object 519 523	eggs
+T53	ingredient 519 523	eggs
+R22	object Arg1:T8 Arg2:T52	
+R23	co-object Arg1:T8 Arg2:T7	
+T54	arg_other 525 589	one at a time, incorporating each egg before adding the next one
+R24	other Arg1:T8 Arg2:T54	
+R25	co-object Arg1:T9 Arg2:T8	
+T55	arg_object 598 609	the pumpkin
+T56	arg_object 611 626	evaporated milk
+T57	arg_object 632 647	vanilla extract
+T58	arg_duration 648 675	until the filling is smooth
+T59	ingredient 598 609	the pumpkin
+T60	ingredient 611 626	evaporated milk
+T61	ingredient 632 647	vanilla extract
+R26	object Arg1:T9 Arg2:T55	
+R27	object Arg1:T9 Arg2:T56	
+R28	object Arg1:T9 Arg2:T57	
+R29	duration Arg1:T9 Arg2:T58	
+T62	arg_object 681 696	each dough ball
+R30	object Arg1:T10 Arg2:T62	
+T63	Evolution 681 696	each dough ball
+E3	Evolution:T63 Cause:T6
+T64	arg_other 697 704	in half
+R31	other Arg1:T10 Arg2:T64	
+T65	arg_object 714 723	each half
+T66	Evolution 714 723	each half
+E4	Evolution:T66 Cause:T10
+R32	object Arg1:T11 Arg2:T65	
+T67	arg_other 724 756	into 12 pieces (96 total pieces)
+R33	other Arg1:T11 Arg2:T67	
+T68	arg_object 784 809	each small piece of dough
+T69	Evolution 784 809	each small piece of dough
+E5	Evolution:T69 Cause:T11
+R34	object Arg1:T12 Arg2:T68	
+T70	arg_location 810 862	into the bottom and up the sides of mini muffin cups
+R35	location Arg1:T12 Arg2:T70	
+T71	arg_object 869 886	the little crusts
+T72	Evolution 869 886	the little crusts
+E6	Evolution:T72 Cause:T12
+R36	object Arg1:T13 Arg2:T71	
+T73	arg_other 758 776	Working in batches
+R37	other Arg1:T12 Arg2:T73	
+T74	arg_other 887 904	almost to the top
+T75	arg_co-object 905 929	with the pumpkin filling
+T76	Evolution 910 929	the pumpkin filling
+E7	Evolution:T76 Cause:T9
+R38	other Arg1:T13 Arg2:T74	
+R39	co-object Arg1:T13 Arg2:T75	
+T77	arg_object 943 955	unused dough
+T78	Evolution 943 955	unused dough
+E8	Evolution:T78 Cause:T12
+R40	object Arg1:T14 Arg2:T77	
+T79	arg_duration 956 996	until you need it to make the next batch
+R41	duration Arg1:T14 Arg2:T79	
+R42	object Arg1:T15 Arg2:T13	
+T80	arg_location 1003 1024	in the preheated oven
+R43	location Arg1:T15 Arg2:T80	
+T81	Evolution 1006 1024	the preheated oven
+E9	Evolution:T81 Cause:T1
+T82	arg_duration 1025 1107	until the filling is set and the crusts are lightly golden brown, 25 to 30 minutes
+R44	duration Arg1:T15 Arg2:T82	
+R45	object Arg1:T16 Arg2:T15	
+T83	arg_other 1115 1149	to cool completely before frosting
+R46	other Arg1:T16 Arg2:T83	
+T84	arg_object 1156 1173	1/2 cup of butter
+T85	arg_object 1175 1189	the shortening
+T86	arg_object 1195 1219	8 ounces of cream cheese
+T87	ingredient 1156 1173	1/2 cup of butter
+T88	ingredient 1175 1189	the shortening
+T89	ingredient 1195 1219	8 ounces of cream cheese
+R47	object Arg1:T17 Arg2:T84	
+R48	object Arg1:T17 Arg2:T85	
+R49	object Arg1:T17 Arg2:T86	
+T90	arg_other 1220 1228	together
+T91	arg_location 1229 1238	in a bowl
+T92	arg_duration 1239 1264	until thoroughly combined
+R50	other Arg1:T17 Arg2:T90	
+R51	location Arg1:T17 Arg2:T91	
+R52	duration Arg1:T17 Arg2:T92	
+R53	co-object Arg1:T18 Arg2:T17	
+T93	arg_object 1277 1301	the confectioners' sugar
+T94	arg_object 1306 1323	marshmallow creme
+R54	object Arg1:T18 Arg2:T93	
+R55	object Arg1:T18 Arg2:T94	
+T95	ingredient 1277 1301	the confectioners' sugar
+T96	ingredient 1306 1323	marshmallow creme
+T97	arg_duration 1324 1347	until smooth and creamy
+R56	duration Arg1:T18 Arg2:T97	
+T98	arg_object 1364 1376	the frosting
+T99	Evolution 1364 1376	the frosting
+E10	Evolution:T99 Cause:T18
+R57	object Arg1:T19 Arg2:T98	
+T100	arg_co-object 1377 1398	onto the cooled tarts
+T101	Evolution 1382 1398	the cooled tarts
+E11	Evolution:T101 Cause:T16
+R58	co-object Arg1:T19 Arg2:T100	
+T102	arg_object 1409 1418	each tart
+T103	Evolution 1409 1418	each tart
+E12	Evolution:T103 Cause:T19
+T104	arg_co-object 1419 1444	with a few chopped pecans
+T105	ingredient 1424 1444	a few chopped pecans
+R59	object Arg1:T20 Arg2:T102	
+R60	co-object Arg1:T20 Arg2:T104	
+R61	object Arg1:T21 Arg2:T20	
+T106	arg_duration 1459 1471	ntil serving
+R62	duration Arg1:T21 Arg2:T106	

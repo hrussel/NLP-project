@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the onion , carrots , and water into a blender .
+PREDID: 0
+PRED: place
+  DOBJ: the onion , carrots , water
+  PARG: a blender
+    PREP: into
+
+
+SENTID: 2
+SENT: Cover , and puree until smooth , adding more water if needed .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: puree
+  PARG: smooth , adding more water if needed
+    PREP: until
+
+
+SENTID: 3
+SENT: In a large bowl , combine the ground chuck , pork , matzo meal , and eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground chuck , pork , matzo meal , eggs
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Season with garlic , salt , and black pepper .
+PREDID: 0
+PRED: season
+  PARG: garlic , salt , black pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Shape the meat mixture into a loaf and transfer to a baking dish .
+PREDID: 0
+PRED: shape
+  DOBJ: the meat mixture
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: transfer
+  PARG: a baking dish
+    PREP: to
+
+
+SENTID: 6
+SENT: Pour the browning sauce and any remaining onion puree on top of the loaf .
+PREDID: 0
+PRED: pour
+  DOBJ: the browning sauce, any remaining onion
+
+PREDID: 1
+PRED: puree
+  PARG: top of the loaf
+    PREP: on
+
+
+SENTID: 7
+SENT: Fill baking dish with about 2-inches of water , then cover with aluminum foil .
+PREDID: 0
+PRED: fill
+  DOBJ: baking dish
+  PARG: about 2-inches of water
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until loaf is no longer pink in the center , about 1 hour and 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: loaf is no longer pink in the center , about 1 hour, 20 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove the foil and pour ketchup in a zig-zag shape over the loaf during the last 15 minutes of baking .
+PREDID: 0
+PRED: remove
+  DOBJ: the foil
+
+PREDID: 1
+PRED: pour
+  DOBJ: ketchup
+  PARG: a zig-zag shape
+    PREP: in
+  PARG: the loaf
+    PREP: over
+  PARG: the last 15 minutes of baking
+    PREP: during
+
+
+SENTID: 10
+SENT: Allow the meat loaf to rest for 15 minutes before slicing and serving .
+PREDID: 0
+PRED: allow
+  DOBJ: the meat loaf
+  PARG: rest
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+  PARG: slicing, serving
+    PREP: before
+

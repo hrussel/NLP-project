@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: In a 12-inch nonstick skillet , brown sausage over medium-high heat for 3-5 minutes .
+PREDID: 0
+PRED: brown
+  DOBJ: sausage
+  PARG: a 12-inch nonstick skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: 3-5 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: Transfer to a plate and keep warm .
+PREDID: 0
+PRED: transfer
+  PARG: a plate
+    PREP: to
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 2
+SENT: In the same skillet , bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: the same skillet
+    PREP: in
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add pasta , reduce heat , stir often until pasta is al dente , about 8-10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: stir
+  PARG: pasta is al dente , about 8-10 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 4
+SENT: In a small bowl , whisk cornstarch , milk and hot pepper sauce .
+PREDID: 0
+PRED: whisk
+  DOBJ: cornstarch , milk, hot pepper sauce
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Gradually add to pasta ;
+PREDID: 0
+PRED: add
+  PARG: pasta
+    PREP: to
+  OARG: gradually
+
+
+SENTID: 6
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 7
+SENT: add cheese and sausage .
+PREDID: 0
+PRED: add
+  DOBJ: cheese, sausage
+
+
+SENTID: 8
+SENT: Stir until blended and cheese melts .
+PREDID: 0
+PRED: stir
+  PARG: blended, cheese melts
+    PREP: until
+
+
+SENTID: 9
+SENT: Sprinkle with crumbs if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: crumbs
+    PREP: with
+  PARG: desired
+    PREP: if
+
+
+SENTID: 10
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

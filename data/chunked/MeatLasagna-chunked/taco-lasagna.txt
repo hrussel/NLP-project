@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Meanwhile , in a large skillet , brown beef over medium heat until no longer pink ;
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: no longer pink
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Add tomato sauce , water and taco seasoning .
+PREDID: 0
+PRED: add
+  DOBJ: tomato sauce , water, taco seasoning
+
+
+SENTID: 6
+SENT: Lower heat and simmer for 5 minutes .
+PREDID: 0
+PRED: lower
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: In a 9x13 inch glass baking dish , layer noodles then meat mixture and cheese ;
+PREDID: 0
+PRED: layer
+  DOBJ: meat mixture
+  PARG: a 9x13 inch glass baking dish
+    PREP: in
+  OARG: then
+  OARG: noodles
+
+PREDID: 1
+PRED: cheese
+
+
+SENTID: 8
+SENT: repeat 2 more times .
+PREDID: 0
+PRED: repeat
+  DOBJ: 2 more times
+
+
+SENTID: 9
+SENT: Cover with plastic wrap and microwave for 10 minutes .
+PREDID: 0
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: microwave
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Remove from microwave , uncover and let stand for 5 minutes .
+PREDID: 0
+PRED: remove
+  PARG: microwave
+    PREP: from
+
+PREDID: 1
+PRED: uncover
+  DOBJ: stand
+
+PREDID: 2
+PRED: let
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Sprinkle tortilla chips over the top ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: tortilla chips
+  PARG: the top
+    PREP: over
+
+
+SENTID: 12
+SENT: serve .
+PREDID: 0
+PRED: serve
+

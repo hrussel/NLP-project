@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: In a large stock pot lightly brown ground beef , and drain if needed .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a large stock pot
+    PREP: in
+  OARG: lightly
+
+PREDID: 1
+PRED: drain
+  PARG: needed
+    PREP: if
+
+
+SENTID: 1
+SENT: Add onion and garlic and cook until onion is translucent .
+PREDID: 0
+PRED: add
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: cook
+  PARG: onion is translucent
+    PREP: until
+
+
+SENTID: 2
+SENT: Add tomatoes , diced tomatoes with chili peppers , tomato sauce , water , kidney beans , pinto beans , chili powder , cumin , sugar , salt , pepper and hot sauce .
+PREDID: 0
+PRED: add
+  DOBJ: tomatoes , diced tomatoes
+  PARG: chili peppers , tomato sauce , water , kidney beans , pinto beans , chili powder , cumin , sugar , salt , pepper, hot sauce
+    PREP: with
+
+
+SENTID: 3
+SENT: Simmer for 30 minutes and then serve .
+PREDID: 0
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: serve
+

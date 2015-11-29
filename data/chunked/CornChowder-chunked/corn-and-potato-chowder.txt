@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Render bacon in a skillet and set aside .
+PREDID: 0
+PRED: render
+  DOBJ: bacon
+  PARG: a skillet
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: In a stockpot add the water , onion , celery and potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: the water , onion , celery, potatoes
+  PARG: a stockpot
+    PREP: in
+
+
+SENTID: 2
+SENT: If desired , add 2 chopped carrots .
+PREDID: 0
+PRED: add
+  DOBJ: 2 chopped carrots
+  PARG: desired
+    PREP: if
+
+
+SENTID: 3
+SENT: Boil until tender .
+PREDID: 0
+PRED: boil
+  PARG: tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Add the non-dairy creamer , stirring constantly .
+PREDID: 0
+PRED: add
+  DOBJ: the non-dairy creamer , stirring
+  OARG: constantly
+
+
+SENTID: 5
+SENT: Add the corn , onion powder , chicken soup base , salt , pepper and cooked bacon .
+PREDID: 0
+PRED: add
+  DOBJ: the corn , onion powder , chicken soup base , salt , pepper, cooked bacon
+
+
+SENTID: 6
+SENT: Bring mixture to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: mixture
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Whisk together the flour and the 1 cup water and slowly add this mixture , stirring constantly .
+PREDID: 0
+PRED: whisk
+  DOBJ: the flour, the 1 cup water
+  OARG: together
+  OARG: slowly
+
+PREDID: 1
+PRED: add
+  DOBJ: this mixture , stirring
+  OARG: constantly
+
+
+SENTID: 8
+SENT: Cook over medium heat until slightly thickened .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: slightly thickened
+    PREP: until
+
+
+SENTID: 9
+SENT: Ladle into bowls and serve .
+PREDID: 0
+PRED: ladle
+  PARG: bowls
+    PREP: into
+
+PREDID: 1
+PRED: serve
+

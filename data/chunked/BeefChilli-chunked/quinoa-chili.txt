@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: Bring the quinoa and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: the quinoa, water
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Reduce heat to medium-low , cover , and simmer until the quinoa is tender , and the water has been absorbed , about 15 to 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the quinoa is tender , the water has been absorbed , about 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Heat a large skillet over medium-high heat and stir in the ground beef .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the ground beef
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: the beef is crumbly , evenly browned , no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Drain and discard any excess grease ;
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 5
+SENT: set beef aside .
+PREDID: 0
+PRED: set
+  DOBJ: beef
+  OARG: aside
+
+
+SENTID: 6
+SENT: Heat the olive oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Stir in the onion , garlic , and jalapeno pepper ;
+PREDID: 0
+PRED: stir
+  PARG: the onion , garlic , jalapeno pepper
+    PREP: in
+
+
+SENTID: 8
+SENT: cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 9
+SENT: Season with chili powder and cumin ;
+PREDID: 0
+PRED: season
+  PARG: chili powder, cumin
+    PREP: with
+
+
+SENTID: 10
+SENT: cook 1 minute more to release the flavor of the spices .
+PREDID: 0
+PRED: cook
+  PARG: release the flavor of the spices
+    PREP: to
+  OARG: 1 minute more
+
+
+SENTID: 11
+SENT: Stir in the tomatoes , black beans , green bell pepper , red bell pepper , zucchini , oregano , and parsley .
+PREDID: 0
+PRED: stir
+  PARG: the tomatoes , black beans , green bell pepper , red bell pepper , zucchini , oregano , parsley
+    PREP: in
+
+
+SENTID: 12
+SENT: Season to taste with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Simmer until the bell peppers are tender , about 20 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: the bell peppers are tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Once the red and green peppers are tender , stir in the quinoa , beef , and corn kernels .
+PREDID: 0
+PRED: stir
+  DOBJ: the red, green peppers are tender
+  PARG: the quinoa , beef , corn kernels
+    PREP: in
+  OARG: once
+
+
+SENTID: 15
+SENT: Return to a simmer , and cook 5 minutes to reheat .
+PREDID: 0
+PRED: return
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  OARG: 5 minutes
+  OARG: to reheat
+
+
+SENTID: 16
+SENT: Stir in the cilantro to serve .
+PREDID: 0
+PRED: stir
+  PARG: the cilantro
+    PREP: in
+  PARG: serve
+    PREP: to
+

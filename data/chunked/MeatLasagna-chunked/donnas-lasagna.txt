@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta in boiling water for 8 to 10 minutes , or until al dente ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: boiling water
+    PREP: in
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Meanwhile , prepare the sauce .
+PREDID: 0
+PRED: prepare
+  DOBJ: the sauce
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: In a large pot or Dutch oven , cook ground beef and sausage over medium heat until brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef, sausage
+  PARG: a large pot or dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Stir in tomato puree , tomato paste , sugar , 1 teaspoon salt , garlic , and 1Ê1/2 tablespoons parsley .
+PREDID: 0
+PRED: stir
+  PARG: tomato puree , tomato paste , sugar , 1 teaspoon salt , garlic , 1Ê1/2 tablespoons parsley
+    PREP: in
+
+
+SENTID: 7
+SENT: Reduce heat , and simmer uncovered for 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  DOBJ: uncovered
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: In a bowl , stir together cottage cheese , eggs , pepper , Parmesan , 1Ê1/2 tablespoons parsley , and 1/2 teaspoon salt until blended .
+PREDID: 0
+PRED: stir
+  DOBJ: cottage cheese , eggs , pepper , parmesan , 1Ê1/2 tablespoons parsley , 1/2 teaspoon salt
+  PARG: a bowl
+    PREP: in
+  PARG: blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 9
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: In a 9x13 inch baking dish , layer a third each of the noodles , sliced mozzarella , cottage cheese mixture , and meat sauce .
+PREDID: 0
+PRED: layer
+  DOBJ: a third each of the noodles , sliced mozzarella , cottage cheese mixture , meat sauce
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Repeat layers twice .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  OARG: twice
+
+
+SENTID: 12
+SENT: Bake lasagna in the preheated oven for 1 hour , or until hot and bubbly .
+PREDID: 0
+PRED: bake
+  DOBJ: lasagna
+  PARG: the preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: hot, bubbly
+    PREP: until
+
+
+SENTID: 13
+SENT: Let stand 15 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 15 minutes
+

@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes , and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and transfer to a large bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 3
+SENT: Place eggs in a medium saucepan , and cover completely with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+  OARG: completely
+
+
+SENTID: 4
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water , and peel under cold , running water .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: peel
+  PARG: cold , running water
+    PREP: under
+
+
+SENTID: 7
+SENT: Chop , and set aside .
+PREDID: 0
+PRED: chop
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Stir the eggs , celery , green bell pepper , sweet pickle cubes , prepared mustard , mayonnaise , onion and white sugar into the potatoes .
+PREDID: 0
+PRED: stir
+  DOBJ: the eggs , celery , green bell pepper , sweet pickle cubes , prepared mustard , mayonnaise , onion, white sugar
+  PARG: the potatoes
+    PREP: into
+
+
+SENTID: 9
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 10
+SENT: Cover , and chill in the refrigerator for at least 3 hours before serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: at least 3 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

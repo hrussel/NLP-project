@@ -1,0 +1,144 @@
+T1	predicate 0 5	Place
+T2	predicate 39 43	fill
+T3	predicate 72 77	Bring
+T4	predicate 89 95	reduce
+T5	predicate 116 121	Cover
+T6	predicate 126 132	simmer
+T7	predicate 225 230	Drain
+T8	predicate 235 239	cool
+T9	predicate 250 254	Peel
+T10	predicate 256 259	cut
+T11	predicate 276 281	place
+T12	predicate 321 328	combine
+T13	predicate 425 430	Blend
+T14	predicate 473 476	add
+T15	predicate 555 558	Set
+T16	predicate 566 573	Combine
+T17	predicate 666 670	Pour
+T18	predicate 713 717	toss
+T19	predicate 758 764	Season
+T20	predicate 796 801	Cover
+T21	predicate 806 811	chill
+T22	predicate 851 855	toss
+T23	arg_object 6 18	the potatoes
+T24	ingredient 6 18	the potatoes
+R1	object Arg1:T1 Arg2:T23	
+T25	arg_location 19 34	in a Dutch oven
+R2	location Arg1:T1 Arg2:T25	
+R3	object Arg1:T2 Arg2:T1	
+T26	arg_co-object 44 70	with enough water to cover
+R4	co-object Arg1:T2 Arg2:T26	
+R5	object Arg1:T3 Arg2:T2	
+T27	arg_other 78 87	to a boil
+R6	other Arg1:T3 Arg2:T27	
+R7	co-object Arg1:T4 Arg2:T3	
+T28	arg_object 96 100	heat
+R8	object Arg1:T4 Arg2:T28	
+T29	arg_other 101 114	to medium-low
+R9	other Arg1:T4 Arg2:T29	
+R10	object Arg1:T5 Arg2:T4	
+R11	object Arg1:T6 Arg2:T5	
+T30	arg_duration 133 223	until potatoes are tender, and a fork can be easily inserted and removed, about 20 minutes
+R12	duration Arg1:T6 Arg2:T30	
+R13	object Arg1:T7 Arg2:T6	
+R14	co-object Arg1:T7 Arg2:T6	
+R15	object Arg1:T8 Arg2:T7	
+T31	arg_other 240 248	slightly
+R16	other Arg1:T8 Arg2:T31	
+R17	object Arg1:T9 Arg2:T8	
+R18	object Arg1:T10 Arg2:T9	
+T32	arg_other 260 270	into cubes
+R19	other Arg1:T10 Arg2:T32	
+R20	object Arg1:T11 Arg2:T10	
+T33	arg_location 282 297	in a large bowl
+R21	location Arg1:T11 Arg2:T33	
+T34	arg_object 329 337	the tofu
+T35	ingredient 329 337	the tofu
+R22	object Arg1:T12 Arg2:T34	
+T36	arg_object 339 350	lemon juice
+T37	ingredient 339 350	lemon juice
+R23	object Arg1:T12 Arg2:T36	
+T38	arg_object 352 359	mustard
+T39	ingredient 352 359	mustard
+R24	object Arg1:T12 Arg2:T38	
+T40	arg_object 361 367	garlic
+T41	ingredient 361 367	garlic
+R25	object Arg1:T12 Arg2:T40	
+T42	arg_object 373 391	1 teaspoon of salt
+T43	ingredient 373 391	1 teaspoon of salt
+R26	object Arg1:T12 Arg2:T42	
+T44	arg_location 392 423	in the bowl of a food processor
+R27	location Arg1:T12 Arg2:T44	
+R28	object Arg1:T13 Arg2:T12	
+T45	arg_duration 431 443	until smooth
+R29	duration Arg1:T13 Arg2:T45	
+R30	co-object Arg1:T14 Arg2:T13	
+T46	arg_object 477 490	the olive oil
+T47	ingredient 477 490	the olive oil
+R31	object Arg1:T14 Arg2:T46	
+T48	arg_other 445 471	With the processor running
+R32	other Arg1:T14 Arg2:T48	
+T49	arg_other 491 515	in a thin, steady stream
+T50	arg_duration 517 553	blending just until mixture thickens
+R33	other Arg1:T14 Arg2:T49	
+R34	duration Arg1:T14 Arg2:T50	
+R35	object Arg1:T15 Arg2:T14	
+T51	arg_other 559 564	aside
+R36	other Arg1:T15 Arg2:T51	
+T52	arg_object 574 584	the celery
+T53	ingredient 574 584	the celery
+R37	object Arg1:T16 Arg2:T52	
+T54	arg_object 586 601	red bell pepper
+T55	ingredient 586 601	red bell pepper
+R38	object Arg1:T16 Arg2:T54	
+T56	arg_object 603 607	eggs
+T57	ingredient 603 607	eggs
+T58	arg_object 609 621	green onions
+T59	ingredient 609 621	green onions
+T60	arg_object 627 634	pickles
+T61	ingredient 627 634	pickles
+T62	arg_location 635 646	in the bowl
+R39	same-location Arg1:T62 Arg2:T33	
+T63	arg_co-object 647 664	with the potatoes
+T64	Evolution 652 664	the potatoes
+E1	Evolution:T64 Cause:T11
+R40	object Arg1:T16 Arg2:T56	
+R41	object Arg1:T16 Arg2:T58	
+R42	object Arg1:T16 Arg2:T60	
+R43	location Arg1:T16 Arg2:T62	
+R44	co-object Arg1:T16 Arg2:T63	
+T65	arg_object 671 683	the dressing
+T66	Evolution 671 683	the dressing
+E2	Evolution:T66 Cause:T15
+R45	object Arg1:T17 Arg2:T65	
+T67	arg_co-object 684 707	over the potato mixture
+T68	Evolution 689 707	the potato mixture
+E3	Evolution:T68 Cause:T16
+R46	co-object Arg1:T17 Arg2:T67	
+R47	object Arg1:T18 Arg2:T17	
+T69	arg_other 718 725	lightly
+T70	arg_other 726 756	to evenly coat all ingredients
+R48	other Arg1:T18 Arg2:T69	
+R49	other Arg1:T18 Arg2:T70	
+R50	object Arg1:T19 Arg2:T18	
+T71	arg_other 765 773	to taste
+T72	arg_co-object 774 794	with salt and pepper
+T73	ingredient 779 783	salt
+T74	ingredient 788 794	pepper
+R51	other Arg1:T19 Arg2:T71	
+R52	co-object Arg1:T19 Arg2:T72	
+R53	object Arg1:T20 Arg2:T19	
+R54	object Arg1:T21 Arg2:T20	
+T75	arg_duration 812 828	at least 4 hours
+R55	duration Arg1:T21 Arg2:T75	
+T77	arg_object 856 865	the salad
+T78	Evolution 856 865	the salad
+E4	Evolution:T78 Cause:T21
+R57	object Arg1:T22 Arg2:T77	
+T79	arg_co-object 866 875	with milk
+T80	ingredient 871 875	milk
+R58	co-object Arg1:T22 Arg2:T79	
+T81	arg_other 877 933	1 tablespoon at a time, to reach the desired consistency
+R59	other Arg1:T22 Arg2:T81	
+T76	arg_other 830 849	Just before serving
+R56	other Arg1:T22 Arg2:T76	

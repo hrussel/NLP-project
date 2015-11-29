@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta in the boiling water , stirring occasionally until cooked through but firm to the bite , 10 to 12 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 10 to 12 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain and rinse under cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Whisk Italian-style dressing and mayonnaise together in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: italian-style dressing, mayonnaise
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir pasta , chicken , bacon , Muenster cheese , celery , green bell pepper , cherry tomatoes , and avocado into dressing until evenly coated .
+PREDID: 0
+PRED: stir
+  DOBJ: pasta , chicken , bacon , muenster cheese , celery , green bell pepper , cherry tomatoes , avocado
+  PARG: dressing
+    PREP: into
+  PARG: evenly coated
+    PREP: until
+

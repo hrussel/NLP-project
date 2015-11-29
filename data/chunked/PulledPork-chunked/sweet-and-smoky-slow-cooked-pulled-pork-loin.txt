@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Cut each pork tenderloin into 4 pieces and place into a slow cooker ;
+PREDID: 0
+PRED: cut
+  DOBJ: each pork tenderloin
+  PARG: 4 pieces
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a slow cooker
+    PREP: into
+
+
+SENTID: 1
+SENT: set to High .
+PREDID: 0
+PRED: set
+  PARG: high
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir onions , barbecue sauce , crushed tomatoes , diet soda , Worcestershire sauce , garlic , liquid smoke flavoring , paprika , red pepper flakes , cinnamon , and nutmeg in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: onions , barbecue sauce , crushed tomatoes , diet soda , worcestershire sauce , garlic , liquid smoke flavoring , paprika , red pepper flakes , cinnamon , nutmeg
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: pour mixture over pork tenderloin pieces . Cover and cook until tenderloin pieces begin to shred at the edges , 3 to 4 hours .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pork tenderloin pieces
+    PREP: over
+
+PREDID: 1
+PRED: cover
+  PARG: tenderloin pieces
+    PREP: until
+
+PREDID: 2
+PRED: cook
+
+PREDID: 3
+PRED: begin
+  PARG: shred
+    PREP: to
+  PARG: the edges , 3 to 4 hours
+    PREP: at
+
+
+SENTID: 4
+SENT: Shred meat using 2 forks ;
+PREDID: 0
+PRED: shred
+  DOBJ: using 2 forks
+  OARG: meat
+
+
+SENTID: 5
+SENT: reduce slow cooker setting to Low and cook 1 more hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: slow cooker setting
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  OARG: 1 more hour
+

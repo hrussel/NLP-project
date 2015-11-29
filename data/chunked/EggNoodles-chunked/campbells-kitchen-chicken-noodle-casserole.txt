@@ -1,0 +1,27 @@
+SENTID: 0
+SENT: In large saucepan mix soup , milk , pepper , cheese , chicken and noodles .
+PREDID: 0
+PRED: mix
+  DOBJ: soup , milk , pepper , cheese , chicken, noodles
+  PARG: large saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Over medium heat , heat through , stirring occasionally .
+PREDID: 0
+PRED: heat
+  DOBJ: stirring
+  PARG: medium heat
+    PREP: over
+  OARG: through
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Garnish with parsley .
+PREDID: 0
+PRED: garnish
+  PARG: parsley
+    PREP: with
+

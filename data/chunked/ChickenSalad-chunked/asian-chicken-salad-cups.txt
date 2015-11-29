@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Combine chicken , cabbage , corn , cilantro , green onions , and almonds in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , cabbage , corn , cilantro , green onions , almonds
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk mayonnaise , rice vinegar , lemon juice , sugar , black pepper , salt , chile-garlic sauce , paprika , red pepper flakes , garlic , sesame oil , honey , and ginger in a separate bowl until sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , rice vinegar , lemon juice , sugar , black pepper , salt , chile-garlic sauce , paprika , red pepper flakes , garlic , sesame oil , honey , ginger
+  PARG: a separate bowl
+    PREP: in
+  PARG: sugar has dissolved
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir dressing into chicken mixture to thoroughly coat salad with dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: dressing
+  PARG: chicken mixture
+    PREP: into
+  PARG: dressing
+    PREP: with
+  OARG: to thoroughly coat salad
+
+
+SENTID: 3
+SENT: Hollow out dinner rolls to make small bowls ;
+PREDID: 0
+PRED: hollow
+  PARG: dinner rolls
+    PREP: out
+  PARG: make small bowls
+    PREP: to
+
+
+SENTID: 4
+SENT: fill rolls with salad to serve .
+PREDID: 0
+PRED: fill
+  DOBJ: rolls
+  PARG: salad
+    PREP: with
+  PARG: serve
+    PREP: to
+

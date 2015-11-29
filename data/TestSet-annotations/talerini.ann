@@ -1,0 +1,92 @@
+T1	predicate 0 7	Preheat
+T2	predicate 51 56	Bring
+T3	predicate 104 107	Add
+T4	predicate 161 166	Drain
+T5	predicate 172 178	return
+T6	predicate 191 198	Crumble
+T7	predicate 259 263	Cook
+T8	predicate 268 272	stir
+T9	predicate 295 304	Drain off
+T10	predicate 313 320	Stir in
+T11	predicate 356 362	Season
+T12	predicate 382 386	Stir
+T13	predicate 425 429	Pour
+T14	predicate 460 463	Top
+T15	predicate 485 489	Bake
+T16	arg_object 8 16	the oven
+R1	object Arg1:T1 Arg2:T16	
+T17	arg_other 17 49	to 375 degrees F (190 degrees C)
+R2	other Arg1:T1 Arg2:T17	
+T18	arg_location 505 526	in the preheated oven
+R3	location Arg1:T15 Arg2:T18	
+T19	Evolution 508 526	the preheated oven
+E1	Evolution:T19 Cause:T1
+T20	arg_duration 490 504	for 20 minutes
+T21	arg_duration 528 554	until the cheese is melted
+R4	duration Arg1:T15 Arg2:T20	
+R5	duration Arg1:T15 Arg2:T21	
+R6	object Arg1:T15 Arg2:T14	
+T22	arg_object 57 92	a large pot of lightly salted water
+T23	arg_other 93 102	to a boil
+R7	object Arg1:T2 Arg2:T22	
+R8	other Arg1:T2 Arg2:T23	
+T24	arg_object 108 119	the noodles
+T25	ingredient 108 119	the noodles
+R9	object Arg1:T3 Arg2:T24	
+T26	predicate 125 129	cook
+R10	co-object Arg1:T3 Arg2:T2	
+R11	object Arg1:T26 Arg2:T3	
+T27	arg_duration 130 159	until tender, about 7 minutes
+R12	duration Arg1:T26 Arg2:T27	
+R13	object Arg1:T4 Arg2:T26	
+R14	co-object Arg1:T4 Arg2:T26	
+R15	object Arg1:T5 Arg2:T4	
+T28	arg_location 179 189	to the pot
+R16	location Arg1:T5 Arg2:T28	
+T29	Evolution 182 189	the pot
+E2	Evolution:T29 Cause:T2
+T30	arg_object 199 214	the ground beef
+T31	ingredient 199 214	the ground beef
+R17	object Arg1:T6 Arg2:T30	
+T32	arg_location 215 235	into a large skillet
+T33	arg_other 236 257	over medium-high heat
+R18	location Arg1:T6 Arg2:T32	
+R19	other Arg1:T6 Arg2:T33	
+R20	object Arg1:T7 Arg2:T6	
+R21	object Arg1:T8 Arg2:T7	
+T34	arg_duration 273 293	until evenly browned
+R22	duration Arg1:T8 Arg2:T34	
+R23	co-object Arg1:T9 Arg2:T8	
+T35	arg_object 305 311	grease
+R24	object Arg1:T9 Arg2:T35	
+T36	Evolution 305 311	grease
+E3	Evolution:T36 Cause:T8
+R25	co-object Arg1:T10 Arg2:T9	
+T37	arg_object 321 337	the tomato sauce
+T38	ingredient 321 337	the tomato sauce
+T39	arg_object 339 343	corn
+T40	ingredient 339 343	corn
+T41	arg_object 348 354	olives
+T42	ingredient 348 354	olives
+R26	object Arg1:T10 Arg2:T37	
+R27	object Arg1:T10 Arg2:T39	
+R28	object Arg1:T10 Arg2:T41	
+R29	object Arg1:T11 Arg2:T10	
+T43	arg_co-object 363 380	with chili powder
+T44	ingredient 368 380	chili powder
+R30	co-object Arg1:T11 Arg2:T43	
+T45	arg_object 387 403	the beef mixture
+T46	Evolution 387 403	the beef mixture
+E4	Evolution:T46 Cause:T11
+R31	object Arg1:T12 Arg2:T45	
+T47	arg_co-object 407 423	with the noodles
+T48	Evolution 412 423	the noodles
+E5	Evolution:T48 Cause:T5
+R32	co-object Arg1:T12 Arg2:T47	
+R33	object Arg1:T13 Arg2:T12	
+T49	arg_location 430 458	into a 9x13 inch baking dish
+R34	location Arg1:T13 Arg2:T49	
+R35	object Arg1:T14 Arg2:T13	
+T50	arg_co-object 464 483	with Cheddar cheese
+T51	ingredient 469 483	Cheddar cheese
+R36	co-object Arg1:T14 Arg2:T50	

@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: Combine flour , brown sugar , raisins , coconut , wheat germ , wheat bran , cinnamon , baking soda , and salt in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , brown sugar , raisins , coconut , wheat germ , wheat bran , cinnamon , baking soda , salt
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Whisk vegetable oil and eggs together in a separate bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: vegetable oil, eggs
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir oil mixture , carrots , and beets into flour mixture until just combined .
+PREDID: 0
+PRED: stir
+  DOBJ: oil mixture , carrots , beets
+  PARG: flour mixture
+    PREP: into
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour batter into prepared baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared baking dish
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in preheated oven until center of cake bounces back when touched , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: center of cake bounces back when touched , about 1 hour
+    PREP: until
+

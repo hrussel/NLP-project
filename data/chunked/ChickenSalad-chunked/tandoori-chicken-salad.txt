@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: In a small bowl , whisk together honey mustard dressing , ground cumin , and curry powder .
+PREDID: 0
+PRED: whisk
+  DOBJ: honey mustard dressing , ground cumin , curry powder
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Cover , and refrigerate until serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+
+
+SENTID: 2
+SENT: In a baking dish , whisk together yogurt , garam masala , and lemon juice .
+PREDID: 0
+PRED: whisk
+  DOBJ: yogurt , garam masala , lemon juice
+  PARG: a baking dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Place chicken breasts in the dish , and turn to coat .
+PREDID: 0
+PRED: place
+  DOBJ: chicken breasts
+  PARG: the dish
+    PREP: in
+
+PREDID: 1
+PRED: turn
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Cover , and refrigerate for at least 1 hour , turning occasionally .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: at least 1 hour , turning
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 6
+SENT: Lightly brush oil over grill grate .
+PREDID: 0
+PRED: brush
+  DOBJ: oil
+  PARG: grill grate
+    PREP: over
+  OARG: lightly
+
+
+SENTID: 7
+SENT: Grill chicken until done , about 6 to 8 minutes per side .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken
+  PARG: done , about 6 to 8 minutes per side
+    PREP: until
+
+
+SENTID: 8
+SENT: In a small bowl , mix together onion , raisins , almonds , and pineapple .
+PREDID: 0
+PRED: mix
+  DOBJ: onion , raisins , almonds , pineapple
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: In a large bowl , toss salad greens with salad dressing and 3/4 of the almond mixture .
+PREDID: 0
+PRED: toss
+  DOBJ: salad greens
+  PARG: a large bowl
+    PREP: in
+  PARG: salad dressing, 3/4 of the almond mixture
+    PREP: with
+
+
+SENTID: 10
+SENT: Divide salad among 4 plates .
+PREDID: 0
+PRED: divide
+  DOBJ: salad
+  PARG: 4 plates
+    PREP: among
+
+
+SENTID: 11
+SENT: Sprinkle equal amounts of reserved almond mixture over each salad .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: equal amounts of reserved almond mixture
+  PARG: each salad
+    PREP: over
+
+
+SENTID: 12
+SENT: Top each with grilled chicken , and garnish with a mint sprig and a lime wedge .
+PREDID: 0
+PRED: top
+  DOBJ: each with grilled chicken
+
+PREDID: 1
+PRED: garnish
+  PARG: a mint sprig, a lime wedge
+    PREP: with
+

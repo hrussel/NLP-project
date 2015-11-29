@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: add potatoes and carrot .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes, carrot
+
+
+SENTID: 2
+SENT: Return mixture to a boil and add eggs ;
+PREDID: 0
+PRED: return
+  DOBJ: mixture
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: eggs
+
+
+SENTID: 3
+SENT: cook until potatoes are tender , 20 to 30 minutes .
+PREDID: 0
+PRED: cook
+  PARG: potatoes are tender , 20 to 30 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain and slightly cool mixture .
+PREDID: 0
+PRED: drain
+  DOBJ: mixture
+  OARG: slightly
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 5
+SENT: Chop potatoes and carrot ;
+PREDID: 0
+PRED: chop
+  DOBJ: potatoes, carrot
+
+
+SENTID: 6
+SENT: peel and chop eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+PREDID: 1
+PRED: chop
+
+
+SENTID: 7
+SENT: Mix potatoes , carrot , eggs , pickles , peas , ham , and parsley together in a large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: potatoes , carrot , eggs , pickles , peas , ham , parsley
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: stir in mayonnaise until salad is evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise
+    PREP: in
+  PARG: salad is evenly coated
+    PREP: until
+

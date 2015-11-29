@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: Place the cabbage into a salad bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the cabbage
+  PARG: a salad bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: In a small bowl , whisk together apple cider vinegar , ketchup , sugar , red pepper flakes , and hot sauce until the sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: apple cider vinegar , ketchup , sugar , red pepper flakes , hot sauce
+  PARG: a small bowl
+    PREP: in
+  PARG: the sugar has dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour the dressing over the cabbage , toss thoroughly , and refrigerate at least 1 hour before serving .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the cabbage
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: thoroughly
+
+PREDID: 2
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

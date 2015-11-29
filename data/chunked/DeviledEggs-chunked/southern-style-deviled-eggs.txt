@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , and run under cold water to cool .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: run
+  PARG: cold water
+    PREP: under
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Peel eggs , and cut into halves lengthwise .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+PREDID: 1
+PRED: cut
+  PARG: halves lengthwise
+    PREP: into
+
+
+SENTID: 5
+SENT: Carefully remove the yolks from the eggs , and place them into a medium bowl , scooping out a little bit of the white along with the yolk to make a more generous cup for filling .
+PREDID: 0
+PRED: remove
+  DOBJ: the yolks
+  PARG: the eggs
+    PREP: from
+  OARG: carefully
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a medium bowl , scooping
+    PREP: into
+  PARG: a little bit of the white
+    PREP: out
+  PARG: with the yolk
+    PREP: along
+  PARG: make a more generous cup
+    PREP: to
+  PARG: filling
+    PREP: for
+
+
+SENTID: 6
+SENT: Mash the egg yolks with deviled ham , relish and enough mayonnaise to make a smooth mixture .
+PREDID: 0
+PRED: mash
+  DOBJ: the egg yolks
+  PARG: deviled ham , relish
+    PREP: with
+  PARG: make a smooth mixture
+    PREP: to
+  OARG: enough
+
+
+SENTID: 7
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 8
+SENT: Spoon the mixture into the egg whites , or pipe with a piping bag for a more elegant look .
+PREDID: 0
+PRED: spoon
+  DOBJ: the mixture
+  PARG: the egg whites
+    PREP: into
+
+PREDID: 1
+PRED: pipe
+  PARG: a piping bag
+    PREP: with
+  PARG: a more elegant look
+    PREP: for
+
+
+SENTID: 9
+SENT: Garnish filling with a sprinkle of paprika , and top some of them with a slice of green olive stuffed with pimento .
+PREDID: 0
+PRED: garnish
+  DOBJ: filling
+  PARG: a sprinkle of paprika
+    PREP: with
+
+PREDID: 1
+PRED: top
+  DOBJ: some of them
+  PARG: a slice of green olive stuffed
+    PREP: with
+  PARG: pimento
+    PREP: with
+
+
+SENTID: 10
+SENT: Chill until serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: until
+

@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat outdoor grill for medium-high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: outdoor grill
+  PARG: medium-high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Lightly oil grill grate , and place about 4 inches from heat source .
+PREDID: 0
+PRED: place
+  DOBJ: oil grill grate
+  PARG: 4 inches
+    PREP: about
+  PARG: heat source
+    PREP: from
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Mix the ground chicken , onion , garlic , taco seasoning , and egg together in a bowl until thoroughly blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground chicken , onion , garlic , taco seasoning , egg
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 4
+SENT: Divide chicken mixture evenly and form into 4 soft patties .
+PREDID: 0
+PRED: divide
+  DOBJ: chicken mixture
+  OARG: evenly
+
+PREDID: 1
+PRED: form
+  PARG: 4 soft patties
+    PREP: into
+
+
+SENTID: 5
+SENT: Cook the chicken patties on the preheated grill until meat is no longer pink and juices run clear , 5 to 8 minutes per side , depending on thickness .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken patties
+  PARG: the preheated grill
+    PREP: on
+  PARG: meat is no longer pink, juices run clear , 5 to 8 minutes per side , depending on thickness
+    PREP: until
+
+
+SENTID: 6
+SENT: To serve , place each patty on one half of a hamburger bun , top with a slice of cheese , avocado slices , and desired amounts of jalapeno peppers and salsa .
+PREDID: 0
+PRED: place
+  DOBJ: each patty
+  PARG: serve
+    PREP: to
+  PARG: one half of a hamburger bun
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: a slice of cheese , avocado slices , desired amounts of jalapeno peppers, salsa
+    PREP: with
+
+
+SENTID: 7
+SENT: Cover with remaining half of bun .
+PREDID: 0
+PRED: cover
+  PARG: remaining half of bun
+    PREP: with
+

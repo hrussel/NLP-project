@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Roll out the crescent roll dough onto a 9x13 inch baking sheet , and pinch together edges to form the pizza crust .
+PREDID: 0
+PRED: roll
+  PARG: the crescent roll dough
+    PREP: out
+  PARG: a 9x13 inch baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: pinch
+  DOBJ: edges
+  PARG: form the pizza crust
+    PREP: to
+  OARG: together
+
+
+SENTID: 2
+SENT: Bake crust for 12 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  DOBJ: crust
+  PARG: 12 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 3
+SENT: Once finished cooking , remove crust from oven and let cool 15 minutes without removing it from the baking sheet .
+PREDID: 0
+PRED: remove
+  DOBJ: finished cooking
+  PARG: oven
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  PARG: removing it
+    PREP: without
+  PARG: the baking sheet
+    PREP: from
+  OARG: cool 15 minutes
+
+
+SENTID: 4
+SENT: In a small mixing bowl , combine cream cheese , mayonnaise , and dry Ranch dressing .
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese , mayonnaise , dry ranch dressing
+  PARG: a small mixing bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Spread the mixture over the cooled crust .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: the cooled crust
+    PREP: over
+
+
+SENTID: 6
+SENT: Arrange broccoli , tomato , green bell pepper , cauliflower , shredded carrots , and Cheddar cheese over the cream cheese layer .
+PREDID: 0
+PRED: arrange
+  DOBJ: broccoli , tomato , green bell pepper , cauliflower , shredded carrots , cheddar cheese
+  PARG: the cream cheese layer
+    PREP: over
+
+
+SENTID: 7
+SENT: Chill for one hour , slice and serve .
+PREDID: 0
+PRED: chill
+  PARG: one hour
+    PREP: for
+
+PREDID: 1
+PRED: slice
+
+PREDID: 2
+PRED: serve
+

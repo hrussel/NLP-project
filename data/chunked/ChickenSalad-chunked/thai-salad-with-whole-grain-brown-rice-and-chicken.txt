@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Cook the rice according to package directions , set aside and chill .
+PREDID: 0
+PRED: cook
+  DOBJ: the rice according
+  PARG: package directions
+    PREP: to
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+PREDID: 2
+PRED: chill
+
+
+SENTID: 1
+SENT: Whisk the peanut butter , vinegar , oil , soy sauce , sugar , ginger , garlic , and poblano peppers in a small bowl , set aside .
+PREDID: 0
+PRED: whisk
+  DOBJ: the peanut butter , vinegar , oil , soy sauce , sugar , ginger , garlic , poblano peppers
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Cut the cucumbers in half lengthwise before cutting them into 1/2-inch slices .
+PREDID: 0
+PRED: cut
+  DOBJ: the cucumbers
+  PARG: half lengthwise
+    PREP: in
+  PARG: cutting them
+    PREP: before
+  PARG: 1/2-inch slices
+    PREP: into
+
+
+SENTID: 3
+SENT: Combine the rice with cucumber , dressing , chicken , and onion .
+PREDID: 0
+PRED: combine
+  DOBJ: the rice
+  PARG: cucumber , dressing , chicken , onion
+    PREP: with
+
+
+SENTID: 4
+SENT: Cover and chill .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 5
+SENT: Just before serving , toss the salad with the spinach and basil .
+PREDID: 0
+PRED: toss
+  DOBJ: the salad
+  PARG: serving
+    PREP: before
+  PARG: the spinach, basil
+    PREP: with
+  OARG: just
+

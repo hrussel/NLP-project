@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add macaroni and cook for 8 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: macaroni
+
+PREDID: 1
+PRED: cook
+  PARG: 8 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a large bowl combine cooked macaroni , chicken , cheddar cheese , soup , milk and mushrooms .
+PREDID: 0
+PRED: combine
+  DOBJ: cooked macaroni , chicken , cheddar cheese , soup , milk, mushrooms
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Place mixture in a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: mixture
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Bake uncovered in preheated oven for 50 to 60 minutes ;
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 to 60 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: serve .
+PREDID: 0
+PRED: serve
+

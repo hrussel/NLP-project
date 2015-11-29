@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt 1/2 cup sugar in an aluminum loaf pan and heat over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1/2 cup sugar
+  PARG: an aluminum loaf pan
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Fill a large pot of water with about 1 inch of water and place over medium heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot of water
+  PARG: about 1 inch of water
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Move the aluminum pan into the large pot and set into the water .
+PREDID: 0
+PRED: move
+  DOBJ: the aluminum pan
+  PARG: the large pot
+    PREP: into
+
+PREDID: 1
+PRED: set
+  PARG: the water
+    PREP: into
+
+
+SENTID: 4
+SENT: Combine the pumpkin pie filling , evaporated milk , condensed milk , eggs , 1/2 cup sugar , vanilla , and allspice in a blender , blend until smooth .
+PREDID: 0
+PRED: combine
+  DOBJ: the pumpkin pie filling , evaporated milk , condensed milk , eggs , 1/2 cup sugar , vanilla , allspice
+  PARG: a blender
+    PREP: in
+
+PREDID: 1
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour the mixture into the loaf pan .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the loaf pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in preheated oven until a knife inserted in the center comes out clean , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: a knife inserted in the center comes out clean , about 1 hour
+    PREP: until
+
+
+SENTID: 7
+SENT: Refrigerate for at least 3 hours , or overnight .
+PREDID: 0
+PRED: refrigerate
+  PARG: at least 3 hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 8
+SENT: Run a knife along the edge of the loaf pan to loosen the flan .
+PREDID: 0
+PRED: run
+  DOBJ: a knife
+  PARG: the edge of the loaf pan
+    PREP: along
+  OARG: to loosen the flan
+
+
+SENTID: 9
+SENT: Invert the pan onto a serving plate and tap to release the dessert .
+PREDID: 0
+PRED: invert
+  DOBJ: the pan
+  PARG: a serving plate
+    PREP: onto
+
+PREDID: 1
+PRED: tap
+  PARG: release the dessert
+    PREP: to
+

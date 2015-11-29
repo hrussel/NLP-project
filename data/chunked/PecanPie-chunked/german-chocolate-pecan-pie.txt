@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk the corn syrup , eggs , sugar , butter , and vanilla together in a mixing bowl until light-colored and well blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: the corn syrup , eggs , sugar , butter , vanilla
+  PARG: a mixing bowl
+    PREP: in
+  PARG: light-colored, well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in the pecans and coconut .
+PREDID: 0
+PRED: stir
+  PARG: the pecans, coconut
+    PREP: in
+
+
+SENTID: 3
+SENT: Sprinkle the chocolate chips over the bottom of the prepared pie crust .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the chocolate chips
+  PARG: the bottom of the prepared pie crust
+    PREP: over
+
+
+SENTID: 4
+SENT: Pour the corn syrup mixture over the chocolate chips .
+PREDID: 0
+PRED: pour
+  DOBJ: the corn syrup mixture
+  PARG: the chocolate chips
+    PREP: over
+
+
+SENTID: 5
+SENT: Bake in preheated oven until top is set , 55 to 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: top is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  OARG: 55 to 60 minutes
+
+
+SENTID: 6
+SENT: Cool completely on a rack before serving , about 2 hours .
+PREDID: 0
+PRED: cool
+  PARG: a rack
+    PREP: on
+  PARG: serving
+    PREP: before
+  PARG: 2 hours
+    PREP: about
+  OARG: completely
+

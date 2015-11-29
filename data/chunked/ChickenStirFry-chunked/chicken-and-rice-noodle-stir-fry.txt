@@ -1,0 +1,148 @@
+SENTID: 0
+SENT: Sprinkle chicken with garlic powder , onion powder , and black pepper .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chicken
+  PARG: garlic powder , onion powder , black pepper
+    PREP: with
+
+
+SENTID: 1
+SENT: Soak rice noodles in a bowl with hot water until softened , about 10 minutes ;
+PREDID: 0
+PRED: soak
+  DOBJ: rice noodles
+  PARG: a bowl
+    PREP: in
+  PARG: hot water
+    PREP: with
+  PARG: softened , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and cut noodles in half with scissors .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cut
+  PARG: half
+    PREP: in
+  PARG: scissors
+    PREP: with
+
+
+SENTID: 3
+SENT: Heat 1Ê1/2 tablespoons vegetable oil in a wok or large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: 1Ê1/2 tablespoons vegetable oil
+  PARG: a wok or large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: cook and stir garlic in the hot oil until fragrant , about 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: fragrant , about 1 minute
+    PREP: until
+
+
+SENTID: 5
+SENT: Add onion and green bell pepper ;
+PREDID: 0
+PRED: add
+  DOBJ: onion, green bell pepper
+
+
+SENTID: 6
+SENT: cook , stirring constantly , until onion and pepper are softened , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: onion, pepper are softened , about 5 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Add remaining 1Ê1/2 tablespoons vegetable oil ;
+PREDID: 0
+PRED: add
+  DOBJ: remaining 1Ê1/2 tablespoons vegetable oil
+
+
+SENTID: 8
+SENT: cook and stir chicken into onion mixture until chicken is no longer pink in the center , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+
+PREDID: 1
+PRED: stir
+  PARG: onion mixture
+    PREP: into
+  PARG: chicken is no longer pink in the center , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir wine , soy sauce , and teriyaki sauce into chicken mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: wine , soy sauce , teriyaki sauce
+  PARG: chicken mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: simmer until liquid is slightly reduced , about 3 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: liquid is slightly reduced , about 3 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Add baby corn and green onions ;
+PREDID: 0
+PRED: add
+  DOBJ: baby corn, green onions
+
+
+SENTID: 12
+SENT: toss to evenly coat with sauce .
+PREDID: 0
+PRED: toss
+  PARG: sauce
+    PREP: with
+  OARG: to evenly coat
+
+
+SENTID: 13
+SENT: Mix rice noodles into stir fry mixture ;
+PREDID: 0
+PRED: mix
+  DOBJ: rice noodles
+  PARG: stir fry mixture
+    PREP: into
+
+
+SENTID: 14
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+

@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Heat 1 teaspoon of olive oil in a skillet over medium-high heat until the oil is very hot , and cook and stir the green and red bell pepper until they are starting to become tender , about 5 minutes .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 teaspoon of olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: the oil is very hot
+    PREP: until
+
+PREDID: 1
+PRED: cook
+  DOBJ: the green, red bell pepper
+
+PREDID: 2
+PRED: stir
+  PARG: they are starting to become tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Set the peppers aside .
+PREDID: 0
+PRED: set
+  DOBJ: the peppers
+  OARG: aside
+
+
+SENTID: 2
+SENT: Mix flour and taco seasoning in a bowl , and stir in chicken pieces , a few at a time , to thoroughly coat with the flour mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: flour, taco seasoning
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: chicken pieces , a few
+    PREP: in
+  PARG: a time
+    PREP: at
+  PARG: the flour mixture
+    PREP: with
+  OARG: to thoroughly coat
+
+
+SENTID: 3
+SENT: Heat 2 teaspoons of olive oil in a large skillet over medium-high heat , and cook and stir the chicken until no longer pink and the coating is browned , about 5 minutes .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 teaspoons of olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: the chicken
+
+PREDID: 2
+PRED: stir
+  PARG: no longer pink, the coating is browned , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in the bell peppers , black beans , and salsa , and let the mixture simmer for about 5 minutes to blend the flavors .
+PREDID: 0
+PRED: stir
+  PARG: the bell peppers , black beans , salsa
+    PREP: in
+
+PREDID: 1
+PRED: let
+  DOBJ: the mixture
+
+PREDID: 2
+PRED: simmer
+  PARG: about 5 minutes
+    PREP: for
+  PARG: blend the flavors
+    PREP: to
+
+
+SENTID: 5
+SENT: To serve , sprinkle each portion with Cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: each portion
+  PARG: serve
+    PREP: to
+  PARG: cheddar cheese
+    PREP: with
+

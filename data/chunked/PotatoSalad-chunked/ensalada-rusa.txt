@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: Place the beets into a saucepan , cover with water , and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: the beets
+  PARG: a saucepan
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Reduce heat to medium , and boil gently until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: boil
+  PARG: tender , about 20 minutes
+    PREP: until
+  OARG: gently
+
+
+SENTID: 2
+SENT: Remove from the boiling water and let cool .
+PREDID: 0
+PRED: remove
+  PARG: the boiling water, let cool
+    PREP: from
+
+
+SENTID: 3
+SENT: Peel and dice the beets , and chill .
+PREDID: 0
+PRED: peel
+  DOBJ: the beets
+
+PREDID: 1
+PRED: dice
+
+PREDID: 2
+PRED: chill
+
+
+SENTID: 4
+SENT: Place the potatoes into a separate saucepan , add water to cover , and stir in salt .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a separate saucepan
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: water
+  PARG: cover
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  PARG: salt
+    PREP: in
+
+
+SENTID: 5
+SENT: Drain the potatoes in a colander set in the sink , and chill .
+PREDID: 0
+PRED: drain
+  DOBJ: the potatoes
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 6
+SENT: Bring a saucepan of water to a boil , reduce heat to medium , and stir in 1 to 2 more teaspoons of salt .
+PREDID: 0
+PRED: bring
+  DOBJ: a saucepan of water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  PARG: 1 to 2 more teaspoons of salt
+    PREP: in
+
+
+SENTID: 7
+SENT: Very gently lower the eggs into the boiling water , making sure they do n't hit the bottom of the pan and crack ;
+PREDID: 0
+PRED: crack
+  DOBJ: hit the bottom of the pan
+  PARG: the boiling water , making
+    PREP: into
+  OARG: very
+  OARG: gently
+  OARG: sure
+  OARG: n't
+  OARG: lower the eggs
+
+
+SENTID: 8
+SENT: simmer for 15 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Remove the eggs to a bowl filled with ice and ice water , and let the eggs chill until thoroughly cold .
+PREDID: 0
+PRED: remove
+  DOBJ: the eggs
+  PARG: a bowl filled
+    PREP: to
+  PARG: ice, ice water
+    PREP: with
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs
+
+PREDID: 2
+PRED: chill
+  PARG: thoroughly cold
+    PREP: until
+
+
+SENTID: 10
+SENT: Peel and dice the eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: the eggs
+
+PREDID: 1
+PRED: dice
+
+
+SENTID: 11
+SENT: Mix the chilled beets , potato cubes , and eggs together in a salad bowl , and gently stir in mayonnaise to taste .
+PREDID: 0
+PRED: mix
+  DOBJ: the chilled beets , potato cubes , eggs
+  PARG: a salad bowl
+    PREP: in
+  OARG: together
+  OARG: gently
+
+PREDID: 1
+PRED: stir
+  PARG: mayonnaise
+    PREP: in
+  PARG: taste
+    PREP: to
+

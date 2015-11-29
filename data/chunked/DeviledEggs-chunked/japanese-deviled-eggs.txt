@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Place sesame seeds in a dry skillet over medium heat ;
+PREDID: 0
+PRED: place
+  DOBJ: sesame seeds
+  PARG: a dry skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Remove to cool on a plate lined with a paper towel .
+PREDID: 0
+PRED: remove
+  PARG: a plate lined
+    PREP: on
+  PARG: a paper towel
+    PREP: with
+  OARG: to cool
+
+
+SENTID: 6
+SENT: Cut each egg in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 7
+SENT: place egg yolks into a food processor with mayonnaise , soy sauce , wasabi paste , and rice vinegar .
+PREDID: 0
+PRED: place
+  DOBJ: egg yolks
+  PARG: a food processor
+    PREP: into
+  PARG: mayonnaise , soy sauce , wasabi paste , rice vinegar
+    PREP: with
+
+
+SENTID: 8
+SENT: Process until smooth ;
+PREDID: 0
+PRED: process
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 9
+SENT: place green onion and panko bread crumbs into yolk mixture and pulse just enough to mix evenly .
+PREDID: 0
+PRED: place
+  DOBJ: green onion, panko bread crumbs
+  PARG: yolk mixture
+    PREP: into
+
+PREDID: 1
+PRED: pulse
+  PARG: mix
+    PREP: to
+  OARG: just
+  OARG: enough
+  OARG: evenly
+
+
+SENTID: 10
+SENT: Arrange egg white halves on a serving platter ;
+PREDID: 0
+PRED: arrange
+  DOBJ: egg white halves
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 11
+SENT: spoon yolk mixture into whites .
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: whites
+    PREP: into
+
+
+SENTID: 12
+SENT: Sprinkle with toasted sesame seeds .
+PREDID: 0
+PRED: sprinkle
+  PARG: toasted sesame seeds
+    PREP: with
+

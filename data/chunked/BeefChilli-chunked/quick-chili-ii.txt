@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: In a large pot , cook beef over medium heat until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in onion and cook until onion is translucent .
+PREDID: 0
+PRED: stir
+  PARG: onion
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: onion is translucent
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in tomato sauce , water , ranch-style beans , kidney beans , chiles , chili powder , garlic powder , cumin and Cajun seasoning .
+PREDID: 0
+PRED: stir
+  PARG: tomato sauce , water , ranch-style beans , kidney beans , chiles , chili powder , garlic powder , cumin, cajun seasoning
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a boil , then reduce heat and simmer 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  OARG: 20 minutes
+

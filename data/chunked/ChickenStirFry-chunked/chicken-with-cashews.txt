@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: In a skillet over medium-high heat , mix butter or margarine and vegetable oil until hot .
+PREDID: 0
+PRED: mix
+  DOBJ: butter or margarine, vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: hot
+    PREP: until
+
+
+SENTID: 1
+SENT: Add chicken and saute , stirring often , until the chicken turns white .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+PREDID: 1
+PRED: saute
+  DOBJ: stirring
+  PARG: the chicken turns white
+    PREP: until
+  OARG: often
+
+
+SENTID: 2
+SENT: Remove with a slotted spoon and set aside .
+PREDID: 0
+PRED: remove
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In the same skillet , saute onion and peppers .
+PREDID: 0
+PRED: saute
+  DOBJ: onion, peppers
+  PARG: the same skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: Add the cooked chicken and the cashews and season with salt and pepper , curry powder and sesame oil .
+PREDID: 0
+PRED: add
+  DOBJ: the cooked chicken, the cashews
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper , curry powder, sesame oil
+    PREP: with
+
+
+SENTID: 5
+SENT: Saute for another 2 minutes and serve .
+PREDID: 0
+PRED: saute
+  PARG: another 2 minutes
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

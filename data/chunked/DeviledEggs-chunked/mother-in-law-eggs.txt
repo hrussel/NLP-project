@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Cool the eggs under cold running water .
+PREDID: 0
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+
+
+SENTID: 5
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 6
+SENT: Halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 0
+PRED: halve
+  DOBJ: the eggs lengthwise
+
+PREDID: 1
+PRED: scoop
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Mash the yolks with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 8
+SENT: Stir the mayonnaise , spicy brown mustard , hot mustard , sugar , salt , and pepper into the yolks until well combined .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , spicy brown mustard , hot mustard , sugar , salt , pepper
+  PARG: the yolks
+    PREP: into
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 9
+SENT: Spoon into a quart-size , resealable plastic bag .
+PREDID: 0
+PRED: spoon
+  PARG: a quart-size , resealable plastic bag
+    PREP: into
+
+
+SENTID: 10
+SENT: Snip a corner off the plastic bag .
+PREDID: 0
+PRED: snip
+  DOBJ: a corner
+  PARG: the plastic bag
+    PREP: off
+
+
+SENTID: 11
+SENT: Squeeze the yolk mixture into the egg halves , sprinkle each stuffed egg with paprika , and top with an olive half .
+PREDID: 0
+PRED: squeeze
+  DOBJ: the yolk mixture
+  PARG: the egg halves
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: each stuffed egg
+  PARG: paprika
+    PREP: with
+
+PREDID: 2
+PRED: top
+  PARG: an olive half
+    PREP: with
+

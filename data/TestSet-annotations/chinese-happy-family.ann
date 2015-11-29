@@ -1,0 +1,104 @@
+T1	predicate 0 7	Preheat
+T2	predicate 29 33	coat
+T3	predicate 54 59	Place
+T4	predicate 97 101	cook
+T5	predicate 123 128	Allow
+T6	predicate 157 160	cut
+T7	predicate 203 207	heat
+T8	predicate 253 258	Place
+T9	predicate 295 299	cook
+T10	predicate 319 322	Add
+T12	predicate 390 398	Increase
+T14	predicate 492 499	Stir in
+T15	predicate 513 521	Dissolve
+T16	predicate 551 555	pour
+T17	predicate 599 612	Cook and stir
+T18	arg_object 8 23	an indoor grill
+T19	arg_co-object 34 52	with cooking spray
+R1	object Arg1:T1 Arg2:T18	
+R2	object Arg1:T2 Arg2:T1	
+R3	co-object Arg1:T2 Arg2:T19	
+T20	arg_object 60 78	the chicken strips
+T21	arg_location 79 91	on the grill
+R4	object Arg1:T3 Arg2:T20	
+R5	location Arg1:T3 Arg2:T21	
+T22	Evolution 82 91	the grill
+E1	Evolution:T22 Cause:T2
+R6	object Arg1:T4 Arg2:T3	
+T23	arg_duration 102 121	for about 7 minutes
+R7	duration Arg1:T4 Arg2:T23	
+T24	arg_object 129 133	them
+R8	object Arg1:T5 Arg2:T24	
+T25	Evolution 129 133	them
+E2	Evolution:T25 Cause:T4
+T26	arg_other 134 150	to cool slightly
+R9	other Arg1:T5 Arg2:T26	
+R10	object Arg1:T6 Arg2:T5	
+T27	arg_other 161 171	into cubes
+R11	other Arg1:T6 Arg2:T27	
+T28	arg_object 208 215	the oil
+T29	arg_location 216 234	in a large skillet
+T30	arg_duration 235 251	over medium heat
+R12	object Arg1:T7 Arg2:T28	
+R13	location Arg1:T7 Arg2:T29	
+R14	duration Arg1:T7 Arg2:T30	
+T31	arg_object 259 274	the onion rings
+R15	object Arg1:T8 Arg2:T31	
+T32	arg_location 275 289	in the skillet
+R16	location Arg1:T8 Arg2:T32	
+R17	object Arg1:T9 Arg2:T8	
+T34	arg_duration 300 317	for a few minutes
+R18	duration Arg1:T9 Arg2:T34	
+T35	arg_object 323 348	the red and yellow pepper
+T36	arg_object 350 359	baby corn
+T37	arg_object 365 388	the stir-fry vegetables
+R19	object Arg1:T10 Arg2:T35	
+R20	object Arg1:T10 Arg2:T36	
+R21	object Arg1:T10 Arg2:T37	
+R22	co-object Arg1:T10 Arg2:T9	
+T38	arg_object 399 407	the heat
+R23	object Arg1:T12 Arg2:T38	
+R24	co-object Arg1:T12 Arg2:T10	
+T39	arg_duration 408 422	to medium-high
+R25	duration Arg1:T12 Arg2:T39	
+T11	predicate 424 437	cook and stir
+R26	object Arg1:T11 Arg2:T12	
+T40	arg_duration 438 458	for about 15 minutes
+R27	duration Arg1:T11 Arg2:T40	
+T13	predicate 460 471	Sprinkle in
+R28	co-object Arg1:T13 Arg2:T11	
+T41	arg_object 472 481	the sugar
+T42	arg_object 486 490	salt
+R29	object Arg1:T13 Arg2:T41	
+R30	object Arg1:T13 Arg2:T42	
+T43	arg_object 500 511	the chicken
+R31	object Arg1:T14 Arg2:T43	
+T44	Evolution 500 511	the chicken
+E4	Evolution:T44 Cause:T6
+T45	arg_object 522 536	the cornstarch
+T46	arg_co-object 537 545	in water
+R32	object Arg1:T15 Arg2:T45	
+R33	co-object Arg1:T15 Arg2:T46	
+R34	object Arg1:T16 Arg2:T15	
+T47	arg_location 556 572	into the skillet
+T49	arg_co-object 573 597	along with the soy sauce
+R36	co-object Arg1:T16 Arg2:T49	
+R37	object Arg1:T17 Arg2:T16	
+T50	arg_duration 613 637	until the sauce thickens
+R38	duration Arg1:T17 Arg2:T50	
+T51	ingredient 39 52	cooking spray
+T52	ingredient 60 78	the chicken strips
+T53	ingredient 208 215	the oil
+R39	co-object Arg1:T8 Arg2:T7	
+R40	same-location Arg1:T32 Arg2:T29	
+T33	ingredient 259 274	the onion rings
+T54	ingredient 323 348	the red and yellow pepper
+T55	ingredient 350 359	baby corn
+T56	ingredient 365 388	the stir-fry vegetables
+T57	ingredient 472 481	the sugar
+T58	ingredient 486 490	salt
+T59	ingredient 522 536	the cornstarch
+T60	ingredient 540 545	water
+R35	co-object Arg1:T16 Arg2:T14	
+R41	same-location Arg1:T47 Arg2:T32	
+T48	ingredient 584 597	the soy sauce

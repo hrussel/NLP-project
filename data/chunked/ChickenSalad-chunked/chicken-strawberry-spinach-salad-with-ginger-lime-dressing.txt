@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Heat oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Place chicken in skillet , season with garlic powder and cook 10 minutes on each side or until juices run clear .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: skillet
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: garlic powder
+    PREP: with
+
+PREDID: 2
+PRED: cook
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+  OARG: 10 minutes
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a bowl , mix mayonnaise , lime juice , ginger and milk .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , lime juice , ginger, milk
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Arrange spinach on serving dishes .
+PREDID: 0
+PRED: arrange
+  DOBJ: spinach
+  PARG: serving dishes
+    PREP: on
+
+
+SENTID: 5
+SENT: Top with chicken and strawberries , sprinkle with almonds and drizzle with dressing .
+PREDID: 0
+PRED: top
+  PARG: chicken, strawberries
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: almonds
+    PREP: with
+
+PREDID: 2
+PRED: drizzle
+  PARG: dressing
+    PREP: with
+
+
+SENTID: 6
+SENT: Season with pepper to serve .
+PREDID: 0
+PRED: season
+  PARG: pepper
+    PREP: with
+  PARG: serve
+    PREP: to
+

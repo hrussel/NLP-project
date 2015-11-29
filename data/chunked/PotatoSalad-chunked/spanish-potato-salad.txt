@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: Cut each potato lengthwise into 1 inch spears .
+PREDID: 0
+PRED: cut
+  DOBJ: each potato lengthwise
+  PARG: 1 inch spears
+    PREP: into
+
+
+SENTID: 4
+SENT: Place spears in 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: spears
+  PARG: 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 5
+SENT: Prepare the marinade by whisking together the white wine vinegar , olive oil , garlic , salt and pepper .
+PREDID: 0
+PRED: prepare
+  DOBJ: the white wine vinegar , olive oil , garlic , salt, pepper
+  PARG: whisking
+    PREP: by
+  OARG: together
+  OARG: the marinade
+
+
+SENTID: 6
+SENT: Reserve 1 tablespoon and pour the remainder over the potatoes and turn gently to coat .
+PREDID: 0
+PRED: reserve
+  DOBJ: 1 tablespoon
+
+PREDID: 1
+PRED: pour
+  DOBJ: the remainder
+  PARG: the potatoes
+    PREP: over
+
+PREDID: 2
+PRED: turn
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 7
+SENT: Cover and refrigerate until chilled .
+PREDID: 0
+PRED: cover
+  PARG: chilled
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 8
+SENT: Remove potatoes from refrigerator and bring to room temperature .
+PREDID: 0
+PRED: remove
+  DOBJ: potatoes
+  PARG: refrigerator
+    PREP: from
+
+PREDID: 1
+PRED: bring
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 9
+SENT: Arrange potato spears on serving platter .
+PREDID: 0
+PRED: arrange
+  DOBJ: potato spears
+  PARG: serving platter
+    PREP: on
+
+
+SENTID: 10
+SENT: Core apple and finely chop ;
+PREDID: 0
+PRED: core
+  DOBJ: apple
+  OARG: finely
+
+PREDID: 1
+PRED: chop
+
+
+SENTID: 11
+SENT: add to reserved marinade .
+PREDID: 0
+PRED: add
+  PARG: reserved marinade
+    PREP: to
+
+
+SENTID: 12
+SENT: Stir in bacon -LRB- or ham -RRB- , olives and onion .
+PREDID: 0
+PRED: stir
+  PARG: bacon -lrb- or ham -rrb- , olives, onion
+    PREP: in
+
+
+SENTID: 13
+SENT: Spoon over potatoes and serve .
+PREDID: 0
+PRED: spoon
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: serve
+

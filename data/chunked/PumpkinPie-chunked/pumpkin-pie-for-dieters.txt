@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: In a medium bowl , mix together the pumpkin , milk , and instant pudding mix .
+PREDID: 0
+PRED: mix
+  DOBJ: the pumpkin , milk , instant pudding mix
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir in the pumpkin pie spice , and fold in half of the whipped topping .
+PREDID: 0
+PRED: stir
+  PARG: the pumpkin pie spice
+    PREP: in
+
+PREDID: 1
+PRED: fold
+  PARG: half of the whipped topping
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour into an 8-inch pie plate , and spread remaining whipped topping over the top .
+PREDID: 0
+PRED: pour
+  PARG: an 8-inch pie plate
+    PREP: into
+
+PREDID: 1
+PRED: spread
+  DOBJ: remaining whipped topping
+  PARG: the top
+    PREP: over
+
+
+SENTID: 3
+SENT: Chill for 1 hour , or until set .
+PREDID: 0
+PRED: chill
+  PARG: 1 hour
+    PREP: for
+  PARG: set
+    PREP: until
+

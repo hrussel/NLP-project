@@ -1,0 +1,24 @@
+SENTID: 0
+SENT: In a medium bowl combine broccoli , dressing -LRB- use more or less to achieve desired creaminess -RRB- , dried cranberries , pistachios , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: broccoli , dressing -lrb- use more or less
+  PARG: a medium bowl
+    PREP: in
+  OARG: to achieve desired creaminess -rrb- , dried cranberries , pistachios , salt, pepper
+
+
+SENTID: 1
+SENT: Mix well , cover and refrigerate until ready to serve .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: cover
+  PARG: ready to serve
+    PREP: until
+
+PREDID: 2
+PRED: refrigerate
+

@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground sirloin , bacon , onion , bell pepper , oats , Cheddar cheese , sour cream , Worcestershire sauce , and Cajun seasoning salt in a large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: ground sirloin , bacon , onion , bell pepper , oats , cheddar cheese , sour cream , worcestershire sauce , cajun seasoning salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: shape into a loaf .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 3
+SENT: Line 1Ê1/2 - quart loaf pan with bread slices .
+PREDID: 0
+PRED: line
+  DOBJ: 1Ê1/2 - quart loaf pan
+  PARG: bread slices
+    PREP: with
+
+
+SENTID: 4
+SENT: Put loaf atop the bread .
+PREDID: 0
+PRED: put
+  DOBJ: loaf
+  PARG: the bread
+    PREP: atop
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until no longer pink in the center , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 15 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir tomato sauce and brown sugar together in a saucepan over medium heat ;
+PREDID: 0
+PRED: stir
+  DOBJ: tomato sauce, brown sugar
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: together
+
+
+SENTID: 7
+SENT: simmer until the sugar dissolves .
+PREDID: 0
+PRED: simmer
+  PARG: the sugar dissolves
+    PREP: until
+
+
+SENTID: 8
+SENT: Add Cheddar cheese in small batches , stirring to melt each batch before adding the next .
+PREDID: 0
+PRED: add
+  DOBJ: cheddar cheese
+  PARG: small batches , stirring
+    PREP: in
+  PARG: melt each batch
+    PREP: to
+  PARG: adding the next
+    PREP: before
+
+
+SENTID: 9
+SENT: Stir onion and parsley into the sauce and continue cooking until hot , about 5 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: onion, parsley
+  PARG: the sauce, continue cooking
+    PREP: into
+  PARG: hot , about 5 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Pour sauce over the meatloaf .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: the meatloaf
+    PREP: over
+

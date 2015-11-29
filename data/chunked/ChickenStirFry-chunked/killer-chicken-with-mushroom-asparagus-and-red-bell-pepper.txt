@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Bring the rice and water to a boil together in a saucepan .
+PREDID: 0
+PRED: bring
+  DOBJ: the rice, water
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Reduce heat to medium-low , cover , and simmer until the rice is tender and the liquid has been absorbed , 35 to 40 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the rice is tender, the liquid has been absorbed , 35 to 40 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: When the rice is nearly done cooking , heat the oil in a large skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: done cooking
+  PARG: a large skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+  OARG: when the rice is
+  OARG: nearly
+
+
+SENTID: 3
+SENT: Cook the onion in the hot oil until softened , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onion
+  PARG: the hot oil
+    PREP: in
+  PARG: softened , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add the chicken , garlic , and ginger to the skillet and continue cooking and stirring until the chicken is completely browned , 7 to 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken , garlic , ginger
+  PARG: the skillet
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  DOBJ: cooking, stirring
+  PARG: the chicken is completely browned , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Fold the mushrooms , asparagus , bell peppers , and fish sauce into the chicken mixture ;
+PREDID: 0
+PRED: fold
+  DOBJ: the mushrooms , asparagus , bell peppers , fish sauce
+  PARG: the chicken mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: continue cooking just until hot , about 5 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: hot , about 5 minutes
+    PREP: until
+  OARG: just
+
+
+SENTID: 7
+SENT: Crack the egg , and scramble it into the mixture .
+PREDID: 0
+PRED: crack
+  DOBJ: the egg
+
+PREDID: 1
+PRED: scramble
+  DOBJ: it
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: Add the basil leaves to the mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: the basil leaves
+  PARG: the mixture
+    PREP: to
+
+
+SENTID: 9
+SENT: cook until the leaves wilt slightly , about 30 seconds .
+PREDID: 0
+PRED: cook
+  PARG: the leaves wilt slightly , about 30 seconds
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove pan from heat immediately .
+PREDID: 0
+PRED: remove
+  DOBJ: pan
+  PARG: heat
+    PREP: from
+  OARG: immediately
+
+
+SENTID: 11
+SENT: Serve over the basmati rice ;
+PREDID: 0
+PRED: serve
+  PARG: the basmati rice
+    PREP: over
+
+
+SENTID: 12
+SENT: garnish with the cilantro and sesame seeds and a drizzle of the tamari soy sauce .
+PREDID: 0
+PRED: garnish
+  PARG: the cilantro, sesame seeds, a drizzle of the tamari soy sauce
+    PREP: with
+

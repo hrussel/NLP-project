@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Brown meat ;
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Add to slow cooker with remaining ingredients except cheese ;
+PREDID: 0
+PRED: add
+  PARG: remaining ingredients
+    PREP: with
+  PARG: cheese
+    PREP: except
+  OARG: to slow cooker
+
+
+SENTID: 3
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 4
+SENT: Cover with lid .
+PREDID: 0
+PRED: cover
+  PARG: lid
+    PREP: with
+
+
+SENTID: 5
+SENT: Cook on LOW 5 to 6 hours -LRB- or on HIGH 3 to 4 hours -RRB- .
+PREDID: 0
+PRED: cook
+  PARG: low 5 to 6 hours -lrb-
+    PREP: on
+  PARG: high 3 to 4 hours -rrb-
+    PREP: on
+
+
+SENTID: 6
+SENT: Stir just before serving .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+  OARG: just
+
+
+SENTID: 7
+SENT: Serve topped with the cheese .
+PREDID: 0
+PRED: serve
+  DOBJ: topped
+  PARG: the cheese
+    PREP: with
+

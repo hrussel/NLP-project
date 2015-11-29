@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Heat oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir onion and celery in hot oil until onion is translucent , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, celery
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: onion is translucent , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir garlic into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: garlic
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: cook and stir another 2 minutes .
+PREDID: 0
+PRED: cook
+  OARG: another 2 minutes
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Transfer mixture to slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  OARG: to slow cooker
+
+
+SENTID: 5
+SENT: Stir butternut squash , pork , diced tomatoes , baked beans , chicken stock , corn , peas , cayenne pepper , cumin , paprika , salt , and barbeque sauce into the onion mixture in the slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: butternut squash , pork , diced tomatoes , baked beans , chicken stock , corn , peas , cayenne pepper , cumin , paprika , salt , barbeque sauce
+  PARG: the onion mixture
+    PREP: into
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 6
+SENT: Cover and cook on High for 4 hours .
+PREDID: 0
+PRED: cover
+  PARG: high
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 4 hours
+    PREP: for
+

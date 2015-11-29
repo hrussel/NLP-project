@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: Combine pumpkin , brown sugar , salt , and spices with a rotary beater .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , brown sugar , salt , spices
+  PARG: a rotary beater
+    PREP: with
+
+
+SENTID: 1
+SENT: Blend in ice cream .
+PREDID: 0
+PRED: blend
+  PARG: ice cream
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour into pie shell .
+PREDID: 0
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Freeze until firm .
+PREDID: 0
+PRED: freeze
+  PARG: firm
+    PREP: until
+
+
+SENTID: 4
+SENT: Serve frozen , garnished with whipped cream and walnut halves .
+PREDID: 0
+PRED: serve
+  DOBJ: frozen , garnished
+  PARG: whipped cream, walnut halves
+    PREP: with
+

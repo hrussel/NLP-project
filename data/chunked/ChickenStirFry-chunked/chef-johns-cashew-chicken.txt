@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Season chicken cubes with salt and black pepper .
+PREDID: 0
+PRED: season
+  DOBJ: chicken cubes
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 1
+SENT: Mix cornstarch and water in a bowl until smooth ;
+PREDID: 0
+PRED: mix
+  DOBJ: cornstarch, water
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: whisk in lemon juice , rice vinegar , ketchup , soy sauce , brown sugar , and chile pepper sauce into cornstarch mixture , stirring until brown sugar has dissolved and cornstarch is free of lumps .
+PREDID: 0
+PRED: whisk
+  PARG: lemon juice , rice vinegar , ketchup , soy sauce , brown sugar , chile pepper sauce
+    PREP: in
+  PARG: cornstarch mixture , stirring
+    PREP: into
+  PARG: brown sugar has dissolved, cornstarch is free of lumps
+    PREP: until
+
+
+SENTID: 3
+SENT: Place a heavy skillet over medium-high heat ;
+PREDID: 0
+PRED: place
+  DOBJ: a heavy skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: pour in vegetable oil .
+PREDID: 0
+PRED: pour
+  PARG: vegetable oil
+    PREP: in
+
+
+SENTID: 5
+SENT: Add slices of red chili and ginger to the hot oil .
+PREDID: 0
+PRED: add
+  DOBJ: slices of red chili, ginger
+  PARG: the hot oil
+    PREP: to
+
+
+SENTID: 6
+SENT: Cook , stirring often , until oil is flavored , about 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: oil is flavored , about 2 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 7
+SENT: Stir in cashews and garlic ;
+PREDID: 0
+PRED: stir
+  PARG: cashews, garlic
+    PREP: in
+
+
+SENTID: 8
+SENT: cook until cashews are lightly golden brown , about 2 minutes more .
+PREDID: 0
+PRED: cook
+  PARG: cashews are lightly golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 2 minutes more
+    PREP: about
+
+
+SENTID: 9
+SENT: Lightly toss seasoned chicken cubes with cashew mixture in skillet until combined , about 30 seconds .
+PREDID: 0
+PRED: toss
+  DOBJ: seasoned chicken cubes
+  PARG: cashew mixture
+    PREP: with
+  PARG: skillet
+    PREP: in
+  PARG: combined , about 30 seconds
+    PREP: until
+  OARG: lightly
+
+
+SENTID: 10
+SENT: Turn heat down to medium-low and pour cornstarch mixture into skillet .
+PREDID: 0
+PRED: turn
+  DOBJ: heat
+  PARG: medium-low, pour cornstarch mixture
+    PREP: to
+  PARG: skillet
+    PREP: into
+  OARG: down
+
+
+SENTID: 11
+SENT: Stir constantly until sauce has thickened , about 30 seconds .
+PREDID: 0
+PRED: stir
+  PARG: sauce has thickened , about 30 seconds
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 12
+SENT: If too thick , add a splash of water .
+PREDID: 0
+PRED: add
+  DOBJ: a splash of water
+  PARG: too thick
+    PREP: if
+
+
+SENTID: 13
+SENT: Simmer 2 more minutes to heat the chicken through .
+PREDID: 0
+PRED: simmer
+  DOBJ: through
+  PARG: heat the chicken
+    PREP: to
+  OARG: 2 more minutes
+
+
+SENTID: 14
+SENT: Adjust levels of salt , black pepper , soy sauce , and chile pepper sauce to taste .
+PREDID: 0
+PRED: adjust
+  DOBJ: levels of salt , black pepper , soy sauce , chile pepper sauce
+  PARG: taste
+    PREP: to
+
+
+SENTID: 15
+SENT: Stir in cilantro just until wilted , about 15 seconds .
+PREDID: 0
+PRED: stir
+  PARG: cilantro
+    PREP: in
+  PARG: wilted , about 15 seconds
+    PREP: until
+  OARG: just
+

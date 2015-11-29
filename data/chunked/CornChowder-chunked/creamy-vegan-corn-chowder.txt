@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: Heat oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in onions and celery ;
+PREDID: 0
+PRED: stir
+  PARG: onions, celery
+    PREP: in
+
+
+SENTID: 2
+SENT: cook until just slightly golden .
+PREDID: 0
+PRED: cook
+  PARG: just slightly golden
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in carrots and garlic ;
+PREDID: 0
+PRED: stir
+  PARG: carrots, garlic
+    PREP: in
+
+
+SENTID: 4
+SENT: cook until garlic is slightly golden .
+PREDID: 0
+PRED: cook
+  PARG: garlic is slightly golden
+    PREP: until
+
+
+SENTID: 5
+SENT: Meanwhile , bring water to a boil over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Stir in bouillon , and reduce heat to medium .
+PREDID: 0
+PRED: stir
+  PARG: bouillon
+    PREP: in
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 7
+SENT: When bouillon cubes have dissolved , add corn and the vegetables from the skillet .
+PREDID: 0
+PRED: add
+  DOBJ: corn, the vegetables
+  PARG: the skillet
+    PREP: from
+  OARG: when bouillon cubes have dissolved
+
+
+SENTID: 8
+SENT: Cook until vegetables are tender .
+PREDID: 0
+PRED: cook
+  PARG: vegetables are tender
+    PREP: until
+
+
+SENTID: 9
+SENT: Add water , if necessary .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 10
+SENT: Reduce heat to low , and pour in 1 cup soy milk .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  PARG: 1 cup soy milk
+    PREP: in
+
+
+SENTID: 11
+SENT: Stir soup well , then stir in remaining 1 cup soy milk .
+PREDID: 0
+PRED: stir
+  DOBJ: soup
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: remaining 1 cup soy milk
+    PREP: in
+
+
+SENTID: 12
+SENT: Quickly whisk in flour .
+PREDID: 0
+PRED: whisk
+  PARG: flour
+    PREP: in
+  OARG: quickly
+
+
+SENTID: 13
+SENT: Stir in parsley , garlic powder , salt , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: parsley , garlic powder , salt , pepper
+    PREP: in
+
+
+SENTID: 14
+SENT: Cook , stirring constantly , until chowder thickens , about 15 to 20 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: chowder thickens , about 15 to 20 minutes
+    PREP: until
+  OARG: constantly
+

@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: In a large bowl , combine ground meat , soup , chopped onion , rolled oats , eggs , steak sauce , ketchup and mustard .
+PREDID: 0
+PRED: combine
+  DOBJ: ground meat , soup , chopped onion , rolled oats , eggs , steak sauce , ketchup, mustard
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Shape into a loaf , and pat Into a loaf pan .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: pat
+  PARG: a loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in a preheated 350 degrees F -LRB- 175 degrees C -RRB- oven for 1 hour or until done .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: done
+    PREP: until
+

@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: Place the potatoes in a Dutch oven and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a dutch oven
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: reduce heat to medium-low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover and simmer until potatoes are tender , and a fork can be easily inserted and removed , about 20 minutes .
+PREDID: 0
+PRED: cover
+  PARG: potatoes are tender , a fork can be easily inserted, removed , about 20 minutes
+    PREP: until
+
+PREDID: 1
+PRED: simmer
+
+
+SENTID: 4
+SENT: Drain and cool slightly .
+PREDID: 0
+PRED: drain
+  OARG: slightly
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 5
+SENT: Peel , cut into cubes , and place in a large bowl .
+PREDID: 0
+PRED: peel
+
+PREDID: 1
+PRED: cut
+  PARG: cubes
+    PREP: into
+
+PREDID: 2
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: To make the dressing , combine the tofu , lemon juice , mustard , garlic , and 1 teaspoon of salt in the bowl of a food processor .
+PREDID: 0
+PRED: combine
+  DOBJ: the tofu , lemon juice , mustard , garlic , 1 teaspoon of salt
+  PARG: make the dressing
+    PREP: to
+  PARG: the bowl of a food processor
+    PREP: in
+
+
+SENTID: 7
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: With the processor running , add the olive oil in a thin , steady stream , blending just until mixture thickens .
+PREDID: 0
+PRED: add
+  DOBJ: the olive oil
+  PARG: the processor running
+    PREP: with
+  PARG: a thin
+    PREP: in
+  OARG: steady
+
+PREDID: 1
+PRED: stream
+  DOBJ: blending
+  PARG: mixture thickens
+    PREP: until
+  OARG: just
+
+
+SENTID: 9
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 10
+SENT: Combine the celery , red bell pepper , eggs , green onions , and pickles in the bowl with the potatoes .
+PREDID: 0
+PRED: combine
+  DOBJ: the celery , red bell pepper , eggs , green onions , pickles
+  PARG: the bowl
+    PREP: in
+  PARG: the potatoes
+    PREP: with
+
+
+SENTID: 11
+SENT: Pour the dressing over the potato mixture , and toss lightly to evenly coat all ingredients .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potato mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: lightly
+  OARG: to evenly coat all ingredients
+
+
+SENTID: 12
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Cover and chill at least 4 hours .
+PREDID: 0
+PRED: cover
+  PARG: least 4 hours
+    PREP: at
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 14
+SENT: Just before serving , toss the salad with milk , 1 tablespoon at a time , to reach the desired consistency .
+PREDID: 0
+PRED: toss
+  DOBJ: the salad
+  PARG: serving
+    PREP: before
+  PARG: milk , 1 tablespoon
+    PREP: with
+  PARG: a time
+    PREP: at
+  PARG: reach the desired consistency
+    PREP: to
+  OARG: just
+

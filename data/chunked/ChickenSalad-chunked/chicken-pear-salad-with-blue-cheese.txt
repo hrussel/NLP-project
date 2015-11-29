@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Arrange equal amounts of the salad greens on each of 4 salad plates .
+PREDID: 0
+PRED: arrange
+  DOBJ: equal amounts of the salad greens
+  PARG: each of 4 salad plates
+    PREP: on
+
+
+SENTID: 1
+SENT: Spoon equal amounts of the dressing evenly over all .
+PREDID: 0
+PRED: spoon
+  DOBJ: equal amounts of the dressing
+  PARG: all
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 2
+SENT: Top with the chicken , peppers , and pears .
+PREDID: 0
+PRED: top
+  PARG: the chicken , peppers , pears
+    PREP: with
+
+
+SENTID: 3
+SENT: Sprinkle evenly with the blue cheese , black pepper and walnuts , if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: the blue cheese , black pepper, walnuts
+    PREP: with
+  PARG: desired
+    PREP: if
+  OARG: evenly
+

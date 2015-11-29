@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Place eggs in a medium saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs in half lengthwise .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: Remove yolks and place in a medium bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+
+PREDID: 1
+PRED: place
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Set aside egg whites .
+PREDID: 0
+PRED: set
+  DOBJ: egg whites
+  OARG: aside
+
+
+SENTID: 7
+SENT: Mashing with a fork , mix mayonnaise , Dijon-style mustard , salt and black pepper with the egg yolks .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , dijon-style mustard , salt, black pepper
+  PARG: a fork
+    PREP: with
+  PARG: the egg yolks
+    PREP: with
+  OARG: mashing
+
+
+SENTID: 8
+SENT: Fill the hollowed egg white halves with the yolk mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: the hollowed egg white halves
+  PARG: the yolk mixture
+    PREP: with
+
+
+SENTID: 9
+SENT: Sprinkle with cayenne pepper , adjusting the amount to taste .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: adjusting the amount
+  PARG: cayenne pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 10
+SENT: Cover and chill in the refrigerator until serving .
+PREDID: 0
+PRED: cover
+  PARG: the refrigerator
+    PREP: in
+
+PREDID: 1
+PRED: chill
+  PARG: serving
+    PREP: until
+

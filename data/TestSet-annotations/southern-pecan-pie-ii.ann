@@ -1,0 +1,114 @@
+T1	predicate 17 24	combine
+T2	predicate 73 79	Cut in
+T3	predicate 126 129	Mix
+T4	predicate 150 157	stir in
+T5	predicate 186 190	Wrap
+T6	predicate 206 217	refrigerate
+T7	predicate 243 251	Roll out
+T8	predicate 256 261	place
+T9	predicate 285 292	Preheat
+T10	predicate 332 337	Place
+T11	predicate 390 394	Stir
+T12	predicate 432 438	Mix in
+T13	predicate 494 499	Blend
+T14	predicate 509 513	pour
+T15	predicate 536 540	Bake
+T16	predicate 579 585	Reduce
+T17	predicate 635 639	bake
+T18	arg_location 0 15	In a large bowl
+R1	location Arg1:T1 Arg2:T18	
+T19	arg_object 25 41	1 1/2 cups flour
+T20	arg_object 43 62	3 tablespoons sugar
+T21	arg_object 67 71	salt
+R2	object Arg1:T1 Arg2:T19	
+R3	object Arg1:T1 Arg2:T20	
+R4	object Arg1:T1 Arg2:T21	
+T22	ingredient 25 41	1 1/2 cups flour
+T23	ingredient 43 62	3 tablespoons sugar
+T24	ingredient 67 71	salt
+T25	arg_object 80 86	butter
+T26	ingredient 80 86	butter
+R5	object Arg1:T2 Arg2:T25	
+R6	co-object Arg1:T2 Arg2:T1	
+T27	arg_duration 87 124	until mixture resembles coarse crumbs
+R7	duration Arg1:T2 Arg2:T27	
+T28	arg_object 130 134	yolk
+T29	arg_co-object 135 145	with water
+T30	ingredient 140 145	water
+T31	ingredient 130 134	yolk
+R8	object Arg1:T3 Arg2:T28	
+R9	co-object Arg1:T3 Arg2:T29	
+R10	object Arg1:T4 Arg2:T3	
+R11	co-object Arg1:T4 Arg2:T2	
+T32	arg_duration 158 184	until mixture forms a ball
+R12	duration Arg1:T4 Arg2:T32	
+R13	object Arg1:T5 Arg2:T4	
+T33	arg_location 191 201	in plastic
+R14	location Arg1:T5 Arg2:T33	
+R15	object Arg1:T6 Arg2:T5	
+T34	arg_duration 218 241	for 1 hour or overnight
+R16	duration Arg1:T6 Arg2:T34	
+R17	object Arg1:T7 Arg2:T6	
+R18	object Arg1:T8 Arg2:T7	
+T35	arg_location 262 283	in a 9 inch pie plate
+R19	location Arg1:T8 Arg2:T35	
+T36	arg_object 293 297	oven
+T37	arg_other 298 331	to 450 degrees F (230 degrees C.)
+R20	object Arg1:T9 Arg2:T36	
+R21	other Arg1:T9 Arg2:T37	
+T38	arg_object 338 344	pecans
+T39	ingredient 338 344	pecans
+R22	object Arg1:T10 Arg2:T38	
+T40	arg_co-object 345 371	in the bottom of pie crust
+T41	Evolution 348 371	the bottom of pie crust
+E1	Evolution:T41 Cause:T8
+R23	co-object Arg1:T10 Arg2:T40	
+T42	arg_location 373 388	In a large bowl
+R24	location Arg1:T11 Arg2:T42	
+T43	arg_other 395 403	together
+T44	arg_object 404 420	3/4 cup of sugar
+T45	arg_object 425 430	flour
+T46	ingredient 425 430	flour
+T47	ingredient 404 420	3/4 cup of sugar
+R25	other Arg1:T11 Arg2:T43	
+R26	object Arg1:T11 Arg2:T44	
+R27	object Arg1:T11 Arg2:T45	
+R28	co-object Arg1:T12 Arg2:T11	
+T48	arg_object 439 447	the eggs
+T49	ingredient 439 447	the eggs
+T50	arg_object 449 459	corn syrup
+T51	ingredient 449 459	corn syrup
+T52	arg_object 461 465	milk
+T53	ingredient 461 465	milk
+T54	arg_object 467 480	melted butter
+T55	ingredient 467 480	melted butter
+T56	arg_object 485 492	vanilla
+T57	ingredient 485 492	vanilla
+R29	object Arg1:T12 Arg2:T48	
+R30	object Arg1:T12 Arg2:T50	
+R31	object Arg1:T12 Arg2:T52	
+R32	object Arg1:T12 Arg2:T54	
+R33	object Arg1:T12 Arg2:T56	
+R34	object Arg1:T13 Arg2:T12	
+T58	arg_other 500 504	well
+R35	other Arg1:T13 Arg2:T58	
+R36	object Arg1:T14 Arg2:T13	
+T59	arg_co-object 514 534	over pecans in crust
+T60	Evolution 519 534	pecans in crust
+E2	Evolution:T60 Cause:T10
+R37	co-object Arg1:T14 Arg2:T59	
+R38	object Arg1:T15 Arg2:T14	
+T61	arg_location 541 562	in the preheated oven
+R39	location Arg1:T15 Arg2:T61	
+T62	Evolution 544 562	the preheated oven
+E3	Evolution:T62 Cause:T9
+T63	arg_duration 563 577	for 10 minutes
+R40	duration Arg1:T15 Arg2:T63	
+T64	arg_object 586 597	temperature
+R41	object Arg1:T16 Arg2:T64	
+R42	co-object Arg1:T16 Arg2:T15	
+T65	arg_other 598 630	to 350 degrees F (175 degrees C)
+R43	other Arg1:T16 Arg2:T65	
+R44	object Arg1:T17 Arg2:T16	
+T66	arg_duration 640 702	for 40 to 50 minutes, or until golden brown and filling is set
+R45	duration Arg1:T17 Arg2:T66	

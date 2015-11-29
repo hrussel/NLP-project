@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: In a large , self-sealing bag , combine honey and Worcestershire sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: honey, worcestershire sauce
+  PARG: a large , self-sealing bag
+    PREP: in
+
+
+SENTID: 1
+SENT: Add chicken and place bag in a shallow dish in the refrigerator .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+PREDID: 1
+PRED: place
+  DOBJ: bag
+  PARG: a shallow dish
+    PREP: in
+  PARG: the refrigerator
+    PREP: in
+
+
+SENTID: 2
+SENT: Chill 2 to 4 hours , turning bag occasionally .
+PREDID: 0
+PRED: chill
+  OARG: 2 to 4 hours , turning bag
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Remove chicken and discard marinade .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+
+PREDID: 1
+PRED: discard
+  DOBJ: marinade
+
+
+SENTID: 4
+SENT: Grill chicken over medium heat for 12 to 15 minutes , until juices run clear and chicken is no longer pink inside .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken
+  PARG: medium heat
+    PREP: over
+  PARG: 12 to 15 minutes
+    PREP: for
+  PARG: juices run clear, chicken is no longer pink inside
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from grill , cool and chop .
+PREDID: 0
+PRED: remove
+  PARG: grill
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 6
+SENT: In a medium bowl , whisk together the remaining honey , mustard , vinegar , lemon zest , lemon pepper , poppy seeds and garlic powder .
+PREDID: 0
+PRED: whisk
+  DOBJ: the remaining honey , mustard , vinegar , lemon zest , lemon pepper , poppy seeds, garlic powder
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Add chicken , grapes and cashews and toss until evenly coated .
+PREDID: 0
+PRED: add
+  DOBJ: chicken , grapes, cashews
+
+PREDID: 1
+PRED: toss
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 8
+SENT: Cover and chill until serving .
+PREDID: 0
+PRED: cover
+  PARG: serving
+    PREP: until
+
+PREDID: 1
+PRED: chill
+

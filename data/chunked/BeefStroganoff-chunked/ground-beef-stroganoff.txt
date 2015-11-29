@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Break up ground meat into a large skillet , and add onion , mushrooms , garlic powder , and mustard powder .
+PREDID: 0
+PRED: break
+  DOBJ: ground meat
+  PARG: a large skillet
+    PREP: into
+  OARG: up
+
+PREDID: 1
+PRED: add
+  DOBJ: onion , mushrooms , garlic powder , mustard powder
+
+
+SENTID: 1
+SENT: Cook and stir over medium heat until the meat is browned and onion is tender .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the meat is browned, onion is tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain off excess fat .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+
+SENTID: 3
+SENT: In a small bowl , combine sour cream , mayonnaise , and beef broth .
+PREDID: 0
+PRED: combine
+  DOBJ: sour cream , mayonnaise , beef broth
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir into beef mixture , and cook over low heat for 10 to 15 minutes .
+PREDID: 0
+PRED: stir
+  PARG: beef mixture
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: 10 to 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Meanwhile , cook pasta in a large pot of boiling water until done .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: done
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: Serve sauce over hot noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: sauce
+  PARG: hot noodles
+    PREP: over
+

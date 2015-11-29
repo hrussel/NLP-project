@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: In a large bowl , toss together cabbage , jicama , carrots and cilantro .
+PREDID: 0
+PRED: toss
+  DOBJ: cabbage , jicama , carrots, cilantro
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Whisk together ponzu , sesame oil , orange juice and ginger ;
+PREDID: 0
+PRED: whisk
+  DOBJ: ponzu , sesame oil , orange juice, ginger
+  OARG: together
+
+
+SENTID: 2
+SENT: pour over cabbage mixture and toss together .
+PREDID: 0
+PRED: pour
+  PARG: cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: together
+
+
+SENTID: 3
+SENT: Sprinkle with candied walnuts .
+PREDID: 0
+PRED: sprinkle
+  PARG: candied walnuts
+    PREP: with
+
+
+SENTID: 4
+SENT: To make candied walnuts , place 1 cup walnuts and 1/2 cup sugar in a skillet over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: 1 cup walnuts, 1/2 cup sugar
+  PARG: make candied walnuts
+    PREP: to
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook , stirring constantly , until sugar dissolves and turns light brown .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: sugar dissolves, turns light brown
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 6
+SENT: Toss to coat walnuts .
+PREDID: 0
+PRED: toss
+  PARG: coat walnuts
+    PREP: to
+
+
+SENTID: 7
+SENT: Remove skillet from heat ;
+PREDID: 0
+PRED: remove
+  DOBJ: skillet
+  PARG: heat
+    PREP: from
+
+
+SENTID: 8
+SENT: stir in 1/2 teaspoon vanilla and 1/2 teaspoon cinnamon .
+PREDID: 0
+PRED: stir
+  PARG: 1/2 teaspoon vanilla, 1/2 teaspoon cinnamon
+    PREP: in
+
+
+SENTID: 9
+SENT: Spread walnuts on aluminum foil to cool .
+PREDID: 0
+PRED: spread
+  DOBJ: walnuts
+  PARG: aluminum foil
+    PREP: on
+  OARG: to cool
+

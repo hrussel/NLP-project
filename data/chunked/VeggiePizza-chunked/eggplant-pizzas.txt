@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat the eggs in a bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix the flour , salt , pepper , and oregano in a 1 gallon resealable plastic bag .
+PREDID: 0
+PRED: mix
+  DOBJ: the flour , salt , pepper , oregano
+  PARG: a 1 gallon resealable plastic bag
+    PREP: in
+
+
+SENTID: 3
+SENT: Dip each eggplant slice in the egg , then drop the eggplant in the flour mixture one at a time , shaking the bag to coat the eggplant .
+PREDID: 0
+PRED: dip
+  DOBJ: each eggplant slice
+  PARG: the egg
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: drop
+  DOBJ: shaking the bag
+  PARG: the flour mixture one at a time
+    PREP: in
+  PARG: coat the eggplant
+    PREP: to
+  OARG: the eggplant
+
+
+SENTID: 4
+SENT: Heat the vegetable oil in a large , deep skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the vegetable oil
+  PARG: a large
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: deep
+
+
+SENTID: 5
+SENT: Place the eggplant slices in the skillet to cook , turning occasionally , until evenly browned .
+PREDID: 0
+PRED: place
+  DOBJ: the eggplant slices
+  PARG: the skillet
+    PREP: in
+  PARG: cook , turning
+    PREP: to
+  PARG: evenly browned
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain the eggplant slices on a paper towel-lined plate .
+PREDID: 0
+PRED: drain
+  DOBJ: the eggplant slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 7
+SENT: Arrange the eggplant in one layer on a baking sheet .
+PREDID: 0
+PRED: arrange
+  DOBJ: the eggplant
+  PARG: one layer
+    PREP: in
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 8
+SENT: Spoon enough pizza sauce to cover each eggplant slice .
+PREDID: 0
+PRED: spoon
+  DOBJ: pizza sauce
+  PARG: cover each eggplant slice
+    PREP: to
+  OARG: enough
+
+
+SENTID: 9
+SENT: Top each eggplant with mozzarella cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each eggplant
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until the mozzarella cheese is melted , 5 to 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the mozzarella cheese is melted , 5 to 10 minutes
+    PREP: until
+

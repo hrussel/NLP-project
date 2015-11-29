@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Season chicken with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: chicken
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 1
+SENT: Roast at 375 degrees F -LRB- 190 degrees C -RRB- for 35 minutes , or until juices run clear .
+PREDID: 0
+PRED: roast
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 35 minutes
+    PREP: for
+  PARG: juices run clear
+    PREP: until
+
+
+SENTID: 2
+SENT: Let cool , and chop into chunks .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+
+PREDID: 1
+PRED: chop
+  PARG: chunks
+    PREP: into
+
+
+SENTID: 3
+SENT: In a food processor , puree the mayonnaise , basil , garlic , and celery .
+PREDID: 0
+PRED: puree
+  DOBJ: the mayonnaise , basil , garlic , celery
+  PARG: a food processor
+    PREP: in
+
+
+SENTID: 4
+SENT: Combine the chunked chicken , pureed mixture , and Parmesan cheese ;
+PREDID: 0
+PRED: combine
+  DOBJ: the chunked chicken , pureed mixture , parmesan cheese
+
+
+SENTID: 5
+SENT: toss .
+PREDID: 0
+PRED: toss
+
+
+SENTID: 6
+SENT: Refrigerate , and serve .
+PREDID: 0
+PRED: refrigerate
+
+PREDID: 1
+PRED: serve
+

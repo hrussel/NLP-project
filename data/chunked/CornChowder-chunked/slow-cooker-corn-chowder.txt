@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: In a slow cooker , place the potatoes , onions , ham , celery , corn , butter or margarine and salt and pepper to taste .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes , onions , ham , celery , corn , butter or margarine, salt, pepper
+  PARG: a slow cooker
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 1
+SENT: Add water to cover and two bouillon cubes .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: cover, two bouillon cubes
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook on low setting for 8 to 9 hours and then stir in the evaporated milk .
+PREDID: 0
+PRED: cook
+  PARG: low setting
+    PREP: on
+  PARG: 8 to 9 hours
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the evaporated milk
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook for 30 more minutes .
+PREDID: 0
+PRED: cook
+  PARG: 30 more minutes
+    PREP: for
+

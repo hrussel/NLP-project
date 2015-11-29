@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease and flour one 9x13 inch pan or two 9 inch round cake pans .
+PREDID: 0
+PRED: grease
+  DOBJ: one 9x13 inch pan or two 9 inch round cake pans
+  OARG: lightly
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: Separate eggs and beat egg whites until frothy , then continue whipping and gradually add 1/2 cup of the white sugar .
+PREDID: 0
+PRED: separate
+  DOBJ: eggs
+
+PREDID: 1
+PRED: beat
+  DOBJ: egg whites
+  PARG: frothy , then continue whipping, gradually
+    PREP: until
+
+PREDID: 2
+PRED: add
+  DOBJ: 1/2 cup of the white sugar
+
+
+SENTID: 3
+SENT: Beat until stiff .
+PREDID: 0
+PRED: beat
+  PARG: stiff
+    PREP: until
+
+
+SENTID: 4
+SENT: In a large bowl combine ;
+PREDID: 0
+PRED: combine
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Add the oil and the buttermilk and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: the oil, the buttermilk
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Add the egg yolks and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: the egg yolks
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: Fold in the egg whites and then the carrots .
+PREDID: 0
+PRED: fold
+  DOBJ: the carrots
+  PARG: the egg whites
+    PREP: in
+  OARG: then
+
+
+SENTID: 8
+SENT: Pour batter into prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 to 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 25 to 35 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Cool and frost with your favorite Cream Cheese frosting using light cream cheese .
+PREDID: 0
+PRED: cool
+  PARG: your favorite cream cheese frosting using light cream cheese
+    PREP: with
+
+PREDID: 1
+PRED: frost
+

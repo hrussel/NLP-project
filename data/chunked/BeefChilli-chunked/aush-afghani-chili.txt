@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Brown ground beef in a skillet over medium heat ;
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: remove with slotted spoon to a large pot ;
+PREDID: 0
+PRED: remove
+  PARG: slotted spoon
+    PREP: with
+  PARG: a large pot
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook and stir the onion in the reserved drippings until golden brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: the onion
+
+PREDID: 1
+PRED: stir
+  PARG: the reserved drippings
+    PREP: in
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 3
+SENT: remove with slotted spoon and add to beef in the pot .
+PREDID: 0
+PRED: remove
+  PARG: slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: add
+  PARG: beef
+    PREP: to
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir the tomatoes with juice , garlic , red pepper , cumin , chili powder , mint , garam masala , garbanzo beans , and spinach into the beef mixture and place the pot over low heat ;
+PREDID: 0
+PRED: stir
+  DOBJ: the tomatoes
+  PARG: juice , garlic , red pepper , cumin , chili powder , mint , garam masala , garbanzo beans , spinach
+    PREP: with
+  PARG: the beef mixture
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: the pot
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 5
+SENT: simmer 3 to 6 hours .
+PREDID: 0
+PRED: simmer
+  OARG: 3 to 6 hours
+
+
+SENTID: 6
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Once the water is boiling , stir in the fettuccini , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the fettuccini
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 10
+SENT: Stir into the chili along with the sour cream and serve hot .
+PREDID: 0
+PRED: stir
+  PARG: the chili
+    PREP: into
+  PARG: with the sour cream
+    PREP: along
+
+PREDID: 1
+PRED: serve
+  DOBJ: hot
+

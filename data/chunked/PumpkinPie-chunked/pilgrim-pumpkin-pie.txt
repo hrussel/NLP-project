@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix together flour , 1 tablespoon sugar , and 2 teaspoons salt .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , 1 tablespoon sugar , 2 teaspoons salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Cut in shortening until mixture resembles coarse meal .
+PREDID: 0
+PRED: cut
+  PARG: shortening
+    PREP: in
+  PARG: mixture resembles coarse meal
+    PREP: until
+
+
+SENTID: 3
+SENT: In a small bowl whisk together vinegar , 1 egg , and ice water .
+PREDID: 0
+PRED: whisk
+  DOBJ: vinegar , 1 egg , ice water
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Pour into flour mixture and stir until dough forms a ball .
+PREDID: 0
+PRED: pour
+  PARG: flour mixture
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: dough forms a ball
+    PREP: until
+
+
+SENTID: 5
+SENT: Divide into 4 portions .
+PREDID: 0
+PRED: divide
+  PARG: 4 portions
+    PREP: into
+
+
+SENTID: 6
+SENT: Freeze 3 of them or use for other pies .
+PREDID: 0
+PRED: freeze
+  DOBJ: 3 of them
+
+PREDID: 1
+PRED: use
+  PARG: other pies
+    PREP: for
+
+
+SENTID: 7
+SENT: Reserve one for Pilgrim Pumpkin Pie .
+PREDID: 0
+PRED: reserve
+  DOBJ: one for pilgrim pumpkin pie
+
+
+SENTID: 8
+SENT: In a large bowl , combine 2 beaten eggs , pumpkin , 3/4 cup honey or sugar , 1/2 teaspoon salt , cinnamon , 1/2 teaspoon ginger , cloves , and evaporated milk .
+PREDID: 0
+PRED: combine
+  DOBJ: 2 beaten eggs , pumpkin , 3/4 cup honey or sugar , 1/2 teaspoon salt , cinnamon , 1/2 teaspoon ginger , cloves , evaporated milk
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 10
+SENT: Roll out pastry and fit into a 9 inch pie plate .
+PREDID: 0
+PRED: roll
+  PARG: pastry
+    PREP: out
+
+PREDID: 1
+PRED: fit
+  PARG: a 9 inch pie plate
+    PREP: into
+
+
+SENTID: 11
+SENT: Pour in pumpkin filling .
+PREDID: 0
+PRED: pour
+  PARG: pumpkin filling
+    PREP: in
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 15 minutes , then reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 13
+SENT: Bake an additional 45 minutes , until filling is set .
+PREDID: 0
+PRED: bake
+  PARG: filling is set
+    PREP: until
+  OARG: an additional 45 minutes
+
+
+SENTID: 14
+SENT: In a large bowl combine whipping cream , 1/4 cup honey , and 1/2 teaspoon ginger .
+PREDID: 0
+PRED: combine
+  DOBJ: whipping cream , 1/4 cup honey , 1/2 teaspoon ginger
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 15
+SENT: Whip until soft peaks form .
+PREDID: 0
+PRED: whip
+  PARG: soft peaks form
+    PREP: until
+
+
+SENTID: 16
+SENT: Chill 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+  OARG: 1 hour
+
+
+SENTID: 17
+SENT: Place a spoonful on top of each slice of pie .
+PREDID: 0
+PRED: place
+  DOBJ: a spoonful
+  PARG: top of each slice of pie
+    PREP: on
+

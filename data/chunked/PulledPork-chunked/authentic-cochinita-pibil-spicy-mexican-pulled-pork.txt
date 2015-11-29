@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: Combine the onion , habanero peppers , lime juice , and salt in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the onion , habanero peppers , lime juice , salt
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: cover and refrigerate while preparing and cooking the pork .
+PREDID: 0
+PRED: cover
+  PARG: preparing, cooking the pork
+    PREP: while
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 2
+SENT: Use rubber gloves when preparing the habanero peppers and avoid touching your eyes , nose , or skin while slicing peppers .
+PREDID: 0
+PRED: use
+  DOBJ: rubber gloves
+  PARG: slicing peppers
+    PREP: while
+  OARG: when preparing the habanero peppers, avoid touching your eyes , nose , or skin
+
+
+SENTID: 3
+SENT: Place the guajillo peppers in a bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: the guajillo peppers
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: pour enough hot water over the peppers to cover .
+PREDID: 0
+PRED: pour
+  DOBJ: hot water
+  PARG: the peppers
+    PREP: over
+  PARG: cover
+    PREP: to
+  OARG: enough
+
+
+SENTID: 5
+SENT: Allow to soak until the peppers are softened , about 10 minutes .
+PREDID: 0
+PRED: allow
+  PARG: soak
+    PREP: to
+  PARG: the peppers are softened , about 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Heat the oil in a large skillet at medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: at
+
+
+SENTID: 7
+SENT: Season pork with salt and pepper ;
+PREDID: 0
+PRED: season
+  DOBJ: pork
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: cook in the hot oil until completely browned , 15 to 20 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the hot oil
+    PREP: in
+  PARG: completely browned , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Transfer the pork to a slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: the pork
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 10
+SENT: Combine the guajillo peppers , orange juice , vinegar , garlic , and achiote paste in a blender ;
+PREDID: 0
+PRED: combine
+  DOBJ: the guajillo peppers , orange juice , vinegar , garlic , achiote paste
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 11
+SENT: blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 12
+SENT: Pour the sauce over the pork cubes in the slow cooker .
+PREDID: 0
+PRED: pour
+  DOBJ: the sauce
+  PARG: the pork cubes
+    PREP: over
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 13
+SENT: Cook on High until the pork easily falls apart , 6 to 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: the pork easily falls apart , 6 to 8 hours
+    PREP: until
+
+
+SENTID: 14
+SENT: Remove the pork to a serving dish and shred with 2 forks .
+PREDID: 0
+PRED: remove
+  DOBJ: the pork
+  PARG: a serving dish
+    PREP: to
+
+PREDID: 1
+PRED: shred
+  PARG: 2 forks
+    PREP: with
+
+
+SENTID: 15
+SENT: Pour the achiote sauce over the shredded pork .
+PREDID: 0
+PRED: pour
+  DOBJ: the achiote sauce
+  PARG: the shredded pork
+    PREP: over
+
+
+SENTID: 16
+SENT: To serve , top with the onion-habanero salsa .
+PREDID: 0
+PRED: top
+  PARG: serve
+    PREP: to
+  PARG: the onion-habanero salsa
+    PREP: with
+

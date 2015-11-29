@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir ketchup , brown sugar , bacon bits , pineapple , and 1 dash Worcestershire sauce together in a small bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: ketchup , brown sugar , bacon bits , pineapple , 1 dash worcestershire sauce
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: reserve .
+PREDID: 0
+PRED: reserve
+
+
+SENTID: 3
+SENT: Combine the ground beef , bread crumbs , saltines , egg , garlic , onion , and 2 dashes of Worcestershire sauce in a large bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , bread crumbs , saltines , egg , garlic , onion , 2 dashes of worcestershire sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Pat meat mixture into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: pat
+  DOBJ: meat mixture
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake meatloaf in the preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: meatloaf
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove from oven ;
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+
+SENTID: 8
+SENT: pour reserved pineapple mixture over loaf .
+PREDID: 0
+PRED: pour
+  DOBJ: reserved pineapple mixture
+  PARG: loaf
+    PREP: over
+
+
+SENTID: 9
+SENT: Return to the oven ;
+PREDID: 0
+PRED: return
+  PARG: the oven
+    PREP: to
+
+
+SENTID: 10
+SENT: bake until no longer pink in the center , about an additional 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: no longer pink in the center , about an additional 20 minutes
+    PREP: until
+

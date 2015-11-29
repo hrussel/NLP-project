@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease one 12 cup muffin pan .
+PREDID: 0
+PRED: grease
+  DOBJ: one 12 cup muffin pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a large bowl , combine egg , banana , brown sugar , applesauce and vanilla .
+PREDID: 0
+PRED: combine
+  DOBJ: egg , banana , brown sugar , applesauce, vanilla
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: In a separate bowl , sift together flour , baking soda , baking powder , salt and cinnamon .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , baking soda , baking powder , salt, cinnamon
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Gently stir flour mixture and oatmeal into banana mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: flour mixture, oatmeal
+  PARG: banana mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 5
+SENT: Fold in chocolate chips and walnuts .
+PREDID: 0
+PRED: fold
+  PARG: chocolate chips, walnuts
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour batter into prepared muffin cups . Bake in preheated oven or 15 to 20 minutes , or until light brown .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven or 15 to 20 minutes
+    PREP: in
+  PARG: light brown
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove muffins from pan and place on a wire rack to let cool before serving .
+PREDID: 0
+PRED: remove
+  DOBJ: muffins
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a wire rack
+    PREP: on
+  PARG: let cool
+    PREP: to
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl combine the beef , dry soup mix , bouillon , onion and soup .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , dry soup mix , bouillon , onion, soup
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix all together and pour mixture into a lightly greased 9x13 inch baking dish .
+PREDID: 0
+PRED: mix
+  DOBJ: all together
+
+PREDID: 1
+PRED: pour
+  DOBJ: mixture
+  PARG: a lightly greased 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 3
+SENT: Cover and bake in the preheated oven for 4 hours .
+PREDID: 0
+PRED: cover
+  PARG: the preheated oven
+    PREP: in
+
+PREDID: 1
+PRED: bake
+  PARG: 4 hours
+    PREP: for
+
+
+SENTID: 4
+SENT: Add mushrooms and wine and bake for another 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms, wine
+
+PREDID: 1
+PRED: bake
+  PARG: another 10 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Add cooked egg noodles and mix all together .
+PREDID: 0
+PRED: add
+  DOBJ: cooked egg noodles
+
+PREDID: 1
+PRED: mix
+  DOBJ: all together
+
+
+SENTID: 6
+SENT: Serve with fresh bread and a green salad , if desired .
+PREDID: 0
+PRED: serve
+  PARG: fresh bread, a green salad
+    PREP: with
+  PARG: desired
+    PREP: if
+

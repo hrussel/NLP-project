@@ -1,0 +1,96 @@
+T1	predicate 0 7	Preheat
+T2	predicate 83 90	combine
+T3	predicate 126 133	Process
+T4	predicate 172 180	Transfer
+T5	predicate 198 201	Add
+T6	predicate 293 296	Mix
+T7	predicate 383 391	Transfer
+T8	predicate 419 423	form
+T9	predicate 461 466	Cover
+T10	predicate 501 505	Bake
+T11	predicate 545 550	Serve
+T12	predicate 556 567	Refrigerate
+T13	predicate 579 584	slice
+T14	predicate 589 594	serve
+T15	arg_object 8 16	the oven
+T16	arg_other 17 49	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T15	
+R2	other Arg1:T1 Arg2:T16	
+T17	arg_location 522 543	in the preheated oven
+T18	Evolution 525 543	the preheated oven
+E1	Evolution:T18 Cause:T1
+R3	location Arg1:T10 Arg2:T17	
+R4	object Arg1:T10 Arg2:T9	
+T19	arg_duration 506 521	for 1 1/2 hours
+R5	duration Arg1:T10 Arg2:T19	
+R6	object Arg1:T11 Arg2:T10	
+T20	arg_other 551 554	hot
+R7	other Arg1:T11 Arg2:T20	
+T21	arg_object 568 577	leftovers
+T22	Evolution 568 577	leftovers
+E2	Evolution:T22 Cause:T11
+R8	object Arg1:T12 Arg2:T21	
+R9	object Arg1:T13 Arg2:T12	
+R10	object Arg1:T14 Arg2:T13	
+T23	arg_other 595 599	cold
+T24	arg_co-object 600 613	in sandwiches
+R11	other Arg1:T14 Arg2:T23	
+R12	co-object Arg1:T14 Arg2:T24	
+R13	object Arg1:T9 Arg2:T8	
+R14	object Arg1:T8 Arg2:T7	
+R15	object Arg1:T7 Arg2:T6	
+R16	object Arg1:T6 Arg2:T5	
+R17	co-object Arg1:T5 Arg2:T4	
+R18	object Arg1:T4 Arg2:T3	
+R19	object Arg1:T3 Arg2:T2	
+T25	arg_location 51 81	In a food processor or blender
+T26	arg_object 91 106	the bell pepper
+T27	arg_object 108 113	onion
+T28	arg_object 118 124	celery
+R20	location Arg1:T2 Arg2:T25	
+R21	object Arg1:T2 Arg2:T26	
+R22	object Arg1:T2 Arg2:T27	
+R23	object Arg1:T2 Arg2:T28	
+T29	arg_duration 134 170	until finely chopped, but not liquid
+R24	duration Arg1:T3 Arg2:T29	
+T30	arg_location 181 196	to a large bowl
+R25	location Arg1:T4 Arg2:T30	
+T31	arg_object 202 217	the ground beef
+T32	arg_object 219 230	ground pork
+T33	arg_object 232 246	cracker crumbs
+T34	arg_object 248 262	onion soup mix
+T35	arg_object 264 268	salt
+T36	arg_object 270 276	pepper
+T37	arg_object 278 282	sage
+T38	arg_object 287 291	milk
+R26	object Arg1:T5 Arg2:T31	
+R27	object Arg1:T5 Arg2:T32	
+R28	object Arg1:T5 Arg2:T33	
+R29	object Arg1:T5 Arg2:T34	
+R30	object Arg1:T5 Arg2:T35	
+R31	object Arg1:T5 Arg2:T36	
+R32	object Arg1:T5 Arg2:T37	
+R33	object Arg1:T5 Arg2:T38	
+T39	arg_other 297 301	well
+T40	arg_other 302 381	using your hands, or if you have a stand mixer, mix using the paddle attachment
+R34	other Arg1:T6 Arg2:T39	
+R35	other Arg1:T6 Arg2:T40	
+T41	arg_location 392 414	to a 9x5 inch loaf pan
+R36	location Arg1:T7 Arg2:T41	
+T42	arg_other 424 459	into a loaf, mounding in the center
+R37	other Arg1:T8 Arg2:T42	
+T43	arg_co-object 467 499	with a generous layer of ketchup
+R38	co-object Arg1:T9 Arg2:T43	
+T44	ingredient 91 106	the bell pepper
+T45	ingredient 108 113	onion
+T46	ingredient 118 124	celery
+T47	ingredient 202 217	the ground beef
+T48	ingredient 219 230	ground pork
+T49	ingredient 232 246	cracker crumbs
+T50	ingredient 248 262	onion soup mix
+T51	ingredient 264 268	salt
+T52	ingredient 270 276	pepper
+T53	ingredient 278 282	sage
+T54	ingredient 287 291	milk
+T55	ingredient 472 499	a generous layer of ketchup
+T56	ingredient 603 613	sandwiches

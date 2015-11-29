@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: If desired , soak the pork butt in a brine solution for at least 4 hours or overnight .
+PREDID: 0
+PRED: soak
+  DOBJ: the pork butt
+  PARG: desired
+    PREP: if
+  PARG: a brine solution
+    PREP: in
+  PARG: at least 4 hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 1
+SENT: Preheat an outdoor smoker for 200 to 225 degrees F -LRB- 95 to 110 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor smoker
+  PARG: 200 to 225 degrees f -lrb- 95 to 110 degrees c -rrb-
+    PREP: for
+
+
+SENTID: 2
+SENT: In a small bowl , combine the brown sugar , chili powder and any additional seasonings to your taste .
+PREDID: 0
+PRED: combine
+  DOBJ: the brown sugar , chili powder, any additional seasonings
+  PARG: a small bowl
+    PREP: in
+  PARG: your taste
+    PREP: to
+
+
+SENTID: 3
+SENT: Apply this liberally to the meat and rub it in with your fingers .
+PREDID: 0
+PRED: apply
+  DOBJ: this liberally
+  PARG: the meat
+    PREP: to
+
+PREDID: 1
+PRED: rub
+  DOBJ: it
+  PARG: with your fingers
+    PREP: in
+
+
+SENTID: 4
+SENT: Place a roasting rack in a drip pan and lay the meat on the rack .
+PREDID: 0
+PRED: place
+  DOBJ: a roasting rack
+  PARG: a drip pan
+    PREP: in
+
+PREDID: 1
+PRED: lay
+  DOBJ: the meat
+  PARG: the rack
+    PREP: on
+
+
+SENTID: 5
+SENT: Smoke at 200 to 225 degrees F -LRB- 95 to 110 degrees C -RRB- for 6 to 18 hours , or until internal pork temperature reaches 145 degrees F -LRB- 63 degrees C -RRB- .
+PREDID: 0
+PRED: smoke
+  PARG: 200 to 225 degrees f -lrb- 95 to 110 degrees c -rrb-
+    PREP: at
+  PARG: 6 to 18 hours
+    PREP: for
+  PARG: internal pork temperature reaches 145 degrees f -lrb- 63 degrees c -rrb-
+    PREP: until
+

@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a medium baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a medium baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Mix the ground beef and ground pork in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef, ground pork
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: In a separate bowl , mix the corn , cornbread , sour cream , pepperjack cheese , onion , milk , egg , jalapeno peppers , garlic , kosher salt , and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the corn , cornbread , sour cream , pepperjack cheese , onion , milk , egg , jalapeno peppers , garlic , kosher salt , pepper
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Gently mix the corn mixture into the meat mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: the corn mixture
+  PARG: the meat mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 5
+SENT: Form into a rounded loaf shape , and place in the prepared baking dish Bake 1 hour in the preheated oven , to a minimum internal temperature of 160 degrees F -LRB- 72 degrees C -RRB- .
+PREDID: 0
+PRED: form
+  PARG: a rounded loaf shape
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: the prepared baking dish
+    PREP: in
+
+PREDID: 2
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a minimum internal temperature of 160 degrees f -lrb- 72 degrees c -rrb-
+    PREP: to
+  OARG: 1 hour
+
+
+SENTID: 6
+SENT: Loosely cover with aluminum foil during the last 15 minutes of cook time if the loaf is overly brown .
+PREDID: 0
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+  PARG: the last 15 minutes of cook time
+    PREP: during
+  PARG: the loaf is
+    PREP: if
+  OARG: loosely
+  OARG: overly
+
+PREDID: 1
+PRED: brown
+

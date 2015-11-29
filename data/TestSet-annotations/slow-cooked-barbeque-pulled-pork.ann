@@ -1,0 +1,72 @@
+T1	predicate 0 5	Place
+T2	predicate 29 32	Add
+T3	predicate 107 111	Pour
+T4	predicate 157 161	Cook
+T5	predicate 188 193	Drain
+T6	predicate 222 227	shred
+T7	predicate 247 250	Add
+T8	predicate 267 273	Reduce
+T9	predicate 291 307	continue cooking
+T10	arg_object 6 10	pork
+T11	ingredient 6 10	pork
+R1	object Arg1:T1 Arg2:T10	
+T12	arg_location 11 27	in a slow cooker
+R2	location Arg1:T1 Arg2:T12	
+T13	arg_object 33 41	molasses
+T14	ingredient 33 41	molasses
+T15	arg_object 43 55	chili powder
+T16	ingredient 43 55	chili powder
+T17	arg_object 57 61	salt
+T18	ingredient 57 61	salt
+T19	arg_object 63 70	paprika
+T20	ingredient 63 70	paprika
+T21	arg_object 72 84	cumin seeds,
+T22	ingredient 72 83	cumin seeds
+T23	arg_object 89 105	ground coriander
+T24	ingredient 89 105	ground coriander
+R3	object Arg1:T2 Arg2:T13	
+R4	object Arg1:T2 Arg2:T15	
+R5	object Arg1:T2 Arg2:T17	
+R6	object Arg1:T2 Arg2:T19	
+R7	object Arg1:T2 Arg2:T21	
+R8	object Arg1:T2 Arg2:T23	
+T25	arg_object 112 124	enough water
+T26	ingredient 112 124	enough water
+T27	arg_location 125 141	into slow cooker
+R9	same-location Arg1:T27 Arg2:T12	
+R10	object Arg1:T3 Arg2:T25	
+R11	location Arg1:T3 Arg2:T27	
+R12	co-object Arg1:T2 Arg2:T1	
+R13	co-object Arg1:T3 Arg2:T2	
+T28	arg_other 142 155	to cover pork
+R14	other Arg1:T3 Arg2:T28	
+R15	object Arg1:T4 Arg2:T3	
+T29	arg_other 162 169	on High
+T30	arg_duration 170 186	for 6 to 8 hours
+R16	other Arg1:T4 Arg2:T29	
+R17	duration Arg1:T4 Arg2:T30	
+T31	arg_object 194 200	liquid
+R18	object Arg1:T5 Arg2:T31	
+T32	Evolution 194 200	liquid
+E1	Evolution:T32 Cause:T4
+T33	arg_location 201 217	from slow cooker
+R19	location Arg1:T5 Arg2:T33	
+R20	co-object Arg1:T5 Arg2:T4	
+T34	arg_object 228 232	pork
+T35	Evolution 228 232	pork
+E2	Evolution:T35 Cause:T5
+R21	object Arg1:T6 Arg2:T34	
+T36	arg_other 233 245	with 2 forks
+R22	other Arg1:T6 Arg2:T36	
+R23	co-object Arg1:T7 Arg2:T6	
+T37	arg_object 251 265	barbeque sauce
+T38	ingredient 251 265	barbeque sauce
+R24	object Arg1:T7 Arg2:T37	
+R25	co-object Arg1:T8 Arg2:T7	
+T39	arg_object 274 278	heat
+T40	arg_other 279 286	the Low
+R26	object Arg1:T8 Arg2:T39	
+R27	other Arg1:T8 Arg2:T40	
+R28	object Arg1:T9 Arg2:T8	
+T41	arg_duration 308 323	for 1 hour more
+R29	duration Arg1:T9 Arg2:T41	

@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Heat 2 tablespoons olive oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Place the chicken in the skillet , season with salt and pepper , and brown on both sides .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken
+  PARG: the skillet
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 2
+PRED: brown
+  PARG: both sides
+    PREP: on
+
+
+SENTID: 2
+SENT: Remove from heat , and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Heat remaining oil in the skillet over medium heat , and stir in the red bell pepper , yellow bell pepper , orange bell pepper , and onion .
+PREDID: 0
+PRED: heat
+  DOBJ: remaining oil
+  PARG: the skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the red bell pepper , yellow bell pepper , orange bell pepper , onion
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook about 5 minutes , until tender .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes
+    PREP: about
+  PARG: tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix in the garlic , and cook and stir about 1 minute .
+PREDID: 0
+PRED: mix
+  PARG: the garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 1 minute
+    PREP: about
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 6
+SENT: Mix in the basil and 2 tablespoons balsamic vinegar .
+PREDID: 0
+PRED: mix
+  PARG: the basil, 2 tablespoons balsamic vinegar
+    PREP: in
+
+
+SENTID: 7
+SENT: Return the chicken to the skillet .
+PREDID: 0
+PRED: return
+  DOBJ: the chicken
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat to low , cover , and simmer 20 minutes , or until chicken is no longer pink and juices run clear .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: simmer
+  PARG: chicken is no longer pink, juices run clear
+    PREP: until
+  OARG: 20 minutes
+
+
+SENTID: 9
+SENT: Stir in remaining balsamic vinegar just before serving .
+PREDID: 0
+PRED: stir
+  PARG: remaining balsamic vinegar
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: just
+

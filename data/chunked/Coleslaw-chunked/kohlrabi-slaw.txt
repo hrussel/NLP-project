@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Toss the cabbage , kohlrabi , celery , carrot , and onion together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , kohlrabi , celery , carrot , onion
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Whisk the sugar , salt , pepper , celery seed , mayonnaise , and vinegar together in a separate bowl until smooth ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the sugar , salt , pepper , celery seed , mayonnaise , vinegar
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: pour over the cabbage mixture and stir to coat evenly .
+PREDID: 0
+PRED: pour
+  PARG: the cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 3
+SENT: Chill in refrigerator 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator 1 hour
+    PREP: in
+  PARG: serving
+    PREP: before
+

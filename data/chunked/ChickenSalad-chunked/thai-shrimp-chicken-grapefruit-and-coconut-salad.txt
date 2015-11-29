@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: Make the dressing by whisking together the lime juice , fish sauce , sugar , and garlic in a bowl .
+PREDID: 0
+PRED: make
+  DOBJ: the lime juice , fish sauce , sugar , garlic
+  PARG: whisking
+    PREP: by
+  PARG: a bowl
+    PREP: in
+  OARG: together
+  OARG: the dressing
+
+
+SENTID: 1
+SENT: Toss together the sectioned grapefruit , shrimp , chicken breast , coconut , shallots , chile pepper , mint , and cilantro in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the sectioned grapefruit , shrimp , chicken breast , coconut , shallots , chile pepper , mint , cilantro
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Drizzle approximately 3/4 of the dressing into the grapefruit mixture and toss to combine .
+PREDID: 0
+PRED: drizzle
+  DOBJ: 3/4 of the dressing
+  PARG: the grapefruit mixture
+    PREP: into
+  OARG: approximately
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 3
+SENT: Combine the remaining dressing with the shredded lettuce in a separate bowl shortly before serving .
+PREDID: 0
+PRED: combine
+  DOBJ: the remaining dressing
+  PARG: the shredded lettuce
+    PREP: with
+  PARG: a separate bowl
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: shortly
+
+
+SENTID: 4
+SENT: Arrange the lettuce on a large platter .
+PREDID: 0
+PRED: arrange
+  DOBJ: the lettuce
+  PARG: a large platter
+    PREP: on
+
+
+SENTID: 5
+SENT: Layer the grapefruit mixture on top of the lettuce .
+PREDID: 0
+PRED: layer
+  DOBJ: the grapefruit mixture
+  PARG: top of the lettuce
+    PREP: on
+

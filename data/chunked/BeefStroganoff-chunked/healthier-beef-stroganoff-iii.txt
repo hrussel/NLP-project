@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Remove any fat and gristle from the roast and cut into strips 1/2-inch thick by 2-inches long .
+PREDID: 0
+PRED: remove
+  DOBJ: any fat, gristle
+  PARG: the roast
+    PREP: from
+
+PREDID: 1
+PRED: cut
+  PARG: strips 1/2-inch thick
+    PREP: into
+  PARG: 2-inches
+    PREP: by
+  OARG: long
+
+
+SENTID: 1
+SENT: Season with 1/2 teaspoon salt and 1/2 teaspoon pepper .
+PREDID: 0
+PRED: season
+  PARG: 1/2 teaspoon salt, 1/2 teaspoon pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Melt 1 tablespoon butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Add mushrooms and green onions and cook , stirring occasionally , until mushrooms are browned , about 6 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms, green onions
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: mushrooms are browned , about 6 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Remove to a bowl and add 1 tablespoon butter to the skillet .
+PREDID: 0
+PRED: remove
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: 1 tablespoon butter
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook and stir one half the beef strips until browned , about 5 minutes , then remove to a bowl .
+PREDID: 0
+PRED: cook
+  DOBJ: one half the beef strips
+
+PREDID: 1
+PRED: stir
+  PARG: browned , about 5 minutes , then remove to a bowl
+    PREP: until
+
+
+SENTID: 6
+SENT: Repeat with the remaining butter and beef strips .
+PREDID: 0
+PRED: repeat
+  PARG: the remaining butter, beef strips
+    PREP: with
+
+
+SENTID: 7
+SENT: Pour wine into the hot skillet and deglaze the pan , scraping up any browned bits .
+PREDID: 0
+PRED: pour
+  DOBJ: any browned bits
+  PARG: the hot skillet, deglaze the pan , scraping
+    PREP: into
+  OARG: up
+  OARG: wine
+
+
+SENTID: 8
+SENT: Combine flour and 1/4 cup beef broth in a jar with a tightly fitting lid and shake until combined .
+PREDID: 0
+PRED: combine
+  DOBJ: flour, 1/4 cup beef broth
+  PARG: a jar
+    PREP: in
+  PARG: a tightly fitting lid
+    PREP: with
+
+PREDID: 1
+PRED: shake
+  PARG: combined
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir into the skillet , whisking until smooth .
+PREDID: 0
+PRED: stir
+  PARG: the skillet , whisking
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir in the remaining broth and mustard , then return the beef to the pan .
+PREDID: 0
+PRED: stir
+  PARG: the remaining broth, mustard
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: return
+  DOBJ: the beef
+  PARG: the pan
+    PREP: to
+
+
+SENTID: 11
+SENT: Bring to a simmer .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 12
+SENT: Stir in the prepared mushrooms and the sour cream five minutes before serving .
+PREDID: 0
+PRED: stir
+  PARG: the prepared mushrooms, the sour cream five minutes
+    PREP: in
+  PARG: serving
+    PREP: before
+
+
+SENTID: 13
+SENT: Heat briefly and season with salt and pepper .
+PREDID: 0
+PRED: heat
+  DOBJ: briefly, season
+  PARG: salt, pepper
+    PREP: with
+

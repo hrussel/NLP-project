@@ -1,0 +1,192 @@
+SENTID: 0
+SENT: Place the pork shoulder roast into a large plastic bag , pour 1 cup of root beer over the meat , and squeeze out all the air from the bag .
+PREDID: 0
+PRED: place
+  DOBJ: the pork shoulder roast
+  PARG: a large plastic bag
+    PREP: into
+
+PREDID: 1
+PRED: pour
+  DOBJ: 1 cup of root beer
+  PARG: the meat
+    PREP: over
+
+PREDID: 2
+PRED: squeeze
+  PARG: all the air
+    PREP: out
+  PARG: the bag
+    PREP: from
+
+
+SENTID: 1
+SENT: Seal the bag closed , and refrigerate 6 hours to overnight .
+PREDID: 0
+PRED: seal
+  DOBJ: the bag closed
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 6 hours
+  OARG: to overnight
+
+
+SENTID: 2
+SENT: Remove the meat from the marinade , and shake off the excess .
+PREDID: 0
+PRED: remove
+  DOBJ: the meat
+  PARG: the marinade
+    PREP: from
+
+PREDID: 1
+PRED: shake
+  PARG: the excess
+    PREP: off
+
+
+SENTID: 3
+SENT: Rub the meat all over with the spice mixture , wrap in plastic wrap , and refrigerate for 30 minutes to 2 hours .
+PREDID: 0
+PRED: rub
+  DOBJ: the meat all over
+  PARG: the spice mixture
+    PREP: with
+
+PREDID: 1
+PRED: wrap
+  PARG: plastic wrap
+    PREP: in
+
+PREDID: 2
+PRED: refrigerate
+  PARG: 30 minutes
+    PREP: for
+  PARG: 2 hours
+    PREP: to
+
+
+SENTID: 4
+SENT: Mix together the balsamic vinegar , 1Ê1/2 cups of root beer , whiskey , and brown sugar in a bowl , and stir until the sugar dissolves .
+PREDID: 0
+PRED: mix
+  DOBJ: the balsamic vinegar , 1Ê1/2 cups of root beer , whiskey , brown sugar
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: stir
+  PARG: the sugar dissolves
+    PREP: until
+
+
+SENTID: 5
+SENT: Heat the olive oil in a skillet over medium-high heat , and sear the meat on all sides until the meat develops a brown crust , about 3 minutes per side .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: sear
+  DOBJ: the meat
+  PARG: all sides
+    PREP: on
+  PARG: the meat develops a brown
+    PREP: until
+
+PREDID: 2
+PRED: crust
+  PARG: 3 minutes
+    PREP: about
+  PARG: side
+    PREP: per
+
+
+SENTID: 6
+SENT: Place the seared meat into a slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: the seared meat
+  PARG: a slow cooker
+    PREP: into
+
+
+SENTID: 7
+SENT: Pour the balsamic vinegar-root beer mixture over the meat , set the slow cooker to High , and cook for 6 to 8 hours .
+PREDID: 0
+PRED: pour
+  DOBJ: the balsamic vinegar-root beer mixture
+  PARG: the meat
+    PREP: over
+
+PREDID: 1
+PRED: set
+  DOBJ: the slow cooker
+  PARG: high
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: 6 to 8 hours
+    PREP: for
+
+
+SENTID: 8
+SENT: Remove the roast from the slow cooker , and shred with 2 forks .
+PREDID: 0
+PRED: remove
+  DOBJ: the roast
+  PARG: the slow cooker
+    PREP: from
+
+PREDID: 1
+PRED: shred
+  PARG: 2 forks
+    PREP: with
+
+
+SENTID: 9
+SENT: Discard the bones and all but 1 cup of the liquid in the slow cooker .
+PREDID: 0
+PRED: discard
+  DOBJ: the bones, all but 1 cup of the liquid
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 10
+SENT: Return the shredded meat to the cooker , mix in the barbecue sauce , and let sit on Low until ready to serve .
+PREDID: 0
+PRED: return
+  DOBJ: the shredded meat
+  PARG: the cooker
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  PARG: the barbecue sauce
+    PREP: in
+
+PREDID: 2
+PRED: let
+  DOBJ: sit
+  PARG: low
+    PREP: on
+  PARG: ready to serve
+    PREP: until
+
+
+SENTID: 11
+SENT: Serve piled on buns .
+PREDID: 0
+PRED: serve
+  DOBJ: piled
+  PARG: buns
+    PREP: on
+

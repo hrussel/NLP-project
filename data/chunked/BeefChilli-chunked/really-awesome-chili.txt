@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large soup pot over medium heat , cook and stir the ground chuck and ground pork until the meat is browned , about 15 minutes , breaking the meat into crumbles as it cooks .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground chuck, ground pork
+  PARG: a large soup pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the meat is browned , about 15 minutes , breaking the meat into crumbles as it cooks
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off the excess grease , reserving about 1/2 cup of drippings , and cook and stir the onion and garlic until they begin to brown , about 10 minutes .
+PREDID: 0
+PRED: drain
+  PARG: the excess
+    PREP: off
+
+PREDID: 1
+PRED: grease
+  DOBJ: reserving
+  PARG: 1/2 cup of drippings
+    PREP: about
+
+PREDID: 2
+PRED: cook
+  DOBJ: the onion, garlic
+
+PREDID: 3
+PRED: stir
+  PARG: they begin to brown , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in the stout beer , tomato paste , water , beef stock , chili powder , cumin , Mexican oregano , smoked paprika , coriander seed , cocoa powder , chipotle-flavored hot sauce , cornmeal , and flour until thoroughly combined , and bring to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the stout beer , tomato paste , water , beef stock , chili powder , cumin , mexican oregano , smoked paprika , coriander seed , cocoa powder , chipotle-flavored hot sauce , cornmeal , flour
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Reduce heat to low , and simmer , stirring occasionally , for 8 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  DOBJ: stirring
+  PARG: 8 hours
+    PREP: for
+  OARG: occasionally
+

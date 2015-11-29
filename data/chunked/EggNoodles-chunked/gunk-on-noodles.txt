@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the egg noodles in the pot , cook 6 to 8 minutes , until al dente , and drain .
+PREDID: 0
+PRED: place
+  DOBJ: the egg noodles
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: al dente
+    PREP: until
+  OARG: 6 to 8 minutes
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large skillet over medium-high heat , cook the ground beef 10 minutes , or until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+  OARG: the ground beef 10 minutes
+
+
+SENTID: 3
+SENT: Mix in the onion and garlic , and cook until onion is tender .
+PREDID: 0
+PRED: mix
+  PARG: the onion, garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: onion is tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix in the tomato paste , mushrooms and juice , sugar , butter , and Worcestershire sauce .
+PREDID: 0
+PRED: mix
+  PARG: the tomato paste , mushrooms, juice , sugar , butter , worcestershire sauce
+    PREP: in
+
+
+SENTID: 5
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Continue to cook and stir 5 minutes , until bubbly and heated through .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: bubbly, heated through
+    PREP: until
+  OARG: 5 minutes
+
+
+SENTID: 7
+SENT: Serve over the cooked noodles .
+PREDID: 0
+PRED: serve
+  PARG: the cooked noodles
+    PREP: over
+

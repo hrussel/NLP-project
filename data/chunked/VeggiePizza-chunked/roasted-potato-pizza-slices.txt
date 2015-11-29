@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cover a baking sheet with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: a baking sheet
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: Lightly grease the foil .
+PREDID: 0
+PRED: grease
+  DOBJ: the foil
+  OARG: lightly
+
+
+SENTID: 3
+SENT: Arrange the potato slices on the prepared baking sheet , and drizzle with oil .
+PREDID: 0
+PRED: arrange
+  DOBJ: the potato slices
+  PARG: the prepared baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: drizzle
+  PARG: oil
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake 20 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  OARG: 20 minutes
+
+
+SENTID: 5
+SENT: Remove potatoes from heat , and turn .
+PREDID: 0
+PRED: remove
+  DOBJ: potatoes
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: turn
+
+
+SENTID: 6
+SENT: Drizzle with sauce , and top with green pepper , onion , mushrooms , and pepperoni .
+PREDID: 0
+PRED: drizzle
+  PARG: sauce
+    PREP: with
+
+PREDID: 1
+PRED: top
+  PARG: green pepper , onion , mushrooms , pepperoni
+    PREP: with
+
+
+SENTID: 7
+SENT: Top with mozzarella cheese .
+PREDID: 0
+PRED: top
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Return topped potatoes to the oven , and continue baking 10 minutes , or until cheese is melted .
+PREDID: 0
+PRED: return
+  DOBJ: topped potatoes
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  PARG: cheese is melted
+    PREP: until
+  OARG: baking 10 minutes
+

@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large skillet , cook and stir ground beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Add mushrooms and onions ;
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms, onions
+
+
+SENTID: 3
+SENT: saute until onions are transparent .
+PREDID: 0
+PRED: saute
+  PARG: onions are transparent
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in pasta sauce , and heat through .
+PREDID: 0
+PRED: stir
+  PARG: pasta sauce
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 5
+SENT: In a medium size bowl , combine cottage cheese , ricotta cheese , grated Parmesan cheese , and eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: cottage cheese , ricotta cheese , grated parmesan cheese , eggs
+  PARG: a medium size bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Spread a thin layer of the meat sauce in the bottom of a 13x9 inch pan .
+PREDID: 0
+PRED: spread
+  DOBJ: a thin layer of the meat sauce
+  PARG: the bottom of a 13x9 inch pan
+    PREP: in
+
+
+SENTID: 7
+SENT: Layer with uncooked lasagna noodles , cheese mixture , mozzarella cheese , and meat sauce .
+PREDID: 0
+PRED: layer
+  PARG: uncooked lasagna noodles , cheese mixture , mozzarella cheese , meat sauce
+    PREP: with
+
+
+SENTID: 8
+SENT: Continue layering until all ingredients are used , reserving 1/2 cup mozzarella .
+PREDID: 0
+PRED: continue
+  DOBJ: layering
+  PARG: all ingredients are used , reserving 1/2 cup mozzarella
+    PREP: until
+
+
+SENTID: 9
+SENT: Cover pan with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Uncover , and top with remaining half cup of mozzarella cheese .
+PREDID: 0
+PRED: uncover
+
+PREDID: 1
+PRED: top
+  PARG: remaining half cup of mozzarella cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake for an additional 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: an additional 15 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Remove from oven , and let stand 10 to 15 minutes before serving .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 to 15 minutes
+

@@ -1,0 +1,233 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Place macaroni in the pot , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: place
+  DOBJ: macaroni
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Lightly grease a large casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a large casserole dish
+  OARG: lightly
+
+
+SENTID: 5
+SENT: Place the ground beef in a skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 7
+SENT: Mix in diced tomatoes , tomato paste , and sloppy joe seasoning .
+PREDID: 0
+PRED: mix
+  PARG: diced tomatoes , tomato paste , sloppy joe seasoning
+    PREP: in
+
+
+SENTID: 8
+SENT: Reduce heat to low , and simmer 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  OARG: 10 minutes
+
+
+SENTID: 9
+SENT: Melt the butter in a large pot over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 10
+SENT: Stir in the onion , and cook until tender .
+PREDID: 0
+PRED: stir
+  PARG: the onion
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 11
+SENT: Mix in flour , mustard , salt , and pepper .
+PREDID: 0
+PRED: mix
+  PARG: flour , mustard , salt , pepper
+    PREP: in
+
+
+SENTID: 12
+SENT: In a bowl , mix the half and half and Worcestershire sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: the half, half, worcestershire sauce
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 13
+SENT: Gradually whisk half and half mixture into the pot .
+PREDID: 0
+PRED: whisk
+  DOBJ: half, half mixture
+  PARG: the pot
+    PREP: into
+  OARG: gradually
+
+
+SENTID: 14
+SENT: Bring to a boil , and cook 1 minute , until slightly thickened .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: slightly thickened
+    PREP: until
+  OARG: 1 minute
+
+
+SENTID: 15
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 16
+SENT: Mix in 3 cups of cheese .
+PREDID: 0
+PRED: mix
+  PARG: 3 cups of cheese
+    PREP: in
+
+
+SENTID: 17
+SENT: Stir cooked pasta into the pot , evenly coating with the sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: cooked pasta
+  PARG: the pot
+    PREP: into
+  OARG: evenly
+
+PREDID: 1
+PRED: coating
+  PARG: the sauce
+    PREP: with
+
+
+SENTID: 18
+SENT: Transfer to the casserole dish .
+PREDID: 0
+PRED: transfer
+  PARG: the casserole dish
+    PREP: to
+
+
+SENTID: 19
+SENT: Layer with the beef mixture and top with remaining cheese .
+PREDID: 0
+PRED: layer
+  PARG: the beef mixture
+    PREP: with
+
+PREDID: 1
+PRED: top
+  PARG: remaining cheese
+    PREP: with
+
+
+SENTID: 20
+SENT: Cover , and bake 30 minutes in the preheated oven .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  OARG: 30 minutes
+
+
+SENTID: 21
+SENT: Remove cover , and continue baking 10 minutes , until bubbly .
+PREDID: 0
+PRED: remove
+  DOBJ: cover
+
+PREDID: 1
+PRED: continue
+  PARG: bubbly
+    PREP: until
+  OARG: baking 10 minutes
+

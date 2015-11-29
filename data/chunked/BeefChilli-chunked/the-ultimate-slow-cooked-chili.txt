@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Heat 1 tablespoon olive oil large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon olive oil large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir beef , onion , and garlic in the hot oil until browned and crumbly , about 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef , onion , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: browned, crumbly , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 3
+SENT: Season beef mixture with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: beef mixture
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Mix ground beef mixture , remaining 1 tablespoon olive oil , pinto beans , ranch-style beans , white kidney beans , tomato sauce , Mexican-style stewed tomatoes , Mexican-style hot tomato sauce , green bell pepper , celery , chili powder , Worcestershire sauce , balsamic vinegar , garlic powder , cumin , parsley , basil , and brown sugar together in a slow cooker .
+PREDID: 0
+PRED: mix
+  DOBJ: remaining 1 tablespoon olive oil , pinto beans , ranch-style beans , white kidney beans , tomato sauce , mexican-style stewed tomatoes , mexican-style hot tomato sauce , green bell pepper , celery , chili powder , worcestershire sauce , balsamic vinegar , garlic powder , cumin , parsley , basil , brown sugar
+  PARG: a slow cooker
+    PREP: in
+  OARG: ground beef mixture
+  OARG: together
+
+
+SENTID: 5
+SENT: Cook on High for 4 hours ;
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: 4 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: stir in red wine and continue cooking for 2 more hours .
+PREDID: 0
+PRED: stir
+  PARG: red wine, continue cooking
+    PREP: in
+  PARG: 2 more hours
+    PREP: for
+
+
+SENTID: 7
+SENT: -LRB- Cook on Low for 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 8 hours
+    PREP: for
+  OARG: 
+

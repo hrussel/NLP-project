@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Cut roast into 3 to 4 pieces . Place pork in a greased or lined slow cooker .
+PREDID: 0
+PRED: cut
+  DOBJ: roast
+  PARG: 3 to 4 pieces
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: pork
+  PARG: a greased or lined slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Combine remaining ingredients and pour over pork .
+PREDID: 0
+PRED: combine
+  DOBJ: remaining ingredients
+
+PREDID: 1
+PRED: pour
+  PARG: pork
+    PREP: over
+
+
+SENTID: 2
+SENT: Cover and cook on HIGH for 3 to 4 hours or LOW for 6 to 7 hours until pork is very tender .
+PREDID: 0
+PRED: cover
+  PARG: high
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 3 to 4 hours or low
+    PREP: for
+  PARG: 6 to 7 hours
+    PREP: for
+  PARG: pork is very tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Shred with 2 forks .
+PREDID: 0
+PRED: shred
+  PARG: 2 forks
+    PREP: with
+
+
+SENTID: 4
+SENT: Serve on rolls , topping with coleslaw if desired .
+PREDID: 0
+PRED: serve
+  PARG: rolls , topping
+    PREP: on
+  PARG: coleslaw
+    PREP: with
+  PARG: desired
+    PREP: if
+

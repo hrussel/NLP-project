@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a baking sheet .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking sheet
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Spread the pizza dough in the prepared pan , and rub dough lightly with the olive oil .
+PREDID: 0
+PRED: spread
+  DOBJ: the pizza dough
+  PARG: the prepared pan
+    PREP: in
+
+PREDID: 1
+PRED: rub
+  DOBJ: dough
+  PARG: the olive oil
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 3
+SENT: Stir together the ricotta cheese , Parmesan cheese , spinach , artichoke hearts , garlic , salt , and pepper .
+PREDID: 0
+PRED: stir
+  DOBJ: the ricotta cheese , parmesan cheese , spinach , artichoke hearts , garlic , salt , pepper
+  OARG: together
+
+
+SENTID: 4
+SENT: Spread the mixture evenly over the dough .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: the dough
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Sprinkle evenly with the shredded Italian cheese ;
+PREDID: 0
+PRED: sprinkle
+  PARG: the shredded italian cheese
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 6
+SENT: top with the sliced tomatoes .
+PREDID: 0
+PRED: top
+  PARG: the sliced tomatoes
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until crust is lightly browned and the cheese is melted and bubbly , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: crust is lightly browned, the cheese is melted, bubbly , about 20 minutes
+    PREP: until
+

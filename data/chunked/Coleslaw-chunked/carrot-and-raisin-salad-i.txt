@@ -1,0 +1,20 @@
+SENTID: 0
+SENT: In a mixing bowl , combine the carrots , celery , raisins , mayonnaise and vinegar .
+PREDID: 0
+PRED: combine
+  DOBJ: the carrots , celery , raisins , mayonnaise, vinegar
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix together and refrigerate until chilled .
+PREDID: 0
+PRED: mix
+  PARG: chilled
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: refrigerate
+

@@ -1,0 +1,187 @@
+SENTID: 0
+SENT: Melt 1 tablespoon of butter in a large skillet over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon of butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the cubed chicken , and cook just until it turns white on the outside .
+PREDID: 0
+PRED: add
+  DOBJ: the cubed chicken
+
+PREDID: 1
+PRED: cook
+  PARG: it turns white on the outside
+    PREP: until
+  OARG: just
+
+
+SENTID: 2
+SENT: Add the onion , garlic , and mushrooms .
+PREDID: 0
+PRED: add
+  DOBJ: the onion , garlic , mushrooms
+
+
+SENTID: 3
+SENT: Saute until onions begin to turn clear .
+PREDID: 0
+PRED: saute
+  PARG: onions begin to turn clear
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour in just enough Italian dressing to coat the chicken mixture , then add 1 tablespoon of lemon juice .
+PREDID: 0
+PRED: pour
+  DOBJ: italian dressing
+  PARG: just
+    PREP: in
+  PARG: coat the chicken mixture
+    PREP: to
+  OARG: enough
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: 1 tablespoon of lemon juice
+
+
+SENTID: 5
+SENT: Combine cream of chicken soup with milk in a small saucepan over medium heat .
+PREDID: 0
+PRED: combine
+  DOBJ: cream of chicken soup
+  PARG: milk
+    PREP: with
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: When the mixture is thoroughly heated , stir in 4 tablespoons of lemon juice , and season with salt and pepper to taste .
+PREDID: 0
+PRED: stir
+  DOBJ: heated
+  PARG: 4 tablespoons of lemon juice
+    PREP: in
+  OARG: when the mixture is
+  OARG: thoroughly
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 7
+SENT: Meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 8
+SENT: Add noodles , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 10
+SENT: Fit a steamer basket into a saucepan , and add one inch of water , 1 tablespoon of butter , and remaining 2 teaspoons of lemon juice .
+PREDID: 0
+PRED: fit
+  DOBJ: a steamer basket
+  PARG: a saucepan
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: one inch of water , 1 tablespoon of butter
+
+
+SENTID: 11
+SENT: Bring to a boil , and add broccoli .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: broccoli
+
+
+SENTID: 12
+SENT: Cover , and allow the broccoli to steam for 5 minutes , or until tender , but still bright green .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: allow
+  DOBJ: the broccoli
+  PARG: steam
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+  PARG: tender , but still bright green
+    PREP: until
+
+
+SENTID: 13
+SENT: To finish the dish , mix together the sauce and noodles , and place them on a serving platter .
+PREDID: 0
+PRED: mix
+  DOBJ: the sauce, noodles
+  PARG: finish the dish
+    PREP: to
+  OARG: together
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 14
+SENT: Top with chicken in the center , and arrange broccoli around the outside edge .
+PREDID: 0
+PRED: top
+  PARG: chicken
+    PREP: with
+  PARG: the center
+    PREP: in
+
+PREDID: 1
+PRED: arrange
+  DOBJ: broccoli
+  PARG: the outside edge
+    PREP: around
+

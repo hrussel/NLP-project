@@ -1,0 +1,280 @@
+SENTID: 0
+SENT: Place the bacon in a large , deep skillet , and cook over medium-high heat until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain , and reserve the drippings .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: reserve
+  DOBJ: the drippings
+
+
+SENTID: 2
+SENT: Add the onions to the bacon and cook together until the onion is translucent .
+PREDID: 0
+PRED: add
+  DOBJ: the onions
+  PARG: the bacon
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: the onion is translucent
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Remove skillet from heat and stir the paprika , garlic powder , and pepper into the bacon mixture .
+PREDID: 0
+PRED: remove
+  DOBJ: skillet
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  DOBJ: the paprika , garlic powder , pepper
+  PARG: the bacon mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: Transfer the mixture into a large stockpot .
+PREDID: 0
+PRED: transfer
+  DOBJ: the mixture
+  PARG: a large stockpot
+    PREP: into
+
+
+SENTID: 5
+SENT: Heat a small amount of the reserved bacon drippings in the skillet again over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a small amount of the reserved bacon drippings
+  PARG: the skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  OARG: again
+
+
+SENTID: 6
+SENT: Cook the pork chops in batches in the hot drippings until evenly browned on both sides .
+PREDID: 0
+PRED: cook
+  DOBJ: the pork chops
+  PARG: batches
+    PREP: in
+  PARG: the hot drippings
+    PREP: in
+  PARG: evenly browned on both sides
+    PREP: until
+
+
+SENTID: 7
+SENT: Use additional bacon drippings for each batch as needed .
+PREDID: 0
+PRED: use
+  DOBJ: additional bacon drippings
+  PARG: each batch
+    PREP: for
+  PARG: needed
+    PREP: as
+
+
+SENTID: 8
+SENT: Remove the pork chops to a cutting board and blot excess fat off the surface of the chops with a paper towel ;
+PREDID: 0
+PRED: remove
+  DOBJ: the pork chops
+  PARG: a cutting board, blot excess fat
+    PREP: to
+  PARG: the surface of the chops
+    PREP: off
+  PARG: a paper towel
+    PREP: with
+
+
+SENTID: 9
+SENT: cut into bite-sized cubes and stir into the bacon mixture .
+PREDID: 0
+PRED: cut
+  PARG: bite-sized cubes
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: the bacon mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Heat a small amount of the bacon drippings in the skillet ;
+PREDID: 0
+PRED: heat
+  DOBJ: a small amount of the bacon drippings
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 11
+SENT: cook and stir the bell pepper in the hot drippings until softened and fragrant ;
+PREDID: 0
+PRED: cook
+  DOBJ: the bell pepper
+
+PREDID: 1
+PRED: stir
+  PARG: the hot drippings
+    PREP: in
+  PARG: softened, fragrant
+    PREP: until
+
+
+SENTID: 12
+SENT: drain on a plate lined with paper towels .
+PREDID: 0
+PRED: drain
+  PARG: a plate lined
+    PREP: on
+  PARG: paper towels
+    PREP: with
+
+
+SENTID: 13
+SENT: Stir the cooked pepper into the bacon mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the cooked pepper
+  PARG: the bacon mixture
+    PREP: into
+
+
+SENTID: 14
+SENT: Pour the tomatoes with liquid and beef broth into a stockpot and place the pot over medium-high heat .
+PREDID: 0
+PRED: pour
+  DOBJ: the tomatoes
+  PARG: liquid, beef broth
+    PREP: with
+  PARG: a stockpot
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: the pot
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 15
+SENT: Bring to a simmer and reduce heat to medium-low .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 16
+SENT: Cook until the stew begins to thicken , stirring occasionally , about 90 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the stew begins to thicken , stirring occasionally , about 90 minutes
+    PREP: until
+
+
+SENTID: 17
+SENT: Stir the sour cream into the stew just before serving .
+PREDID: 0
+PRED: stir
+  DOBJ: the sour cream
+  PARG: the stew
+    PREP: into
+  PARG: serving
+    PREP: before
+  OARG: just
+
+
+SENTID: 18
+SENT: Bring a pot with lightly-salted water and bring to a rolling boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a pot
+  PARG: lightly-salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 19
+SENT: add the egg noodles to the water and return to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: the egg noodles
+  PARG: the water
+    PREP: to
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 20
+SENT: Cook uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 21
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 22
+SENT: Ladle the stew over the drained noodles to serve .
+PREDID: 0
+PRED: ladle
+  DOBJ: the stew
+  PARG: the drained noodles
+    PREP: over
+  PARG: serve
+    PREP: to
+

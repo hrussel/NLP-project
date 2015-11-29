@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place noodles in a pot of lightly salted boiling water .
+PREDID: 0
+PRED: place
+  DOBJ: noodles
+  PARG: a pot of lightly salted boiling water
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook until al dente , about 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: al dente , about 8 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 4
+SENT: Cook ground beef , onion , celery and garlic in a skillet over medium heat until meat is evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onion , celery, garlic
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: meat is evenly browned
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain off excess grease .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+
+SENTID: 6
+SENT: Butter a 9x13 inch baking dish .
+PREDID: 0
+PRED: butter
+  DOBJ: a 9x13 inch baking dish
+
+
+SENTID: 7
+SENT: Place half of the cooked noodles in the bottom of the dish .
+PREDID: 0
+PRED: place
+  DOBJ: half of the cooked noodles
+  PARG: the bottom of the dish
+    PREP: in
+
+
+SENTID: 8
+SENT: Cover them with half of the meat mixture , then half of the tomatoes .
+PREDID: 0
+PRED: cover
+  DOBJ: half of the tomatoes
+  PARG: half of the meat mixture
+    PREP: with
+  OARG: then
+  OARG: them
+
+
+SENTID: 9
+SENT: Spoon half of the cream of chicken soup over the tomatoes , then sprinkle half of the shredded cheese .
+PREDID: 0
+PRED: spoon
+  DOBJ: half of the cream of chicken soup
+  PARG: the tomatoes
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: half of the shredded cheese
+
+
+SENTID: 10
+SENT: Repeat layers , ending with cheese on the top .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers , ending
+  PARG: cheese
+    PREP: with
+  PARG: the top
+    PREP: on
+
+
+SENTID: 11
+SENT: Bake for 1 hour in the preheated oven , or until cheese is browned and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is browned, bubbly
+    PREP: until
+
+
+SENTID: 12
+SENT: Let stand for 10 minutes to set before serving .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: set
+    PREP: to
+  PARG: serving
+    PREP: before
+

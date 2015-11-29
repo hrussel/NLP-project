@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Place the bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 1
+SENT: Remove bacon to a plate lined with paper towels , reserving drippings in the skillet .
+PREDID: 0
+PRED: remove
+  DOBJ: bacon
+  PARG: a plate lined
+    PREP: to
+  PARG: paper towels , reserving drippings
+    PREP: with
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 2
+SENT: Break ground beef into the skillet ;
+PREDID: 0
+PRED: break
+  DOBJ: ground beef
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 3
+SENT: Drain beef , return skillet to stove , and reduce heat to low .
+PREDID: 0
+PRED: drain
+  DOBJ: beef
+
+PREDID: 1
+PRED: return
+  DOBJ: skillet
+  PARG: stove
+    PREP: to
+
+PREDID: 2
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 4
+SENT: Stir diced tomatoes with green chile peppers , cream cheese , and shredded Cheddar-Monterey Jack cheese blend into ground beef .
+PREDID: 0
+PRED: stir
+  DOBJ: diced tomatoes
+  PARG: green chile peppers , cream cheese , shredded cheddar-monterey jack cheese
+    PREP: with
+
+PREDID: 1
+PRED: blend
+  PARG: ground beef
+    PREP: into
+
+
+SENTID: 5
+SENT: Crumble bacon and stir most of it , reserving a few teaspoons for garnish , into beef mixture ;
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon, stir most of it
+  PARG: garnish
+    PREP: for
+  PARG: beef mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: transfer to a slow cooker .
+PREDID: 0
+PRED: transfer
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook in slow cooker on Low until hot and bubbly , 2 to 3 hours .
+PREDID: 0
+PRED: cook
+  PARG: slow cooker
+    PREP: in
+  PARG: low
+    PREP: on
+  PARG: hot, bubbly , 2 to 3 hours
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir parsley into the dip .
+PREDID: 0
+PRED: stir
+  DOBJ: parsley
+  PARG: the dip
+    PREP: into
+
+
+SENTID: 9
+SENT: Garnish with reserved bacon .
+PREDID: 0
+PRED: garnish
+  PARG: reserved bacon
+    PREP: with
+
+
+SENTID: 10
+SENT: Keep in the slow cooker set to Low to serve .
+PREDID: 0
+PRED: keep
+  PARG: the slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: set
+  PARG: low
+    PREP: to
+  PARG: serve
+    PREP: to
+

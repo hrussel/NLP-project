@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Place bacon in a large skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain bacon on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: bacon
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 7
+SENT: crumble when cool enough to handle .
+PREDID: 0
+PRED: crumble
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+
+SENTID: 8
+SENT: Remove seeds and stems from jalapenos ;
+PREDID: 0
+PRED: remove
+  DOBJ: seeds, stems
+  PARG: jalapenos
+    PREP: from
+
+
+SENTID: 9
+SENT: mince 1 pepper and slice remaining peppers into very thin strips ;
+PREDID: 0
+PRED: mince
+  DOBJ: 1 pepper
+
+PREDID: 1
+PRED: slice
+  DOBJ: remaining peppers
+  PARG: very
+    PREP: into
+  OARG: thin
+
+
+SENTID: 10
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 11
+SENT: Cut eggs in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 12
+SENT: place yolks in a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 13
+SENT: Mash egg yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: egg yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 14
+SENT: stir in minced jalapeno , Cheddar cheese , mayonnaise , red onion , and mustard .
+PREDID: 0
+PRED: stir
+  PARG: minced jalapeno , cheddar cheese , mayonnaise , red onion , mustard
+    PREP: in
+
+
+SENTID: 15
+SENT: Place egg whites cut-side up on a serving platter .
+PREDID: 0
+PRED: place
+  DOBJ: egg whites cut-side
+  PARG: a serving platter
+    PREP: on
+  OARG: up
+
+
+SENTID: 16
+SENT: Spoon yolk mixture into egg white halves ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 17
+SENT: sprinkle with crumbled bacon and paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: crumbled bacon, paprika
+    PREP: with
+

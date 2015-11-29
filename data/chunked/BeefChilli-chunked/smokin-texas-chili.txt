@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: Heat 1 tablespoon oil in a 6-quart saucepot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon oil
+  PARG: a 6-quart saucepot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the beef in 2 batches and cook until it 's well browned , stirring often .
+PREDID: 0
+PRED: add
+  DOBJ: the beef
+  PARG: 2 batches
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: it 's well browned , stirring often
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove the beef from the saucepot .
+PREDID: 0
+PRED: remove
+  DOBJ: the beef
+  PARG: the saucepot
+    PREP: from
+
+
+SENTID: 3
+SENT: Add the remaining oil and heat over medium heat .
+PREDID: 0
+PRED: add
+  DOBJ: the remaining oil
+
+PREDID: 1
+PRED: heat
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add the onion and cook until it 's tender .
+PREDID: 0
+PRED: add
+  DOBJ: the onion
+
+PREDID: 1
+PRED: cook
+  PARG: it 's tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Add the garlic and cook for 30 seconds .
+PREDID: 0
+PRED: add
+  DOBJ: the garlic
+
+PREDID: 1
+PRED: cook
+  PARG: 30 seconds
+    PREP: for
+
+
+SENTID: 6
+SENT: Add the salsa , water , chili powder and cumin .
+PREDID: 0
+PRED: add
+  DOBJ: the salsa , water , chili powder, cumin
+
+
+SENTID: 7
+SENT: Heat to a boil .
+PREDID: 0
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Return the beef to the saucepot .
+PREDID: 0
+PRED: return
+  DOBJ: the beef
+  PARG: the saucepot
+    PREP: to
+
+
+SENTID: 9
+SENT: Stir in the beans .
+PREDID: 0
+PRED: stir
+  PARG: the beans
+    PREP: in
+
+
+SENTID: 10
+SENT: Reduce the heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 11
+SENT: Cover and cook for 1 hour .
+PREDID: 0
+PRED: cover
+  PARG: 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: cook
+
+
+SENTID: 12
+SENT: Uncover and cook for 30 minutes or until the beef is fork-tender .
+PREDID: 0
+PRED: uncover
+  PARG: 30 minutes
+    PREP: for
+
+PREDID: 1
+PRED: cook
+  PARG: the beef is fork-tender
+    PREP: until
+
+
+SENTID: 13
+SENT: Sprinkle with the cilantro , if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: the cilantro
+    PREP: with
+  PARG: desired
+    PREP: if
+

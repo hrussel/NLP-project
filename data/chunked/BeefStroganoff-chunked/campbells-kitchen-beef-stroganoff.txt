@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Slice beef into very thin strips .
+PREDID: 0
+PRED: slice
+  DOBJ: strips
+  PARG: very
+    PREP: into
+  OARG: thin
+  OARG: beef
+
+
+SENTID: 1
+SENT: Heat half the oil in skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: half the oil
+  PARG: skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cook beef until browned , stirring often .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: browned , stirring often
+    PREP: until
+
+
+SENTID: 3
+SENT: Set beef aside .
+PREDID: 0
+PRED: set
+  DOBJ: beef
+  OARG: aside
+
+
+SENTID: 4
+SENT: Add remaining oil .
+PREDID: 0
+PRED: add
+  DOBJ: remaining oil
+
+
+SENTID: 5
+SENT: Add onion and cook over medium heat until tender .
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour off fat .
+PREDID: 0
+PRED: pour
+  PARG: fat
+    PREP: off
+
+
+SENTID: 7
+SENT: Add soup and paprika .
+PREDID: 0
+PRED: add
+  DOBJ: soup, paprika
+
+
+SENTID: 8
+SENT: Heat to a boil .
+PREDID: 0
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Stir in sour cream and return beef to skillet .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+PREDID: 1
+PRED: return
+  DOBJ: beef
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 10
+SENT: Heat through .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 11
+SENT: Serve over noodles .
+PREDID: 0
+PRED: serve
+  PARG: noodles
+    PREP: over
+
+
+SENTID: 12
+SENT: Sprinkle with parsley .
+PREDID: 0
+PRED: sprinkle
+  PARG: parsley
+    PREP: with
+

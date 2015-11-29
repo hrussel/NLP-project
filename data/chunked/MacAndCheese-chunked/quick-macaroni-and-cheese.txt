@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven broiler .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven broiler
+
+
+SENTID: 1
+SENT: Grease a 1Ê1/2 quart microwave safe dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 1Ê1/2 quart microwave safe dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Microwave frozen mac and cheese according to package directions .
+PREDID: 0
+PRED: microwave
+  DOBJ: frozen mac, cheese according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir together macaroni , mac and cheese , milk and pepper in prepared dish .
+PREDID: 0
+PRED: stir
+  DOBJ: macaroni , mac, cheese , milk, pepper
+  PARG: prepared dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 8
+SENT: Microwave on high 2 minutes , until heated through .
+PREDID: 0
+PRED: microwave
+  PARG: high 2 minutes
+    PREP: on
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 9
+SENT: Sprinkle with Cheddar and Parmesan and place under oven broiler .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheddar, parmesan
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: oven broiler
+    PREP: under
+
+
+SENTID: 10
+SENT: Broil until cheese is melted and beginning to brown , 2 to 5 minutes .
+PREDID: 0
+PRED: broil
+  PARG: cheese is melted, beginning to brown , 2 to 5 minutes
+    PREP: until
+

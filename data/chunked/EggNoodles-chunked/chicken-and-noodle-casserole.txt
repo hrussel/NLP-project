@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: Cook noodles according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a 2 quart saucepan , mix cooked chicken , cream of potato soup , cream of broccoli soup , milk , mixed vegetables , broccoli , salt , pepper , and thyme .
+PREDID: 0
+PRED: mix
+  DOBJ: cooked chicken , cream of potato soup , cream of broccoli soup , milk , mixed vegetables , broccoli , salt , pepper , thyme
+  PARG: a 2 quart saucepan
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook over medium heat until broccoli is cooked .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: broccoli is cooked
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix with egg noodles .
+PREDID: 0
+PRED: mix
+  PARG: egg noodles
+    PREP: with
+
+
+SENTID: 5
+SENT: Spread into a greased 9 x 13 inch pan .
+PREDID: 0
+PRED: spread
+  PARG: a greased 9 x 13 inch pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Cover .
+PREDID: 0
+PRED: cover
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Cover with Colby cheese , and bake uncovered for an additional 15 minutes .
+PREDID: 0
+PRED: cover
+  PARG: colby cheese
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  DOBJ: uncovered
+  PARG: an additional 15 minutes
+    PREP: for
+

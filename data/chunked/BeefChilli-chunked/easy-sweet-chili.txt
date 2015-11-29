@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: Crumble ground beef into a skillet over medium heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: a skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir garlic , oregano , chili powder , and basil into the beef ;
+PREDID: 0
+PRED: stir
+  DOBJ: garlic , oregano , chili powder , basil
+  PARG: the beef
+    PREP: into
+
+
+SENTID: 2
+SENT: Combine light red kidney beans , dark red kidney beans , diced tomatoes , and corn in crock of a slow cooker .
+PREDID: 0
+PRED: combine
+  DOBJ: light red kidney beans , dark red kidney beans , diced tomatoes , corn
+  PARG: crock of a slow cooker
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir cooked ground beef into the bean mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: cooked ground beef
+  PARG: the bean mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: Cook on Medium-Low for 2 hours .
+PREDID: 0
+PRED: cook
+  PARG: medium-low
+    PREP: on
+  PARG: 2 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: Season with salt and black pepper to serve .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+  PARG: serve
+    PREP: to
+

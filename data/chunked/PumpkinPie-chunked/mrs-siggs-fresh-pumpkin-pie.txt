@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: Cut pumpkin in half and remove seeds .
+PREDID: 0
+PRED: cut
+  DOBJ: pumpkin
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: seeds
+
+
+SENTID: 1
+SENT: Place cut side down on a cookie sheet lined with lightly oiled aluminum foil .
+PREDID: 0
+PRED: place
+  DOBJ: cut side
+  PARG: a cookie sheet lined
+    PREP: on
+  PARG: lightly oiled aluminum foil
+    PREP: with
+  OARG: down
+
+
+SENTID: 2
+SENT: Bake at 325 degrees F -LRB- 165 degrees C -RRB- for 30 to 40 minutes , or until the flesh is tender when poked with a fork .
+PREDID: 0
+PRED: bake
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: at
+  PARG: 30 to 40 minutes
+    PREP: for
+  PARG: the flesh is tender when poked with a fork
+    PREP: until
+
+
+SENTID: 3
+SENT: Cool until just warm .
+PREDID: 0
+PRED: cool
+  PARG: just warm
+    PREP: until
+
+
+SENTID: 4
+SENT: Scrape the pumpkin flesh from the peel .
+PREDID: 0
+PRED: scrape
+  DOBJ: the pumpkin flesh
+  PARG: the peel
+    PREP: from
+
+
+SENTID: 5
+SENT: Either mash , or puree in small batches in a blender .
+PREDID: 0
+PRED: mash
+
+PREDID: 1
+PRED: puree
+  PARG: small batches
+    PREP: in
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 6
+SENT: Increase oven temperature to 450 degrees F -LRB- 230 degrees C. -RRB- In a large bowl , slightly beat eggs .
+PREDID: 0
+PRED: increase
+  DOBJ: oven temperature
+  PARG: 450 degrees f -lrb- 230 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+  OARG: slightly
+
+PREDID: 1
+PRED: beat
+  DOBJ: eggs
+
+
+SENTID: 7
+SENT: Add brown sugar , flour , salt , 2 cups of the pumpkin puree , pumpkin pie spice , and evaporated milk .
+PREDID: 0
+PRED: add
+  DOBJ: brown sugar , flour , salt , 2 cups of the pumpkin puree , pumpkin pie spice , evaporated milk
+
+
+SENTID: 8
+SENT: Stir well after each addition .
+PREDID: 0
+PRED: stir
+  PARG: each addition
+    PREP: after
+  OARG: well
+
+
+SENTID: 9
+SENT: Pour mixture into the unbaked pastry shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: the unbaked pastry shell
+    PREP: into
+
+
+SENTID: 10
+SENT: Place a strip of aluminum foil around the edge of the crust to prevent over browning .
+PREDID: 0
+PRED: place
+  DOBJ: a strip of aluminum foil
+  PARG: the edge of the crust
+    PREP: around
+  PARG: browning
+    PREP: over
+  OARG: to prevent
+
+
+SENTID: 11
+SENT: Bake 10 minutes at 450 degrees F -LRB- 230 degrees C -RRB- , then reduce the oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: at
+  OARG: 10 minutes
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: the oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 12
+SENT: Bake an additional 40 to 50 minutes , or until a toothpick inserted near the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: a toothpick inserted near the center comes out clean
+    PREP: until
+  OARG: an additional 40 to 50 minutes
+
+
+SENTID: 13
+SENT: Cool pie , and refrigerate overnight for best flavor .
+PREDID: 0
+PRED: cool
+  DOBJ: pie
+
+PREDID: 1
+PRED: refrigerate
+  PARG: best flavor
+    PREP: for
+  OARG: overnight
+

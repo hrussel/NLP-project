@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Cook bacon in a large skillet over medium-high heat until crisp , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: crisp , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain the bacon slices on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 2
+SENT: chop and set aside .
+PREDID: 0
+PRED: chop
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 4
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Reduce heat to medium-low and simmer until tender , about 8 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Add green beans to the water .
+PREDID: 0
+PRED: add
+  DOBJ: green beans
+  PARG: the water
+    PREP: to
+
+
+SENTID: 7
+SENT: Bring the water again to a boil and cook until the green beans are slightly tender , about 2 minutes ;
+PREDID: 0
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  OARG: again
+
+PREDID: 1
+PRED: cook
+  PARG: the green beans are slightly tender , about 2 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 9
+SENT: Cool potatoes and green beans slightly before transferring to a serving bowl .
+PREDID: 0
+PRED: cool
+  DOBJ: potatoes, green beans
+  PARG: transferring
+    PREP: before
+  PARG: a serving bowl
+    PREP: to
+  OARG: slightly
+
+
+SENTID: 10
+SENT: Mix balsamic vinaigrette , chopped bacon , red pepper , red onion , salt , and black pepper together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: balsamic vinaigrette , chopped bacon , red pepper , red onion , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: pour over the potatoes and green beans .
+PREDID: 0
+PRED: pour
+  PARG: the potatoes, green beans
+    PREP: over
+

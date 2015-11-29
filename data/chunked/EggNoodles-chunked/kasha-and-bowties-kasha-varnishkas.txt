@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: In a saucepan , bring the chicken broth to a boil with the kasha .
+PREDID: 0
+PRED: bring
+  DOBJ: the chicken broth
+  PARG: a saucepan
+    PREP: in
+  PARG: a boil
+    PREP: to
+  PARG: the kasha
+    PREP: with
+
+
+SENTID: 1
+SENT: Reduce the heat and simmer , uncovered , for 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+
+PREDID: 1
+PRED: simmer
+  DOBJ: uncovered
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Bring pot of lightly-salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: pot of lightly-salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add pasta and cook until al dente , 8 to 10 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: al dente , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: drain and rinse with cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 5
+SENT: Pour the oil in a skillet over medium heat .
+PREDID: 0
+PRED: pour
+  DOBJ: the oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook and stir the onions in the oil until lightly browned , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onions
+
+PREDID: 1
+PRED: stir
+  PARG: the oil
+    PREP: in
+  PARG: lightly browned , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir the drained pasta and kasha into the onions , and season to taste with salt and pepper .
+PREDID: 0
+PRED: stir
+  DOBJ: the drained pasta, kasha
+  PARG: the onions
+    PREP: into
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+

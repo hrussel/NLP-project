@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , saute the bacon and onions together until onions are tender , about 7 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: the bacon, onions
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: onions are tender , about 7 minutes
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Add the corn , potatoes , soup , milk , and salt and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: the corn , potatoes , soup , milk , salt, pepper
+
+
+SENTID: 2
+SENT: Raise heat to high and bring to a boil .
+PREDID: 0
+PRED: raise
+  DOBJ: heat
+  PARG: high
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Reduce heat to low , cover and simmer about 25 to 35 minutes or until the potatoes are tender , stirring occasionally .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: 25 to 35 minutes
+    PREP: about
+
+PREDID: 2
+PRED: simmer
+  PARG: the potatoes are tender , stirring occasionally
+    PREP: until
+

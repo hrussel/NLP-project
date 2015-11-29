@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the eggs , cracker crumbs , milk , cheese , onion , Worcestershire sauce , Italian-style seasoning , garlic salt , ground beef and ground sausage .
+PREDID: 0
+PRED: combine
+  DOBJ: the eggs , cracker crumbs , milk , cheese , onion , worcestershire sauce , italian-style seasoning , garlic salt , ground beef, ground sausage
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix this together well and form into individual loaves .
+PREDID: 0
+PRED: mix
+  DOBJ: this together
+  OARG: well
+
+PREDID: 1
+PRED: form
+  PARG: individual loaves
+    PREP: into
+
+
+SENTID: 3
+SENT: Place the loaves in a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: the loaves
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 4
+SENT: In a separate small bowl , combine the ketchup , brown sugar and Worcestershire sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the ketchup , brown sugar, worcestershire sauce
+  PARG: a separate small bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix this together well and spoon some of this sauce over each loaf .
+PREDID: 0
+PRED: mix
+  DOBJ: this together
+  OARG: well
+
+PREDID: 1
+PRED: spoon
+  DOBJ: some of this sauce
+  PARG: each loaf
+    PREP: over
+
+
+SENTID: 6
+SENT: Garnish each loaf with some Parmesan cheese and seasoning to taste .
+PREDID: 0
+PRED: garnish
+  DOBJ: each loaf
+  PARG: some parmesan cheese, seasoning
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 45 to 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 45 to 60 minutes
+    PREP: for
+

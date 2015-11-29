@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 10x15 inch jelly roll pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 10x15 inch
+
+PREDID: 1
+PRED: flour
+  OARG: jelly
+
+PREDID: 2
+PRED: roll
+  DOBJ: pan
+
+
+SENTID: 2
+SENT: Sift together the flour , baking soda , cinnamon and salt .
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , baking soda , cinnamon, salt
+  OARG: together
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a large bowl , beat sugar , oil and eggs until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: sugar , oil, eggs
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix in the flour mixture .
+PREDID: 0
+PRED: mix
+  PARG: the flour mixture
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in the baby food carrots .
+PREDID: 0
+PRED: stir
+  PARG: the baby food carrots
+    PREP: in
+
+
+SENTID: 7
+SENT: Spread batter into a 10x15 inch jelly roll pan .
+PREDID: 0
+PRED: spread
+  DOBJ: batter
+  PARG: a 10x15 inch
+    PREP: into
+  OARG: jelly
+
+PREDID: 1
+PRED: roll
+  DOBJ: pan
+
+
+SENTID: 8
+SENT: Bake in the preheated oven for 20 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  PARG: a toothpick inserted into the center of the cake comes out clean
+    PREP: until
+
+
+SENTID: 9
+SENT: Allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+

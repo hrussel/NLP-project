@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Heat the oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir the green bell peppers , onion , and garlic in the hot oil until soft , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the green bell peppers , onion , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: soft , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the sirloin roast to the pepper mixture and continue cooking until the beef is completely browned , 25 to 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the sirloin roast
+  PARG: the pepper mixture, continue cooking
+    PREP: to
+  PARG: the beef is completely browned , 25 to 30 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir the chili beans , diced tomatoes , tomato sauce , water , chili powder , cumin , nutmeg , salt , black pepper , lime juice , and Worcestershire sauce into the pot ;
+PREDID: 0
+PRED: stir
+  DOBJ: the chili beans , diced tomatoes , tomato sauce , water , chili powder , cumin , nutmeg , salt , black pepper , lime juice , worcestershire sauce
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 4
+SENT: reduce heat to medium-low and cook 3 to 5 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, cook 3 to 5 hours
+    PREP: to
+
+
+SENTID: 5
+SENT: Remove from heat and allow to cool slightly before chilling in refrigerator overnight .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: chilling
+    PREP: before
+  PARG: refrigerator
+    PREP: in
+  OARG: to cool
+  OARG: slightly
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Before serving , return pot to stove over medium-low heat ;
+PREDID: 0
+PRED: return
+  DOBJ: pot
+  PARG: serving
+    PREP: before
+  PARG: stove
+    PREP: to
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook another 3 to 4 hours .
+PREDID: 0
+PRED: cook
+  OARG: another 3 to 4 hours
+

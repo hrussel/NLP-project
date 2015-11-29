@@ -1,0 +1,222 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Cool the eggs under cold running water .
+PREDID: 0
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+
+
+SENTID: 5
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 6
+SENT: Halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 0
+PRED: halve
+  DOBJ: the eggs lengthwise
+
+PREDID: 1
+PRED: scoop
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Gently mash the yolks with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+  OARG: gently
+
+
+SENTID: 8
+SENT: Melt butter in a skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: cook and stir the shrimp , green onion , and garlic powder in the melted butter until , about 4 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the shrimp , green onion , garlic powder
+
+PREDID: 1
+PRED: stir
+  PARG: the melted butter
+    PREP: in
+  PARG: , about 4 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Transfer the shrimp to a cutting board and mince .
+PREDID: 0
+PRED: transfer
+  DOBJ: the shrimp
+  PARG: a cutting board
+    PREP: to
+
+PREDID: 1
+PRED: mince
+
+
+SENTID: 11
+SENT: Stir 3/4 cup of the minced shrimp and any remaining liquid from the skillet into the egg yolks ;
+PREDID: 0
+PRED: stir
+  DOBJ: 3/4 cup of the minced shrimp, any remaining liquid
+  PARG: the skillet
+    PREP: from
+  PARG: the egg yolks
+    PREP: into
+
+
+SENTID: 12
+SENT: reserve remaining shrimp for garnish .
+PREDID: 0
+PRED: reserve
+  DOBJ: remaining shrimp
+  PARG: garnish
+    PREP: for
+
+
+SENTID: 13
+SENT: Add the mayonnaise , mustard , pickle relish , and hot sauce ;
+PREDID: 0
+PRED: add
+  DOBJ: the mayonnaise , mustard , pickle relish , hot sauce
+
+
+SENTID: 14
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 15
+SENT: Scoop the mixture into a resealable plastic bag , seal the bag , and snip a corner off the bag with scissors to make a piping bag .
+PREDID: 0
+PRED: scoop
+  DOBJ: the mixture
+  PARG: a resealable plastic bag
+    PREP: into
+
+PREDID: 1
+PRED: seal
+  DOBJ: the bag
+
+PREDID: 2
+PRED: snip
+  DOBJ: a corner
+  PARG: the bag
+    PREP: off
+  PARG: scissors
+    PREP: with
+  PARG: make a piping bag
+    PREP: to
+
+
+SENTID: 16
+SENT: Gently squeeze about 1Ê1/2 tablespoon of filling into each egg white half .
+PREDID: 0
+PRED: squeeze
+  PARG: 1Ê1/2 tablespoon of filling
+    PREP: about
+  PARG: each egg white half
+    PREP: into
+  OARG: gently
+
+
+SENTID: 17
+SENT: Garnish each deviled egg with a few pieces of the reserved chopped shrimp and a pinch of the chopped parsley ;
+PREDID: 0
+PRED: garnish
+  DOBJ: each deviled egg
+  PARG: a few pieces of the reserved chopped shrimp, a pinch of the chopped parsley
+    PREP: with
+
+
+SENTID: 18
+SENT: chill for at least 30 minutes in refrigerator before serving .
+PREDID: 0
+PRED: chill
+  PARG: at least 30 minutes
+    PREP: for
+  PARG: refrigerator
+    PREP: in
+  PARG: serving
+    PREP: before
+

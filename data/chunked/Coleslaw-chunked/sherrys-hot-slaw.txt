@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: In a saucepan , combine the vinegar and sugar ;
+PREDID: 0
+PRED: combine
+  DOBJ: the vinegar, sugar
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cook over medium heat until sugar is dissolved .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: sugar is dissolved
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from heat and refrigerate until chilled .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+
+
+SENTID: 3
+SENT: In a large bowl , combine cabbage , lettuce , bell pepper , onion , tomatoes , ketchup , cayenne pepper and hot sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: cabbage , lettuce , bell pepper , onion , tomatoes , ketchup , cayenne pepper, hot sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix and pour cooled vinegar and sugar mixture over slaw .
+PREDID: 0
+PRED: mix
+  DOBJ: cooled vinegar, sugar mixture
+
+PREDID: 1
+PRED: pour
+  PARG: slaw
+    PREP: over
+
+
+SENTID: 5
+SENT: Toss and serve chilled .
+PREDID: 0
+PRED: toss
+  DOBJ: chilled
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs in half , and remove the yolks .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: the yolks
+
+
+SENTID: 5
+SENT: Place the yolks into a medium bowl , and mix with the mustard , Italian dressing , mayonnaise , and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: the yolks
+  PARG: a medium bowl
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  PARG: the mustard , italian dressing , mayonnaise , pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Arrange the egg white halves on a plate , and sprinkle with salt .
+PREDID: 0
+PRED: arrange
+  DOBJ: the egg white halves
+  PARG: a plate
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: salt
+    PREP: with
+
+
+SENTID: 7
+SENT: Spoon the yolk mixture into the egg halves , or use a pastry bag and pipe the filling in for a more professional look .
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk mixture
+  PARG: the egg halves
+    PREP: into
+
+PREDID: 1
+PRED: use
+  DOBJ: a pastry bag
+
+PREDID: 2
+PRED: pipe
+  DOBJ: the filling
+  PARG: for a more professional look
+    PREP: in
+
+
+SENTID: 8
+SENT: Sprinkle with paprika , and refrigerate until serving .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

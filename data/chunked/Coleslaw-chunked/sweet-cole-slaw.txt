@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: Stir mayonnaise , sour cream , sugar , white balsamic vinegar , orange juice , and pepper together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , sour cream , sugar , white balsamic vinegar , orange juice , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Toss cabbage and carrots together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: cabbage, carrots
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Drizzle dressing over the cabbage mixture and toss to coat .
+PREDID: 0
+PRED: drizzle
+  DOBJ: dressing
+  PARG: the cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

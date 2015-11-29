@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a muffin tin with nonstick cooking spray .
+PREDID: 0
+PRED: grease
+  DOBJ: a muffin tin
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In a small bowl , stir together the bread crumbs , olive oil and salt ;
+PREDID: 0
+PRED: stir
+  DOBJ: the bread crumbs , olive oil, salt
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Add the macaroni and cook for about 8 minutes , it should still be a little bit firm .
+PREDID: 0
+PRED: add
+  DOBJ: the macaroni
+
+PREDID: 1
+PRED: cook
+  DOBJ: be a little bit firm
+  PARG: about 8 minutes , it should
+    PREP: for
+  OARG: still
+
+
+SENTID: 6
+SENT: Remove from the heat , drain and return to the pan ;
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: drain
+  PARG: the pan
+    PREP: to
+
+PREDID: 2
+PRED: return
+
+
+SENTID: 7
+SENT: stir in the butter and egg until pasta is evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: the butter, egg
+    PREP: in
+  PARG: pasta is evenly coated
+    PREP: until
+
+
+SENTID: 8
+SENT: Reserve 1/2 cup of sharp Cheddar cheese and stir the remaining Cheddar cheese , milk and mozzarella cheese into the pasta .
+PREDID: 0
+PRED: reserve
+  DOBJ: 1/2 cup of sharp cheddar cheese
+
+PREDID: 1
+PRED: stir
+  DOBJ: the remaining cheddar cheese , milk, mozzarella cheese
+  PARG: the pasta
+    PREP: into
+
+
+SENTID: 9
+SENT: Spoon into the prepared muffin tin .
+PREDID: 0
+PRED: spoon
+  PARG: the prepared muffin tin
+    PREP: into
+
+
+SENTID: 10
+SENT: Sprinkle the reserved cheese and the bread crumb mixture over the tops .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the reserved cheese, the bread crumb mixture
+  PARG: the tops
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake for 30 minutes in the preheated oven , or until the topping is nicely browned .
+PREDID: 0
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the topping is nicely browned
+    PREP: until
+
+
+SENTID: 12
+SENT: Allow the muffins to cool for a few minutes before removing from the pan .
+PREDID: 0
+PRED: allow
+  DOBJ: the muffins
+  PARG: a few minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: the pan
+    PREP: from
+  OARG: to cool
+

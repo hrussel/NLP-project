@@ -1,0 +1,20 @@
+SENTID: 0
+SENT: Mix chicken , blue cheese dressing , bacon , mayonnaise , pecans , onion , celery , hot sauce , lemon juice , Worcestershire sauce , black pepper , salt , garlic , parsley , and paprika in a large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: chicken , blue cheese dressing , bacon , mayonnaise , pecans , onion , celery , hot sauce , lemon juice , worcestershire sauce , black pepper , salt , garlic , parsley , paprika
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: refrigerate for flavors to blend , at least 1 hour .
+PREDID: 0
+PRED: refrigerate
+  PARG: flavors
+    PREP: for
+  PARG: blend
+    PREP: to
+  PARG: least 1 hour
+    PREP: at
+

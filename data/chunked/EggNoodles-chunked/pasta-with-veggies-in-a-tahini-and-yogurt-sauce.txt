@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Cook noodles in a large pot of boiling water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Meanwhile , mix together tahini , lemon juice , and water until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: tahini , lemon juice , water
+  PARG: smooth
+    PREP: until
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 3
+SENT: Add garlic , yogurt , and pepper sauce .
+PREDID: 0
+PRED: add
+  DOBJ: garlic , yogurt , pepper sauce
+
+
+SENTID: 4
+SENT: In a medium skillet , heat oil over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Saute red pepper and zucchini in oil for 2 to 3 minutes , or until tender crisp .
+PREDID: 0
+PRED: saute
+  DOBJ: red pepper, zucchini
+  PARG: oil
+    PREP: in
+  PARG: 2 to 3 minutes
+    PREP: for
+  PARG: tender crisp
+    PREP: until
+
+
+SENTID: 6
+SENT: Add tahini sauce , and heat through .
+PREDID: 0
+PRED: add
+  DOBJ: tahini sauce
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 7
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Toss noodles with sauce .
+PREDID: 0
+PRED: toss
+  DOBJ: noodles
+  PARG: sauce
+    PREP: with
+

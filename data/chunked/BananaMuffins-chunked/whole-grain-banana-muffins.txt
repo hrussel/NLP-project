@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 12 cup muffin tin .
+PREDID: 0
+PRED: grease
+  DOBJ: a 12 cup muffin tin
+
+
+SENTID: 2
+SENT: In a large bowl , whisk together whole wheat flours , oat bran , sugar , baking powder , and salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: whole wheat flours , oat bran , sugar , baking powder , salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in raisins .
+PREDID: 0
+PRED: stir
+  PARG: raisins
+    PREP: in
+
+
+SENTID: 4
+SENT: In another bowl , mix together yogurt , sour cream , applesauce , maple syrup , egg whites , vanilla , and bananas .
+PREDID: 0
+PRED: mix
+  DOBJ: yogurt , sour cream , applesauce , maple syrup , egg whites , vanilla , bananas
+  PARG: another bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour yogurt mixture into flour mixture , and mix just enough to combine .
+PREDID: 0
+PRED: pour
+  DOBJ: yogurt mixture
+  PARG: flour mixture
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  PARG: combine
+    PREP: to
+  OARG: just
+  OARG: enough
+
+
+SENTID: 6
+SENT: Spoon batter into muffin cups . Sprinkle one teaspoon pecans over batter in each cup . Bake muffins in preheated oven for 15 to 20 minutes .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: one teaspoon pecans
+  PARG: batter
+    PREP: over
+  PARG: each cup
+    PREP: in
+
+PREDID: 2
+PRED: bake
+  DOBJ: muffins
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove from oven , and transfer muffins to a wire rack to cool .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  DOBJ: muffins
+  PARG: a wire rack
+    PREP: to
+  OARG: to cool
+

@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: In a medium skillet over medium-high heat , cook beef with onion flakes until beef is browned .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: onion flakes
+    PREP: with
+  PARG: beef is browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large saucepan , cook the macaroni and cheese according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: the macaroni, cheese according
+  PARG: a large saucepan
+    PREP: in
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in the meat and onion mixture , nacho cheese dip , salsa and green chiles .
+PREDID: 0
+PRED: stir
+  PARG: the meat, onion mixture , nacho cheese
+    PREP: in
+
+PREDID: 1
+PRED: dip
+  DOBJ: salsa, green chiles
+
+
+SENTID: 4
+SENT: Reduce heat and simmer 15 minutes , or until heated through .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: heated through
+    PREP: until
+  OARG: 15 minutes
+

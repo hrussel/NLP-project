@@ -1,0 +1,118 @@
+T1	predicate 0 8	Marinate
+T2	predicate 115 122	Preheat
+T3	predicate 150 156	Remove
+T4	predicate 190 195	Place
+T5	predicate 221 225	cook
+T6	predicate 286 292	Remove
+T7	predicate 294 298	cool
+T8	predicate 304 307	cut
+T9	predicate 321 335	Whisk together
+T10	predicate 400 405	Allow
+T11	predicate 459 465	remove
+T12	predicate 512 519	combine
+T13	predicate 594 598	Pour
+T14	predicate 620 624	toss
+T15	predicate 629 634	serve
+T16	arg_object 9 16	chicken
+T17	arg_co-object 17 82	in the orange juice, soy sauce and lemon-lime carbonated beverage
+T18	arg_duration 83 113	for several hours or overnight
+R1	object Arg1:T1 Arg2:T16	
+R2	co-object Arg1:T1 Arg2:T17	
+R3	duration Arg1:T1 Arg2:T18	
+T19	arg_object 123 128	grill
+T20	arg_duration 129 148	to medium-high heat
+R4	object Arg1:T2 Arg2:T19	
+R5	duration Arg1:T2 Arg2:T20	
+T21	arg_object 157 164	chicken
+T22	Evolution 157 164	chicken
+E1	Evolution:T22 Cause:T1
+T23	arg_co-object 165 178	from marinade
+T24	predicate 183 188	drain
+R6	object Arg1:T3 Arg2:T21	
+R7	co-object Arg1:T3 Arg2:T23	
+T25	Evolution 170 178	marinade
+E2	Evolution:T25 Cause:T1
+R8	object Arg1:T24 Arg2:T3	
+T26	arg_object 196 203	chicken
+T27	Evolution 196 203	chicken
+E3	Evolution:T27 Cause:T24
+T28	arg_location 204 216	on hot grill
+T29	Evolution 207 216	hot grill
+E4	Evolution:T29 Cause:T2
+R9	object Arg1:T4 Arg2:T26	
+R10	location Arg1:T4 Arg2:T28	
+R11	object Arg1:T5 Arg2:T4	
+T30	arg_duration 226 244	for 6 to 8 minutes
+T31	arg_other 245 257	on each side
+T32	arg_duration 262 284	until juices run clear
+R12	duration Arg1:T5 Arg2:T30	
+R13	other Arg1:T5 Arg2:T31	
+R14	duration Arg1:T5 Arg2:T32	
+R15	object Arg1:T6 Arg2:T5	
+R16	object Arg1:T7 Arg2:T6	
+R17	object Arg1:T8 Arg2:T7	
+T33	arg_other 308 319	into strips
+R18	other Arg1:T8 Arg2:T33	
+T34	arg_object 336 351	the lemon juice
+T35	arg_object 353 366	vegetable oil
+T36	arg_object 368 372	salt
+T37	arg_object 374 380	pepper
+T38	arg_object 385 398	garlic cloves
+R19	object Arg1:T9 Arg2:T34	
+R20	object Arg1:T9 Arg2:T35	
+R21	object Arg1:T9 Arg2:T36	
+R22	object Arg1:T9 Arg2:T37	
+R23	object Arg1:T9 Arg2:T38	
+T39	arg_object 406 419	garlic cloves
+T40	arg_other 420 426	to sit
+T41	arg_co-object 427 438	in dressing
+T42	arg_duration 439 454	for a few hours
+R24	object Arg1:T10 Arg2:T39	
+R25	other Arg1:T10 Arg2:T40	
+R26	co-object Arg1:T10 Arg2:T41	
+R27	duration Arg1:T10 Arg2:T42	
+R28	object Arg1:T11 Arg2:T10	
+T45	Evolution 430 438	dressing
+E5	Evolution:T45 Cause:T9
+T46	arg_location 495 510	In a salad bowl
+T47	arg_object 520 531	the lettuce
+T48	arg_object 533 541	tomatoes
+T49	arg_object 543 553	mozzarella
+T50	arg_object 555 563	Parmesan
+T51	arg_object 568 592	marinated chicken strips
+T52	Evolution 568 592	marinated chicken strips
+E6	Evolution:T52 Cause:T8
+R31	location Arg1:T12 Arg2:T46	
+R32	object Arg1:T12 Arg2:T47	
+R33	object Arg1:T12 Arg2:T48	
+R34	object Arg1:T12 Arg2:T49	
+R35	object Arg1:T12 Arg2:T50	
+R36	object Arg1:T12 Arg2:T51	
+T53	arg_object 599 607	dressing
+R37	object Arg1:T13 Arg2:T53	
+T54	arg_co-object 608 618	over salad
+R38	co-object Arg1:T13 Arg2:T54	
+T55	Evolution 599 607	dressing
+E7	Evolution:T55 Cause:T11
+T56	Evolution 613 618	salad
+E8	Evolution:T56 Cause:T12
+R39	object Arg1:T14 Arg2:T13	
+R40	object Arg1:T15 Arg2:T14	
+T43	arg_duration 466 493	before pouring on the salad
+R29	duration Arg1:T11 Arg2:T43	
+T44	ingredient 9 16	chicken
+T57	ingredient 20 36	the orange juice
+T58	ingredient 38 47	soy sauce
+T59	ingredient 52 82	lemon-lime carbonated beverage
+T60	ingredient 336 351	the lemon juice
+T61	ingredient 353 366	vegetable oil
+T62	ingredient 368 372	salt
+T63	ingredient 374 380	pepper
+T64	ingredient 385 398	garlic cloves
+T65	ingredient 520 531	the lettuce
+T66	ingredient 533 541	tomatoes
+T67	ingredient 543 553	mozzarella
+T68	ingredient 555 563	Parmesan
+R30	co-object Arg1:T24 Arg2:T3	
+T69	Evolution 406 419	garlic cloves
+E9	Evolution:T69 Cause:T9

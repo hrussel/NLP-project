@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: Whisk together the mayonnaise , yogurt , ginger , lime rind , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , yogurt , ginger , lime rind , salt, pepper
+  OARG: together
+
+
+SENTID: 1
+SENT: In a mixing bowl , combine the snow peas , chicken , onion and water chestnuts .
+PREDID: 0
+PRED: combine
+  DOBJ: the snow peas , chicken , onion, water chestnuts
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour dressing over salad and mix gently .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: mix
+  OARG: gently
+
+
+SENTID: 3
+SENT: Cover and refrigerate until chilled .
+PREDID: 0
+PRED: cover
+  PARG: chilled
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+

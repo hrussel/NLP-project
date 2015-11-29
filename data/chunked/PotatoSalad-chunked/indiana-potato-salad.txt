@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place potatoes into a pot and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 2
+SENT: Bring to a boil and cook until easily pierced with a fork , about 12 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: easily pierced with a fork , about 12 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and pour into a 9x13 inch baking dish .
+PREDID: 0
+PRED: drain
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: pour
+
+
+SENTID: 4
+SENT: Mix with mayonnaise , processed cheese and onion .
+PREDID: 0
+PRED: mix
+  PARG: mayonnaise , processed cheese, onion
+    PREP: with
+
+
+SENTID: 5
+SENT: While the potatoes are boiling , fry the bacon in a large skillet over medium heat until crisp .
+PREDID: 0
+PRED: fry
+  DOBJ: the bacon
+  PARG: the potatoes are boiling
+    PREP: while
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crisp
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain and break into large pieces . Place on top of the potatoes .
+PREDID: 0
+PRED: drain
+  PARG: large pieces
+    PREP: into
+
+PREDID: 1
+PRED: break
+
+PREDID: 2
+PRED: place
+  PARG: top of the potatoes
+    PREP: on
+
+
+SENTID: 7
+SENT: Bake for 1 hour in the preheated oven , until cheese is browned .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is browned
+    PREP: until
+

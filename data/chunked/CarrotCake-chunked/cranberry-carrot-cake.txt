@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour 3 - 8 inch round cake pans .
+PREDID: 0
+PRED: grease
+  DOBJ: 3 - 8 inch round cake pans
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: Whisk the flour , baking soda , baking powder , cinnamon , ginger , and salt in a bowl , and set aside .
+PREDID: 0
+PRED: whisk
+  DOBJ: the flour , baking soda , baking powder , cinnamon , ginger , salt
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Cream together the sugar , mayonnaise , eggs , and vanilla extract with an electric mixer until blended , scraping the bowl occasionally .
+PREDID: 0
+PRED: cream
+  DOBJ: the sugar , mayonnaise , eggs , vanilla extract
+  PARG: an electric mixer
+    PREP: with
+  PARG: blended , scraping the bowl occasionally
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in the flour mixture , then fold in the carrots , pineapple , pecans , and cranberries .
+PREDID: 0
+PRED: stir
+  PARG: the flour mixture
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: fold
+  PARG: the carrots , pineapple , pecans , cranberries
+    PREP: in
+
+
+SENTID: 5
+SENT: Divide evenly between the prepared cake pans .
+PREDID: 0
+PRED: divide
+  PARG: the prepared cake pans
+    PREP: between
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Bake in preheated oven until a toothpick inserted into the center comes out clean , 30 to 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , 30 to 35 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Cool in the pan for 10 minutes , then remove from the pan , and allow to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pan
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  PARG: the pan
+    PREP: from
+
+PREDID: 2
+PRED: allow
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

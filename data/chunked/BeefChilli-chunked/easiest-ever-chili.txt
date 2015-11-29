@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Brown ground beef with Recipe Ready Chopped Green Peppers , Onions in medium saucepot .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: recipe ready chopped green peppers , onions
+    PREP: with
+  PARG: medium saucepot
+    PREP: in
+
+
+SENTID: 1
+SENT: Add remaining ingredients and simmer uncovered , 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: remaining ingredients
+
+PREDID: 1
+PRED: simmer
+  OARG: uncovered , 20 minutes
+
+
+SENTID: 2
+SENT:  Serve , if desired with shredded Cheddar cheese and sour cream .
+PREDID: 0
+PRED: serve
+  PARG: desired
+    PREP: if
+  PARG: shredded cheddar cheese, sour cream
+    PREP: with
+

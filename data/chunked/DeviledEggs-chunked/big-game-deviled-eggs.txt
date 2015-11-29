@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: Bring water to a boil over high heat and stir in the vinegar .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the vinegar
+    PREP: in
+
+
+SENTID: 1
+SENT: Carefully lower the eggs into the boiling water .
+PREDID: 0
+PRED: lower
+  DOBJ: the eggs
+  PARG: the boiling water
+    PREP: into
+  OARG: carefully
+
+
+SENTID: 2
+SENT: Return eggs to a boil over medium heat and boil for 15 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: eggs
+  PARG: a boil
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: boil
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Transfer the eggs to a colander set in the sink , and run cold water over the eggs for about 5 minutes to chill .
+PREDID: 0
+PRED: transfer
+  DOBJ: the eggs
+  PARG: a colander set
+    PREP: to
+  PARG: the sink
+    PREP: in
+
+PREDID: 1
+PRED: run
+  DOBJ: cold water
+  PARG: the eggs
+    PREP: over
+  PARG: about 5 minutes
+    PREP: for
+  PARG: chill
+    PREP: to
+
+
+SENTID: 4
+SENT: Peel the eggs under a light stream of cold water and set aside in cold water to finish chilling , about 10 minutes .
+PREDID: 0
+PRED: peel
+  DOBJ: the eggs
+  PARG: a light stream of cold water
+    PREP: under
+
+PREDID: 1
+PRED: set
+  PARG: cold water
+    PREP: in
+  PARG: finish chilling
+    PREP: to
+  PARG: 10 minutes
+    PREP: about
+  OARG: aside
+
+
+SENTID: 5
+SENT: Slice the eggs lengthwise ;
+PREDID: 0
+PRED: slice
+  DOBJ: the eggs lengthwise
+
+
+SENTID: 6
+SENT: scoop the egg yolks into a bowl .
+PREDID: 0
+PRED: scoop
+  DOBJ: the egg yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Mash the egg yolks with a fork , then stir in the mayonnaise , 1 tablespoon at a time , until smooth ;
+PREDID: 0
+PRED: mash
+  DOBJ: the egg yolks
+  PARG: a fork
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the mayonnaise , 1 tablespoon
+    PREP: in
+  PARG: a time
+    PREP: at
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: stir in the Dijon mustard .
+PREDID: 0
+PRED: stir
+  PARG: the dijon mustard
+    PREP: in
+
+
+SENTID: 9
+SENT: Mix in sweet pickle relish juice , onion powder , and bacon bits ;
+PREDID: 0
+PRED: mix
+  PARG: sweet pickle relish juice , onion powder , bacon bits
+    PREP: in
+
+
+SENTID: 10
+SENT: stir with the fork until the yolk mixture is thoroughly combined .
+PREDID: 0
+PRED: stir
+  PARG: the fork
+    PREP: with
+  PARG: the yolk mixture is thoroughly combined
+    PREP: until
+
+
+SENTID: 11
+SENT: Fill each egg white half with the yolk mixture using a spoon .
+PREDID: 0
+PRED: fill
+  DOBJ: each egg white half
+  PARG: the yolk mixture
+    PREP: with
+
+
+SENTID: 12
+SENT: Dust the deviled eggs with paprika and transfer to a platter .
+PREDID: 0
+PRED: dust
+  DOBJ: the deviled eggs
+  PARG: paprika
+    PREP: with
+
+PREDID: 1
+PRED: transfer
+  PARG: a platter
+    PREP: to
+
+
+SENTID: 13
+SENT: Cover the platter with plastic wrap and refrigerate until cold and the flavors have blended , at least 1 hour .
+PREDID: 0
+PRED: cover
+  DOBJ: the platter
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: cold, the flavors have blended , at least 1 hour
+    PREP: until
+

@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook orzo in the boiling water , stirring occasionally until cooked through but firm to the bite , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: orzo
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain and keep warm .
+PREDID: 0
+PRED: drain
+  DOBJ: warm
+
+PREDID: 1
+PRED: keep
+
+
+SENTID: 3
+SENT: Heat olive oil in a large skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: cook and stir chicken , garlic , and Greek seasoning until chicken is no longer pink in the center and juices run clear , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken , garlic , greek seasoning
+
+PREDID: 1
+PRED: stir
+  PARG: chicken is no longer pink in the center, juices run clear , about 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Add spinach , cucumber , tomato , olives , and vinaigrette ;
+PREDID: 0
+PRED: add
+  DOBJ: spinach , cucumber , tomato , olives , vinaigrette
+
+
+SENTID: 6
+SENT: lower heat and simmer until spinach begins to wilt , 5 to 10 minutes .
+PREDID: 0
+PRED: lower
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: spinach begins to wilt , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Serve over orzo ;
+PREDID: 0
+PRED: serve
+  PARG: orzo
+    PREP: over
+
+
+SENTID: 8
+SENT: top with feta cheese .
+PREDID: 0
+PRED: top
+  PARG: feta cheese
+    PREP: with
+

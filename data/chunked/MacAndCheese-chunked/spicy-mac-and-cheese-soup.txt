@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil and stir in macaroni from the packages , retaining cheese mix packets for later use .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: macaroni
+    PREP: in
+  PARG: the packages , retaining cheese mix packets
+    PREP: from
+  PARG: later use
+    PREP: for
+
+
+SENTID: 1
+SENT: Cook macaroni at a rolling boil over medium heat , stirring occasionally , until tender but still slightly firm , 8 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni
+  PARG: a rolling boil
+    PREP: at
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: tender but still slightly firm , 8 to 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain and rinse macaroni with cold water .
+PREDID: 0
+PRED: drain
+  DOBJ: macaroni
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 3
+SENT: Return cooked macaroni to the pot .
+PREDID: 0
+PRED: return
+  DOBJ: cooked macaroni
+  PARG: the pot
+    PREP: to
+
+
+SENTID: 4
+SENT: Mix butter , chicken broth , and tomatoes with macaroni and bring mixture to a simmer over medium heat ;
+PREDID: 0
+PRED: mix
+  DOBJ: butter , chicken broth , tomatoes
+  PARG: macaroni
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  DOBJ: mixture
+  PARG: a simmer
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: stir in garlic powder , cumin , dry mustard , pepper , and contents of cheese mix packets .
+PREDID: 0
+PRED: stir
+  PARG: garlic powder , cumin , dry mustard , pepper , contents of cheese mix packets
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in milk and reduce heat to low ;
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 7
+SENT: heat soup almost to a simmer .
+PREDID: 0
+PRED: heat
+  DOBJ: soup
+  PARG: a simmer
+    PREP: to
+  OARG: almost
+
+
+SENTID: 8
+SENT: Serve soup in bowls and top each serving with about 2 tablespoons of sour cream .
+PREDID: 0
+PRED: serve
+  DOBJ: soup
+  PARG: bowls
+    PREP: in
+
+PREDID: 1
+PRED: top
+  DOBJ: each serving
+  PARG: about 2 tablespoons of sour cream
+    PREP: with
+

@@ -1,0 +1,212 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: Place the can of drained peas into the freezer .
+PREDID: 0
+PRED: place
+  DOBJ: the can of drained peas
+  PARG: the freezer
+    PREP: into
+
+
+SENTID: 3
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 7
+SENT: In a large saucepan over medium heat , melt the butter and cook the celery and onion until the onion has started to turn translucent , about 3 minutes .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: the celery, onion
+  PARG: the onion has started to turn translucent , about 3 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in the zucchini and cook until bright green but tender , another 5 to 8 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the zucchini
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: bright green but tender , another 5 to 8 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Mix in the potato and celery soups and milk , then fold in half the Cheddar cheese ;
+PREDID: 0
+PRED: mix
+  PARG: the potato, celery soups, milk
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: fold
+  PARG: half the cheddar cheese
+    PREP: in
+
+
+SENTID: 10
+SENT: allow the mixture to stand for 5 minutes .
+PREDID: 0
+PRED: allow
+  DOBJ: the mixture
+  PARG: stand
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Gently stir in the cooked noodles , then the imitation crab , and finally the peas from the freezer .
+PREDID: 0
+PRED: stir
+  DOBJ: the imitation crab
+  PARG: the cooked noodles
+    PREP: in
+  PARG: the freezer
+    PREP: from
+  OARG: gently
+  OARG: then
+  OARG: finally
+
+
+SENTID: 12
+SENT: Freezing the peas helps keep them intact .
+PREDID: 0
+PRED: freezing
+  DOBJ: the peas helps keep them intact
+
+
+SENTID: 13
+SENT: Season to taste with salt and pepper , and spread the mixture into the prepared baking dish .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  DOBJ: the mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 14
+SENT: Top the casserole with the remaining 2 cups of Cheddar cheese .
+PREDID: 0
+PRED: top
+  DOBJ: the casserole
+  PARG: the remaining 2 cups of cheddar cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Bake in the preheated oven for 30 minutes ;
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 16
+SENT: remove the casserole and cover with foil ;
+PREDID: 0
+PRED: remove
+  DOBJ: the casserole
+
+PREDID: 1
+PRED: cover
+  PARG: foil
+    PREP: with
+
+
+SENTID: 17
+SENT: allow to stand for 10 to 15 minutes to set up .
+PREDID: 0
+PRED: allow
+  PARG: stand
+    PREP: to
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: set
+    PREP: to
+  OARG: up
+

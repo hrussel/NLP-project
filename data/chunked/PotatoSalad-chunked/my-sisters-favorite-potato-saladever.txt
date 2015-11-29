@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Place potatoes in a pot with enough water to cover , and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook 15 minutes , or until tender .
+PREDID: 0
+PRED: cook
+  PARG: tender
+    PREP: until
+  OARG: 15 minutes
+
+
+SENTID: 2
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: In a bowl , gently toss potatoes , mayonnaise , red wine vinegar , Dijon mustard , dill , celery salt , salt , and pepper .
+PREDID: 0
+PRED: toss
+  DOBJ: potatoes , mayonnaise , red wine vinegar , dijon mustard , dill , celery salt , salt , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: gently
+
+
+SENTID: 4
+SENT: Cover , and refrigerate at least 30 minutes before serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: least 30 minutes
+    PREP: at
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Place potatoes in a large pot with water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: in
+  PARG: water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir in onions .
+PREDID: 0
+PRED: stir
+  PARG: onions
+    PREP: in
+
+
+SENTID: 2
+SENT: Bring to a boil over medium heat , then reduce heat to medium-low and simmer until potatoes are tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: potatoes are tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in evaporated milk and corn .
+PREDID: 0
+PRED: stir
+  PARG: evaporated milk, corn
+    PREP: in
+
+
+SENTID: 4
+SENT: Heat through , about 10 minutes .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 5
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

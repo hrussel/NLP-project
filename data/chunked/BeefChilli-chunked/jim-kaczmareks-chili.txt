@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Place meat in freezer until slightly frozen .
+PREDID: 0
+PRED: place
+  DOBJ: meat
+  PARG: freezer
+    PREP: in
+  PARG: slightly frozen
+    PREP: until
+
+
+SENTID: 1
+SENT: Cut into 1/4 to 1/2 inch cubes .
+PREDID: 0
+PRED: cut
+  PARG: 1/4 to 1/2 inch cubes
+    PREP: into
+
+
+SENTID: 2
+SENT: In a large skillet over medium heat , brown meat until it turns gray .
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: it turns gray
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in onions and garlic .
+PREDID: 0
+PRED: stir
+  PARG: onions, garlic
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook until onions are tender , about 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: onions are tender , about 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Cut up canned tomatoes , reserving juice ;
+PREDID: 0
+PRED: cut
+  DOBJ: canned tomatoes , reserving juice
+  OARG: up
+
+
+SENTID: 6
+SENT: combine in a 6 quart cooking pot with tomato sauce , beer , chili powder , oregano , paprika , cumin , brown sugar , beef base , bay leaves , salt , and pepper .
+PREDID: 0
+PRED: combine
+  PARG: a 6 quart cooking pot
+    PREP: in
+  PARG: tomato sauce , beer , chili powder , oregano , paprika , cumin , brown sugar , beef base , bay leaves , salt , pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Bring to a slow boil over high heat .
+PREDID: 0
+PRED: bring
+  PARG: a slow boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Add meat mixture , and reduce heat to low .
+PREDID: 0
+PRED: add
+  DOBJ: meat mixture
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 9
+SENT: Simmer , uncovered , for 2 to 3 hours .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: 2 to 3 hours
+    PREP: for
+
+
+SENTID: 10
+SENT: Mix in pinto beans .
+PREDID: 0
+PRED: mix
+  PARG: pinto beans
+    PREP: in
+
+
+SENTID: 11
+SENT: Simmer for 1/2 hour longer .
+PREDID: 0
+PRED: simmer
+  PARG: 1/2 hour
+    PREP: for
+  OARG: longer
+
+
+SENTID: 12
+SENT: Taste , and adjust seasonings if desired .
+PREDID: 0
+PRED: taste
+
+PREDID: 1
+PRED: adjust
+  DOBJ: seasonings
+  PARG: desired
+    PREP: if
+

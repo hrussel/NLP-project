@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13 inch baking dish or a dish of similar size .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish or a dish of similar size
+
+
+SENTID: 2
+SENT: In a large bowl , mix together the ground beef , lemon juice , water , egg , bread , onion and seasoning salt until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , lemon juice , water , egg , bread , onion, seasoning salt
+  PARG: a large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Place them in the prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: them
+  PARG: the prepared baking dish
+    PREP: in
+
+
+SENTID: 4
+SENT: In a small bowl , stir together the ketchup , brown sugar , mustard powder , allspice and cloves .
+PREDID: 0
+PRED: stir
+  DOBJ: the ketchup , brown sugar , mustard powder , allspice, cloves
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Spoon the sauce over the loaves , then top each one with a slice of lemon .
+PREDID: 0
+PRED: spoon
+  DOBJ: the sauce
+  PARG: the loaves
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: top
+  DOBJ: each one with a slice of lemon
+
+
+SENTID: 6
+SENT: Return to the oven , and bake for an additional 30 minutes , or until cooked through .
+PREDID: 0
+PRED: return
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 30 minutes
+    PREP: for
+  PARG: cooked through
+    PREP: until
+

@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Combine coleslaw mix , celery , white and green onion , and sunflower kernels in a large salad bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: coleslaw mix , celery , white, green onion , sunflower kernels
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix in mayonnaise ;
+PREDID: 0
+PRED: mix
+  PARG: mayonnaise
+    PREP: in
+
+
+SENTID: 2
+SENT: sprinkle salad generously with white vinegar , salt , and black pepper to desired consistency and flavor .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: salad
+  PARG: white vinegar , salt , black pepper
+    PREP: with
+  PARG: desired consistency
+    PREP: to
+  OARG: generously
+
+PREDID: 1
+PRED: flavor
+
+
+SENTID: 3
+SENT: Refrigerate overnight and adjust seasoning if desired .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: seasoning
+  OARG: overnight
+
+PREDID: 1
+PRED: adjust
+  PARG: desired
+    PREP: if
+

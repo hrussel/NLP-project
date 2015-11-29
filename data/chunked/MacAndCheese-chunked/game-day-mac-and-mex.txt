@@ -1,0 +1,188 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 6 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 6 to 7 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain and transfer to a large mixing bowl ;
+PREDID: 0
+PRED: drain
+  PARG: a large mixing bowl
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 4
+SENT: stir in 2 tablespoons butter until coated .
+PREDID: 0
+PRED: stir
+  PARG: 2 tablespoons butter
+    PREP: in
+  PARG: coated
+    PREP: until
+
+
+SENTID: 5
+SENT: Melt remaining 6 tablespoons butter in a large skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: remaining 6 tablespoons butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: whisk flour into melted butter .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour
+  PARG: melted butter
+    PREP: into
+
+
+SENTID: 7
+SENT: Cook , stirring constantly , until mixture is lightly golden and smooth .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: mixture is lightly golden
+    PREP: until
+  OARG: constantly
+
+PREDID: 1
+PRED: smooth
+
+
+SENTID: 8
+SENT: Slowly whisk warm milk into flour mixture until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: warm milk
+  PARG: flour mixture
+    PREP: into
+  PARG: smooth
+    PREP: until
+  OARG: slowly
+
+
+SENTID: 9
+SENT: Whisk salt , white pepper , and nutmeg into white sauce , bring to a simmer , and whisk until smooth and thickened , about 3 minutes .
+PREDID: 0
+PRED: whisk
+  DOBJ: salt , white pepper , nutmeg
+  PARG: white sauce
+    PREP: into
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: whisk
+  PARG: smooth, thickened , about 3 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove sauce from heat and gradually stir Mexican-style cheese into sauce until melted and thick .
+PREDID: 0
+PRED: remove
+  DOBJ: sauce
+  PARG: heat
+    PREP: from
+  OARG: gradually
+
+PREDID: 1
+PRED: stir
+  DOBJ: mexican-style cheese
+  PARG: sauce
+    PREP: into
+  PARG: melted, thick
+    PREP: until
+
+
+SENTID: 11
+SENT: Pour cheese sauce over macaroni and gently fold black beans , avocados , green chiles , green onions , and cilantro into the macaroni mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: cheese sauce
+  PARG: macaroni
+    PREP: over
+  OARG: gently
+
+PREDID: 1
+PRED: fold
+  DOBJ: black beans , avocados , green chiles , green onions , cilantro
+  PARG: the macaroni mixture
+    PREP: into
+
+
+SENTID: 12
+SENT: Transfer to a 9x13-inch glass baking dish .
+PREDID: 0
+PRED: transfer
+  PARG: a 9x13-inch glass baking dish
+    PREP: to
+
+
+SENTID: 13
+SENT: Spoon salsa over the casserole in decorative swirls or lines .
+PREDID: 0
+PRED: spoon
+  DOBJ: salsa
+  PARG: the casserole
+    PREP: over
+  PARG: decorative swirls or lines
+    PREP: in
+
+
+SENTID: 14
+SENT: Bake in the preheated oven until the top has begun to brown and the casserole is bubbling , 30 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the top has begun to brown, the casserole is bubbling , 30 to 45 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Let the casserole rest about 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: the casserole rest
+  PARG: 10 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+

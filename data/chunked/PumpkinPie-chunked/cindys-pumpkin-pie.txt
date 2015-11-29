@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C. -RRB- Place ice cream near the warm oven to soften .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c. -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: place
+  DOBJ: ice cream
+  PARG: the warm oven
+    PREP: near
+  OARG: to soften
+
+
+SENTID: 1
+SENT: In a large bowl , whisk together the eggs .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in the pumpkin puree , sugar , salt , cinnamon , ginger , and nutmeg .
+PREDID: 0
+PRED: stir
+  PARG: the pumpkin puree , sugar , salt , cinnamon , ginger , nutmeg
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix in soft ice cream until smooth .
+PREDID: 0
+PRED: mix
+  PARG: soft ice cream
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour filling into two 9 inch pie shells .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: two 9 inch pie shells
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake for 15 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 15 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 6
+SENT: Reduce temperature to 350 degrees F -LRB- 175 degrees C -RRB- , and bake an additional 30 to 40 minutes , or until filling is set .
+PREDID: 0
+PRED: reduce
+  DOBJ: temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: filling is set
+    PREP: until
+  OARG: an additional 30 to 40 minutes
+

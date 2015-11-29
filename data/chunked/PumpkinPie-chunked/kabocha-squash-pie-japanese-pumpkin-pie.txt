@@ -1,0 +1,228 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir the graham cracker crumbs together with the flour in a mixing bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the graham cracker crumbs
+  PARG: the flour
+    PREP: with
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Mix in the soy butter until the mixture is crumbly .
+PREDID: 0
+PRED: mix
+  PARG: the soy butter
+    PREP: in
+  PARG: the mixture is crumbly
+    PREP: until
+
+
+SENTID: 3
+SENT: Make a well in the middle of the flour mixture .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the middle of the flour mixture
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour in the soy milk , and stir to make a soft dough .
+PREDID: 0
+PRED: pour
+  PARG: the soy milk
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: make a soft dough
+    PREP: to
+
+
+SENTID: 5
+SENT: Turn the dough out onto a lightly floured surface , and knead briefly .
+PREDID: 0
+PRED: turn
+  DOBJ: the dough
+  PARG: onto a lightly floured surface
+    PREP: out
+
+PREDID: 1
+PRED: knead
+  DOBJ: briefly
+
+
+SENTID: 6
+SENT: Wrap in plastic wrap , and refrigerate for about 20 minutes .
+PREDID: 0
+PRED: wrap
+  PARG: plastic wrap
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  PARG: about 20 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Roll out the dough onto a lightly floured surface to about 1/4 inch thick .
+PREDID: 0
+PRED: roll
+  PARG: the dough
+    PREP: out
+  PARG: a lightly floured surface
+    PREP: onto
+  PARG: about 1/4 inch thick
+    PREP: to
+
+
+SENTID: 8
+SENT: Fit the crust into a 7 inch diameter pie plate .
+PREDID: 0
+PRED: fit
+  DOBJ: the crust
+  PARG: a 7 inch diameter pie plate
+    PREP: into
+
+
+SENTID: 9
+SENT: Use a fork to poke holes in the bottom .
+PREDID: 0
+PRED: use
+  DOBJ: a fork
+  PARG: poke holes
+    PREP: to
+  PARG: the bottom
+    PREP: in
+
+
+SENTID: 10
+SENT: Bake the crust in the preheated oven until pale gold , about 15 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the crust
+  PARG: the preheated oven
+    PREP: in
+  PARG: pale gold , about 15 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Cool on a rack .
+PREDID: 0
+PRED: cool
+  PARG: a rack
+    PREP: on
+
+
+SENTID: 12
+SENT: Pour about 1 inch of water into the bottom of a pan .
+PREDID: 0
+PRED: pour
+  PARG: 1 inch of water
+    PREP: about
+  PARG: the bottom of a pan
+    PREP: into
+
+
+SENTID: 13
+SENT: Place the kabocha into a steamer basket fitted into the pan .
+PREDID: 0
+PRED: place
+  DOBJ: the kabocha
+  PARG: a steamer basket fitted
+    PREP: into
+  PARG: the pan
+    PREP: into
+
+
+SENTID: 14
+SENT: Bring to a boil , then reduce heat to medium , cover , and steam the squash until tender and easily pierced with a fork , about 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 2
+PRED: cover
+
+PREDID: 3
+PRED: steam
+  DOBJ: the squash
+  PARG: tender, easily pierced with a fork , about 15 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 16
+SENT: Place the kabocha into a blender or bowl of a food processer , and blend until smooth .
+PREDID: 0
+PRED: place
+  DOBJ: the kabocha
+  PARG: a blender or bowl of a food processer , blend
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 17
+SENT: Stir the tofu , vanilla , sugar , cinnamon , and nutmeg into the kabocha mixture , and blend until very smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: the tofu , vanilla , sugar , cinnamon , nutmeg
+  PARG: the kabocha mixture
+    PREP: into
+
+PREDID: 1
+PRED: blend
+  PARG: very smooth
+    PREP: until
+
+
+SENTID: 18
+SENT: Pour into the prepared crust .
+PREDID: 0
+PRED: pour
+  PARG: the prepared crust
+    PREP: into
+
+
+SENTID: 19
+SENT: Bake in preheated oven until center is set , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: center is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 20 minutes
+    PREP: about
+

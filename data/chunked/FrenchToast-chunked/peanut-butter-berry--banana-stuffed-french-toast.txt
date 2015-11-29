@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Stir together fruit syrup and peanut butter until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: fruit syrup, peanut butter
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Add softened cream cheese .
+PREDID: 0
+PRED: add
+  DOBJ: softened cream cheese
+
+
+SENTID: 2
+SENT: Stir until blended .
+PREDID: 0
+PRED: stir
+  PARG: blended
+    PREP: until
+
+
+SENTID: 3
+SENT: Spread mixture evenly on 8 slices of bread .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: 8 slices of bread
+    PREP: on
+  OARG: evenly
+
+
+SENTID: 4
+SENT: Place banana slices on top of 4 slices of bread .
+PREDID: 0
+PRED: place
+  DOBJ: banana slices
+  PARG: top of 4 slices of bread
+    PREP: on
+
+
+SENTID: 5
+SENT: Top with peanut butter covered bread slices to make 4 sandwiches .
+PREDID: 0
+PRED: top
+  PARG: peanut butter covered bread slices
+    PREP: with
+  PARG: make 4 sandwiches
+    PREP: to
+
+
+SENTID: 6
+SENT: Whisk together eggs and milk in a shallow bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs, milk
+  PARG: a shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Melt butter in skillet or on griddle over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: skillet
+    PREP: in
+  PARG: griddle
+    PREP: on
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Dip both sides of each `` sandwich '' in egg mixture , letting it soak in slightly .
+PREDID: 0
+PRED: dip
+  DOBJ: both sides of each `` sandwich
+  PARG: egg mixture , letting it soak
+    PREP: in
+  PARG: slightly
+    PREP: in
+
+
+SENTID: 9
+SENT: Cook in hot skillet or on griddle , 2 minutes or until golden brown .
+PREDID: 0
+PRED: cook
+  PARG: hot skillet
+    PREP: in
+  PARG: griddle , 2 minutes
+    PREP: on
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 10
+SENT: Turn , cooking another 2 minutes or until golden .
+PREDID: 0
+PRED: turn
+  PARG: golden
+    PREP: until
+  OARG: cooking another 2 minutes
+
+
+SENTID: 11
+SENT: Serve immediately topped with additional strawberry syrup and whipped cream , if desired .
+PREDID: 0
+PRED: serve
+  DOBJ: topped
+  PARG: additional strawberry syrup, whipped cream
+    PREP: with
+  PARG: desired
+    PREP: if
+  OARG: immediately
+

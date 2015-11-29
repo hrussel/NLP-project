@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: Combine the coleslaw mix and onion in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the coleslaw mix, onion
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk together the salad dressing , vegetable oil , sugar , vinegar , salt , and poppy seeds in a medium bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the salad dressing , vegetable oil , sugar , vinegar , salt , poppy seeds
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: blend thoroughly .
+PREDID: 0
+PRED: blend
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Pour dressing mixture over coleslaw mix and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing mixture
+  PARG: coleslaw mix
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Chill at least 2 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

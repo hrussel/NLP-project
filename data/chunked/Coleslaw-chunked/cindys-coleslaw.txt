@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: Place coleslaw mix in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: coleslaw mix
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Combine mayonnaise , sugar , vinegar , onion powder , salt , and pepper in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: mayonnaise , sugar , vinegar , onion powder , salt , pepper
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour mayonnaise mixture over coleslaw mix and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: mayonnaise mixture
+  PARG: coleslaw mix
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Refrigerate for at least 30 minutes ;
+PREDID: 0
+PRED: refrigerate
+  PARG: at least 30 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: serve with a slotted spoon .
+PREDID: 0
+PRED: serve
+  PARG: a slotted spoon
+    PREP: with
+

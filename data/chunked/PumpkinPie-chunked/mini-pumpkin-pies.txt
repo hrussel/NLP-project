@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Roll each pie crust out onto a floured surface to a rough rectangle about 11 inches square .
+PREDID: 0
+PRED: roll
+  DOBJ: each pie crust
+  PARG: onto a floured surface
+    PREP: out
+  PARG: a rough rectangle
+    PREP: to
+  PARG: 11 inches square
+    PREP: about
+
+
+SENTID: 2
+SENT: Cut each pie crust into 12 3-inch rounds .
+PREDID: 0
+PRED: cut
+  DOBJ: each pie crust
+  PARG: 12 3-inch rounds
+    PREP: into
+
+
+SENTID: 3
+SENT: Fit the little pie crust circles into 24 mini pie dishes .
+PREDID: 0
+PRED: fit
+  DOBJ: the little pie crust circles
+  PARG: 24 mini pie dishes
+    PREP: into
+
+
+SENTID: 4
+SENT: Separate one egg , and place the egg white into a small bowl .
+PREDID: 0
+PRED: separate
+  DOBJ: one egg
+
+PREDID: 1
+PRED: place
+  DOBJ: the egg white
+  PARG: a small bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Beat the egg white until slightly frothy , and brush the edges of each mini pie crust with egg white .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg white
+  PARG: slightly frothy
+    PREP: until
+
+PREDID: 1
+PRED: brush
+  DOBJ: the edges of each mini pie crust
+  PARG: egg white
+    PREP: with
+
+
+SENTID: 6
+SENT: Place the remaining yolk into a bowl , and beat with remaining 2 eggs .
+PREDID: 0
+PRED: place
+  DOBJ: the remaining yolk
+  PARG: a bowl
+    PREP: into
+
+PREDID: 1
+PRED: beat
+  PARG: remaining 2 eggs
+    PREP: with
+
+
+SENTID: 7
+SENT: Mix the softened cream cheese , sugar , pumpkin , vanilla extract , and pumpkin pie spice into the eggs to make a smooth filling .
+PREDID: 0
+PRED: mix
+  DOBJ: the softened cream cheese , sugar , pumpkin , vanilla extract , pumpkin pie spice
+  PARG: the eggs
+    PREP: into
+  PARG: make a smooth filling
+    PREP: to
+
+
+SENTID: 8
+SENT: Spoon about 2 tablespoons of the filling into each crust .
+PREDID: 0
+PRED: spoon
+  PARG: 2 tablespoons of the filling
+    PREP: about
+  PARG: each crust
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake the pies in the preheated oven until the crust edges are golden brown and the filling is set , about 15 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the pies
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust edges are golden brown, the filling is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 15 minutes
+    PREP: about
+
+
+SENTID: 10
+SENT: Allow to cool before eating .
+PREDID: 0
+PRED: allow
+  PARG: eating
+    PREP: before
+  OARG: to cool
+

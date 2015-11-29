@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease the bottom and sides of 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: the bottom, sides of 9x13 inch baking dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a rolling boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the lasagna noodles at a boil until tender yet firm to the bite , about 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the lasagna noodles
+  PARG: a boil
+    PREP: at
+  PARG: tender yet firm to the bite , about 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 5
+SENT: Cook and stir ground beef , onion , mushrooms , and garlic in a skillet over medium heat until the beef is completely browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onion , mushrooms , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the beef is completely browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir canned tomatoes into ground beef ;
+PREDID: 0
+PRED: stir
+  DOBJ: canned tomatoes
+  PARG: ground beef
+    PREP: into
+
+
+SENTID: 7
+SENT: simmer until sauce has formed , 3 to 4 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: sauce has formed , 3 to 4 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour about one-fourth of the sauce into the bottom of the prepared baking dish .
+PREDID: 0
+PRED: pour
+  PARG: one-fourth of the sauce
+    PREP: about
+  PARG: the bottom of the prepared baking dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Layer noodles on top of sauce .
+PREDID: 0
+PRED: layer
+  DOBJ: noodles
+  PARG: top of sauce
+    PREP: on
+
+
+SENTID: 10
+SENT: Spread a thin layer of sauce on top of noodles .
+PREDID: 0
+PRED: spread
+  DOBJ: a thin layer of sauce
+  PARG: top of noodles
+    PREP: on
+
+
+SENTID: 11
+SENT: Place a layer of eggplant slices on top of noodle and sauce layer .
+PREDID: 0
+PRED: place
+  DOBJ: a layer of eggplant slices
+  PARG: top of noodle, sauce layer
+    PREP: on
+
+
+SENTID: 12
+SENT: Sprinkle about one-fourth of the cheese on top of eggplant slices .
+PREDID: 0
+PRED: sprinkle
+  PARG: one-fourth of the cheese
+    PREP: about
+  PARG: top of eggplant slices
+    PREP: on
+
+
+SENTID: 13
+SENT: Repeat layering with remaining ingredients , until ending with a layer of sauce topped with remaining cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: layering
+  PARG: remaining ingredients
+    PREP: with
+  PARG: ending with a layer of sauce topped with remaining cheese
+    PREP: until
+
+
+SENTID: 14
+SENT: Bake in preheated oven until cheese is bubbly and brown on top , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: cheese is bubbly
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: top
+    PREP: on
+  PARG: 40 minutes
+    PREP: about
+

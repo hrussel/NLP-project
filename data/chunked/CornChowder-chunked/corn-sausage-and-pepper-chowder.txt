@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: In a large pot over medium heat , melt butter .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook onion , garlic , and bell peppers in butter until tender , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion , garlic , bell peppers
+  PARG: butter
+    PREP: in
+  PARG: tender , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in broth , potatoes , pepper and cumin and bring to a boil .
+PREDID: 0
+PRED: stir
+  PARG: broth , potatoes , pepper, cumin
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Reduce heat and simmer 20 minutes , until potatoes are tender .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: potatoes are tender
+    PREP: until
+  OARG: 20 minutes
+
+
+SENTID: 4
+SENT: Place half the corn in a blender or food processor and puree until smooth .
+PREDID: 0
+PRED: place
+  DOBJ: half the corn
+  PARG: a blender or food processor
+    PREP: in
+
+PREDID: 1
+PRED: puree
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir pureed corn , remaining whole corn , kielbasa , milk and cream into soup .
+PREDID: 0
+PRED: stir
+  DOBJ: pureed corn , remaining whole corn , kielbasa , milk, cream
+  PARG: soup
+    PREP: into
+
+
+SENTID: 6
+SENT: Simmer 20 minutes more .
+PREDID: 0
+PRED: simmer
+  OARG: 20 minutes more
+

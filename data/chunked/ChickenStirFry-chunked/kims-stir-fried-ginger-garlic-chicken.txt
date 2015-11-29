@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Slice the chicken breasts into strips across the grain , and set aside .
+PREDID: 0
+PRED: slice
+  DOBJ: the chicken breasts
+  PARG: strips
+    PREP: into
+  PARG: the grain
+    PREP: across
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: Peel and grate the ginger root and set aside .
+PREDID: 0
+PRED: peel
+  DOBJ: the ginger root
+
+PREDID: 1
+PRED: grate
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat the coconut oil in a wok over medium-high heat until the oil is melted and hot .
+PREDID: 0
+PRED: heat
+  DOBJ: the coconut oil
+  PARG: a wok
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: the oil is melted, hot
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in the ginger and garlic , and cook and stir for about 20 seconds , to release the flavor .
+PREDID: 0
+PRED: stir
+  PARG: the ginger, garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: about 20 seconds
+    PREP: for
+
+PREDID: 2
+PRED: stir
+  PARG: release the flavor
+    PREP: to
+
+
+SENTID: 4
+SENT: Toss the chicken strips into the hot oil , and scoop the hoisin sauce over the chicken .
+PREDID: 0
+PRED: toss
+  DOBJ: the chicken strips
+  PARG: the hot oil
+    PREP: into
+
+PREDID: 1
+PRED: scoop
+  DOBJ: the hoisin sauce
+  PARG: the chicken
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook and stir for 5 to 7 minutes , until the sauce coats the chicken and the meat is no longer pink inside .
+PREDID: 0
+PRED: cook
+  PARG: 5 to 7 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+  PARG: the sauce coats the chicken, the meat is no longer pink inside
+    PREP: until
+

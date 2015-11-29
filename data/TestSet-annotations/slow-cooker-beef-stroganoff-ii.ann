@@ -1,0 +1,65 @@
+T1	predicate 0 4	Heat
+T2	predicate 51 55	Roll
+T3	predicate 78 83	saute
+T4	predicate 136 144	Transfer
+T5	predicate 177 180	top
+T6	predicate 216 220	Cook
+T7	predicate 250 257	Stir in
+T8	predicate 301 305	Cook
+T9	predicate 355 360	Serve
+T10	arg_object 5 8	oil
+T11	arg_location 9 27	in a large skillet
+T12	arg_other 28 49	over medium high heat
+T13	ingredient 5 8	oil
+R1	object Arg1:T1 Arg2:T10	
+R2	location Arg1:T1 Arg2:T11	
+R3	other Arg1:T1 Arg2:T12	
+T14	arg_object 56 64	the beef
+T15	ingredient 56 64	the beef
+T16	arg_object 65 73	in flour
+T17	ingredient 65 73	in flour
+R4	object Arg1:T2 Arg2:T14	
+R5	object Arg1:T2 Arg2:T16	
+R6	object Arg1:T3 Arg2:T2	
+T18	arg_co-object 84 98	in the hot oil
+T19	Evolution 87 98	the hot oil
+E1	Evolution:T19 Cause:T1
+R7	co-object Arg1:T3 Arg2:T18	
+T20	arg_duration 99 134	until well browned, about 5 minutes
+R8	duration Arg1:T3 Arg2:T20	
+T21	arg_object 145 153	the meat
+T22	Evolution 145 153	the meat
+E2	Evolution:T22 Cause:T3
+R9	object Arg1:T4 Arg2:T21	
+T23	arg_location 154 172	to the slow cooker
+R10	location Arg1:T4 Arg2:T23	
+R11	object Arg1:T5 Arg2:T4	
+T24	arg_co-object 181 214	with the soup, water and bouillon
+T25	ingredient 186 194	the soup
+T26	ingredient 196 201	water
+T27	ingredient 206 214	bouillon
+R12	co-object Arg1:T5 Arg2:T24	
+R13	object Arg1:T6 Arg2:T5	
+T28	arg_other 221 236	on high setting
+T29	arg_duration 237 248	for 8 hours
+R14	other Arg1:T6 Arg2:T28	
+R15	duration Arg1:T6 Arg2:T29	
+T30	arg_object 258 272	the sour cream
+T31	ingredient 258 272	the sour cream
+R16	object Arg1:T7 Arg2:T30	
+R17	co-object Arg1:T7 Arg2:T6	
+T32	arg_other 273 299	during the last 30 minutes
+R18	other Arg1:T7 Arg2:T32	
+T33	arg_object 306 321	the egg noodles
+T34	ingredient 306 321	the egg noodles
+R19	object Arg1:T8 Arg2:T33	
+T35	arg_other 322 353	according to package directions
+R20	other Arg1:T8 Arg2:T35	
+T36	arg_object 361 369	the meat
+T37	Evolution 361 369	the meat
+E3	Evolution:T37 Cause:T7
+R21	object Arg1:T9 Arg2:T36	
+T38	arg_co-object 370 386	over the noodles
+T39	Evolution 375 386	the noodles
+E4	Evolution:T39 Cause:T8
+R22	co-object Arg1:T9 Arg2:T38	

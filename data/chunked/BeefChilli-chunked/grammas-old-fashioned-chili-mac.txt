@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Bring a pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a small saucepan , simmer celery and green pepper with water to cover until tender ;
+PREDID: 0
+PRED: simmer
+  DOBJ: celery, green pepper
+  PARG: a small saucepan
+    PREP: in
+  PARG: water
+    PREP: with
+  PARG: cover
+    PREP: to
+  PARG: tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Place ground beef in a large heavy skillet over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large heavy skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 7
+SENT: Add onion , and cook until tender and translucent .
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+PREDID: 1
+PRED: cook
+  PARG: tender, translucent
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 9
+SENT: Add celery and green pepper .
+PREDID: 0
+PRED: add
+  DOBJ: celery, green pepper
+
+
+SENTID: 10
+SENT: Stir in kidney beans , condensed tomato soup , diced tomatoes and brown sugar .
+PREDID: 0
+PRED: stir
+  PARG: kidney beans , condensed tomato soup , diced tomatoes, brown sugar
+    PREP: in
+
+
+SENTID: 11
+SENT: Season with salt and pepper , and stir in macaroni .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: macaroni
+    PREP: in
+

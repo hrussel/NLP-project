@@ -1,0 +1,155 @@
+T1	predicate 0 6	Divide
+T2	arg_object 7 18	ground beef
+T3	arg_other 19 33	into 4 patties
+T4	predicate 35 43	sprinkle
+T5	arg_co-object 44 70	with salt and black pepper
+T6	predicate 76 85	set aside
+R1	object Arg1:T1 Arg2:T2	
+R2	other Arg1:T1 Arg2:T3	
+R3	object Arg1:T4 Arg2:T1	
+R4	co-object Arg1:T4 Arg2:T5	
+R5	object Arg1:T6 Arg2:T4	
+T7	predicate 87 92	Place
+T8	arg_object 93 98	bacon
+T9	arg_location 99 117	in a large skillet
+T10	predicate 122 126	cook
+T11	arg_other 127 148	over medium-high heat
+T13	arg_duration 172 192	until evenly browned
+T12	arg_duration 194 210	about 10 minutes
+R6	object Arg1:T7 Arg2:T8	
+R7	location Arg1:T7 Arg2:T9	
+R8	object Arg1:T10 Arg2:T7	
+R9	other Arg1:T10 Arg2:T11	
+R10	duration Arg1:T10 Arg2:T13	
+R11	duration Arg1:T10 Arg2:T12	
+T14	predicate 212 217	Drain
+T15	arg_object 218 234	the bacon slices
+T16	Evolution 218 234	the bacon slices
+E1	Evolution:T16 Cause:T10
+T17	arg_location 235 250	on paper towels
+R12	object Arg1:T14 Arg2:T15	
+R13	location Arg1:T14 Arg2:T17	
+T18	predicate 255 259	keep
+T19	arg_other 260 264	warm
+R14	other Arg1:T18 Arg2:T19	
+R15	object Arg1:T18 Arg2:T14	
+T20	predicate 266 270	Cook
+T21	arg_object 271 276	onion
+T22	arg_location 277 299	in the bacon drippings
+T23	arg_duration 300 321	until lightly browned
+T24	arg_duration 323 339	about 10 minutes
+T25	predicate 357 365	sprinkle
+T26	arg_co-object 366 376	with sugar
+R16	co-object Arg1:T25 Arg2:T26	
+T27	Evolution 280 299	the bacon drippings
+E2	Evolution:T27 Cause:T10
+R17	object Arg1:T20 Arg2:T21	
+R18	location Arg1:T20 Arg2:T22	
+R19	duration Arg1:T20 Arg2:T23	
+R20	duration Arg1:T20 Arg2:T24	
+R21	object Arg1:T25 Arg2:T20	
+T28	predicate 403 406	Set
+T29	arg_object 407 412	onion
+T30	arg_other 413 418	aside
+R22	object Arg1:T28 Arg2:T29	
+R23	other Arg1:T28 Arg2:T30	
+R24	object Arg1:T28 Arg2:T25	
+T31	predicate 420 423	Set
+T32	arg_object 424 433	oven rack
+T33	arg_location 434 469	about 6 inches from the heat source
+T34	predicate 474 481	preheat
+T35	arg_object 482 500	the oven's broiler
+R25	object Arg1:T34 Arg2:T35	
+R26	object Arg1:T31 Arg2:T32	
+R27	location Arg1:T31 Arg2:T33	
+T36	predicate 502 506	Open
+T37	arg_object 507 521	hamburger buns
+R28	object Arg1:T36 Arg2:T37	
+T38	predicate 526 531	place
+T39	arg_location 532 551	onto a baking sheet
+T40	arg_other 552 569	with cut sides up
+T41	predicate 571 576	toast
+T42	arg_location 577 594	under the broiler
+T43	arg_duration 595 608	until browned
+T44	arg_duration 610 624	1 to 2 minutes
+R29	object Arg1:T38 Arg2:T36	
+R30	location Arg1:T38 Arg2:T39	
+R31	object Arg1:T41 Arg2:T38	
+R32	location Arg1:T41 Arg2:T42	
+R33	duration Arg1:T41 Arg2:T43	
+R34	duration Arg1:T41 Arg2:T44	
+T45	Evolution 583 594	the broiler
+E3	Evolution:T45 Cause:T34
+T46	predicate 626 629	Set
+T47	arg_object 630 634	buns
+T48	arg_other 635 640	aside
+R35	other Arg1:T46 Arg2:T48	
+R36	object Arg1:T46 Arg2:T47	
+T49	Evolution 630 634	buns
+E4	Evolution:T49 Cause:T41
+T50	predicate 642 649	Pan fry
+T51	arg_object 650 669	ground beef patties
+T52	arg_location 670 699	in the same skillet as onions
+T53	arg_duration 700 738	until browned and the juices run clear
+T54	arg_duration 740 763	5 to 8 minutes per side
+R37	object Arg1:T50 Arg2:T51	
+R38	location Arg1:T50 Arg2:T52	
+R39	duration Arg1:T50 Arg2:T53	
+R40	duration Arg1:T50 Arg2:T54	
+T55	predicate 886 891	Place
+T56	arg_object 892 917	a slice of Cheddar cheese
+T57	arg_co-object 918 933	onto each patty
+T58	predicate 938 943	allow
+T59	arg_object 944 950	cheese
+T60	arg_duration 951 958	to melt
+R41	object Arg1:T58 Arg2:T59	
+R42	duration Arg1:T58 Arg2:T60	
+R43	object Arg1:T55 Arg2:T56	
+R44	co-object Arg1:T55 Arg2:T57	
+R45	object Arg1:T58 Arg2:T55	
+T61	Evolution 923 933	each patty
+E5	Evolution:T61 Cause:T50
+T62	predicate 973 979	spread
+T63	arg_object 980 993	peanut butter
+T64	arg_co-object 994 1020	onto bottom halves of buns
+T65	predicate 1022 1028	spread
+T66	arg_object 1029 1036	ketchup
+T67	arg_co-object 1037 1052	onto top halves
+T68	Evolution 1042 1052	top halves
+E6	Evolution:T68 Cause:T62
+T69	Evolution 999 1020	bottom halves of buns
+E7	Evolution:T69 Cause:T46
+T70	predicate 1054 1057	Top
+T71	arg_object 1058 1075	the peanut butter
+R46	object Arg1:T70 Arg2:T71	
+T73	Evolution 1131 1147	a slice of bacon
+E8	Evolution:T73 Cause:T18
+T74	Evolution 1110 1129	burgers with cheese
+E9	Evolution:T74 Cause:T58
+T75	Evolution 1096 1108	cooked onion
+E10	Evolution:T75 Cause:T28
+T76	Evolution 650 669	ground beef patties
+E11	Evolution:T76 Cause:T6
+R48	object Arg1:T65 Arg2:T66	
+R49	object Arg1:T62 Arg2:T63	
+R50	co-object Arg1:T62 Arg2:T64	
+R51	co-object Arg1:T65 Arg2:T67	
+T72	arg_co-object 1076 1219	with pickle slices, cooked onion, burgers with cheese, a slice of bacon, several tomato slices, and about 1/4 cup shredded lettuce per sandwich
+R47	co-object Arg1:T70 Arg2:T72	
+T77	Evolution 1058 1075	the peanut butter
+E12	Evolution:T77 Cause:T65
+T78	ingredient 7 18	ground beef
+T79	ingredient 49 53	salt
+T80	ingredient 58 70	black pepper
+T81	ingredient 93 98	bacon
+T82	ingredient 271 276	onion
+T83	ingredient 371 376	sugar
+T84	ingredient 507 521	hamburger buns
+R52	same-location Arg1:T52 Arg2:T22	
+T85	ingredient 892 917	a slice of Cheddar cheese
+T86	ingredient 980 993	peanut butter
+T87	ingredient 1029 1036	ketchup
+T88	ingredient 1081 1094	pickle slices
+T89	ingredient 1149 1170	several tomato slices
+T90	ingredient 1176 1206	about 1/4 cup shredded lettuce
+R53	co-object Arg1:T14 Arg2:T10	

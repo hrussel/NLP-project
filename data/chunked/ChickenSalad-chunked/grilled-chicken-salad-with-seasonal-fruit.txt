@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: the grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Lightly oil the grill grate .
+PREDID: 0
+PRED: oil
+  DOBJ: the grill grate
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Grill chicken 8 minutes on each side , or until juices run clear .
+PREDID: 0
+PRED: grill
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+  OARG: chicken 8 minutes
+
+
+SENTID: 3
+SENT: Remove from heat , cool , and slice .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: slice
+
+
+SENTID: 4
+SENT: Meanwhile , place pecans in a dry skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: pecans
+  PARG: a dry skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Cook pecans until fragrant , stirring frequently , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: pecans
+  PARG: fragrant , stirring frequently , about 8 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove from heat , and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: In a blender , combine the red wine vinegar , sugar , vegetable oil , onion , mustard , salt , and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: the red wine vinegar , sugar , vegetable oil , onion , mustard , salt , pepper
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 8
+SENT: Process until smooth .
+PREDID: 0
+PRED: process
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 9
+SENT: Arrange lettuce on serving plates .
+PREDID: 0
+PRED: arrange
+  DOBJ: lettuce
+  PARG: serving plates
+    PREP: on
+
+
+SENTID: 10
+SENT: Top with grilled chicken slices , strawberries , and pecans .
+PREDID: 0
+PRED: top
+  PARG: grilled chicken slices , strawberries , pecans
+    PREP: with
+
+
+SENTID: 11
+SENT: Drizzle with the dressing to serve .
+PREDID: 0
+PRED: drizzle
+  PARG: the dressing
+    PREP: with
+  PARG: serve
+    PREP: to
+

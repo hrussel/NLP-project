@@ -1,0 +1,291 @@
+SENTID: 0
+SENT: Place cold eggs from refrigerator into a large pot and add enough cold water to cover eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: cold eggs
+  PARG: refrigerator
+    PREP: from
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: cold water
+  PARG: cover eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+  OARG: enough
+
+
+SENTID: 1
+SENT: Place over high heat , bring to a simmer , and cover pot once eggs start to move around .
+PREDID: 0
+PRED: place
+  PARG: high heat
+    PREP: over
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: cover
+  DOBJ: eggs
+  OARG: once
+  OARG: pot
+
+PREDID: 3
+PRED: start
+  DOBJ: around
+  PARG: move
+    PREP: to
+
+
+SENTID: 2
+SENT: Remove from heat and let stand for 17 minutes .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: 17 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain hot water from pan , cover with lid , and shake pot to lightly crack eggs .
+PREDID: 0
+PRED: drain
+  DOBJ: hot water
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: cover
+  PARG: lid
+    PREP: with
+
+PREDID: 2
+PRED: shake
+  DOBJ: pot
+  OARG: to lightly crack eggs
+
+
+SENTID: 4
+SENT: Fill pot with cold water , pour off cold water , and refill with more cold water .
+PREDID: 0
+PRED: fill
+  DOBJ: pot
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: pour
+  PARG: cold water , refill
+    PREP: off
+  PARG: more cold water
+    PREP: with
+
+
+SENTID: 5
+SENT: Let eggs stand in water until cold .
+PREDID: 0
+PRED: let
+  DOBJ: eggs stand
+  PARG: water
+    PREP: in
+  PARG: cold
+    PREP: until
+
+
+SENTID: 6
+SENT: Peel eggs and cut in half lengthwise .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+PREDID: 1
+PRED: cut
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 7
+SENT: Separate yolks from egg halves ;
+PREDID: 0
+PRED: separate
+  DOBJ: yolks
+  PARG: egg halves
+    PREP: from
+
+
+SENTID: 8
+SENT: place yolks into a mixing bowl .
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a mixing bowl
+    PREP: into
+
+
+SENTID: 9
+SENT: Place crab meat onto a plate and separate into 2 equal portions , one containing the small bits and one containing the attractive larger pink chunks .
+PREDID: 0
+PRED: place
+  DOBJ: crab meat
+  PARG: a plate
+    PREP: onto
+
+PREDID: 1
+PRED: separate
+  PARG: 2 equal portions , one containing the small bits, one containing the attractive larger pink chunks
+    PREP: into
+
+
+SENTID: 10
+SENT: Reserve portion containing larger chunks .
+PREDID: 0
+PRED: reserve
+  DOBJ: portion containing larger chunks
+
+
+SENTID: 11
+SENT: Chop the portion of crab meat with the smaller chunks ;
+PREDID: 0
+PRED: chop
+  DOBJ: the portion of crab meat
+  PARG: the smaller chunks
+    PREP: with
+
+
+SENTID: 12
+SENT: add to egg yolks .
+PREDID: 0
+PRED: add
+  PARG: egg yolks
+    PREP: to
+
+
+SENTID: 13
+SENT: Mash yolks with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 14
+SENT: Stir in mayonnaise , tarragon , Dijon mustard , lemon juice , hot pepper sauce , seafood seasoning , Worcestershire sauce , salt , and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise , tarragon , dijon mustard , lemon juice , hot pepper sauce , seafood seasoning , worcestershire sauce , salt , black pepper
+    PREP: in
+
+
+SENTID: 15
+SENT: Transfer yolk mixture into a piping bag fitted with a medium tip .
+PREDID: 0
+PRED: transfer
+  DOBJ: yolk mixture
+  PARG: a piping bag fitted
+    PREP: into
+  PARG: a medium
+    PREP: with
+
+PREDID: 1
+PRED: tip
+
+
+SENTID: 16
+SENT: Pipe crab filling into cavities of egg halves .
+PREDID: 0
+PRED: pipe
+  DOBJ: crab filling
+  PARG: cavities of egg halves
+    PREP: into
+
+
+SENTID: 17
+SENT: Chop largest crab pieces and place remaining crabmeat into a small bowl .
+PREDID: 0
+PRED: chop
+  DOBJ: largest crab pieces
+
+PREDID: 1
+PRED: place
+  DOBJ: remaining crabmeat
+  PARG: a small bowl
+    PREP: into
+
+
+SENTID: 18
+SENT: Lightly stir in lemon zest , creme fraiche , Aleppo pepper , and cayenne pepper with a fork .
+PREDID: 0
+PRED: stir
+  PARG: lemon zest , creme fraiche , aleppo pepper , cayenne pepper
+    PREP: in
+  PARG: a fork
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 19
+SENT: Taste and adjust salt .
+PREDID: 0
+PRED: taste
+  DOBJ: salt
+
+PREDID: 1
+PRED: adjust
+
+
+SENTID: 20
+SENT: If mixture seems dry , stir in more creme fraiche .
+PREDID: 0
+PRED: stir
+  PARG: mixture seems dry
+    PREP: if
+  PARG: more creme fraiche
+    PREP: in
+
+
+SENTID: 21
+SENT: Top each stuffed egg with a generous pinch of crab mixture .
+PREDID: 0
+PRED: top
+  DOBJ: each stuffed egg
+  PARG: a generous pinch of crab mixture
+    PREP: with
+
+
+SENTID: 22
+SENT: Sprinkle each deviled egg with a pinch of chives and a light dusting of cayenne pepper .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: each deviled egg
+  PARG: a pinch of chives, a light dusting of cayenne pepper
+    PREP: with
+
+
+SENTID: 23
+SENT: Transfer eggs to a serving platter ;
+PREDID: 0
+PRED: transfer
+  DOBJ: eggs
+  PARG: a serving platter
+    PREP: to
+
+
+SENTID: 24
+SENT: refrigerate until serving time .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving time
+    PREP: until
+

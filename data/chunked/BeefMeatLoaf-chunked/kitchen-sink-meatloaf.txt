@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 5x9 inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 5x9 inch loaf pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a bowl , stir together the egg , ketchup , barbeque sauce , steak sauce , Worcestershire sauce , brown sugar , onion , and garlic , seasoned salt , and salt and pepper .
+PREDID: 0
+PRED: stir
+  DOBJ: the egg , ketchup , barbeque sauce , steak sauce , worcestershire sauce , brown sugar , onion , garlic , seasoned salt , salt, pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Mix in ground beef , bread crumbs , and Cheddar cheese .
+PREDID: 0
+PRED: mix
+  PARG: ground beef , bread crumbs , cheddar cheese
+    PREP: in
+
+
+SENTID: 4
+SENT: Spread into the loaf pan .
+PREDID: 0
+PRED: spread
+  PARG: the loaf pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake 55 minutes in the preheated oven , to a minimum internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a minimum internal temperature of 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: to
+  OARG: 55 minutes
+

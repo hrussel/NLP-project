@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: Brown ground beef in skillet with onions .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: skillet
+    PREP: in
+  PARG: onions
+    PREP: with
+
+
+SENTID: 1
+SENT: Drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 2
+SENT: Place the whole peppercorns , bay leaves , small red peppers , and crushed red pepper in a spice bag .
+PREDID: 0
+PRED: place
+  DOBJ: the whole peppercorns , bay leaves , small red peppers , crushed red pepper
+  PARG: a spice bag
+    PREP: in
+
+
+SENTID: 3
+SENT: In a large pot combine the garlic , tomato paste , water , chili powder , ground red pepper , vinegar , cinnamon , allspice , Worcestershire sauce and salt with the ground beef , onions and spice bag .
+PREDID: 0
+PRED: combine
+  DOBJ: the garlic , tomato paste , water , chili powder , ground red pepper , vinegar , cinnamon , allspice , worcestershire sauce, salt
+  PARG: a large pot
+    PREP: in
+  PARG: the ground beef , onions, spice bag
+    PREP: with
+
+
+SENTID: 4
+SENT: Cook over low heat for 3 to 4 hours .
+PREDID: 0
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: 3 to 4 hours
+    PREP: for
+

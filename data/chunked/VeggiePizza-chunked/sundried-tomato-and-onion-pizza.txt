@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a baking sheet .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking sheet
+
+
+SENTID: 2
+SENT: Unroll pizza dough onto the prepared baking sheet .
+PREDID: 0
+PRED: unroll
+  DOBJ: pizza dough
+  PARG: the prepared baking sheet
+    PREP: onto
+
+
+SENTID: 3
+SENT: Flatten into desired thickness .
+PREDID: 0
+PRED: flatten
+  PARG: desired thickness
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake crust in the preheated oven until slightly cooked , 5 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: crust
+  PARG: the preheated oven
+    PREP: in
+  PARG: slightly cooked , 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Heat olive oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: cook and stir garlic until fragrant and sizzling , 1 to 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: garlic
+
+PREDID: 1
+PRED: stir
+  PARG: fragrant, sizzling , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Add onion ;
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+
+SENTID: 8
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 9
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 10
+SENT: Brush pizza crust with leftover oil and garlic from skillet .
+PREDID: 0
+PRED: brush
+  DOBJ: pizza crust
+  PARG: leftover oil, garlic
+    PREP: with
+  PARG: skillet
+    PREP: from
+
+
+SENTID: 11
+SENT: Distribute onion , sun-dried tomatoes , goat cheese , and provolone cheese onto pizza crust .
+PREDID: 0
+PRED: distribute
+  DOBJ: onion , sun-dried tomatoes , goat cheese , provolone cheese
+  PARG: pizza crust
+    PREP: onto
+
+
+SENTID: 12
+SENT: Sprinkle with herbes de Provence .
+PREDID: 0
+PRED: sprinkle
+  PARG: herbes
+    PREP: with
+  PARG: provence
+    PREP: de
+
+
+SENTID: 13
+SENT: Bake pizza in the preheated oven until crust is lightly browned and cheese is melted , 10 to 15 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pizza
+  PARG: the preheated oven
+    PREP: in
+  PARG: crust is lightly browned, cheese is melted , 10 to 15 minutes
+    PREP: until
+

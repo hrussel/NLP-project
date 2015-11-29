@@ -1,0 +1,6 @@
+SENTID: 0
+SENT: Mix all ingredients .
+PREDID: 0
+PRED: mix
+  DOBJ: all ingredients
+

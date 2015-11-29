@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Whisk apple cider vinegar , canola oil , sugar , dry mustard , poppy seeds , black pepper , salt , and hot pepper sauce in a bowl , stirring until sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: apple cider vinegar , canola oil , sugar , dry mustard , poppy seeds , black pepper , salt , hot pepper sauce
+  PARG: a bowl , stirring
+    PREP: in
+  PARG: sugar has dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Mix cabbage with carrots in a large salad bowl and pour dressing over slaw .
+PREDID: 0
+PRED: mix
+  DOBJ: cabbage
+  PARG: carrots
+    PREP: with
+  PARG: a large salad bowl
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: dressing
+  PARG: slaw
+    PREP: over
+
+
+SENTID: 2
+SENT: Stir to coat .
+PREDID: 0
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Refrigerate at least 2 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

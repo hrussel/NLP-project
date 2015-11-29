@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: In a large mixing bowl , combine the eggs , milk , cinnamon , sugar and applesauce ;
+PREDID: 0
+PRED: combine
+  DOBJ: the eggs , milk , cinnamon , sugar, applesauce
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Soak bread one slice at a time until saturated with liquid .
+PREDID: 0
+PRED: soak
+  DOBJ: bread one slice
+  PARG: a time
+    PREP: at
+  PARG: saturated with liquid
+    PREP: until
+
+
+SENTID: 3
+SENT: Cook on a lightly greased skillet or griddle over medium/high heat until lightly browned on both sides .
+PREDID: 0
+PRED: cook
+  PARG: a lightly greased skillet or griddle
+    PREP: on
+  PARG: medium/high heat
+    PREP: over
+  PARG: lightly browned on both sides
+    PREP: until
+
+
+SENTID: 4
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

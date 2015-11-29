@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Mix the chicken , 1 tablespoon of cornstarch , salt , pepper , and 1 pinch of five-spice powder together in a bowl until the chicken is coated , and set aside .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , 1 tablespoon of cornstarch , salt , pepper , 1 pinch of five-spice powder
+  PARG: a bowl
+    PREP: in
+  PARG: the chicken is coated
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: Whisk together water , soy sauce , brown sugar , sesame oil , 1 tablespoon of cornstarch , rice vinegar , and 1 pinch of five-spice powder in a bowl until the mixture is smooth , and set aside .
+PREDID: 0
+PRED: whisk
+  DOBJ: water , soy sauce , brown sugar , sesame oil , 1 tablespoon of cornstarch , rice vinegar , 1 pinch of five-spice powder
+  PARG: a bowl
+    PREP: in
+  PARG: the mixture is smooth
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Place 1 tablespoon of oil in a wok or large skillet over medium-high heat , and cook and stir the chicken mixture until the chicken is browned , about 5 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: 1 tablespoon of oil
+  PARG: a wok or large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: the chicken mixture
+
+PREDID: 2
+PRED: stir
+  PARG: the chicken is browned , about 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove the chicken from the wok , and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+  PARG: the wok
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Pour 1 more tablespoon of oil into the heated wok , and stir in the onion , celery , garlic , and red pepper flakes .
+PREDID: 0
+PRED: pour
+  DOBJ: 1 more tablespoon of oil
+  PARG: the heated wok
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: the onion , celery , garlic , red pepper flakes
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook and stir the vegetables until they start to become tender , about 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the vegetables
+
+PREDID: 1
+PRED: stir
+  PARG: they start to become tender , about 3 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour in the cornstarch mixture , and cook and stir until the sauce thickens , about 1 minute .
+PREDID: 0
+PRED: pour
+  PARG: the cornstarch mixture , cook
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the sauce thickens , about 1 minute
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove the wok from the heat , lightly stir in the cooked chicken and peanuts , and serve .
+PREDID: 0
+PRED: remove
+  DOBJ: the wok
+  PARG: the heat
+    PREP: from
+  OARG: lightly
+
+PREDID: 1
+PRED: stir
+  PARG: the cooked chicken, peanuts
+    PREP: in
+
+PREDID: 2
+PRED: serve
+

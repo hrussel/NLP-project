@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Stir noodles , tuna , black olives , and cream of mushroom soup together in the bottom of a casserole dish .
+PREDID: 0
+PRED: stir
+  DOBJ: noodles , tuna , black olives , cream of mushroom soup
+  PARG: the bottom of a casserole dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Add 2/3 cup Cheddar cheese , hot pepper sauce , and black pepper to the noodle mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: 2/3 cup cheddar cheese , hot pepper sauce , black pepper
+  PARG: the noodle mixture
+    PREP: to
+
+
+SENTID: 6
+SENT: mix .
+PREDID: 0
+PRED: mix
+
+
+SENTID: 7
+SENT: Gently fold asparagus into the noodle mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: asparagus
+  PARG: the noodle mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 8
+SENT: Sprinkle remaining Cheddar cheese over the dish .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining cheddar cheese
+  PARG: the dish
+    PREP: over
+
+
+SENTID: 9
+SENT: Bake in preheated oven until hot and bubbly , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: hot, bubbly , about 30 minutes
+    PREP: until
+

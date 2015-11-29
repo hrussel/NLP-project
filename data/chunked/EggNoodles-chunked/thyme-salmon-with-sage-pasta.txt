@@ -1,0 +1,217 @@
+SENTID: 0
+SENT: Place the salmon pieces into a mixing bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the salmon pieces
+  PARG: a mixing bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Drizzle with 2 tablespoons of extra virgin olive oil , then toss with 4 cloves of crushed garlic .
+PREDID: 0
+PRED: drizzle
+  PARG: 2 tablespoons of extra virgin olive oil
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: toss
+  PARG: 4 cloves of crushed garlic
+    PREP: with
+
+
+SENTID: 2
+SENT: Refrigerate at least 30 minutes .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 30 minutes
+    PREP: at
+
+
+SENTID: 3
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Line a baking sheet with aluminum foil .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 5
+SENT: Place the salmon onto the foil , and season with salt and thyme .
+PREDID: 0
+PRED: place
+  DOBJ: the salmon
+  PARG: the foil
+    PREP: onto
+
+PREDID: 1
+PRED: season
+  PARG: salt, thyme
+    PREP: with
+
+
+SENTID: 6
+SENT: Fold the foil over the salmon to form a sealed pouch .
+PREDID: 0
+PRED: fold
+  DOBJ: the foil
+  PARG: the salmon
+    PREP: over
+  PARG: form a sealed pouch
+    PREP: to
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until the salmon is no longer translucent in the center , 15 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the salmon is no longer translucent in the center , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Meanwhile , fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+  OARG: meanwhile
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 11
+SENT: Drain well in a colander set in the sink , then return to the cooking pot .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: return
+  PARG: the cooking pot
+    PREP: to
+
+
+SENTID: 12
+SENT: Melt the butter in a small saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 13
+SENT: Cook until the butter has browned lightly .
+PREDID: 0
+PRED: cook
+  PARG: the butter has browned lightly
+    PREP: until
+
+
+SENTID: 14
+SENT: Stir in the sage and garlic until the sage has wilted .
+PREDID: 0
+PRED: stir
+  PARG: the sage, garlic
+    PREP: in
+  PARG: the sage has wilted
+    PREP: until
+
+
+SENTID: 15
+SENT: Stir in 1 tablespoon of olive oil , the frozen peas , the juice of 1 lime , and 1Ê1/2 teaspoons of salt .
+PREDID: 0
+PRED: stir
+  PARG: 1 tablespoon of olive oil , the frozen peas , the juice of 1 lime , 1Ê1/2 teaspoons of salt
+    PREP: in
+
+
+SENTID: 16
+SENT: Stir into the pasta , and place into a serving bowl .
+PREDID: 0
+PRED: stir
+  PARG: the pasta
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a serving bowl
+    PREP: into
+
+
+SENTID: 17
+SENT: Remove the salmon from the foil , and place onto the pasta .
+PREDID: 0
+PRED: remove
+  DOBJ: the salmon
+  PARG: the foil
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: the pasta
+    PREP: onto
+
+
+SENTID: 18
+SENT: Squeeze another lime over top to serve .
+PREDID: 0
+PRED: squeeze
+  DOBJ: another lime
+  PARG: top
+    PREP: over
+  PARG: serve
+    PREP: to
+

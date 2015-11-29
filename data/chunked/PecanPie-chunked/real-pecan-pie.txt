@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: In a large mixing bowl , slightly beat the eggs .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a large mixing bowl
+    PREP: in
+  OARG: slightly
+
+
+SENTID: 1
+SENT: Stir in corn syrup , sugar , and vanilla .
+PREDID: 0
+PRED: stir
+  PARG: corn syrup , sugar , vanilla
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Lightly stir in pecans , till well-coated with egg mixture .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+  PARG: well-coated
+    PREP: till
+  PARG: egg mixture
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 4
+SENT: Pour into pie shell .
+PREDID: 0
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Turn the oven down to 300 degrees F -LRB- 150 degrees C -RRB- , and bake for another 30 minutes .
+PREDID: 0
+PRED: turn
+  DOBJ: the oven
+  PARG: 300 degrees f -lrb- 150 degrees c -rrb-
+    PREP: to
+  OARG: down
+
+PREDID: 1
+PRED: bake
+  PARG: another 30 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+
+
+SENTID: 8
+SENT: Store leftovers covered in refrigerator .
+PREDID: 0
+PRED: store
+  DOBJ: leftovers covered
+  PARG: refrigerator
+    PREP: in
+

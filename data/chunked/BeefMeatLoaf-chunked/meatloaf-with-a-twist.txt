@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x9-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x9-inch baking dish
+
+
+SENTID: 2
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 3
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 5
+SENT: Mash the potatoes with a potato masher , and set aside .
+PREDID: 0
+PRED: mash
+  DOBJ: the potatoes
+  PARG: a potato masher
+    PREP: with
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Heat olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook and stir the onion and garlic until the onion is translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the onion is translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Set the onion and garlic aside .
+PREDID: 0
+PRED: set
+  DOBJ: the onion, garlic
+  OARG: aside
+
+
+SENTID: 9
+SENT: In a large bowl , mix the ground beef , bread crumbs , parsley , salt , black pepper , onion and garlic mixture , eggs , chicken broth , and Romano cheese until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , bread crumbs , parsley , salt , black pepper , onion, garlic mixture , eggs , chicken broth , romano cheese
+  PARG: a large bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 10
+SENT: In a second bowl , mix the mashed potatoes and ricotta cheese .
+PREDID: 0
+PRED: mix
+  DOBJ: the mashed potatoes, ricotta cheese
+  PARG: a second bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: Spoon half the meat mixture into the prepared baking dish , and smooth into an even layer with a spoon .
+PREDID: 0
+PRED: spoon
+  DOBJ: half the meat mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+PREDID: 1
+PRED: smooth
+  PARG: an even layer
+    PREP: into
+  PARG: a spoon
+    PREP: with
+
+
+SENTID: 12
+SENT: Spread the mashed potato mixture over the meat , leaving a 1/2-inch border around the edge of the meat ;
+PREDID: 0
+PRED: spread
+  DOBJ: the mashed potato mixture
+  PARG: the meat
+    PREP: over
+  PARG: the edge of the meat
+    PREP: around
+
+
+SENTID: 13
+SENT: sprinkle 1 cup mozzarella cheese over the mashed potato layer .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1 cup mozzarella cheese
+  PARG: the mashed potato layer
+    PREP: over
+
+
+SENTID: 14
+SENT: Cover the cheese with the remaining meat mixture in an even layer ;
+PREDID: 0
+PRED: cover
+  DOBJ: the cheese
+  PARG: the remaining meat mixture
+    PREP: with
+  PARG: an even layer
+    PREP: in
+
+
+SENTID: 15
+SENT: press the edges down to seal in the mashed potatoes .
+PREDID: 0
+PRED: press
+  DOBJ: the edges
+  PARG: seal
+    PREP: to
+  PARG: the mashed potatoes
+    PREP: in
+  OARG: down
+
+
+SENTID: 16
+SENT: Sprinkle loaf with additional 2 tablespoons of mozzarella cheese , if desired .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: loaf
+  PARG: additional 2 tablespoons of mozzarella cheese
+    PREP: with
+  PARG: desired
+    PREP: if
+
+
+SENTID: 17
+SENT: Bake in the preheated oven until the loaf is browned and the meat is no longer pink , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the loaf is browned, the meat is no longer pink , about 1 hour
+    PREP: until
+
+
+SENTID: 18
+SENT: Let the loaf stand for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: the loaf stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

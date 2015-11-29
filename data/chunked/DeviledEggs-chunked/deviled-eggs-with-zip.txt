@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Place eggs in a large saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a large saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs in half lengthwise and remove yolks .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: yolks
+
+
+SENTID: 5
+SENT: Place yolks in a medium bowl , and mash together with mayonnaise , Chinese hot prepared mustard , yellow mustard , salt and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: mash
+  PARG: mayonnaise , chinese hot prepared mustard , yellow mustard , salt, pepper
+    PREP: with
+  OARG: together
+
+
+SENTID: 6
+SENT: Fill the hollowed egg whites with the egg yolk mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: the hollowed egg whites
+  PARG: the egg yolk mixture
+    PREP: with
+
+
+SENTID: 7
+SENT: Garnish with paprika .
+PREDID: 0
+PRED: garnish
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 8
+SENT: Chill in the refrigerator until serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: until
+

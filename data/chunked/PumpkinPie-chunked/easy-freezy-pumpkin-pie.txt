@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: In a large bowl , stir together the brown sugar , salt , pumpkin and cinnamon .
+PREDID: 0
+PRED: stir
+  DOBJ: the brown sugar , salt , pumpkin, cinnamon
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Mix in the softened ice cream until well blended .
+PREDID: 0
+PRED: mix
+  PARG: the softened ice cream
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Spoon into the pie crusts and place them in the freezer .
+PREDID: 0
+PRED: spoon
+  PARG: the pie crusts
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: the freezer
+    PREP: in
+
+
+SENTID: 3
+SENT: Freeze for at least 3 hours before serving .
+PREDID: 0
+PRED: freeze
+  PARG: at least 3 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

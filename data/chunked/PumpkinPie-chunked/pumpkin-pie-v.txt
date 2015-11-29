@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large mixing bowl combine pumpkin , sugar , eggs , milk , cinnamon , ginger , cloves , and nutmeg .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , sugar , eggs , milk , cinnamon , ginger , cloves , nutmeg
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir until smooth and thoroughly mixed .
+PREDID: 0
+PRED: stir
+  PARG: smooth, thoroughly mixed
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour pumpkin mixture into pastry-lined pie pan .
+PREDID: 0
+PRED: pour
+  DOBJ: pumpkin mixture
+  PARG: pastry-lined pie pan
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 45 minutes , or until set in center .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  PARG: set in center
+    PREP: until
+

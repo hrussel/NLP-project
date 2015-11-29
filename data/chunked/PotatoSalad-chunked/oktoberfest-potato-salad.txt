@@ -1,0 +1,234 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: cool
+
+PREDID: 1
+PRED: let
+
+
+SENTID: 4
+SENT: Mix dry mustard with 1 teaspoon water in a small bowl and let stand 10 minutes to develop flavor .
+PREDID: 0
+PRED: mix
+  DOBJ: dry mustard
+  PARG: 1 teaspoon water
+    PREP: with
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: let
+  OARG: stand 10 minutes
+  OARG: to develop flavor
+
+
+SENTID: 5
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain the bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 7
+SENT: Reserve bacon drippings in skillet .
+PREDID: 0
+PRED: reserve
+  DOBJ: bacon drippings
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 8
+SENT: Let bacon cool ;
+PREDID: 0
+PRED: let
+  DOBJ: bacon
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 9
+SENT: crumble bacon .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+
+
+SENTID: 10
+SENT: Cook onion in reserved bacon drippings over medium heat until onion is translucent and soft , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+  PARG: reserved bacon drippings
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: onion is translucent, soft , about 5 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir mustard paste , sugar , 1/4 cup water , and cider vinegar into onion ;
+PREDID: 0
+PRED: stir
+  DOBJ: mustard paste , sugar , 1/4 cup water , cider vinegar
+  PARG: onion
+    PREP: into
+
+
+SENTID: 12
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 13
+SENT: Reduce heat to low and simmer vinegar dressing for 2 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low, simmer vinegar dressing
+    PREP: to
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Peel potatoes if desired ;
+PREDID: 0
+PRED: peel
+  DOBJ: potatoes
+  PARG: desired
+    PREP: if
+
+
+SENTID: 15
+SENT: slice 3 potatoes into a salad bow and arrange into a layer .
+PREDID: 0
+PRED: slice
+  DOBJ: 3 potatoes
+  PARG: a salad bow
+    PREP: into
+
+PREDID: 1
+PRED: arrange
+  PARG: a layer
+    PREP: into
+
+
+SENTID: 16
+SENT: Sprinkle potatoes with half the crumbled bacon , celery , and parsley ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: potatoes
+  PARG: half the crumbled bacon , celery , parsley
+    PREP: with
+
+
+SENTID: 17
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 18
+SENT: Pour a little of the vinegar dressing over the layer .
+PREDID: 0
+PRED: pour
+  DOBJ: a little of the vinegar dressing
+  PARG: the layer
+    PREP: over
+
+
+SENTID: 19
+SENT: Repeat layer with remaining 3 potatoes , bacon , celery , parsley , salt , and black pepper ;
+PREDID: 0
+PRED: repeat
+  DOBJ: layer
+  PARG: remaining 3 potatoes , bacon , celery , parsley , salt , black pepper
+    PREP: with
+
+
+SENTID: 20
+SENT: pour remaining dressing over the salad .
+PREDID: 0
+PRED: pour
+  DOBJ: remaining dressing
+  PARG: the salad
+    PREP: over
+
+
+SENTID: 21
+SENT: Cover and let stand at room temperature for 30 minutes before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: stand
+
+PREDID: 1
+PRED: let
+  PARG: room temperature
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray 10 muffin cups with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: 10 muffin cups
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk 1Ê1/2 cups sifted whole wheat flour with baking soda , baking powder , salt , and 1/2 teaspoon cinnamon in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: 1Ê1/2 cups sifted whole wheat flour
+  PARG: baking soda , baking powder , salt , 1/2 teaspoon cinnamon
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix together mashed bananas , 1/2 cup melted unsalted butter , egg , white sugar , and vanilla extract in a separate bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mashed bananas , 1/2 cup melted unsalted butter , egg , white sugar , vanilla extract
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Gently fold banana mixture into dry ingredients just until moistened ;
+PREDID: 0
+PRED: fold
+  DOBJ: banana mixture
+  PARG: dry ingredients
+    PREP: into
+  PARG: moistened
+    PREP: until
+  OARG: gently
+  OARG: just
+
+
+SENTID: 5
+SENT: Spoon batter into prepared muffin cups , filling them about 3/4 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin cups , filling them
+    PREP: into
+  PARG: 3/4 full
+    PREP: about
+
+
+SENTID: 6
+SENT: Mix dark brown sugar with 2 tablespoons whole wheat flour and 1/2 teaspoon cinnamon in a bowl , stirring until combined ;
+PREDID: 0
+PRED: mix
+  DOBJ: dark brown sugar
+  PARG: 2 tablespoons whole wheat flour, 1/2 teaspoon cinnamon
+    PREP: with
+  PARG: a bowl , stirring
+    PREP: in
+  PARG: combined
+    PREP: until
+
+
+SENTID: 7
+SENT: mash 1 tablespoon unsalted butter into the mixture with a fork until streusel topping resembles crumbs .
+PREDID: 0
+PRED: mash
+  DOBJ: 1 tablespoon unsalted butter
+  PARG: the mixture
+    PREP: into
+  PARG: a fork
+    PREP: with
+  PARG: streusel topping resembles crumbs
+    PREP: until
+
+
+SENTID: 8
+SENT: Sprinkle topping over muffins .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: topping
+  PARG: muffins
+    PREP: over
+
+
+SENTID: 9
+SENT: Bake muffins in the preheated oven until a toothpick comes out clean or with moist crumbs , about 20 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: muffins
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick comes out clean or with moist crumbs , about 20 minutes
+    PREP: until
+

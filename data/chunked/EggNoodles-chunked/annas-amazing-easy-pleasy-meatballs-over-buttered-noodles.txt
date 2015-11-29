@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: In a large slow cooker , mix together the cream of celery soup , French onion soup , and sour cream .
+PREDID: 0
+PRED: mix
+  DOBJ: the cream of celery soup , french onion soup , sour cream
+  PARG: a large slow cooker
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir in the meatballs .
+PREDID: 0
+PRED: stir
+  PARG: the meatballs
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook on high heat for 3-4 hours .
+PREDID: 0
+PRED: cook
+  PARG: high heat
+    PREP: on
+  PARG: 3-4 hours
+    PREP: for
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: In a large bowl , toss the pasta with butter .
+PREDID: 0
+PRED: toss
+  DOBJ: the pasta
+  PARG: a large bowl
+    PREP: in
+  PARG: butter
+    PREP: with
+
+
+SENTID: 7
+SENT: Serve meatballs and sauce over the cooked pasta .
+PREDID: 0
+PRED: serve
+  DOBJ: meatballs
+
+PREDID: 1
+PRED: sauce
+  PARG: the cooked pasta
+    PREP: over
+

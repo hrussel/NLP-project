@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: Toss cabbage , red bell pepper , onion , celery , jalapeno pepper , and fresh ginger in a large salad bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: cabbage , red bell pepper , onion , celery , jalapeno pepper , fresh ginger
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk peanut butter , soy sauce , lime juice , sugar , sesame oil , and salt in a separate bowl until dressing is smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: peanut butter , soy sauce , lime juice , sugar , sesame oil , salt
+  PARG: a separate bowl
+    PREP: in
+  PARG: dressing is smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour dressing over slaw and toss to combine .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: slaw
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 3
+SENT: Let stand at least 1 hour ;
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: least 1 hour
+    PREP: at
+
+
+SENTID: 4
+SENT: serve sprinkled with chopped peanuts .
+PREDID: 0
+PRED: serve
+  DOBJ: sprinkled
+  PARG: chopped peanuts
+    PREP: with
+

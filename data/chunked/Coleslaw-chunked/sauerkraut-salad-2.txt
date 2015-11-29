@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: In a saucepan combine the salt , vinegar , caraway seeds and sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: the salt , vinegar , caraway seeds, sugar
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring to a boil over medium heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Stir in the sauerkraut , onion , celery , pepper and pimento .
+PREDID: 0
+PRED: stir
+  PARG: the sauerkraut , onion , celery , pepper, pimento
+    PREP: in
+
+
+SENTID: 3
+SENT: Remove from heat and let marinate overnight before serving .
+PREDID: 0
+PRED: remove
+  PARG: heat, let marinate
+    PREP: from
+  PARG: serving
+    PREP: before
+  OARG: overnight
+

@@ -1,0 +1,197 @@
+SENTID: 0
+SENT: Preheat the oven to 450 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 450 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Finely zest the orange and set the zest aside .
+PREDID: 0
+PRED: set
+  DOBJ: zest the orange
+  OARG: finely
+  OARG: aside
+
+
+SENTID: 2
+SENT: Cut the top and bottom off of the orange , sit the orange on one end on a cutting board and cut the entire peel and pith off by cutting downward following the shape of the fruit .
+PREDID: 0
+PRED: cut
+  DOBJ: following the shape of the fruit
+  PARG: of the orange , sit the orange
+    PREP: off
+  PARG: one end
+    PREP: on
+  PARG: a cutting board, cut the entire peel, pith
+    PREP: on
+  PARG: by cutting
+    PREP: off
+  OARG: downward
+  OARG: the top, bottom
+
+
+SENTID: 3
+SENT: Then , using a paring knife , remove each section of orange from the membrane .
+PREDID: 0
+PRED: remove
+  DOBJ: each section of orange
+  PARG: the membrane
+    PREP: from
+  OARG: then
+  OARG: using a paring knife
+
+
+SENTID: 4
+SENT: Set the orange sections aside .
+PREDID: 0
+PRED: set
+  DOBJ: the orange sections
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a shallow bowl , whisk the egg whites until slightly frothy .
+PREDID: 0
+PRED: whisk
+  DOBJ: the egg whites
+  PARG: a shallow bowl
+    PREP: in
+  PARG: slightly frothy
+    PREP: until
+
+
+SENTID: 6
+SENT: In a large shallow bowl or on a plate , combine the orange zest , almonds , and 1/4 teaspoon each of the salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: the orange zest , almonds , 1/4 teaspoon each of the salt, pepper
+  PARG: a large shallow bowl
+    PREP: in
+  PARG: a plate
+    PREP: on
+
+
+SENTID: 7
+SENT: Put the flour on a large plate .
+PREDID: 0
+PRED: put
+  DOBJ: the flour
+  PARG: a large plate
+    PREP: on
+
+
+SENTID: 8
+SENT: Remove the pre-heated baking sheet from the oven and spray with cooking spray .
+PREDID: 0
+PRED: remove
+  DOBJ: the pre-heated baking sheet
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: spray
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 9
+SENT: Dip the chicken breasts , one at a time , first into the flour , shaking off any excess , then into the egg white , and then coat with the almond mixture and place on the baking sheet .
+PREDID: 0
+PRED: dip
+  DOBJ: the chicken breasts , one at a time
+  PARG: the flour , shaking
+    PREP: into
+  PARG: any excess
+    PREP: off
+  PARG: the egg white
+    PREP: into
+  PARG: the almond mixture, place
+    PREP: with
+  PARG: the baking sheet
+    PREP: on
+  OARG: first
+  OARG: then
+  OARG: then
+
+
+SENTID: 10
+SENT: Spray the top of the chicken with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: the top of the chicken
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake for 6 minutes , turn and bake for 6 minutes more , until the chicken is cooked through and the coating is golden .
+PREDID: 0
+PRED: bake
+  PARG: 6 minutes
+    PREP: for
+
+PREDID: 1
+PRED: turn
+  PARG: 6 minutes more
+    PREP: for
+
+PREDID: 2
+PRED: bake
+  PARG: the chicken is cooked through, the coating is golden
+    PREP: until
+
+
+SENTID: 12
+SENT: While the chicken is cooking , combine the fennel , arugula and orange sections in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the fennel , arugula, orange sections
+  PARG: the chicken is cooking
+    PREP: while
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 13
+SENT: In a small bowl whisk together the olive oil , lemon juice , and remaining 1/4 teaspoon each of salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: remaining 1/4 teaspoon each of salt, pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+  OARG: the olive oil , lemon juice
+
+
+SENTID: 14
+SENT: Pour the dressing over the salad and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 15
+SENT: To serve , place one large or two small chicken cutlets on each plate and top with a mound of the salad .
+PREDID: 0
+PRED: place
+  DOBJ: one large or two small chicken cutlets
+  PARG: serve
+    PREP: to
+  PARG: each plate
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: a mound of the salad
+    PREP: with
+

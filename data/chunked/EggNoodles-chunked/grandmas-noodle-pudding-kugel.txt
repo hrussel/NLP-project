@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2-quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook uncovered , stirring occasionally , until the noodles have cooked through , but are still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered , stirring
+  PARG: the noodles have cooked through , but are still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 6
+SENT: Place cooked noodles into a mixing bowl .
+PREDID: 0
+PRED: place
+  DOBJ: cooked noodles
+  PARG: a mixing bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: With an electric mixer , beat egg whites in a bowl until they form stiff peaks ;
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: an electric mixer
+    PREP: with
+  PARG: a bowl
+    PREP: in
+  PARG: they form stiff peaks
+    PREP: until
+
+
+SENTID: 8
+SENT: set egg whites aside .
+PREDID: 0
+PRED: set
+  DOBJ: egg whites
+  OARG: aside
+
+
+SENTID: 9
+SENT: Whisk the egg yolks together in a bowl until smooth , and mix in the sugar until well combined .
+PREDID: 0
+PRED: whisk
+  DOBJ: the egg yolks
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: mix
+  PARG: the sugar
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 10
+SENT: Pour egg yolk mixture over the noodles , and mix in the cinnamon , apples , raisins , and almonds .
+PREDID: 0
+PRED: pour
+  DOBJ: egg yolk mixture
+  PARG: the noodles
+    PREP: over
+
+PREDID: 1
+PRED: mix
+  PARG: the cinnamon , apples , raisins , almonds
+    PREP: in
+
+
+SENTID: 11
+SENT: Gently fold in the beaten egg whites , trying to keep as much volume as possible .
+PREDID: 0
+PRED: fold
+  PARG: the beaten egg whites , trying
+    PREP: in
+  PARG: keep
+    PREP: to
+  PARG: much volume
+    PREP: as
+  PARG: possible
+    PREP: as
+  OARG: gently
+
+
+SENTID: 12
+SENT: Pour the kugel into the prepared baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: the kugel
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 13
+SENT: Bake in the preheated oven until the kugel is browned and the center is set , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the kugel is browned, the center is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 30 minutes
+    PREP: about
+

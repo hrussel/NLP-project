@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: In a large skillet over medium heat brown the ground beef .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Drain the grease .
+PREDID: 0
+PRED: drain
+  DOBJ: the grease
+
+
+SENTID: 2
+SENT: Add spaghetti sauce and simmer for 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: spaghetti sauce
+
+PREDID: 1
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: In a large bowl , mix together the cottage cheese , 2 cups of the mozzarella cheese , eggs , half of the grated Parmesan cheese , dried parsley , salt and ground black pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the cottage cheese , 2 cups of the mozzarella cheese , eggs , half of the grated parmesan cheese , dried parsley , salt, ground black pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: To assemble , in the bottom of a 9x13 inch baking dish evenly spread 3/4 cup of the sauce mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: 3/4 cup of the sauce mixture
+  PARG: the bottom of a 9x13 inch baking dish
+    PREP: in
+  OARG: to assemble
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Cover with 3 uncooked lasagna noodles , 1Ê3/4 cup of the cheese mixture , and 1/4 cup sauce .
+PREDID: 0
+PRED: cover
+  PARG: 3 uncooked lasagna noodles , 1Ê3/4 cup of the cheese mixture , 1/4 cup sauce
+    PREP: with
+
+
+SENTID: 6
+SENT: Repeat layers twice .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  OARG: twice
+
+
+SENTID: 7
+SENT: Top with 3 noodles , remaining sauce , remaining mozzarella and Parmesan cheese .
+PREDID: 0
+PRED: top
+  PARG: 3 noodles , remaining sauce , remaining mozzarella, parmesan cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Add 1/2 cup water to the edges of the pan .
+PREDID: 0
+PRED: add
+  DOBJ: 1/2 cup water
+  PARG: the edges of the pan
+    PREP: to
+
+
+SENTID: 9
+SENT: Cover with aluminum foil .
+PREDID: 0
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in a preheated 350 degree F -LRB- 175 degrees C -RRB- oven for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Uncover and bake an additional 10 minutes .
+PREDID: 0
+PRED: uncover
+  OARG: an additional 10 minutes
+
+PREDID: 1
+PRED: bake
+
+
+SENTID: 12
+SENT: Let stand 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 minutes
+

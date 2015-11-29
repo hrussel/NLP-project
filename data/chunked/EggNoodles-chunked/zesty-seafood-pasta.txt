@@ -1,0 +1,235 @@
+SENTID: 0
+SENT: Bring a large pot of generously salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of generously salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 5 to 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain and transfer to a bowl .
+PREDID: 0
+PRED: drain
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 3
+SENT: Heat olive oil in a large pot over low heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a large pot
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 4
+SENT: cook and stir onion , bell pepper , celery , and garlic in the hot oil until onion is lightly browned , 15 to 20 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion , bell pepper , celery , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: onion is lightly browned , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix parsley , sage , basil , and lemon zest in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: parsley , sage , basil , lemon zest
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: stir into onion mixture .
+PREDID: 0
+PRED: stir
+  PARG: onion mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Cook until fragrant , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: fragrant , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour 1 cup seafood stock in a measuring cup and set aside ;
+PREDID: 0
+PRED: pour
+  DOBJ: 1 cup seafood stock
+  PARG: a measuring cup
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: pour remaining stock and lemon juice into onion mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: remaining stock, lemon juice
+  PARG: onion mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Stir in thyme , cilantro , dill , sea salt , and black pepper ;
+PREDID: 0
+PRED: stir
+  PARG: thyme , cilantro , dill , sea salt , black pepper
+    PREP: in
+
+
+SENTID: 11
+SENT: cook until flavors have blended , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: flavors have blended , about 5 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Add crawfish to seasoned stock mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: crawfish
+  PARG: seasoned stock mixture
+    PREP: to
+
+
+SENTID: 13
+SENT: cook until crawfish are heated through , 3 to 4 minutes .
+PREDID: 0
+PRED: cook
+  PARG: crawfish are heated through , 3 to 4 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Stir shrimp into crawfish mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: shrimp
+  PARG: crawfish mixture
+    PREP: into
+
+
+SENTID: 15
+SENT: cook until shrimp are pink and cooked through , about 5 more minutes .
+PREDID: 0
+PRED: cook
+  PARG: shrimp are pink, cooked through , about 5 more minutes
+    PREP: until
+
+
+SENTID: 16
+SENT: Remove crawfish and shrimp from sauce using a slotting spoon ;
+PREDID: 0
+PRED: remove
+  DOBJ: using a slotting spoon
+  PARG: sauce
+    PREP: from
+  OARG: crawfish, shrimp
+
+
+SENTID: 17
+SENT: transfer to a bowl and cover .
+PREDID: 0
+PRED: transfer
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+
+SENTID: 18
+SENT: Whisk cornstarch into reserved 1 cup seafood stock until completely dissolved ;
+PREDID: 0
+PRED: whisk
+  DOBJ: cornstarch
+  PARG: reserved 1 cup seafood stock
+    PREP: into
+  PARG: completely dissolved
+    PREP: until
+
+
+SENTID: 19
+SENT: stir into sauce .
+PREDID: 0
+PRED: stir
+  PARG: sauce
+    PREP: into
+
+
+SENTID: 20
+SENT: Cook , stirring constantly , at a simmer until sauce has thickened , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: a simmer
+    PREP: at
+  PARG: sauce has thickened , about 5 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 21
+SENT: Mix half-and-half and Creole seasoning into sauce until fully incorporated and warmed ;
+PREDID: 0
+PRED: mix
+  DOBJ: half-and-half, creole seasoning
+  PARG: sauce
+    PREP: into
+  PARG: fully incorporated, warmed
+    PREP: until
+
+
+SENTID: 22
+SENT: add crawfish and shrimp back into sauce .
+PREDID: 0
+PRED: add
+  DOBJ: crawfish, shrimp
+  PARG: sauce
+    PREP: into
+  OARG: back
+
+
+SENTID: 23
+SENT: Toss sauce with egg noodles .
+PREDID: 0
+PRED: toss
+  DOBJ: sauce
+  PARG: egg noodles
+    PREP: with
+

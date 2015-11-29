@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Melt butter in a saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir onion in melted butter until softened , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+
+PREDID: 1
+PRED: stir
+  PARG: melted butter
+    PREP: in
+  PARG: softened , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain and return to the pot .
+PREDID: 0
+PRED: drain
+  PARG: the pot
+    PREP: to
+
+PREDID: 1
+PRED: return
+
+
+SENTID: 5
+SENT: Stir butter and onion mixture , cottage cheese , sour cream , sea salt , and black pepper into the noodles .
+PREDID: 0
+PRED: stir
+  DOBJ: butter, onion mixture , cottage cheese , sour cream , sea salt , black pepper
+  PARG: the noodles
+    PREP: into
+
+
+SENTID: 6
+SENT: Place the pot over medium heat ;
+PREDID: 0
+PRED: place
+  DOBJ: the pot
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook and stir until heated through and warm , 5 to 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: warm
+  OARG: 5 to 8 minutes
+

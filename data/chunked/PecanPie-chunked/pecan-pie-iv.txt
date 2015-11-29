@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place pie shell in a 9 inch pie pan .
+PREDID: 0
+PRED: place
+  DOBJ: pie shell
+  PARG: a 9 inch pie pan
+    PREP: in
+
+
+SENTID: 2
+SENT: In a medium bowl , gently beat eggs .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a medium bowl
+    PREP: in
+  OARG: gently
+
+
+SENTID: 3
+SENT: Stir in sugar and flour , then the syrup , butter and vanilla .
+PREDID: 0
+PRED: stir
+  PARG: sugar
+    PREP: in
+
+PREDID: 1
+PRED: flour
+  DOBJ: the syrup , butter, vanilla
+  OARG: then
+
+
+SENTID: 4
+SENT: Fold in pecans .
+PREDID: 0
+PRED: fold
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour mixture into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake for 50 to 60 minutes ;
+PREDID: 0
+PRED: bake
+  PARG: 50 to 60 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: knife inserted in center of pie should come out clean .
+PREDID: 0
+PRED: knife
+  DOBJ: inserted
+  PARG: center of pie should come
+    PREP: in
+  PARG: clean
+    PREP: out
+

@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: In a bowl , mix the wine , white pepper , liquid smoke , garlic , black pepper , pepper sauce , and Worcestershire sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: the wine , white pepper , liquid smoke , garlic , black pepper , pepper sauce , worcestershire sauce
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Place pork in a slow cooker , and cover with the sauce mixture .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: the sauce mixture
+    PREP: with
+
+
+SENTID: 2
+SENT: Cover , and cook 4 to 5 hours on Low , or until the meat shreds easily .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: the meat shreds easily
+    PREP: until
+  OARG: 4 to 5 hours
+
+
+SENTID: 3
+SENT: Shred the pork with a fork .
+PREDID: 0
+PRED: shred
+  DOBJ: the pork
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 4
+SENT: Mix in the barbeque sauce , onion , green bell pepper , red bell pepper , and yellow bell pepper .
+PREDID: 0
+PRED: mix
+  PARG: the barbeque sauce , onion , green bell pepper , red bell pepper , yellow bell pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: Continue cooking 30 minutes , or until vegetables are tender .
+PREDID: 0
+PRED: continue
+  PARG: vegetables are tender
+    PREP: until
+  OARG: cooking 30 minutes
+
+
+SENTID: 6
+SENT: Place pork in a strainer to remove excess liquid , pushing down with a large spoon to extract as much moisture as possible .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: a strainer
+    PREP: in
+  PARG: remove excess liquid , pushing
+    PREP: to
+  PARG: a large spoon
+    PREP: with
+  PARG: extract
+    PREP: to
+  PARG: much moisture
+    PREP: as
+  PARG: possible
+    PREP: as
+  OARG: down
+
+
+SENTID: 7
+SENT: Liquid may be reserved as a dipping sauce .
+PREDID: 0
+PRED: sauce
+  DOBJ: liquid may be reserved
+  PARG: a dipping
+    PREP: as
+

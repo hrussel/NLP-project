@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: Whisk first seven ingredients plus 2 Tbs .
+PREDID: 0
+PRED: whisk
+  DOBJ: seven ingredients plus 2 tbs
+  OARG: first
+
+
+SENTID: 1
+SENT: oil in a 2-cup measuring cup . Pour all but 3/4 cup of mixture into a gallon-sized zipper bag .
+PREDID: 0
+PRED: oil
+  PARG: a 2-cup measuring cup
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: all but 3/4 cup of mixture
+  PARG: a gallon-sized zipper bag
+    PREP: into
+
+
+SENTID: 2
+SENT: Add chicken ;
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+
+SENTID: 3
+SENT: seal and refrigerate 30 minutes to 4 hours .
+PREDID: 0
+PRED: seal
+  OARG: 30 minutes
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 4 hours
+    PREP: to
+
+
+SENTID: 4
+SENT: Whisk 1/4 cup of oil into remaining mixture for dressing .
+PREDID: 0
+PRED: whisk
+  DOBJ: 1/4 cup of oil
+  PARG: remaining mixture
+    PREP: into
+  PARG: dressing
+    PREP: for
+
+
+SENTID: 5
+SENT: Sprinkle asparagus with oil , salt , pepper .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: asparagus
+  PARG: oil , salt , pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Build a fire on only one side of grill -LRB- to conserve charcoal -RRB- .
+PREDID: 0
+PRED: build
+  DOBJ: a fire
+  PARG: only one side of grill -lrb-
+    PREP: on
+  PARG: conserve charcoal -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: When coals are covered with white ash , place chicken on rack over direct heat , cover and grill until well browned , 4 to 6 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: white ash
+    PREP: with
+  PARG: rack
+    PREP: on
+  PARG: direct heat , cover, grill
+    PREP: over
+  PARG: well browned , 4 to 6 minutes
+    PREP: until
+  OARG: when coals are covered
+
+
+SENTID: 8
+SENT: Turn , cover and grill another 4 to 6 minutes .
+PREDID: 0
+PRED: turn
+
+PREDID: 1
+PRED: cover
+  OARG: another 4 to 6 minutes
+
+PREDID: 2
+PRED: grill
+
+
+SENTID: 9
+SENT: Remove chicken and add asparagus , spears perpendicular to rack .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+
+PREDID: 1
+PRED: add
+  DOBJ: asparagus , spears perpendicular
+  PARG: rack
+    PREP: to
+
+
+SENTID: 10
+SENT: Grill 3 to 5 minutes , until well browned and just cooked through .
+PREDID: 0
+PRED: grill
+  PARG: well browned, just cooked through
+    PREP: until
+  OARG: 3 to 5 minutes
+
+
+SENTID: 11
+SENT: Remove chicken and let stand for 5 minutes or up to 1 hour .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken, let stand
+  PARG: 5 minutes
+    PREP: for
+  PARG: 1 hour
+    PREP: to
+  OARG: up
+
+
+SENTID: 12
+SENT: Cut , crosswise , into 1/2-inch-thick slices .
+PREDID: 0
+PRED: cut
+  PARG: 1/2-inch-thick slices
+    PREP: into
+  OARG: crosswise
+
+
+SENTID: 13
+SENT: Toss greens , oranges , salt and pepper with most of the dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: greens , oranges , salt, pepper
+  PARG: most of the dressing
+    PREP: with
+
+
+SENTID: 14
+SENT: Arrange salad in six shallow bowls .
+PREDID: 0
+PRED: arrange
+  DOBJ: salad
+  PARG: six shallow bowls
+    PREP: in
+
+
+SENTID: 15
+SENT: Place chicken and asparagus over each .
+PREDID: 0
+PRED: place
+  DOBJ: chicken, asparagus
+  PARG: each
+    PREP: over
+
+
+SENTID: 16
+SENT: Drizzle with remaining dressing .
+PREDID: 0
+PRED: drizzle
+  PARG: remaining dressing
+    PREP: with
+

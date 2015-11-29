@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a shallow roasting pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a shallow roasting pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Prepare instant rice according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: instant rice according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 3
+SENT: In a large bowl , mix together ground sirloin , ground round , egg , chopped onion , green pepper , mushrooms and cooked rice .
+PREDID: 0
+PRED: mix
+  DOBJ: ground sirloin , ground round , egg , chopped onion , green pepper , mushrooms, cooked rice
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Season with garlic powder , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: garlic powder , salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: On clean counter top , arrange sheets of wax paper approximately 1Ê1/2 feet long by 1 foot wide .
+PREDID: 0
+PRED: top
+  PARG: clean counter
+    PREP: on
+
+PREDID: 1
+PRED: arrange
+  DOBJ: sheets of wax paper
+  PARG: 1 foot
+    PREP: by
+  OARG: approximately
+  OARG: long
+  OARG: wide
+
+
+SENTID: 6
+SENT: Place meat mixture on wax paper , and flatten into a large square , about 1/2 inch thick -LRB- the thinner the better -RRB- .
+PREDID: 0
+PRED: place
+  DOBJ: meat mixture
+  PARG: wax paper
+    PREP: on
+
+PREDID: 1
+PRED: flatten
+  PARG: a large square
+    PREP: into
+  PARG: 1/2 inch thick -lrb- the thinner the better -rrb-
+    PREP: about
+
+
+SENTID: 7
+SENT: Sprinkle with more garlic powder , then layer with parmesan , spinach , ham , salami and Swiss cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: more garlic powder
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: layer
+  PARG: parmesan , spinach , ham , salami, swiss cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Tuck the two open ends into the meatloaf itself , and with hands lightly coated in vegetable oil , shape into a loaf .
+PREDID: 0
+PRED: tuck
+  DOBJ: the two open ends
+  PARG: the meatloaf itself
+    PREP: into
+  PARG: hands
+    PREP: with
+  PARG: vegetable oil
+    PREP: in
+  OARG: lightly
+
+PREDID: 1
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 9
+SENT: While lifting with the wax paper , transfer to shallow roasting pan , then slide wax paper out from underneath .
+PREDID: 0
+PRED: transfer
+  DOBJ: slide wax paper
+  PARG: lifting
+    PREP: while
+  PARG: the wax paper
+    PREP: with
+  PARG: shallow roasting pan
+    PREP: to
+  PARG: from
+    PREP: out
+  OARG: then
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 1 hour and 10 minutes , or until meat is no longer pink and juices run clear .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour, 10 minutes
+    PREP: for
+  PARG: meat is no longer pink, juices run clear
+    PREP: until
+
+
+SENTID: 11
+SENT: Allow to cool 15 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: serving
+    PREP: before
+  OARG: to cool 15 minutes
+

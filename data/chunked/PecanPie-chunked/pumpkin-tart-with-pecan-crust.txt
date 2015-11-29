@@ -1,0 +1,227 @@
+SENTID: 0
+SENT: Set rack in the middle of the oven , and preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: set
+  DOBJ: rack
+  PARG: the middle of the oven
+    PREP: in
+
+PREDID: 1
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly oil a 9 inch pie plate .
+PREDID: 0
+PRED: oil
+  DOBJ: a 9 inch pie plate
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Spread nuts over a baking pan .
+PREDID: 0
+PRED: spread
+  DOBJ: nuts
+  PARG: a baking pan
+    PREP: over
+
+
+SENTID: 4
+SENT: Toast for 7 to 10 minutes , or until the smell of nuts fills the kitchen .
+PREDID: 0
+PRED: toast
+  PARG: 7 to 10 minutes
+    PREP: for
+  PARG: the smell of nuts fills the kitchen
+    PREP: until
+
+
+SENTID: 5
+SENT: Set aside 16 pecan halves for garnish .
+PREDID: 0
+PRED: set
+  DOBJ: 16 pecan halves
+  PARG: garnish
+    PREP: for
+  OARG: aside
+
+
+SENTID: 6
+SENT: Combine oats , flour , remaining pecans , 1/2 teaspoon cinnamon , and a pinch of salt in a food processor bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: oats , flour , remaining pecans , 1/2 teaspoon cinnamon , a pinch of salt
+  PARG: a food processor bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Pulse until mixture becomes a coarse meal .
+PREDID: 0
+PRED: pulse
+  PARG: mixture becomes a coarse meal
+    PREP: until
+
+
+SENTID: 8
+SENT: Transfer to a mixing bowl .
+PREDID: 0
+PRED: transfer
+  PARG: a mixing bowl
+    PREP: to
+
+
+SENTID: 9
+SENT: Whisk together oil and 3 tablespoons maple syrup , and mix into dry ingredients to form a soft dough .
+PREDID: 0
+PRED: whisk
+  DOBJ: oil, 3 tablespoons maple syrup
+  OARG: together
+
+PREDID: 1
+PRED: mix
+  PARG: dry ingredients
+    PREP: into
+  PARG: form a soft dough
+    PREP: to
+
+
+SENTID: 10
+SENT: Press mixture into prepared pie plate .
+PREDID: 0
+PRED: press
+  DOBJ: mixture
+  PARG: prepared pie plate
+    PREP: into
+
+
+SENTID: 11
+SENT: Crimp edges .
+PREDID: 0
+PRED: crimp
+  DOBJ: edges
+
+
+SENTID: 12
+SENT: Bake for 10 minutes , and set aside to cool .
+PREDID: 0
+PRED: bake
+  PARG: 10 minutes
+    PREP: for
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 13
+SENT: Blend soymilk and arrowroot in the food processor until the arrowroot is completely dissolved and the mixture is smooth , about 15 seconds .
+PREDID: 0
+PRED: blend
+  DOBJ: soymilk, arrowroot
+  PARG: the food processor
+    PREP: in
+  PARG: the arrowroot is completely dissolved, the mixture is
+    PREP: until
+
+PREDID: 1
+PRED: smooth
+  PARG: 15 seconds
+    PREP: about
+
+
+SENTID: 14
+SENT: Add pumpkin , 1/2 cup maple syrup , ginger , 1Ê1/2 teaspoons cinnamon , 1/2 teaspoon salt , nutmeg , and cloves ;
+PREDID: 0
+PRED: add
+  DOBJ: pumpkin , 1/2 cup maple syrup , ginger , 1Ê1/2 teaspoons cinnamon , 1/2 teaspoon salt , nutmeg , cloves
+
+
+SENTID: 15
+SENT: process until thoroughly blended .
+PREDID: 0
+PRED: process
+  PARG: thoroughly blended
+    PREP: until
+
+
+SENTID: 16
+SENT: Pour filling into baked crust , and smooth the top with a spatula .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: baked crust
+    PREP: into
+
+PREDID: 1
+PRED: smooth
+  DOBJ: the top
+  PARG: a spatula
+    PREP: with
+
+
+SENTID: 17
+SENT: Bake for about 35 minutes , or until the crust is lightly browned and the outside inch of the filling is set .
+PREDID: 0
+PRED: bake
+  PARG: about 35 minutes
+    PREP: for
+  PARG: the crust is lightly browned, the outside inch of the filling is set
+    PREP: until
+
+
+SENTID: 18
+SENT: Transfer pie to a wire the rack .
+PREDID: 0
+PRED: transfer
+  DOBJ: pie
+  PARG: a wire the rack
+    PREP: to
+
+
+SENTID: 19
+SENT: Gently press toasted pecan halves into hot filling in 2 concentric circles .
+PREDID: 0
+PRED: press
+  DOBJ: toasted pecan halves
+  PARG: hot filling
+    PREP: into
+  PARG: 2 concentric circles
+    PREP: in
+  OARG: gently
+
+
+SENTID: 20
+SENT: Cool to room temperature , and then chill until set , about 3 hours .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: chill
+  PARG: set , about 3 hours
+    PREP: until
+
+
+SENTID: 21
+SENT: Serve chilled or at room temperature .
+PREDID: 0
+PRED: serve
+  DOBJ: chilled
+  PARG: room temperature
+    PREP: at
+

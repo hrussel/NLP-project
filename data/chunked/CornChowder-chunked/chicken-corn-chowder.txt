@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Place chicken carcass -LRB- and any leftover skin and meat and other bones -RRB- in a large pot and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: chicken carcass -lrb-, any leftover skin, meat, other bones -rrb-
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Add bay leaf , and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: bay leaf
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat , and simmer 60 to 90 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  OARG: 60 to 90 minutes
+
+
+SENTID: 3
+SENT: Remove from heat , cool slightly , and strain .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  OARG: slightly
+
+PREDID: 2
+PRED: strain
+
+
+SENTID: 4
+SENT: Remove chicken meat from carcass , and chop into bite-size pieces . In a large saucepan over medium heat , melt butter .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken meat
+  PARG: carcass
+    PREP: from
+
+PREDID: 1
+PRED: chop
+  PARG: bite-size pieces
+    PREP: into
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat , melt butter
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook onion and shallots in butter until translucent .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, shallots
+  PARG: butter
+    PREP: in
+  PARG: translucent
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour in strained broth and chicken meat and stir in bouillon , parsley , salt , pepper , potatoes and corn .
+PREDID: 0
+PRED: pour
+  PARG: strained broth, chicken meat
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: bouillon , parsley , salt , pepper , potatoes, corn
+    PREP: in
+
+
+SENTID: 7
+SENT: Simmer 15 minutes , until potatoes are cooked and corn is tender .
+PREDID: 0
+PRED: simmer
+  PARG: potatoes are cooked, corn is tender
+    PREP: until
+  OARG: 15 minutes
+
+
+SENTID: 8
+SENT: Remove from heat and stir in cream .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: cream
+    PREP: in
+

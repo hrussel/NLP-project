@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Brown meat with onions and bell peppers , and season to taste .
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: onions, bell peppers
+    PREP: with
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+
+
+SENTID: 1
+SENT: Add tomato paste and water .
+PREDID: 0
+PRED: add
+  DOBJ: tomato paste, water
+
+
+SENTID: 2
+SENT: Let simmer .
+PREDID: 0
+PRED: let
+  DOBJ: simmer
+
+
+SENTID: 3
+SENT: In a mixing bowl , mix ricotta cheese with beaten egg .
+PREDID: 0
+PRED: mix
+  DOBJ: ricotta cheese
+  PARG: a mixing bowl
+    PREP: in
+  PARG: beaten egg
+    PREP: with
+
+
+SENTID: 4
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Preheat oven to 370 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 370 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 6
+SENT: Butter a 9 x 13 inch baking dish .
+PREDID: 0
+PRED: butter
+  DOBJ: a 9 x 13 inch baking dish
+
+
+SENTID: 7
+SENT: Begin layering all ingredients beginning with a few spoonfuls of tomato sauce .
+PREDID: 0
+PRED: begin
+  DOBJ: layering all ingredients beginning
+  PARG: a few spoonfuls of tomato sauce
+    PREP: with
+
+
+SENTID: 8
+SENT: Follow with noodles , then ricotta mixture , and shredded mozzarella .
+PREDID: 0
+PRED: follow
+  DOBJ: ricotta mixture , shredded mozzarella
+  PARG: noodles
+    PREP: with
+  OARG: then
+
+
+SENTID: 9
+SENT: Repeat until dish is filled .
+PREDID: 0
+PRED: repeat
+  PARG: dish is filled
+    PREP: until
+
+
+SENTID: 10
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- about 35 to 45 minutes , until bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 35 to 45 minutes
+    PREP: about
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 11
+SENT: Let cool a couple of minutes before cutting .
+PREDID: 0
+PRED: let
+  PARG: cutting
+    PREP: before
+  OARG: cool a couple of minutes
+

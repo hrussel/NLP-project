@@ -1,0 +1,191 @@
+SENTID: 0
+SENT: To make the mayonnaise , beat the egg yolks in a medium bowl with an electric mixer or hand blender .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg yolks
+  PARG: make the mayonnaise
+    PREP: to
+  PARG: a medium bowl
+    PREP: in
+  PARG: an electric mixer or hand blender
+    PREP: with
+
+
+SENTID: 1
+SENT: Slowly blend in the oil , one tablespoon at a time while mixing constantly .
+PREDID: 0
+PRED: blend
+  PARG: the oil , one tablespoon
+    PREP: in
+  PARG: a time
+    PREP: at
+  PARG: mixing
+    PREP: while
+  OARG: slowly
+  OARG: constantly
+
+
+SENTID: 2
+SENT: Continue to add oil until the consistency is a little thicker than regular mayonnaise .
+PREDID: 0
+PRED: continue
+  PARG: add oil
+    PREP: to
+  PARG: the consistency is a little thicker than regular mayonnaise
+    PREP: until
+
+
+SENTID: 3
+SENT: Pierce the garlic clove , and stir it around in the mixture until it releases its juice .
+PREDID: 0
+PRED: pierce
+  DOBJ: the garlic clove
+
+PREDID: 1
+PRED: stir
+  DOBJ: it
+  PARG: in the mixture
+    PREP: around
+  PARG: it releases its juice
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove the garlic and season with salt and pepper .
+PREDID: 0
+PRED: remove
+  DOBJ: the garlic
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Mix in the red wine vinegar 1 teaspoon at a time .
+PREDID: 0
+PRED: mix
+  PARG: the red wine vinegar 1 teaspoon
+    PREP: in
+  PARG: a time
+    PREP: at
+
+
+SENTID: 6
+SENT: Place the eggs in a large pot with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a large pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 7
+SENT: Bring to a boil , then simmer for 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Remove from the heat , drain and cool .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: cool
+
+
+SENTID: 9
+SENT: Peel off the shells , and cut eggs in half lengthwise .
+PREDID: 0
+PRED: peel
+  PARG: the shells
+    PREP: off
+
+PREDID: 1
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 10
+SENT: Remove the yolks , and place them into a medium bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: the yolks
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a medium bowl
+    PREP: into
+
+
+SENTID: 11
+SENT: Place the egg whites on a serving plate .
+PREDID: 0
+PRED: place
+  DOBJ: the egg whites
+  PARG: a serving plate
+    PREP: on
+
+
+SENTID: 12
+SENT: To the yolks , add shallot , salmon , 1/2 cup of the mayonnaise , salt and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: shallot , salmon , 1/2 cup of the mayonnaise , salt, pepper
+  PARG: the yolks
+    PREP: to
+
+
+SENTID: 13
+SENT: Mix until well blended .
+PREDID: 0
+PRED: mix
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 14
+SENT: If the mixture seems dry , stir in more mayonnaise .
+PREDID: 0
+PRED: stir
+  PARG: the mixture seems dry
+    PREP: if
+  PARG: more mayonnaise
+    PREP: in
+
+
+SENTID: 15
+SENT: Spoon into the egg white halves and chill or serve .
+PREDID: 0
+PRED: spoon
+  PARG: the egg white halves
+    PREP: into
+
+PREDID: 1
+PRED: chill
+
+PREDID: 2
+PRED: serve
+

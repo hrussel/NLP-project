@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: Boil potatoes until soft , about 25 to 30 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: potatoes
+  PARG: soft , about 25 to 30 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Remove potatoes to a large bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: potatoes
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 2
+SENT: Mix in the dill pickle , then stir in the mayonnaise .
+PREDID: 0
+PRED: mix
+  PARG: the dill pickle
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the mayonnaise
+    PREP: in
+
+
+SENTID: 3
+SENT: Season to taste with salt .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt
+    PREP: with
+

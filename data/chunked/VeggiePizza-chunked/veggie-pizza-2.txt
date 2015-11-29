@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bake in preheated oven for 11 to 13 minutes , until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 11 to 13 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove and allow to cool .
+PREDID: 0
+PRED: remove
+  OARG: to cool
+
+PREDID: 1
+PRED: allow
+
+
+SENTID: 3
+SENT: While crust is baking , mix together cream cheese and sour cream until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: cream cheese, sour cream
+  PARG: crust is baking
+    PREP: while
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in dill .
+PREDID: 0
+PRED: stir
+  PARG: dill
+    PREP: in
+
+
+SENTID: 5
+SENT: When crust is cool , spread cream cheese mixture evenly over top and cover with carrots , broccoli , cauliflower , and green pepper .
+PREDID: 0
+PRED: spread
+  DOBJ: cream cheese mixture
+  PARG: top
+    PREP: over
+  OARG: when crust is cool
+  OARG: evenly
+
+PREDID: 1
+PRED: cover
+  PARG: carrots , broccoli , cauliflower , green pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Chill approximately 5 minutes , until cream cheese mixture is firm .
+PREDID: 0
+PRED: chill
+  PARG: cream cheese mixture is firm
+    PREP: until
+  OARG: approximately
+  OARG: 5 minutes
+
+
+SENTID: 7
+SENT: Cut into 4 portions and serve .
+PREDID: 0
+PRED: cut
+  PARG: 4 portions
+    PREP: into
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,20 @@
+SENTID: 0
+SENT: In a large bowl toss together the macaroni , chicken , vegetables , cheese and dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: the macaroni , chicken , vegetables , cheese, dressing
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Chill for 20 minutes and serve .
+PREDID: 0
+PRED: chill
+  PARG: 20 minutes
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: In a large pot over medium heat , cook and stir the bacon until crisp , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the bacon
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: crisp , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off grease , leaving about 1 tablespoon in the pot .
+PREDID: 0
+PRED: drain
+  PARG: grease , leaving
+    PREP: off
+  PARG: 1 tablespoon
+    PREP: about
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 2
+SENT: Break the bacon into pieces in the pot .
+PREDID: 0
+PRED: break
+  DOBJ: the bacon
+  PARG: pieces
+    PREP: into
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 3
+SENT: Place the onion in the pot , and cook until transparent , about 5 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the onion
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: transparent , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix in the potatoes , and cook until they begin to turn translucent , about 10 minutes more .
+PREDID: 0
+PRED: mix
+  PARG: the potatoes
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: they begin to turn translucent , about 10 minutes more
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in the chicken broth , and season with oregano , salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the chicken broth
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: oregano , salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Bring to a boil over high heat , then cover , and simmer over low heat until the potatoes are soft , about 30 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: the potatoes are soft , about 30 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour in the cream-style corn and whole kernel corn , and cook for 10 more minutes .
+PREDID: 0
+PRED: pour
+  PARG: the cream-style corn, whole kernel corn
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 10 more minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Stir in the cream , Monterey Jack cheese , and Cheddar cheese over low heat until the soup is hot and the cheeses have melted .
+PREDID: 0
+PRED: stir
+  PARG: the cream , monterey jack cheese , cheddar cheese
+    PREP: in
+  PARG: low heat
+    PREP: over
+  PARG: the soup is hot, the cheeses have melted
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove from the heat , and serve .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+
+
+SENTID: 2
+SENT: Cook ground beef and sausage in a large , deep skillet until well browned , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef, sausage
+  PARG: a large
+    PREP: in
+  PARG: well browned , about 5 minutes
+    PREP: until
+  OARG: deep
+
+
+SENTID: 3
+SENT: Drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 4
+SENT: Stir in pasta sauce .
+PREDID: 0
+PRED: stir
+  PARG: pasta sauce
+    PREP: in
+
+
+SENTID: 5
+SENT: Bring to a simmer .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 6
+SENT: While sauce is simmering , bring a large pot of salted water to a boil over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: sauce is simmering
+    PREP: while
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Stir in the egg noodles .
+PREDID: 0
+PRED: stir
+  PARG: the egg noodles
+    PREP: in
+
+
+SENTID: 8
+SENT: Boil until cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: boil
+  PARG: cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 10
+SENT: Spoon half of the meat sauce into the prepared baking dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: half of the meat sauce
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 11
+SENT: Top with half of the cooked noodles , and 1Ê1/2 packages of cheese slices .
+PREDID: 0
+PRED: top
+  PARG: half of the cooked noodles , 1Ê1/2 packages of cheese slices
+    PREP: with
+
+
+SENTID: 12
+SENT: Repeat with remaining sauce , noodles , and cheese .
+PREDID: 0
+PRED: repeat
+  PARG: remaining sauce , noodles , cheese
+    PREP: with
+
+
+SENTID: 13
+SENT: Place uncovered dish in preheated oven .
+PREDID: 0
+PRED: place
+  DOBJ: uncovered dish
+  PARG: preheated oven
+    PREP: in
+
+
+SENTID: 14
+SENT: Bake , until cheese is melted and browned , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: cheese is melted, browned , about 40 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Let stand 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 5 minutes
+

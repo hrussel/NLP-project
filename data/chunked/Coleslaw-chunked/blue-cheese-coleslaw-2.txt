@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: Combine mayonnaise , salad dressing , salt , and pepper in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: mayonnaise , salad dressing , salt , pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in the coleslaw mix and bacon .
+PREDID: 0
+PRED: stir
+  PARG: the coleslaw mix, bacon
+    PREP: in
+
+
+SENTID: 2
+SENT: Add the tomatoes , and toss gently .
+PREDID: 0
+PRED: add
+  DOBJ: the tomatoes
+
+PREDID: 1
+PRED: toss
+  OARG: gently
+
+
+SENTID: 3
+SENT: Cover , and refrigerate for 1 hour or overnight before serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: overnight
+

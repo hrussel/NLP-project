@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: In a 3 quart pot over high heat , combine the potatoes with enough water to cover .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes
+  PARG: a 3 quart pot
+    PREP: in
+  PARG: high heat
+    PREP: over
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Boil for one hour , adding water to cover potatoes as necessary .
+PREDID: 0
+PRED: boil
+  PARG: one hour , adding water
+    PREP: for
+  PARG: cover potatoes
+    PREP: to
+  PARG: necessary
+    PREP: as
+
+
+SENTID: 2
+SENT: Add the celery , leeks and scallions and boil for another hour .
+PREDID: 0
+PRED: add
+  DOBJ: the celery , leeks, scallions
+
+PREDID: 1
+PRED: boil
+  PARG: another hour
+    PREP: for
+
+
+SENTID: 3
+SENT: Reduce heat to low , add the corn and parsley and heat through .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: the corn, parsley
+
+PREDID: 2
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 4
+SENT: Add the non-dairy creamer just before serving .
+PREDID: 0
+PRED: add
+  DOBJ: the non-dairy creamer
+  PARG: serving
+    PREP: before
+  OARG: just
+
+
+SENTID: 5
+SENT: Enjoy !
+PREDID: 0
+PRED: enjoy
+

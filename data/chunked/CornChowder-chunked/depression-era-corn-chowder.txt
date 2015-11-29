@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: In a large pot over medium heat , combine broth , corn , onion and potatoes .
+PREDID: 0
+PRED: combine
+  DOBJ: broth , corn , onion, potatoes
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Bring to a boil , then reduce heat , cover and simmer 15 to 20 minutes , until potatoes are just tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: cover
+  OARG: 15 to 20 minutes
+
+PREDID: 3
+PRED: simmer
+  PARG: potatoes are just tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in evaporated milk and butter until butter is just melted .
+PREDID: 0
+PRED: stir
+  PARG: evaporated milk
+    PREP: in
+
+PREDID: 1
+PRED: butter
+  PARG: butter is just melted
+    PREP: until
+
+
+SENTID: 3
+SENT: Season with salt and pepper and serve at once .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  PARG: once
+    PREP: at
+

@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , combine the ground beef and the onion and saute for 10 minutes , or until meat is browned and onion is tender .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef, the onion
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  PARG: 10 minutes
+    PREP: for
+  PARG: meat is browned, onion is tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain grease , if desired .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+  PARG: desired
+    PREP: if
+
+
+SENTID: 2
+SENT: Add the ground black pepper , garlic salt , tomato sauce , salsa , chili seasoning mix and kidney beans .
+PREDID: 0
+PRED: add
+  DOBJ: the ground black pepper , garlic salt , tomato sauce , salsa , chili seasoning mix, kidney beans
+
+
+SENTID: 3
+SENT: Mix well , reduce heat to low and simmer for at least an hour .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: at least an hour
+    PREP: for
+

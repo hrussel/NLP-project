@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: cool
+
+PREDID: 1
+PRED: let
+
+
+SENTID: 2
+SENT: Rinse with water .
+PREDID: 0
+PRED: rinse
+  PARG: water
+    PREP: with
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a large pot over medium heat , cook onion , bell pepper and celery in oil until just tender .
+PREDID: 0
+PRED: cook
+  DOBJ: onion , bell pepper, celery
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: oil
+    PREP: in
+  PARG: just tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in ground beef , beer , water , chili powder , salt , pepper , parsley and cumin .
+PREDID: 0
+PRED: stir
+  PARG: ground beef , beer , water , chili powder , salt , pepper , parsley, cumin
+    PREP: in
+
+
+SENTID: 6
+SENT: Reduce heat , cover and simmer 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: cover
+  OARG: 30 minutes
+
+PREDID: 2
+PRED: simmer
+
+
+SENTID: 7
+SENT: Stir in tomato paste and cook 10 minutes more .
+PREDID: 0
+PRED: stir
+  PARG: tomato paste
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 10 minutes more
+
+
+SENTID: 8
+SENT: Stir in kidney beans and heat through .
+PREDID: 0
+PRED: stir
+  PARG: kidney beans
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 9
+SENT: Remove from heat and stir in sour cream .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: sour cream
+    PREP: in
+

@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt butter in a large saucepan over low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Stir in the flour and heat until bubbly .
+PREDID: 0
+PRED: stir
+  PARG: the flour
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 3
+SENT: Slowly add the milk , stirring constantly , until mixture is thickened and smooth .
+PREDID: 0
+PRED: add
+  DOBJ: the milk , stirring
+  PARG: mixture is thickened, smooth
+    PREP: until
+  OARG: slowly
+  OARG: constantly
+
+
+SENTID: 4
+SENT: Remove from heat and stir in the chicken , ham , noodles , celery , salt and ground black pepper .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: the chicken , ham , noodles , celery , salt, ground black pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: Transfer this mixture to a 1Ê1/2 quart casserole dish .
+PREDID: 0
+PRED: transfer
+  DOBJ: this mixture
+  PARG: a 1Ê1/2 quart casserole dish
+    PREP: to
+
+
+SENTID: 6
+SENT: Bake at 400 degrees F -LRB- 200 degrees C -RRB- for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: at
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove from oven , sprinkle with the cheese and top with paprika , as desired .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the cheese
+    PREP: with
+
+PREDID: 2
+PRED: top
+  PARG: paprika
+    PREP: with
+  PARG: desired
+    PREP: as
+
+
+SENTID: 8
+SENT: Return to oven and bake for 5 to 10 minutes , or until cheese is bubbly .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: cheese is bubbly
+    PREP: until
+

@@ -1,0 +1,55 @@
+T1	predicate 0 5	Whisk
+T2	predicate 139 143	Stir
+T3	predicate 209 214	Cover
+T4	predicate 242 253	refrigerate
+T5	arg_object 6 13	vinegar
+T6	arg_object 15 31	vegan mayonnaise
+T7	arg_object 33 45	agave nectar
+T8	arg_object 47 60	mustard seeds
+T9	arg_object 62 75	Dijon mustard
+T10	arg_object 77 81	salt
+T11	arg_object 87 93	pepper
+T12	arg_location 103 112	in a bowl
+T13	arg_duration 113 137	until dressing is smooth
+R1	object Arg1:T1 Arg2:T5	
+R2	object Arg1:T1 Arg2:T6	
+R3	object Arg1:T1 Arg2:T7	
+R4	object Arg1:T1 Arg2:T8	
+R5	object Arg1:T1 Arg2:T9	
+R6	object Arg1:T1 Arg2:T10	
+R7	object Arg1:T1 Arg2:T11	
+R8	location Arg1:T1 Arg2:T12	
+R9	duration Arg1:T1 Arg2:T13	
+T14	arg_object 144 150	apples
+T15	arg_object 152 160	kohlrabi
+T16	arg_object 166 173	carrots
+T17	arg_co-object 174 187	into dressing
+T18	Evolution 179 187	dressing
+E1	Evolution:T18 Cause:T1
+T19	arg_duration 188 207	until evenly coated
+R10	object Arg1:T2 Arg2:T14	
+R11	object Arg1:T2 Arg2:T15	
+R12	object Arg1:T2 Arg2:T16	
+R13	co-object Arg1:T2 Arg2:T17	
+R14	duration Arg1:T2 Arg2:T19	
+T20	arg_object 215 219	bowl
+R15	object Arg1:T3 Arg2:T20	
+T21	arg_co-object 220 237	with plastic wrap
+R16	co-object Arg1:T3 Arg2:T21	
+T22	Evolution 215 219	bowl
+E2	Evolution:T22 Cause:T2
+R17	object Arg1:T4 Arg2:T3	
+T23	arg_other 254 274	for flavors to blend
+T24	arg_duration 276 291	at least 1 hour
+R18	other Arg1:T4 Arg2:T23	
+R19	duration Arg1:T4 Arg2:T24	
+T25	ingredient 6 13	vinegar
+T26	ingredient 15 31	vegan mayonnaise
+T27	ingredient 33 45	agave nectar
+T28	ingredient 47 60	mustard seeds
+T29	ingredient 62 75	Dijon mustard
+T30	ingredient 77 81	salt
+T31	ingredient 87 93	pepper
+T32	ingredient 144 150	apples
+T33	ingredient 152 160	kohlrabi
+T34	ingredient 166 173	carrots

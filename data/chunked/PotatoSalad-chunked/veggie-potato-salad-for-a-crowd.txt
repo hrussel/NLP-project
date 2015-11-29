@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: In a large pot , cook whole potatoes until done .
+PREDID: 0
+PRED: cook
+  DOBJ: whole potatoes
+  PARG: a large pot
+    PREP: in
+  PARG: done
+    PREP: until
+
+
+SENTID: 1
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 2
+SENT: Cut into bite-sized pieces . In a very large bowl , combine all ingredients from potatoes through basil .
+PREDID: 0
+PRED: cut
+  PARG: bite-sized pieces
+    PREP: into
+  PARG: a very large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: all ingredients
+  PARG: potatoes
+    PREP: from
+
+
+SENTID: 3
+SENT: Whisk together dressing ingredients .
+PREDID: 0
+PRED: whisk
+  DOBJ: dressing ingredients
+  OARG: together
+
+
+SENTID: 4
+SENT: Toss with vegetables , and add salt and pepper to taste .
+PREDID: 0
+PRED: toss
+  PARG: vegetables
+    PREP: with
+
+PREDID: 1
+PRED: add
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Chill .
+PREDID: 0
+PRED: chill
+
+
+SENTID: 6
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

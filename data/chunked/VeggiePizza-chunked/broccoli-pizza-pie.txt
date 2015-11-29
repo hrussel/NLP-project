@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Meanwhile , place broccoli in a steamer over 1 inch of boiling water , and cover .
+PREDID: 0
+PRED: place
+  DOBJ: broccoli
+  PARG: a steamer
+    PREP: in
+  PARG: 1 inch of boiling water
+    PREP: over
+  OARG: meanwhile
+
+PREDID: 1
+PRED: cover
+
+
+SENTID: 5
+SENT: Cook until tender but still firm , about 2 to 6 minutes ;
+PREDID: 0
+PRED: cook
+  PARG: tender but still firm , about 2 to 6 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: In a large bowl combine potatoes , broccoli , cheese , lemon juice , garlic , basil , oregano and parsley .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , broccoli , cheese , lemon juice , garlic , basil , oregano, parsley
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: On a pizza pan or baking sheet , roll out 1 pizza dough .
+PREDID: 0
+PRED: roll
+  PARG: a pizza pan or baking sheet
+    PREP: on
+  PARG: 1 pizza dough
+    PREP: out
+
+
+SENTID: 9
+SENT: Top with potato mixture and cover with second pizza dough ;
+PREDID: 0
+PRED: top
+  PARG: potato mixture
+    PREP: with
+
+PREDID: 1
+PRED: cover
+  PARG: second pizza dough
+    PREP: with
+
+
+SENTID: 10
+SENT: with moistened fingers seal edges of dough together .
+PREDID: 0
+PRED: seal
+  DOBJ: edges of dough
+  PARG: moistened fingers
+    PREP: with
+  OARG: together
+
+
+SENTID: 11
+SENT: Bake in preheated oven for 20 minutes , or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 12
+SENT: Serve with warmed pizza sauce .
+PREDID: 0
+PRED: serve
+  PARG: warmed pizza sauce
+    PREP: with
+

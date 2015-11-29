@@ -1,0 +1,29 @@
+SENTID: 0
+SENT: In a medium bowl , whisk together the rice vinegar , oil , peanut butter , soy sauce , brown sugar , ginger , and garlic .
+PREDID: 0
+PRED: whisk
+  DOBJ: the rice vinegar , oil , peanut butter , soy sauce , brown sugar , ginger , garlic
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: In a large bowl , mix the green cabbage , red cabbage , napa cabbage , red bell peppers , carrots , green onions , and cilantro .
+PREDID: 0
+PRED: mix
+  DOBJ: the green cabbage , red cabbage , napa cabbage , red bell peppers , carrots , green onions , cilantro
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Toss with the peanut butter mixture just before serving .
+PREDID: 0
+PRED: toss
+  PARG: the peanut butter mixture
+    PREP: with
+  PARG: serving
+    PREP: before
+  OARG: just
+

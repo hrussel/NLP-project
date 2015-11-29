@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: Cook the bacon pieces in a large skillet over medium heat until the fat has rendered , and the bacon is crispy , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the bacon pieces
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the fat has rendered , the bacon is crispy , about 8 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Remove the bacon , leaving the grease in the pan .
+PREDID: 0
+PRED: remove
+  DOBJ: leaving the grease
+  PARG: the pan
+    PREP: in
+  OARG: the bacon
+
+
+SENTID: 2
+SENT: Stir the carrot , celery , and bay leaf into the bacon grease ;
+PREDID: 0
+PRED: stir
+  DOBJ: the carrot , celery , bay leaf
+  PARG: the bacon
+    PREP: into
+
+PREDID: 1
+PRED: grease
+
+
+SENTID: 3
+SENT: cook for 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Meanwhile , melt the butter in a large pot over medium-low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Whisk in the flour , and cook for 5 minutes , stirring constantly .
+PREDID: 0
+PRED: whisk
+  PARG: the flour
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 5 minutes , stirring
+    PREP: for
+  OARG: constantly
+
+
+SENTID: 6
+SENT: Slowly whisk in the milk , and bring to a simmer over medium-high heat .
+PREDID: 0
+PRED: whisk
+  PARG: the milk
+    PREP: in
+  OARG: slowly
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Once simmering , cook for 5 minutes , whisking frequently .
+PREDID: 0
+PRED: cook
+  DOBJ: simmering
+  PARG: 5 minutes , whisking
+    PREP: for
+  OARG: once
+  OARG: frequently
+
+
+SENTID: 8
+SENT: Add the bacon , cooked vegetables , potatoes , and corn .
+PREDID: 0
+PRED: add
+  DOBJ: the bacon , cooked vegetables , potatoes , corn
+
+
+SENTID: 9
+SENT: Return to a simmer , then reduce heat to medium-low , and cook until the potatoes are tender , about 20 minutes more .
+PREDID: 0
+PRED: return
+  PARG: a simmer
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cook
+    PREP: to
+  PARG: the potatoes are tender , about 20 minutes more
+    PREP: until
+
+
+SENTID: 10
+SENT: Use additional milk as needed to to achieve desired consistency .
+PREDID: 0
+PRED: use
+  DOBJ: additional milk
+  PARG: needed
+    PREP: as
+  PARG: to achieve desired consistency
+    PREP: to
+
+
+SENTID: 11
+SENT: Garnish with paprika to serve .
+PREDID: 0
+PRED: garnish
+  PARG: paprika
+    PREP: with
+  PARG: serve
+    PREP: to
+

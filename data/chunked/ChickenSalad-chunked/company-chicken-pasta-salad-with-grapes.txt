@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a medium bowl , combine chicken , celery , grapes , cooked pasta , salt , and white pepper ;
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , celery , grapes , cooked pasta , salt , white pepper
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: mix well and reserve .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: reserve
+
+
+SENTID: 5
+SENT: In a medium bowl , combine mayonnaise , curry powder , cumin , rice vinegar , and sugar ;
+PREDID: 0
+PRED: combine
+  DOBJ: mayonnaise , curry powder , cumin , rice vinegar , sugar
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: whisk ingredients together and toss with chicken mixture .
+PREDID: 0
+PRED: whisk
+  DOBJ: ingredients
+  OARG: together
+
+PREDID: 1
+PRED: toss
+  PARG: chicken mixture
+    PREP: with
+
+
+SENTID: 7
+SENT: Cover salad with plastic wrap and refrigerate for at least 2 to 4 hours before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: salad
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: at least 2 to 4 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

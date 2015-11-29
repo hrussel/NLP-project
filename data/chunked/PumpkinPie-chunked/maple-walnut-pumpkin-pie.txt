@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f
+    PREP: to
+
+
+SENTID: 1
+SENT: In large mixing bowl , combine pumpkin , sweetened condensed milk , eggs , cinnamon , maple flavoring , ginger , nutmeg and salt ;
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , sweetened condensed milk , eggs , cinnamon , maple flavoring , ginger , nutmeg, salt
+  PARG: large mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Pour into pie shell .
+PREDID: 0
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake at 425 degrees F for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 425 degrees f
+    PREP: at
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Reduce oven to 350 degrees F ;
+PREDID: 0
+PRED: reduce
+  DOBJ: oven
+  PARG: 350 degrees f
+    PREP: to
+
+
+SENTID: 6
+SENT: continue baking 30 minutes .
+PREDID: 0
+PRED: continue
+  OARG: baking 30 minutes
+
+
+SENTID: 7
+SENT: In medium mixing bowl , combine brown sugar , flour and cinnamon ;
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , flour, cinnamon
+  PARG: medium mixing bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: cut in butter until crumbly .
+PREDID: 0
+PRED: cut
+  PARG: butter
+    PREP: in
+  PARG: crumbly
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in nuts .
+PREDID: 0
+PRED: stir
+  PARG: nuts
+    PREP: in
+
+
+SENTID: 10
+SENT: Remove pie from oven ;
+PREDID: 0
+PRED: remove
+  DOBJ: pie
+  PARG: oven
+    PREP: from
+
+
+SENTID: 11
+SENT: top evenly with crumb mixture .
+PREDID: 0
+PRED: top
+  PARG: crumb mixture
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 12
+SENT: Return to oven 10 minutes .
+PREDID: 0
+PRED: return
+  PARG: oven 10 minutes
+    PREP: to
+
+
+SENTID: 13
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 14
+SENT: Garnish as desired .
+PREDID: 0
+PRED: garnish
+  PARG: desired
+    PREP: as
+
+
+SENTID: 15
+SENT: Store covered in refrigerator .
+PREDID: 0
+PRED: store
+  DOBJ: covered
+  PARG: refrigerator
+    PREP: in
+

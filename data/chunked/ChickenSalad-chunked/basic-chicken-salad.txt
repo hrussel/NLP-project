@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Place almonds in a frying pan .
+PREDID: 0
+PRED: place
+  DOBJ: almonds
+  PARG: a frying pan
+    PREP: in
+
+
+SENTID: 1
+SENT: Toast over medium-high heat , shaking frequently .
+PREDID: 0
+PRED: toast
+  PARG: medium-high heat , shaking
+    PREP: over
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Watch carefully , as they burn easily .
+PREDID: 0
+PRED: watch
+  PARG: they burn
+    PREP: as
+  OARG: carefully
+  OARG: easily
+
+
+SENTID: 3
+SENT: In a medium bowl , mix together mayonnaise , lemon juice , and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , lemon juice , pepper
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Toss with chicken , almonds , and celery .
+PREDID: 0
+PRED: toss
+  PARG: chicken , almonds , celery
+    PREP: with
+

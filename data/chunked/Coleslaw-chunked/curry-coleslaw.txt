@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: In a large bowl , mix the cabbage , green onions , peas , and peanuts .
+PREDID: 0
+PRED: mix
+  DOBJ: the cabbage , green onions , peas , peanuts
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In a separate bowl , mix the sour cream , mayonnaise , vinegar , curry powder , ginger , and cayenne pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the sour cream , mayonnaise , vinegar , curry powder , ginger , cayenne pepper
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Toss with the slaw to coat .
+PREDID: 0
+PRED: toss
+  PARG: the slaw
+    PREP: with
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover and refrigerate until serving .
+PREDID: 0
+PRED: cover
+  PARG: serving
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+

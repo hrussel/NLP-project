@@ -1,0 +1,174 @@
+SENTID: 0
+SENT: Place the chicken into a large pot , and fill with enough water to cover it .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover it
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , cover , and cook over high heat until chicken is easily removed from the bone , about 35 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: cook
+  PARG: high heat
+    PREP: over
+  PARG: chicken is easily removed from the bone , about 35 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Cutting the chicken into pieces can speed up the cooking process a bit .
+PREDID: 0
+PRED: process
+  DOBJ: cutting the chicken
+  PARG: pieces can speed
+    PREP: into
+  OARG: up
+
+
+SENTID: 3
+SENT: While the chicken is cooking , cut two of the potatoes into large chunks , and the other potato into very small cubes .
+PREDID: 0
+PRED: cut
+  DOBJ: two of the potatoes
+  PARG: the chicken is cooking
+    PREP: while
+  PARG: large chunks , the other potato
+    PREP: into
+  PARG: very small cubes
+    PREP: into
+
+
+SENTID: 4
+SENT: When the chicken is cooked , remove it from the water .
+PREDID: 0
+PRED: remove
+  DOBJ: it
+  PARG: the water
+    PREP: from
+  OARG: when the chicken is cooked
+
+
+SENTID: 5
+SENT: Pull off the skin , and place all of the chicken meat in a separate dish .
+PREDID: 0
+PRED: pull
+  PARG: the skin
+    PREP: off
+
+PREDID: 1
+PRED: place
+  DOBJ: all of the chicken meat
+  PARG: a separate dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Pull the meat apart in long shreds .
+PREDID: 0
+PRED: pull
+  DOBJ: the meat
+  PARG: long shreds
+    PREP: in
+  OARG: apart
+
+
+SENTID: 7
+SENT: Reserve the cooking water in a separate container .
+PREDID: 0
+PRED: reserve
+  DOBJ: the cooking water
+  PARG: a separate container
+    PREP: in
+
+
+SENTID: 8
+SENT: Discard chicken skin and bones .
+PREDID: 0
+PRED: discard
+  DOBJ: chicken skin, bones
+
+
+SENTID: 9
+SENT: Pour the chicken broth into the pot , and add potatoes , chicken , salt , and pepper .
+PREDID: 0
+PRED: pour
+  DOBJ: the chicken broth
+  PARG: the pot
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: potatoes , chicken , salt , pepper
+
+
+SENTID: 10
+SENT: Pour in 2 to 3 cups of the reserved water .
+PREDID: 0
+PRED: pour
+  PARG: 2 to 3 cups of the reserved water
+    PREP: in
+
+
+SENTID: 11
+SENT: Bring to a boil , and cook for about 15 minutes , until potatoes start to soften .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 15 minutes
+    PREP: for
+  PARG: potatoes
+    PREP: until
+
+PREDID: 2
+PRED: start
+  OARG: to soften
+
+
+SENTID: 12
+SENT: Add 3 more cups of the chicken water , and the noodles .
+PREDID: 0
+PRED: add
+  DOBJ: 3 more cups of the chicken water , the noodles
+
+
+SENTID: 13
+SENT: Season with salt-free seasoning blend , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt-free seasoning blend , salt , pepper
+    PREP: with
+
+
+SENTID: 14
+SENT: Cover , and simmer over medium-low heat until the noodles are tender and small potato pieces have dissolved .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: medium-low heat
+    PREP: over
+  PARG: the noodles are tender, small potato pieces have dissolved
+    PREP: until
+

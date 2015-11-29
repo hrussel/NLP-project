@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Heat the oil in a large pot over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook the steak , sausage , onion , green pepper , red , pepper , yellow pepper , and garlic in the pot until the onions and peppers are soft , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the steak , sausage , onion , green pepper , red , pepper , yellow pepper , garlic
+  PARG: the pot
+    PREP: in
+  PARG: the onions, peppers are soft , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the diced tomatoes , tomato sauce , chicken bouillon , honey , and kidney beans ;
+PREDID: 0
+PRED: add
+  DOBJ: the diced tomatoes , tomato sauce , chicken bouillon , honey , kidney beans
+
+
+SENTID: 3
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: One at a time , stir in the cayenne pepper , chili powder , oregano , black pepper , salt , and sugar .
+PREDID: 0
+PRED: stir
+  DOBJ: one at a time
+  PARG: the cayenne pepper , chili powder , oregano , black pepper , salt , sugar
+    PREP: in
+
+
+SENTID: 5
+SENT: Sprinkle the Cheddar cheese into the chili in small batches and stir to melt .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the cheddar cheese
+  PARG: the chili
+    PREP: into
+  PARG: small batches
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: melt
+    PREP: to
+
+
+SENTID: 6
+SENT: Reduce heat to low and slow cook about 2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low, slow cook
+    PREP: to
+  PARG: 2 hours
+    PREP: about
+
+
+SENTID: 7
+SENT: Thicken by stirring the masa through the chili , and simmering for 10 minutes .
+PREDID: 0
+PRED: thicken
+  DOBJ: the chili , simmering
+  PARG: stirring the masa
+    PREP: by
+  PARG: 10 minutes
+    PREP: for
+  OARG: through
+

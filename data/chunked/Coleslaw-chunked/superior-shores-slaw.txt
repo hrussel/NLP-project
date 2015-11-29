@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Cook bacon in a large skillet over medium-high heat until crisp ;
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: crisp
+    PREP: until
+
+
+SENTID: 1
+SENT: drain , crumble , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Make the dressing by whisking together the mayonnaise , vinegar , sugar , and celery seed in a small bowl .
+PREDID: 0
+PRED: make
+  DOBJ: the mayonnaise , vinegar , sugar , celery seed
+  PARG: whisking
+    PREP: by
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+  OARG: the dressing
+
+
+SENTID: 3
+SENT: Toss together the coleslaw mix and green onion in a large bowl ;
+PREDID: 0
+PRED: toss
+  DOBJ: the coleslaw mix, green onion
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: add the dressing and toss to coat ;
+PREDID: 0
+PRED: add
+  DOBJ: the dressing
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 5
+SENT: stir in the bacon .
+PREDID: 0
+PRED: stir
+  PARG: the bacon
+    PREP: in
+
+
+SENTID: 6
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

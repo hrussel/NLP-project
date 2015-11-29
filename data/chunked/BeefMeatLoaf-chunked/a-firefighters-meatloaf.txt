@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Soak the bread in warm water in a small bowl .
+PREDID: 0
+PRED: soak
+  DOBJ: the bread
+  PARG: warm water
+    PREP: in
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Place the beef in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the beef
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Drain bread and add to beef along with green onion , onion , salsa , Dijon mustard , Worcestershire sauce , garlic , salt and pepper .
+PREDID: 0
+PRED: drain
+  DOBJ: bread
+
+PREDID: 1
+PRED: add
+  PARG: beef
+    PREP: to
+  PARG: with green onion , onion , salsa , dijon mustard , worcestershire sauce , garlic , salt, pepper
+    PREP: along
+
+
+SENTID: 4
+SENT: Mix by hand until well blended .
+PREDID: 0
+PRED: mix
+  PARG: hand
+    PREP: by
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 5
+SENT: Form into a loaf and place in a greased loaf pan .
+PREDID: 0
+PRED: form
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a greased loaf pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Bake for 1 hour in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 7
+SENT: Drain off excess fat and top with barbeque -LRB- Diana -RRB- sauce .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+PREDID: 1
+PRED: top
+  PARG: barbeque -lrb- diana -rrb- sauce
+    PREP: with
+
+
+SENTID: 8
+SENT: Return to the oven and bake for an additional 15 minutes .
+PREDID: 0
+PRED: return
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 15 minutes
+    PREP: for
+

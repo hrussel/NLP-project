@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta for 8 to 10 minutes , or until al dente ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a large skillet , brown beef over medium heat .
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Drain fat from pan , and transfer meat to a bowl .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  DOBJ: meat
+  PARG: a bowl
+    PREP: to
+
+
+SENTID: 5
+SENT: In the same skillet , cook onion and bell pepper in butter until tender .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, bell pepper
+  PARG: the same skillet
+    PREP: in
+  PARG: butter
+    PREP: in
+  PARG: tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in tomatoes , mushrooms , olives , and beef , and season with oregano .
+PREDID: 0
+PRED: stir
+  PARG: tomatoes , mushrooms , olives , beef
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: oregano
+    PREP: with
+
+
+SENTID: 7
+SENT: Simmer for 10 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Lightly grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+  OARG: lightly
+
+
+SENTID: 10
+SENT: Arrange half of the cooked fettuccine in the prepared dish , top with half of the beef and vegetable mixture , and sprinkle with 1/2 cup of Cheddar cheese and 1/2 cup of mozzarella cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: half of the cooked fettuccine
+  PARG: the prepared dish
+    PREP: in
+
+PREDID: 1
+PRED: top
+  PARG: half of the beef, vegetable mixture
+    PREP: with
+
+PREDID: 2
+PRED: sprinkle
+  PARG: 1/2 cup of cheddar cheese, 1/2 cup of mozzarella cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Repeat layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+
+SENTID: 12
+SENT: Mix together soup and beef broth until smooth , and pour over casserole .
+PREDID: 0
+PRED: mix
+  DOBJ: soup, beef broth
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: pour
+  PARG: casserole
+    PREP: over
+
+
+SENTID: 13
+SENT: Sprinkle with Parmesan cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in preheated oven for 30 to 35 minutes , or until heated through .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 to 35 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+

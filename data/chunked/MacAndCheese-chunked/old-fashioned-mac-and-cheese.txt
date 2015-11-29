@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare the elbow macaroni according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: the elbow macaroni according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 2
+SENT: Meanwhile , melt the butter in a small saucepan over medium high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Stir in the flour until a cream colored paste forms .
+PREDID: 0
+PRED: stir
+  PARG: the flour
+    PREP: in
+  PARG: a cream colored paste forms
+    PREP: until
+
+
+SENTID: 4
+SENT: Then pour in the milk and stir constantly until this comes to a hard boil , then stir for 1 more minute .
+PREDID: 0
+PRED: pour
+  PARG: the milk
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: this comes to a hard boil
+    PREP: until
+  OARG: constantly
+
+PREDID: 2
+PRED: stir
+  PARG: 1 more minute
+    PREP: for
+
+
+SENTID: 5
+SENT: Remove from heat and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: When the macaroni is cooked , spread 1/2 of it into the bottom of a lightly greased 9x13-inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/2 of it
+  PARG: the bottom of a lightly greased 9x13-inch baking dish
+    PREP: into
+  OARG: when the macaroni is cooked
+
+
+SENTID: 7
+SENT: Then layer 1/2 of the grated onion , 1/2 of the salt and pepper and 1/2 of each of the cheeses .
+PREDID: 0
+PRED: layer
+  DOBJ: 1/2 of the grated onion , 1/2 of the salt, pepper, 1/2 of each of the cheeses
+  OARG: then
+
+
+SENTID: 8
+SENT: Repeat this one more time :
+PREDID: 0
+PRED: repeat
+  DOBJ: this one more time
+
+
+SENTID: 9
+SENT: macaroni , onion , salt and pepper and cheeses , and then pour the reserved white sauce over all .
+PREDID: 0
+PRED: pour
+  DOBJ: macaroni , onion , salt, pepper, cheeses
+  PARG: all
+    PREP: over
+  OARG: then
+
+
+SENTID: 10
+SENT: Top off with small pats of butter to taste .
+PREDID: 0
+PRED: top
+  PARG: with small pats of butter
+    PREP: off
+  PARG: taste
+    PREP: to
+
+
+SENTID: 11
+SENT: Cover and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 45 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+
+PREDID: 1
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+

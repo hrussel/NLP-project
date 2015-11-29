@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta according to package directions ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a large skillet cook Johnsonville ¨ Italian Ground Sausage , onion , sweet pepper , and garlic until sausage is no longer pink ;
+PREDID: 0
+PRED: cook
+  DOBJ: johnsonville ¨ italian ground sausage , onion , sweet pepper , garlic
+  PARG: a large skillet
+    PREP: in
+  PARG: sausage is no longer pink
+    PREP: until
+
+
+SENTID: 4
+SENT: drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 5
+SENT: Transfer sausage mixture to a very large bowl .
+PREDID: 0
+PRED: transfer
+  DOBJ: sausage mixture
+  PARG: a very large bowl
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir in Classico ¨ Tomato and Basil pasta sauce , fennel seed , and cooked pasta .
+PREDID: 0
+PRED: stir
+  PARG: classico ¨ tomato, basil pasta sauce , fennel seed , cooked pasta
+    PREP: in
+
+
+SENTID: 7
+SENT: Transfer the pasta mixture to a 3-quart rectangular baking pan .
+PREDID: 0
+PRED: transfer
+  DOBJ: the pasta mixture
+  PARG: a 3-quart rectangular baking pan
+    PREP: to
+
+
+SENTID: 8
+SENT: In a medium bowl stir together ricotta cheese , egg , and 1 cup of the Italian blend cheeses .
+PREDID: 0
+PRED: stir
+  DOBJ: ricotta cheese , egg , 1 cup of the italian blend cheeses
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Spoon the ricotta cheese over the pasta mixture in large dollops .
+PREDID: 0
+PRED: spoon
+  DOBJ: the ricotta cheese
+  PARG: the pasta mixture
+    PREP: over
+  PARG: large dollops
+    PREP: in
+
+
+SENTID: 10
+SENT: Sprinkle the remaining shredded Italian blend cheeses over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the remaining shredded italian blend cheeses
+  PARG: the top
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake , uncovered , for 35 to 40 minutes or until heated through .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 35 to 40 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 12
+SENT: Let stand 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 minutes
+

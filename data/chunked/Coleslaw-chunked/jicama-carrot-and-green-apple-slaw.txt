@@ -1,0 +1,27 @@
+SENTID: 0
+SENT: Place the cabbage , jicama , radish , apple , carrot , pear , and cilantro into a mixing bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the cabbage , jicama , radish , apple , carrot , pear , cilantro
+  PARG: a mixing bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Sprinkle with olive oil , orange juice , lime juice , salt , and pepper .
+PREDID: 0
+PRED: sprinkle
+  PARG: olive oil , orange juice , lime juice , salt , pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Toss until evenly blended and serve .
+PREDID: 0
+PRED: toss
+  PARG: evenly blended
+    PREP: until
+
+PREDID: 1
+PRED: serve
+

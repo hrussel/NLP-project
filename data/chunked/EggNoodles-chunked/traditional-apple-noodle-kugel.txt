@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease an 8-inch square pan .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8-inch square pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Beat cream cheese and brown sugar together in a bowl using an electric mixer until smooth and creamy ;
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese, brown sugar
+  PARG: a bowl
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+  OARG: together
+
+
+SENTID: 6
+SENT: beat in cottage cheese , egg , egg whites , vanilla extract , cinnamon , and nutmeg until well combined .
+PREDID: 0
+PRED: beat
+  PARG: cottage cheese , egg , egg whites , vanilla extract , cinnamon , nutmeg
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 7
+SENT: Fold noodles and apples into cheese mixture by hand ;
+PREDID: 0
+PRED: fold
+  DOBJ: noodles, apples
+  PARG: cheese mixture
+    PREP: into
+  PARG: hand
+    PREP: by
+
+
+SENTID: 8
+SENT: spread into the prepared pan .
+PREDID: 0
+PRED: spread
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until kugel is lightly browned and firm , 45 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: kugel is lightly browned, firm , 45 to 50 minutes
+    PREP: until
+

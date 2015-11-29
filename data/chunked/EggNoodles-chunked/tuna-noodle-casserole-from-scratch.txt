@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter a medium baking dish with 1 tablespoon butter .
+PREDID: 0
+PRED: butter
+  DOBJ: a medium baking dish
+  PARG: 1 tablespoon butter
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add egg noodles , cook for 8 to 10 minutes , until al dente , and drain .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 4
+SENT: Melt 1 tablespoon butter in a skillet over medium-low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Stir in the onion , celery , and garlic , and cook 5 minutes , until tender .
+PREDID: 0
+PRED: stir
+  PARG: the onion , celery , garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+  OARG: 5 minutes
+
+
+SENTID: 6
+SENT: Increase heat to medium-high , and mix in mushrooms .
+PREDID: 0
+PRED: increase
+  DOBJ: heat
+  PARG: medium-high , mix
+    PREP: to
+  PARG: mushrooms
+    PREP: in
+
+
+SENTID: 7
+SENT: Continue to cook and stir 5 minutes , or until most of the liquid has evaporated .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: most of the liquid has evaporated
+    PREP: until
+  OARG: 5 minutes
+
+
+SENTID: 8
+SENT: Melt 4 tablespoons butter in a medium saucepan , and whisk in flour until smooth .
+PREDID: 0
+PRED: melt
+  DOBJ: 4 tablespoons butter
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: whisk
+  PARG: flour
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 9
+SENT: Gradually whisk in milk , and continue cooking 5 minutes , until sauce is smooth and slightly thickened .
+PREDID: 0
+PRED: whisk
+  PARG: milk , continue cooking 5 minutes
+    PREP: in
+  PARG: sauce is smooth, slightly thickened
+    PREP: until
+  OARG: gradually
+
+
+SENTID: 10
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 11
+SENT: Stir in tuna , peas , mushroom mixture , and cooked noodles .
+PREDID: 0
+PRED: stir
+  PARG: tuna , peas , mushroom mixture , cooked noodles
+    PREP: in
+
+
+SENTID: 12
+SENT: Transfer to the baking dish .
+PREDID: 0
+PRED: transfer
+  PARG: the baking dish
+    PREP: to
+
+
+SENTID: 13
+SENT: Melt remaining 2 tablespoons butter in a small bowl , mix with bread crumbs , and sprinkle over the casserole .
+PREDID: 0
+PRED: melt
+  DOBJ: remaining 2 tablespoons butter
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: bread crumbs
+    PREP: with
+
+PREDID: 2
+PRED: sprinkle
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 14
+SENT: Top with cheese .
+PREDID: 0
+PRED: top
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Bake 25 minutes in the preheated oven , or until bubbly and lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbly, lightly browned
+    PREP: until
+  OARG: 25 minutes
+

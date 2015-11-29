@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot , and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook for about 10 minutes , or until easily pierced with a fork .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 10 minutes
+    PREP: for
+  PARG: easily pierced with a fork
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and set aside to cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 3
+SENT: In a serving bowl , mix together the sour cream , salad dressing , shredded cheese and hard-cooked eggs .
+PREDID: 0
+PRED: mix
+  DOBJ: the sour cream , salad dressing , shredded cheese, hard-cooked eggs
+  PARG: a serving bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: When the potatoes are cool , stir into the dressing .
+PREDID: 0
+PRED: stir
+  PARG: the dressing
+    PREP: into
+  OARG: when the potatoes are cool
+
+
+SENTID: 5
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

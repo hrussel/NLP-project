@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix together the ground beef , egg , milk , onion , bread crumbs , salt and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , egg , milk , onion , bread crumbs , salt, pepper
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Press into a 9 inch pie pan like a crust .
+PREDID: 0
+PRED: press
+  PARG: a 9 inch pie pan
+    PREP: into
+  PARG: a crust
+    PREP: like
+
+
+SENTID: 3
+SENT: Prick meat all over using a fork .
+PREDID: 0
+PRED: prick
+  DOBJ: meat all over
+
+
+SENTID: 4
+SENT: Bake for 25 to 30 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 25 to 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 5
+SENT: Remove from the oven , and pour off any excess fat .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: pour
+  PARG: any excess fat
+    PREP: off
+
+
+SENTID: 6
+SENT: Arrange the sliced peaches over the beef .
+PREDID: 0
+PRED: arrange
+  DOBJ: the sliced peaches
+  PARG: the beef
+    PREP: over
+
+
+SENTID: 7
+SENT: Mix together the vinegar , ketchup and brown sugar , and spoon over the top of the peaches .
+PREDID: 0
+PRED: mix
+  DOBJ: the vinegar , ketchup, brown sugar
+  OARG: together
+
+PREDID: 1
+PRED: spoon
+  PARG: the top of the peaches
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake for an additional 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: an additional 20 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Let stand for at least 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: at least 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

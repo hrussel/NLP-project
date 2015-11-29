@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Place cubed potatoes into a large kettle and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: cubed potatoes
+  PARG: a large kettle
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over medium-high heat , then reduce heat to medium-low , cover , and simmer until the potatoes are just tender , 15 to 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the potatoes are just tender , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and spread the potatoes onto baking sheets in a single layer .
+PREDID: 0
+PRED: drain
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: spread
+  PARG: baking sheets
+    PREP: onto
+  PARG: a single layer
+    PREP: in
+
+
+SENTID: 3
+SENT: Chill the potatoes in the refrigerator until cold , about 2 hours .
+PREDID: 0
+PRED: chill
+  DOBJ: the potatoes
+  PARG: the refrigerator
+    PREP: in
+  PARG: cold , about 2 hours
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix the cooled potatoes , red onion , egg , mayonnaise , barbeque sauce , garlic powder , salt , and pepper in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the cooled potatoes , red onion , egg , mayonnaise , barbeque sauce , garlic powder , salt , pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Sprinkle with paprika if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+  PARG: desired
+    PREP: if
+

@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: In a large bowl , combine the chicken , raisins , mustard , mayonnaise , pineapple , curry powder and celery .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , raisins , mustard , mayonnaise , pineapple , curry powder, celery
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix ingredients and divide among four servings of lettuce .
+PREDID: 0
+PRED: mix
+  DOBJ: ingredients
+
+PREDID: 1
+PRED: divide
+  PARG: four servings of lettuce
+    PREP: among
+
+
+SENTID: 2
+SENT: Top with pecans and garnish with grapes .
+PREDID: 0
+PRED: top
+  PARG: pecans
+    PREP: with
+
+PREDID: 1
+PRED: garnish
+  PARG: grapes
+    PREP: with
+

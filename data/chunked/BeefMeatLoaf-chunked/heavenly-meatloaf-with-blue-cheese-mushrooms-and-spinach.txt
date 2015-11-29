@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a loaf pan
+
+
+SENTID: 2
+SENT: Mix eggs , spinach , mushrooms , bread crumbs , onion , milk , blue cheese , Worcestershire sauce , garlic , cayenne pepper , oregano , basil , salt , and black pepper together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: eggs , spinach , mushrooms , bread crumbs , onion , milk , blue cheese , worcestershire sauce , garlic , cayenne pepper , oregano , basil , salt , black pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Add ground beef and mix thoroughly with your hands ;
+PREDID: 0
+PRED: add
+  DOBJ: ground beef
+
+PREDID: 1
+PRED: mix
+  PARG: your hands
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: pack into prepared loaf pan .
+PREDID: 0
+PRED: pack
+  PARG: prepared loaf pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until no longer pink in the center , 45 to 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , 45 to 60 minutes
+    PREP: until
+

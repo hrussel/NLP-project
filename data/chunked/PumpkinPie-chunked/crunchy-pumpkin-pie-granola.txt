@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat an oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat 2 baking sheets with nonstick cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: 2 baking sheets
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Combine brown sugar , pumpkin pie spice , rolled oats , almonds , and pecans in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , pumpkin pie spice , rolled oats , almonds , pecans
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix the applesauce , honey , and vanilla in a separate large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the applesauce , honey , vanilla
+  PARG: a separate large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir the oat mixture into the applesauce mixture , until granola begins to gather in clusters .
+PREDID: 0
+PRED: stir
+  DOBJ: the oat mixture
+  PARG: the applesauce mixture
+    PREP: into
+  PARG: granola begins to gather in clusters
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon granola evenly onto prepared baking sheets .
+PREDID: 0
+PRED: spoon
+  DOBJ: granola
+  PARG: prepared baking sheets
+    PREP: onto
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Bake in preheated oven , stirring every 20 minutes , until lightly browned and crispy , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: lightly browned, crispy , about 1 hour
+    PREP: until
+  OARG: stirring every 20 minutes
+
+
+SENTID: 7
+SENT: Remove from oven ;
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+
+SENTID: 8
+SENT: cool to room temperature .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 9
+SENT: Stir in raisins and cranberries ;
+PREDID: 0
+PRED: stir
+  PARG: raisins, cranberries
+    PREP: in
+
+
+SENTID: 10
+SENT: store in an airtight container .
+PREDID: 0
+PRED: store
+  PARG: an airtight container
+    PREP: in
+

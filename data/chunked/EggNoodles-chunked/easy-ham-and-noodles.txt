@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the noodles , ham , cheese , soup and milk in a 9x9 inch casserole dish and mix well .
+PREDID: 0
+PRED: place
+  DOBJ: the noodles , ham , cheese , soup, milk
+  PARG: a 9x9 inch casserole dish
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 25 to 30 minutes
+    PREP: for
+

@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Stir together the sea salt , black pepper , red pepper flakes , five-spice powder , and paprika in a shallow bowl until blended .
+PREDID: 0
+PRED: stir
+  DOBJ: the sea salt , black pepper , red pepper flakes , five-spice powder , paprika
+  PARG: a shallow bowl
+    PREP: in
+  PARG: blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Heat vegetable oil in a large skillet or wok over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Gently press both sides of the chicken pieces into the seasoning mix , and place into the hot skillet .
+PREDID: 0
+PRED: press
+  DOBJ: both sides of the chicken pieces
+  PARG: the seasoning mix
+    PREP: into
+  OARG: gently
+
+PREDID: 1
+PRED: place
+  PARG: the hot skillet
+    PREP: into
+
+
+SENTID: 3
+SENT: Cook , stirring occasionally to flip the chicken pieces over , until the chicken is browned on both sides and the meat is no longer pink in the center , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: flip the chicken pieces
+    PREP: to
+  PARG: the chicken is browned on both sides, the meat is no longer pink in the center , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Stir in the broccoli and carrots , and cook and stir until the vegetables are tender , 10 to 12 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the broccoli, carrots , cook
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the vegetables are tender , 10 to 12 minutes
+    PREP: until
+

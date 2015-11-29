@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Dredge steak in flour , salt and pepper .
+PREDID: 0
+PRED: dredge
+  DOBJ: steak
+  PARG: flour , salt, pepper
+    PREP: in
+
+
+SENTID: 1
+SENT: Heat a large skillet on medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium high heat
+    PREP: on
+
+
+SENTID: 2
+SENT: Add oil to hot pan .
+PREDID: 0
+PRED: add
+  DOBJ: oil
+  PARG: hot pan
+    PREP: to
+
+
+SENTID: 3
+SENT: Add meat and saute until browned .
+PREDID: 0
+PRED: add
+  DOBJ: meat
+
+PREDID: 1
+PRED: saute
+  PARG: browned
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in onion and saute .
+PREDID: 0
+PRED: stir
+  PARG: onion
+    PREP: in
+
+PREDID: 1
+PRED: saute
+
+
+SENTID: 5
+SENT: Stir in marinara sauce and wine and bring to boil .
+PREDID: 0
+PRED: stir
+  PARG: marinara sauce, wine
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Add celery and green pepper ;
+PREDID: 0
+PRED: add
+  DOBJ: celery, green pepper
+
+
+SENTID: 7
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 8
+SENT: Reduce heat , cover and simmer for 45 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: cover
+  PARG: 45 minutes
+    PREP: for
+
+PREDID: 2
+PRED: simmer
+
+
+SENTID: 9
+SENT: Heat a large pot of water to a boil and cook noodles until al dente .
+PREDID: 0
+PRED: heat
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: noodles
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove from heat and drain .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 11
+SENT: Serve meat sauce over noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: meat sauce
+  PARG: noodles
+    PREP: over
+

@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook for 15 minutes or until tender but firm .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: 15 minutes
+    PREP: for
+  PARG: tender but firm
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain the potatoes and transfer to a large bowl .
+PREDID: 0
+PRED: drain
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 3
+SENT: In a large mixing bowl , toss together the vanilla yogurt , green onions , lemon , celery , carrots , bean sprouts , red onion , salt , pepper and garlic salt .
+PREDID: 0
+PRED: toss
+  DOBJ: the vanilla yogurt , green onions , lemon , celery , carrots , bean sprouts , red onion , salt , pepper, garlic salt
+  PARG: a large mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Pour the mixture over the potatoes .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the potatoes
+    PREP: over
+
+
+SENTID: 5
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

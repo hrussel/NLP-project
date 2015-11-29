@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place chicken breasts onto a roasting pan ;
+PREDID: 0
+PRED: place
+  DOBJ: chicken breasts
+  PARG: a roasting pan
+    PREP: onto
+
+
+SENTID: 2
+SENT: season with Italian seasoning , Cook chicken in preheated oven until no longer pink in the center and the juices run clear , about 20 minutes .
+PREDID: 0
+PRED: season
+  PARG: italian seasoning
+    PREP: with
+
+PREDID: 1
+PRED: cook
+  DOBJ: chicken
+  PARG: preheated oven
+    PREP: in
+  PARG: no longer pink in the center, the juices run clear , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Set aside to cool completely .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 4
+SENT: Cook and stir bacon in a large , deep skillet over medium-high heat until crisp , about 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+
+PREDID: 1
+PRED: stir
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: crisp , about 10 minutes
+    PREP: until
+  OARG: deep
+
+
+SENTID: 5
+SENT: drain on a paper towel-lined plate until cool .
+PREDID: 0
+PRED: drain
+  PARG: a paper towel-lined plate
+    PREP: on
+  PARG: cool
+    PREP: until
+
+
+SENTID: 6
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: cook the rotelle pasta at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the rotelle pasta
+  PARG: a boil
+    PREP: at
+  PARG: tender yet firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 9
+SENT: Rinse the pasta in cold water until cooled ;
+PREDID: 0
+PRED: rinse
+  DOBJ: the pasta
+  PARG: cold water
+    PREP: in
+  PARG: cooled
+    PREP: until
+
+
+SENTID: 10
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 11
+SENT: Combine chicken , bacon , pasta , cucumber , tomatoes , black olives , artichoke hearts , and green onions in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , bacon , pasta , cucumber , tomatoes , black olives , artichoke hearts , green onions
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: Pour vinegar and Alfredo sauce over the pasta mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: vinegar, alfredo sauce
+  PARG: the pasta mixture
+    PREP: over
+
+
+SENTID: 13
+SENT: stir to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 14
+SENT: Cover bowl with plastic wrap .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+
+SENTID: 15
+SENT: Refrigerate at least 1 hour before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

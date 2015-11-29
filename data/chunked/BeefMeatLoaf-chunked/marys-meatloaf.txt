@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , thoroughly mix ground beef , onion , salt , pepper and garlic powder .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , onion , salt , pepper, garlic powder
+  PARG: a large bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 2
+SENT: Mix in bread , milk , egg , 2 tablespoons mustard and 1/4 cup ketchup .
+PREDID: 0
+PRED: mix
+  PARG: bread , milk , egg , 2 tablespoons mustard, 1/4 cup ketchup
+    PREP: in
+
+
+SENTID: 3
+SENT: Press the meat mixture into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: press
+  DOBJ: the meat mixture
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 4
+SENT: In a small bowl , stir together remaining mustard , ketchup and brown sugar ;
+PREDID: 0
+PRED: stir
+  DOBJ: remaining mustard , ketchup, brown sugar
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: pour on top of the meat loaf .
+PREDID: 0
+PRED: pour
+  PARG: top of the meat loaf
+    PREP: on
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 2 hours .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 2 hours
+    PREP: for
+

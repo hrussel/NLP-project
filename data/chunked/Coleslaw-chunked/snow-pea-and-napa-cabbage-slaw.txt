@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: In a large pot of boiling water , blanch snow peas 15 seconds , strain and transfer to a bowl of cold water to chill .
+PREDID: 0
+PRED: blanch
+  PARG: a large pot of boiling water
+    PREP: in
+  OARG: snow peas 15 seconds
+
+PREDID: 1
+PRED: strain
+  PARG: a bowl of cold water
+    PREP: to
+
+PREDID: 2
+PRED: transfer
+  PARG: chill
+    PREP: to
+
+
+SENTID: 1
+SENT: Drain and slice thin .
+PREDID: 0
+PRED: drain
+  OARG: thin
+
+PREDID: 1
+PRED: slice
+
+
+SENTID: 2
+SENT: In a large bowl , combine the snow peas , cabbage , carrots , bell pepper , green onions , lemon juice , vinegar and olive oil .
+PREDID: 0
+PRED: combine
+  DOBJ: the snow peas , cabbage , carrots , bell pepper , green onions , lemon juice , vinegar, olive oil
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Add salt and pepper to taste ;
+PREDID: 0
+PRED: add
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 4
+SENT: toss and serve chilled .
+PREDID: 0
+PRED: toss
+  DOBJ: chilled
+
+PREDID: 1
+PRED: serve
+

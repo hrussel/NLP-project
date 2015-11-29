@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Beat together the eggs , molasses , cream , vanilla , ginger , and cinnamon in a bowl until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , molasses , cream , vanilla , ginger , cinnamon
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Dip the challah slices in the batter until coated on all sides .
+PREDID: 0
+PRED: dip
+  DOBJ: the challah slices
+  PARG: the batter
+    PREP: in
+  PARG: coated on all sides
+    PREP: until
+
+
+SENTID: 2
+SENT: Melt half of the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: half of the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Place half of the challah slices into the pan , and cook until golden brown on each side , about 3 minutes per side .
+PREDID: 0
+PRED: place
+  DOBJ: half of the challah slices
+  PARG: the pan
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: golden brown on each side , about 3 minutes per side
+    PREP: until
+
+
+SENTID: 4
+SENT: Repeat with remaining butter and challah slices .
+PREDID: 0
+PRED: repeat
+  PARG: remaining butter, challah slices
+    PREP: with
+

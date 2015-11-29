@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Cook sausage and ground beef in a large pot over medium-high heat until lightly browned and crumbly .
+PREDID: 0
+PRED: cook
+  DOBJ: sausage, ground beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: lightly browned, crumbly
+    PREP: until
+
+
+SENTID: 1
+SENT: When the meat has released its grease , and has begun to brown , drain off accumulated grease , and season with chili powder , cumin , and coriander .
+PREDID: 0
+PRED: drain
+  PARG: brown
+    PREP: to
+  PARG: accumulated grease
+    PREP: off
+  OARG: when the meat has released its grease , has begun
+
+PREDID: 1
+PRED: season
+  PARG: chili powder , cumin , coriander
+    PREP: with
+
+
+SENTID: 2
+SENT: Cook and stir for 1 minute until fragrant , then stir in the garlic and onion .
+PREDID: 0
+PRED: cook
+  PARG: 1 minute
+    PREP: for
+
+PREDID: 1
+PRED: stir
+  PARG: fragrant , then stir in the garlic, onion
+    PREP: until
+
+
+SENTID: 3
+SENT: Cook until the onion has softened and turned translucent , about 4 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 4 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in the diced tomatoes , tomato sauce , kidney beans , chipotle peppers , salt , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the diced tomatoes , tomato sauce , kidney beans , chipotle peppers , salt , pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: Bring to a simmer , then pour the chili into a slow cooker .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: the chili
+  PARG: a slow cooker
+    PREP: into
+
+
+SENTID: 6
+SENT: Cover , and cook on Low for 8 to 10 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 8 to 10 hours
+    PREP: for
+
+
+SENTID: 7
+SENT: Stir in tomato paste an hour before the chili is done .
+PREDID: 0
+PRED: stir
+  PARG: tomato paste an hour
+    PREP: in
+  PARG: the chili is done
+    PREP: before
+

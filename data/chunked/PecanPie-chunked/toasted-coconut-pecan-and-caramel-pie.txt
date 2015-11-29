@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: In a medium skillet , melt butter or margarine over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter or margarine
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add coconut and pecans .
+PREDID: 0
+PRED: add
+  DOBJ: coconut, pecans
+
+
+SENTID: 2
+SENT: Toss well , and saute until coconut is lightly browned .
+PREDID: 0
+PRED: toss
+  OARG: well
+
+PREDID: 1
+PRED: saute
+  PARG: coconut is lightly browned
+    PREP: until
+
+
+SENTID: 3
+SENT: Set aside to cool .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 4
+SENT: In a large mixing bowl , beat cream cheese until fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese
+  PARG: a large mixing bowl
+    PREP: in
+  PARG: fluffy
+    PREP: until
+
+
+SENTID: 5
+SENT: Add condensed milk and mix until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: condensed milk
+
+PREDID: 1
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Fold in whipped topping .
+PREDID: 0
+PRED: fold
+  PARG: whipped topping
+    PREP: in
+
+
+SENTID: 7
+SENT: Spread 1/4 of cream cheese mixture into each pastry shell .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 of cream cheese mixture
+  PARG: each pastry shell
+    PREP: into
+
+
+SENTID: 8
+SENT: Sprinkle 1/4 of coconut mixture over each pie .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/4 of coconut mixture
+  PARG: each pie
+    PREP: over
+
+
+SENTID: 9
+SENT: Drizzle 1/2 of caramel topping over each coconut layer .
+PREDID: 0
+PRED: drizzle
+  DOBJ: 1/2 of caramel topping
+  PARG: each coconut layer
+    PREP: over
+
+
+SENTID: 10
+SENT: Follow with remaining cream cheese mixture , then remaining coconut mixture .
+PREDID: 0
+PRED: follow
+  DOBJ: remaining coconut mixture
+  PARG: remaining cream cheese mixture
+    PREP: with
+  OARG: then
+
+
+SENTID: 11
+SENT: Pies may be served chilled or frozen .
+PREDID: 0
+PRED: served
+  DOBJ: chilled or frozen
+  OARG: pies may be
+

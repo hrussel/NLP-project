@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: Heat the oil in a large skillet over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute the beef cubes in the oil for 2 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: the beef cubes
+  PARG: the oil
+    PREP: in
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Reduce heat to medium and stir in the garlic .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the garlic
+    PREP: in
+
+
+SENTID: 3
+SENT: In a small bowl , combine the chili powder , cumin and flour .
+PREDID: 0
+PRED: combine
+  DOBJ: the chili powder , cumin, flour
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Sprinkle over the meat and stir until evenly coated .
+PREDID: 0
+PRED: sprinkle
+  PARG: the meat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 5
+SENT: Crumble the oregano over the meat and pour in 1Ê1/2 cans of the broth .
+PREDID: 0
+PRED: crumble
+  DOBJ: the oregano
+  PARG: the meat
+    PREP: over
+
+PREDID: 1
+PRED: pour
+  PARG: 1Ê1/2 cans of the broth
+    PREP: in
+
+
+SENTID: 6
+SENT: Add the salt and ground black pepper , stir together well , bring to a boil , reduce heat to low and let simmer , partially covered for about 90 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the salt, ground black pepper
+
+PREDID: 1
+PRED: stir
+  OARG: together
+  OARG: well
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 3
+PRED: reduce
+  DOBJ: covered
+  PARG: low, let simmer
+    PREP: to
+  PARG: about 90 minutes
+    PREP: for
+  OARG: partially
+  OARG: heat
+
+
+SENTID: 7
+SENT: Pour in remaining broth and simmer 30 minutes more , until meat begins to fall apart .
+PREDID: 0
+PRED: pour
+  PARG: remaining broth
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: meat begins to fall apart
+    PREP: until
+  OARG: 30 minutes more
+
+
+SENTID: 8
+SENT: Cool , cover and refrigerate to allow the flavors to blend .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: cover
+  OARG: to allow the flavors
+
+PREDID: 2
+PRED: refrigerate
+  PARG: blend
+    PREP: to
+

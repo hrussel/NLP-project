@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare a muffin tin with paper liners .
+PREDID: 0
+PRED: prepare
+  DOBJ: a muffin tin
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Prepare muffins according to package instructions using water , eggs and oil , but use only 1/4 cup oil instead of 1/2 cup , and add 1/4 cup applesauce .
+PREDID: 0
+PRED: prepare
+  DOBJ: muffins according
+  PARG: package instructions using water , eggs, oil
+    PREP: to
+
+PREDID: 1
+PRED: use
+  DOBJ: 1/4 cup oil
+  PARG: 1/2 cup
+    PREP: of
+  OARG: only
+  OARG: instead
+
+PREDID: 2
+PRED: add
+  DOBJ: 1/4 cup applesauce
+
+
+SENTID: 3
+SENT: Stir in banana , 3/4 cup almonds and chocolate .
+PREDID: 0
+PRED: stir
+  PARG: banana , 3/4 cup almonds, chocolate
+    PREP: in
+
+
+SENTID: 4
+SENT: Divide evenly among muffin cups and sprinkle with remaining 1/4 cup almonds .
+PREDID: 0
+PRED: divide
+  PARG: muffin cups
+    PREP: among
+  OARG: evenly
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining 1/4 cup almonds
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake 15-20 minutes , until a tester comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: a tester comes out clean
+    PREP: until
+  OARG: 15-20 minutes
+
+
+SENTID: 6
+SENT: Cool muffin tin on a rack for 10 minutes , then remove muffins and continue cooling on rack .
+PREDID: 0
+PRED: cool
+  DOBJ: muffin tin
+  PARG: a rack
+    PREP: on
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  DOBJ: muffins, continue cooling
+  PARG: rack
+    PREP: on
+
+
+SENTID: 7
+SENT: Store air tight at room temperature for up to 4 days .
+PREDID: 0
+PRED: store
+  DOBJ: air
+  PARG: room temperature
+    PREP: at
+  PARG: up
+    PREP: for
+  PARG: 4 days
+    PREP: to
+  OARG: tight
+

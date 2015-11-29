@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to cool .
+PREDID: 0
+PRED: drain
+  OARG: to cool
+
+PREDID: 1
+PRED: allow
+
+
+SENTID: 3
+SENT: Slice cooled potatoes and layer in a large bowl or dish .
+PREDID: 0
+PRED: slice
+  DOBJ: cooled potatoes
+
+PREDID: 1
+PRED: layer
+  PARG: a large bowl or dish
+    PREP: in
+
+
+SENTID: 4
+SENT: In a saucepan combine water , vinegar and sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: water , vinegar, sugar
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 5
+SENT: Bring to a boil and cook for one minute .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: one minute
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from heat and pour over potatoes .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: pour
+  PARG: potatoes
+    PREP: over
+
+
+SENTID: 7
+SENT: Cover and chill for at least 12 hours .
+PREDID: 0
+PRED: cover
+  PARG: at least 12 hours
+    PREP: for
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 8
+SENT: Drain excess marinade and add onions , salt , pepper , celery seed and mayonnaise .
+PREDID: 0
+PRED: drain
+  DOBJ: excess marinade
+
+PREDID: 1
+PRED: add
+  DOBJ: onions , salt , pepper , celery seed, mayonnaise
+
+
+SENTID: 9
+SENT: Mix well and serve chilled .
+PREDID: 0
+PRED: mix
+  DOBJ: chilled
+  OARG: well
+
+PREDID: 1
+PRED: serve
+

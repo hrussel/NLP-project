@@ -1,0 +1,81 @@
+T1	predicate 0 4	Heat
+T2	predicate 52 56	Cook
+T3	predicate 148 153	bring
+T4	predicate 201 204	Add
+T5	predicate 221 225	cook
+T6	predicate 266 271	drain
+T7	predicate 277 286	set aside
+T8	predicate 299 307	transfer
+T9	predicate 341 348	Stir in
+T10	predicate 401 407	Simmer
+T11	predicate 453 458	Serve
+R1	object Arg1:T11 Arg2:T10	
+R2	object Arg1:T10 Arg2:T9	
+R3	co-object Arg1:T9 Arg2:T8	
+R4	object Arg1:T5 Arg2:T4	
+R5	object Arg1:T6 Arg2:T5	
+R6	object Arg1:T7 Arg2:T6	
+T12	arg_co-object 463 479	over egg noodles
+R7	co-object Arg1:T11 Arg2:T12	
+T13	Evolution 468 479	egg noodles
+E1	Evolution:T13 Cause:T7
+R8	co-object Arg1:T4 Arg2:T3	
+T14	arg_object 308 318	vegetables
+T15	Evolution 308 318	vegetables
+E2	Evolution:T15 Cause:T2
+R9	co-object Arg1:T2 Arg2:T1	
+T16	arg_duration 408 428	for 15 to 20 minutes
+T17	arg_other 430 451	stirring occasionally
+R10	duration Arg1:T10 Arg2:T16	
+R11	other Arg1:T10 Arg2:T17	
+T18	arg_object 349 367	the diced tomatoes
+T19	arg_object 369 381	tomato paste
+T20	arg_object 383 388	sugar
+T21	arg_object 394 399	water
+R12	object Arg1:T9 Arg2:T18	
+R13	object Arg1:T9 Arg2:T19	
+R14	object Arg1:T9 Arg2:T20	
+R15	object Arg1:T9 Arg2:T21	
+R16	object Arg1:T8 Arg2:T14	
+T22	arg_location 319 339	to a large stock pot
+R17	location Arg1:T8 Arg2:T22	
+T23	arg_object 205 216	egg noodles
+R18	object Arg1:T4 Arg2:T23	
+T24	arg_duration 226 264	for 8 to 10 minutes, or until al dente
+R19	duration Arg1:T5 Arg2:T24	
+T25	arg_object 154 189	a large pot of lightly salted water
+T26	arg_other 190 199	to a boil
+R20	object Arg1:T3 Arg2:T25	
+R21	other Arg1:T3 Arg2:T26	
+T27	arg_object 57 65	eggplant
+T28	arg_object 67 78	bell pepper
+T29	arg_object 80 85	onion
+T30	arg_object 91 97	garlic
+T31	arg_duration 98 119	until soft and tender
+T32	arg_other 121 135	stirring often
+R22	object Arg1:T2 Arg2:T27	
+R23	object Arg1:T2 Arg2:T28	
+R24	object Arg1:T2 Arg2:T29	
+R25	object Arg1:T2 Arg2:T30	
+R26	duration Arg1:T2 Arg2:T31	
+R27	other Arg1:T2 Arg2:T32	
+T33	arg_object 5 14	olive oil
+T34	arg_location 15 33	in a large skillet
+T35	arg_other 34 50	over medium heat
+R28	object Arg1:T1 Arg2:T33	
+R29	location Arg1:T1 Arg2:T34	
+R30	other Arg1:T1 Arg2:T35	
+T36	ingredient 205 216	egg noodles
+T37	ingredient 5 14	olive oil
+T38	ingredient 57 65	eggplant
+T39	ingredient 67 78	bell pepper
+T40	ingredient 80 85	onion
+T41	ingredient 91 97	garlic
+T42	ingredient 154 189	a large pot of lightly salted water
+R31	co-object Arg1:T6 Arg2:T5	
+T43	ingredient 349 367	the diced tomatoes
+T44	ingredient 369 381	tomato paste
+T45	ingredient 383 388	sugar
+T46	ingredient 394 399	water
+T47	arg_other 459 462	hot
+R32	other Arg1:T11 Arg2:T47	

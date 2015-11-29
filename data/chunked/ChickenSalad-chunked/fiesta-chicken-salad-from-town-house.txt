@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Place chicken breast between 2 pieces of plastic wrap .
+PREDID: 0
+PRED: place
+  DOBJ: chicken breast
+  PARG: 2 pieces of plastic wrap
+    PREP: between
+
+
+SENTID: 1
+SENT: Lightly pound with flat side of meat mallet to 1/2-inch thickness .
+PREDID: 0
+PRED: pound
+  PARG: flat side of meat mallet
+    PREP: with
+  PARG: 1/2-inch thickness
+    PREP: to
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Remove plastic wrap .
+PREDID: 0
+PRED: remove
+  DOBJ: plastic wrap
+
+
+SENTID: 3
+SENT: In small bowl stir together chili powder , paprika , salt , cumin and cayenne pepper .
+PREDID: 0
+PRED: stir
+  DOBJ: chili powder , paprika , salt , cumin, cayenne pepper
+  PARG: small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Rub on both sides of chicken breast .
+PREDID: 0
+PRED: rub
+  PARG: both sides of chicken breast
+    PREP: on
+
+
+SENTID: 5
+SENT: Place on rack of broiler pan .
+PREDID: 0
+PRED: place
+  PARG: rack of broiler pan
+    PREP: on
+
+
+SENTID: 6
+SENT: Broil 4 - to 5-inches from heat for 10 to 12 minutes or until no longer pink , turning once .
+PREDID: 0
+PRED: broil
+  DOBJ: 4
+  PARG: 5-inches
+    PREP: to
+  PARG: heat
+    PREP: from
+  PARG: 10 to 12 minutes
+    PREP: for
+  PARG: no longer pink , turning once
+    PREP: until
+
+
+SENTID: 7
+SENT: Cool slightly .
+PREDID: 0
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 8
+SENT: In small bowl toss together avocado , tomato and lemon juice .
+PREDID: 0
+PRED: toss
+  DOBJ: avocado , tomato, lemon juice
+  PARG: small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Finely chop chicken .
+PREDID: 0
+PRED: chop
+  DOBJ: chicken
+  OARG: finely
+
+
+SENTID: 10
+SENT: Stir into avocado mixture .
+PREDID: 0
+PRED: stir
+  PARG: avocado mixture
+    PREP: into
+
+
+SENTID: 11
+SENT: Spread about 1/2 teaspoon refried beans on each cracker .
+PREDID: 0
+PRED: spread
+  PARG: 1/2 teaspoon refried beans
+    PREP: about
+  PARG: each cracker
+    PREP: on
+
+
+SENTID: 12
+SENT: Top with chicken mixture .
+PREDID: 0
+PRED: top
+  PARG: chicken mixture
+    PREP: with
+
+
+SENTID: 13
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

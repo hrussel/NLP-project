@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Heat oil in a large saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add onion and cook , stirring frequently , until tender , about 6 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: tender , about 6 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Add beef , in batches if necessary , and cook , breaking up with a wooden spoon , until browned .
+PREDID: 0
+PRED: add
+  DOBJ: beef
+  PARG: batches
+    PREP: in
+  PARG: necessary
+    PREP: if
+
+PREDID: 1
+PRED: cook
+  DOBJ: breaking
+  PARG: a wooden spoon
+    PREP: with
+  PARG: browned
+    PREP: until
+  OARG: up
+
+
+SENTID: 3
+SENT: Add chili powder , cinnamon , cumin , allspice , cloves , bay leaf , chocolate , beef broth , tomato sauce , cider vinegar , and red pepper .
+PREDID: 0
+PRED: add
+  DOBJ: chili powder , cinnamon , cumin , allspice , cloves , bay leaf , chocolate , beef broth , tomato sauce , cider vinegar , red pepper
+
+
+SENTID: 4
+SENT: Stir to mix well .
+PREDID: 0
+PRED: stir
+  PARG: mix
+    PREP: to
+  OARG: well
+
+
+SENTID: 5
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Reduce heat to low ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 7
+SENT: Remove the bay leaf .
+PREDID: 0
+PRED: remove
+  DOBJ: the bay leaf
+
+
+SENTID: 8
+SENT: Reheat gently over medium heat .
+PREDID: 0
+PRED: reheat
+  PARG: medium heat
+    PREP: over
+  OARG: gently
+
+
+SENTID: 9
+SENT: Serve over hot , drained spaghetti .
+PREDID: 0
+PRED: serve
+  PARG: hot , drained spaghetti
+    PREP: over
+
+
+SENTID: 10
+SENT: Top with shredded cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: shredded cheddar cheese
+    PREP: with
+

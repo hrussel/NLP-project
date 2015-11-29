@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Measure 1 cup beet juice from reserved juice .
+PREDID: 0
+PRED: measure
+  DOBJ: 1 cup beet juice
+  PARG: reserved juice
+    PREP: from
+
+
+SENTID: 1
+SENT: Combine 1 cup beet juice , sugar , vinegar , cloves , salt , pepper , and bay leaves in a saucepan ;
+PREDID: 0
+PRED: combine
+  DOBJ: 1 cup beet juice , sugar , vinegar , cloves , salt , pepper , bay leaves
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 2
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Reduce heat and simmer until sugar is dissolved , about 5 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: sugar is dissolved , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Place beets and eggs into a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: beets, eggs
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Pour beet juice mixture over beets and eggs .
+PREDID: 0
+PRED: pour
+  DOBJ: beet juice mixture
+  PARG: beets, eggs
+    PREP: over
+
+
+SENTID: 6
+SENT: Refrigerate for 3 days .
+PREDID: 0
+PRED: refrigerate
+  PARG: 3 days
+    PREP: for
+
+
+SENTID: 7
+SENT: Drain and discard pickling liquid .
+PREDID: 0
+PRED: drain
+  DOBJ: pickling liquid
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 8
+SENT: Cut each egg in half lengthwise and scoop yolks into a bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: scoop
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 9
+SENT: Mix mayonnaise , relish , and mustard into egg yolks until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , relish , mustard
+  PARG: egg yolks
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 10
+SENT: Spoon egg yolk filling back into each egg white .
+PREDID: 0
+PRED: spoon
+  DOBJ: egg yolk filling
+  PARG: each egg white
+    PREP: into
+  OARG: back
+
+
+SENTID: 11
+SENT: Serve beets and eggs on a platter .
+PREDID: 0
+PRED: serve
+  DOBJ: beets, eggs
+  PARG: a platter
+    PREP: on
+

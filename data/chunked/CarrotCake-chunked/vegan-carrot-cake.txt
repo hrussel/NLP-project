@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare a 9x13 inch baking pan with cooking spray .
+PREDID: 0
+PRED: prepare
+  DOBJ: a 9x13 inch baking pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk together the whole wheat flour , soy flour , cinnamon , ground cloves , baking soda , tapioca starch , and salt in a bowl until blended ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the whole wheat flour , soy flour , cinnamon , ground cloves , baking soda , tapioca starch , salt
+  PARG: a bowl
+    PREP: in
+  PARG: blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Pour the hot water into a mixing bowl , and sprinkle with the flax meal .
+PREDID: 0
+PRED: pour
+  DOBJ: the hot water
+  PARG: a mixing bowl
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the flax meal
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir for a minute until the flax begins to absorb the water , and the mixture slightly thickens .
+PREDID: 0
+PRED: stir
+  PARG: a minute
+    PREP: for
+  PARG: the flax begins to absorb the water , the mixture slightly thickens
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the brown sugar and vanilla until the sugar has dissolved , then add the currants , carrots , and almonds .
+PREDID: 0
+PRED: stir
+  PARG: the brown sugar, vanilla
+    PREP: in
+  PARG: the sugar has dissolved
+    PREP: until
+
+PREDID: 1
+PRED: add
+  DOBJ: the currants , carrots , almonds
+
+
+SENTID: 7
+SENT: Stir in the dry mixture until just moistened , then pour into the prepared pan .
+PREDID: 0
+PRED: stir
+  PARG: the dry mixture
+    PREP: in
+  PARG: just moistened
+    PREP: until
+
+PREDID: 1
+PRED: pour
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until a toothpick inserted into the center comes out clean , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , about 30 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool in the pan for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pan
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

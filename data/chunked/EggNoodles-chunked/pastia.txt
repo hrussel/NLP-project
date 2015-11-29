@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Preheat oven to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 300 degrees f -lrb- 150 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In large mixing bowl , combine noodles , butter , sugar , milk , cream , anise , vanilla , eggs and ricotta .
+PREDID: 0
+PRED: combine
+  DOBJ: noodles
+  PARG: large mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: butter
+  DOBJ: sugar , milk , cream , anise , vanilla , eggs, ricotta
+
+
+SENTID: 2
+SENT: Spoon into 9x13 inch baking dish and bake for 1Ê1/4 hours , until golden and knife inserted in center comes out clean .
+PREDID: 0
+PRED: spoon
+  PARG: 9x13 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: 1Ê1/4 hours
+    PREP: for
+  PARG: golden, knife inserted in center comes out clean
+    PREP: until
+
+
+SENTID: 3
+SENT: Cool and serve .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: serve
+

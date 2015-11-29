@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 9x13-inch baking pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: Whisk vegetable oil , white sugar , eggs , and 1 teaspoon vanilla extract together in a bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: vegetable oil , white sugar , eggs , 1 teaspoon vanilla extract
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Combine flour , cinnamon , baking soda , and salt in a separate bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , cinnamon , baking soda , salt
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir oil mixture into flour mixture until a well-mixed batter forms .
+PREDID: 0
+PRED: stir
+  DOBJ: oil mixture
+  PARG: flour mixture
+    PREP: into
+  PARG: a well-mixed batter forms
+    PREP: until
+
+
+SENTID: 5
+SENT: Fold carrots , pineapple , coconut , and walnuts into batter ;
+PREDID: 0
+PRED: fold
+  DOBJ: carrots , pineapple , coconut , walnuts
+  PARG: batter
+    PREP: into
+
+
+SENTID: 6
+SENT: pour into prepared baking pan .
+PREDID: 0
+PRED: pour
+  PARG: prepared baking pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until a toothpick inserted in the center comes out clean , about 1 hour ;
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the center comes out clean , about 1 hour
+    PREP: until
+
+
+SENTID: 8
+SENT: cool completely , about 1 hour .
+PREDID: 0
+PRED: cool
+  PARG: 1 hour
+    PREP: about
+  OARG: completely
+
+
+SENTID: 9
+SENT: Whisk confectioners ' sugar , cream cheese , butter , and a dash vanilla extract together in a bowl until well blended ;
+PREDID: 0
+PRED: whisk
+  DOBJ: confectioners ' sugar , cream cheese , butter , a dash vanilla extract
+  PARG: a bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 10
+SENT: spread over cooled cake .
+PREDID: 0
+PRED: spread
+  PARG: cooled cake
+    PREP: over
+

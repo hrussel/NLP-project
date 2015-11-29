@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: add potatoes and cook until tender , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool and dice the potatoes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  DOBJ: the potatoes
+
+PREDID: 2
+PRED: dice
+
+
+SENTID: 3
+SENT: Combine the potatoes , radishes , onion , blue cheese and mayonnaise in a large bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , radishes , onion , blue cheese, mayonnaise
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: mix until the mayonnaise evenly coats the ingredients .
+PREDID: 0
+PRED: mix
+  PARG: the mayonnaise evenly coats the ingredients
+    PREP: until
+

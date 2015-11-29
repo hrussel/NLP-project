@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Place pie crust on large foil-lined baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: pie crust
+  PARG: large foil-lined baking sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: Mix pumpkin , milk , eggs and pumpkin pie spice in large bowl until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: pumpkin , milk , eggs, pumpkin pie spice
+  PARG: large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour into crust .
+PREDID: 0
+PRED: pour
+  PARG: crust
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake 15 minutes .
+PREDID: 0
+PRED: bake
+  OARG: 15 minutes
+
+
+SENTID: 5
+SENT: Reduce oven temperature to 350 degrees F.
+PREDID: 0
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 6
+SENT: Bake 40 minutes longer or until knife inserted 1 inch from crust comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: knife inserted 1 inch from crust comes out clean
+    PREP: until
+  OARG: 40 minutes
+  OARG: longer
+
+
+SENTID: 7
+SENT: Cool completely on wire rack .
+PREDID: 0
+PRED: cool
+  PARG: wire rack
+    PREP: on
+  OARG: completely
+
+
+SENTID: 8
+SENT: Serve with Vanilla Whipped Cream , if desired .
+PREDID: 0
+PRED: serve
+  PARG: vanilla whipped cream
+    PREP: with
+  PARG: desired
+    PREP: if
+

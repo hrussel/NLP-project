@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a skillet over medium heat , brown ground beef with onion ;
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: onion
+    PREP: with
+
+
+SENTID: 2
+SENT: drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 3
+SENT: Pour in spaghetti sauce and simmer 5 minutes .
+PREDID: 0
+PRED: pour
+  PARG: spaghetti sauce
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  OARG: 5 minutes
+
+
+SENTID: 4
+SENT: In a 9x13 inch baking dish , spread enough sauce and beef to cover bottom and put a layer of ravioli down end to end .
+PREDID: 0
+PRED: spread
+  DOBJ: sauce, beef
+  PARG: a 9x13 inch baking dish
+    PREP: in
+  PARG: cover bottom
+    PREP: to
+  OARG: enough
+
+PREDID: 1
+PRED: put
+  DOBJ: a layer of ravioli
+  OARG: down
+
+PREDID: 2
+PRED: end
+  PARG: end
+    PREP: to
+
+
+SENTID: 5
+SENT: Keep layering and finish with sauce on top .
+PREDID: 0
+PRED: keep
+  DOBJ: layering
+
+PREDID: 1
+PRED: finish
+  PARG: sauce
+    PREP: with
+  PARG: top
+    PREP: on
+
+
+SENTID: 6
+SENT: Bake uncovered in a preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: a preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 7
+SENT: Let sit for 5 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: sit
+  PARG: 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

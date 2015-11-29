@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a rimmed baking sheet .
+PREDID: 0
+PRED: grease
+  DOBJ: a rimmed baking sheet
+
+
+SENTID: 2
+SENT: Heat pumpkin puree in a skillet over medium heat , stirring occasionally , until most of the liquid has evaporated and puree is thick .
+PREDID: 0
+PRED: heat
+  DOBJ: pumpkin puree
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: most of the liquid has evaporated, puree is thick
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Stir in sugar , raisins , semolina , cinnamon , cloves , and nutmeg .
+PREDID: 0
+PRED: stir
+  PARG: sugar , raisins , semolina , cinnamon , cloves , nutmeg
+    PREP: in
+
+
+SENTID: 4
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Lay one puff pastry sheet into the prepared baking sheet .
+PREDID: 0
+PRED: lay
+  DOBJ: one puff pastry sheet
+  PARG: the prepared baking sheet
+    PREP: into
+
+
+SENTID: 6
+SENT: Spread the pumpkin mixture over the pastry and cover with the remaining pastry sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: the pumpkin mixture
+  PARG: the pastry
+    PREP: over
+
+PREDID: 1
+PRED: cover
+  PARG: the remaining pastry sheet
+    PREP: with
+
+
+SENTID: 7
+SENT: Brush the top of the puff pastry with beaten egg .
+PREDID: 0
+PRED: brush
+  DOBJ: the top of the puff pastry
+  PARG: beaten egg
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until golden brown , 30 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown , 30 to 40 minutes
+    PREP: until
+

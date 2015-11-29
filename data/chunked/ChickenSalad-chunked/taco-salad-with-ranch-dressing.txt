@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Cook the chicken breasts in a medium skillet over medium high heat for 12 to 16 minutes , or until chicken is cooked though and juices run clear .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken breasts
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: 12 to 16 minutes
+    PREP: for
+  PARG: chicken is cooked though, juices run clear
+    PREP: until
+
+
+SENTID: 1
+SENT: Let cool slightly then slice into strips .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  OARG: slightly
+  OARG: then
+
+PREDID: 1
+PRED: slice
+  PARG: strips
+    PREP: into
+
+
+SENTID: 2
+SENT: In a large bowl , toss together the chicken , chili powder , lettuce , salsa , dressing , Cheddar , Monterey Jack , olives and tortilla chips until evenly coated .
+PREDID: 0
+PRED: toss
+  DOBJ: the chicken , chili powder , lettuce , salsa , dressing , cheddar , monterey jack , olives, tortilla chips
+  PARG: a large bowl
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Chill until ready to serve .
+PREDID: 0
+PRED: chill
+  PARG: ready to serve
+    PREP: until
+

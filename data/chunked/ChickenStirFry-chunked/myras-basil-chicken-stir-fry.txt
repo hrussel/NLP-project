@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Combine soy sauce , water , and sugar in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: soy sauce , water , sugar
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Marinate chicken in soy sauce mixture for 30 minutes .
+PREDID: 0
+PRED: marinate
+  DOBJ: chicken
+  PARG: soy sauce mixture
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Heat 1 tablespoon oil in a large skillet or wok over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon oil
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook and stir green onions in oil for 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: green onions
+
+PREDID: 1
+PRED: stir
+  PARG: oil
+    PREP: in
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 4
+SENT: Add garlic and cook and stir for 1 minute .
+PREDID: 0
+PRED: add
+  DOBJ: garlic, cook
+
+PREDID: 1
+PRED: stir
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 5
+SENT: Transfer to a small bowl .
+PREDID: 0
+PRED: transfer
+  PARG: a small bowl
+    PREP: to
+
+
+SENTID: 6
+SENT: Pour 3 tablespoons oil into the skillet .
+PREDID: 0
+PRED: pour
+  DOBJ: 3 tablespoons oil
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 7
+SENT: Cook and stir chicken and marinade until chicken is no longer pink in the center and juices run clear , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken, marinade
+
+PREDID: 1
+PRED: stir
+  PARG: chicken is no longer pink in the center, juices run clear , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Add spinach leaves to chicken .
+PREDID: 0
+PRED: add
+  DOBJ: spinach leaves
+  PARG: chicken
+    PREP: to
+
+
+SENTID: 9
+SENT: Cover for 4 minutes stirring occasionally .
+PREDID: 0
+PRED: cover
+  PARG: 4 minutes stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 10
+SENT: Stir green onion mixture into chicken and spinach ;
+PREDID: 0
+PRED: stir
+  DOBJ: green onion mixture
+  PARG: chicken, spinach
+    PREP: into
+
+
+SENTID: 11
+SENT: cook to reheat onions , 1 to 2 minutes .
+PREDID: 0
+PRED: cook
+  OARG: to reheat onions , 1 to 2 minutes
+
+
+SENTID: 12
+SENT: Stir in basil and cook until heated , 1 to 2 minutes .
+PREDID: 0
+PRED: stir
+  PARG: basil
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: heated , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Serve !
+PREDID: 0
+PRED: serve
+

@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the egg , milk , cheese , oats and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: the egg , milk , cheese , oats, salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Add the ground beef , mixing well , and form this mixture into eight miniature meatloaves .
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef , mixing
+  PARG: eight miniature meatloaves
+    PREP: into
+  OARG: well
+
+
+SENTID: 3
+SENT: Place these in a lightly greased 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: these in a lightly greased 9x13 inch baking dish
+
+
+SENTID: 4
+SENT: In a separate small bowl , combine the ketchup , brown sugar and mustard .
+PREDID: 0
+PRED: combine
+  DOBJ: the ketchup , brown sugar, mustard
+  PARG: a separate small bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir thoroughly and spread over each meatloaf .
+PREDID: 0
+PRED: stir
+  PARG: each meatloaf
+    PREP: over
+  OARG: thoroughly
+
+PREDID: 1
+PRED: spread
+
+
+SENTID: 6
+SENT: Bake , uncovered , at 350 degrees F -LRB- 175 degrees C -RRB- for 45 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 45 minutes
+    PREP: for
+

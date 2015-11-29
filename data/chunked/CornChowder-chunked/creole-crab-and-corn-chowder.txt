@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: Melt butter in a Dutch oven over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: stir in onion , jalepeno peppers , celery , and a pinch of salt .
+PREDID: 0
+PRED: stir
+  PARG: onion , jalepeno peppers , celery , a pinch of salt
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook until onions are soft and translucent , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: onions are soft, translucent , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir seafood seasoning and cayenne pepper into onion mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: seafood seasoning, cayenne pepper
+  PARG: onion mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: cook for 30 seconds .
+PREDID: 0
+PRED: cook
+  PARG: 30 seconds
+    PREP: for
+
+
+SENTID: 5
+SENT: Sprinkle flour over onion mixture ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: flour
+  PARG: onion mixture
+    PREP: over
+
+
+SENTID: 6
+SENT: Pour 2Ê1/2 cups water , 1/2 pound corn kernels , and 2 ounces crabmeat into the onion mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: 2Ê1/2 cups water , 1/2 pound corn kernels , 2 ounces crabmeat
+  PARG: the onion mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: increase heat to medium-high and bring to simmer .
+PREDID: 0
+PRED: increase
+  DOBJ: heat
+  PARG: medium-high, bring
+    PREP: to
+  PARG: simmer
+    PREP: to
+
+
+SENTID: 8
+SENT: Place 1 cup water , 1/2 pound corn kernels , and garlic into a blender .
+PREDID: 0
+PRED: place
+  DOBJ: 1 cup water , 1/2 pound corn kernels , garlic
+  PARG: a blender
+    PREP: into
+
+
+SENTID: 9
+SENT: Cover and puree until smooth .
+PREDID: 0
+PRED: cover
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: puree
+
+
+SENTID: 10
+SENT: Pour corn puree into the Dutch oven and bring mixture to a boil .
+PREDID: 0
+PRED: pour
+  DOBJ: corn puree
+  PARG: the dutch oven
+    PREP: into
+
+PREDID: 1
+PRED: bring
+  DOBJ: mixture
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 11
+SENT: Reduce heat to low ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 12
+SENT: simmer until chowder is thicker and the color deepens , about 45 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: chowder is thicker, the color deepens , about 45 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Stir 6 ounces of crabmeat , paprika , and heavy cream into chowder .
+PREDID: 0
+PRED: stir
+  DOBJ: 6 ounces of crabmeat , paprika , heavy cream
+  PARG: chowder
+    PREP: into
+
+
+SENTID: 14
+SENT: Season with salt and pepper to taste ;
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 15
+SENT: garnish with green onions and a pinch of cayenne pepper .
+PREDID: 0
+PRED: garnish
+  PARG: green onions, a pinch of cayenne pepper
+    PREP: with
+

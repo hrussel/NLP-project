@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat eggs , sugar , salt , margarine , and syrup with hand beater .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , sugar , salt , margarine , syrup
+  PARG: hand beater
+    PREP: with
+
+
+SENTID: 2
+SENT: Stir in pecans and chocolate chips .
+PREDID: 0
+PRED: stir
+  PARG: pecans, chocolate chips
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour mixture into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake until set , 40 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: set , 40 to 50 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Cool .
+PREDID: 0
+PRED: cool
+

@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add penne pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: penne pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Melt butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add chicken , pepper and salt .
+PREDID: 0
+PRED: add
+  DOBJ: chicken , pepper, salt
+
+
+SENTID: 5
+SENT: Cook 10 minutes or until chicken is cooked through .
+PREDID: 0
+PRED: cook
+  PARG: chicken is cooked through
+    PREP: until
+  OARG: 10 minutes
+
+
+SENTID: 6
+SENT: Remove skillet from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: skillet
+  PARG: heat
+    PREP: from
+
+
+SENTID: 7
+SENT: In a bowl , mix together salad dressing , vinegar and cheese .
+PREDID: 0
+PRED: mix
+  DOBJ: salad dressing , vinegar, cheese
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Toss together pasta , chicken , lettuce , and dressing mixture .
+PREDID: 0
+PRED: toss
+  DOBJ: pasta , chicken , lettuce , dressing mixture
+  OARG: together
+
+
+SENTID: 9
+SENT: Place in large serving bowl , and sprinkle with tomato .
+PREDID: 0
+PRED: place
+  PARG: large serving bowl
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: tomato
+    PREP: with
+
+
+SENTID: 10
+SENT: Garnish with croutons and Parmesan curls , if desired .
+PREDID: 0
+PRED: garnish
+  PARG: croutons, parmesan curls
+    PREP: with
+  PARG: desired
+    PREP: if
+

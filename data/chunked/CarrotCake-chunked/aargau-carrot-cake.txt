@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Prepare the 9 inch cake pan by rubbing the inside well with a drop of cooking oil and then scattering a little flour over it .
+PREDID: 0
+PRED: prepare
+  DOBJ: scattering a little flour
+  PARG: rubbing the inside
+    PREP: by
+  PARG: a drop of cooking oil
+    PREP: with
+  PARG: it
+    PREP: over
+  OARG: well
+  OARG: then
+  OARG: the 9 inch cake pan
+
+
+SENTID: 1
+SENT: Preheat oven to 360 degrees F -LRB- 180 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 360 degrees f -lrb- 180 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 2
+SENT: Separate the eggs and beat the yolks into the sugar thoroughly .
+PREDID: 0
+PRED: separate
+  DOBJ: the eggs
+
+PREDID: 1
+PRED: beat
+  DOBJ: the yolks
+  PARG: the sugar
+    PREP: into
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Add lemon juice and grated rind , carrots , almonds , flour , baking powder and salt .
+PREDID: 0
+PRED: add
+  DOBJ: lemon juice, grated rind , carrots , almonds
+
+PREDID: 1
+PRED: flour
+  DOBJ: baking powder, salt
+
+
+SENTID: 4
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Beat egg whites until stiff and fold into cake mixture .
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: stiff
+    PREP: until
+
+PREDID: 1
+PRED: fold
+  PARG: cake mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Pour batter into 9 inch cake pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: 9 inch cake pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake at 360 degrees F -LRB- 180 degrees C -RRB- for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 360 degrees f -lrb- 180 degrees c -rrb-
+    PREP: at
+  PARG: 45 minutes
+    PREP: for
+

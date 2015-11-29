@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Place eggs in a pot of salted water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a pot of salted water
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring the water to a boil , and let eggs cook in boiling water until they are hard boiled , approximately 10 to 15 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs
+
+PREDID: 2
+PRED: cook
+  PARG: boiling water
+    PREP: in
+  PARG: they are hard boiled , approximately 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain eggs , and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: eggs
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 3
+SENT: Once cool , remove the shell , cut the eggs in half lengthwise and scoop out the yolks .
+PREDID: 0
+PRED: cool
+  OARG: once
+
+PREDID: 1
+PRED: remove
+  DOBJ: the shell
+
+PREDID: 2
+PRED: cut
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 3
+PRED: scoop
+  PARG: the yolks
+    PREP: out
+
+
+SENTID: 4
+SENT: Place the yolks in a medium-size mixing bowl and mash them .
+PREDID: 0
+PRED: place
+  DOBJ: the yolks
+  PARG: a medium-size mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: mash
+  DOBJ: them
+
+
+SENTID: 5
+SENT: Blend in vinegar , mayonnaise , mustard , salt and pepper .
+PREDID: 0
+PRED: blend
+  PARG: vinegar , mayonnaise , mustard , salt, pepper
+    PREP: in
+
+
+SENTID: 6
+SENT: Sprinkle with paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 7
+SENT: Place on bed of lettuce and/or garnish with parsley .
+PREDID: 0
+PRED: place
+  PARG: bed of lettuce
+    PREP: on
+
+PREDID: 1
+PRED: garnish
+  PARG: parsley
+    PREP: with
+
+
+SENTID: 8
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+

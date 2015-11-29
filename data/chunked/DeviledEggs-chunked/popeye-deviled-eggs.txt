@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Place eggs in a pot and cover with water ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a pot
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil for 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Transfer eggs to a colander and run under cold water until completely cooled .
+PREDID: 0
+PRED: transfer
+  DOBJ: eggs
+  PARG: a colander
+    PREP: to
+
+PREDID: 1
+PRED: run
+  PARG: cold water
+    PREP: under
+  PARG: completely cooled
+    PREP: until
+
+
+SENTID: 3
+SENT: Peel eggs , cut in half lengthwise , and scoop egg yolks into a small bowl .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+PREDID: 1
+PRED: cut
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 2
+PRED: scoop
+  DOBJ: egg yolks
+  PARG: a small bowl
+    PREP: into
+
+
+SENTID: 4
+SENT: Place egg whites onto a serving plate .
+PREDID: 0
+PRED: place
+  DOBJ: egg whites
+  PARG: a serving plate
+    PREP: onto
+
+
+SENTID: 5
+SENT: Mash egg yolks with a fork until crumbly .
+PREDID: 0
+PRED: mash
+  DOBJ: egg yolks
+  PARG: a fork
+    PREP: with
+  PARG: crumbly
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir mayonnaise and mustard into yolks until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise, mustard
+  PARG: yolks
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Fold spinach into mayonnaise mixture ;
+PREDID: 0
+PRED: fold
+  DOBJ: spinach
+  PARG: mayonnaise mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Spoon mixture onto the egg whites ;
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: the egg whites
+    PREP: onto
+
+
+SENTID: 10
+SENT: top each egg with Parmesan cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each egg
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Refrigerate until completely chilled , at least 1 hour .
+PREDID: 0
+PRED: refrigerate
+  PARG: completely chilled , at least 1 hour
+    PREP: until
+

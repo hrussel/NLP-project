@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: Put the chicken in a large pot with enough water to cover .
+PREDID: 0
+PRED: put
+  DOBJ: the chicken
+  PARG: a large pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: reduce heat to medium .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 3
+SENT: Allow the chicken to simmer until no longer pink at the bone and the juices run clear , about 1 hour .
+PREDID: 0
+PRED: allow
+  DOBJ: the chicken
+  PARG: simmer
+    PREP: to
+  PARG: no longer pink at the bone, the juices run clear , about 1 hour
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove the chicken to a cutting board .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+  PARG: a cutting board
+    PREP: to
+
+
+SENTID: 5
+SENT: Use a pair of forks to remove and shred the meat from the chicken .
+PREDID: 0
+PRED: use
+  DOBJ: a pair of forks
+  PARG: remove
+    PREP: to
+
+PREDID: 1
+PRED: shred
+  DOBJ: the meat
+  PARG: the chicken
+    PREP: from
+
+
+SENTID: 6
+SENT: Discard the remains .
+PREDID: 0
+PRED: discard
+  DOBJ: the remains
+
+
+SENTID: 7
+SENT: Place shredded chicken in a single layer on a plate and allow to cool completely in refrigerator , about 15 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: shredded chicken
+  PARG: a single layer
+    PREP: in
+  PARG: a plate
+    PREP: on
+
+PREDID: 1
+PRED: allow
+  PARG: refrigerator
+    PREP: in
+  PARG: 15 minutes
+    PREP: about
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 8
+SENT: Stir together the salad dressing and sugar in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the salad dressing, sugar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Stir the chicken and raisins into the salad dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken, raisins
+  PARG: the salad dressing
+    PREP: into
+
+
+SENTID: 10
+SENT: Add the mango and gently fold into the mixture .
+PREDID: 0
+PRED: add
+  DOBJ: the mango
+  OARG: gently
+
+PREDID: 1
+PRED: fold
+  PARG: the mixture
+    PREP: into
+

@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk together pumpkin puree , egg yolks , and egg in a large bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: pumpkin puree , egg yolks , egg
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Add sweetened condensed milk , cinnamon , ginger , salt , nutmeg , and Chinese 5-spice powder ;
+PREDID: 0
+PRED: add
+  DOBJ: sweetened condensed milk , cinnamon , ginger , salt , nutmeg , chinese 5-spice powder
+
+
+SENTID: 3
+SENT: whisk until thoroughly combined .
+PREDID: 0
+PRED: whisk
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Fit pie crust in a 9-inch pie plate and crimp edges .
+PREDID: 0
+PRED: fit
+  DOBJ: pie crust
+  PARG: a 9-inch pie plate
+    PREP: in
+
+PREDID: 1
+PRED: crimp
+  DOBJ: edges
+
+
+SENTID: 5
+SENT: Pour filling into the pie shell and lightly tap on the work surface to release any air bubbles .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: the pie shell
+    PREP: into
+  OARG: lightly
+
+PREDID: 1
+PRED: tap
+  PARG: the work surface
+    PREP: on
+  PARG: release any air bubbles
+    PREP: to
+
+
+SENTID: 6
+SENT: Bake in the preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- and bake until just set in the middle , 30 to 40 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: just
+    PREP: until
+
+PREDID: 2
+PRED: set
+  PARG: the middle , 30 to 40 minutes
+    PREP: in
+
+
+SENTID: 8
+SENT: Allow to cool completely before serving .
+PREDID: 0
+PRED: allow
+  PARG: serving
+    PREP: before
+  OARG: to cool
+  OARG: completely
+

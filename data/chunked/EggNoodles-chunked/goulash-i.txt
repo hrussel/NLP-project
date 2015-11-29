@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a large skillet , over medium heat , brown the ground beef and onion together .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: together
+
+
+SENTID: 4
+SENT: Drain off the grease .
+PREDID: 0
+PRED: drain
+  PARG: the grease
+    PREP: off
+
+
+SENTID: 5
+SENT: Add salt , pepper , and garlic salt to taste .
+PREDID: 0
+PRED: add
+  DOBJ: salt , pepper , garlic salt
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir in the corn , kidney beans , and tomato soup .
+PREDID: 0
+PRED: stir
+  PARG: the corn , kidney beans , tomato soup
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir in the cooked egg noodles and mix thoroughly .
+PREDID: 0
+PRED: stir
+  PARG: the cooked egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: thoroughly
+

@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain the bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 3
+SENT: When cool , crumble into a large bowl .
+PREDID: 0
+PRED: crumble
+  PARG: a large bowl
+    PREP: into
+  OARG: when cool
+
+
+SENTID: 4
+SENT: Mix ketchup and mustard in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup, mustard
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Thoroughly combine 1/4 the ketchup mixture , ground chuck , Cheddar cheese , eggs , bread crumbs , mayonnaise , Worcestershire sauce , salt , and black pepper with crumbled bacon in bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: 1/4 the ketchup mixture , ground chuck , cheddar cheese , eggs , bread crumbs , mayonnaise , worcestershire sauce , salt , black pepper
+  PARG: crumbled bacon
+    PREP: with
+  PARG: bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 6
+SENT: pat the mixture into a 5x9-inch loaf pan .
+PREDID: 0
+PRED: pat
+  DOBJ: the mixture
+  PARG: a 5x9-inch loaf pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Spread remaining ketchup mixture evenly over top of meatloaf .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining ketchup mixture
+  PARG: top of meatloaf
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until the meatloaf is no longer pink inside , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the meatloaf is no longer pink inside , about 45 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Spread French-fried onions over the top of the loaf and return to oven until onions are browned and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 10 to 15 more minutes .
+PREDID: 0
+PRED: spread
+  DOBJ: french-fried onions
+  PARG: the top of the loaf
+    PREP: over
+
+PREDID: 1
+PRED: return
+  PARG: oven
+    PREP: to
+  PARG: onions are browned, an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees f -lrb- 70 degrees c -rrb- , 10 to 15 more minutes
+    PREP: until
+

@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees
+    PREP: to
+
+
+SENTID: 1
+SENT: Place pie crust in an 8-inch pie pan .
+PREDID: 0
+PRED: place
+  DOBJ: pie crust
+  PARG: an 8-inch pie pan
+    PREP: in
+
+
+SENTID: 2
+SENT: Combine pumpkin , coconut milk , sugar , cornstarch , cinnamon , ginger , salt , and allspice in a powerful blender or food processor until smooth .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , coconut milk , sugar , cornstarch , cinnamon , ginger , salt , allspice
+  PARG: a powerful blender or food processor
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour mixture into pie shell and bake for 60-70 minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: 60-70 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Remove from the oven and place on a cooling rack until completely cooled .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a cooling rack
+    PREP: on
+  PARG: completely cooled
+    PREP: until
+
+
+SENTID: 5
+SENT: Cover in plastic wrap and refrigerate for at least four hours -LRB- overnight is better -RRB- before serving .
+PREDID: 0
+PRED: cover
+  PARG: plastic wrap
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: is better -rrb-
+  PARG: at least four hours -lrb-
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Garnish with vegan whipped topping and powdered sugar .
+PREDID: 0
+PRED: garnish
+  PARG: vegan whipped topping, powdered sugar
+    PREP: with
+

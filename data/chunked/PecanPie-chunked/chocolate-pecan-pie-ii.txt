@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Remove from heat , and let cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 2
+SENT: In a small bowl , beat the eggs and salt ;
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs, salt
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: beat with an electric mixer at high speed until very thick and lemon colored , about 5 minutes .
+PREDID: 0
+PRED: beat
+  PARG: an electric mixer
+    PREP: with
+  PARG: high speed
+    PREP: at
+  PARG: very thick, lemon colored , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually beat in the brown sugar and melted chocolate .
+PREDID: 0
+PRED: beat
+  PARG: the brown sugar, melted chocolate
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 5
+SENT: Stir in chopped pecans and remaining 1 cup chocolate morsels .
+PREDID: 0
+PRED: stir
+  DOBJ: remaining 1 cup chocolate morsels
+  PARG: chopped pecans
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour filling into the unbaked pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: the unbaked pie crust
+    PREP: into
+
+
+SENTID: 7
+SENT: Decorate top with pecan halves .
+PREDID: 0
+PRED: decorate
+  DOBJ: top
+  PARG: pecan halves
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake for 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 25 to 30 minutes
+    PREP: for
+

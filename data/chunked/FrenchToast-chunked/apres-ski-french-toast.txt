@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Place bread in a flat bottomed dish .
+PREDID: 0
+PRED: place
+  DOBJ: bread
+  PARG: a flat bottomed dish
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk together the eggs , milk , orange juice , orange zest , vanilla , sugar , salt , cinnamon , and nutmeg in a mixing bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , orange juice , orange zest , vanilla , sugar , salt , cinnamon , nutmeg
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour egg mixture over bread , and refrigerate until bread absorbs the liquid , about 10 minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: egg mixture
+  PARG: bread
+    PREP: over
+
+PREDID: 1
+PRED: refrigerate
+  PARG: bread absorbs the liquid , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Melt butter in a large non-stick skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large non-stick skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Place bread into skillet .
+PREDID: 0
+PRED: place
+  DOBJ: bread
+  PARG: skillet
+    PREP: into
+
+
+SENTID: 5
+SENT: Cook until golden , about 3 minutes per side .
+PREDID: 0
+PRED: cook
+  PARG: golden , about 3 minutes per side
+    PREP: until
+

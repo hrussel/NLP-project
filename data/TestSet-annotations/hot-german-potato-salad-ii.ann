@@ -1,0 +1,71 @@
+T1	predicate 0 5	Bring
+T2	predicate 45 48	Add
+T3	predicate 114 119	Drain
+T4	predicate 121 125	cool
+T5	predicate 130 134	chop
+T6	predicate 136 141	Place
+T7	predicate 184 188	Cook
+T8	predicate 235 240	Drain
+T9	predicate 269 272	Add
+T10	predicate 330 335	bring
+T11	predicate 347 351	Pour
+T12	predicate 386 390	stir
+R1	object Arg1:T12 Arg2:T11	
+R2	object Arg1:T10 Arg2:T9	
+R3	co-object Arg1:T9 Arg2:T8	
+R4	object Arg1:T7 Arg2:T6	
+R5	object Arg1:T5 Arg2:T4	
+R6	object Arg1:T4 Arg2:T3	
+R8	co-object Arg1:T2 Arg2:T1	
+T13	arg_object 6 33	a large pot of salted water
+T14	arg_other 34 43	to a boil
+R9	object Arg1:T1 Arg2:T13	
+R10	other Arg1:T1 Arg2:T14	
+T15	arg_object 49 57	potatoes
+R11	object Arg1:T2 Arg2:T15	
+T16	predicate 62 66	cook
+R7	object Arg1:T3 Arg2:T16	
+R12	object Arg1:T16 Arg2:T2	
+T17	arg_duration 67 112	until tender but still firm, about 15 minutes
+R13	duration Arg1:T16 Arg2:T17	
+T18	arg_object 142 147	bacon
+T19	arg_object 152 157	onion
+T20	arg_location 158 182	in a large, deep skillet
+R14	object Arg1:T6 Arg2:T18	
+R15	object Arg1:T6 Arg2:T19	
+R16	location Arg1:T6 Arg2:T20	
+T21	arg_other 189 205	over medium heat
+R17	other Arg1:T7 Arg2:T21	
+T22	arg_duration 206 233	until bacon is evenly brown
+R18	duration Arg1:T7 Arg2:T22	
+T23	arg_object 241 254	excess grease
+T24	arg_location 255 267	from skillet
+R19	object Arg1:T8 Arg2:T23	
+T26	arg_object 273 282	the sugar
+T27	arg_object 287 294	vinegar
+T28	arg_co-object 295 325	to the bacon and onion mixture
+T29	Evolution 298 325	the bacon and onion mixture
+E2	Evolution:T29 Cause:T8
+R21	object Arg1:T9 Arg2:T26	
+R22	object Arg1:T9 Arg2:T27	
+R23	co-object Arg1:T9 Arg2:T28	
+T30	arg_other 336 345	to a boil
+R24	other Arg1:T10 Arg2:T30	
+T31	arg_object 352 363	the mixture
+T32	arg_co-object 364 381	over the potatoes
+T33	Evolution 369 381	the potatoes
+E3	Evolution:T33 Cause:T5
+T34	Evolution 352 363	the mixture
+E4	Evolution:T34 Cause:T10
+R25	object Arg1:T11 Arg2:T31	
+R26	co-object Arg1:T11 Arg2:T32	
+T35	ingredient 6 33	a large pot of salted water
+T36	ingredient 49 57	potatoes
+R27	co-object Arg1:T3 Arg2:T16	
+T37	ingredient 142 147	bacon
+T38	ingredient 152 157	onion
+R20	location Arg1:T8 Arg2:T24	
+R28	co-object Arg1:T8 Arg2:T7	
+T25	ingredient 273 282	the sugar
+T39	ingredient 287 294	vinegar
+R29	same-location Arg1:T24 Arg2:T20	

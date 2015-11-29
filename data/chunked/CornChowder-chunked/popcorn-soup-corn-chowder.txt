@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Saute onion in butter with parsley flakes until onion is tender , about 8 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: butter
+    PREP: in
+  PARG: parsley flakes
+    PREP: with
+  PARG: onion is tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Slowly stir in the half and half until smooth and creamy .
+PREDID: 0
+PRED: stir
+  PARG: the half, half
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+  OARG: slowly
+
+
+SENTID: 2
+SENT: Add corn and cook until slightly thickened , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: corn
+
+PREDID: 1
+PRED: cook
+  PARG: slightly thickened , about 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Add salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 4
+SENT: To serve , ladle into bowls and garnish with popped corn .
+PREDID: 0
+PRED: ladle
+  PARG: serve
+    PREP: to
+  PARG: bowls
+    PREP: into
+
+PREDID: 1
+PRED: garnish
+  PARG: popped corn
+    PREP: with
+

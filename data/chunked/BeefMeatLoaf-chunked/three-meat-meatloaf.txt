@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Oil a 9x5-inch loaf pan .
+PREDID: 0
+PRED: oil
+  DOBJ: a 9x5-inch loaf pan
+
+
+SENTID: 2
+SENT: Place the onion and carrots into a saucepan , and pour in the beef broth .
+PREDID: 0
+PRED: place
+  DOBJ: the onion, carrots
+  PARG: a saucepan
+    PREP: into
+
+PREDID: 1
+PRED: pour
+  PARG: the beef broth
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a boil over medium heat , and reduce heat to a simmer ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 4
+SENT: cook , stirring often , until the vegetables are tender , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: the vegetables are tender , about 8 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 5
+SENT: Set the veggies and broth aside .
+PREDID: 0
+PRED: set
+  DOBJ: the veggies, broth
+  OARG: aside
+
+
+SENTID: 6
+SENT: In a large bowl , beat the eggs , and stir in bread crumbs , basil , salt , and black pepper .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: bread crumbs , basil , salt , black pepper
+    PREP: in
+
+
+SENTID: 7
+SENT: Allow the mixture to stand for 5 minutes to moisten the crumbs , and lightly mix in the turkey , beef , and pork sausage .
+PREDID: 0
+PRED: allow
+  DOBJ: the mixture
+  PARG: stand
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+  OARG: to moisten the crumbs
+  OARG: lightly
+
+PREDID: 1
+PRED: mix
+  PARG: the turkey , beef , pork sausage
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix in the cooked onions , carrots , and beef broth .
+PREDID: 0
+PRED: mix
+  PARG: the cooked onions , carrots , beef broth
+    PREP: in
+
+
+SENTID: 9
+SENT: Place the mixture into the prepared loaf pan .
+PREDID: 0
+PRED: place
+  DOBJ: the mixture
+  PARG: the prepared loaf pan
+    PREP: into
+
+
+SENTID: 10
+SENT: In a bowl , mix the tomato soup , balsamic vinegar , and Dijon mustard together , and spread the mixture over the meat loaf .
+PREDID: 0
+PRED: mix
+  DOBJ: the tomato soup , balsamic vinegar , dijon mustard
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: spread
+  DOBJ: the mixture
+  PARG: the meat loaf
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake until the loaf is no longer pink in the center and an instant-read meat thermometer reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1Ê1/2 hours .
+PREDID: 0
+PRED: bake
+  PARG: the loaf is no longer pink in the center, an instant-read meat thermometer reads at least 160 degrees f -lrb- 70 degrees c -rrb- , about 1Ê1/2 hours
+    PREP: until
+

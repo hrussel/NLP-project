@@ -1,0 +1,67 @@
+T1	predicate 0 5	Place
+T2	predicate 77 82	pulse
+T3	predicate 141 149	Transfer
+T4	predicate 192 199	Stir in
+T5	predicate 281 286	bring
+T6	predicate 298 304	Reduce
+T7	predicate 321 327	simmer
+T8	predicate 383 390	Stir in
+T9	predicate 405 411	simmer
+R1	object Arg1:T9 Arg2:T8	
+R2	co-object Arg1:T8 Arg2:T7	
+R3	object Arg1:T7 Arg2:T6	
+R4	co-object Arg1:T6 Arg2:T5	
+R5	object Arg1:T5 Arg2:T4	
+R6	co-object Arg1:T4 Arg2:T3	
+T10	arg_object 150 168	chopped vegetables
+R7	object Arg1:T3 Arg2:T10	
+T11	Evolution 150 168	chopped vegetables
+E1	Evolution:T11 Cause:T2
+T12	arg_location 169 190	into a large saucepan
+R8	location Arg1:T3 Arg2:T12	
+T13	arg_object 6 23	green bell pepper
+T14	arg_object 25 31	carrot
+T15	arg_object 37 50	garlic cloves
+T16	arg_location 51 72	into a food processor
+R9	object Arg1:T1 Arg2:T13	
+R10	object Arg1:T1 Arg2:T14	
+R11	object Arg1:T1 Arg2:T15	
+R12	location Arg1:T1 Arg2:T16	
+R13	object Arg1:T2 Arg2:T1	
+T17	arg_other 83 94	a few times
+T18	arg_duration 95 139	until the vegetables are very finely chopped
+R14	other Arg1:T2 Arg2:T17	
+R15	duration Arg1:T2 Arg2:T18	
+T19	arg_object 200 212	tomato puree
+T20	arg_object 214 230	crushed tomatoes
+T21	arg_object 232 249	Italian seasoning
+T22	arg_object 251 256	basil
+T23	arg_object 262 279	red pepper flakes
+R16	object Arg1:T4 Arg2:T19	
+R17	object Arg1:T4 Arg2:T20	
+R18	object Arg1:T4 Arg2:T21	
+R19	object Arg1:T4 Arg2:T22	
+R20	object Arg1:T4 Arg2:T23	
+T24	arg_other 287 296	to a boil
+R21	other Arg1:T5 Arg2:T24	
+T25	arg_object 305 309	heat
+R22	object Arg1:T6 Arg2:T25	
+T26	arg_other 310 316	to low
+R23	other Arg1:T6 Arg2:T26	
+T27	arg_other 328 337	uncovered
+R24	other Arg1:T7 Arg2:T27	
+T28	arg_duration 338 381	until sauce has thickened, about 30 minutes
+R25	duration Arg1:T7 Arg2:T28	
+T29	arg_object 391 400	olive oil
+R26	object Arg1:T8 Arg2:T29	
+T30	arg_duration 412 431	1 to 2 more minutes
+R27	duration Arg1:T9 Arg2:T30	
+T31	ingredient 6 23	green bell pepper
+T32	ingredient 25 31	carrot
+T33	ingredient 37 50	garlic cloves
+T34	ingredient 200 212	tomato puree
+T35	ingredient 214 230	crushed tomatoes
+T36	ingredient 232 249	Italian seasoning
+T37	ingredient 251 256	basil
+T38	ingredient 262 279	red pepper flakes
+T39	ingredient 391 400	olive oil

@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in the egg noodles ;
+PREDID: 0
+PRED: stir
+  PARG: the egg noodles
+    PREP: in
+
+
+SENTID: 2
+SENT: return to a boil .
+PREDID: 0
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook , uncovered , stirring occasionally , until the noodles are cooked through , but still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered , stirring
+  PARG: the noodles are cooked through , but still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain ;
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: return to the pot and stir in the butter .
+PREDID: 0
+PRED: return
+  PARG: the pot
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the butter
+    PREP: in
+
+
+SENTID: 6
+SENT: Meanwhile , place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: meanwhile
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Drain the bacon slices on a paper towel-lined plate .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 8
+SENT: Place the onion into the skillet with the bacon grease , and cook and stir over medium heat until the onion begins to soften , about 2 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the onion
+  PARG: the skillet
+    PREP: into
+  PARG: the bacon
+    PREP: with
+
+PREDID: 1
+PRED: grease
+
+PREDID: 2
+PRED: cook
+  PARG: medium heat
+    PREP: over
+
+PREDID: 3
+PRED: stir
+  PARG: the onion begins to soften , about 2 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in the cabbage , and cook and stir until wilted , about 5 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the cabbage , cook
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: wilted , about 5 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Chop the bacon , add it to the skillet , and cook until the cabbage is tender , about 10 minutes .
+PREDID: 0
+PRED: chop
+  DOBJ: the bacon
+
+PREDID: 1
+PRED: add
+  DOBJ: it
+  PARG: the skillet
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: the cabbage is tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir in the noodles , and continue cooking just until heated through .
+PREDID: 0
+PRED: stir
+  PARG: the noodles
+    PREP: in
+
+PREDID: 1
+PRED: continue
+  DOBJ: cooking
+  PARG: heated through
+    PREP: until
+  OARG: just
+

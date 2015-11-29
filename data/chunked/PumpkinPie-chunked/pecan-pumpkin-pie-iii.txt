@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Place rack in upper third of oven .
+PREDID: 0
+PRED: place
+  DOBJ: rack
+  PARG: upper third of oven
+    PREP: in
+
+
+SENTID: 1
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 2
+SENT: In a medium bowl combine pumpkin puree , 2 tablespoons brown sugar , 1 egg , sour cream , cinnamon , and nutmeg .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin puree , 2 tablespoons brown sugar , 1 egg , sour cream , cinnamon , nutmeg
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir until thoroughly combined .
+PREDID: 0
+PRED: stir
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Spread mixture into pie shell .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 5
+SENT: In a medium bowl , combine corn syrup , 1/2 cup brown sugar , 3 eggs , butter , vanilla , lemon rind , lemon juice , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: corn syrup , 1/2 cup brown sugar , 3 eggs , butter , vanilla , lemon rind , lemon juice , salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix well , then stir in pecans .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 7
+SENT: Carefully spoon mixture over pumpkin layer .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: pumpkin layer
+    PREP: over
+  OARG: carefully
+
+
+SENTID: 8
+SENT: Bake in preheated oven for 20 minutes , then reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Bake an additional 20 to 30 minutes .
+PREDID: 0
+PRED: bake
+  OARG: an additional 20 to 30 minutes
+
+
+SENTID: 10
+SENT: Allow to set for at least an hour before serving .
+PREDID: 0
+PRED: allow
+  PARG: set
+    PREP: to
+  PARG: at least an hour
+    PREP: for
+  PARG: serving
+    PREP: before
+
+
+SENTID: 11
+SENT: Serve warm or at room temperature .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+  PARG: room temperature
+    PREP: at
+

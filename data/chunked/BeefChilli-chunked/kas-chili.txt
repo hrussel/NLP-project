@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Place a large skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook the ground beef in the hot skillet until completely browned , 7 to 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+  PARG: the hot skillet
+    PREP: in
+  PARG: completely browned , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Combine the drained beef in a slow cooker with the bell peppers , onions , kidney beans , black beans , tomato sauce , and diced tomatoes .
+PREDID: 0
+PRED: combine
+  DOBJ: the drained beef
+  PARG: a slow cooker
+    PREP: in
+  PARG: the bell peppers , onions , kidney beans , black beans , tomato sauce , diced tomatoes
+    PREP: with
+
+
+SENTID: 4
+SENT: Cook on High for 30 minutes .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Stir the garlic , chili powder , paprika , oregano , rosemary , coriander , garlic powder , salt , cumin , cilantro , and bay leaves into the beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the garlic , chili powder , paprika , oregano , rosemary , coriander , garlic powder , salt , cumin , cilantro , bay leaves
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Reduce heat to Low and cook another 6Ê1/2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low, cook another 6Ê1/2 hours
+    PREP: to
+

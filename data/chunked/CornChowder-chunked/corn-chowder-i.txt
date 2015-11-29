@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Boil potatoes in salted water until soft .
+PREDID: 0
+PRED: boil
+  DOBJ: potatoes
+  PARG: salted water
+    PREP: in
+  PARG: soft
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Mash half of the potatoes and set aside .
+PREDID: 0
+PRED: mash
+  DOBJ: half of the potatoes
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Fry the bacon until very crisp .
+PREDID: 0
+PRED: fry
+  DOBJ: the bacon
+  PARG: very crisp
+    PREP: until
+
+
+SENTID: 4
+SENT: Crumple the bacon and set aside .
+PREDID: 0
+PRED: crumple
+  DOBJ: the bacon
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Fry the onion inn the bacon grease until translucent and soft .
+PREDID: 0
+PRED: fry
+  DOBJ: the onion inn the bacon
+
+PREDID: 1
+PRED: grease
+  PARG: translucent, soft
+    PREP: until
+
+
+SENTID: 6
+SENT: Dump the cooked onions into a large stockpot .
+PREDID: 0
+PRED: dump
+  DOBJ: the cooked onions
+  PARG: a large stockpot
+    PREP: into
+
+
+SENTID: 7
+SENT: Add the flour and heat until the mixture is bubbly and the flour is well dissolved .
+PREDID: 0
+PRED: add
+  DOBJ: the flour
+
+PREDID: 1
+PRED: heat
+  PARG: the mixture is bubbly, the flour is well dissolved
+    PREP: until
+
+
+SENTID: 8
+SENT: Add the milk and bring to a boil over medium-low heat , stirring frequently .
+PREDID: 0
+PRED: add
+  DOBJ: the milk
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium-low heat , stirring
+    PREP: over
+  OARG: frequently
+
+
+SENTID: 9
+SENT: Once boiling add the salt , pepper , bacon , corn and all the potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: the salt , pepper , bacon , corn, all the potatoes
+  OARG: once
+  OARG: boiling
+
+
+SENTID: 10
+SENT: -LRB- If desired reserve some of the bacon for the garnish .
+PREDID: 0
+PRED: reserve
+  DOBJ: some of the bacon
+  PARG: desired
+    PREP: if
+  PARG: the garnish
+    PREP: for
+  OARG: 
+
+
+SENTID: 11
+SENT: -RRB- Heat soup until hot .
+PREDID: 0
+PRED: heat
+  DOBJ: soup
+  PARG: hot
+    PREP: until
+  OARG: 
+
+
+SENTID: 12
+SENT: Serve garnished with a dash of paprika , a sprinkling of cheddar cheese and some crumbled bacon .
+PREDID: 0
+PRED: serve
+  DOBJ: garnished
+  PARG: a dash of paprika , a sprinkling of cheddar cheese, some crumbled bacon
+    PREP: with
+

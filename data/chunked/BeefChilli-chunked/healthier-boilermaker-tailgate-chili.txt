@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Crumble ground beef and chicken sausage into a large stock pot over medium-high heat ;
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef, chicken sausage
+  PARG: a large stock pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Drain excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 2
+SENT: Pour in chili beans , spicy chili beans , diced tomatoes , and tomato paste .
+PREDID: 0
+PRED: pour
+  PARG: chili beans , spicy chili beans , diced tomatoes , tomato paste
+    PREP: in
+
+
+SENTID: 3
+SENT: Add onion , celery , green bell pepper , red bell pepper , chile peppers , and beer .
+PREDID: 0
+PRED: add
+  DOBJ: onion , celery , green bell pepper , red bell pepper , chile peppers , beer
+
+
+SENTID: 4
+SENT: Season with chili powder , Worcestershire sauce , garlic , oregano , cumin , hot pepper sauce , basil , salt , ground pepper , cayenne , paprika , and sugar .
+PREDID: 0
+PRED: season
+  PARG: chili powder , worcestershire sauce , garlic , oregano , cumin , hot pepper sauce , basil , salt , ground pepper , cayenne , paprika , sugar
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir to blend , then cover and simmer over low heat , stirring occasionally , for at least 2 hours .
+PREDID: 0
+PRED: stir
+  PARG: blend
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: cover
+  PARG: low
+    PREP: over
+
+PREDID: 2
+PRED: simmer
+
+PREDID: 3
+PRED: heat
+  DOBJ: stirring
+  PARG: at least 2 hours
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Taste and adjust salt , ground pepper , and chili powder in necessary , after 2 hours .
+PREDID: 0
+PRED: taste
+  DOBJ: salt , ground pepper , chili powder
+
+PREDID: 1
+PRED: adjust
+  PARG: necessary
+    PREP: in
+  PARG: 2 hours
+    PREP: after
+
+
+SENTID: 7
+SENT: Ladle into bowls and top with baked tortilla chips to serve .
+PREDID: 0
+PRED: ladle
+  PARG: bowls
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: baked tortilla chips
+    PREP: with
+  PARG: serve
+    PREP: to
+

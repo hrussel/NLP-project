@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C. -RRB- In a large bowl , combine flour and sugar .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: flour, sugar
+
+
+SENTID: 1
+SENT: Blend in melted butter , eggs and vanilla .
+PREDID: 0
+PRED: blend
+  PARG: melted butter , eggs, vanilla
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in peanut butter chips and chopped pecans .
+PREDID: 0
+PRED: stir
+  PARG: peanut butter chips, chopped pecans
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in the preheated oven for 30 to 40 minutes , or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 to 40 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+

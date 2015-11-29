@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Combine the coleslaw and onion in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the coleslaw, onion
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In a separate bowl , combine the sugar , salt , pepper , milk , mayonnaise , buttermilk , vinegar and lemon juice ;
+PREDID: 0
+PRED: combine
+  DOBJ: the sugar , salt , pepper , milk , mayonnaise , buttermilk , vinegar, lemon juice
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: mix until smooth .
+PREDID: 0
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour mixture over the coleslaw and onion ;
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: the coleslaw, onion
+    PREP: over
+
+
+SENTID: 4
+SENT: stir well and chill for 1 hour .
+PREDID: 0
+PRED: stir
+  PARG: 1 hour
+    PREP: for
+  OARG: well
+
+PREDID: 1
+PRED: chill
+

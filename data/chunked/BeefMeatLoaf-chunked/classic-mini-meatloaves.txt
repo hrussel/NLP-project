@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Line shallow baking pan with aluminum foil ;
+PREDID: 0
+PRED: line
+  DOBJ: shallow baking pan
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: spray foil with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: foil
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 3
+SENT: Mix beef , tomato sauce , Egg Beaters , oats and soup mix in large bowl until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: beef , tomato sauce , egg beaters , oats, soup
+
+PREDID: 1
+PRED: mix
+  PARG: large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 4
+SENT: Shape into 4 mini meatloaves , about 4x3 inches ;
+PREDID: 0
+PRED: shape
+  PARG: 4 mini meatloaves
+    PREP: into
+  PARG: 4x3 inches
+    PREP: about
+
+
+SENTID: 5
+SENT: place in prepared pan .
+PREDID: 0
+PRED: place
+  PARG: prepared pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Spread ketchup evenly over tops of meatloaves .
+PREDID: 0
+PRED: spread
+  DOBJ: ketchup
+  PARG: tops of meatloaves
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Bake 25 minutes or until meatloaves are cooked through -LRB- 160 degrees F -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: meatloaves are cooked through -lrb- 160 degrees f -rrb-
+    PREP: until
+  OARG: 25 minutes
+
+
+SENTID: 8
+SENT: Let stand 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 5 minutes
+

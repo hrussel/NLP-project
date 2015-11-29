@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: In a medium bowl , prepare the dressing according to package directions , using vinegar and oil , and substituting orange juice for the water ;
+PREDID: 0
+PRED: prepare
+  DOBJ: the dressing according
+  PARG: a medium bowl
+    PREP: in
+  PARG: package directions , using vinegar, oil , substituting orange juice
+    PREP: to
+  PARG: the water
+    PREP: for
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: the grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 3
+SENT: Lightly oil the grill grate .
+PREDID: 0
+PRED: oil
+  DOBJ: the grill grate
+  OARG: lightly
+
+
+SENTID: 4
+SENT: Grill the chicken 6 to 8 minutes on each side , or until juices run clear .
+PREDID: 0
+PRED: grill
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+  OARG: the chicken 6 to 8 minutes
+
+
+SENTID: 5
+SENT: Remove from heat , cool , and slice into strips .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: slice
+  PARG: strips
+    PREP: into
+
+
+SENTID: 6
+SENT: In a large bowl , toss together the chicken , salad greens , strawberries , blueberries , raspberries , peas , and pecans .
+PREDID: 0
+PRED: toss
+  DOBJ: the chicken , salad greens , strawberries , blueberries , raspberries , peas , pecans
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Pour in the prepared dressing , and toss to coat .
+PREDID: 0
+PRED: pour
+  PARG: the prepared dressing
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

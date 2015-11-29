@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil ;
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain the hot water and cool the eggs under cold running water in the sink ;
+PREDID: 0
+PRED: drain
+  DOBJ: the hot water
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 4
+SENT: peel the cooled eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: the cooled eggs
+
+
+SENTID: 5
+SENT: Cut the chilled eggs in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: the chilled eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 6
+SENT: Place the yolks into a mixing bowl and set the whites aside .
+PREDID: 0
+PRED: place
+  DOBJ: the yolks
+  PARG: a mixing bowl
+    PREP: into
+
+PREDID: 1
+PRED: set
+  DOBJ: the whites
+  OARG: aside
+
+
+SENTID: 7
+SENT: Mash the yolks with a fork until smooth ;
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: stir in the mayonnaise , Worcestershire sauce , horseradish sauce , hot sauce , salt , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the mayonnaise , worcestershire sauce , horseradish sauce , hot sauce , salt , pepper
+    PREP: in
+
+
+SENTID: 9
+SENT: Spoon the yolk mixture into a heavy plastic bag ;
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk mixture
+  PARG: a heavy plastic bag
+    PREP: into
+
+
+SENTID: 10
+SENT: snip a corner off the bag to create a 1/2-inch opening .
+PREDID: 0
+PRED: snip
+  DOBJ: a corner
+  PARG: the bag
+    PREP: off
+  OARG: to create a 1/2-inch opening
+
+
+SENTID: 11
+SENT: Pipe the yolks into the egg white halves .
+PREDID: 0
+PRED: pipe
+  DOBJ: the yolks
+  PARG: the egg white halves
+    PREP: into
+
+
+SENTID: 12
+SENT: Sprinkle with parsley and paprika to garnish .
+PREDID: 0
+PRED: sprinkle
+  PARG: parsley, paprika
+    PREP: with
+  PARG: garnish
+    PREP: to
+

@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a jellyroll pan with non-stick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a jellyroll pan
+  PARG: non-stick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Pat crescent roll dough into a jellyroll pan .
+PREDID: 0
+PRED: pat
+  DOBJ: crescent roll dough
+  PARG: a jellyroll pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Let stand 5 minutes .
+PREDID: 0
+PRED: let
+  OARG: stand 5 minutes
+
+
+SENTID: 4
+SENT: Pierce with fork .
+PREDID: 0
+PRED: pierce
+  PARG: fork
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake for 10 minutes , let cool .
+PREDID: 0
+PRED: bake
+  PARG: 10 minutes
+    PREP: for
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 6
+SENT: In a medium-sized mixing bowl , combine sour cream , cream cheese , dill weed , garlic salt and ranch dip mix .
+PREDID: 0
+PRED: combine
+  DOBJ: sour cream , cream cheese , dill weed , garlic salt, ranch dip mix
+  PARG: a medium-sized mixing bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Spread this mixture on top of the cooled crust .
+PREDID: 0
+PRED: spread
+  DOBJ: this mixture
+  PARG: top of the cooled crust
+    PREP: on
+
+
+SENTID: 8
+SENT: Arrange the onion , carrot , celery , broccoli , radish , bell pepper and broccoli on top of the creamed mixture .
+PREDID: 0
+PRED: arrange
+  DOBJ: the onion , carrot , celery , broccoli , radish , bell pepper, broccoli
+  PARG: top of the creamed mixture
+    PREP: on
+
+
+SENTID: 9
+SENT: Cover and let chill .
+PREDID: 0
+PRED: cover
+  DOBJ: chill
+
+PREDID: 1
+PRED: let
+
+
+SENTID: 10
+SENT: Once chilled , cut it into squares and serve .
+PREDID: 0
+PRED: cut
+  DOBJ: chilled
+  PARG: squares
+    PREP: into
+  OARG: once
+
+PREDID: 1
+PRED: serve
+

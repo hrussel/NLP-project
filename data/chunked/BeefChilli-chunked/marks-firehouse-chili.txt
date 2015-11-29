@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: Cook and stir ground beef in a large soup pot over medium heat until meat is browned and crumbly , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+
+PREDID: 1
+PRED: stir
+  PARG: a large soup pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: meat is browned, crumbly , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour kidney beans , beef bouillon , plum tomatoes , tomato puree , beer , and Worcestershire sauce into beef .
+PREDID: 0
+PRED: pour
+  DOBJ: kidney beans , beef bouillon , plum tomatoes , tomato puree , beer , worcestershire sauce
+  PARG: beef
+    PREP: into
+
+
+SENTID: 2
+SENT: Stir in dry onion soup mix , red pepper flakes , dried chipotle pepper , cumin , thyme , and oregano .
+PREDID: 0
+PRED: stir
+  PARG: dry onion soup mix , red pepper flakes , dried chipotle pepper , cumin , thyme , oregano
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring mixture to a boil , reduce heat to low , and cook at a simmer until thickened , 1 to 1Ê1/2 hours .
+PREDID: 0
+PRED: bring
+  DOBJ: mixture
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: a simmer
+    PREP: at
+  PARG: thickened , 1 to 1Ê1/2 hours
+    PREP: until
+

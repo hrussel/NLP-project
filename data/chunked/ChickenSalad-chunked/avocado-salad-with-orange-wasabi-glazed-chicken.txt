@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Slice chicken strips and set aside .
+PREDID: 0
+PRED: slice
+  DOBJ: chicken strips
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: In a large , nonreactive pot , heat sugar and water together over medium high heat , stirring occasionally , until caramelized to a deep amber color .
+PREDID: 0
+PRED: heat
+  DOBJ: sugar, water
+  PARG: a large , nonreactive pot
+    PREP: in
+  PARG: medium high heat , stirring
+    PREP: over
+  PARG: caramelized to a deep amber color
+    PREP: until
+  OARG: together
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Remove from heat and slowly -LRB- and very carefully -- use an oven mitt ! -RRB-
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+  OARG: slowly
+  OARG: very
+  OARG: carefully
+
+PREDID: 1
+PRED: use
+  DOBJ: an oven mitt ! -rrb-
+
+
+SENTID: 4
+SENT: add wine .
+PREDID: 0
+PRED: add
+  DOBJ: wine
+
+
+SENTID: 5
+SENT: Return to heat and stir until all particles are dissolved .
+PREDID: 0
+PRED: return
+  PARG: heat
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: all particles are dissolved
+    PREP: until
+
+
+SENTID: 6
+SENT: Stirring constantly , add orange juice and wasabi , adjusting the amount to taste .
+PREDID: 0
+PRED: add
+  DOBJ: orange juice, wasabi
+  PARG: taste
+    PREP: to
+  OARG: constantly
+  OARG: stirring
+
+
+SENTID: 7
+SENT: Brush chicken strips with the glaze , and then place on a baking sheet .
+PREDID: 0
+PRED: brush
+  DOBJ: chicken strips
+  PARG: the glaze
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: place
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until heated through .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 9
+SENT: While chicken is warming , toss together the tomatoes , red onion , cilantro , lime juice , avocados , salt , pepper and hot sauce .
+PREDID: 0
+PRED: toss
+  DOBJ: the tomatoes , red onion , cilantro , lime juice , avocados , salt , pepper, hot sauce
+  PARG: chicken is warming
+    PREP: while
+  OARG: together
+
+
+SENTID: 10
+SENT: Adjust seasonings to taste , and spoon mixture onto the greens .
+PREDID: 0
+PRED: adjust
+  DOBJ: seasonings
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: spoon
+  DOBJ: mixture
+  PARG: the greens
+    PREP: onto
+
+
+SENTID: 11
+SENT: Top with warmed chicken strips and serve .
+PREDID: 0
+PRED: top
+  PARG: warmed chicken strips
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

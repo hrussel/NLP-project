@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 9x13 inch pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: In a large bowl , beat together eggs , oil , white sugar and 2 teaspoons vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , oil , white sugar, 2 teaspoons vanilla
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Mix in flour , baking soda , baking powder , salt and cinnamon .
+PREDID: 0
+PRED: mix
+  PARG: flour , baking soda , baking powder , salt, cinnamon
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in carrots .
+PREDID: 0
+PRED: stir
+  PARG: carrots
+    PREP: in
+
+
+SENTID: 5
+SENT: Fold in pecans .
+PREDID: 0
+PRED: fold
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour into prepared pan .
+PREDID: 0
+PRED: pour
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in the preheated oven for 40 to 50 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 40 to 50 minutes
+    PREP: for
+  PARG: a toothpick inserted into the center of the cake comes out clean
+    PREP: until
+
+
+SENTID: 8
+SENT: Let cool in pan for 10 minutes , then turn out onto a wire rack and cool completely .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: pan
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: turn
+  PARG: onto a wire rack
+    PREP: out
+
+PREDID: 2
+PRED: cool
+  OARG: completely
+
+
+SENTID: 9
+SENT: In a medium bowl , combine butter , cream cheese , confectioners ' sugar and 1 teaspoon vanilla .
+PREDID: 0
+PRED: combine
+  DOBJ: butter , cream cheese , confectioners ' sugar, 1 teaspoon vanilla
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Beat until the mixture is smooth and creamy .
+PREDID: 0
+PRED: beat
+  PARG: the mixture is smooth, creamy
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir in chopped pecans .
+PREDID: 0
+PRED: stir
+  PARG: chopped pecans
+    PREP: in
+
+
+SENTID: 12
+SENT: Frost the cooled cake .
+PREDID: 0
+PRED: frost
+  DOBJ: the cooled cake
+

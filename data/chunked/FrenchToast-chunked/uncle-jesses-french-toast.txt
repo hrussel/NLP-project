@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a medium bowl , whisk together the eggs , cinnamon , nutmeg , ginger , and cloves .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , cinnamon , nutmeg , ginger , cloves
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Melt about 1 tablespoon of butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  PARG: 1 tablespoon of butter
+    PREP: about
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Fry a few slices at a time in the buttered skillet until golden brown on each side .
+PREDID: 0
+PRED: fry
+  DOBJ: a few slices
+  PARG: a time
+    PREP: at
+  PARG: the buttered skillet
+    PREP: in
+  PARG: golden brown on each side
+    PREP: until
+
+
+SENTID: 3
+SENT: Add more butter to the skillet and continue with remaining slices .
+PREDID: 0
+PRED: add
+  DOBJ: more butter
+  PARG: the skillet
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  PARG: remaining slices
+    PREP: with
+
+
+SENTID: 4
+SENT: Melt remaining butter in the microwave at 15 second intervals .
+PREDID: 0
+PRED: melt
+  DOBJ: remaining butter
+  PARG: the microwave
+    PREP: in
+  PARG: 15 second intervals
+    PREP: at
+
+
+SENTID: 5
+SENT: Place finished toast onto plates , drizzle with melted butter , and dust with confectioners ' sugar .
+PREDID: 0
+PRED: place
+  DOBJ: finished toast
+  PARG: plates
+    PREP: onto
+
+PREDID: 1
+PRED: drizzle
+  PARG: melted butter
+    PREP: with
+
+PREDID: 2
+PRED: dust
+  PARG: confectioners ' sugar
+    PREP: with
+

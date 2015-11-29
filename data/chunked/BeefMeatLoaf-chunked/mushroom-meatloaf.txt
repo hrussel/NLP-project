@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large mixing bowl , combine ground meat , minced mushrooms , bread crumbs , onion , ketchup , eggs , and salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: ground meat , minced mushrooms , bread crumbs , onion , ketchup , eggs , salt, pepper
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Spread 1/2 of the mixture into the bottom of a loaf pan .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/2 of the mixture
+  PARG: the bottom of a loaf pan
+    PREP: into
+
+
+SENTID: 4
+SENT: Arrange 6 whole mushrooms stem down into meat .
+PREDID: 0
+PRED: arrange
+  DOBJ: 6 whole mushrooms stem
+  PARG: meat
+    PREP: into
+  OARG: down
+
+
+SENTID: 5
+SENT: Top with rest of meat , patting to combine both halves .
+PREDID: 0
+PRED: top
+  PARG: rest of meat , patting
+    PREP: with
+  PARG: combine both halves
+    PREP: to
+
+
+SENTID: 6
+SENT: Bake for 1 hour and 45 minutes , or until done .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour, 45 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+
+
+SENTID: 7
+SENT: Internal temperature should measure 160 degrees F -LRB- 70 degrees C -RRB- when done .
+PREDID: 0
+PRED: measure
+  DOBJ: 160 degrees f -lrb- 70 degrees c -rrb-
+  OARG: internal temperature should
+  OARG: when done
+

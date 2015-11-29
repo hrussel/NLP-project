@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes , and cook for 15 to 20 minutes , or until tender but still firm .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: 15 to 20 minutes
+    PREP: for
+  PARG: tender but still firm
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool and cut into cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  PARG: cubes
+    PREP: into
+
+PREDID: 2
+PRED: cut
+
+
+SENTID: 3
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water , cool , peel and chop .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chop
+
+
+SENTID: 7
+SENT: In a large bowl , combine chopped potatoes and eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: chopped potatoes, eggs
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix together mayonnaise , chopped onion , green onion , green pepper , and celery .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , chopped onion , green onion , green pepper , celery
+  OARG: together
+
+
+SENTID: 9
+SENT: Season with salt and pepper , then mix well .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 10
+SENT: Cover , and refrigerate for several hours or overnight .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: several hours
+    PREP: for
+  OARG: overnight
+

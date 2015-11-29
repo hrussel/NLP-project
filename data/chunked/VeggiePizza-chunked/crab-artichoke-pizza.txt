@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a pizza pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a pizza pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Roll out pizza dough on a floured surface to a 14 or 16 inch circle ;
+PREDID: 0
+PRED: roll
+  PARG: pizza dough
+    PREP: out
+  PARG: a floured surface
+    PREP: on
+  PARG: a 14 or 16 inch circle
+    PREP: to
+
+
+SENTID: 3
+SENT: place onto a pizza pan .
+PREDID: 0
+PRED: place
+  PARG: a pizza pan
+    PREP: onto
+
+
+SENTID: 4
+SENT: Sprinkle dough with red pepper flakes , then top evenly with crab and artichokes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: dough
+  PARG: red pepper flakes
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: crab, artichokes
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Drizzle with olive oil , then sprinkle with garlic , Parmesan cheese , and mozzarella cheese .
+PREDID: 0
+PRED: drizzle
+  PARG: olive oil
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: sprinkle
+  PARG: garlic , parmesan cheese , mozzarella cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in preheated oven until the cheese has melted and the crust is no longer doughy , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the cheese has melted, the crust is no longer doughy , about 20 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Set oven to broil , and cook pizza for 5 minutes more until the cheese has begun to brown .
+PREDID: 0
+PRED: set
+  DOBJ: oven
+  PARG: broil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: pizza
+  PARG: 5 minutes more
+    PREP: for
+  PARG: the cheese has begun to brown
+    PREP: until
+

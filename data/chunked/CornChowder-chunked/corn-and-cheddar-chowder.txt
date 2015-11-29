@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: In a large saucepan over medium high heat , melt the butter and stir in the onion , potato , bay leaf , cumin , and sage .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the onion , potato , bay leaf , cumin , sage
+    PREP: in
+
+
+SENTID: 1
+SENT: Saute about 5 minutes , until the onion is tender .
+PREDID: 0
+PRED: saute
+  PARG: 5 minutes
+    PREP: about
+  PARG: the onion is tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix in the flour , coating the onion and potato .
+PREDID: 0
+PRED: mix
+  PARG: the flour
+    PREP: in
+
+PREDID: 1
+PRED: coating
+  DOBJ: the onion, potato
+
+
+SENTID: 3
+SENT: Pour in the chicken stock and milk .
+PREDID: 0
+PRED: pour
+  PARG: the chicken stock, milk
+    PREP: in
+
+
+SENTID: 4
+SENT: Bring to a boil , whisking constantly until smooth .
+PREDID: 0
+PRED: bring
+  PARG: a boil , whisking
+    PREP: to
+  PARG: smooth
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 5
+SENT: Reduce heat , and simmer 30 minutes , stirring frequently , until the potato is tender .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: the potato is tender
+    PREP: until
+  OARG: 30 minutes , stirring
+  OARG: frequently
+
+
+SENTID: 6
+SENT: Mix the corn , parsley , chives , and wine into the saucepan , and cook about 5 minutes , until heated through .
+PREDID: 0
+PRED: mix
+  DOBJ: the corn , parsley , chives , wine
+  PARG: the saucepan
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: 5 minutes
+    PREP: about
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove the bay leaf , and stir in the Cheddar cheese until melted and blended .
+PREDID: 0
+PRED: remove
+  DOBJ: the bay leaf
+
+PREDID: 1
+PRED: stir
+  PARG: the cheddar cheese
+    PREP: in
+  PARG: melted, blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+

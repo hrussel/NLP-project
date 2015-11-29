@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Preheat oven to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 300 degrees f -lrb- 150 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir in egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles uncovered , stirring
+  PARG: tender but still slightly firm , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 5
+SENT: Melt 1/2 cup butter in a large skillet over medium-low heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: 1/2 cup butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 6
+SENT: cook and stir onions until translucent , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onions
+
+PREDID: 1
+PRED: stir
+  PARG: translucent , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Place cooked noodles and cabbage mixture in a large roasting pan and stir gently to combine .
+PREDID: 0
+PRED: place
+  DOBJ: cooked noodles, cabbage mixture
+  PARG: a large roasting pan
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+  OARG: gently
+
+
+SENTID: 9
+SENT: Sprinkle with more salt and black pepper if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: more salt, black pepper
+    PREP: with
+  PARG: desired
+    PREP: if
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until golden brown on top , 30 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown on top , 30 to 40 minutes
+    PREP: until
+

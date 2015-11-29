@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: Chill pasta and chicken thoroughly .
+PREDID: 0
+PRED: chill
+  DOBJ: pasta, chicken
+  OARG: thoroughly
+
+
+SENTID: 1
+SENT: Mix chicken , celery , apples , grapes , pineapple , mandarin oranges and pasta in large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: chicken , celery , apples , grapes , pineapple , mandarin oranges, pasta
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix the mayonnaise , milk , sugar , salt , dash of pepper and a dash of nutmeg .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise , milk , sugar , salt , dash of pepper, a dash of nutmeg
+
+
+SENTID: 3
+SENT: Combine mayonnaise and chicken mixtures and toss .
+PREDID: 0
+PRED: combine
+  DOBJ: mayonnaise, chicken mixtures
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 4
+SENT: Store in the refrigerator .
+PREDID: 0
+PRED: store
+  PARG: the refrigerator
+    PREP: in
+

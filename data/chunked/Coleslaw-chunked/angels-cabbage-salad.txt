@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: Whisk olive oil , vinegar , sugar , and soy sauce together in a small bowl until sugar dissolves .
+PREDID: 0
+PRED: whisk
+  DOBJ: olive oil , vinegar , sugar , soy sauce
+  PARG: a small bowl
+    PREP: in
+  PARG: sugar dissolves
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Toss cabbage , green onions , almonds , sunflower seed kernels , and raisins together in a large mixing bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: cabbage , green onions , almonds , sunflower seed kernels , raisins
+  PARG: a large mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Drizzle dressing over salad and toss to coat .
+PREDID: 0
+PRED: drizzle
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover bowl with plastic wrap and refrigerate at least 1 hour before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for medium heat , and scrape the grates clean .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium heat
+    PREP: for
+
+PREDID: 1
+PRED: scrape
+  DOBJ: the grates clean
+
+
+SENTID: 1
+SENT: Spray grates with nonstick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: grates
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In a bowl , mix together the ground beef , ground pork , bread crumbs , onion , egg , Worcestershire sauce , garlic , tarragon , sea salt , and black pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , ground pork , bread crumbs , onion , egg , worcestershire sauce , garlic , tarragon , sea salt , black pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Divide the mixture in half , and form 2 loaves , each about 4 inches in diameter and 6 inches long .
+PREDID: 0
+PRED: divide
+  DOBJ: the mixture
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: form
+  DOBJ: 2 loaves , each about 4 inches
+  PARG: diameter, 6 inches
+    PREP: in
+  OARG: long
+
+
+SENTID: 4
+SENT: In a small bowl , mix the barbecue sauce with ketchup until well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the barbecue sauce
+  PARG: a small bowl
+    PREP: in
+  PARG: ketchup
+    PREP: with
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Place each meatloaf directly on the prepared grill grates , then spread each with about 3 tablespoons of barbecue sauce mixture ;
+PREDID: 0
+PRED: place
+  DOBJ: each meatloaf
+  PARG: the prepared grill grates
+    PREP: on
+  OARG: directly
+  OARG: then
+
+PREDID: 1
+PRED: spread
+  DOBJ: each with
+  PARG: 3 tablespoons of barbecue sauce mixture
+    PREP: about
+
+
+SENTID: 6
+SENT: grill until the loaves reach an internal temperature of at least 160 degrees F -LRB- 73 degrees C -RRB- , about 1 hour .
+PREDID: 0
+PRED: grill
+  PARG: the loaves reach an internal temperature of at least 160 degrees f -lrb- 73 degrees c -rrb- , about 1 hour
+    PREP: until
+

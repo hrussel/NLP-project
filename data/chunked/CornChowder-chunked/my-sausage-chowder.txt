@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Crumble the sausage into a Dutch oven or soup pot over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the sausage
+  PARG: a dutch oven or soup pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook until evenly browned , stirring and breaking into smaller chunks .
+PREDID: 0
+PRED: cook
+  PARG: evenly browned , stirring, breaking into smaller chunks
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 3
+SENT: Add onion ;
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+
+SENTID: 4
+SENT: cook and stir until onion is beginning to soften .
+PREDID: 0
+PRED: cook
+  PARG: onion is beginning to soften
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Put in the potatoes , and fill with enough water to cover .
+PREDID: 0
+PRED: put
+  PARG: the potatoes
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 6
+SENT: Bring to a boil , and stir in the macaroni .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the macaroni
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour in the cans of creamed corn and whole corn with the juice from the can . When the pasta and potatoes are tender , remove from heat and stir in the processed cheese until melted .
+PREDID: 0
+PRED: pour
+  PARG: the cans of creamed corn, whole corn
+    PREP: in
+  PARG: the juice
+    PREP: with
+  PARG: the can
+    PREP: from
+  OARG: when the pasta, potatoes are tender
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: stir
+  PARG: the processed cheese
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 8
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 9
+SENT: If the chowder is too thick , stir in milk or water to thin before serving
+PREDID: 0
+PRED: stir
+  DOBJ: thick
+  PARG: the chowder is
+    PREP: if
+  PARG: milk
+    PREP: in
+  OARG: too
+
+PREDID: 1
+PRED: water
+  PARG: serving
+    PREP: before
+  OARG: to thin
+

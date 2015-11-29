@@ -1,0 +1,229 @@
+SENTID: 0
+SENT: Preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Scrub and dry potatoes , then prick several times with a fork and place onto a baking sheet .
+PREDID: 0
+PRED: scrub
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: dry
+  DOBJ: prick several times
+  PARG: a fork
+    PREP: with
+  OARG: then
+
+PREDID: 2
+PRED: place
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 2
+SENT: Bake in preheated oven until potatoes are easily pierced with a fork , 50 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: potatoes are easily pierced with a fork , 50 minutes to 1 hour
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove , cool , and peel .
+PREDID: 0
+PRED: remove
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain bacon slices on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 6
+SENT: crumble .
+PREDID: 0
+PRED: crumble
+
+
+SENTID: 7
+SENT: Preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Lightly grease a pizza pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a pizza pan
+  OARG: lightly
+
+
+SENTID: 9
+SENT: Mix pizza crust mix , water , and oil in a large bowl with a fork until ingredients combine .
+PREDID: 0
+PRED: mix
+  DOBJ: pizza crust
+
+PREDID: 1
+PRED: mix
+  DOBJ: water , oil
+  PARG: a large bowl
+    PREP: in
+  PARG: a fork
+    PREP: with
+  PARG: ingredients combine
+    PREP: until
+
+
+SENTID: 10
+SENT: When dough has pulled together , turn it out onto a lightly floured surface and knead until smooth and elastic , about 8 minutes .
+PREDID: 0
+PRED: turn
+  DOBJ: it
+  PARG: onto a lightly floured surface
+    PREP: out
+  OARG: when dough has pulled
+  OARG: together
+
+PREDID: 1
+PRED: knead
+  PARG: smooth, elastic , about 8 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Let stand for 5 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Shape dough into a flat circle and place on pizza pan .
+PREDID: 0
+PRED: shape
+  DOBJ: dough
+  PARG: a flat circle
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: pizza pan
+    PREP: on
+
+
+SENTID: 13
+SENT: Build up edges slightly .
+PREDID: 0
+PRED: build
+  DOBJ: edges
+  OARG: up
+  OARG: slightly
+
+
+SENTID: 14
+SENT: Bake pizza dough in preheated oven until crust is firm and begins to brown , 5 to 6 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pizza dough
+  PARG: preheated oven
+    PREP: in
+  PARG: crust is firm, begins to brown , 5 to 6 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Toss butter with garlic powder , Italian seasoning , and potatoes in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: butter
+  PARG: garlic powder , italian seasoning , potatoes
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 16
+SENT: Combine sour cream and ranch dressing in a small bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: sour cream, ranch dressing
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 17
+SENT: spread over crust .
+PREDID: 0
+PRED: spread
+  PARG: crust
+    PREP: over
+
+
+SENTID: 18
+SENT: Top with potato mixture , bacon , onions , mozzarella cheese , and Cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: potato mixture , bacon , onions , mozzarella cheese , cheddar cheese
+    PREP: with
+
+
+SENTID: 19
+SENT: Bake in preheated oven until cheese is melted and lightly browned , 15 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: cheese is melted, lightly browned , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 20
+SENT: Let stand 5 minutes before cutting .
+PREDID: 0
+PRED: let
+  PARG: cutting
+    PREP: before
+  OARG: stand 5 minutes
+

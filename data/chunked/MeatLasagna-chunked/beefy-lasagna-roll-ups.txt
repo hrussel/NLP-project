@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook lasagna noodles in the boiling water , stirring occasionally until cooked through , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain and pat noodles dry with paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles dry
+
+PREDID: 1
+PRED: pat
+  PARG: paper towels
+    PREP: with
+
+
+SENTID: 4
+SENT: Brown ground beef and onion in a large skillet over medium heat , breaking the meat into crumbles as it cooks , about 10 minutes .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crumbles
+    PREP: into
+  PARG: it cooks
+    PREP: as
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 5
+SENT: Pour pasta sauce into beef mixture and stir garlic powder , basil , parsley , chives , oregano , and nutmeg into beef and sauce .
+PREDID: 0
+PRED: pour
+  DOBJ: pasta sauce
+  PARG: beef mixture
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  DOBJ: garlic powder , basil , parsley , chives , oregano , nutmeg
+  PARG: beef
+    PREP: into
+
+PREDID: 2
+PRED: sauce
+
+
+SENTID: 6
+SENT: Spread half of the beef sauce into a 2-quart casserole dish and sprinkle with 1 cup Cheddar cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: half of the beef sauce
+  PARG: a 2-quart casserole dish
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: 1 cup cheddar cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: Lay a lasagna noodle out onto a lightly floured work surface and spread with 2 tablespoons cream cheese .
+PREDID: 0
+PRED: lay
+  DOBJ: a lasagna noodle
+  PARG: onto a lightly floured work surface
+    PREP: out
+
+PREDID: 1
+PRED: spread
+  PARG: 2 tablespoons cream cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Spread 2 tablespoons ground beef sauce onto noodle ;
+PREDID: 0
+PRED: spread
+  DOBJ: 2 tablespoons ground beef sauce
+  PARG: noodle
+    PREP: onto
+
+
+SENTID: 9
+SENT: roll noodle and place with seam side down atop cheese in casserole dish .
+PREDID: 0
+PRED: roll
+  DOBJ: noodle
+
+PREDID: 1
+PRED: place
+  PARG: seam side
+    PREP: with
+  PARG: cheese
+    PREP: atop
+  PARG: casserole dish
+    PREP: in
+  OARG: down
+
+
+SENTID: 10
+SENT: Repeat with remaining noodles .
+PREDID: 0
+PRED: repeat
+  PARG: remaining noodles
+    PREP: with
+
+
+SENTID: 11
+SENT: Sprinkle remaining beef sauce and 1 cup Cheddar cheese over noodle rolls .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining beef sauce, 1 cup cheddar cheese
+  PARG: noodle rolls
+    PREP: over
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until cheese and sauce bubble , 10 to 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese, sauce bubble , 10 to 15 minutes
+    PREP: until
+

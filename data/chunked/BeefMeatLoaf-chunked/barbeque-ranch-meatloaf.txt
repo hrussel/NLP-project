@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix sausage and ground sirloin in a large bowl until thoroughly combined ;
+PREDID: 0
+PRED: mix
+  DOBJ: sausage, ground sirloin
+  PARG: a large bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 2
+SENT: add eggs , bread crumbs , onion , and ranch dressing ;
+PREDID: 0
+PRED: add
+  DOBJ: eggs , bread crumbs , onion , ranch dressing
+
+
+SENTID: 3
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 4
+SENT: Form into a loaf and place into the center of a 9x13-inch baking dish .
+PREDID: 0
+PRED: form
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: the center of a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Arrange fingerling potatoes and baby carrots around meatloaf and cover dish with foil .
+PREDID: 0
+PRED: arrange
+  DOBJ: fingerling potatoes, baby carrots
+  PARG: meatloaf
+    PREP: around
+
+PREDID: 1
+PRED: cover
+  DOBJ: dish
+  PARG: foil
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in the preheated oven for 1 hour ;
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 7
+SENT: remove foil and brush meatloaf with barbeque sauce .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: brush
+  DOBJ: meatloaf
+  PARG: barbeque sauce
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake uncovered until an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 30 more minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees f -lrb- 70 degrees c -rrb- , about 30 more minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Let meatloaf rest 5 to 10 minutes before slicing .
+PREDID: 0
+PRED: let
+  PARG: slicing
+    PREP: before
+  OARG: meatloaf rest 5 to 10 minutes
+

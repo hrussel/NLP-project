@@ -1,0 +1,90 @@
+T1	predicate 0 4	Heat
+T2	predicate 47 52	saute
+T3	predicate 180 183	Add
+T4	predicate 227 232	Whisk
+T5	predicate 289 293	stir
+T6	predicate 305 310	Bring
+T7	predicate 327 333	reduce
+T8	predicate 344 350	simmer
+T9	predicate 386 390	Stir
+T10	predicate 448 454	simmer
+T11	arg_object 5 14	olive oil
+T12	ingredient 5 14	olive oil
+T13	arg_location 15 28	in a saucepan
+T14	arg_other 29 45	over medium heat
+R1	object Arg1:T1 Arg2:T11	
+R2	location Arg1:T1 Arg2:T13	
+R3	other Arg1:T1 Arg2:T14	
+T15	arg_object 53 60	chicken
+T16	arg_object 62 67	onion
+T17	arg_object 69 84	red bell pepper
+T18	arg_object 90 96	garlic
+T19	ingredient 53 60	chicken
+T20	ingredient 62 67	onion
+T21	ingredient 69 84	red bell pepper
+T22	ingredient 90 96	garlic
+R4	object Arg1:T2 Arg2:T15	
+R5	object Arg1:T2 Arg2:T16	
+R6	object Arg1:T2 Arg2:T17	
+R7	object Arg1:T2 Arg2:T18	
+T23	arg_duration 97 178	until chicken is no longer pink in the center and onion is tender, 3 to 5 minutes
+R8	duration Arg1:T2 Arg2:T23	
+R9	co-object Arg1:T2 Arg2:T1	
+T24	arg_object 184 197	chicken broth
+T25	arg_object 202 206	corn
+R10	object Arg1:T3 Arg2:T24	
+R11	object Arg1:T3 Arg2:T25	
+T26	ingredient 184 197	chicken broth
+T27	ingredient 202 206	corn
+T28	arg_co-object 207 225	to chicken mixture
+T29	Evolution 210 225	chicken mixture
+E1	Evolution:T29 Cause:T2
+R12	co-object Arg1:T3 Arg2:T28	
+T30	arg_object 233 237	milk
+T31	arg_object 242 252	cornstarch
+T32	ingredient 233 237	milk
+T33	ingredient 242 252	cornstarch
+T34	arg_other 253 261	together
+T35	arg_location 262 271	in a bowl
+T36	arg_duration 272 287	until dissolved
+R13	object Arg1:T4 Arg2:T30	
+R14	object Arg1:T4 Arg2:T31	
+R15	other Arg1:T4 Arg2:T34	
+R16	location Arg1:T4 Arg2:T35	
+R17	duration Arg1:T4 Arg2:T36	
+R18	object Arg1:T5 Arg2:T4	
+T37	arg_co-object 294 303	into soup
+T38	Evolution 299 303	soup
+E2	Evolution:T38 Cause:T3
+R19	co-object Arg1:T5 Arg2:T37	
+T39	arg_object 311 315	soup
+T40	Evolution 311 315	soup
+E3	Evolution:T40 Cause:T5
+R20	object Arg1:T6 Arg2:T39	
+T41	arg_other 316 325	to a boil
+R21	other Arg1:T6 Arg2:T41	
+T42	arg_object 334 338	heat
+R22	object Arg1:T7 Arg2:T42	
+R23	co-object Arg1:T7 Arg2:T6	
+R24	object Arg1:T8 Arg2:T7	
+T43	arg_duration 351 384	until thickened, about 15 minutes
+R25	duration Arg1:T8 Arg2:T43	
+T44	arg_object 391 402	white beans
+T45	arg_object 404 418	Cheddar cheese
+T46	arg_object 420 424	salt
+T47	arg_object 430 436	pepper
+T48	ingredient 391 402	white beans
+T49	ingredient 404 418	Cheddar cheese
+T50	ingredient 420 424	salt
+T51	ingredient 430 436	pepper
+R26	object Arg1:T9 Arg2:T44	
+R27	object Arg1:T9 Arg2:T45	
+R28	object Arg1:T9 Arg2:T46	
+R29	object Arg1:T9 Arg2:T47	
+T52	arg_co-object 437 446	into soup
+T53	Evolution 442 446	soup
+E4	Evolution:T53 Cause:T8
+R30	co-object Arg1:T9 Arg2:T52	
+R31	object Arg1:T10 Arg2:T9	
+T54	arg_duration 455 494	until cheese is melted, about 5 minutes
+R32	duration Arg1:T10 Arg2:T54	

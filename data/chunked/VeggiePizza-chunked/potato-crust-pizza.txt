@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: Preheat the oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat a 16 inch pizza pan with nonstick cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a 16 inch pizza pan
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Place sausage in a skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: sausage
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook , stirring to crumble , until evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: evenly browned
+    PREP: until
+  OARG: to crumble
+
+
+SENTID: 4
+SENT: Drain grease , and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a large bowl , toss together the hash browns , salt , and 3/4 cup of the cheese until evenly blended .
+PREDID: 0
+PRED: toss
+  DOBJ: the hash browns , salt , 3/4 cup of the cheese
+  PARG: a large bowl
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 6
+SENT: Spread in an even layer on the pizza pan , and pack down .
+PREDID: 0
+PRED: spread
+  PARG: an even layer
+    PREP: in
+  PARG: the pizza pan
+    PREP: on
+
+PREDID: 1
+PRED: pack
+  OARG: down
+
+
+SENTID: 7
+SENT: Slice tomatoes thinly , and set on paper towels to drain .
+PREDID: 0
+PRED: slice
+  DOBJ: tomatoes
+  OARG: thinly
+
+PREDID: 1
+PRED: set
+  PARG: paper towels
+    PREP: on
+  PARG: drain
+    PREP: to
+
+
+SENTID: 8
+SENT: Bake for 30 to 35 minutes in the preheated oven , until the crust is nicely browned on the top and bottom .
+PREDID: 0
+PRED: bake
+  PARG: 30 to 35 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust is nicely browned on the top, bottom
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove from the oven , and arrange tomato slices all over the pizza .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: arrange
+  DOBJ: tomato slices all over the pizza
+
+
+SENTID: 10
+SENT: Sprinkle the remaining cheese , mushrooms and sausage evenly over the pizza .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the remaining cheese , mushrooms, sausage
+  PARG: the pizza
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 11
+SENT: Return to the hot oven and bake for another 5 to 10 minutes , until cheese is melted .
+PREDID: 0
+PRED: return
+  PARG: the hot oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: another 5 to 10 minutes
+    PREP: for
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 12
+SENT: Cool for at least 5 minutes before cutting into slices .
+PREDID: 0
+PRED: cool
+  PARG: at least 5 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+  PARG: slices
+    PREP: into
+

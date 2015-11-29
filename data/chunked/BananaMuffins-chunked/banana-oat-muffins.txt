@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Combine flour , oats , sugar , baking powder , soda , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , oats , sugar , baking powder , soda , salt
+
+
+SENTID: 1
+SENT: In a large bowl , beat the egg lightly .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg
+  PARG: a large bowl
+    PREP: in
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Stir in the milk , oil , and vanilla .
+PREDID: 0
+PRED: stir
+  PARG: the milk , oil , vanilla
+    PREP: in
+
+
+SENTID: 3
+SENT: Add the mashed banana , and combine thoroughly .
+PREDID: 0
+PRED: add
+  DOBJ: the mashed banana
+
+PREDID: 1
+PRED: combine
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Stir the flour mixture into the banana mixture until just combined .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour mixture
+  PARG: the banana mixture
+    PREP: into
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Line a 12-cup muffin tin with paper bake cups , and divide the batter among them .
+PREDID: 0
+PRED: line
+  DOBJ: a 12-cup muffin tin
+  PARG: paper bake cups
+    PREP: with
+
+PREDID: 1
+PRED: divide
+  DOBJ: the batter
+  PARG: them
+    PREP: among
+
+
+SENTID: 6
+SENT: Bake at 400 degrees F -LRB- 205 degrees C -RRB- for 18 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: at
+  PARG: 18 to 20 minutes
+    PREP: for
+

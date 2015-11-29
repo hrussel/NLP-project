@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Prepare a large pot with cooking spray and place over medium heat ;
+PREDID: 0
+PRED: prepare
+  DOBJ: a large pot
+  PARG: cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook the beef stew meat in the pot until completely browned on all sides , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the beef stew meat
+  PARG: the pot
+    PREP: in
+  PARG: completely browned on all sides , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the onions ;
+PREDID: 0
+PRED: add
+  DOBJ: the onions
+
+
+SENTID: 3
+SENT: cook and stir until the onions begin to soften , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onions
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: begin
+  PARG: 5 minutes
+    PREP: about
+  OARG: to soften
+
+
+SENTID: 4
+SENT: Stir the water , ketchup , Worcestershire sauce , vinegar , brown sugar , paprika , salt , and mustard into the beef and onion mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the water , ketchup , worcestershire sauce , vinegar , brown sugar , paprika , salt , mustard
+  PARG: the beef, onion mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Place a cover on the pot , reduce heat to low , and simmer the mixture until the beef is tender , about 2Ê1/2 hours .
+PREDID: 0
+PRED: place
+  DOBJ: a cover
+  PARG: the pot
+    PREP: on
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  DOBJ: the mixture
+  PARG: the beef is tender , about 2Ê1/2 hours
+    PREP: until
+
+
+SENTID: 6
+SENT: Bring a large pot of lightly salted water to a rolling boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook the egg noodles at a boil until cooked through yet firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the egg noodles
+  PARG: a boil
+    PREP: at
+  PARG: cooked through yet firm to the bite , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 9
+SENT: Serve the goulash over the noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: the goulash
+  PARG: the noodles
+    PREP: over
+

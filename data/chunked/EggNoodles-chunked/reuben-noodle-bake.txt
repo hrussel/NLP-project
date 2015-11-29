@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Toss with half the melted butter and place in a 9x13 baking dish .
+PREDID: 0
+PRED: toss
+  PARG: half the melted butter
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: a 9x13 baking dish
+    PREP: in
+
+
+SENTID: 5
+SENT: Spread sauerkraut over the noodles ;
+PREDID: 0
+PRED: spread
+  DOBJ: sauerkraut
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 6
+SENT: cover evenly with corned beef .
+PREDID: 0
+PRED: cover
+  PARG: corned beef
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Spread mayonnaise over beef and top with the shredded Swiss and tomato slices .
+PREDID: 0
+PRED: spread
+  DOBJ: mayonnaise
+  PARG: beef
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: the shredded swiss, tomato slices
+    PREP: with
+
+
+SENTID: 8
+SENT: In a small bowl , toss together crushed crackers and caraway seed with remaining melted butter .
+PREDID: 0
+PRED: toss
+  DOBJ: crushed crackers, caraway seed
+  PARG: a small bowl
+    PREP: in
+  PARG: remaining melted butter
+    PREP: with
+  OARG: together
+
+
+SENTID: 9
+SENT: Sprinkle crumb mixture over Swiss and tomato .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: crumb mixture
+  PARG: swiss, tomato
+    PREP: over
+
+
+SENTID: 10
+SENT: Bake in preheated oven 1 hour , until bubbly and golden .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 1 hour
+    PREP: in
+  PARG: bubbly, golden
+    PREP: until
+

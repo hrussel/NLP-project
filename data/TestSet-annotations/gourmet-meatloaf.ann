@@ -1,0 +1,105 @@
+T1	predicate 0 7	Preheat
+T2	predicate 71 78	combine
+T3	predicate 131 134	Mix
+T5	predicate 243 246	pat
+T6	predicate 293 298	Layer
+T7	predicate 353 358	Layer
+T8	predicate 388 393	Layer
+T9	predicate 456 460	roll
+T10	predicate 499 503	Keep
+T11	predicate 543 548	place
+T12	predicate 575 579	Bake
+T13	arg_location 580 601	in the preheated oven
+T14	arg_duration 602 612	for 1 hour
+R1	location Arg1:T12 Arg2:T13	
+R2	duration Arg1:T12 Arg2:T14	
+R3	object Arg1:T12 Arg2:T11	
+T15	Evolution 583 601	the preheated oven
+E1	Evolution:T15 Cause:T1
+T16	arg_object 8 12	oven
+T17	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R4	object Arg1:T1 Arg2:T16	
+R5	duration Arg1:T1 Arg2:T17	
+T18	arg_location 47 69	In a large mixing bowl
+R6	location Arg1:T2 Arg2:T18	
+T19	arg_object 79 94	the ground beef
+T20	arg_object 96 108	bread crumbs
+T21	arg_object 110 113	egg
+T22	arg_object 118 129	steak sauce
+R7	object Arg1:T2 Arg2:T19	
+R8	object Arg1:T2 Arg2:T20	
+R9	object Arg1:T2 Arg2:T21	
+R10	object Arg1:T2 Arg2:T22	
+R11	object Arg1:T3 Arg2:T2	
+T4	predicate 147 155	Blend in
+R12	co-object Arg1:T4 Arg2:T3	
+T23	arg_object 156 164	soup mix
+T24	arg_object 166 178	green pepper
+T25	arg_object 180 185	onion
+T26	arg_object 187 195	cilantro
+T27	arg_object 200 206	garlic
+R13	object Arg1:T4 Arg2:T23	
+R14	object Arg1:T4 Arg2:T24	
+R15	object Arg1:T4 Arg2:T25	
+R16	object Arg1:T4 Arg2:T26	
+R17	object Arg1:T4 Arg2:T27	
+T28	arg_location 208 241	On a large piece of aluminum foil
+R18	location Arg1:T5 Arg2:T28	
+T29	arg_object 247 263	the beef mixture
+T30	Evolution 247 263	the beef mixture
+E2	Evolution:T30 Cause:T4
+T31	arg_other 264 291	into a thin, flat rectangle
+R19	object Arg1:T5 Arg2:T29	
+R20	other Arg1:T5 Arg2:T31	
+T32	arg_object 299 316	about 1/2 the ham
+T33	arg_co-object 317 335	on top of the beef
+T34	arg_other 336 351	from end to end
+R21	object Arg1:T6 Arg2:T32	
+R22	co-object Arg1:T6 Arg2:T33	
+R23	other Arg1:T6 Arg2:T34	
+T35	Evolution 327 335	the beef
+E3	Evolution:T35 Cause:T5
+T36	arg_object 359 362	ham
+T37	Evolution 359 362	ham
+E4	Evolution:T37 Cause:T6
+R24	object Arg1:T7 Arg2:T36	
+T38	arg_co-object 363 386	with the Cheddar cheese
+R25	co-object Arg1:T7 Arg2:T38	
+T39	arg_object 394 400	cheese
+T40	arg_co-object 401 419	with remaining ham
+T41	Evolution 394 400	cheese
+E5	Evolution:T41 Cause:T7
+R26	object Arg1:T8 Arg2:T39	
+R27	co-object Arg1:T8 Arg2:T40	
+T42	arg_co-object 426 438	the broccoli
+R28	co-object Arg1:T8 Arg2:T42	
+T43	arg_other 440 454	Using the foil
+R29	other Arg1:T9 Arg2:T43	
+T44	arg_object 461 473	the meatloaf
+T45	Evolution 461 473	the meatloaf
+E6	Evolution:T45 Cause:T8
+R30	object Arg1:T9 Arg2:T44	
+T46	arg_other 474 497	while pinching the ends
+R31	other Arg1:T9 Arg2:T46	
+T47	arg_object 504 517	aluminum foil
+T48	arg_co-object 518 538	around the meat loaf
+R32	object Arg1:T10 Arg2:T47	
+R33	co-object Arg1:T10 Arg2:T48	
+T49	Evolution 525 538	the meat loaf
+E7	Evolution:T49 Cause:T9
+R34	object Arg1:T11 Arg2:T10	
+T50	arg_location 549 573	on a medium baking sheet
+R35	location Arg1:T11 Arg2:T50	
+T51	ingredient 79 94	the ground beef
+T52	ingredient 96 108	bread crumbs
+T53	ingredient 110 113	egg
+T54	ingredient 118 129	steak sauce
+T55	ingredient 156 164	soup mix
+T56	ingredient 166 178	green pepper
+T57	ingredient 180 185	onion
+T58	ingredient 187 195	cilantro
+T59	ingredient 200 206	garlic
+T60	ingredient 299 316	about 1/2 the ham
+T61	ingredient 368 386	the Cheddar cheese
+T62	ingredient 406 419	remaining ham
+T63	ingredient 426 438	the broccoli

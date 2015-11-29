@@ -1,0 +1,133 @@
+T1	predicate 0 5	Place
+T2	predicate 26 31	cover
+T3	predicate 44 49	Bring
+T4	predicate 61 67	remove
+T5	predicate 83 86	let
+T6	predicate 127 133	Remove
+T7	predicate 155 159	cool
+T8	predicate 190 194	peel
+T9	predicate 196 199	Cut
+T10	predicate 229 234	place
+T11	predicate 256 260	Mash
+T12	predicate 280 287	stir in
+T13	predicate 359 365	season
+T14	predicate 388 395	Arrange
+T15	predicate 441 446	Spoon
+T16	predicate 491 499	snip off
+T17	predicate 527 531	pipe
+T18	predicate 563 571	Sprinkle
+T19	arg_object 6 10	eggs
+T20	ingredient 6 10	eggs
+T21	arg_location 11 24	in a saucepan
+R1	object Arg1:T1 Arg2:T19	
+R2	location Arg1:T1 Arg2:T21	
+R3	object Arg1:T2 Arg2:T1	
+T22	arg_co-object 32 42	with water
+T23	ingredient 37 42	water
+R4	co-object Arg1:T2 Arg2:T22	
+R5	object Arg1:T3 Arg2:T2	
+T24	arg_other 50 59	to a boil
+R6	other Arg1:T3 Arg2:T24	
+R7	object Arg1:T4 Arg2:T3	
+T25	arg_location 68 77	from heat
+R8	location Arg1:T4 Arg2:T25	
+T26	arg_object 87 91	eggs
+T27	arg_other 92 97	stand
+T28	arg_co-object 98 110	in hot water
+T29	Evolution 87 91	eggs
+E1	Evolution:T29 Cause:T4
+T30	Evolution 101 110	hot water
+E2	Evolution:T30 Cause:T4
+T31	arg_duration 111 125	for 15 minutes
+R9	object Arg1:T5 Arg2:T26	
+R10	other Arg1:T5 Arg2:T27	
+R11	co-object Arg1:T5 Arg2:T28	
+R12	duration Arg1:T5 Arg2:T31	
+T32	arg_object 134 138	eggs
+T33	arg_co-object 139 153	from hot water
+R13	object Arg1:T6 Arg2:T32	
+R14	co-object Arg1:T6 Arg2:T33	
+T34	Evolution 134 138	eggs
+E3	Evolution:T34 Cause:T5
+T35	Evolution 144 153	hot water
+E4	Evolution:T35 Cause:T5
+R15	object Arg1:T7 Arg2:T6	
+T36	arg_co-object 160 184	under cold running water
+R16	co-object Arg1:T7 Arg2:T36	
+T37	ingredient 166 184	cold running water
+R17	object Arg1:T8 Arg2:T7	
+T38	arg_object 200 208	each egg
+T40	arg_other 209 227	in half lengthwise
+R18	object Arg1:T9 Arg2:T38	
+R19	other Arg1:T9 Arg2:T40	
+T39	Evolution 200 208	each egg
+E5	Evolution:T39 Cause:T8
+T41	arg_object 235 244	egg yolks
+T42	Evolution 235 244	egg yolks
+E6	Evolution:T42 Cause:T9
+R20	object Arg1:T10 Arg2:T41	
+T43	arg_location 245 254	in a bowl
+R21	location Arg1:T10 Arg2:T43	
+T44	arg_object 261 266	yolks
+T45	Evolution 261 266	yolks
+E7	Evolution:T45 Cause:T10
+R22	object Arg1:T11 Arg2:T44	
+T46	arg_other 267 278	with a fork
+R23	other Arg1:T11 Arg2:T46	
+R24	co-object Arg1:T12 Arg2:T11	
+T47	arg_object 288 298	mayonnaise
+T48	arg_object 300 313	Dijon mustard
+T49	arg_object 315 330	Parmesan cheese
+T50	arg_object 332 339	oregano
+T51	arg_object 345 357	pepper sauce
+R25	object Arg1:T12 Arg2:T47	
+R26	object Arg1:T12 Arg2:T48	
+R27	object Arg1:T12 Arg2:T49	
+R28	object Arg1:T12 Arg2:T50	
+R29	object Arg1:T12 Arg2:T51	
+T52	ingredient 288 298	mayonnaise
+T53	ingredient 300 313	Dijon mustard
+T54	ingredient 315 330	Parmesan cheese
+T55	ingredient 332 339	oregano
+T56	ingredient 345 357	pepper sauce
+R30	object Arg1:T13 Arg2:T12	
+T57	arg_co-object 366 386	with salt and pepper
+R31	co-object Arg1:T13 Arg2:T57	
+T58	ingredient 371 375	salt
+T59	ingredient 380 386	pepper
+T60	arg_object 396 406	egg whites
+T61	Evolution 396 406	egg whites
+E8	Evolution:T61 Cause:T9
+R32	object Arg1:T14 Arg2:T60	
+T62	arg_other 407 418	cut-side up
+T63	arg_location 419 439	on a serving platter
+R33	other Arg1:T14 Arg2:T62	
+R34	location Arg1:T14 Arg2:T63	
+T64	arg_object 447 459	yolk mixture
+T65	Evolution 447 459	yolk mixture
+E9	Evolution:T65 Cause:T13
+R35	object Arg1:T15 Arg2:T64	
+T66	arg_location 460 489	into a resealable plastic bag
+R36	location Arg1:T15 Arg2:T66	
+T67	arg_object 500 510	one corner
+T68	arg_location 511 521	of the bag
+R37	object Arg1:T16 Arg2:T67	
+R38	location Arg1:T16 Arg2:T68	
+R39	same-location Arg1:T68 Arg2:T66	
+T69	arg_object 532 539	filling
+R40	object Arg1:T17 Arg2:T69	
+T70	Evolution 532 539	filling
+E10	Evolution:T70 Cause:T15
+R41	location Arg1:T17 Arg2:T16	
+T71	arg_co-object 540 561	into egg white halves
+T72	Evolution 545 561	egg white halves
+E11	Evolution:T72 Cause:T14
+R42	co-object Arg1:T17 Arg2:T71	
+T73	arg_object 572 584	deviled eggs
+T74	Evolution 572 584	deviled eggs
+E12	Evolution:T74 Cause:T17
+R43	object Arg1:T18 Arg2:T73	
+T75	arg_co-object 585 616	with Cheddar cheese and paprika
+R44	co-object Arg1:T18 Arg2:T75	
+T76	ingredient 590 604	Cheddar cheese
+T77	ingredient 609 616	paprika

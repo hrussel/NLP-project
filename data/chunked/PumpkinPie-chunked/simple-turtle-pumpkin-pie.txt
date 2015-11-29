@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine graham cracker crumbs , sugar , and melted butter in a mixing bowl until evenly moistened ;
+PREDID: 0
+PRED: combine
+  DOBJ: graham cracker crumbs , sugar , melted butter
+  PARG: a mixing bowl
+    PREP: in
+  PARG: evenly moistened
+    PREP: until
+
+
+SENTID: 2
+SENT: press into the bottom and sides of a 9-inch pie pan .
+PREDID: 0
+PRED: press
+  PARG: the bottom, sides of a 9-inch pie pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until the crust is lightly browned and smells toasted , about 6 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust is lightly browned, smells toasted , about 6 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove from the oven and allow to cool .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Spread 1/4 cup caramel topping onto the cooled crust .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 cup caramel topping
+  PARG: the cooled crust
+    PREP: onto
+
+
+SENTID: 6
+SENT: Sprinkle 1/2 cup pecan pieces over the caramel topping .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/2 cup pecan pieces
+  PARG: the caramel topping
+    PREP: over
+
+
+SENTID: 7
+SENT: Whisk milk , pumpkin , pudding mix , cinnamon , and nutmeg together in a bowl until well combined .
+PREDID: 0
+PRED: whisk
+  DOBJ: milk , pumpkin , pudding mix , cinnamon , nutmeg
+  PARG: a bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 8
+SENT: Stir 1Ê1/2 cups whipped topping into pumpkin mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: 1Ê1/2 cups whipped topping
+  PARG: pumpkin mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: Spread pumpkin mixture into crust .
+PREDID: 0
+PRED: spread
+  DOBJ: pumpkin mixture
+  PARG: crust
+    PREP: into
+
+
+SENTID: 10
+SENT: Spread remaining whipped topping over the top of the pie .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining whipped topping
+  PARG: the top of the pie
+    PREP: over
+
+
+SENTID: 11
+SENT: Refrigerate pie until chilled , at least 1 hour .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: pie
+  PARG: chilled , at least 1 hour
+    PREP: until
+
+
+SENTID: 12
+SENT: Sprinkle 2 tablespoons pecans atop the pie and drizzle with 2 tablespoons caramel using a fork .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 2 tablespoons pecans
+  PARG: the pie
+    PREP: atop
+
+PREDID: 1
+PRED: drizzle
+  DOBJ: using a fork
+  PARG: 2 tablespoons caramel
+    PREP: with
+

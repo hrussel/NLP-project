@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: Toss red cabbage , tomato , baby carrots , pineapple , pecans , apple , red bell pepper , dried cherries , green onion , cilantro , parsley , dry mustard , salt , and black pepper together in a large salad bowl until thoroughly combined .
+PREDID: 0
+PRED: toss
+  DOBJ: red cabbage , tomato , baby carrots , pineapple , pecans , apple , red bell pepper , dried cherries , green onion , cilantro , parsley , dry mustard , salt , black pepper
+  PARG: a large salad bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Gently mix mayonnaise into the slaw and drizzle with honey ;
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise
+  PARG: the slaw
+    PREP: into
+  OARG: gently
+
+PREDID: 1
+PRED: drizzle
+  PARG: honey
+    PREP: with
+
+
+SENTID: 2
+SENT: stir again to combine all ingredients .
+PREDID: 0
+PRED: stir
+  PARG: combine all ingredients
+    PREP: to
+  OARG: again
+
+
+SENTID: 3
+SENT: Cover bowl and chill before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+
+PREDID: 1
+PRED: chill
+  PARG: serving
+    PREP: before
+

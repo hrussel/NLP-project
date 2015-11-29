@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Fill a large skillet with 1 inch -LRB- 2.5 cm -RRB- of water .
+PREDID: 0
+PRED: fill
+  DOBJ: a large skillet
+  PARG: 1 inch -lrb- 2.5 cm -rrb- of water
+    PREP: with
+
+
+SENTID: 1
+SENT: Add lemon slices , bay leaf , peppercorns and 2/3 of the thyme , and bring to boiling over high heat .
+PREDID: 0
+PRED: add
+  DOBJ: lemon slices , bay leaf , peppercorns, 2/3 of the thyme
+
+PREDID: 1
+PRED: bring
+  PARG: boiling
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Add chicken , reduce heat to low and simmer for 15-18 minutes , turning chicken once , until juices run clear and chicken is no longer pink .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: 15-18 minutes , turning chicken
+    PREP: for
+  PARG: juices run clear, chicken is no longer pink
+    PREP: until
+  OARG: once
+
+
+SENTID: 3
+SENT: Remove chicken from liquid and set aside to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: liquid
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 4
+SENT: In a small skillet , stir together the paprika and remaining thyme over medium-low heat for 2 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: the paprika, remaining thyme
+  PARG: a small skillet
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+  PARG: 2 minutes
+    PREP: for
+  OARG: together
+
+
+SENTID: 5
+SENT: In a small bowl , whisk together the toasted paprika mixture , mayonnaise , sour cream , salt , ground pepper and nutmeg until evenly blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: the toasted paprika mixture , mayonnaise , sour cream , salt , ground pepper, nutmeg
+  PARG: a small bowl
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 6
+SENT: Cube cooled chicken and transfer to a medium bowl .
+PREDID: 0
+PRED: cube
+  DOBJ: cooled chicken
+
+PREDID: 1
+PRED: transfer
+  PARG: a medium bowl
+    PREP: to
+
+
+SENTID: 7
+SENT: Add prepared dressing , corn , cilantro , orange pepper and jalapeno and toss until evenly coated .
+PREDID: 0
+PRED: add
+  DOBJ: prepared dressing , corn , cilantro , orange pepper, jalapeno
+
+PREDID: 1
+PRED: toss
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 8
+SENT: Serve warm , or refrigerate until ready to serve .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+
+PREDID: 1
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+

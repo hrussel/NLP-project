@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Cut the bread into 1-inch cubes and toss in the sunflower oil , salt and pepper .
+PREDID: 0
+PRED: cut
+  DOBJ: the bread
+  PARG: 1-inch cubes
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  PARG: the sunflower oil , salt, pepper
+    PREP: in
+
+
+SENTID: 2
+SENT: Spread onto a baking sheet and bake for 10 minutes , until crispy and golden .
+PREDID: 0
+PRED: spread
+  PARG: a baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: bake
+  PARG: 10 minutes
+    PREP: for
+  PARG: crispy, golden
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from the oven to cool .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Place the egg , garlic , anchovy fillets , Maille ¨ Dijon Originale mustard and vinegar into a food processor .
+PREDID: 0
+PRED: place
+  DOBJ: the egg , garlic , anchovy fillets , maille ¨ dijon originale mustard, vinegar
+  PARG: a food processor
+    PREP: into
+
+
+SENTID: 5
+SENT: Blend for 30 seconds , before slowly adding the olive oil .
+PREDID: 0
+PRED: blend
+  DOBJ: adding the olive oil
+  PARG: 30 seconds
+    PREP: for
+  PARG: slowly
+    PREP: before
+
+
+SENTID: 6
+SENT: Toss the roughly torn lettuce leaves in a mixing bowl , with the dressing , making sure that all of the leaves are coated .
+PREDID: 0
+PRED: toss
+  DOBJ: the roughly torn lettuce leaves
+  PARG: a mixing bowl
+    PREP: in
+  PARG: the dressing , making
+    PREP: with
+  PARG: all of the leaves are coated
+    PREP: that
+  OARG: sure
+
+
+SENTID: 7
+SENT: Arrange leaves on a serving platter , top with the slices of smoked chicken breast , croutons and Parmesan cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: leaves
+  PARG: a serving platter
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: the slices of smoked chicken breast , croutons, parmesan cheese
+    PREP: with
+

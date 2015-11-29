@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Place the potatoes in a saucepan of lightly salted water , bring to a boil , and cook until tender , about 20 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a saucepan of lightly salted water
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain the potatoes in a colander , and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: the potatoes
+  PARG: a colander
+    PREP: in
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 2
+SENT: Place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned and crisp , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned, crisp , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain the bacon slices on a paper towel-lined plate .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 4
+SENT: Snip the cooked bacon into pieces with a scissors , or chop .
+PREDID: 0
+PRED: snip
+  DOBJ: the cooked bacon
+  PARG: pieces
+    PREP: into
+  PARG: a scissors
+    PREP: with
+
+PREDID: 1
+PRED: chop
+
+
+SENTID: 5
+SENT: In a large bowl , mix the mini potatoes , chopped bacon , hard-boiled eggs , broccoli , Cheddar cheese , ranch salad dressing , dill weed , salt , and pepper until thoroughly combined , and serve .
+PREDID: 0
+PRED: mix
+  DOBJ: the mini potatoes , chopped bacon , hard-boiled eggs , broccoli , cheddar cheese , ranch salad dressing , dill weed , salt , pepper
+  PARG: a large bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+PREDID: 1
+PRED: serve
+

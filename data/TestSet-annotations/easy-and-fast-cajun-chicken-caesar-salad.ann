@@ -1,0 +1,66 @@
+T1	predicate 0 5	Place
+T2	predicate 38 42	Cook
+T3	predicate 85 92	Crumble
+T4	predicate 97 106	set aside
+T5	predicate 132 135	add
+T6	predicate 172 176	Cook
+T7	predicate 208 214	Remove
+T8	predicate 229 238	set aside
+T9	predicate 257 264	combine
+T10	predicate 332 336	Toss
+T11	predicate 341 346	place
+T12	predicate 375 378	Top
+T13	predicate 407 412	serve
+R1	object Arg1:T13 Arg2:T12	
+R2	object Arg1:T12 Arg2:T11	
+R3	object Arg1:T11 Arg2:T10	
+R4	object Arg1:T10 Arg2:T9	
+R5	object Arg1:T8 Arg2:T7	
+R6	object Arg1:T7 Arg2:T6	
+R7	object Arg1:T6 Arg2:T5	
+R8	object Arg1:T4 Arg2:T3	
+R9	object Arg1:T3 Arg2:T2	
+R10	object Arg1:T2 Arg2:T1	
+T14	arg_object 6 11	bacon
+R11	object Arg1:T1 Arg2:T14	
+T15	arg_location 12 36	in a large, deep skillet
+R12	location Arg1:T1 Arg2:T15	
+T16	arg_duration 43 83	over medium high heat until evenly brown
+R13	duration Arg1:T2 Arg2:T16	
+T17	arg_location 108 130	In a preheated skillet
+R14	location Arg1:T5 Arg2:T17	
+T18	arg_object 136 147	the chicken
+T19	arg_object 149 162	seasoning mix
+T20	arg_object 167 170	oil
+R15	object Arg1:T5 Arg2:T18	
+R16	object Arg1:T5 Arg2:T19	
+R17	object Arg1:T5 Arg2:T20	
+T21	arg_duration 177 206	until chicken is golden brown
+R18	duration Arg1:T6 Arg2:T21	
+T22	arg_location 215 224	from heat
+R19	location Arg1:T7 Arg2:T22	
+T23	arg_location 240 255	In a salad bowl
+R20	location Arg1:T9 Arg2:T23	
+T24	arg_object 265 272	Romaine
+T25	arg_object 274 303	enough salad dressing to coat
+T26	arg_object 305 320	Parmesan cheese
+T27	arg_object 325 330	bacon
+T28	Evolution 325 330	bacon
+E1	Evolution:T28 Cause:T4
+R21	object Arg1:T9 Arg2:T24	
+R22	object Arg1:T9 Arg2:T25	
+R23	object Arg1:T9 Arg2:T26	
+R24	object Arg1:T9 Arg2:T27	
+T29	arg_location 347 373	on individual salad plates
+R25	location Arg1:T11 Arg2:T29	
+T30	arg_co-object 379 402	with the sliced chicken
+R26	co-object Arg1:T12 Arg2:T30	
+T31	Evolution 384 402	the sliced chicken
+E2	Evolution:T31 Cause:T8
+T32	ingredient 6 11	bacon
+T33	ingredient 136 147	the chicken
+T34	ingredient 149 162	seasoning mix
+T35	ingredient 167 170	oil
+T36	ingredient 265 272	Romaine
+T37	ingredient 274 303	enough salad dressing to coat
+T38	ingredient 305 320	Parmesan cheese

@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Place the chicken breasts into a saucepan over medium-low heat , and pour in 1 cup of barbeque sauce .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken breasts
+  PARG: a saucepan
+    PREP: into
+  PARG: medium-low heat
+    PREP: over
+
+PREDID: 1
+PRED: pour
+  PARG: 1 cup of barbeque sauce
+    PREP: in
+
+
+SENTID: 1
+SENT: Simmer the chicken until the meat is no longer pink inside , about 15 minutes .
+PREDID: 0
+PRED: simmer
+  DOBJ: the chicken
+  PARG: the meat is no longer pink inside , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Allow to cool , and dice chicken meat .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+
+PREDID: 1
+PRED: dice
+  DOBJ: chicken meat
+
+
+SENTID: 3
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Once the water is boiling , stir in the shell pasta , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the shell pasta
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 7
+SENT: Rinse pasta with cold water until chilled , and drain again thoroughly .
+PREDID: 0
+PRED: rinse
+  DOBJ: pasta
+  PARG: cold water
+    PREP: with
+  PARG: chilled
+    PREP: until
+
+PREDID: 1
+PRED: drain
+  OARG: again
+  OARG: thoroughly
+
+
+SENTID: 8
+SENT: In a large salad bowl , whisk 1 cup of barbeque sauce with mayonnaise until thoroughly combined .
+PREDID: 0
+PRED: whisk
+  DOBJ: 1 cup of barbeque sauce
+  PARG: a large salad bowl
+    PREP: in
+  PARG: mayonnaise
+    PREP: with
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 9
+SENT: Mix in the cumin , then stir in cooked chicken .
+PREDID: 0
+PRED: mix
+  PARG: the cumin
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: cooked chicken
+    PREP: in
+
+
+SENTID: 10
+SENT: Place cooked pasta , jicama , red and orange bell peppers , corn , cilantro , black beans , jalapeno peppers , and red onion into the salad bowl , and gently fold to combine with the dressing .
+PREDID: 0
+PRED: place
+  DOBJ: cooked pasta , jicama , red, orange bell peppers , corn , cilantro , black beans , jalapeno peppers , red onion
+  PARG: the salad bowl
+    PREP: into
+  OARG: gently
+
+PREDID: 1
+PRED: fold
+  PARG: combine
+    PREP: to
+  PARG: the dressing
+    PREP: with
+
+
+SENTID: 11
+SENT: Serve warm or chilled .
+PREDID: 0
+PRED: serve
+  DOBJ: warm or chilled
+

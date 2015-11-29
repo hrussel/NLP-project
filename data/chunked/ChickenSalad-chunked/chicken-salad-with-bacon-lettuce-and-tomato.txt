@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , crumble and set aside to cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Prepare the dressing by mixing together the mayonnaise , parsley , green onions , lemon juice , Worcestershire sauce , salt and pepper .
+PREDID: 0
+PRED: prepare
+  DOBJ: the mayonnaise , parsley , green onions , lemon juice , worcestershire sauce , salt, pepper
+  PARG: mixing
+    PREP: by
+  OARG: together
+  OARG: the dressing
+
+
+SENTID: 4
+SENT: In a medium bowl , stir together the chicken breast , tomatoes and bacon .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken breast , tomatoes, bacon
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour dressing over chicken mixture and toss well to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: chicken mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: well
+
+
+SENTID: 6
+SENT: Refrigerate until chilled ;
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+
+
+SENTID: 7
+SENT: serve over lettuce leaves and garnish with avocado slices .
+PREDID: 0
+PRED: serve
+  PARG: lettuce leaves
+    PREP: over
+
+PREDID: 1
+PRED: garnish
+  PARG: avocado slices
+    PREP: with
+

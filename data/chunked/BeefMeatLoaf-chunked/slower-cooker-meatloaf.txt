@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: In a medium bowl , mix together the ground beef , eggs , 3 tablespoons ketchup , onion soup mix and steak seasoning using your hands .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , eggs , 3 tablespoons ketchup , onion soup mix, steak seasoning using your hands
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Pat lightly into the bottom of a slow cooker .
+PREDID: 0
+PRED: pat
+  PARG: the bottom of a slow cooker
+    PREP: into
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Spread remaining ketchup over the top .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining ketchup
+  PARG: the top
+    PREP: over
+
+
+SENTID: 3
+SENT: Cover , and cook for 6 to 8 hours on Low , or 4 hours on High .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: 6 to 8 hours
+    PREP: for
+  PARG: low , or 4 hours
+    PREP: on
+  PARG: high
+    PREP: on
+

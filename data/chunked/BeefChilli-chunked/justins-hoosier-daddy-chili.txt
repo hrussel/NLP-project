@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Crumble the ground beef into a soup pot over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: a soup pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir until evenly browned .
+PREDID: 0
+PRED: cook
+  PARG: evenly browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Drain off most of the grease .
+PREDID: 0
+PRED: drain
+  PARG: most of the grease
+    PREP: off
+
+
+SENTID: 3
+SENT: Add onion , red pepper flakes , and half of the cumin ;
+PREDID: 0
+PRED: add
+  DOBJ: onion , red pepper flakes , half of the cumin
+
+
+SENTID: 4
+SENT: cook and stir until onion is tender .
+PREDID: 0
+PRED: cook
+  PARG: onion is tender
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Pour in the tomato soup , chicken broth , and crushed tomatoes .
+PREDID: 0
+PRED: pour
+  PARG: the tomato soup , chicken broth , crushed tomatoes
+    PREP: in
+
+
+SENTID: 6
+SENT: Season with chili powder , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: chili powder , salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Simmer for 30 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Pour in the beans , and season with remaining cumin and cayenne pepper ;
+PREDID: 0
+PRED: pour
+  PARG: the beans
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: remaining cumin, cayenne pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: simmer for another 30 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: another 30 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Now enjoy .
+PREDID: 0
+PRED: enjoy
+  OARG: now
+

@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Slice eggs in half lengthwise and scoop yolks into a bowl .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: scoop
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Mash yolks with a fork and stir in mayonnaise , mustard , sweet pickles , red onion , avocado , jalapeno pepper , salt , and black pepper until thoroughly combined .
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: mayonnaise , mustard , sweet pickles , red onion , avocado , jalapeno pepper , salt , black pepper
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Spoon filling into egg halves and sprinkle each deviled egg half with a pinch of ground chipotle chile .
+PREDID: 0
+PRED: spoon
+  DOBJ: filling
+  PARG: egg halves
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: each deviled egg half
+  PARG: a pinch of ground chipotle chile
+    PREP: with
+

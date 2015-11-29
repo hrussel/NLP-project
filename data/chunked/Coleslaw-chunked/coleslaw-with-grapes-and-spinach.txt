@@ -1,0 +1,26 @@
+SENTID: 0
+SENT: Whisk mayonnaise , sugar , vinegar , salt , and black pepper in a large salad bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , sugar , vinegar , salt , black pepper
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: fold in cabbage , broccoli , red onion , spinach , and red grapes .
+PREDID: 0
+PRED: fold
+  PARG: cabbage , broccoli , red onion , spinach , red grapes
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir to coat with dressing .
+PREDID: 0
+PRED: stir
+  PARG: coat
+    PREP: to
+  PARG: dressing
+    PREP: with
+

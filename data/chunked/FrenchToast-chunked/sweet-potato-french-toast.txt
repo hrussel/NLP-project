@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Whisk together the sweet potato , eggs , cinnamon , and nutmeg until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: the sweet potato , eggs , cinnamon , nutmeg
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Dip the bread into the egg mixture on both sides for several seconds until the bread is moist all the way through .
+PREDID: 0
+PRED: dip
+  DOBJ: the bread
+  PARG: the egg mixture
+    PREP: into
+  PARG: both sides
+    PREP: on
+  PARG: several seconds
+    PREP: for
+  PARG: the bread is moist all the way through
+    PREP: until
+
+
+SENTID: 2
+SENT: Heat a large , lightly-oiled skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large , lightly-oiled skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook the French toast in batches until golden brown on each side and no longer wet in the center , about 4 minutes per side .
+PREDID: 0
+PRED: cook
+  DOBJ: the french toast
+  PARG: batches
+    PREP: in
+  PARG: golden brown on each side, no longer wet in the center , about 4 minutes per side
+    PREP: until
+

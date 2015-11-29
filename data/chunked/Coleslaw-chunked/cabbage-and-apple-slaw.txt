@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: In a salad bowl , combine and whisk together the yogurt , sour cream and honey .
+PREDID: 0
+PRED: combine
+  PARG: a salad bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: whisk
+  DOBJ: the yogurt , sour cream, honey
+
+
+SENTID: 1
+SENT: Refrigerate until chilled .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the cabbage , apple , onion , parsley , and salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: the cabbage , apple , onion , parsley , salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 3
+SENT: Mix well and serve chilled .
+PREDID: 0
+PRED: mix
+  DOBJ: chilled
+  OARG: well
+
+PREDID: 1
+PRED: serve
+

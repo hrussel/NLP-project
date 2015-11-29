@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 1
+SENT: Mix black beans , salsa , 1/2 cup cilantro , and lime juice in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: black beans , salsa , 1/2 cup cilantro , lime juice
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Stir chili powder , cumin , coriander , brown sugar , cayenne pepper , and olive oil in a bowl until smooth ;
+PREDID: 0
+PRED: stir
+  DOBJ: chili powder , cumin , coriander , brown sugar , cayenne pepper , olive oil
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: rub mixture over chicken breasts .
+PREDID: 0
+PRED: rub
+  DOBJ: mixture
+  PARG: chicken breasts
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook chicken breasts on preheated grill until no longer pink in the center and the juices run clear , 10 to 12 minutes per side .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken breasts
+  PARG: preheated grill
+    PREP: on
+  PARG: no longer pink in the center, the juices run clear , 10 to 12 minutes per side
+    PREP: until
+
+
+SENTID: 6
+SENT: While the chicken is cooking , place tortillas on grill and grill until lightly brown on both sides , 3 to 5 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: tortillas
+  PARG: the chicken is cooking
+    PREP: while
+  PARG: grill
+    PREP: on
+
+PREDID: 1
+PRED: grill
+  PARG: lightly
+    PREP: until
+
+PREDID: 2
+PRED: brown
+  PARG: both sides , 3 to 5 minutes
+    PREP: on
+
+
+SENTID: 7
+SENT: Transfer chicken to a cutting board and slice into long thin strips .
+PREDID: 0
+PRED: transfer
+  DOBJ: chicken
+  PARG: a cutting board
+    PREP: to
+
+PREDID: 1
+PRED: slice
+  DOBJ: strips
+  PARG: long
+    PREP: into
+  OARG: thin
+
+
+SENTID: 8
+SENT: Divide chicken strips over tortillas and top with bean mixture , lettuce , and remaining 1/2 cup cilantro .
+PREDID: 0
+PRED: divide
+  DOBJ: chicken strips
+  PARG: tortillas
+    PREP: over
+
+PREDID: 1
+PRED: top
+  DOBJ: remaining 1/2 cup cilantro
+  PARG: bean mixture , lettuce
+    PREP: with
+
+
+SENTID: 9
+SENT: Serve with avocado , lime wedges , and sour cream .
+PREDID: 0
+PRED: serve
+  PARG: avocado , lime wedges , sour cream
+    PREP: with
+

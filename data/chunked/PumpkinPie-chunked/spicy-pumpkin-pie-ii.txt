@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C. -RRB- In a large bowl , combine pumpkin puree , milk , cream , brown sugar and white sugar .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: pumpkin puree , milk , cream , brown sugar, white sugar
+
+
+SENTID: 1
+SENT: Mix in the cinnamon , salt , nutmeg , ginger and cloves .
+PREDID: 0
+PRED: mix
+  PARG: the cinnamon , salt , nutmeg , ginger, cloves
+    PREP: in
+
+
+SENTID: 2
+SENT: Beat in the flour and eggs .
+PREDID: 0
+PRED: beat
+  PARG: the flour, eggs
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake for 10 minutes at 450 degrees F -LRB- 230 degrees C -RRB- then reduce the temperature to 350 degrees F -LRB- 175 degrees C -RRB- and bake for 50 minutes , or until filling has set .
+PREDID: 0
+PRED: bake
+  PARG: 10 minutes
+    PREP: for
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: at
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: the temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 2
+PRED: bake
+  PARG: 50 minutes
+    PREP: for
+  PARG: filling has set
+    PREP: until
+

@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Place green bell pepper , carrot , and garlic cloves into a food processor and pulse a few times until the vegetables are very finely chopped .
+PREDID: 0
+PRED: place
+  DOBJ: green bell pepper , carrot , garlic cloves
+  PARG: a food processor
+    PREP: into
+
+PREDID: 1
+PRED: pulse
+  DOBJ: a few times
+  PARG: the vegetables are very finely chopped
+    PREP: until
+
+
+SENTID: 1
+SENT: Transfer chopped vegetables into a large saucepan .
+PREDID: 0
+PRED: transfer
+  DOBJ: chopped vegetables
+  PARG: a large saucepan
+    PREP: into
+
+
+SENTID: 2
+SENT: Stir in tomato puree , crushed tomatoes , Italian seasoning , basil , and red pepper flakes ;
+PREDID: 0
+PRED: stir
+  PARG: tomato puree , crushed tomatoes , italian seasoning , basil , red pepper flakes
+    PREP: in
+
+
+SENTID: 3
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Reduce heat to low and simmer uncovered until sauce has thickened , about 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low, simmer uncovered
+    PREP: to
+  PARG: sauce has thickened , about 30 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in olive oil and simmer 1 to 2 more minutes .
+PREDID: 0
+PRED: stir
+  PARG: olive oil
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  OARG: 1 to 2 more minutes
+
+
+SENTID: 6
+SENT: Sauce may be refrigerated up to 1 week .
+PREDID: 0
+PRED: sauce
+  DOBJ: may be refrigerated
+  PARG: 1 week
+    PREP: to
+  OARG: up
+

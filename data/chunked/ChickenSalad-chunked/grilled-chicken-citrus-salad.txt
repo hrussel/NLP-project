@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: In a mixing bowl , whisk together orange juice , lime juice , shallots , garlic , chili powder , cumin , and sugar .
+PREDID: 0
+PRED: whisk
+  DOBJ: orange juice , lime juice , shallots , garlic , chili powder , cumin , sugar
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour 1/2 of this mixture into a large , resealable plastic bag , and add the chicken breasts .
+PREDID: 0
+PRED: pour
+  DOBJ: 1/2 of this mixture
+  PARG: a large , resealable plastic bag , add the chicken breasts
+    PREP: into
+
+
+SENTID: 2
+SENT: Seal , and refrigerate for at least 2 hours .
+PREDID: 0
+PRED: seal
+
+PREDID: 1
+PRED: refrigerate
+  PARG: at least 2 hours
+    PREP: for
+
+
+SENTID: 3
+SENT: Refrigerate the remaining dressing .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: the remaining dressing
+
+
+SENTID: 4
+SENT: Preheat an outdoor grill for medium-high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+
+
+SENTID: 5
+SENT: In a large salad bowl , toss romaine lettuce with oranges , celery , and green onions .
+PREDID: 0
+PRED: toss
+  DOBJ: romaine lettuce
+  PARG: a large salad bowl
+    PREP: in
+  PARG: oranges , celery , green onions
+    PREP: with
+
+
+SENTID: 6
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Lightly oil grate , and place chicken on grill .
+PREDID: 0
+PRED: grate
+  DOBJ: oil
+  OARG: lightly
+
+PREDID: 1
+PRED: place
+  DOBJ: chicken
+  PARG: grill
+    PREP: on
+
+
+SENTID: 8
+SENT: Discard the marinade from the chicken .
+PREDID: 0
+PRED: discard
+  DOBJ: the marinade
+  PARG: the chicken
+    PREP: from
+
+
+SENTID: 9
+SENT: Cook for 6 to 8 minutes each side , or until juices run clear when pierced with a fork .
+PREDID: 0
+PRED: cook
+  PARG: 6 to 8 minutes each side
+    PREP: for
+  PARG: juices run clear when pierced with a fork
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove chicken from grill , and slice into thin strips .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: grill
+    PREP: from
+
+PREDID: 1
+PRED: slice
+  PARG: thin strips
+    PREP: into
+
+
+SENTID: 11
+SENT: Toss salad with reserved dressing , and top with sliced chicken .
+PREDID: 0
+PRED: toss
+  DOBJ: salad
+  PARG: reserved dressing
+    PREP: with
+
+PREDID: 1
+PRED: top
+  PARG: sliced chicken
+    PREP: with
+

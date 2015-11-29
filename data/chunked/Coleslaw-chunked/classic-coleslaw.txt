@@ -1,0 +1,26 @@
+SENTID: 0
+SENT: In a large bowl , combine cabbage , carrot , onion , vegetable oil , vinegar and SPLENDA ¨ Granulated Sweetener .
+PREDID: 0
+PRED: combine
+  DOBJ: cabbage , carrot , onion , vegetable oil , vinegar, splenda ¨ granulated sweetener
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir until the ingredients are well mixed .
+PREDID: 0
+PRED: stir
+  PARG: the ingredients are well mixed
+    PREP: until
+
+
+SENTID: 2
+SENT: Chill in the refrigerator until serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: until
+

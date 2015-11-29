@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat and lightly oil grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+  OARG: lightly
+
+
+SENTID: 1
+SENT: Combine the hot sauce , chili powder , coriander , tandoori paste , oregano , vinegar , lemon juice , and oil in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the hot sauce , chili powder , coriander , tandoori paste , oregano , vinegar , lemon juice , oil
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Coat each piece of chicken with the sauce , then discard remaining sauce .
+PREDID: 0
+PRED: coat
+  DOBJ: each piece of chicken
+  PARG: the sauce
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: discard
+  DOBJ: remaining sauce
+
+
+SENTID: 3
+SENT: Cook the chicken on the grill until juices run clear and the chicken is cooked through , approximately 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+  PARG: the grill
+    PREP: on
+  PARG: juices run clear, the chicken is cooked through , approximately 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Set chicken aside .
+PREDID: 0
+PRED: set
+  DOBJ: chicken
+  OARG: aside
+
+
+SENTID: 5
+SENT: Prepare the dressing by mixing the lemon juice , vinegar , hot sauce , salt and pepper in a small bowl ;
+PREDID: 0
+PRED: prepare
+  DOBJ: the dressing
+  PARG: mixing the lemon juice , vinegar , hot sauce , salt, pepper
+    PREP: by
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: For the salad , combine the lettuce , tomatoes , onion , radishes , carrots , and pepper in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the lettuce , tomatoes , onion , radishes , carrots , pepper
+  PARG: the salad
+    PREP: for
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Slice the cooked chicken and add to the salad .
+PREDID: 0
+PRED: slice
+  DOBJ: the cooked chicken
+
+PREDID: 1
+PRED: add
+  PARG: the salad
+    PREP: to
+
+
+SENTID: 9
+SENT: Toss gently with the dressing .
+PREDID: 0
+PRED: toss
+  PARG: the dressing
+    PREP: with
+  OARG: gently
+

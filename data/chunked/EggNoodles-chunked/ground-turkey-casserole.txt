@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large skillet over medium-high heat , saute the ground turkey for 5 to 10 minutes , or until browned .
+PREDID: 0
+PRED: saute
+  DOBJ: the ground turkey
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain the turkey , stir in the tomato sauce and sugar , and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: the turkey
+
+PREDID: 1
+PRED: stir
+  PARG: the tomato sauce, sugar
+    PREP: in
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a medium bowl , combine the sour cream and cream cheese .
+PREDID: 0
+PRED: combine
+  DOBJ: the sour cream, cream cheese
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix well and set aside .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 5
+SENT: Cook noodles according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 6
+SENT: Place them into a 9x13-inch baking dish , then layer the turkey mixture over the noodles .
+PREDID: 0
+PRED: place
+  DOBJ: layer the turkey mixture
+  PARG: a 9x13-inch baking dish
+    PREP: into
+  PARG: the noodles
+    PREP: over
+  OARG: then
+  OARG: them
+
+
+SENTID: 7
+SENT: Then layer the sour cream mixture over the turkey , and top with cheese .
+PREDID: 0
+PRED: layer
+  DOBJ: the sour cream mixture
+  PARG: the turkey
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 to 35 minutes , or until cheese is melted and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 20 to 35 minutes
+    PREP: for
+  PARG: cheese is melted, bubbly
+    PREP: until
+

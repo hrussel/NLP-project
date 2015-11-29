@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: If using a pizza stone , place in oven to preheat .
+PREDID: 0
+PRED: place
+  PARG: using a pizza stone
+    PREP: if
+  PARG: oven
+    PREP: in
+  OARG: to preheat
+
+
+SENTID: 2
+SENT: Heat 1 tablespoon olive oil in a large skillet ;
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon olive oil
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: cook and stir onion and garlic until tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add spinach and continue to cook and stir until all liquid has evaporated , 5 to 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: spinach
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  PARG: all liquid has evaporated , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from heat and season with basil , lemon juice , oregano , and pepper .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: season
+  PARG: basil , lemon juice , oregano , pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Allow mixture to cool slightly .
+PREDID: 0
+PRED: allow
+  DOBJ: mixture
+  OARG: to cool
+  OARG: slightly
+
+
+SENTID: 7
+SENT: Unroll pizza dough on preheated pizza stone or a large baking sheet and brush with remaining 1 tablespoon olive oil .
+PREDID: 0
+PRED: unroll
+  DOBJ: pizza dough
+  PARG: preheated pizza stone or a large baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: brush
+  PARG: remaining 1 tablespoon olive oil
+    PREP: with
+
+
+SENTID: 8
+SENT: Spread spinach mixture over dough , leaving a small border at the edge of the pizza crust .
+PREDID: 0
+PRED: spread
+  DOBJ: leaving a small border
+  PARG: dough
+    PREP: over
+  PARG: the edge of the pizza crust
+    PREP: at
+  OARG: spinach mixture
+
+
+SENTID: 9
+SENT: Top with 1 cup mozzarella cheese .
+PREDID: 0
+PRED: top
+  PARG: 1 cup mozzarella cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Press tomato slices into seasoned bread crumbs until coated ;
+PREDID: 0
+PRED: press
+  DOBJ: tomato slices
+  PARG: seasoned bread crumbs
+    PREP: into
+  PARG: coated
+    PREP: until
+
+
+SENTID: 11
+SENT: arrange tomatoes over pizza .
+PREDID: 0
+PRED: arrange
+  DOBJ: tomatoes
+  PARG: pizza
+    PREP: over
+
+
+SENTID: 12
+SENT: Spread remaining 1 cup mozzarella cheese and feta cheese over tomatoes .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining 1 cup mozzarella cheese, feta cheese
+  PARG: tomatoes
+    PREP: over
+
+
+SENTID: 13
+SENT: Bake in preheated oven until pizza crust is golden brown and cheese is melted , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: pizza crust is golden brown
+    PREP: until
+
+PREDID: 1
+PRED: cheese
+  DOBJ: is melted
+  PARG: 15 minutes
+    PREP: about
+

@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 1
+SENT: Cook over medium-high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain excess fat , and crumble .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+PREDID: 1
+PRED: crumble
+
+
+SENTID: 3
+SENT: Stir in onion , green pepper , tomato sauce , tomato paste and chili beans .
+PREDID: 0
+PRED: stir
+  PARG: onion , green pepper , tomato sauce , tomato paste, chili beans
+    PREP: in
+
+
+SENTID: 4
+SENT: Season with chili powder , hot sauce , seasoning salt , cayenne pepper and garlic powder .
+PREDID: 0
+PRED: season
+  PARG: chili powder , hot sauce , seasoning salt , cayenne pepper, garlic powder
+    PREP: with
+
+
+SENTID: 5
+SENT: Cook over low heat , stirring occasionally , until desired consistency -LRB- at least 1 hour for best flavor -RRB- .
+PREDID: 0
+PRED: cook
+  PARG: low heat , stirring
+    PREP: over
+  PARG: desired consistency -lrb- at least 1 hour for best flavor -rrb-
+    PREP: until
+  OARG: occasionally
+

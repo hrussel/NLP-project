@@ -1,0 +1,22 @@
+SENTID: 0
+SENT: Mix the carrots , raisins , coconut , pineapple tidbits , mini marshmallows , yogurt , and cinnamon in a salad bowl , and refrigerate for at least 1 hour to blend the flavors .
+PREDID: 0
+PRED: mix
+  DOBJ: the carrots , raisins , coconut , pineapple tidbits , mini marshmallows , yogurt , cinnamon
+  PARG: a salad bowl
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  PARG: at least 1 hour
+    PREP: for
+  PARG: blend the flavors
+    PREP: to
+
+
+SENTID: 1
+SENT: Serve cold .
+PREDID: 0
+PRED: serve
+  DOBJ: cold
+

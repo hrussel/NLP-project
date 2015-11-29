@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Mix tomato paste , vinegar , onion flakes , yellow mustard , molasses , garlic , olive oil , and liquid smoke in a bowl to create a thick paste .
+PREDID: 0
+PRED: mix
+  DOBJ: tomato paste , vinegar , onion flakes , yellow mustard , molasses , garlic , olive oil , liquid smoke
+  PARG: a bowl
+    PREP: in
+  OARG: to create a thick paste
+
+
+SENTID: 1
+SENT: Stir brown sugar , kosher salt , cumin , chipotle pepper , paprika , black pepper , garlic powder , mustard powder , and cayenne pepper into tomato paste mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: brown sugar , kosher salt , cumin , chipotle pepper , paprika , black pepper , garlic powder , mustard powder , cayenne pepper
+  PARG: tomato paste mixture
+    PREP: into
+
+
+SENTID: 2
+SENT: Place pork shoulder into a slow cooker and add paste mixture .
+PREDID: 0
+PRED: place
+  DOBJ: pork shoulder
+  PARG: a slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: paste mixture
+
+
+SENTID: 3
+SENT: Cook on High for 4 hours .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: 4 hours
+    PREP: for
+
+
+SENTID: 4
+SENT: Shred pork with 2 forks and remove bone .
+PREDID: 0
+PRED: shred
+  DOBJ: pork
+  PARG: 2 forks
+    PREP: with
+
+PREDID: 1
+PRED: remove
+  DOBJ: bone
+
+
+SENTID: 5
+SENT: Reduce heat to Low and continue cooking for 1 to 2 more hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low, continue cooking
+    PREP: to
+  PARG: 1 to 2 more hours
+    PREP: for
+

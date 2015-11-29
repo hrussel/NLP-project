@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Place the potatoes in a large pot , and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook until a fork can be easily inserted and removed , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: a fork can be easily inserted, removed , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and cool slightly .
+PREDID: 0
+PRED: drain
+  OARG: slightly
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: During the last 10 minutes , boil the hot dogs and eggs .
+PREDID: 0
+PRED: boil
+  DOBJ: the hot dogs, eggs
+  PARG: the last 10 minutes
+    PREP: during
+
+
+SENTID: 4
+SENT: Drain everything , and set aside to cool .
+PREDID: 0
+PRED: drain
+  DOBJ: everything , set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Peel the potatoes , and cut into cubes .
+PREDID: 0
+PRED: peel
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: cut
+  PARG: cubes
+    PREP: into
+
+
+SENTID: 6
+SENT: Chop hot dogs .
+PREDID: 0
+PRED: chop
+  DOBJ: hot dogs
+
+
+SENTID: 7
+SENT: Place everything in a large bowl , and mix in the pickles , onions and peas .
+PREDID: 0
+PRED: place
+  DOBJ: everything
+  PARG: a large bowl , mix
+    PREP: in
+  PARG: the pickles , onions, peas
+    PREP: in
+
+
+SENTID: 8
+SENT: Peel the eggs , and grate them on top of the salad .
+PREDID: 0
+PRED: peel
+  DOBJ: the eggs
+
+PREDID: 1
+PRED: grate
+  DOBJ: them
+  PARG: top of the salad
+    PREP: on
+
+
+SENTID: 9
+SENT: Add mayonnaise and salt to individual servings .
+PREDID: 0
+PRED: add
+  DOBJ: mayonnaise, salt
+  PARG: individual servings
+    PREP: to
+

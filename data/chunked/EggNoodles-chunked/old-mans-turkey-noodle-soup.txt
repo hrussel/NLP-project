@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Combine the turkey drumsticks and water in a large soup pot and bring to a boil .
+PREDID: 0
+PRED: combine
+  DOBJ: the turkey drumsticks, water
+  PARG: a large soup pot
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir in onions , carrots , celery , garlic , salt , black pepper , sage , thyme , rosemary , and celery salt ;
+PREDID: 0
+PRED: stir
+  PARG: onions , carrots , celery , garlic , salt , black pepper , sage , thyme , rosemary , celery salt
+    PREP: in
+
+
+SENTID: 2
+SENT: reduce heat to a simmer .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook until the turkey meat is very tender , about 2 hours .
+PREDID: 0
+PRED: cook
+  PARG: the turkey meat is very tender , about 2 hours
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove the turkey drumsticks and allow to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: the turkey drumsticks
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 5
+SENT: When cool enough to handle , strip the meat from the bones and tendons , chop the meat , and return to the soup .
+PREDID: 0
+PRED: return
+  PARG: handle , strip the meat
+    PREP: to
+  PARG: the bones, tendons , chop the meat
+    PREP: from
+  PARG: the soup
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+
+SENTID: 6
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook the egg noodles a boil until cooked through yet firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the egg noodles a boil
+  PARG: cooked through yet firm to the bite , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 9
+SENT: Scoop noodles into soup bowls and fill the bowls with turkey soup .
+PREDID: 0
+PRED: scoop
+  DOBJ: noodles
+  PARG: soup bowls
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  DOBJ: the bowls
+  PARG: turkey soup
+    PREP: with
+

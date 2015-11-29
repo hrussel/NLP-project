@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for medium heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Season the pork chops with salt and black pepper and arrange in the bottom of a disposable aluminum pan ;
+PREDID: 0
+PRED: season
+  DOBJ: the pork chops
+  PARG: salt, black pepper
+    PREP: with
+
+PREDID: 1
+PRED: arrange
+  PARG: the bottom of a disposable aluminum pan
+    PREP: in
+
+
+SENTID: 2
+SENT: top each with a tomato slice .
+PREDID: 0
+PRED: top
+  DOBJ: each with a tomato slice
+
+
+SENTID: 3
+SENT: Divide the basil , oregano , and garlic between the pork chops ;
+PREDID: 0
+PRED: divide
+  DOBJ: the basil , oregano , garlic
+  PARG: the pork chops
+    PREP: between
+
+
+SENTID: 4
+SENT: drizzle with the olive oil .
+PREDID: 0
+PRED: drizzle
+  PARG: the olive oil
+    PREP: with
+
+
+SENTID: 5
+SENT: Cover the pan with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the pan
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 6
+SENT: Cook on the preheated grill until the pork is no longer pink in the center , about 25 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the preheated grill
+    PREP: on
+  PARG: the pork is no longer pink in the center , about 25 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove the pan from the grill ;
+PREDID: 0
+PRED: remove
+  DOBJ: the pan
+  PARG: the grill
+    PREP: from
+
+
+SENTID: 8
+SENT: top each pork chop with a slice of mozzarella cheese , replace the aluminum foil over the pan , and wait until the cheese melts , 3 to 5 minutes , before serving .
+PREDID: 0
+PRED: top
+  DOBJ: each pork
+
+PREDID: 1
+PRED: chop
+  PARG: a slice of mozzarella cheese
+    PREP: with
+
+PREDID: 2
+PRED: replace
+  DOBJ: the aluminum foil
+  PARG: the pan , wait
+    PREP: over
+  PARG: the cheese melts , 3 to 5 minutes , before serving
+    PREP: until
+

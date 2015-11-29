@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Pour coleslaw mix into a large bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: coleslaw mix
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Whisk salad dressing , sugar , vegetable oil , horseradish , vinegar , salt , and poppy seeds together in a bowl until smooth ;
+PREDID: 0
+PRED: whisk
+  DOBJ: salad dressing , sugar , vegetable oil , horseradish , vinegar , salt , poppy seeds
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: drizzle over coleslaw mix and toss to coat .
+PREDID: 0
+PRED: drizzle
+  PARG: coleslaw mix
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover bowl with plastic wrap ;
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+
+SENTID: 4
+SENT: refrigerate at least 2 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

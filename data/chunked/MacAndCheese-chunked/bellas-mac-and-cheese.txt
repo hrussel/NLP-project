@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Cook elbow macaroni according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Meanwhile , cut up butter , American cheese , and sharp cheese into 1 inch squares for easy melting .
+PREDID: 0
+PRED: cut
+  DOBJ: butter , american cheese , sharp cheese
+  PARG: 1 inch squares
+    PREP: into
+  PARG: easy melting
+    PREP: for
+  OARG: meanwhile
+  OARG: up
+
+
+SENTID: 3
+SENT: Separate butter and cheeses into two equal size portions .
+PREDID: 0
+PRED: separate
+  DOBJ: butter, cheeses
+  PARG: two equal size portions
+    PREP: into
+
+
+SENTID: 4
+SENT: Begin with one of the butter and cheese portions , microwave on 50 % power for 7 minutes .
+PREDID: 0
+PRED: begin
+  PARG: one of the butter, cheese portions
+    PREP: with
+
+PREDID: 1
+PRED: microwave
+  PARG: 50 % power
+    PREP: on
+  PARG: 7 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Remove from microwave and stir well .
+PREDID: 0
+PRED: remove
+  PARG: microwave
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  OARG: well
+
+
+SENTID: 6
+SENT: Add second portion of butter and cheese to melted mixture .
+PREDID: 0
+PRED: add
+  DOBJ: second portion of butter, cheese
+  PARG: melted mixture
+    PREP: to
+
+
+SENTID: 7
+SENT: Microwave an additional 7 minutes on 50 % power .
+PREDID: 0
+PRED: microwave
+  PARG: 50 % power
+    PREP: on
+  OARG: an additional 7 minutes
+
+
+SENTID: 8
+SENT: Remove and stir well .
+PREDID: 0
+PRED: remove
+  OARG: well
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 9
+SENT: Pour cheese mixture over cooked macaroni and stir until noodles are coated with butter and cheese mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: cheese mixture
+  PARG: cooked macaroni
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: noodles are coated with butter, cheese mixture
+    PREP: until
+
+
+SENTID: 10
+SENT: Allow to stand for 10 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: stand
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Unroll crescent roll dough on a small baking sheet .
+PREDID: 0
+PRED: unroll
+  DOBJ: crescent roll dough
+  PARG: a small baking sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: Arrange into a single layer to serve as a crust .
+PREDID: 0
+PRED: arrange
+  PARG: a single layer
+    PREP: into
+  PARG: serve
+    PREP: to
+  PARG: a crust
+    PREP: as
+
+
+SENTID: 3
+SENT: Bake in the preheated oven 10 minutes , or until puffed and lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 10 minutes
+    PREP: in
+  PARG: puffed, lightly browned
+    PREP: until
+
+
+SENTID: 4
+SENT: In a medium bowl , mix cream cheese , mayonnaise , dill weed , onion and garlic .
+PREDID: 0
+PRED: mix
+  DOBJ: cream cheese , mayonnaise , dill weed , onion, garlic
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Spread the cream cheese mixture over the crescent roll dough crust .
+PREDID: 0
+PRED: spread
+  DOBJ: the cream cheese mixture
+  PARG: the crescent roll dough crust
+    PREP: over
+
+
+SENTID: 6
+SENT: Layer with cauliflower , broccoli and green peppers .
+PREDID: 0
+PRED: layer
+  PARG: cauliflower , broccoli, green peppers
+    PREP: with
+
+
+SENTID: 7
+SENT: Top with Cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: cheddar cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Chill in the refrigerator until serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: until
+

@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: In a medium sized stock pot , heat the oil over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a medium sized stock pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute onion , chile pepper and garlic until soft .
+PREDID: 0
+PRED: saute
+  DOBJ: onion , chile pepper, garlic
+  PARG: soft
+    PREP: until
+
+
+SENTID: 2
+SENT: Add ground beef :
+PREDID: 0
+PRED: add
+  DOBJ: ground beef
+
+
+SENTID: 3
+SENT: cook and stir until meat is browned .
+PREDID: 0
+PRED: cook
+  PARG: meat is browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Pour in tomatoes with liquid , salt , pepper , cumin , chili powder , paprika , oregano , cinnamon sticks , and cloves .
+PREDID: 0
+PRED: pour
+  PARG: tomatoes
+    PREP: in
+  PARG: liquid , salt , pepper , cumin , chili powder , paprika , oregano , cinnamon sticks , cloves
+    PREP: with
+
+
+SENTID: 5
+SENT: Cover and simmer for 45 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 45 minutes
+    PREP: for
+
+PREDID: 1
+PRED: simmer
+
+
+SENTID: 6
+SENT: Stir in kidney beans , and cook another 15 minutes .
+PREDID: 0
+PRED: stir
+  PARG: kidney beans , cook another 15 minutes
+    PREP: in
+
+
+SENTID: 7
+SENT: Remove cinnamon sticks before serving .
+PREDID: 0
+PRED: remove
+  DOBJ: cinnamon sticks
+  PARG: serving
+    PREP: before
+

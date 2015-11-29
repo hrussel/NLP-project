@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Mix chicken , celery , red bell pepper , red onion , and cranberries in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: chicken , celery , red bell pepper , red onion , cranberries
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir mayonnaise and sour cream together in a separate bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise, sour cream
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: pour over the chicken mixture and stir to coat .
+PREDID: 0
+PRED: pour
+  PARG: the chicken mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Season mixture with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: mixture
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Cover bowl with plastic wrap and refrigerate 8 hours to overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 8 hours
+  OARG: to overnight
+
+
+SENTID: 5
+SENT: Stir feta cheese and almonds through salad to serve .
+PREDID: 0
+PRED: stir
+  DOBJ: feta cheese, almonds
+  PARG: serve
+    PREP: to
+

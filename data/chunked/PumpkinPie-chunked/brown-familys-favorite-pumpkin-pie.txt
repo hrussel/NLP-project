@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Preheat the oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix together the pumpkin , sweetened condensed milk , and egg yolks .
+PREDID: 0
+PRED: mix
+  DOBJ: the pumpkin , sweetened condensed milk , egg yolks
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in 1 teaspoon cinnamon , ginger , nutmeg , and salt .
+PREDID: 0
+PRED: stir
+  PARG: 1 teaspoon cinnamon , ginger , nutmeg , salt
+    PREP: in
+
+
+SENTID: 3
+SENT: In a large glass or metal bowl , whip egg whites until soft peaks form .
+PREDID: 0
+PRED: whip
+  DOBJ: egg whites
+  PARG: a large glass or metal bowl
+    PREP: in
+  PARG: soft peaks form
+    PREP: until
+
+
+SENTID: 4
+SENT: Gently fold into pumpkin mixture .
+PREDID: 0
+PRED: fold
+  PARG: pumpkin mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 5
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake for 15 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 15 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 7
+SENT: While the pie is baking , prepare the streusel topping :
+PREDID: 0
+PRED: prepare
+  DOBJ: the streusel topping
+  PARG: the pie is baking
+    PREP: while
+
+
+SENTID: 8
+SENT: In a small bowl , combine the flour , brown sugar , and 1 teaspoon cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: the flour , brown sugar , 1 teaspoon cinnamon
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Blend in the cold butter with a fork or pastry blender until the mixture is crumbly .
+PREDID: 0
+PRED: blend
+  PARG: the cold butter
+    PREP: in
+  PARG: a fork or pastry blender
+    PREP: with
+  PARG: the mixture is crumbly
+    PREP: until
+
+
+SENTID: 10
+SENT: Mix in the chopped nuts .
+PREDID: 0
+PRED: mix
+  PARG: the chopped nuts
+    PREP: in
+
+
+SENTID: 11
+SENT: Sprinkle the topping over the pie .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the topping
+  PARG: the pie
+    PREP: over
+
+
+SENTID: 12
+SENT: Reduce the heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 13
+SENT: Bake an additional 40 minutes , or until set .
+PREDID: 0
+PRED: bake
+  PARG: set
+    PREP: until
+  OARG: an additional 40 minutes
+

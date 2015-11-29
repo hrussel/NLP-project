@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Brown the ground beef in a large pot over medium heat , breaking it up with a spoon while it cooks ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat , breaking it
+    PREP: over
+  PARG: a spoon
+    PREP: with
+  PARG: it cooks
+    PREP: while
+  OARG: up
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Stir in the tomatoes , kidney beans , onion , garlic , tomato sauce , tequila , chili powder , cumin , salt , and cayenne pepper ;
+PREDID: 0
+PRED: stir
+  PARG: the tomatoes , kidney beans , onion , garlic , tomato sauce , tequila , chili powder , cumin , salt , cayenne pepper
+    PREP: in
+
+
+SENTID: 3
+SENT: simmer 20 minutes .
+PREDID: 0
+PRED: simmer
+  OARG: 20 minutes
+

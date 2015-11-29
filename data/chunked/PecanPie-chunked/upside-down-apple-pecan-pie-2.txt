@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: PREHEAT oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: COMBINE pecans , melted butter and brown sugar in a 9-inch -LRB- 23cm -RRB- pie plate .
+PREDID: 0
+PRED: combine
+  DOBJ: pecans , melted butter, brown sugar
+  PARG: a 9-inch -lrb- 23cm -rrb- pie plate
+    PREP: in
+
+
+SENTID: 2
+SENT: Remove the first pie shell from the aluminum pie plate and place on top of the pecan mixture .
+PREDID: 0
+PRED: remove
+  DOBJ: the first pie shell
+  PARG: the aluminum pie plate
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: top of the pecan mixture
+    PREP: on
+
+
+SENTID: 3
+SENT: HEAT 3 tablespoons -LRB- 45 mL -RRB- of butter in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 3 tablespoons -lrb- 45 ml -rrb- of butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add apples and cook , stirring for 2-3 minutes or until soft .
+PREDID: 0
+PRED: add
+  DOBJ: apples
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: 2-3 minutes
+    PREP: for
+  PARG: soft
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in ginger , cinnamon and brown sugar .
+PREDID: 0
+PRED: stir
+  PARG: ginger , cinnamon, brown sugar
+    PREP: in
+
+
+SENTID: 6
+SENT: ARRANGE the apple mixture on top of the piecrust in the pan .
+PREDID: 0
+PRED: arrange
+  DOBJ: the apple mixture
+  PARG: top of the piecrust
+    PREP: on
+  PARG: the pan
+    PREP: in
+
+
+SENTID: 7
+SENT: Dot with butter .
+PREDID: 0
+PRED: dot
+  PARG: butter
+    PREP: with
+
+
+SENTID: 8
+SENT: Top the mixture with the second piecrust after removing it from the aluminum foil pan .
+PREDID: 0
+PRED: top
+  DOBJ: the mixture
+  PARG: the second piecrust
+    PREP: with
+  PARG: removing it
+    PREP: after
+  PARG: the aluminum foil pan
+    PREP: from
+
+
+SENTID: 9
+SENT: Flute the edges of the piecrust and cut several slits in the top to allow steam to escape .
+PREDID: 0
+PRED: flute
+  DOBJ: the edges of the piecrust
+
+PREDID: 1
+PRED: cut
+  DOBJ: several slits
+  PARG: the top
+    PREP: in
+  PARG: escape
+    PREP: to
+  OARG: to allow steam
+
+
+SENTID: 10
+SENT: BAKE pie on the middle rack of the preheated oven .
+PREDID: 0
+PRED: bake
+  DOBJ: pie
+  PARG: the middle rack of the preheated oven
+    PREP: on
+
+
+SENTID: 11
+SENT: Place aluminum foil under the pie plate in case the filling bubbles over .
+PREDID: 0
+PRED: place
+  DOBJ: aluminum foil
+  PARG: the pie plate
+    PREP: under
+  PARG: case the filling bubbles
+    PREP: in
+
+
+SENTID: 12
+SENT: Bake for 35-40 minutes or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 35-40 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 13
+SENT: Remove from the oven and immediately invert the pie onto a serving plate .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+  OARG: immediately
+
+PREDID: 1
+PRED: invert
+  DOBJ: the pie
+  PARG: a serving plate
+    PREP: onto
+

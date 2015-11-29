@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat a 12 cup muffin tin with nonstick spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a 12 cup muffin tin
+  PARG: nonstick spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk together flour , baking powder , soda , cinnamon , salt , and sugar .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour , baking powder , soda , cinnamon , salt , sugar
+  OARG: together
+
+
+SENTID: 3
+SENT: Mix in egg whites , applesauce , and banana mash until just moistened .
+PREDID: 0
+PRED: mix
+  PARG: egg whites , applesauce , banana mash
+    PREP: in
+  PARG: just moistened
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in chocolate chips .
+PREDID: 0
+PRED: stir
+  PARG: chocolate chips
+    PREP: in
+
+
+SENTID: 5
+SENT: Divide batter into muffin cups . Bake for 15 to 18 minutes .
+PREDID: 0
+PRED: divide
+  DOBJ: batter
+  PARG: muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: 15 to 18 minutes
+    PREP: for
+

@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Melt 1/2 cup butter in a large pot over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: 1/2 cup butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: stir flour into butter until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: flour
+  PARG: butter
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Stream milk into the butter mixture while stirring ;
+PREDID: 0
+PRED: stream
+  DOBJ: milk
+  PARG: the butter mixture
+    PREP: into
+  PARG: stirring
+    PREP: while
+
+
+SENTID: 8
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Reduce heat to medium-low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 10
+SENT: Add Cheddar cheese in small batches , stirring each into the milk mixture and melting until adding the next .
+PREDID: 0
+PRED: add
+  DOBJ: stirring each into the milk mixture, melting
+  PARG: small batches
+    PREP: in
+  PARG: adding the next
+    PREP: until
+  OARG: cheddar cheese
+
+
+SENTID: 11
+SENT: Add macaroni and stir to coat .
+PREDID: 0
+PRED: add
+  DOBJ: macaroni
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 12
+SENT: Pour macaroni into prepared baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: macaroni
+  PARG: prepared baking dish
+    PREP: into
+
+
+SENTID: 13
+SENT: Stir bread crumbs and melted butter together in a small bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: bread crumbs, melted butter
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 14
+SENT: sprinkle over the macaroni .
+PREDID: 0
+PRED: sprinkle
+  PARG: the macaroni
+    PREP: over
+
+
+SENTID: 15
+SENT: Bake in preheated oven until the top is golden brown , 35 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the top is golden brown , 35 to 40 minutes
+    PREP: until
+

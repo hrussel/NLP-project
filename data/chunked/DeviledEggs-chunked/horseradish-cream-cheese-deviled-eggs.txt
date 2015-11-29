@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut each egg in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: place yolks in a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 7
+SENT: stir in onion , cream cheese , mayonnaise , horseradish , cumin , and dry mustard .
+PREDID: 0
+PRED: stir
+  PARG: onion , cream cheese , mayonnaise , horseradish , cumin , dry mustard
+    PREP: in
+
+
+SENTID: 8
+SENT: Place egg whites cut-side-up on a serving platter .
+PREDID: 0
+PRED: place
+  DOBJ: egg whites cut-side-up
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 9
+SENT: Spoon yolk mixture into egg white halves ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 10
+SENT: sprinkle with chili powder .
+PREDID: 0
+PRED: sprinkle
+  PARG: chili powder
+    PREP: with
+

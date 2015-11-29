@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Heat vegetable oil in a Dutch oven or large soup pot over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a dutch oven or large soup pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir onion , celery , and garlic in the hot oil until tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion , celery , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir ground beef into onion mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: ground beef
+  PARG: onion mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: cook and stir until ground beef is browned and crumbly , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: ground beef is browned, crumbly , 5 to 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 5
+SENT: Stir tomatoes , tomato sauce , water , Worcestershire sauce , chili powder , garlic powder , oregano , salt , and pepper into ground beef mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: tomatoes , tomato sauce , water , worcestershire sauce , chili powder , garlic powder , oregano , salt , pepper
+  PARG: ground beef mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Reduce heat to medium-low , cover , and simmer , stirring occasionally , until flavors blend , about 1Ê1/2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer , stirring
+    PREP: to
+  PARG: flavors
+    PREP: until
+  OARG: occasionally
+
+PREDID: 1
+PRED: blend
+  PARG: 1Ê1/2 hours
+    PREP: about
+
+
+SENTID: 8
+SENT: Add kidney beans ;
+PREDID: 0
+PRED: add
+  DOBJ: kidney beans
+
+
+SENTID: 9
+SENT: simmer for 10 more minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 10 more minutes
+    PREP: for
+

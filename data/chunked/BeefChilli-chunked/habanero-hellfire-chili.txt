@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Place bacon in a large soup pot .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large soup pot
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain excess grease , leaving enough to coat bottom of pot Remove bacon , drain on paper towels and chop .
+PREDID: 0
+PRED: drain
+  DOBJ: excess
+
+PREDID: 1
+PRED: grease
+  DOBJ: leaving
+  PARG: coat bottom of pot
+    PREP: to
+  OARG: enough
+
+PREDID: 2
+PRED: remove
+  DOBJ: bacon
+
+PREDID: 3
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+PREDID: 4
+PRED: chop
+
+
+SENTID: 3
+SENT: Brown beef and pork in pot over medium high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: beef, pork
+  PARG: pot
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: When meat is browned , stir in the bell pepper , onion , jalapeno peppers , habanero peppers , Anaheim peppers , garlic , cumin , red pepper flakes , chili powder , bouillon , crushed tomatoes , whole tomatoes , beer , tomato paste , chile paste and water .
+PREDID: 0
+PRED: stir
+  PARG: the bell pepper , onion , jalapeno peppers , habanero peppers , anaheim peppers , garlic , cumin , red pepper flakes , chili powder , bouillon , crushed tomatoes , whole tomatoes , beer , tomato paste , chile paste, water
+    PREP: in
+  OARG: when meat is browned
+
+
+SENTID: 5
+SENT: Reduce heat to low and simmer for 45 to 60 minutes , stirring occasionally .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 45 to 60 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Add beans and bacon and continue simmering for another 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: beans, bacon, continue simmering
+  PARG: another 30 minutes
+    PREP: for
+

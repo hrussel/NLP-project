@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Heat a large stock pot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large stock pot
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Crumble the ground chuck and sausage into the hot pan , and cook until evenly browned .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground chuck, sausage
+  PARG: the hot pan
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: evenly browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain off excess grease .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+
+SENTID: 3
+SENT: Pour in the chili beans , spicy chili beans , diced tomatoes and tomato paste .
+PREDID: 0
+PRED: pour
+  PARG: the chili beans , spicy chili beans , diced tomatoes, tomato paste
+    PREP: in
+
+
+SENTID: 4
+SENT: Add the onion , celery , green and red bell peppers , chile peppers , bacon bits , bouillon , and beer .
+PREDID: 0
+PRED: add
+  DOBJ: the onion , celery , green, red bell peppers , chile peppers , bacon bits , bouillon , beer
+
+
+SENTID: 5
+SENT: Season with chili powder , Worcestershire sauce , garlic , oregano , cumin , hot pepper sauce , basil , salt , pepper , cayenne , paprika , and sugar .
+PREDID: 0
+PRED: season
+  PARG: chili powder , worcestershire sauce , garlic , oregano , cumin , hot pepper sauce , basil , salt , pepper , cayenne , paprika , sugar
+    PREP: with
+
+
+SENTID: 6
+SENT: Stir to blend , then cover and simmer over low heat for at least 2 hours , stirring occasionally .
+PREDID: 0
+PRED: stir
+  PARG: blend
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: cover
+  PARG: low heat
+    PREP: over
+
+PREDID: 2
+PRED: simmer
+  PARG: at least 2 hours , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: After 2 hours , taste , and adjust salt , pepper , and chili powder if necessary .
+PREDID: 0
+PRED: taste
+  PARG: 2 hours
+    PREP: after
+
+PREDID: 1
+PRED: adjust
+  DOBJ: salt , pepper , chili powder
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 8
+SENT: Remove from heat and serve , or refrigerate , and serve the next day .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: serve
+
+PREDID: 2
+PRED: refrigerate
+
+PREDID: 3
+PRED: serve
+  DOBJ: the next day
+
+
+SENTID: 9
+SENT: To serve , ladle into bowls , and top with corn chips and shredded Cheddar cheese .
+PREDID: 0
+PRED: ladle
+  PARG: serve
+    PREP: to
+  PARG: bowls
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: corn chips, shredded cheddar cheese
+    PREP: with
+

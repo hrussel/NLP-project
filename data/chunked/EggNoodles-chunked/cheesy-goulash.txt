@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Brown ground beef in a large skillet over medium high heat , stirring to crumble ;
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat , stirring
+    PREP: over
+  OARG: to crumble
+
+
+SENTID: 4
+SENT: drain , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Heat oil in a separate skillet over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a separate skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook potatoes for 2 minutes , then stir in onion .
+PREDID: 0
+PRED: cook
+  DOBJ: potatoes
+  PARG: 2 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: onion
+    PREP: in
+
+
+SENTID: 7
+SENT: Continue cooking until well browned , then carefully drain excess oil .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: well browned , then carefully drain excess oil
+    PREP: until
+
+
+SENTID: 8
+SENT: Combine potatoes with ground beef mixture , and stir in tomato sauce and cubed cheese .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes
+  PARG: ground beef mixture
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: tomato sauce, cubed cheese
+    PREP: in
+
+
+SENTID: 9
+SENT: When cheese has melted , stir in noodles and continue cooking 15 minutes more .
+PREDID: 0
+PRED: stir
+  PARG: noodles, continue cooking 15 minutes more
+    PREP: in
+  OARG: when cheese has melted
+
+
+SENTID: 10
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

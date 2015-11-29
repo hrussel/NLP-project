@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: In a large bowl , combine 1Ê1/2 cups flour , 3 tablespoons sugar and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: 1Ê1/2 cups flour , 3 tablespoons sugar, salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Cut in butter until mixture resembles coarse crumbs .
+PREDID: 0
+PRED: cut
+  PARG: butter
+    PREP: in
+  PARG: mixture resembles coarse crumbs
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix yolk with water and stir in until mixture forms a ball .
+PREDID: 0
+PRED: mix
+  DOBJ: yolk
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: until mixture forms a ball
+    PREP: in
+
+
+SENTID: 3
+SENT: Wrap in plastic and refrigerate for 1 hour or overnight .
+PREDID: 0
+PRED: wrap
+  PARG: plastic
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 4
+SENT: Roll out and place in a 9 inch pie plate .
+PREDID: 0
+PRED: roll
+  PARG: and place
+    PREP: out
+  PARG: a 9 inch pie plate
+    PREP: in
+
+
+SENTID: 5
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C. -RRB- Place pecans in the bottom of pie crust .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c. -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: place
+  DOBJ: pecans
+  PARG: the bottom of pie crust
+    PREP: in
+
+
+SENTID: 6
+SENT: In a large bowl , Stir together 3/4 cup of sugar and flour .
+PREDID: 0
+PRED: stir
+  DOBJ: 3/4 cup of sugar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 7
+SENT: Mix in the eggs , corn syrup , milk , melted butter and vanilla .
+PREDID: 0
+PRED: mix
+  PARG: the eggs , corn syrup , milk , melted butter, vanilla
+    PREP: in
+
+
+SENTID: 8
+SENT: Blend well and pour over pecans in crust .
+PREDID: 0
+PRED: blend
+  PARG: pecans
+    PREP: over
+  OARG: well
+
+PREDID: 1
+PRED: pour
+  PARG: crust
+    PREP: in
+
+
+SENTID: 9
+SENT: Bake in the preheated oven for 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Reduce temperature to 350 degrees F -LRB- 175 degrees C -RRB- and bake for 40 to 50 minutes , or until golden brown and filling is set .
+PREDID: 0
+PRED: reduce
+  DOBJ: temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: 40 to 50 minutes
+    PREP: for
+  PARG: golden brown, filling is set
+    PREP: until
+

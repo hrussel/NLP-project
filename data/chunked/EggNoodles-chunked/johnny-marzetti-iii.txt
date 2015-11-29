@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook pasta until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Meanwhile , in a large skillet cook ground beef until no pink remains .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: no pink remains
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Add onions and celery and cook until they are softened .
+PREDID: 0
+PRED: add
+  DOBJ: onions, celery
+
+PREDID: 1
+PRED: cook
+  PARG: they are softened
+    PREP: until
+
+
+SENTID: 4
+SENT: Add salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir in tomato soup , tomato sauce , and water .
+PREDID: 0
+PRED: stir
+  PARG: tomato soup , tomato sauce , water
+    PREP: in
+
+
+SENTID: 6
+SENT: Simmer for 10 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: In a casserole dish , mix together the cooked and drained pasta with the meat mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked, drained pasta
+  PARG: a casserole dish
+    PREP: in
+  PARG: the meat mixture
+    PREP: with
+  OARG: together
+
+
+SENTID: 8
+SENT: Bake in a preheated 350 degree F -LRB- 175 degree C -RRB- oven for 20 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degree f -lrb- 175 degree c -rrb- oven
+    PREP: in
+  PARG: 20 to 30 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Sprinkle the top with grated Cheddar cheese and continue to cook until cheese is melted , about 3 to 5 minutes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top
+  PARG: grated cheddar cheese
+    PREP: with
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: cheese is melted , about 3 to 5 minutes
+    PREP: until
+

@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Preheat a grill pan over medium-high heat ;
+PREDID: 0
+PRED: preheat
+  DOBJ: a grill pan
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: lightly oil the grill .
+PREDID: 0
+PRED: oil
+  DOBJ: the grill
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta uncovered , stirring occasionally , until cooked through but is still firm to the bite , about 11 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: cooked through but is still firm to the bite , about 11 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 5
+SENT: While pasta is cooking , grill the chicken breast halves until the meat is no longer pink in the middle and the juices run clear , 5 to 8 minutes per side .
+PREDID: 0
+PRED: grill
+  DOBJ: the chicken breast halves
+  PARG: pasta is cooking
+    PREP: while
+  PARG: the meat is no longer pink in the middle, the juices run clear , 5 to 8 minutes per side
+    PREP: until
+
+
+SENTID: 6
+SENT: Allow to rest for about 5 minutes , then slice into bite-size pieces ;
+PREDID: 0
+PRED: allow
+  PARG: rest
+    PREP: to
+  PARG: about 5 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: slice
+  PARG: bite-size pieces
+    PREP: into
+
+
+SENTID: 7
+SENT: keep warm .
+PREDID: 0
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 8
+SENT: In a large salad bowl , lightly toss together the grilled chicken , hot cooked linguine , romaine , green pepper , red onion , and cucumber .
+PREDID: 0
+PRED: toss
+  DOBJ: the grilled chicken , hot cooked linguine , romaine , green pepper , red onion , cucumber
+  PARG: a large salad bowl
+    PREP: in
+  OARG: lightly
+  OARG: together
+
+
+SENTID: 9
+SENT: In a separate bowl , whisk together safflower oil , cider vinegar , sugar , poppy seeds , dry mustard powder , and green onions until smooth and evenly blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: safflower oil , cider vinegar , sugar , poppy seeds , dry mustard powder , green onions
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth, evenly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 10
+SENT: Pour the dressing over the salad to serve .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the salad
+    PREP: over
+  PARG: serve
+    PREP: to
+

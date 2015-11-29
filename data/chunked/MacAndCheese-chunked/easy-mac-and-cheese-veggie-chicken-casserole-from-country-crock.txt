@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine 3 tablespoons Country Crock ¨ Spread , milk , rotini , chicken , vegetables and cheddar cheese in 8-inch baking dish .
+PREDID: 0
+PRED: combine
+  DOBJ: 3 tablespoons country crock ¨ spread , milk , rotini , chicken , vegetables, cheddar cheese
+  PARG: 8-inch baking dish
+    PREP: in
+
+
+SENTID: 2
+SENT: Combine bread crumbs , Parmesan cheese and remaining Spread in small bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: bread crumbs , parmesan cheese, remaining spread
+  PARG: small bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: sprinkle over top of casserole .
+PREDID: 0
+PRED: sprinkle
+  PARG: top of casserole
+    PREP: over
+
+
+SENTID: 4
+SENT: Bake until heated through and crumbs are toasted , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: heated through, crumbs are toasted , about 30 minutes
+    PREP: until
+

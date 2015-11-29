@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta in the boiling water , stirring occasionally , until cooked through but firm to the bite , 12 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 12 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: drain , rinse in cold water , and drain again .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: in
+
+PREDID: 2
+PRED: drain
+  OARG: again
+
+
+SENTID: 3
+SENT: Toss pasta , chicken , onion , cranberries , celery , and almonds together in a salad bowl ;
+PREDID: 0
+PRED: toss
+  DOBJ: pasta , chicken , onion , cranberries , celery , almonds
+  PARG: a salad bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: drizzle with poppy seed dressing and stir to coat .
+PREDID: 0
+PRED: drizzle
+  PARG: poppy seed dressing
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+

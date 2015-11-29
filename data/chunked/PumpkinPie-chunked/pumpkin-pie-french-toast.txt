@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Heat a lightly oiled skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a lightly oiled skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Whisk eggs , half and half , pumpkin , cinnamon , vanilla extract , pumpkin pie spice , and walnuts together in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , half, half , pumpkin , cinnamon , vanilla extract , pumpkin pie spice , walnuts
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Soak one slice of bread at a time in the pumpkin mixture , then place in the prepared skilled .
+PREDID: 0
+PRED: soak
+  DOBJ: one slice of bread
+  PARG: a time
+    PREP: at
+  PARG: the pumpkin mixture
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: place
+  PARG: the prepared skilled
+    PREP: in
+
+
+SENTID: 3
+SENT: Repeat with the remaining slices of bread .
+PREDID: 0
+PRED: repeat
+  PARG: the remaining slices of bread
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir the pumpkin mixture between dips to keep the walnuts from settling .
+PREDID: 0
+PRED: stir
+  DOBJ: the pumpkin mixture
+  PARG: dips
+    PREP: between
+  PARG: keep the walnuts
+    PREP: to
+  PARG: settling
+    PREP: from
+
+
+SENTID: 5
+SENT: Cook the bread until golden brown , about 3 minutes on each side .
+PREDID: 0
+PRED: cook
+  DOBJ: the bread
+  PARG: golden brown , about 3 minutes on each side
+    PREP: until
+

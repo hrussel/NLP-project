@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine ground ham , pork and beef .
+PREDID: 0
+PRED: combine
+  DOBJ: ground ham , pork, beef
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix in wheat cereal , eggs , peanut butter , Worcestershire sauce , salt and pepper .
+PREDID: 0
+PRED: mix
+  PARG: wheat cereal , eggs , peanut butter , worcestershire sauce , salt, pepper
+    PREP: in
+
+
+SENTID: 3
+SENT: Shape into a loaf , and place in a roasting pan .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a roasting pan
+    PREP: in
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 5
+SENT: Baste frequently during cooking .
+PREDID: 0
+PRED: baste
+  PARG: cooking
+    PREP: during
+  OARG: frequently
+

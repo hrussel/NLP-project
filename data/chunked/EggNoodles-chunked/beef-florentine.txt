@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a skillet over medium heat , brown the ground beef until evenly brown ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 6
+SENT: Season with oregano , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: oregano , salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir in tomato sauce and water .
+PREDID: 0
+PRED: stir
+  PARG: tomato sauce, water
+    PREP: in
+
+
+SENTID: 8
+SENT: Remove from heat , and stir in cooked noodles .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: cooked noodles
+    PREP: in
+
+
+SENTID: 9
+SENT: In a medium bowl , combine spinach , cottage cheese , onion , and Parmesan cheese .
+PREDID: 0
+PRED: combine
+  DOBJ: spinach , cottage cheese , onion , parmesan cheese
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Spread half of noodle mixture in a large casserole dish .
+PREDID: 0
+PRED: spread
+  DOBJ: half of noodle mixture
+  PARG: a large casserole dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Layer with all of spinach mixture , then cover with remaining noodle mixture .
+PREDID: 0
+PRED: layer
+  PARG: all of spinach mixture
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: cover
+  PARG: remaining noodle mixture
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Cover with mozzarella , and continue cooking 10 minutes , or until cheese is melted .
+PREDID: 0
+PRED: cover
+  PARG: mozzarella
+    PREP: with
+
+PREDID: 1
+PRED: continue
+  PARG: cheese is melted
+    PREP: until
+  OARG: cooking 10 minutes
+

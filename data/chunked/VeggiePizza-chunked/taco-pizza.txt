@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: Add the water , salt , oil , flour and yeast to your bread machine in the order listed .
+PREDID: 0
+PRED: add
+  DOBJ: the water , salt , oil , flour, yeast
+  PARG: your bread machine
+    PREP: to
+  PARG: the order listed
+    PREP: in
+
+
+SENTID: 1
+SENT: Select the dough cycle .
+PREDID: 0
+PRED: select
+  DOBJ: the dough cycle
+
+
+SENTID: 2
+SENT: Check your dough after it has been mixing a few minutes .
+PREDID: 0
+PRED: check
+  DOBJ: your dough
+  PARG: it has been
+    PREP: after
+  OARG: mixing a few minutes
+
+
+SENTID: 3
+SENT: Meanwhile , in a small bowl , combine tomato paste , water , and 3/4 of the package of taco seasoning mix .
+PREDID: 0
+PRED: combine
+  DOBJ: tomato paste , water , 3/4 of the package of taco seasoning mix
+  PARG: a small bowl
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Stir in chili powder and cayenne pepper ;
+PREDID: 0
+PRED: stir
+  PARG: chili powder, cayenne pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: In another bowl , mix refried beans , salsa , and onion ;
+PREDID: 0
+PRED: mix
+  DOBJ: refried beans , salsa , onion
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: In a large skillet , cook ground beef until evenly brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 9
+SENT: drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 10
+SENT: Season with the remaining 1/4 package of taco seasoning and a small amount of water .
+PREDID: 0
+PRED: season
+  PARG: the remaining 1/4 package of taco seasoning, a small amount of water
+    PREP: with
+
+
+SENTID: 11
+SENT: Simmer a few minutes , then remove from heat .
+PREDID: 0
+PRED: simmer
+  OARG: a few minutes
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 12
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 13
+SENT: When the dough cycle is finished , remove the dough from the machine .
+PREDID: 0
+PRED: remove
+  DOBJ: the dough
+  PARG: the machine
+    PREP: from
+  OARG: when the dough cycle is finished
+
+
+SENTID: 14
+SENT: Divide the dough in half , and pat into two 12 inch pans .
+PREDID: 0
+PRED: divide
+  DOBJ: the dough
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: pat
+  PARG: two 12 inch pans
+    PREP: into
+
+
+SENTID: 15
+SENT: Spread a layer of the bean mixture on , then a layer of the tomato mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: a layer of the tomato mixture
+  OARG: then
+  OARG: a layer of the bean mixture
+
+
+SENTID: 16
+SENT: Sprinkle with seasoned beef and top with cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: seasoned beef
+    PREP: with
+
+PREDID: 1
+PRED: top
+  PARG: cheddar cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: Bake in preheated oven for 10 to 15 minutes , or until crust is golden brown and cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: crust is golden brown, cheese is melted
+    PREP: until
+
+
+SENTID: 18
+SENT: Turn pizzas halfway through baking .
+PREDID: 0
+PRED: turn
+  DOBJ: through
+  OARG: halfway
+  OARG: pizzas
+

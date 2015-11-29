@@ -1,0 +1,17 @@
+SENTID: 0
+SENT: Mix chicken , bacon , mayonnaise , dates , and pecans together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: chicken , bacon , mayonnaise , dates , pecans
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+

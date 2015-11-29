@@ -1,0 +1,104 @@
+T1	predicate 38 42	cook
+T2	predicate 61 66	Drain
+T3	predicate 71 77	return
+T4	predicate 86 93	Stir in
+T5	predicate 133 137	cook
+T6	predicate 152 159	Stir in
+T7	predicate 171 175	cook
+T8	predicate 191 197	Season
+T9	predicate 241 248	Stir in
+T10	predicate 334 339	puree
+T11	predicate 393 397	Stir
+T12	predicate 433 440	Combine
+T13	predicate 495 500	shake
+T14	predicate 513 517	Pour
+T15	predicate 537 544	stir in
+T16	predicate 558 564	Simmer
+R1	object Arg1:T16 Arg2:T15	
+R2	co-object Arg1:T15 Arg2:T14	
+T17	arg_co-object 518 532	into the chili
+R3	co-object Arg1:T14 Arg2:T17	
+T18	Evolution 523 532	the chili
+E1	Evolution:T18 Cause:T11
+T19	arg_object 545 556	the vinegar
+R4	object Arg1:T15 Arg2:T19	
+T20	arg_duration 565 596	about 45 minutes before serving
+R5	duration Arg1:T16 Arg2:T20	
+T21	arg_object 441 466	the remaining 1 cup water
+T22	arg_co-object 467 481	with the flour
+T23	arg_location 482 490	in a jar
+R6	object Arg1:T12 Arg2:T21	
+R7	co-object Arg1:T12 Arg2:T22	
+R8	location Arg1:T12 Arg2:T23	
+R9	object Arg1:T13 Arg2:T12	
+T24	arg_other 501 511	to combine
+R10	other Arg1:T13 Arg2:T24	
+R11	object Arg1:T14 Arg2:T12	
+R12	object Arg1:T11 Arg2:T10	
+T25	arg_location 398 410	into the pot
+T26	arg_co-object 411 431	with 3 cups of water
+R14	co-object Arg1:T11 Arg2:T26	
+T28	arg_location 302 332	In a food processor or blender
+R15	location Arg1:T10 Arg2:T28	
+T29	arg_object 340 352	the tomatoes
+T30	arg_co-object 353 378	with the chipotle peppers
+T31	arg_duration 379 391	until smooth
+R16	object Arg1:T10 Arg2:T29	
+R17	co-object Arg1:T10 Arg2:T30	
+R18	duration Arg1:T10 Arg2:T31	
+T32	arg_object 249 265	the tomato paste
+T33	arg_object 270 300	kidney beans with their liquid
+R19	object Arg1:T9 Arg2:T32	
+R20	object Arg1:T9 Arg2:T33	
+R21	co-object Arg1:T9 Arg2:T8	
+T34	arg_co-object 198 239	with chili powder, cumin, salt and pepper
+R22	co-object Arg1:T8 Arg2:T34	
+R23	object Arg1:T8 Arg2:T7	
+T35	arg_duration 176 189	1 minute more
+R24	duration Arg1:T7 Arg2:T35	
+R25	object Arg1:T7 Arg2:T6	
+T36	arg_object 160 166	garlic
+R26	object Arg1:T6 Arg2:T36	
+R27	co-object Arg1:T6 Arg2:T5	
+T37	arg_duration 138 150	until tender
+R28	duration Arg1:T5 Arg2:T37	
+R29	object Arg1:T5 Arg2:T4	
+T38	arg_object 94 100	onions
+T39	arg_object 102 114	bell peppers
+T40	arg_object 119 128	jalapenos
+R30	object Arg1:T4 Arg2:T38	
+R31	object Arg1:T4 Arg2:T39	
+R32	object Arg1:T4 Arg2:T40	
+R33	co-object Arg1:T4 Arg2:T3	
+T41	arg_location 78 84	to pot
+R34	location Arg1:T3 Arg2:T41	
+R35	object Arg1:T3 Arg2:T2	
+R36	object Arg1:T2 Arg2:T1	
+T42	arg_object 43 47	beef
+T43	arg_duration 48 59	until brown
+T44	arg_location 0 36	In a large pot over medium-high heat
+R37	location Arg1:T1 Arg2:T44	
+R38	object Arg1:T1 Arg2:T42	
+R39	duration Arg1:T1 Arg2:T43	
+T45	ingredient 43 47	beef
+R40	co-object Arg1:T2 Arg2:T1	
+T46	ingredient 94 100	onions
+R41	same-location Arg1:T41 Arg2:T44	
+T47	ingredient 102 114	bell peppers
+T48	ingredient 119 128	jalapenos
+T49	ingredient 160 166	garlic
+T50	ingredient 203 215	chili powder
+T51	ingredient 217 222	cumin
+T52	ingredient 224 228	salt
+T53	ingredient 233 239	pepper
+T54	ingredient 249 265	the tomato paste
+T55	ingredient 270 300	kidney beans with their liquid
+T56	ingredient 340 352	the tomatoes
+T57	ingredient 358 378	the chipotle peppers
+R42	co-object Arg1:T11 Arg2:T9	
+R13	location Arg1:T11 Arg2:T25	
+R43	same-location Arg1:T25 Arg2:T41	
+T27	ingredient 416 431	3 cups of water
+T58	ingredient 441 466	the remaining 1 cup water
+T59	ingredient 472 481	the flour
+T60	ingredient 545 556	the vinegar

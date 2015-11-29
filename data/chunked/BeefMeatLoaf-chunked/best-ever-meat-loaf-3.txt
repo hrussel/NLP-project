@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk eggs , milk , salt , and ground black pepper in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , milk , salt , ground black pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Add crumbled bread and stir until dissolved .
+PREDID: 0
+PRED: add
+  DOBJ: crumbled bread
+
+PREDID: 1
+PRED: stir
+  PARG: dissolved
+    PREP: until
+
+
+SENTID: 3
+SENT: Mix ground beef , onion , Cheddar cheese , and carrot into bread mixture ;
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , onion , cheddar cheese , carrot
+  PARG: bread mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: transfer mixture to a 9x5-inch loaf pan .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: a 9x5-inch loaf pan
+    PREP: to
+
+
+SENTID: 5
+SENT: Combine brown sugar , ketchup , and mustard in a small bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , ketchup , mustard
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: spread over meat mixture .
+PREDID: 0
+PRED: spread
+  PARG: meat mixture
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until no longer pink in the center , 1 to 1Ê1/4 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , 1 to 1Ê1/4 hours
+    PREP: until
+

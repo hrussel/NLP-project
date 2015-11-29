@@ -1,0 +1,213 @@
+SENTID: 0
+SENT: Combine the crushed pretzels and parmesan cheese in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the crushed pretzels, parmesan cheese
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Fill a large pot with lightly salted water , and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Once the water is boiling , stir in the macaroni , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the macaroni
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 6
+SENT: Place the bacon in a large , deep pot , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Place the bacon slices on a paper towel-lined plate .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 8
+SENT: Pour off the bacon fat , reserving 2 tablespoons of the fat .
+PREDID: 0
+PRED: pour
+  DOBJ: reserving 2 tablespoons of the fat
+  PARG: the bacon fat
+    PREP: off
+
+
+SENTID: 9
+SENT: Melt the butter in the saucepan with the reserved bacon fat over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: the saucepan
+    PREP: in
+  PARG: the reserved bacon fat
+    PREP: with
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 10
+SENT: Stir in the onion , celery , carrots , and garlic ;
+PREDID: 0
+PRED: stir
+  PARG: the onion , celery , carrots , garlic
+    PREP: in
+
+
+SENTID: 11
+SENT: cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 12
+SENT: Add the flour , and stir until the mixture becomes paste-like and light golden brown , about 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the flour
+
+PREDID: 1
+PRED: stir
+  PARG: the mixture becomes paste-like, light golden
+    PREP: until
+
+PREDID: 2
+PRED: brown
+  PARG: 3 minutes
+    PREP: about
+
+
+SENTID: 13
+SENT: Gradually whisk the mustard , the beer , and finally the milk into the flour mixture ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the mustard , the beer
+  PARG: the flour mixture
+    PREP: into
+  OARG: gradually
+  OARG: finally
+
+
+SENTID: 14
+SENT: bring to a simmer over medium heat .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 15
+SENT: Cook and stir until the mixture is thick and smooth , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the mixture is thick
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: smooth
+  OARG: 5 to 10 minutes
+
+
+SENTID: 16
+SENT: Stir in the cheese , bacon , red pepper , salt , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the cheese , bacon , red pepper , salt , pepper
+    PREP: in
+
+
+SENTID: 17
+SENT: Turn off the heat , and stir in the cooked macaroni .
+PREDID: 0
+PRED: turn
+  PARG: the heat
+    PREP: off
+
+PREDID: 1
+PRED: stir
+  PARG: the cooked macaroni
+    PREP: in
+
+
+SENTID: 18
+SENT: Sprinkle with the pretzel and cheese mixture before serving .
+PREDID: 0
+PRED: sprinkle
+  PARG: the pretzel, cheese mixture
+    PREP: with
+  PARG: serving
+    PREP: before
+

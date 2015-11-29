@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: Whisk vinegar , vegan mayonnaise , agave nectar , mustard seeds , Dijon mustard , salt , and pepper together in a bowl until dressing is smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: vinegar , vegan mayonnaise , agave nectar , mustard seeds , dijon mustard , salt , pepper
+  PARG: a bowl
+    PREP: in
+  PARG: dressing is smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir apples , kohlrabi , and carrots into dressing until evenly coated .
+PREDID: 0
+PRED: stir
+  DOBJ: apples , kohlrabi , carrots
+  PARG: dressing
+    PREP: into
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Cover bowl with plastic wrap and refrigerate for flavors to blend , at least 1 hour .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: flavors
+    PREP: for
+  PARG: blend
+    PREP: to
+  PARG: least 1 hour
+    PREP: at
+

@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Pour coffee into a slow cooker and set slow cooker to High ;
+PREDID: 0
+PRED: pour
+  DOBJ: coffee
+  PARG: a slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: set
+  DOBJ: slow cooker
+  PARG: high
+    PREP: to
+
+
+SENTID: 1
+SENT: add diced tomatoes , beer , tomato paste , beef broth , brown sugar , chili sauce , jalapeno peppers , cumin , cocoa powder , chile powder , oregano , cayenne pepper , coriander , and salt .
+PREDID: 0
+PRED: add
+  DOBJ: diced tomatoes , beer , tomato paste , beef broth , brown sugar , chili sauce , jalapeno peppers , cumin , cocoa powder , chile powder , oregano , cayenne pepper , coriander , salt
+
+
+SENTID: 2
+SENT: Heat oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook and stir ground beef , onions , and garlic in the skillet until the beef is browned completely , 7 to 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onions , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the skillet
+    PREP: in
+  PARG: the beef is browned completely , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: add to mixture in the slow cooker .
+PREDID: 0
+PRED: add
+  PARG: mixture
+    PREP: to
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 5
+SENT: Slowly pour cornmeal into the slow cooker while stirring to assure no lumps .
+PREDID: 0
+PRED: pour
+  DOBJ: cornmeal
+  PARG: the slow cooker
+    PREP: into
+  PARG: stirring
+    PREP: while
+  OARG: slowly
+  OARG: to assure no lumps
+
+
+SENTID: 6
+SENT: Reduce heat to Low and cook for 2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 2 hours
+    PREP: for
+

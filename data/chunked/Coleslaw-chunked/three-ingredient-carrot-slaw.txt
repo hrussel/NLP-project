@@ -1,0 +1,10 @@
+SENTID: 0
+SENT: Toss carrots and sunflower seeds in a bowl with the oil and vinegar salad dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: carrots, sunflower seeds
+  PARG: a bowl
+    PREP: in
+  PARG: the oil, vinegar salad dressing
+    PREP: with
+

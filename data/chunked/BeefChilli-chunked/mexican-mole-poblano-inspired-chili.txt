@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Heat oil in a large , heavy pot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large , heavy pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in onions , green peppers , green chilies , and garlic .
+PREDID: 0
+PRED: stir
+  PARG: onions , green peppers , green chilies , garlic
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook and stir until onions are soft and translucent , about 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: onions are soft, translucent , about 8 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Add the stew meat to the pot , cook until well browned , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the stew meat
+  PARG: the pot
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: well browned , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir the chili power , cumin , basil , cayenne pepper , crushed red pepper , oregano , thyme , bay leaf , and cinnamon stick into the pot .
+PREDID: 0
+PRED: stir
+  DOBJ: the chili power , cumin , basil , cayenne pepper , crushed red pepper , oregano , thyme , bay leaf , cinnamon stick
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 5
+SENT: Pour the crushed tomatoes , beef broth , and beer into the pot ;
+PREDID: 0
+PRED: pour
+  DOBJ: the crushed tomatoes , beef broth , beer
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 6
+SENT: stir in the tomato paste .
+PREDID: 0
+PRED: stir
+  PARG: the tomato paste
+    PREP: in
+
+
+SENTID: 7
+SENT: Bring chili to a simmer and cook until beef is very tender and the liquids have thickened , about 1 hour and 15 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: chili
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: beef is very tender, the liquids have thickened , about 1 hour, 15 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Mix the chili beans and chocolate into the chili .
+PREDID: 0
+PRED: mix
+  DOBJ: the chili beans, chocolate
+  PARG: the chili
+    PREP: into
+
+
+SENTID: 9
+SENT: Simmer until the chocolate has melted and the chili is hot , 5 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: the chocolate has melted, the chili is hot , 5 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove cinnamon stick and bay leaf .
+PREDID: 0
+PRED: remove
+  DOBJ: cinnamon stick, bay leaf
+
+
+SENTID: 11
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+

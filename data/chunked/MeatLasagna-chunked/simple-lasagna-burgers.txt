@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for medium-high heat , and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 1
+SENT: Mix the ground beef Italian sausage , red pepper flakes , and Italian seasoning .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef italian sausage , red pepper flakes , italian seasoning
+
+
+SENTID: 2
+SENT: Form the mixture into 12 thin , wide patties .
+PREDID: 0
+PRED: form
+  DOBJ: the mixture
+  PARG: 12 thin
+    PREP: into
+  OARG: wide
+
+
+SENTID: 3
+SENT: Place about 2 ounces of ricotta cheese in the middle of 6 patties .
+PREDID: 0
+PRED: place
+  PARG: 2 ounces of ricotta cheese
+    PREP: about
+  PARG: the middle of 6 patties
+    PREP: in
+
+
+SENTID: 4
+SENT: Place the remaining 6 patties over the ricotta topped patties , press down , and pinch the edges to seal the cheese in the center .
+PREDID: 0
+PRED: place
+  DOBJ: the remaining 6 patties
+  PARG: the ricotta topped patties
+    PREP: over
+
+PREDID: 1
+PRED: press
+  OARG: down
+
+PREDID: 2
+PRED: pinch
+  DOBJ: the edges
+  PARG: seal the cheese
+    PREP: to
+  PARG: the center
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook on the preheated grill until the burgers are cooked to your desired degree of doneness , about 8 minutes per side for well done .
+PREDID: 0
+PRED: cook
+  PARG: the preheated grill
+    PREP: on
+  PARG: the burgers are cooked to your desired degree of doneness , about 8 minutes per side for well done
+    PREP: until
+
+
+SENTID: 6
+SENT: Place the cooked burgers on buns , then top with spaghetti sauce , Parmesan cheese , and spinach leaves .
+PREDID: 0
+PRED: place
+  DOBJ: the cooked burgers
+  PARG: buns
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: spaghetti sauce , parmesan cheese , spinach leaves
+    PREP: with
+

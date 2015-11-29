@@ -1,0 +1,194 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 52	Spray
+T3	predicate 97 102	Place
+T4	predicate 199 204	Drain
+T5	predicate 149 153	cook
+T6	predicate 221 230	set aside
+T7	predicate 256 260	melt
+T9	predicate 327 332	Allow
+T12	predicate 491 496	bring
+T13	predicate 580 586	Remove
+T14	predicate 611 620	set aside
+T15	predicate 633 637	beat
+T16	predicate 650 657	stir in
+T17	predicate 737 741	pour
+T18	predicate 824 827	top
+T19	predicate 904 909	layer
+T20	predicate 1123 1129	Repeat
+T21	predicate 1309 1314	Cover
+T22	predicate 1335 1339	Bake
+T23	predicate 1417 1423	Remove
+T24	predicate 1433 1437	bake
+T25	predicate 1499 1504	Allow
+T26	arg_object 8 12	oven
+T27	arg_duration 13 45	to 375 degrees F (190 degrees C)
+R1	object Arg1:T1 Arg2:T26	
+R2	duration Arg1:T1 Arg2:T27	
+T28	arg_object 53 76	a 9x13-inch baking dish
+T29	arg_co-object 77 95	with cooking spray
+R3	object Arg1:T2 Arg2:T28	
+R4	co-object Arg1:T2 Arg2:T29	
+T30	arg_object 103 114	the sausage
+T31	arg_location 115 127	in a skillet
+T32	arg_other 128 144	over medium heat
+R5	object Arg1:T3 Arg2:T30	
+R6	location Arg1:T3 Arg2:T31	
+R7	other Arg1:T3 Arg2:T32	
+T33	arg_location 1340 1361	in the preheated oven
+R8	location Arg1:T22 Arg2:T33	
+T34	Evolution 1343 1361	the preheated oven
+E1	Evolution:T34 Cause:T1
+T35	arg_location 776 819	into the bottom of the prepared baking dish
+T36	Evolution 795 819	the prepared baking dish
+E2	Evolution:T36 Cause:T2
+R9	location Arg1:T17 Arg2:T35	
+R10	object Arg1:T5 Arg2:T3	
+T37	arg_duration 154 197	until browned and crumbly, about 10 minutes
+R11	duration Arg1:T5 Arg2:T37	
+T38	arg_object 205 216	the sausage
+T39	Evolution 206 216	he sausage
+E3	Evolution:T39 Cause:T5
+R12	object Arg1:T4 Arg2:T38	
+R13	object Arg1:T6 Arg2:T4	
+T40	arg_object 938 975	followed by 1/3 of the cooked sausage
+T41	Evolution 950 975	1/3 of the cooked sausage
+E4	Evolution:T41 Cause:T6
+R14	object Arg1:T19 Arg2:T40	
+T42	arg_object 261 271	the butter
+T43	arg_location 272 285	in a saucepan
+T44	arg_other 286 302	over medium heat
+R15	object Arg1:T7 Arg2:T42	
+R16	location Arg1:T7 Arg2:T43	
+R17	other Arg1:T7 Arg2:T44	
+T8	predicate 307 315	whisk in
+T45	arg_object 316 325	the flour
+R18	object Arg1:T8 Arg2:T45	
+R19	co-object Arg1:T8 Arg2:T7	
+T46	arg_object 333 353	the flour and butter
+T47	Evolution 333 353	the flour and butter
+E5	Evolution:T47 Cause:T8
+R20	object Arg1:T9 Arg2:T46	
+T48	arg_other 354 361	to cook
+R21	other Arg1:T9 Arg2:T48	
+T49	arg_duration 362 400	until light and foamy, about 2 minutes
+T50	arg_other 402 421	whisking constantly
+R22	duration Arg1:T9 Arg2:T49	
+R23	other Arg1:T9 Arg2:T50	
+T10	predicate 423 431	whisk in
+R24	co-object Arg1:T10 Arg2:T9	
+T51	arg_object 432 436	milk
+R25	object Arg1:T10 Arg2:T51	
+T52	arg_other 438 456	a little at a time
+R26	other Arg1:T10 Arg2:T52	
+T11	predicate 458 466	Whisk in
+T53	arg_object 467 475	the salt
+T54	arg_object 480 486	nutmeg
+R27	object Arg1:T11 Arg2:T53	
+R28	object Arg1:T11 Arg2:T54	
+R29	co-object Arg1:T11 Arg2:T10	
+T55	arg_object 497 506	the sauce
+T56	Evolution 497 506	the sauce
+E6	Evolution:T56 Cause:T11
+R30	object Arg1:T12 Arg2:T55	
+T57	arg_other 507 523	to a bare simmer
+T58	arg_other 525 544	whisking constantly
+T59	arg_duration 545 578	until thickened, about 10 minutes
+R31	other Arg1:T12 Arg2:T57	
+R32	other Arg1:T12 Arg2:T58	
+R33	duration Arg1:T12 Arg2:T59	
+T60	arg_object 587 592	sauce
+T61	Evolution 587 592	sauce
+E7	Evolution:T61 Cause:T12
+T62	arg_location 593 606	from the heat
+R34	object Arg1:T13 Arg2:T60	
+R35	location Arg1:T13 Arg2:T62	
+R36	object Arg1:T14 Arg2:T13	
+T63	arg_object 999 1024	1/4 of the bechamel sauce
+T64	Evolution 999 1024	1/4 of the bechamel sauce
+E8	Evolution:T64 Cause:T14
+T65	arg_location 622 631	In a bowl
+R37	location Arg1:T15 Arg2:T65	
+T66	arg_object 638 645	the egg
+R38	object Arg1:T15 Arg2:T66	
+R39	co-object Arg1:T16 Arg2:T15	
+T67	arg_object 658 676	the ricotta cheese
+T68	arg_object 681 688	parsley
+R40	object Arg1:T16 Arg2:T67	
+R41	object Arg1:T16 Arg2:T68	
+T69	arg_duration 689 714	until thoroughly combined
+R42	duration Arg1:T16 Arg2:T69	
+T70	arg_object 742 775	about 1 1/2 cup of marinara sauce
+R43	object Arg1:T17 Arg2:T70	
+T71	arg_object 828 837	the sauce
+T72	Evolution 828 837	the sauce
+E9	Evolution:T72 Cause:T17
+R44	object Arg1:T18 Arg2:T71	
+T73	arg_co-object 838 860	with 4 lasagna noodles
+R45	co-object Arg1:T18 Arg2:T73	
+T74	arg_other 862 886	overlapping if necessary
+R46	other Arg1:T18 Arg2:T74	
+T75	arg_co-object 888 902	On the noodles
+R47	co-object Arg1:T19 Arg2:T75	
+T76	Evolution 891 902	the noodles
+E10	Evolution:T76 Cause:T18
+T77	arg_object 910 936	1/3 of the ricotta mixture
+R48	object Arg1:T19 Arg2:T77	
+T78	Evolution 910 936	1/3 of the ricotta mixture
+E11	Evolution:T78 Cause:T16
+T79	arg_object 977 997	1/3 cup of mushrooms
+R49	object Arg1:T19 Arg2:T79	
+T80	arg_object 1026 1056	1 cup of the mozzarella cheese
+R50	object Arg1:T19 Arg2:T80	
+T81	arg_object 1058 1088	1/8 cup of the Parmesan cheese
+T82	arg_object 1093 1121	1 more cup of marinara sauce
+R51	object Arg1:T19 Arg2:T81	
+R52	object Arg1:T19 Arg2:T82	
+R53	co-object Arg1:T20 Arg2:T19	
+T83	arg_object 1130 1140	the layers
+R54	object Arg1:T20 Arg2:T83	
+T84	arg_other 1141 1151	twice more
+R55	other Arg1:T20 Arg2:T84	
+T85	arg_other 1153 1307	ending with a final layer of noodles topped with a layer of marinara sauce, bechamel sauce, the remaining mozzarella cheese, and remaining Parmesan cheese
+R56	other Arg1:T20 Arg2:T85	
+T86	arg_object 1315 1323	the dish
+T87	arg_other 1324 1333	with foil
+T88	Evolution 1315 1323	the dish
+E12	Evolution:T88 Cause:T20
+R57	object Arg1:T21 Arg2:T86	
+R58	other Arg1:T21 Arg2:T87	
+R59	object Arg1:T22 Arg2:T21	
+T89	arg_duration 1362 1415	until bubbly and the noodles are tender, about 1 hour
+R60	duration Arg1:T22 Arg2:T89	
+T90	arg_object 1424 1428	foil
+R61	co-object Arg1:T23 Arg2:T22	
+R62	object Arg1:T23 Arg2:T90	
+R63	object Arg1:T24 Arg2:T23	
+T91	arg_duration 1438 1497	until the top cheese layer is browned, about 5 more minutes
+R64	duration Arg1:T24 Arg2:T91	
+T92	arg_object 1505 1516	the lasagna
+R65	object Arg1:T25 Arg2:T92	
+T93	Evolution 1505 1516	the lasagna
+E13	Evolution:T93 Cause:T24
+T94	arg_other 1517 1525	to stand
+R66	other Arg1:T25 Arg2:T94	
+T96	ingredient 82 95	cooking spray
+T97	ingredient 103 114	the sausage
+R68	co-object Arg1:T4 Arg2:T5	
+T98	ingredient 261 271	the butter
+T99	ingredient 316 325	the flour
+T100	ingredient 432 436	milk
+T101	ingredient 467 475	the salt
+T102	ingredient 480 486	nutmeg
+T103	ingredient 638 645	the egg
+T104	ingredient 658 676	the ricotta cheese
+T105	ingredient 681 688	parsley
+T106	ingredient 742 775	about 1 1/2 cup of marinara sauce
+T107	ingredient 843 860	4 lasagna noodles
+T108	ingredient 977 997	1/3 cup of mushrooms
+T109	ingredient 1026 1056	1 cup of the mozzarella cheese
+T110	ingredient 1058 1088	1/8 cup of the Parmesan cheese
+T111	ingredient 1093 1121	1 more cup of marinara sauce
+T95	arg_duration 1526 1540	for 10 minutes
+R67	duration Arg1:T25 Arg2:T95	
+T112	predicate 1548 1555	cutting
+R69	object Arg1:T112 Arg2:T25	

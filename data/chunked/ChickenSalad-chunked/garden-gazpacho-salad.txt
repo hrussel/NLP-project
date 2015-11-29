@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Mix the pasta with the chicken , cucumber , bell pepper , tomato , and garlic .
+PREDID: 0
+PRED: mix
+  DOBJ: the pasta
+  PARG: the chicken , cucumber , bell pepper , tomato , garlic
+    PREP: with
+
+
+SENTID: 4
+SENT: Pour the tomato-vegetable juice cocktail and lemon juice over the salad ;
+PREDID: 0
+PRED: pour
+  DOBJ: the tomato-vegetable juice cocktail, lemon juice
+  PARG: the salad
+    PREP: over
+
+
+SENTID: 5
+SENT: gently toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 6
+SENT: Season with black pepper and salt ;
+PREDID: 0
+PRED: season
+  PARG: black pepper, salt
+    PREP: with
+
+
+SENTID: 7
+SENT: serve warm or chilled .
+PREDID: 0
+PRED: serve
+  DOBJ: warm or chilled
+

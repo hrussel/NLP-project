@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place cooked egg noodles in a lightly greased 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: cooked egg noodles
+  PARG: a lightly greased 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 2
+SENT: Add cheese , mushrooms and celery and mix well ;
+PREDID: 0
+PRED: add
+  DOBJ: cheese , mushrooms, celery
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: pour in chicken stock .
+PREDID: 0
+PRED: pour
+  PARG: chicken stock
+    PREP: in
+
+
+SENTID: 4
+SENT: -LRB- Note :
+PREDID: 0
+PRED: note
+  OARG: 
+
+
+SENTID: 5
+SENT: Bake at 400 degrees F -LRB- 200 degrees C -RRB- for 30 minutes , or until skin is brown and crisp and chicken juices run clear .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+  PARG: skin is brown, crisp, chicken juices run clear
+    PREP: until
+

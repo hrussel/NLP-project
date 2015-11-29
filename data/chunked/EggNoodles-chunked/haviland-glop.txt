@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add dry egg noodles and cook for 8 to 10 minutes , or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: dry egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a large skillet over medium heat , brown the ground beef ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 6
+SENT: Stir in tomato and vegetable soups , salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: tomato, vegetable soups , salt, pepper
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix in the noodles and cook for 10 minutes .
+PREDID: 0
+PRED: mix
+  PARG: the noodles
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Transfer mixture to an 11x7 inch baking dish and layer with cheese .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: an 11x7 inch baking dish
+    PREP: to
+
+PREDID: 1
+PRED: layer
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in the preheated oven 20 minutes , or until cheese is melted and lightly brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 20 minutes
+    PREP: in
+  PARG: cheese is melted, lightly brown
+    PREP: until
+

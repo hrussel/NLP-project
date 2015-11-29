@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a large casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a large casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a skillet over medium heat , cook the ground beef until evenly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 4
+SENT: Mix in garlic , and season with salt and pepper .
+PREDID: 0
+PRED: mix
+  PARG: garlic
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir in spinach , and cook until heated through .
+PREDID: 0
+PRED: stir
+  PARG: spinach
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the uncooked egg noodles , and transfer to the prepared casserole dish .
+PREDID: 0
+PRED: stir
+  PARG: the uncooked egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: transfer
+  PARG: the prepared casserole dish
+    PREP: to
+
+
+SENTID: 7
+SENT: Mix in cream of mushroom soup and milk , and sprinkle with cheese .
+PREDID: 0
+PRED: mix
+  PARG: cream of mushroom soup, milk
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake 45 minutes in the preheated oven , until bubbly .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbly
+    PREP: until
+  OARG: 45 minutes
+

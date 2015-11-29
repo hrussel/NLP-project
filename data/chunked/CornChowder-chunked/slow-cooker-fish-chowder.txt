@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Cook and stir bacon in a skillet over medium heat until browned , 5 to 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+
+PREDID: 1
+PRED: stir
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: browned , 5 to 8 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: drain excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 2
+SENT: Cook and stir onion and garlic into bacon until onion is translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: bacon
+    PREP: into
+  PARG: onion is translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Transfer mixture to a slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 4
+SENT: Pour chicken stock into slow cooker .
+PREDID: 0
+PRED: pour
+  DOBJ: chicken stock
+  PARG: slow cooker
+    PREP: into
+
+
+SENTID: 5
+SENT: Mix corn , potatoes , celery , and carrots into the stock .
+PREDID: 0
+PRED: mix
+  DOBJ: corn , potatoes , celery , carrots
+  PARG: the stock
+    PREP: into
+
+
+SENTID: 6
+SENT: Season with black pepper and red pepper flakes .
+PREDID: 0
+PRED: season
+  PARG: black pepper, red pepper flakes
+    PREP: with
+
+
+SENTID: 7
+SENT: Set the cooker to High , cover , and cook for 3 hours .
+PREDID: 0
+PRED: set
+  DOBJ: the cooker
+  PARG: high
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: cook
+  PARG: 3 hours
+    PREP: for
+
+
+SENTID: 8
+SENT: Stir scallops , shrimp , and halibut into the soup and cook 1 more hour .
+PREDID: 0
+PRED: stir
+  DOBJ: scallops , shrimp , halibut
+  PARG: the soup
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  OARG: 1 more hour
+
+
+SENTID: 9
+SENT: Stir evaporated milk into chowder , heat thoroughly , and serve .
+PREDID: 0
+PRED: stir
+  DOBJ: evaporated milk
+  PARG: chowder
+    PREP: into
+
+PREDID: 1
+PRED: heat
+  OARG: thoroughly
+
+PREDID: 2
+PRED: serve
+

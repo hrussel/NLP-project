@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Heat bacon drippings in a heavy-bottomed stockpot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: bacon drippings
+  PARG: a heavy-bottomed stockpot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir carrot in the hot drippings for about 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: carrot
+
+PREDID: 1
+PRED: stir
+  PARG: the hot drippings
+    PREP: in
+  PARG: about 3 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Stir the red bell pepper , green bell pepper , poblano pepper , jalapeno pepper , habanero pepper , and onion with the carrot ;
+PREDID: 0
+PRED: stir
+  DOBJ: the red bell pepper , green bell pepper , poblano pepper , jalapeno pepper , habanero pepper , onion
+  PARG: the carrot
+    PREP: with
+
+
+SENTID: 3
+SENT: Stir in garlic and beef ;
+PREDID: 0
+PRED: stir
+  PARG: garlic, beef
+    PREP: in
+
+
+SENTID: 4
+SENT: Drain excess grease from the pot .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+  PARG: the pot
+    PREP: from
+
+
+SENTID: 5
+SENT: Stir tomato paste and tomato sauce into the beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: tomato paste, tomato sauce
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Increase heat to medium-high heat ;
+PREDID: 0
+PRED: increase
+  DOBJ: heat
+  PARG: medium-high heat
+    PREP: to
+
+
+SENTID: 7
+SENT: cook and stir for 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: 2 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 8
+SENT: Pour in dark beer , tequila , and chicken broth ;
+PREDID: 0
+PRED: pour
+  PARG: dark beer , tequila , chicken broth
+    PREP: in
+
+
+SENTID: 9
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Reduce heat to medium-low ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 11
+SENT: stir in chili powder , paprika , cumin , coriander , salt , cayenne pepper , black pepper , white pepper , and honey .
+PREDID: 0
+PRED: stir
+  PARG: chili powder , paprika , cumin , coriander , salt , cayenne pepper , black pepper , white pepper , honey
+    PREP: in
+
+
+SENTID: 12
+SENT: Simmer for 45 minutes to 2 hours .
+PREDID: 0
+PRED: simmer
+  PARG: 45 minutes
+    PREP: for
+  PARG: 2 hours
+    PREP: to
+
+
+SENTID: 13
+SENT: Stir grated ginger into the chili about 15 minutes before serving .
+PREDID: 0
+PRED: stir
+  DOBJ: grated ginger
+  PARG: the chili
+    PREP: into
+  PARG: 15 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,59 @@
+T1	arg_location 0 15	In a large bowl
+T2	predicate 17 20	mix
+T3	arg_object 21 29	the peas
+T4	arg_object 31 38	cabbage
+T5	arg_object 44 55	green onion
+R1	location Arg1:T2 Arg2:T1	
+R2	object Arg1:T2 Arg2:T3	
+R3	object Arg1:T2 Arg2:T4	
+R4	object Arg1:T2 Arg2:T5	
+T6	arg_location 57 75	In a separate bowl
+T7	predicate 77 80	mix
+T8	arg_object 81 95	the sour cream
+T9	arg_object 97 107	mayonnaise
+T10	arg_object 109 116	mustard
+T11	arg_object 118 125	vinegar
+T12	arg_object 127 131	salt
+T13	arg_object 137 149	curry powder
+R5	location Arg1:T7 Arg2:T6	
+R6	object Arg1:T7 Arg2:T8	
+R7	object Arg1:T7 Arg2:T9	
+R8	object Arg1:T7 Arg2:T10	
+R9	object Arg1:T7 Arg2:T11	
+R10	object Arg1:T7 Arg2:T12	
+R11	object Arg1:T7 Arg2:T13	
+T14	predicate 151 155	Pour
+T15	arg_object 156 178	the sour cream mixture
+T16	Evolution 156 178	the sour cream mixture
+E1	Evolution:T16 Cause:T7
+T17	arg_co-object 179 203	over the cabbage mixture
+R12	object Arg1:T14 Arg2:T15	
+R13	co-object Arg1:T14 Arg2:T17	
+T18	Evolution 184 203	the cabbage mixture
+E2	Evolution:T18 Cause:T2
+T19	predicate 209 213	toss
+R14	object Arg1:T19 Arg2:T14	
+T20	arg_duration 214 221	to coat
+R15	duration Arg1:T19 Arg2:T20	
+T21	predicate 223 228	Cover
+R16	object Arg1:T21 Arg2:T19	
+T22	predicate 234 245	refrigerate
+R17	object Arg1:T22 Arg2:T21	
+T23	arg_duration 246 275	at least 1 hour, or overnight
+R18	duration Arg1:T22 Arg2:T23	
+T24	predicate 277 285	Sprinkle
+R19	object Arg1:T24 Arg2:T22	
+T25	arg_co-object 286 298	with peanuts
+R20	co-object Arg1:T24 Arg2:T25	
+T26	arg_other 299 307	to serve
+R21	other Arg1:T24 Arg2:T26	
+T27	ingredient 21 29	the peas
+T28	ingredient 31 38	cabbage
+T29	ingredient 44 55	green onion
+T30	ingredient 81 95	the sour cream
+T31	ingredient 97 107	mayonnaise
+T32	ingredient 109 116	mustard
+T33	ingredient 118 125	vinegar
+T34	ingredient 127 131	salt
+T35	ingredient 137 149	curry powder
+T36	ingredient 291 298	peanuts

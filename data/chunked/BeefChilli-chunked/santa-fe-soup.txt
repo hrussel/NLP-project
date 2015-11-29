@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: Brown ground beef and drain off fat .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+
+PREDID: 1
+PRED: drain
+  PARG: fat
+    PREP: off
+
+
+SENTID: 1
+SENT: In a large stock pot combine browned beef , diced onion , tomatoes with liquid , stewed tomatoes with chilies , corn with liquid , Ranch-style beans with liquid , and cubed processed cheese Simmer on low heat until the cheese is melted and the onion is tender .
+PREDID: 0
+PRED: simmer
+  PARG: a large stock pot combine browned beef , diced onion , tomatoes
+    PREP: in
+  PARG: liquid , stewed tomatoes
+    PREP: with
+  PARG: chilies , corn
+    PREP: with
+  PARG: liquid , ranch-style beans
+    PREP: with
+  PARG: liquid , cubed processed cheese
+    PREP: with
+  PARG: low heat
+    PREP: on
+  PARG: the cheese is melted, the onion is tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

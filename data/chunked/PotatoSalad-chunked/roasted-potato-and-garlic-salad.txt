@@ -1,0 +1,229 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place 1/2 cup of olive oil in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: 1/2 cup of olive oil
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Toss the cubed potatoes in the oil until coated , and then spread them evenly on a baking sheet .
+PREDID: 0
+PRED: toss
+  DOBJ: the cubed potatoes
+  PARG: the oil
+    PREP: in
+  PARG: coated , then spread them evenly on a baking sheet
+    PREP: until
+
+
+SENTID: 3
+SENT: Pass the red peppers through the bowl of oil , making sure they are evenly coated .
+PREDID: 0
+PRED: pass
+  DOBJ: the bowl of oil , making
+  OARG: the red peppers
+  OARG: sure
+  OARG: evenly
+
+
+SENTID: 4
+SENT: Place on a separate baking sheet .
+PREDID: 0
+PRED: place
+  PARG: a separate baking sheet
+    PREP: on
+
+
+SENTID: 5
+SENT: Cut about 1/2 inch off the tops of the garlic and drizzle with the remaining oil from the bowl .
+PREDID: 0
+PRED: cut
+  PARG: 1/2 inch
+    PREP: about
+  PARG: the tops of the garlic
+    PREP: off
+
+PREDID: 1
+PRED: drizzle
+  PARG: the remaining oil
+    PREP: with
+  PARG: the bowl
+    PREP: from
+
+
+SENTID: 6
+SENT: Place on the baking sheet with the red peppers .
+PREDID: 0
+PRED: place
+  PARG: the baking sheet
+    PREP: on
+  PARG: the red peppers
+    PREP: with
+
+
+SENTID: 7
+SENT: Sprinkle the potatoes , peppers and garlic with salt and pepper , and then place both sheets in the oven for about 20 minutes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the potatoes , peppers, garlic
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: place
+  DOBJ: both sheets
+  PARG: the oven
+    PREP: in
+  PARG: about 20 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Check the potatoes :
+PREDID: 0
+PRED: check
+  DOBJ: the potatoes
+
+
+SENTID: 9
+SENT: Once everything has been roasted , place the potatoes in a large bowl and seal the peppers in a plastic bag to let them steam for 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: everything has been roasted
+  PARG: a large bowl
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: seal
+  DOBJ: the peppers
+  PARG: a plastic bag
+    PREP: in
+  PARG: let them
+    PREP: to
+
+PREDID: 2
+PRED: steam
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: -RRB- Take the peppers out of the bag , remove their skins and seeds and chop them up .
+PREDID: 0
+PRED: remove
+  DOBJ: their skins, seeds
+  PARG: of the bag
+    PREP: out
+  OARG: take the peppers
+
+PREDID: 1
+PRED: chop
+  DOBJ: them
+  OARG: up
+
+
+SENTID: 11
+SENT: Add to the bowl with the potatoes and stir to mix .
+PREDID: 0
+PRED: add
+  PARG: the bowl
+    PREP: to
+  PARG: the potatoes
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: mix
+    PREP: to
+
+
+SENTID: 12
+SENT: Turn the garlic heads upside down and squeeze the softened garlic past into a separate , small bowl .
+PREDID: 0
+PRED: turn
+  DOBJ: the garlic heads
+  OARG: upside
+  OARG: down
+
+PREDID: 1
+PRED: squeeze
+  DOBJ: the softened garlic past
+  PARG: a separate , small bowl
+    PREP: into
+
+
+SENTID: 13
+SENT: Mix in the balsamic vinegar , 1/3 cup olive oil and oregano until smooth .
+PREDID: 0
+PRED: mix
+  PARG: the balsamic vinegar , 1/3 cup olive oil, oregano
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 14
+SENT: Pour the dressing onto the potatoes and peppers and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potatoes, peppers
+    PREP: onto
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 15
+SENT: Season to taste with additional salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: additional salt, pepper
+    PREP: with
+
+
+SENTID: 16
+SENT: Best when served warm or at room temperature .
+PREDID: 0
+PRED: best
+  PARG: room temperature
+    PREP: at
+  OARG: when served warm
+
+
+SENTID: 17
+SENT: To prepare in advance for an occasion , refrigerate and then reheat in the microwave just until warmed through .
+PREDID: 0
+PRED: refrigerate
+  PARG: advance
+    PREP: in
+  PARG: an occasion
+    PREP: for
+  PARG: the microwave
+    PREP: in
+  OARG: to prepare
+  OARG: then
+
+PREDID: 1
+PRED: reheat
+  PARG: warmed through
+    PREP: until
+  OARG: just
+

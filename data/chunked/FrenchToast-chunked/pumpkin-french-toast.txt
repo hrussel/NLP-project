@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Beat the eggs , pumpkin puree , cinnamon , and nutmeg together in a bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , pumpkin puree , cinnamon , nutmeg
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Dip the bread slices into the pumpkin mixture until coated on both sides .
+PREDID: 0
+PRED: dip
+  DOBJ: the bread slices
+  PARG: the pumpkin mixture
+    PREP: into
+  PARG: coated on both sides
+    PREP: until
+
+
+SENTID: 2
+SENT: Melt 1 teaspoon of butter in a large skillet over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 teaspoon of butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Place 4 of the bread slices into the skillet and cook until browned on both sides , about 3 minutes per side .
+PREDID: 0
+PRED: place
+  DOBJ: 4 of the bread slices
+  PARG: the skillet
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: browned on both sides , about 3 minutes per side
+    PREP: until
+
+
+SENTID: 4
+SENT: Repeat with the remaining bread and butter .
+PREDID: 0
+PRED: repeat
+  PARG: the remaining bread
+    PREP: with
+
+PREDID: 1
+PRED: butter
+

@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: Season beef generously with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: beef
+  PARG: salt, pepper
+    PREP: with
+  OARG: generously
+
+
+SENTID: 1
+SENT: Heat oil in a large skillet over high heat until nearly smoking .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+  PARG: nearly smoking
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in beef ;
+PREDID: 0
+PRED: stir
+  PARG: beef
+    PREP: in
+
+
+SENTID: 3
+SENT: cook , stirring constantly , for 6-7 minutes , until liquid evaporates and meat browns .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: 6-7 minutes
+    PREP: for
+  PARG: liquid evaporates, meat browns
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 4
+SENT: Remove meat from the pan and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: meat
+  PARG: the pan
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Stir butter , mushrooms and onions into the pan ;
+PREDID: 0
+PRED: stir
+  DOBJ: butter , mushrooms, onions
+  PARG: the pan
+    PREP: into
+
+
+SENTID: 6
+SENT: cook and stir over medium heat until the vegetables are lightly browned .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the vegetables are lightly browned
+    PREP: until
+
+
+SENTID: 7
+SENT: Add garlic and stir for 30 seconds .
+PREDID: 0
+PRED: add
+  DOBJ: garlic
+
+PREDID: 1
+PRED: stir
+  PARG: 30 seconds
+    PREP: for
+
+
+SENTID: 8
+SENT: Stir in flour ;
+PREDID: 0
+PRED: stir
+  PARG: flour
+    PREP: in
+
+
+SENTID: 9
+SENT: cook for 1-2 minutes until incorporated .
+PREDID: 0
+PRED: cook
+  PARG: 1-2 minutes
+    PREP: for
+  PARG: incorporated
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir in wine and 1 cup of stock , scraping the bottom of the pan to release any browned bits .
+PREDID: 0
+PRED: stir
+  DOBJ: scraping the bottom of the pan
+  PARG: wine, 1 cup of stock
+    PREP: in
+  PARG: release any browned bits
+    PREP: to
+
+
+SENTID: 11
+SENT: Bring to a simmer , cook for 3-4 minutes , until the sauce thickens .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 3-4 minutes
+    PREP: for
+  PARG: the sauce thickens
+    PREP: until
+
+
+SENTID: 12
+SENT: Return beef to the pan .
+PREDID: 0
+PRED: return
+  DOBJ: beef
+  PARG: the pan
+    PREP: to
+
+
+SENTID: 13
+SENT: Stir in remaining cup of stock ;
+PREDID: 0
+PRED: stir
+  PARG: remaining cup of stock
+    PREP: in
+
+
+SENTID: 14
+SENT: bring to a simmer and cook on low heat for about 1 hour with the lid on , until the beef is tender and the sauce is thick .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: on
+  PARG: low heat
+    PREP: on
+  PARG: about 1 hour
+    PREP: for
+  PARG: the lid
+    PREP: with
+  PARG: the beef is tender, the sauce is thick
+    PREP: until
+
+
+SENTID: 15
+SENT: Stir every 20 minutes .
+PREDID: 0
+PRED: stir
+  OARG: every 20 minutes
+
+
+SENTID: 16
+SENT: Stir in creme fraiche .
+PREDID: 0
+PRED: stir
+  PARG: creme fraiche
+    PREP: in
+
+
+SENTID: 17
+SENT: Stir in chives .
+PREDID: 0
+PRED: stir
+  PARG: chives
+    PREP: in
+
+
+SENTID: 18
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

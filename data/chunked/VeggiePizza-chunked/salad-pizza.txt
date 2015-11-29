@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Place the pizza shell on a pizza pan or platter and top with the greens .
+PREDID: 0
+PRED: place
+  DOBJ: the pizza shell
+  PARG: a pizza pan or platter
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: the greens
+    PREP: with
+
+
+SENTID: 1
+SENT: Place the chicken over the greens and drizzle with dressing .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken
+  PARG: the greens
+    PREP: over
+
+PREDID: 1
+PRED: drizzle
+  PARG: dressing
+    PREP: with
+
+
+SENTID: 2
+SENT: Slice and serve .
+PREDID: 0
+PRED: slice
+
+PREDID: 1
+PRED: serve
+

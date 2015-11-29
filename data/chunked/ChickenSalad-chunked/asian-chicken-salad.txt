@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Prepare the dressing 30 minutes ahead of time by combining the brown sugar , soy sauce , sesame oil , salad oil , and rice vinegar in a salad dressing carafe .
+PREDID: 0
+PRED: prepare
+  PARG: time
+    PREP: of
+  PARG: combining the brown sugar , soy sauce , sesame oil , salad oil , rice vinegar
+    PREP: by
+  PARG: a salad dressing carafe
+    PREP: in
+  OARG: the dressing 30 minutes
+  OARG: ahead
+
+
+SENTID: 1
+SENT: To prepare the Chinese rice noodles , heat a skillet with a few tablespoons of oil and break off a little bit of the noodles and add them to the skillet and fry them .
+PREDID: 0
+PRED: heat
+  DOBJ: a skillet
+  PARG: a few tablespoons of oil
+    PREP: with
+  OARG: to prepare the chinese rice noodles
+
+PREDID: 1
+PRED: break
+  PARG: a little bit of the noodles
+    PREP: off
+
+PREDID: 2
+PRED: add
+  DOBJ: them
+  PARG: the skillet, fry them
+    PREP: to
+
+
+SENTID: 2
+SENT: As they begin to puff up , remove and drain them on paper towels .
+PREDID: 0
+PRED: begin
+  DOBJ: remove, drain them
+  PARG: they
+    PREP: as
+  PARG: puff
+    PREP: to
+  PARG: paper towels
+    PREP: on
+  OARG: up
+
+
+SENTID: 3
+SENT: Once cooked , add them to the salad mixture .
+PREDID: 0
+PRED: add
+  DOBJ: cooked
+  PARG: the salad mixture
+    PREP: to
+  OARG: once
+
+
+SENTID: 4
+SENT: In a large bowl combine the iceberg lettuce , cooked and shredded chicken , green onions and toasted sesame seeds .
+PREDID: 0
+PRED: combine
+  DOBJ: the iceberg lettuce , cooked, shredded chicken , green onions, toasted sesame seeds
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Let chill about 10 minutes , and just before serving add the cooked rice noodles .
+PREDID: 0
+PRED: let
+  DOBJ: chill
+  PARG: 10 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+  OARG: just
+
+PREDID: 1
+PRED: add
+  DOBJ: the cooked rice noodles
+
+
+SENTID: 6
+SENT: Serve in salad bowls and offer the dressing in a pourable container so your family can add as much dressing as they want .
+PREDID: 0
+PRED: serve
+  DOBJ: your family can
+  PARG: salad bowls, offer the dressing
+    PREP: in
+  PARG: a pourable container
+    PREP: in
+  OARG: so
+
+PREDID: 1
+PRED: add
+  PARG: much dressing
+    PREP: as
+  PARG: they want
+    PREP: as
+

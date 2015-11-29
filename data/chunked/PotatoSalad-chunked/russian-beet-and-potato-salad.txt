@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil , and cook beets until tender , about 30 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: beets
+  PARG: tender , about 30 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Bring a separate pot of water to a boil and cook potatoes and carrots until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: a separate pot of water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: potatoes, carrots
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain vegetables , cool , and remove skins .
+PREDID: 0
+PRED: drain
+  DOBJ: vegetables
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: remove
+  DOBJ: skins
+
+
+SENTID: 3
+SENT: Dice and place in a large bowl .
+PREDID: 0
+PRED: dice
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: place
+
+
+SENTID: 4
+SENT: Place the diced pickles in the bowl with beets , potatoes , and carrots .
+PREDID: 0
+PRED: place
+  DOBJ: the diced pickles
+  PARG: the bowl
+    PREP: in
+  PARG: beets , potatoes , carrots
+    PREP: with
+
+
+SENTID: 5
+SENT: Drizzle the olive oil and vinegar over the mixture and toss to coat .
+PREDID: 0
+PRED: drizzle
+  DOBJ: the olive oil, vinegar
+  PARG: the mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Season with salt .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+
+SENTID: 7
+SENT: Sprinkle with green onions .
+PREDID: 0
+PRED: sprinkle
+  PARG: green onions
+    PREP: with
+
+
+SENTID: 8
+SENT: Chill completely before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+  OARG: completely
+

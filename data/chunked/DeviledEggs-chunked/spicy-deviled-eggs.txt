@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Place eggs in a saucepan with a lid , pour in water to cover , bring to a boil , and remove from the heat .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+  PARG: a lid
+    PREP: with
+
+PREDID: 1
+PRED: pour
+  PARG: water
+    PREP: in
+  PARG: cover
+    PREP: to
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 3
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 1
+SENT: Cover and let stand for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: stand
+
+PREDID: 1
+PRED: let
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove eggs from hot water and let cool .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water, let cool
+    PREP: from
+
+
+SENTID: 3
+SENT: Peel the eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: the eggs
+
+
+SENTID: 4
+SENT: Cut each egg in half lengthwise , remove the yolks , and place the yolks in a bowl with the mustard , mayonnaise , Worcestershire sauce , hot pepper sauce , and salt and pepper .
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: the yolks
+
+PREDID: 2
+PRED: place
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: in
+  PARG: the mustard , mayonnaise , worcestershire sauce , hot pepper sauce , salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Mash the yolks , and stir the mixture until smooth and thoroughly combined .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+
+PREDID: 1
+PRED: stir
+  DOBJ: the mixture
+  PARG: smooth, thoroughly combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Fill each egg half with the deviled yolk mixture , using a spoon , piping bag , or a sturdy plastic bag with a corner cut off .
+PREDID: 0
+PRED: fill
+  DOBJ: using a spoon , piping bag , or a sturdy plastic bag
+  PARG: the deviled yolk mixture
+    PREP: with
+  PARG: a corner cut
+    PREP: with
+  OARG: each egg half
+
+
+SENTID: 7
+SENT: Dust each egg with a pinch of paprika , and place an olive half , round side up , in the center of each .
+PREDID: 0
+PRED: dust
+  DOBJ: each egg
+  PARG: a pinch of paprika
+    PREP: with
+
+PREDID: 1
+PRED: place
+  DOBJ: an olive half , round side
+  PARG: the center of each
+    PREP: in
+  OARG: up
+
+
+SENTID: 8
+SENT: Refrigerate until chilled , 20 to 30 minutes , and serve cold .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled , 20 to 30 minutes , serve cold
+    PREP: until
+

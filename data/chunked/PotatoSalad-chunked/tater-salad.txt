@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water , cool , peel and chop .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chop
+
+
+SENTID: 7
+SENT: In a large bowl , whisk together the mayonnaise , mustard , turmeric and onion .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , mustard , turmeric, onion
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Add the still-warm potatoes and stir until evenly coated .
+PREDID: 0
+PRED: add
+  DOBJ: the still-warm potatoes
+
+PREDID: 1
+PRED: stir
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 9
+SENT: Gently mix in the hard-cooked eggs .
+PREDID: 0
+PRED: mix
+  PARG: the hard-cooked eggs
+    PREP: in
+  OARG: gently
+
+
+SENTID: 10
+SENT: Serve immediately , or refrigerate and serve cold .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: cold
+
+PREDID: 2
+PRED: serve
+

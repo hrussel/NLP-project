@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: Halve eggs lengthwise and scoop yolks into a bowl .
+PREDID: 0
+PRED: halve
+  DOBJ: eggs lengthwise, scoop yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 2
+SENT: stir cream cheese spread , mayonnaise , sweet relish , brown mustard , garlic , hot pepper sauce , salt , and black pepper into yolks .
+PREDID: 0
+PRED: stir
+  DOBJ: cream cheese
+
+PREDID: 1
+PRED: spread
+  DOBJ: mayonnaise , sweet relish , brown mustard , garlic , hot pepper sauce , salt , black pepper
+  PARG: yolks
+    PREP: into
+
+
+SENTID: 3
+SENT: Fill egg whites with yolk mixture ;
+PREDID: 0
+PRED: fill
+  DOBJ: egg whites
+  PARG: yolk mixture
+    PREP: with
+
+
+SENTID: 4
+SENT: sprinkle deviled eggs with chives .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: deviled eggs
+  PARG: chives
+    PREP: with
+
+
+SENTID: 5
+SENT: Store covered in refrigerator .
+PREDID: 0
+PRED: store
+  DOBJ: covered
+  PARG: refrigerator
+    PREP: in
+

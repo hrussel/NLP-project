@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a medium casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a medium casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add noodles , cook for 6 to 8 minutes , until al dente , and drain .
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 4
+SENT: Place turkey in a skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+  DOBJ: turkey
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 6
+SENT: In a bowl , gently mix cooked noodles and turkey , corn , and soup .
+PREDID: 0
+PRED: mix
+  DOBJ: cooked noodles, turkey , corn , soup
+  PARG: a bowl
+    PREP: in
+  OARG: gently
+
+
+SENTID: 7
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Transfer to the prepared baking dish .
+PREDID: 0
+PRED: transfer
+  PARG: the prepared baking dish
+    PREP: to
+
+
+SENTID: 9
+SENT: Bake 20 minutes in the preheated oven , until bubbly .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbly
+    PREP: until
+  OARG: 20 minutes
+

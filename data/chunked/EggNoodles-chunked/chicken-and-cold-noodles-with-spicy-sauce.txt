@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: In large saucepan over medium high heat , bring 6 cups water to boil .
+PREDID: 0
+PRED: bring
+  DOBJ: 6 cups water
+  PARG: large saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add chicken breast , and return to boil .
+PREDID: 0
+PRED: add
+  DOBJ: chicken breast
+
+PREDID: 1
+PRED: return
+  PARG: boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 3
+SENT: Simmer , uncovered , about 15 minutes .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: 15 minutes
+    PREP: about
+
+
+SENTID: 4
+SENT: Remove meat from broth , and set aside to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: meat
+  PARG: broth
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Bring broth to boil again , and add noodles .
+PREDID: 0
+PRED: bring
+  DOBJ: broth
+  PARG: boil
+    PREP: to
+  OARG: again
+
+PREDID: 1
+PRED: add
+  DOBJ: noodles
+
+
+SENTID: 6
+SENT: Cook , stirring occasionally , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  OARG: occasionally
+  OARG: 5 to 7 minutes
+
+
+SENTID: 7
+SENT: Drain , reserving broth for another use if desired .
+PREDID: 0
+PRED: drain
+  DOBJ: reserving broth
+  PARG: another use
+    PREP: for
+  PARG: desired
+    PREP: if
+
+
+SENTID: 8
+SENT: Rinse noodles under cold running water until chilled .
+PREDID: 0
+PRED: rinse
+  DOBJ: noodles
+  PARG: cold running water
+    PREP: under
+  PARG: chilled
+    PREP: until
+
+
+SENTID: 9
+SENT: Drain again , and transfer to serving bowl .
+PREDID: 0
+PRED: drain
+  OARG: again
+
+PREDID: 1
+PRED: transfer
+  PARG: serving bowl
+    PREP: to
+
+
+SENTID: 10
+SENT: Toss lightly with 1 teaspoon sesame oil .
+PREDID: 0
+PRED: toss
+  PARG: 1 teaspoon sesame oil
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 11
+SENT: Cut or pull chicken meat into fine shreds , discarding skin and bones .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken meat
+
+PREDID: 1
+PRED: pull
+  PARG: fine shreds , discarding skin, bones
+    PREP: into
+
+
+SENTID: 12
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 13
+SENT: Combine tahini and 3 tablespoons water , stirring to blend .
+PREDID: 0
+PRED: combine
+  DOBJ: tahini, 3 tablespoons water , stirring
+  PARG: blend
+    PREP: to
+
+
+SENTID: 14
+SENT: Add chili oil , soy sauce , vinegar , 1 tablespoon sesame oil , peanut oil , and garlic .
+PREDID: 0
+PRED: add
+  DOBJ: chili oil , soy sauce , vinegar , 1 tablespoon sesame oil , peanut oil , garlic
+
+
+SENTID: 15
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 16
+SENT: Arrange the chicken on top of noodles in serving dish .
+PREDID: 0
+PRED: arrange
+  DOBJ: the chicken
+  PARG: top of noodles
+    PREP: on
+  PARG: serving dish
+    PREP: in
+
+
+SENTID: 17
+SENT: Spoon sauce over all .
+PREDID: 0
+PRED: spoon
+  DOBJ: sauce
+  PARG: all
+    PREP: over
+

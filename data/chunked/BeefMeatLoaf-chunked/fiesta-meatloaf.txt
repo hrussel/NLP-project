@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x5 inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5 inch loaf pan
+
+
+SENTID: 2
+SENT: Mix the beef , pork , water , eggs , picante sauce , onion soup mix , bread crumbs , and bell pepper together in a mixing bowl until evenly blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the beef , pork , water , eggs , picante sauce , onion soup mix , bread crumbs , bell pepper
+  PARG: a mixing bowl
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Pack into the prepared loaf pan , then poke holes into the loaf with a fork nearly to the bottom of the pan .
+PREDID: 0
+PRED: pack
+  DOBJ: poke holes
+  PARG: the prepared loaf pan
+    PREP: into
+  PARG: the loaf
+    PREP: into
+  PARG: a fork
+    PREP: with
+  PARG: the bottom of the pan
+    PREP: to
+  OARG: then
+  OARG: nearly
+
+
+SENTID: 4
+SENT: Pour the undiluted cheese sauce over the top of the roast and spread evenly .
+PREDID: 0
+PRED: pour
+  DOBJ: the undiluted cheese sauce
+  PARG: the top of the roast
+    PREP: over
+
+PREDID: 1
+PRED: spread
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until no longer pink in the center , about 1Ê1/2 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1Ê1/2 hours
+    PREP: until
+

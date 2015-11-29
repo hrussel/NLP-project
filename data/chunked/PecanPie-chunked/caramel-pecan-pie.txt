@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- In a saucepan over low heat , combine caramels , butter and milk .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c. -rrb-
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: low heat , combine caramels , butter, milk
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring frequently , until smooth .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: smooth
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Remove from heat and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , combine sugar , eggs , vanilla and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar , eggs , vanilla, salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Gradually mix in the melted caramel mixture .
+PREDID: 0
+PRED: mix
+  PARG: the melted caramel mixture
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 5
+SENT: Stir in pecans .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour filling into unbaked pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: unbaked pie crust
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in the preheated oven for 45 to 50 minutes , or until pastry is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 45 to 50 minutes
+    PREP: for
+  PARG: pastry is golden brown
+    PREP: until
+
+
+SENTID: 8
+SENT: Allow to cool until filling is firm .
+PREDID: 0
+PRED: allow
+  PARG: filling is firm
+    PREP: until
+  OARG: to cool
+

@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove eggs from hot water and place in a bowl of ice water .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a bowl of ice water
+    PREP: in
+
+
+SENTID: 3
+SENT: Peel .
+PREDID: 0
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs in half lengthwise .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: Remove yolks and transfer to a bowl ;
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+
+PREDID: 1
+PRED: transfer
+  PARG: a bowl
+    PREP: to
+
+
+SENTID: 6
+SENT: mash with a fork or pastry blender until yolks resemble powder .
+PREDID: 0
+PRED: mash
+  PARG: a fork or pastry blender
+    PREP: with
+  PARG: yolks resemble powder
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir mayonnaise , sugar , honey mustard , vinegar , salt , and pepper into yolks until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , sugar , honey mustard , vinegar , salt , pepper
+  PARG: yolks
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Spoon yolk mixture into the egg whites and lightly sprinkle with paprika .
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: the egg whites
+    PREP: into
+  OARG: lightly
+
+PREDID: 1
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 9
+SENT: Chill before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Stir the soup , water , chili powder , brown sugar , cumin and cinnamon in a 6-quart slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: the soup , water , chili powder , brown sugar , cumin, cinnamon
+  PARG: a 6-quart slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Add the pork and turn to coat .
+PREDID: 0
+PRED: add
+  DOBJ: the pork
+
+PREDID: 1
+PRED: turn
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Cover and cook on LOW for 8 to 9 hours or until the pork is fork-tender .
+PREDID: 0
+PRED: cover
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 9 hours
+    PREP: for
+  PARG: the pork is fork-tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove the pork to a cutting board .
+PREDID: 0
+PRED: remove
+  DOBJ: the pork
+  PARG: a cutting board
+    PREP: to
+
+
+SENTID: 4
+SENT: Using 2 forks , shred the pork .
+PREDID: 0
+PRED: shred
+  DOBJ: using 2 forks
+
+
+SENTID: 5
+SENT: Add the chocolate to the cooker and stir until melted .
+PREDID: 0
+PRED: add
+  DOBJ: the chocolate
+  PARG: the cooker
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: melted
+    PREP: until
+
+
+SENTID: 6
+SENT: Return the pork to the cooker .
+PREDID: 0
+PRED: return
+  DOBJ: the pork
+  PARG: the cooker
+    PREP: to
+
+
+SENTID: 7
+SENT: Place about 1/2 cup pork mixture onto half of each tortilla .
+PREDID: 0
+PRED: place
+  PARG: 1/2 cup pork mixture
+    PREP: about
+  PARG: half of each tortilla
+    PREP: onto
+
+
+SENTID: 8
+SENT: Top with the tomatoes and cilantro .
+PREDID: 0
+PRED: top
+  PARG: the tomatoes, cilantro
+    PREP: with
+
+
+SENTID: 9
+SENT: Fold the tortillas over the filling .
+PREDID: 0
+PRED: fold
+  DOBJ: the tortillas
+  PARG: the filling
+    PREP: over
+

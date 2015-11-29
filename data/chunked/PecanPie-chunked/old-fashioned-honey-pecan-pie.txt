@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: In a saucepan bring the honey to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: the honey
+  PARG: a saucepan
+    PREP: in
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Quickly beat the eggs into the honey .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: the honey
+    PREP: into
+  OARG: quickly
+
+
+SENTID: 2
+SENT: Add butter , vanilla , nuts , and nutmeg .
+PREDID: 0
+PRED: add
+  DOBJ: butter , vanilla , nuts , nutmeg
+
+
+SENTID: 3
+SENT: Pour into the pie shell .
+PREDID: 0
+PRED: pour
+  PARG: the pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake at 325 degrees F -LRB- 165 degrees C -RRB- for 25 minutes or until set .
+PREDID: 0
+PRED: bake
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: at
+  PARG: 25 minutes
+    PREP: for
+  PARG: set
+    PREP: until
+

@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Sort and rinse beans , then place into a large pot along with the water , jalapeno peppers , garlic powder , cumin , and oregano .
+PREDID: 0
+PRED: sort
+  DOBJ: beans
+
+PREDID: 1
+PRED: rinse
+  OARG: then
+
+PREDID: 2
+PRED: place
+  PARG: a large pot
+    PREP: into
+  PARG: with the water , jalapeno peppers , garlic powder , cumin , oregano
+    PREP: along
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until the beans are tender , 1Ê1/2 to 2 hours .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the beans are tender , 1Ê1/2 to 2 hours
+    PREP: until
+
+
+SENTID: 2
+SENT: Heat a large skillet over medium-high heat , and stir in the ground beef and onion .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the ground beef, onion
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: the beef is crumbly , evenly browned , no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 5
+SENT: Stir the beef into the simmering beans along with the salt , diced tomatoes , and tomato paste .
+PREDID: 0
+PRED: stir
+  DOBJ: the beef
+  PARG: the simmering beans
+    PREP: into
+  PARG: with the salt , diced tomatoes , tomato paste
+    PREP: along
+
+
+SENTID: 6
+SENT: Return to a simmer , and cook for 15 minutes .
+PREDID: 0
+PRED: return
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove from the heat , and allow to stand for a few minutes before serving .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: stand
+    PREP: to
+  PARG: a few minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

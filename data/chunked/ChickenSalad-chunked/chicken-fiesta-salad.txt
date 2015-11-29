@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Rub chicken evenly with 1/2 the fajita seasoning .
+PREDID: 0
+PRED: rub
+  DOBJ: chicken
+  PARG: 1/2 the fajita seasoning
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 1
+SENT: Heat the oil in a skillet over medium heat , and cook the chicken 8 minutes on each side , or until juices run clear ;
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+  OARG: the chicken 8 minutes
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large saucepan , mix beans , corn , salsa and other 1/2 of fajita seasoning .
+PREDID: 0
+PRED: mix
+  DOBJ: beans , corn , salsa, other 1/2 of fajita seasoning
+  PARG: a large saucepan
+    PREP: in
+
+
+SENTID: 4
+SENT: Heat over medium heat until warm .
+PREDID: 0
+PRED: heat
+  PARG: medium heat
+    PREP: over
+  PARG: warm
+    PREP: until
+
+
+SENTID: 5
+SENT: Prepare the salad by tossing the greens , onion and tomato .
+PREDID: 0
+PRED: prepare
+  DOBJ: the salad
+  PARG: tossing the greens , onion, tomato
+    PREP: by
+
+
+SENTID: 6
+SENT: Top salad with chicken and dress with the bean and corn mixture .
+PREDID: 0
+PRED: top
+  DOBJ: salad
+  PARG: chicken, dress
+    PREP: with
+  PARG: the bean, corn mixture
+    PREP: with
+

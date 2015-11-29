@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Thoroughly mix 1/2 cup tomato soup , beef , onion soup mix , bread crumbs and egg in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: 1/2 cup tomato soup , beef , onion soup mix , bread crumbs, egg
+  PARG: a large bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 1
+SENT: Place the mixture into a 13x9x2-inch baking pan and firmly shape into an 8x4-inch loaf .
+PREDID: 0
+PRED: place
+  DOBJ: the mixture
+  PARG: a 13x9x2-inch baking pan
+    PREP: into
+  OARG: firmly
+
+PREDID: 1
+PRED: shape
+  PARG: an 8x4-inch loaf
+    PREP: into
+
+
+SENTID: 2
+SENT: Bake at 350 degrees F for 1 hour 15 minutes or until the meatloaf is cooked through .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f
+    PREP: at
+  PARG: 1 hour 15 minutes
+    PREP: for
+  PARG: the meatloaf is cooked through
+    PREP: until
+
+
+SENTID: 3
+SENT: Heat 2 tablespoons pan drippings , remaining tomato soup and water in a 1-quart saucepan over medium heat until the mixture is hot and bubbling .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons pan drippings , remaining tomato soup, water
+  PARG: a 1-quart saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the mixture is hot, bubbling
+    PREP: until
+
+
+SENTID: 4
+SENT: Serve the sauce with the meatloaf .
+PREDID: 0
+PRED: serve
+  DOBJ: the sauce
+  PARG: the meatloaf
+    PREP: with
+

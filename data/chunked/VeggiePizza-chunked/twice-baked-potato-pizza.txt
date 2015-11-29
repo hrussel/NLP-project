@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Heat oven to 425 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray large cookie sheet with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: large cookie sheet
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Unroll pizza dough on cookie sheet ;
+PREDID: 0
+PRED: unroll
+  DOBJ: pizza dough
+  PARG: cookie sheet
+    PREP: on
+
+
+SENTID: 3
+SENT: press into 15x12-inch rectangle .
+PREDID: 0
+PRED: press
+  PARG: 15x12-inch rectangle
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake 6 to 8 minutes or until light golden brown .
+PREDID: 0
+PRED: bake
+  PARG: light golden brown
+    PREP: until
+  OARG: 6 to 8 minutes
+
+
+SENTID: 5
+SENT: Meanwhile , microwave frozen potatoes 3 to 4 minutes to thaw .
+PREDID: 0
+PRED: microwave
+  PARG: thaw
+    PREP: to
+  OARG: meanwhile
+  OARG: frozen potatoes 3 to 4 minutes
+
+
+SENTID: 6
+SENT: In medium bowl , using fork , mash potatoes , leaving some small pieces . Stir in 1/2 cup cooking sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: leaving some small pieces
+  PARG: medium bowl , using fork , mash potatoes
+    PREP: in
+  PARG: 1/2 cup cooking sauce
+    PREP: in
+
+
+SENTID: 7
+SENT: Spread remaining cooking sauce evenly over partially baked crust .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining cooking sauce
+  PARG: partially baked crust
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Spoon potato mixture over sauce .
+PREDID: 0
+PRED: spoon
+  DOBJ: potato mixture
+  PARG: sauce
+    PREP: over
+
+
+SENTID: 9
+SENT: Sprinkle with bacon and cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: bacon, cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake 8 to 10 minutes or until crust is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: crust is golden brown
+    PREP: until
+  OARG: 8 to 10 minutes
+
+
+SENTID: 11
+SENT: Sprinkle with tomatoes and green onions .
+PREDID: 0
+PRED: sprinkle
+  PARG: tomatoes, green onions
+    PREP: with
+

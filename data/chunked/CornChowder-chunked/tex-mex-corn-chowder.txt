@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: In a large saucepan , saute onions in margarine .
+PREDID: 0
+PRED: saute
+  DOBJ: onions
+  PARG: a large saucepan
+    PREP: in
+  PARG: margarine
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in flour , chili powder , and cumin .
+PREDID: 0
+PRED: stir
+  PARG: flour , chili powder , cumin
+    PREP: in
+
+
+SENTID: 2
+SENT: Add corn , picante sauce , and broth .
+PREDID: 0
+PRED: add
+  DOBJ: corn , picante sauce , broth
+
+
+SENTID: 3
+SENT: Bring to boil ;
+PREDID: 0
+PRED: bring
+  PARG: boil
+    PREP: to
+
+
+SENTID: 4
+SENT: remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Gradually add 1/4 cup hot mixture to cream cheese in a small bowl .
+PREDID: 0
+PRED: add
+  DOBJ: 1/4 cup hot mixture
+  PARG: cream cheese
+    PREP: to
+  PARG: a small bowl
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 6
+SENT: Stir until blended .
+PREDID: 0
+PRED: stir
+  PARG: blended
+    PREP: until
+
+
+SENTID: 7
+SENT: Add cream cheese mixture and milk to saucepan , stirring until well blended .
+PREDID: 0
+PRED: add
+  DOBJ: cream cheese mixture, milk
+  PARG: saucepan , stirring
+    PREP: to
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

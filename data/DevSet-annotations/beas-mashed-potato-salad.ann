@@ -1,0 +1,47 @@
+T1	predicate 0 7	Prepare
+T2	arg_object 8 25	Idahoan Baby Reds
+T3	predicate 58 65	Stir in
+T4	arg_object 66 73	pickles
+R1	co-object Arg1:T3 Arg2:T1	
+R2	object Arg1:T3 Arg2:T4	
+T5	arg_object 75 83	radishes
+T6	arg_object 85 100	hard-boiled egg
+T7	arg_object 102 108	celery
+T8	arg_object 113 122	red onion
+R3	object Arg1:T3 Arg2:T5	
+R4	object Arg1:T3 Arg2:T6	
+R5	object Arg1:T3 Arg2:T7	
+R6	object Arg1:T3 Arg2:T8	
+T9	predicate 124 131	Combine
+T10	arg_object 132 136	mayo
+T11	arg_object 141 149	mustards
+R7	object Arg1:T9 Arg2:T10	
+R8	object Arg1:T9 Arg2:T11	
+T12	arg_location 150 168	in a separate bowl
+T13	predicate 173 176	mix
+T14	arg_co-object 177 203	into mashed potato mixture
+R9	location Arg1:T9 Arg2:T12	
+R10	object Arg1:T13 Arg2:T9	
+R11	location Arg1:T13 Arg2:T14	
+T16	predicate 205 211	Season
+R15	object Arg1:T16 Arg2:T13	
+R16	object Arg1:T1 Arg2:T2	
+T15	Evolution 182 203	mashed potato mixture
+E1	Evolution:T15 Cause:T3
+T20	arg_duration 212 220	to taste
+R17	duration Arg1:T16 Arg2:T20	
+T21	arg_co-object 221 257	with salt and pepper and celery seed
+R12	co-object Arg1:T16 Arg2:T21	
+T17	ingredient 8 25	Idahoan Baby Reds
+T18	ingredient 66 73	pickles
+T19	ingredient 75 83	radishes
+T22	ingredient 85 100	hard-boiled egg
+T23	ingredient 102 108	celery
+T24	ingredient 113 122	red onion
+T25	ingredient 132 136	mayo
+T26	ingredient 141 149	mustards
+T27	ingredient 226 230	salt
+T28	ingredient 235 241	pepper
+T29	ingredient 246 257	celery seed
+T30	arg_other 26 56	following package instructions
+R13	other Arg1:T1 Arg2:T30	

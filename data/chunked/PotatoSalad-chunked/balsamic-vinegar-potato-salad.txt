@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Place potatoes in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a saucepan
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , then cook for 5 to 10 minutes , until tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: cook
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and transfer to a large bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 3
+SENT: Add the onion , red peppers , olives , and artichokes to the bowl with the potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: the onion , red peppers , olives , artichokes
+  PARG: the bowl
+    PREP: to
+  PARG: the potatoes
+    PREP: with
+
+
+SENTID: 4
+SENT: In a separate bowl , whisk together the balsamic vinegar , olive oil , oregano , basil , mustard powder and parsley .
+PREDID: 0
+PRED: whisk
+  DOBJ: the balsamic vinegar , olive oil , oregano , basil , mustard powder, parsley
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour over the vegetables , and stir to coat .
+PREDID: 0
+PRED: pour
+  PARG: the vegetables
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Chill for at least 4 hours or overnight before serving .
+PREDID: 0
+PRED: chill
+  PARG: at least 4 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: overnight
+

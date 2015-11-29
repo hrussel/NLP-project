@@ -1,0 +1,205 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook lasagna in the boiling water , stirring occasionally until cooked through but firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Melt butter in a saucepan over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: stir cream cheese into hot butter until it begins to melt , about 5 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: cream cheese
+  PARG: hot butter
+    PREP: into
+  PARG: it begins to melt , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Season with salt , onion powder , and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt , onion powder , black pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Whisk warm milk gradually into cream cheese until smooth ;
+PREDID: 0
+PRED: whisk
+  DOBJ: warm milk
+  PARG: cream cheese
+    PREP: into
+  PARG: smooth
+    PREP: until
+  OARG: gradually
+
+
+SENTID: 8
+SENT: stir in 1Ê1/2 cup Swiss cheese .
+PREDID: 0
+PRED: stir
+  PARG: 1Ê1/2 cup swiss cheese
+    PREP: in
+
+
+SENTID: 9
+SENT: Bring sauce to a simmer , stirring constantly , until cheese has melted and sauce has thickened , 5 to 10 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: sauce
+  PARG: a simmer , stirring
+    PREP: to
+  PARG: cheese has melted, sauce has thickened , 5 to 10 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 10
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 11
+SENT: Spread 3/4 cup of cheese sauce into bottom of a 9x9-inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 3/4 cup of cheese sauce
+  PARG: bottom of a 9x9-inch baking dish
+    PREP: into
+
+
+SENTID: 12
+SENT: Arrange 1/3 of the lasagna noodles over the sauce and spread half the cooked chicken and half the ham over the noodles .
+PREDID: 0
+PRED: arrange
+  DOBJ: 1/3 of the lasagna noodles
+  PARG: the sauce
+    PREP: over
+
+PREDID: 1
+PRED: spread
+  DOBJ: half the cooked chicken, half the ham
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 13
+SENT: Pour 1 cup sauce over chicken and ham .
+PREDID: 0
+PRED: pour
+  DOBJ: 1 cup sauce
+  PARG: chicken, ham
+    PREP: over
+
+
+SENTID: 14
+SENT: Repeat layers starting with half the remaining lasagna noodles , remaining chicken , remaining ham , and 1 more cup of cheese sauce .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers starting
+  PARG: half the remaining lasagna noodles , remaining chicken , remaining ham , 1 more cup of cheese sauce
+    PREP: with
+
+
+SENTID: 15
+SENT: Finish by layering remaining lasagna noodles , remaining sauce , 1/2 cup Swiss cheese , and bread crumbs ;
+PREDID: 0
+PRED: finish
+  PARG: layering remaining lasagna noodles , remaining sauce , 1/2 cup swiss cheese , bread crumbs
+    PREP: by
+
+
+SENTID: 16
+SENT: sprinkle top with Italian seasoning .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top
+  PARG: italian seasoning
+    PREP: with
+
+
+SENTID: 17
+SENT: Cover dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 18
+SENT: Bake in the preheated oven until casserole is bubbling , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole is bubbling , about 25 minutes
+    PREP: until
+
+
+SENTID: 19
+SENT: Remove foil and continue to bake until crumbs are browned , about 10 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: continue
+  PARG: crumbs are browned , about 10 more minutes
+    PREP: until
+  OARG: to bake
+
+
+SENTID: 20
+SENT: Let casserole stand 5 to 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: casserole stand 5 to 10 minutes
+

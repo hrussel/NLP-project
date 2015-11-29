@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: Melt the butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir the garlic , onion , and celery in the hot butter until the onion has softened and turned translucent , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the garlic , onion , celery
+
+PREDID: 1
+PRED: stir
+  PARG: the hot butter
+    PREP: in
+  PARG: the onion has softened, turned translucent , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer the vegetables to a mixing bowl , and allow to cool to just warm .
+PREDID: 0
+PRED: transfer
+  DOBJ: the vegetables
+  PARG: a mixing bowl
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+  OARG: to just warm
+
+
+SENTID: 3
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Place a sheet of aluminum foil onto a baking sheet , and spray with nonstick cooking spray .
+PREDID: 0
+PRED: place
+  DOBJ: a sheet of aluminum foil
+  PARG: a baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: spray
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 5
+SENT: Crack the eggs into the mixing bowl with the vegetables , and mix until the egg is smooth .
+PREDID: 0
+PRED: crack
+  DOBJ: the eggs
+  PARG: the mixing bowl
+    PREP: into
+  PARG: the vegetables
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  PARG: the egg is smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Add the ground beef , Cajun seasoning , and bread crumbs .
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef , cajun seasoning , bread crumbs
+
+
+SENTID: 7
+SENT: Mix with your hands until the mixture is evenly blended .
+PREDID: 0
+PRED: mix
+  PARG: your hands
+    PREP: with
+  PARG: the mixture is evenly blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Form the meat mixture into the shape of a stick man .
+PREDID: 0
+PRED: form
+  DOBJ: the meat mixture
+  PARG: the shape of a stick man
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until no longer pink in the center , about 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 35 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Once done , place the olive halves onto the head for eyes , and pour the ketchup onto the abdomen .
+PREDID: 0
+PRED: place
+  DOBJ: the olive halves
+  PARG: the head
+    PREP: onto
+  PARG: eyes
+    PREP: for
+  OARG: once
+  OARG: done
+
+PREDID: 1
+PRED: pour
+  DOBJ: the ketchup
+  PARG: the abdomen
+    PREP: onto
+
+
+SENTID: 11
+SENT: Return to oven , and bake 10 more minutes .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  OARG: 10 more minutes
+
+
+SENTID: 12
+SENT: Serve with a plastic knife impaled in the abdomen for effect .
+PREDID: 0
+PRED: serve
+  PARG: a plastic knife impaled
+    PREP: with
+  PARG: the abdomen
+    PREP: in
+  PARG: effect
+    PREP: for
+

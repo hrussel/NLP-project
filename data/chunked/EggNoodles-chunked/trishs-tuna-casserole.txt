@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , stir in the egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 5
+SENT: While the pasta is cooking , stir the tuna , condensed soup , peas with mushrooms and onions , onion , milk , salt , and pepper in a bowl until evenly mixed .
+PREDID: 0
+PRED: stir
+  DOBJ: the tuna , condensed soup , peas
+  PARG: the pasta is cooking
+    PREP: while
+  PARG: mushrooms, onions , onion , milk , salt , pepper
+    PREP: with
+  PARG: a bowl
+    PREP: in
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 6
+SENT: Gently stir in the cooked pasta , then pour the mixture into a 9x13 inch baking dish .
+PREDID: 0
+PRED: stir
+  PARG: the cooked pasta
+    PREP: in
+  OARG: gently
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: the mixture
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Sprinkle evenly with dry bread crumbs .
+PREDID: 0
+PRED: sprinkle
+  PARG: dry bread crumbs
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until the casserole is bubbling and the bread crumbs are golden brown , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the casserole is bubbling, the bread crumbs are golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 20 minutes
+    PREP: about
+

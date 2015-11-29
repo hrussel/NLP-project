@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large pot over medium heat , cook celery , onions and garlic in olive oil until onion is translucent .
+PREDID: 0
+PRED: cook
+  DOBJ: celery , onions, garlic
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: olive oil
+    PREP: in
+  PARG: onion is translucent
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in beef , tomato sauce , tomatoes , mushrooms , beer , chili beans , kidney beans , cumin , chili powder , coriander , cayenne and Worcestershire .
+PREDID: 0
+PRED: stir
+  PARG: beef , tomato sauce , tomatoes , mushrooms , beer , chili beans , kidney beans , cumin , chili powder , coriander , cayenne, worcestershire
+    PREP: in
+
+
+SENTID: 4
+SENT: Simmer over low heat 3 hours , until flavors are well blended .
+PREDID: 0
+PRED: simmer
+  PARG: low heat 3 hours
+    PREP: over
+  PARG: flavors are well blended
+    PREP: until
+

@@ -1,0 +1,204 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In another skillet over medium heat , cook onion until translucent .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+  PARG: another skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: translucent
+    PREP: until
+
+
+SENTID: 3
+SENT: Combine beef and onion in a large saucepan with tomato paste , crushed tomatoes , water , oregano , garlic powder , salt , pepper and sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: beef, onion
+  PARG: a large saucepan
+    PREP: in
+  PARG: tomato paste , crushed tomatoes , water , oregano , garlic powder , salt , pepper, sugar
+    PREP: with
+
+
+SENTID: 4
+SENT: Cook over medium heat until mixture comes to a boil .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: mixture comes to a boil
+    PREP: until
+
+
+SENTID: 5
+SENT: Reduce heat to low and simmer 1 hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  OARG: 1 hour
+
+
+SENTID: 6
+SENT: While sauce is simmering , blend cottage cheese , Parmesan and egg until smooth .
+PREDID: 0
+PRED: blend
+  DOBJ: cottage cheese , parmesan, egg
+  PARG: sauce is simmering
+    PREP: while
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 10
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 11
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 12
+SENT: Spread 1 cup of sauce in the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 1 cup of sauce
+  PARG: the bottom of a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 13
+SENT: Cover sauce with 3 noodles .
+PREDID: 0
+PRED: cover
+  DOBJ: sauce
+  PARG: 3 noodles
+    PREP: with
+
+
+SENTID: 14
+SENT: Cover noodles with one-third of remaining sauce .
+PREDID: 0
+PRED: cover
+  DOBJ: noodles
+  PARG: one-third of remaining sauce
+    PREP: with
+
+
+SENTID: 15
+SENT: Top with half the mozzarella .
+PREDID: 0
+PRED: top
+  PARG: half the mozzarella
+    PREP: with
+
+
+SENTID: 16
+SENT: Place another layer of noodles and one of sauce over the mozzarella ;
+PREDID: 0
+PRED: place
+  DOBJ: another layer of noodles, one of sauce
+  PARG: the mozzarella
+    PREP: over
+
+
+SENTID: 17
+SENT: top that with the cottage cheese mixture .
+PREDID: 0
+PRED: top
+  PARG: with the cottage cheese mixture
+    PREP: that
+
+
+SENTID: 18
+SENT: Top with remaining 3 noodles and remaining sauce .
+PREDID: 0
+PRED: top
+  PARG: remaining 3 noodles, remaining sauce
+    PREP: with
+
+
+SENTID: 19
+SENT: Bake in preheated oven 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 30 minutes
+    PREP: in
+
+
+SENTID: 20
+SENT: Sprinkle remaining mozzarella on top and bake 15 minutes more , until golden and bubbly .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining mozzarella
+  PARG: top
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: golden, bubbly
+    PREP: until
+  OARG: 15 minutes more
+

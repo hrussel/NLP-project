@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil , add the potatoes and let cook until tender .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: the potatoes, let cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 1
+SENT: While the potatoes cook , in a large bowl , whisk together the vinegar , sugar , mustard , salt and pepper .
+PREDID: 0
+PRED: cook
+  PARG: the potatoes
+    PREP: while
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: whisk
+  DOBJ: the vinegar , sugar , mustard , salt, pepper
+  OARG: together
+
+
+SENTID: 2
+SENT: Drain the potatoes , stir them into the vinegar mixture and let them marinate for 30 minutes to absorb the flavors .
+PREDID: 0
+PRED: drain
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: stir
+  DOBJ: them
+  PARG: the vinegar mixture, let them marinate
+    PREP: into
+  PARG: 30 minutes
+    PREP: for
+  OARG: to absorb the flavors
+
+
+SENTID: 3
+SENT: In a small bowl , whisk the mayonnaise , sour cream and heavy cream .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , sour cream, heavy cream
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Fold this creamy mixture into the potato mixture along with the onions and hard-cooked eggs .
+PREDID: 0
+PRED: fold
+  DOBJ: this creamy mixture
+  PARG: the potato mixture
+    PREP: into
+  PARG: with the onions, hard-cooked eggs
+    PREP: along
+

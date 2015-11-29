@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cut out top of pumpkin and clean out all seeds and strings from inside .
+PREDID: 0
+PRED: cut
+  PARG: top of pumpkin
+    PREP: out
+
+PREDID: 1
+PRED: clean
+  PARG: all seeds, strings
+    PREP: out
+  PARG: inside
+    PREP: from
+
+
+SENTID: 2
+SENT: Slice pumpkin vertically into 3 inch wide strips .
+PREDID: 0
+PRED: slice
+  DOBJ: pumpkin
+  PARG: 3 inch
+    PREP: into
+  OARG: vertically
+  OARG: wide
+
+
+SENTID: 3
+SENT: Place strips onto a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: strips
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 4
+SENT: Bake in preheated oven for about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: about 1 hour
+    PREP: for
+
+
+SENTID: 5
+SENT: Once done , scrape the pumpkin from the skins , then beat with a mixer or puree in a food processor until smooth .
+PREDID: 0
+PRED: scrape
+  DOBJ: the pumpkin
+  PARG: the skins
+    PREP: from
+  OARG: once
+  OARG: done
+  OARG: then
+
+PREDID: 1
+PRED: beat
+  PARG: a mixer
+    PREP: with
+
+PREDID: 2
+PRED: puree
+  PARG: a food processor
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Mix the nutmeg , ginger , salt , evaporated milk and eggs with the pumpkin puree .
+PREDID: 0
+PRED: mix
+  DOBJ: the nutmeg , ginger , salt , evaporated milk, eggs
+  PARG: the pumpkin puree
+    PREP: with
+
+
+SENTID: 8
+SENT: Pour mixture into two 9 inch pie crusts .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: two 9 inch pie crusts
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Reduce oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- and bake for an additional 35 to 40 minutes , or until toothpick inserted into center comes out clean .
+PREDID: 0
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 35 to 40 minutes
+    PREP: for
+  PARG: toothpick inserted into center comes out clean
+    PREP: until
+
+
+SENTID: 11
+SENT: Cool and refrigerate .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: refrigerate
+

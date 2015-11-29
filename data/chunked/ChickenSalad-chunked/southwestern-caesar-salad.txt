@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat and lightly oil grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+  OARG: lightly
+
+
+SENTID: 1
+SENT: Sprinkle chicken breasts with fajita seasoning , and grill for about 4 minutes on each side , or until no longer pink and juices run clear .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chicken breasts
+  PARG: fajita seasoning
+    PREP: with
+
+PREDID: 1
+PRED: grill
+  PARG: about 4 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+  PARG: no longer pink, juices run clear
+    PREP: until
+
+
+SENTID: 2
+SENT: Allow to cool , then slice into bite-size strips .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: slice
+  PARG: bite-size strips
+    PREP: into
+
+
+SENTID: 3
+SENT: In a blender or food processor , combine mayonnaise , grated Parmesan cheese , sour cream , anchovies , green onions , parsley , Dijon mustard , chipotle pepper , garlic , and Worcestershire sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: mayonnaise , grated parmesan cheese , sour cream , anchovies , green onions , parsley , dijon mustard , chipotle pepper , garlic , worcestershire sauce
+  PARG: a blender or food processor
+    PREP: in
+
+
+SENTID: 4
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Place romaine lettuce in a large bowl , and top with croutons , shredded Parmesan , and red , yellow , and orange pepper rings .
+PREDID: 0
+PRED: place
+  DOBJ: romaine lettuce
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: top
+  PARG: croutons , shredded parmesan , red , yellow , orange pepper rings
+    PREP: with
+
+
+SENTID: 6
+SENT: Arrange chicken on top , then pour on the dressing .
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken
+  PARG: top
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  PARG: the dressing
+    PREP: on
+

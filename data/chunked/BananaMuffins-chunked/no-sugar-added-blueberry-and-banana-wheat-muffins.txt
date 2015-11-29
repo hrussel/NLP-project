@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 18 muffin cups , or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 18 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix together mashed bananas , egg , water , and oil in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mashed bananas , egg , water , oil
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Gently fold the blueberries into the batter .
+PREDID: 0
+PRED: fold
+  DOBJ: the blueberries
+  PARG: the batter
+    PREP: into
+  OARG: gently
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until golden and the tops spring back when lightly pressed , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden, the tops spring back when lightly pressed , about 15 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove muffins from tins , and cool on a wire rack .
+PREDID: 0
+PRED: remove
+  DOBJ: muffins
+  PARG: tins
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: a wire rack
+    PREP: on
+

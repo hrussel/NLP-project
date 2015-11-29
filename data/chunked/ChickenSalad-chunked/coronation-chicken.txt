@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: In a large pot , cook chicken in lightly salted boiling water for 20 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+  PARG: a large pot
+    PREP: in
+  PARG: lightly salted boiling water
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: Drain , cool , and cut into 1/2-inch strips .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  PARG: 1/2-inch strips
+    PREP: into
+
+
+SENTID: 2
+SENT: In a large bowl , stir together chicken strips , raisins , and half of the mango .
+PREDID: 0
+PRED: stir
+  DOBJ: chicken strips , raisins , half of the mango
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: In a medium bowl , mix together mayonnaise , curry powder , chutney , and lemon juice .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , curry powder , chutney , lemon juice
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Season with salt and pepper , then toss gently with chicken mixture .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: toss
+  PARG: chicken mixture
+    PREP: with
+  OARG: gently
+
+
+SENTID: 5
+SENT: Stir in half the nuts .
+PREDID: 0
+PRED: stir
+  PARG: half the nuts
+    PREP: in
+
+
+SENTID: 6
+SENT: Transfer to a platter , and garnish with remaining mango strips and cashews .
+PREDID: 0
+PRED: transfer
+  PARG: a platter
+    PREP: to
+
+PREDID: 1
+PRED: garnish
+  PARG: remaining mango strips, cashews
+    PREP: with
+

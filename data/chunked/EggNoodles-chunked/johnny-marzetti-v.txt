@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add egg noodles and cook for 8 to 10 minutes , or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 5
+SENT: In a medium sized saucepan over medium high heat , stir together the ground beef , onion , celery , green bell pepper , garlic , and mushrooms .
+PREDID: 0
+PRED: stir
+  DOBJ: the ground beef , onion , celery , green bell pepper , garlic , mushrooms
+  PARG: a medium sized saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  OARG: together
+
+
+SENTID: 6
+SENT: Cook until beef is evenly brown and vegetables are tender .
+PREDID: 0
+PRED: cook
+  PARG: beef is evenly brown, vegetables are tender
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 8
+SENT: Stir in the tomato soup and cream of mushroom soup .
+PREDID: 0
+PRED: stir
+  PARG: the tomato soup, cream of mushroom soup
+    PREP: in
+
+
+SENTID: 9
+SENT: Place half of the cooked egg noodles in the prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: half of the cooked egg noodles
+  PARG: the prepared baking dish
+    PREP: in
+
+
+SENTID: 10
+SENT: Layer with half of the meat mixture and half of both cheddar and mozzarella cheeses .
+PREDID: 0
+PRED: layer
+  PARG: half of the meat mixture, half of both cheddar, mozzarella cheeses
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in the preheated oven 30 minutes , or until the cheese is completely melted and the surface is hot and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 30 minutes
+    PREP: in
+  PARG: the cheese is completely melted, the surface is hot, bubbly
+    PREP: until
+

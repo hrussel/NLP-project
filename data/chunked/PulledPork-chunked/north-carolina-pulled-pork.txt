@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Preheat slow cooker on Low for 15 minutes .
+PREDID: 0
+PRED: preheat
+  DOBJ: slow cooker
+  PARG: low
+    PREP: on
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: Season pork shoulder with salt and pepper ;
+PREDID: 0
+PRED: season
+  DOBJ: pork shoulder
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: place pork in preheated slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: preheated slow cooker
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix ketchup , brown sugar , and vinegar in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup , brown sugar , vinegar
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: pour over pork .
+PREDID: 0
+PRED: pour
+  PARG: pork
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook on Low for 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 8 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: Transfer pork to a large platter and slice into 3 to 4 pieces . Shred meat with 2 forks and return to slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a large platter
+    PREP: to
+
+PREDID: 1
+PRED: slice
+  PARG: 3 to 4 pieces
+    PREP: into
+
+PREDID: 2
+PRED: shred
+  DOBJ: meat
+  PARG: 2 forks
+    PREP: with
+
+PREDID: 3
+PRED: return
+  OARG: to slow cooker
+
+
+SENTID: 7
+SENT: Continue to cook for 1 hour .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: 1 hour
+    PREP: for
+

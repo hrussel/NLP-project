@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees
+    PREP: to
+
+
+SENTID: 1
+SENT: Place crust on pizza pan or cookie sheet .
+PREDID: 0
+PRED: place
+  DOBJ: crust
+  PARG: pizza pan or cookie sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: In a bowl , combine remaining ingredients except cheese .
+PREDID: 0
+PRED: combine
+  DOBJ: remaining ingredients
+  PARG: a bowl
+    PREP: in
+  PARG: cheese
+    PREP: except
+
+
+SENTID: 3
+SENT: Spoon mixture over crust .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: crust
+    PREP: over
+
+
+SENTID: 4
+SENT: Top with cheese .
+PREDID: 0
+PRED: top
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake at 450 degrees for 10-12 minutes , or until vegetables are crispy-tender .
+PREDID: 0
+PRED: bake
+  PARG: 450 degrees
+    PREP: at
+  PARG: 10-12 minutes
+    PREP: for
+  PARG: vegetables are crispy-tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove from oven and serve .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: serve
+

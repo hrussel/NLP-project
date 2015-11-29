@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Whisk apple cider vinegar , triple sec , and salt together in a salad bowl , stirring to dissolve salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: apple cider vinegar
+  PARG: a salad bowl , stirring
+    PREP: in
+  PARG: dissolve salt
+    PREP: to
+  OARG: triple
+  OARG: together
+
+
+SENTID: 1
+SENT: Toss green cabbage , purple cabbage , fennel , and onion in the dressing until coated .
+PREDID: 0
+PRED: toss
+  DOBJ: green cabbage , purple cabbage , fennel , onion
+  PARG: the dressing
+    PREP: in
+  PARG: coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Chill for at least 30 minutes .
+PREDID: 0
+PRED: chill
+  PARG: at least 30 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Sprinkle slaw with pine nuts to serve .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: slaw
+  PARG: pine nuts
+    PREP: with
+  PARG: serve
+    PREP: to
+

@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: In a large bowl , mix together the flour , eggs , water and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: the flour , eggs , water, salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir in the crabmeat , pork , tofu , bean sprouts , mixed vegetables , and cabbage until well blended .
+PREDID: 0
+PRED: stir
+  PARG: the crabmeat , pork , tofu , bean sprouts , mixed vegetables , cabbage
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Heat some of the oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: some of the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Spoon in enough of the vegetable batter to cover the bottom of the pan .
+PREDID: 0
+PRED: spoon
+  PARG: enough of the vegetable batter
+    PREP: in
+  PARG: cover the bottom of the pan
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook for about 8 minutes , or until the underside is golden brown .
+PREDID: 0
+PRED: cook
+  PARG: about 8 minutes
+    PREP: for
+  PARG: the underside is golden brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Flip , and cook until browned on the other side , about 3 minutes .
+PREDID: 0
+PRED: flip
+
+PREDID: 1
+PRED: cook
+  PARG: browned on the other side , about 3 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Repeat with remaining batter .
+PREDID: 0
+PRED: repeat
+  PARG: remaining batter
+    PREP: with
+
+
+SENTID: 7
+SENT: Serve pizzas with dipping sauce .
+PREDID: 0
+PRED: serve
+  DOBJ: pizzas
+  PARG: dipping sauce
+    PREP: with
+
+
+SENTID: 8
+SENT: To make the dipping sauce , mix together the soy sauce , rice vinegar , sesame oil and chile pepper in a sealable container .
+PREDID: 0
+PRED: mix
+  DOBJ: the soy sauce , rice vinegar , sesame oil, chile pepper
+  PARG: make the dipping sauce
+    PREP: to
+  PARG: a sealable container
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Seal , and shake until well blended .
+PREDID: 0
+PRED: seal
+
+PREDID: 1
+PRED: shake
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 10
+SENT: Shake again just before serving .
+PREDID: 0
+PRED: shake
+  PARG: serving
+    PREP: before
+  OARG: again
+  OARG: just
+

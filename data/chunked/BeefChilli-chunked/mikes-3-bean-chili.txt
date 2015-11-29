@@ -1,0 +1,260 @@
+SENTID: 0
+SENT: Trim fat from beef chuck roast and place the fat into a large saucepan with vegetable oil over medium heat .
+PREDID: 0
+PRED: trim
+  DOBJ: fat
+  PARG: beef chuck roast
+    PREP: from
+
+PREDID: 1
+PRED: place
+  DOBJ: the fat
+  PARG: a large saucepan
+    PREP: into
+  PARG: vegetable oil
+    PREP: with
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring occasionally , until the fat chunks are lightly browned , about 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: the fat chunks are lightly browned , about 15 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Add beef bones to the fat .
+PREDID: 0
+PRED: add
+  DOBJ: beef bones
+  PARG: the fat
+    PREP: to
+
+
+SENTID: 3
+SENT: Pour in enough water to cover the bones and stir in vinegar .
+PREDID: 0
+PRED: pour
+  PARG: enough water
+    PREP: in
+  PARG: cover the bones
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: vinegar
+    PREP: in
+
+
+SENTID: 4
+SENT: Bring liquid to a boil and reduce heat to low ;
+PREDID: 0
+PRED: bring
+  DOBJ: liquid
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 5
+SENT: simmer until stock has reduced to about 1Ê1/2 cups of liquid , about 2 hours .
+PREDID: 0
+PRED: simmer
+  PARG: stock has reduced to about 1Ê1/2 cups of liquid , about 2 hours
+    PREP: until
+
+
+SENTID: 6
+SENT: Preheat an outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 7
+SENT: Cut beef chuck roast into 3/4-inch thick slices and cook on the preheated grill until browned , 3 minutes on 1 side and 2 minutes on the other side ;
+PREDID: 0
+PRED: cut
+  DOBJ: beef chuck roast
+  PARG: 3/4-inch thick slices
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: the preheated grill
+    PREP: on
+  PARG: browned , 3 minutes on 1 side, 2 minutes on the other side
+    PREP: until
+
+
+SENTID: 8
+SENT: cut beef slices into 1/2-inch cubes .
+PREDID: 0
+PRED: cut
+  DOBJ: beef slices
+  PARG: 1/2-inch cubes
+    PREP: into
+
+
+SENTID: 9
+SENT: Cook and stir bacon in a large skillet over medium-high heat until evenly browned , about 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+
+PREDID: 1
+PRED: stir
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: drain on paper towels .
+PREDID: 0
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 11
+SENT: Transfer beef cubes into a large soup pot over medium heat .
+PREDID: 0
+PRED: transfer
+  DOBJ: beef cubes
+  PARG: a large soup pot
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 12
+SENT: Add bacon , diced tomatoes , black beans , kidney beans , cannellini beans , onions , garlic , tomato paste , green bell pepper , red bell pepper , jalapeno peppers , serrano peppers , chili powder , smoked paprika , cumin , chocolate , anchovy paste , and bay leaf .
+PREDID: 0
+PRED: add
+  DOBJ: bacon , diced tomatoes , black beans , kidney beans , cannellini beans , onions , garlic , tomato paste , green bell pepper , red bell pepper , jalapeno peppers , serrano peppers , chili powder , smoked paprika , cumin , chocolate , anchovy paste , bay leaf
+
+
+SENTID: 13
+SENT: Strain broth from beef bones ;
+PREDID: 0
+PRED: strain
+  DOBJ: broth
+  PARG: beef bones
+    PREP: from
+
+
+SENTID: 14
+SENT: discard bones .
+PREDID: 0
+PRED: discard
+  DOBJ: bones
+
+
+SENTID: 15
+SENT: Skim excess fat from the broth and pour broth over the chili ingredients .
+PREDID: 0
+PRED: skim
+  DOBJ: excess fat
+  PARG: the broth
+    PREP: from
+
+PREDID: 1
+PRED: pour
+  DOBJ: broth
+  PARG: the chili ingredients
+    PREP: over
+
+
+SENTID: 16
+SENT: Use a large spoon to make a well 2 inches deep in the meat , broth , and vegetables , and pour stout beer into the hole ;
+PREDID: 0
+PRED: use
+  DOBJ: a large spoon
+  PARG: make a well 2 inches
+    PREP: to
+  PARG: the meat , broth , vegetables
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: pour
+  DOBJ: stout beer
+  PARG: the hole
+    PREP: into
+
+
+SENTID: 17
+SENT: bring to a simmer .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 18
+SENT: Place cover on soup pot and cook until beef is tender and flavors have blended , about 3 hours .
+PREDID: 0
+PRED: place
+  DOBJ: cover
+  PARG: soup pot
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: beef is tender, flavors have blended , about 3 hours
+    PREP: until
+
+
+SENTID: 19
+SENT: For a thicker chili , dip about 3 tablespoons of liquid from the pot and whisk with cornstarch in a bowl ;
+PREDID: 0
+PRED: dip
+  PARG: a thicker chili
+    PREP: for
+  PARG: 3 tablespoons of liquid
+    PREP: about
+  PARG: the pot
+    PREP: from
+
+PREDID: 1
+PRED: whisk
+  PARG: cornstarch
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 20
+SENT: stir cornstarch mixture into chili and simmer until thickened , about 5 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: cornstarch mixture
+  PARG: chili
+    PREP: into
+
+PREDID: 1
+PRED: simmer
+  PARG: thickened , about 5 minutes
+    PREP: until
+

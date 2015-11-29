@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Arrange bread cubes in a single layer on a baking sheet .
+PREDID: 0
+PRED: arrange
+  DOBJ: bread cubes
+  PARG: a single layer
+    PREP: in
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: Toast until dry .
+PREDID: 0
+PRED: toast
+  PARG: dry
+    PREP: until
+
+
+SENTID: 3
+SENT: Crush , and reserve .
+PREDID: 0
+PRED: crush
+
+PREDID: 1
+PRED: reserve
+
+
+SENTID: 4
+SENT: Increase oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: increase
+  DOBJ: oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: In a medium bowl , mix together the soup , milk , onion , corned beef , and mustard .
+PREDID: 0
+PRED: mix
+  DOBJ: the soup , milk , onion , corned beef , mustard
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Spread sauerkraut evenly in the bottom of a lightly greased 9x13 inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: sauerkraut
+  PARG: the bottom of a lightly greased 9x13 inch baking dish
+    PREP: in
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Spread uncooked noodles over sauerkraut .
+PREDID: 0
+PRED: spread
+  DOBJ: uncooked noodles
+  PARG: sauerkraut
+    PREP: over
+
+
+SENTID: 9
+SENT: Spoon soup mixture over noodles , and sprinkle with cheese .
+PREDID: 0
+PRED: spoon
+  DOBJ: soup mixture
+  PARG: noodles
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: In a small bowl , mix melted butter with rye bread crumbs , and sprinkle mixture over cheese .
+PREDID: 0
+PRED: mix
+  DOBJ: melted butter
+  PARG: a small bowl
+    PREP: in
+  PARG: rye bread crumbs
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: mixture
+  PARG: cheese
+    PREP: over
+
+
+SENTID: 11
+SENT: Cover , and bake in preheated oven for 50 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Remove cover , and bake an additional 10 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: cover
+
+PREDID: 1
+PRED: bake
+  OARG: an additional 10 minutes
+

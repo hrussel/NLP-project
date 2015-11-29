@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Place the potatoes in to a pot and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: to a pot
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil and cook until tender , about 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Bring a separate pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a separate pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add the green beans and cook for about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the green beans
+
+PREDID: 1
+PRED: cook
+  PARG: about 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Fry the bacon in a large skillet over medium heat until crisp .
+PREDID: 0
+PRED: fry
+  DOBJ: the bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crisp
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove bacon and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: bacon
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Fry onions in the bacon drippings until tender and browned .
+PREDID: 0
+PRED: fry
+  DOBJ: onions
+  PARG: the bacon drippings
+    PREP: in
+  PARG: tender, browned
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour balsamic vinegar into the skillet and stir to release all of the browned bits from the bottom of the pan .
+PREDID: 0
+PRED: pour
+  DOBJ: balsamic vinegar
+  PARG: the skillet
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: release all of the browned bits
+    PREP: to
+  PARG: the bottom of the pan
+    PREP: from
+
+
+SENTID: 9
+SENT: In a large bowl , combine the green beans , potatoes , onions and bacon .
+PREDID: 0
+PRED: combine
+  DOBJ: the green beans , potatoes , onions, bacon
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Pour the balsamic vinegar over them and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the balsamic vinegar
+  PARG: them, toss
+    PREP: over
+  PARG: coat
+    PREP: to
+
+
+SENTID: 11
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+

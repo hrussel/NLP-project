@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Preheat a waffle iron according to the manufacturer 's instructions , and spray with cooking spray .
+PREDID: 0
+PRED: preheat
+  DOBJ: a waffle iron according
+  PARG: the manufacturer 's instructions
+    PREP: to
+
+PREDID: 1
+PRED: spray
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 1
+SENT: In a shallow bowl , whisk together the eggs , milk , vanilla extract , sugar , and cinnamon .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , vanilla extract , sugar , cinnamon
+  PARG: a shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Dip each piece of white bread into the egg mixture .
+PREDID: 0
+PRED: dip
+  DOBJ: each piece of white bread
+  PARG: the egg mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Cook in the preheated waffle iron until golden brown , 1 to 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the preheated waffle iron
+    PREP: in
+  PARG: golden brown , 1 to 2 minutes
+    PREP: until
+

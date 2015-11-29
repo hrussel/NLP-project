@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add noodles , and cook until tender , about 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Meanwhile , crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Season with onion powder , garlic powder , salt and pepper ;
+PREDID: 0
+PRED: season
+  PARG: onion powder , garlic powder , salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: cook and stir until evenly browned .
+PREDID: 0
+PRED: cook
+  PARG: evenly browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Drain off grease .
+PREDID: 0
+PRED: drain
+  PARG: grease
+    PREP: off
+
+
+SENTID: 7
+SENT: Stir the cream cheese and cream of mushroom soup into the ground beef until well blended .
+PREDID: 0
+PRED: stir
+  DOBJ: the cream cheese, cream of mushroom soup
+  PARG: the ground beef
+    PREP: into
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Mix in the drained noodles and corn .
+PREDID: 0
+PRED: mix
+  PARG: the drained noodles, corn
+    PREP: in
+
+
+SENTID: 9
+SENT: Stir in evaporated milk to reach your desired consistency .
+PREDID: 0
+PRED: stir
+  PARG: evaporated milk
+    PREP: in
+  PARG: reach your desired consistency
+    PREP: to
+
+
+SENTID: 10
+SENT: Top with mozzarella cheese , and serve .
+PREDID: 0
+PRED: top
+  PARG: mozzarella cheese
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

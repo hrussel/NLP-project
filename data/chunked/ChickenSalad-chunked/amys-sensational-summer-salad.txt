@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Place the chicken breasts and Italian dressing into a resealable plastic bag .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken breasts, italian dressing
+  PARG: a resealable plastic bag
+    PREP: into
+
+
+SENTID: 1
+SENT: Mix together to coat the chicken with the dressing , squeeze out excess air , and seal the bag .
+PREDID: 0
+PRED: mix
+  PARG: coat the chicken
+    PREP: to
+  PARG: the dressing
+    PREP: with
+  OARG: together
+
+PREDID: 1
+PRED: squeeze
+  PARG: excess air
+    PREP: out
+
+PREDID: 2
+PRED: seal
+  DOBJ: the bag
+
+
+SENTID: 2
+SENT: Marinate in the refrigerator for 1 hour .
+PREDID: 0
+PRED: marinate
+  PARG: the refrigerator
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 3
+SENT: Preheat an outdoor grill for medium-high heat , and lightly oil grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+  OARG: lightly
+
+
+SENTID: 4
+SENT: Remove the chicken from the marinade , and shake off excess .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+  PARG: the marinade
+    PREP: from
+
+PREDID: 1
+PRED: shake
+  PARG: excess
+    PREP: off
+
+
+SENTID: 5
+SENT: Discard the remaining marinade .
+PREDID: 0
+PRED: discard
+  DOBJ: the remaining marinade
+
+
+SENTID: 6
+SENT: Grill the chicken breasts until no longer pink in the center , or to an internal temperature of 165 degrees F -LRB- 74 degrees C -RRB- , about 3 minutes per side .
+PREDID: 0
+PRED: grill
+  DOBJ: the chicken breasts
+  PARG: no longer pink in the center , or to an internal temperature of 165 degrees f -lrb- 74 degrees c -rrb- , about 3 minutes per side
+    PREP: until
+
+
+SENTID: 7
+SENT: Set aside to cool while preparing the ingredients for salad , then dice .
+PREDID: 0
+PRED: set
+  PARG: preparing the ingredients
+    PREP: while
+  PARG: salad
+    PREP: for
+  OARG: aside
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: dice
+
+
+SENTID: 8
+SENT: Toss the diced apple with the lemon juice in a large mixing bowl until well coated ;
+PREDID: 0
+PRED: toss
+  DOBJ: the diced apple
+  PARG: the lemon juice
+    PREP: with
+  PARG: a large mixing bowl
+    PREP: in
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 9
+SENT: drain and discard any excess lemon juice .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess lemon juice
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 10
+SENT: Place the lettuce into the mixing bowl , then sprinkle with the diced chicken , avocado , feta cheese , strawberries , and cranberries .
+PREDID: 0
+PRED: place
+  DOBJ: the lettuce
+  PARG: the mixing bowl
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the diced chicken , avocado , feta cheese , strawberries , cranberries
+    PREP: with
+
+
+SENTID: 11
+SENT: Gently toss the salad with the balsamic vinaigrette , and serve immediately .
+PREDID: 0
+PRED: toss
+  DOBJ: the salad
+  PARG: the balsamic vinaigrette
+    PREP: with
+  OARG: gently
+
+PREDID: 1
+PRED: serve
+  OARG: immediately
+

@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Preheat oven to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 300 degrees f -lrb- 150 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small bowl mix together 1Ê1/2 cups crushed gingersnaps and 1 tablespoon sugar .
+PREDID: 0
+PRED: mix
+  DOBJ: 1Ê1/2 cups crushed gingersnaps, 1 tablespoon sugar
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in melted butter or margarine .
+PREDID: 0
+PRED: stir
+  PARG: melted butter or margarine
+    PREP: in
+
+
+SENTID: 3
+SENT: Press mixture evenly into a 9 inch pie plate .
+PREDID: 0
+PRED: press
+  DOBJ: mixture
+  PARG: a 9 inch pie plate
+    PREP: into
+  OARG: evenly
+
+
+SENTID: 4
+SENT: Bake for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 6
+SENT: In a medium bowl , combine pumpkin , 1 cup sugar , salt , ginger , cinnamon , and nutmeg .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , 1 cup sugar , salt , ginger , cinnamon , nutmeg
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir until thoroughly mixed .
+PREDID: 0
+PRED: stir
+  PARG: thoroughly mixed
+    PREP: until
+
+
+SENTID: 8
+SENT: Fold in whipped topping .
+PREDID: 0
+PRED: fold
+  PARG: whipped topping
+    PREP: in
+
+
+SENTID: 9
+SENT: Spread ice cream in an even layer in bottom of cooled gingersnap crust .
+PREDID: 0
+PRED: spread
+  DOBJ: ice cream
+  PARG: an even layer
+    PREP: in
+  PARG: bottom of cooled gingersnap crust
+    PREP: in
+
+
+SENTID: 10
+SENT: Pour pumpkin mixture over ice cream .
+PREDID: 0
+PRED: pour
+  DOBJ: pumpkin mixture
+  PARG: ice cream
+    PREP: over
+
+
+SENTID: 11
+SENT: Freeze at least 2 hours before serving .
+PREDID: 0
+PRED: freeze
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+
+
+SENTID: 12
+SENT: Garnish with whipped topping and crushed gingersnaps if desired .
+PREDID: 0
+PRED: garnish
+  PARG: whipped topping, crushed gingersnaps
+    PREP: with
+  PARG: desired
+    PREP: if
+

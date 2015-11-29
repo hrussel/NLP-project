@@ -1,0 +1,112 @@
+T1	predicate 0 5	Place
+T2	arg_object 6 18	the potatoes
+R1	object Arg1:T1 Arg2:T2	
+T4	predicate 40 45	cover
+T7	predicate 192 197	Drain
+T8	arg_object 198 210	the potatoes
+T9	predicate 216 229	allow to cool
+T10	arg_duration 230 249	to room temperature
+T11	predicate 269 274	Place
+T12	arg_object 275 284	the bacon
+T13	arg_location 288 309	a large, deep skillet
+T14	predicate 315 319	cook
+T15	arg_duration 174 190	about 15 minutes
+T18	arg_duration 387 403	about 10 minutes
+T19	predicate 405 410	Drain
+T20	arg_object 411 427	the bacon slices
+T22	predicate 477 484	crumble
+T23	arg_object 485 494	the bacon
+T25	predicate 514 519	Place
+T26	arg_object 520 539	the cooled potatoes
+T28	predicate 574 580	mix in
+T29	arg_object 581 595	the sour cream
+T30	arg_object 597 607	mayonnaise
+T31	arg_object 609 623	Cheddar cheese
+T32	arg_object 625 631	chives
+T33	arg_object 633 637	salt
+T34	arg_object 643 649	pepper
+R6	object Arg1:T28 Arg2:T29	
+R7	object Arg1:T28 Arg2:T30	
+R8	object Arg1:T28 Arg2:T31	
+R9	object Arg1:T28 Arg2:T32	
+R10	object Arg1:T28 Arg2:T33	
+R11	object Arg1:T28 Arg2:T33	
+R12	object Arg1:T28 Arg2:T34	
+T35	predicate 651 662	Refrigerate
+T36	arg_duration 256 267	once cooled
+T37	arg_duration 663 672	overnight
+T39	predicate 458 471	Allow to cool
+T38	predicate 73 88	Bring to a boil
+T41	arg_other 89 103	over high heat
+T44	predicate 251 255	Dice
+T45	arg_other 320 341	over medium-high heat
+T46	arg_other 343 363	turning occasionally
+R13	other Arg1:T14 Arg2:T45	
+R14	other Arg1:T14 Arg2:T46	
+R16	duration Arg1:T14 Arg2:T18	
+R17	object Arg1:T11 Arg2:T12	
+R18	location Arg1:T11 Arg2:T13	
+R19	object Arg1:T39 Arg2:T19	
+T48	Evolution 411 427	the bacon slices
+E2	Evolution:T48 Cause:T14
+T49	Evolution 485 494	the bacon
+E3	Evolution:T49 Cause:T39
+T50	Evolution 520 539	the cooled potatoes
+E4	Evolution:T50 Cause:T44
+R20	other Arg1:T38 Arg2:T41	
+R22	object Arg1:T7 Arg2:T8	
+R23	duration Arg1:T9 Arg2:T10	
+T47	Evolution 198 210	the potatoes
+E1	Evolution:T47 Cause:T62
+R24	object Arg1:T44 Arg2:T9	
+R25	duration Arg1:T44 Arg2:T36	
+R27	object Arg1:T19 Arg2:T20	
+R28	object Arg1:T22 Arg2:T23	
+R30	object Arg1:T25 Arg2:T26	
+R32	duration Arg1:T35 Arg2:T37	
+R34	object Arg1:T35 Arg2:T28	
+R35	co-object Arg1:T28 Arg2:T25	
+R36	object Arg1:T4 Arg2:T1	
+R37	object Arg1:T38 Arg2:T4	
+R40	object Arg1:T9 Arg2:T7	
+R41	object Arg1:T14 Arg2:T11	
+T3	arg_location 19 35	into a large pot
+R2	location Arg1:T1 Arg2:T3	
+T5	arg_co-object 46 71	with lightly salted water
+R3	co-object Arg1:T4 Arg2:T5	
+T17	arg_duration 365 385	until evenly browned
+R15	duration Arg1:T14 Arg2:T17	
+T6	arg_duration 155 172	until just tender
+T27	arg_location 540 568	into the bowl with the bacon
+R31	location Arg1:T25 Arg2:T27	
+T52	ingredient 6 18	the potatoes
+T54	ingredient 275 284	the bacon
+T53	ingredient 581 595	the sour cream
+T55	ingredient 597 607	mayonnaise
+T56	ingredient 609 623	Cheddar cheese
+T57	ingredient 625 631	chives
+T58	ingredient 633 637	salt
+T59	ingredient 643 649	pepper
+T60	ingredient 51 71	lightly salted water
+R43	co-object Arg1:T19 Arg2:T14	
+T42	predicate 110 116	reduce
+R21	co-object Arg1:T42 Arg2:T38	
+T61	arg_object 117 121	heat
+R38	object Arg1:T42 Arg2:T61	
+T43	arg_other 122 135	to medium-low
+R39	other Arg1:T42 Arg2:T43	
+T16	predicate 137 142	cover
+T62	predicate 148 154	simmer
+R4	object Arg1:T16 Arg2:T42	
+R5	object Arg1:T62 Arg2:T16	
+R42	duration Arg1:T62 Arg2:T6	
+R44	duration Arg1:T62 Arg2:T15	
+R45	co-object Arg1:T7 Arg2:T62	
+T21	arg_location 428 456	on a paper towel-lined plate
+R26	location Arg1:T19 Arg2:T21	
+T24	arg_location 495 512	into a large bowl
+R29	location Arg1:T22 Arg2:T24	
+T40	predicate 680 687	serving
+R33	object Arg1:T40 Arg2:T35	
+R46	same-location Arg1:T27 Arg2:T24	
+R47	co-object Arg1:T25 Arg2:T22	

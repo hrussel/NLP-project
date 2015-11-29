@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a medium baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a medium baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Place macaroni in the pot , cook for 8 to 10 minutes , until al dente , and drain .
+PREDID: 0
+PRED: place
+  DOBJ: macaroni
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 4
+SENT: In the baking dish , mix the cooked macaroni , Colby-Jack cheese , Cheddar cheese , white Cheddar cheese , and tomatoes with juice .
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked macaroni , colby-jack cheese , cheddar cheese , white cheddar cheese , tomatoes
+  PARG: the baking dish
+    PREP: in
+  PARG: juice
+    PREP: with
+
+
+SENTID: 5
+SENT: Sprinkle bread crumbs evenly over top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: bread crumbs
+  PARG: top
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Bake 30 minutes in the preheated oven , until bubbly and lightly brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbly, lightly brown
+    PREP: until
+  OARG: 30 minutes
+

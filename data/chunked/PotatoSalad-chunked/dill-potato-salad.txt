@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool , peel and chill .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chill
+
+
+SENTID: 3
+SENT: Meanwhile , in a medium bowl combine sour cream , dill , parsley , Dijon , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: sour cream , dill , parsley , dijon , salt, pepper
+  PARG: a medium bowl
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Pour dressing over potatoes and toss gently .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: gently
+
+
+SENTID: 5
+SENT: Chill before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Heat the oil in a soup pot set over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a soup pot
+    PREP: in
+
+PREDID: 1
+PRED: set
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the ground beef , garlic , and onion .
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef , garlic , onion
+
+
+SENTID: 2
+SENT: Cook , stirring to crumble the ground beef , until beef is no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: beef is no longer pink
+    PREP: until
+  OARG: to crumble the ground beef
+
+
+SENTID: 3
+SENT: Drain off any excess grease .
+PREDID: 0
+PRED: drain
+  PARG: any excess grease
+    PREP: off
+
+
+SENTID: 4
+SENT: Season with salt , pepper , nutmeg , beef bouillon , and chili powder .
+PREDID: 0
+PRED: season
+  PARG: salt , pepper , nutmeg , beef bouillon , chili powder
+    PREP: with
+
+
+SENTID: 5
+SENT: Add the sugar , tomatoes , light and dark kidney beans and potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: the sugar , tomatoes , light, dark kidney beans, potatoes
+
+
+SENTID: 6
+SENT: Cover and simmer over medium-low heat for 1 hour , stirring occasionally .
+PREDID: 0
+PRED: cover
+  PARG: medium-low heat
+    PREP: over
+
+PREDID: 1
+PRED: simmer
+  PARG: 1 hour , stirring
+    PREP: for
+  OARG: occasionally
+

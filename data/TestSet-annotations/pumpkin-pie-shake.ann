@@ -1,0 +1,28 @@
+T1	predicate 0 7	Combine
+T2	predicate 81 86	blend
+T3	predicate 101 105	Pour
+T4	predicate 120 123	top
+T5	predicate 168 173	serve
+T6	arg_object 8 27	the evaporated milk
+T7	arg_object 29 38	ice cream
+T8	arg_object 44 63	pumpkin pie filling
+T9	arg_location 64 76	in a blender
+T10	ingredient 8 27	the evaporated milk
+T11	ingredient 29 38	ice cream
+T12	ingredient 44 63	pumpkin pie filling
+R1	object Arg1:T1 Arg2:T6	
+R2	object Arg1:T1 Arg2:T7	
+R3	object Arg1:T1 Arg2:T8	
+R4	location Arg1:T1 Arg2:T9	
+R5	object Arg1:T2 Arg2:T1	
+T13	arg_duration 87 99	until smooth
+R6	duration Arg1:T2 Arg2:T13	
+R7	object Arg1:T3 Arg2:T2	
+T14	arg_location 106 118	into a glass
+R8	location Arg1:T3 Arg2:T14	
+R9	object Arg1:T4 Arg2:T3	
+T15	arg_co-object 124 164	with whipped topping and ground cinnamon
+T16	ingredient 129 144	whipped topping
+T17	ingredient 149 164	ground cinnamon
+R10	object Arg1:T5 Arg2:T4	
+R11	co-object Arg1:T4 Arg2:T15	

@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: Stir yogurt , mayonnaise , vinegar , and honey together in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: yogurt , mayonnaise , vinegar , honey
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Add coleslaw mix and toss to coat .
+PREDID: 0
+PRED: add
+  DOBJ: coleslaw mix
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover bowl with plastic wrap and refrigerate until chilled , about 1 hour .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: chilled , about 1 hour
+    PREP: until
+

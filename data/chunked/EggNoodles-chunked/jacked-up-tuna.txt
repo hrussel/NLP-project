@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add the egg noodles , and cook until tender , about 6 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 6 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: While the noodles are cooking , mix together the sour cream , milk , garlic and salt ;
+PREDID: 0
+PRED: mix
+  DOBJ: the sour cream , milk , garlic, salt
+  PARG: the noodles are cooking
+    PREP: while
+  OARG: together
+
+
+SENTID: 4
+SENT: taste and adjust seasoning if desired .
+PREDID: 0
+PRED: taste
+  DOBJ: seasoning
+
+PREDID: 1
+PRED: adjust
+  PARG: desired
+    PREP: if
+
+
+SENTID: 5
+SENT: Stir into drained noodles along with peas and tuna .
+PREDID: 0
+PRED: stir
+  PARG: drained noodles
+    PREP: into
+  PARG: with peas, tuna
+    PREP: along
+
+
+SENTID: 6
+SENT: Heat through over low heat , and serve .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+  PARG: low heat
+    PREP: over
+
+PREDID: 1
+PRED: serve
+

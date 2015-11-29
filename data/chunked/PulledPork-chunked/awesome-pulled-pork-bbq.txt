@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Place pork in a slow cooker and season to taste with garlic powder , poultry seasoning , salt , and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: garlic powder , poultry seasoning , salt , pepper
+    PREP: with
+
+
+SENTID: 1
+SENT: Add quartered onion , apple , and 3 celery stalks .
+PREDID: 0
+PRED: add
+  DOBJ: quartered onion , apple , 3 celery stalks
+
+
+SENTID: 2
+SENT: Pour chicken broth into slow cooker .
+PREDID: 0
+PRED: pour
+  DOBJ: chicken broth
+  PARG: slow cooker
+    PREP: into
+
+
+SENTID: 3
+SENT: Cook on Low until very tender , about 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: very tender , about 8 hours
+    PREP: until
+
+
+SENTID: 4
+SENT: Transfer pork to a large platter and discard juice and vegetables .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a large platter
+    PREP: to
+
+PREDID: 1
+PRED: discard
+  DOBJ: juice, vegetables
+
+
+SENTID: 5
+SENT: Shred pork with a fork and return to the slow cooker .
+PREDID: 0
+PRED: shred
+  DOBJ: pork
+  PARG: a fork
+    PREP: with
+
+PREDID: 1
+PRED: return
+  PARG: the slow cooker
+    PREP: to
+
+
+SENTID: 6
+SENT: Prepare barbecue sauce while pork is cooking .
+PREDID: 0
+PRED: prepare
+  DOBJ: barbecue sauce
+  PARG: pork is cooking
+    PREP: while
+
+
+SENTID: 7
+SENT: Melt butter in a large saucepan or small Dutch oven over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan or small dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: cook and stir 2 cups celery and 1Ê1/2 cups onion until onion is translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: 2 cups celery, 1Ê1/2 cups onion
+
+PREDID: 1
+PRED: stir
+  PARG: onion is translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Add ketchup , water , vinegar , brown sugar , Worcestershire sauce , mustard , liquid smoke , and 1 tablespoon garlic powder ;
+PREDID: 0
+PRED: add
+  DOBJ: ketchup , water , vinegar , brown sugar , worcestershire sauce , mustard , liquid smoke , 1 tablespoon garlic powder
+
+
+SENTID: 10
+SENT: mix .
+PREDID: 0
+PRED: mix
+
+
+SENTID: 11
+SENT: Reduce heat to low and simmer , stirring occasionally , until sauce is thickened , about 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  DOBJ: stirring
+  PARG: sauce is thickened , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 12
+SENT: Pour barbecue sauce over shredded pork .
+PREDID: 0
+PRED: pour
+  DOBJ: barbecue sauce
+  PARG: shredded pork
+    PREP: over
+
+
+SENTID: 13
+SENT: Continue cooking pork on Low heat until flavors combine , about 2 hours .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking pork
+  PARG: low heat
+    PREP: on
+  PARG: flavors
+    PREP: until
+
+PREDID: 1
+PRED: combine
+  PARG: 2 hours
+    PREP: about
+

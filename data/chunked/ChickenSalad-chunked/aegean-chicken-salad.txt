@@ -1,0 +1,26 @@
+SENTID: 0
+SENT: Break up chicken in a large bowl using a fork .
+PREDID: 0
+PRED: break
+  DOBJ: using a fork
+  PARG: a large bowl
+    PREP: in
+  OARG: up
+  OARG: chicken
+
+
+SENTID: 1
+SENT: Stir in onion , lemon juice , yogurt , hummus , olives , red bell pepper , and dill .
+PREDID: 0
+PRED: stir
+  PARG: onion , lemon juice , yogurt , hummus , olives , red bell pepper , dill
+    PREP: in
+
+
+SENTID: 2
+SENT: Sprinkle with feta cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: feta cheese
+    PREP: with
+

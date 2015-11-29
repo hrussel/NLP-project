@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add red potatoes , and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: red potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool and chop into 1 inch cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  PARG: 1 inch cubes
+    PREP: into
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 3
+SENT: Place in a medium bowl .
+PREDID: 0
+PRED: place
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Place eggs in a medium saucepan , and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 5
+SENT: Bring water to a boil , and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 6
+SENT: Cover , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove from hot water , cool , peel and dice .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: dice
+
+
+SENTID: 8
+SENT: In a small bowl , whisk together mayonnaise , milk , distilled white vinegar , green onions , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , milk , distilled white vinegar , green onions , salt, pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Pour the mixture over the potatoes , and mix together with the eggs and celery .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the potatoes
+    PREP: over
+
+PREDID: 1
+PRED: mix
+  PARG: the eggs, celery
+    PREP: with
+  OARG: together
+
+
+SENTID: 10
+SENT: Cover , and chill in the refrigerator approximately 2 hours before serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: approximately
+  OARG: 2 hours
+

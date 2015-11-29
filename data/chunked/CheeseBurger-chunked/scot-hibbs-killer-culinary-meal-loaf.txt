@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees C -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees c -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place carrots , potato , celery , pepper , and garlic into a food processor , and puree to a wet paste .
+PREDID: 0
+PRED: place
+  DOBJ: carrots , potato , celery , pepper , garlic
+  PARG: a food processor
+    PREP: into
+
+PREDID: 1
+PRED: puree
+  PARG: a wet paste
+    PREP: to
+
+
+SENTID: 2
+SENT: Add eggs , mustard , and tomato paste , and process for another few seconds .
+PREDID: 0
+PRED: add
+  DOBJ: eggs , mustard , tomato paste
+
+PREDID: 1
+PRED: process
+  PARG: another few seconds
+    PREP: for
+
+
+SENTID: 3
+SENT: Place the ground beef in a large mixing bowl , and add pureed vegetable mixture , thyme , basil , rosemary , cayenne pepper , and salt and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a large mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: pureed vegetable mixture , thyme , basil , rosemary , cayenne pepper , salt, pepper
+
+
+SENTID: 4
+SENT: Knead together until thoroughly mixed .
+PREDID: 0
+PRED: knead
+  PARG: thoroughly mixed
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Form into two loaves , and place in a 9x13 inch baking dish .
+PREDID: 0
+PRED: form
+  PARG: two loaves
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Bake for 50 to 60 minutes , or until done .
+PREDID: 0
+PRED: bake
+  PARG: 50 to 60 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+
+
+SENTID: 7
+SENT: Allow to cool for 10 minutes before slicing .
+PREDID: 0
+PRED: allow
+  PARG: 10 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+  OARG: to cool
+

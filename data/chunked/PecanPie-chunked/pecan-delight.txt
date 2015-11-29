@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Beat egg whites until slightly stiff .
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: slightly stiff
+    PREP: until
+
+
+SENTID: 1
+SENT: Add sugar , vanilla , baking powder , Ritz crackers and pecans .
+PREDID: 0
+PRED: add
+  DOBJ: sugar , vanilla , baking powder , ritz crackers, pecans
+
+
+SENTID: 2
+SENT: Mix well , and pour into greased 9 inch pie plate .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: pour
+  PARG: greased 9 inch pie plate
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 minutes exactly .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 25 minutes
+    PREP: for
+  OARG: exactly
+
+
+SENTID: 4
+SENT: Allow pie to cool to room temperature , and then cover with nondairy whipped topping .
+PREDID: 0
+PRED: allow
+  DOBJ: pie
+  PARG: room temperature
+    PREP: to
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: cover
+  PARG: nondairy whipped topping
+    PREP: with
+
+
+SENTID: 5
+SENT: Refrigerate for 2 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: 2 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

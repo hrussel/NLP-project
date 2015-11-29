@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Mix ground beef , feta cheese , goat cheese , 2 tablespoons lemon juice , olive oil , oregano , and garlic together in a large bowl using your hands .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , feta cheese , goat cheese , 2 tablespoons lemon juice , olive oil , oregano , garlic
+  PARG: a large bowl using your hands
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Form meat into 4 patties .
+PREDID: 0
+PRED: form
+  DOBJ: meat
+  PARG: 4 patties
+    PREP: into
+
+
+SENTID: 2
+SENT: Stir Greek yogurt , cucumber , and 3 tablespoons lemon juice together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: greek yogurt , cucumber , 3 tablespoons lemon juice
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Heat a frying pan over medium heat for about 2 minutes ;
+PREDID: 0
+PRED: heat
+  DOBJ: a frying pan
+  PARG: medium heat
+    PREP: over
+  PARG: about 2 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: cook burgers to desired degree of doneness , about 5 minutes per side .
+PREDID: 0
+PRED: cook
+  DOBJ: burgers
+  PARG: desired degree of doneness
+    PREP: to
+  PARG: 5 minutes
+    PREP: about
+  PARG: side
+    PREP: per
+
+
+SENTID: 5
+SENT: Serve with yogurt sauce .
+PREDID: 0
+PRED: serve
+  PARG: yogurt sauce
+    PREP: with
+

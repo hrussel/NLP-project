@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Melt butter in a large skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir sunflower kernels and ramen noodles in hot butter until sunflower kernels are lightly browned and fragrant , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: sunflower kernels, ramen noodles
+
+PREDID: 1
+PRED: stir
+  PARG: hot butter
+    PREP: in
+  PARG: sunflower kernels are lightly browned, fragrant , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from heat and transfer into a bowl to cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  PARG: a bowl
+    PREP: into
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Stir sunflower seeds and ramen noodles with napa cabbage and spring onions in a large salad bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: sunflower seeds, ramen noodles
+  PARG: napa cabbage, spring onions
+    PREP: with
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Whisk vinegar , vegetable oil , sugar , and soy sauce together in a separate bowl until sugar has dissolved ;
+PREDID: 0
+PRED: whisk
+  DOBJ: vinegar , vegetable oil , sugar , soy sauce
+  PARG: a separate bowl
+    PREP: in
+  PARG: sugar has dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: pour dressing over salad and toss .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+

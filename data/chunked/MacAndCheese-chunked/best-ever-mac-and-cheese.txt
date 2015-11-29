@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , stir in the macaroni , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the macaroni
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta uncovered , stirring occasionally , until macaroni is cooked through but still slightly firm , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: macaroni is cooked through but still slightly firm , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 5
+SENT: Combine the cottage cheese , sour cream , butter , and cooked macaroni in a large baking dish .
+PREDID: 0
+PRED: combine
+  DOBJ: the cottage cheese , sour cream , butter , cooked macaroni
+  PARG: a large baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in the Cheddar cheese .
+PREDID: 0
+PRED: stir
+  PARG: the cheddar cheese
+    PREP: in
+
+
+SENTID: 7
+SENT: Arrange the tomatoes on top , then pour the tomato liquid over the casserole .
+PREDID: 0
+PRED: arrange
+  DOBJ: the tomatoes
+  PARG: top
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: the tomato liquid
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 8
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in the preheated oven for 20 minutes , then mix the macaroni and cheese thoroughly .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: mix
+  DOBJ: the macaroni, cheese
+  OARG: thoroughly
+
+
+SENTID: 10
+SENT: Continue to bake until lightly browned and bubbly , about 15 minutes more .
+PREDID: 0
+PRED: continue
+  PARG: lightly browned, bubbly , about 15 minutes more
+    PREP: until
+  OARG: to bake
+

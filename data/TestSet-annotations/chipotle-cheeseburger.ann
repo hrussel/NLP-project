@@ -1,0 +1,114 @@
+T1	predicate 16 20	stir
+T2	predicate 101 106	cover
+T3	predicate 111 122	refrigerate
+T4	arg_location 0 14	In medium bowl
+R1	location Arg1:T1 Arg2:T4	
+T5	arg_object 30 40	mayonnaise
+T6	arg_object 42 64	1 tbsp. chipotle sauce
+T7	arg_object 66 79	1 tsp. garlic
+T8	arg_object 81 89	cilantro
+T9	arg_object 94 99	adobo
+T10	ingredient 30 40	mayonnaise
+T11	ingredient 42 64	1 tbsp. chipotle sauce
+T12	ingredient 66 79	1 tsp. garlic
+T13	ingredient 81 89	cilantro
+T14	ingredient 94 99	adobo
+T15	arg_other 21 29	together
+R2	other Arg1:T1 Arg2:T15	
+R3	object Arg1:T1 Arg2:T5	
+R4	object Arg1:T1 Arg2:T6	
+R5	object Arg1:T1 Arg2:T7	
+R6	object Arg1:T1 Arg2:T8	
+R7	object Arg1:T1 Arg2:T9	
+R8	object Arg1:T2 Arg2:T1	
+R9	object Arg1:T3 Arg2:T2	
+T16	arg_duration 123 141	until ready to use
+R10	duration Arg1:T3 Arg2:T16	
+T17	predicate 165 168	mix
+T18	predicate 269 275	Divide
+T19	predicate 298 302	form
+T20	predicate 391 398	Prepare
+T21	predicate 426 432	grease
+T22	predicate 497 501	Cook
+T23	predicate 613 616	Add
+T24	predicate 694 700	divide
+T25	predicate 735 738	top
+T26	predicate 791 797	spread
+T27	arg_location 143 156	In large bowl
+R11	location Arg1:T17 Arg2:T27	
+T28	arg_other 158 164	gently
+R12	other Arg1:T17 Arg2:T28	
+T29	arg_other 169 177	together
+R13	other Arg1:T17 Arg2:T29	
+T30	arg_object 178 182	beef
+T31	arg_object 184 200	chopped chipotle
+T32	arg_object 202 224	3 tbsp. chipotle sauce
+T33	arg_object 226 242	remaining garlic
+T34	arg_object 247 252	adobo
+T35	arg_duration 253 267	until combined
+T36	ingredient 178 182	beef
+T37	ingredient 184 200	chopped chipotle
+T38	ingredient 202 224	3 tbsp. chipotle sauce
+T39	ingredient 226 242	remaining garlic
+T40	ingredient 247 252	adobo
+R14	object Arg1:T17 Arg2:T30	
+R15	object Arg1:T17 Arg2:T31	
+R16	object Arg1:T17 Arg2:T32	
+R17	object Arg1:T17 Arg2:T33	
+R18	object Arg1:T17 Arg2:T34	
+R19	duration Arg1:T17 Arg2:T35	
+T41	arg_object 276 280	meat
+T42	Evolution 276 280	meat
+E1	Evolution:T42 Cause:T17
+R20	object Arg1:T18 Arg2:T41	
+T43	arg_other 281 296	into 6 portions
+R21	other Arg1:T18 Arg2:T43	
+R22	object Arg1:T19 Arg2:T18	
+T44	arg_other 303 328	into 1 inch-thick patties
+R23	other Arg1:T19 Arg2:T44	
+T45	arg_object 399 404	grill
+T46	arg_other 405 424	to medium-high heat
+R24	object Arg1:T20 Arg2:T45	
+R25	other Arg1:T20 Arg2:T46	
+R26	object Arg1:T21 Arg2:T20	
+T47	arg_co-object 433 441	with oil
+R27	co-object Arg1:T21 Arg2:T47	
+T48	ingredient 438 441	oil
+T49	arg_object 502 509	burgers
+R28	object Arg1:T22 Arg2:T49	
+T50	Evolution 502 509	burgers
+E2	Evolution:T50 Cause:T19
+T51	arg_duration 526 611	until charred and cooked to desired doneness (about 12 minutes total for medium rare)
+T52	arg_other 511 524	flipping once
+R29	other Arg1:T22 Arg2:T52	
+R30	duration Arg1:T22 Arg2:T51	
+T53	arg_object 617 623	cheese
+T54	ingredient 617 623	cheese
+T55	arg_co-object 624 634	to patties
+T56	Evolution 627 634	patties
+E3	Evolution:T56 Cause:T22
+R31	object Arg1:T23 Arg2:T53	
+R32	co-object Arg1:T23 Arg2:T55	
+T57	arg_duration 635 679	about 5 minutes before taking them off grill
+R33	duration Arg1:T23 Arg2:T57	
+T58	arg_object 701 708	patties
+T59	Evolution 701 708	patties
+E4	Evolution:T59 Cause:T23
+R34	object Arg1:T24 Arg2:T58	
+T60	arg_other 709 715	evenly
+R35	other Arg1:T24 Arg2:T60	
+T61	arg_co-object 716 733	among bottom buns
+R36	co-object Arg1:T24 Arg2:T61	
+T62	ingredient 722 733	bottom buns
+R37	object Arg1:T25 Arg2:T24	
+T63	arg_co-object 739 790	with onion slice, tomato slice, lettuce and top bun
+R38	co-object Arg1:T25 Arg2:T63	
+T64	ingredient 744 755	onion slice
+T65	ingredient 757 769	tomato slice
+T66	ingredient 771 778	lettuce
+T67	ingredient 783 790	top bun
+R39	object Arg1:T26 Arg2:T25	
+T68	arg_co-object 798 831	with reserved chipotle mayonnaise
+R40	co-object Arg1:T26 Arg2:T68	
+T69	Evolution 803 831	reserved chipotle mayonnaise
+E5	Evolution:T69 Cause:T3

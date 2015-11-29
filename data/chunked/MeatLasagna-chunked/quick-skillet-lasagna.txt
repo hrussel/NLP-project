@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Cook pasta according to package directions ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Meanwhile , cook Johnsonville ¨ Mild Italian Ground Sausage in a 10-inch nonstick skillet until meat is brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: johnsonville ¨ mild italian ground sausage
+  PARG: a 10-inch nonstick skillet
+    PREP: in
+  PARG: meat is brown
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Set meat aside .
+PREDID: 0
+PRED: set
+  DOBJ: meat
+  OARG: aside
+
+
+SENTID: 5
+SENT: Wipe skillet with paper towel .
+PREDID: 0
+PRED: wipe
+  DOBJ: skillet
+  PARG: paper towel
+    PREP: with
+
+
+SENTID: 6
+SENT: Spread about half of the cooked pasta in the skillet .
+PREDID: 0
+PRED: spread
+  PARG: half of the cooked pasta
+    PREP: about
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 7
+SENT: Cover with about half of the Classico ¨ Tomato and Basil pasta sauce .
+PREDID: 0
+PRED: cover
+  PARG: about half of the classico ¨ tomato, basil pasta sauce
+    PREP: with
+
+
+SENTID: 8
+SENT: Spoon cooked meat over Classico ¨ Tomato and Basil pasta sauce .
+PREDID: 0
+PRED: spoon
+  DOBJ: cooked meat
+  PARG: classico ¨ tomato, basil pasta sauce
+    PREP: over
+
+
+SENTID: 9
+SENT: Sprinkle with 1 cup of the mozzarella cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1 cup of the mozzarella cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Top with remaining pasta and sauce .
+PREDID: 0
+PRED: top
+  PARG: remaining pasta, sauce
+    PREP: with
+
+
+SENTID: 11
+SENT: Sprinkle remaining mozzarella and Parmesan cheese over top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining mozzarella, parmesan cheese
+  PARG: top
+    PREP: over
+
+
+SENTID: 12
+SENT: Cook , covered , over medium heat for 5 to 7 minutes or until heated through and cheese melts .
+PREDID: 0
+PRED: cook
+  DOBJ: covered
+  PARG: medium heat
+    PREP: over
+  PARG: 5 to 7 minutes
+    PREP: for
+  PARG: heated through, cheese melts
+    PREP: until
+
+
+SENTID: 13
+SENT: Remove skillet from heat and let stand , covered , for 1 minute .
+PREDID: 0
+PRED: remove
+  DOBJ: skillet
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: stand , covered
+  PARG: 1 minute
+    PREP: for
+

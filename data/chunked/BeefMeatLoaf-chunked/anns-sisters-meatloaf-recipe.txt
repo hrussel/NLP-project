@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl combine the beef , eggs , crumbs , ketchup , MSG , water and soup mix .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , eggs , crumbs , ketchup , msg , water, soup mix
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well and spoon mixture into loaf pan .
+PREDID: 0
+PRED: mix
+  DOBJ: mixture
+  OARG: well
+
+PREDID: 1
+PRED: spoon
+  PARG: loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Cover with 2 strips of bacon , then cover with tomato sauce .
+PREDID: 0
+PRED: cover
+  PARG: 2 strips of bacon
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: cover
+  PARG: tomato sauce
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+

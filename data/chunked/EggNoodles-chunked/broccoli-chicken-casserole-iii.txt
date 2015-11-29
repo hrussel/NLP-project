@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , combine the sour cream , Parmesan cheese , Cheddar cheese , salt , pepper and garlic and mix together .
+PREDID: 0
+PRED: combine
+  DOBJ: the sour cream , parmesan cheese , cheddar cheese , salt , pepper, garlic
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: together
+
+
+SENTID: 2
+SENT: In a large bowl , stir butter into noodles , then stir in sour cream mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: butter
+  PARG: a large bowl
+    PREP: in
+  PARG: noodles
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: sour cream mixture
+    PREP: in
+
+
+SENTID: 3
+SENT: In a third large bowl combine the chicken , soup , olives , and broccoli and mix together ;
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , soup , olives , broccoli
+  PARG: a third large bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: together
+
+
+SENTID: 4
+SENT: add this mixture to the noodle mixture and mix all together .
+PREDID: 0
+PRED: add
+  DOBJ: this mixture
+  PARG: the noodle mixture
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  DOBJ: all together
+
+
+SENTID: 5
+SENT: Spread mixture into a 9x13 inch baking dish and sprinkle with curry powder .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: curry powder
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake at 325 degrees F -LRB- 165 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+

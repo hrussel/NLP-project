@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread cooked egg noodles in a 9x13 inch baking dish and set aside .
+PREDID: 0
+PRED: spread
+  DOBJ: cooked egg noodles
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: In a large skillet over medium high heat , saute cubed chicken meat with onion for about 7 to 10 minutes , or until chicken is cooked through and no longer pink inside .
+PREDID: 0
+PRED: saute
+  DOBJ: cubed chicken meat
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: onion
+    PREP: with
+  PARG: about 7 to 10 minutes
+    PREP: for
+  PARG: chicken is cooked through, no longer pink inside
+    PREP: until
+
+
+SENTID: 3
+SENT: Add the soup , milk , peas and carrots and stir together .
+PREDID: 0
+PRED: add
+  DOBJ: the soup , milk , peas, carrots
+
+PREDID: 1
+PRED: stir
+  OARG: together
+
+
+SENTID: 4
+SENT: Season with salt and pepper , paprika and chili powder to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper , paprika, chili powder
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir until just bubbly and remove from heat .
+PREDID: 0
+PRED: stir
+  PARG: just bubbly
+    PREP: until
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 6
+SENT: Stir chicken mixture into noodles in baking dish until well combined ;
+PREDID: 0
+PRED: stir
+  DOBJ: chicken mixture
+  PARG: noodles
+    PREP: into
+  PARG: baking dish
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 7
+SENT: top with cheese slices , then bread cubes .
+PREDID: 0
+PRED: top
+  DOBJ: bread cubes
+  PARG: cheese slices
+    PREP: with
+  OARG: then
+
+
+SENTID: 8
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for about 30 minutes or until bread is toasted ;
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: about 30 minutes
+    PREP: for
+  PARG: bread is toasted
+    PREP: until
+
+
+SENTID: 9
+SENT: serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

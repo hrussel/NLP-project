@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Chop 1 peach into 1/2 inch pieces ;
+PREDID: 0
+PRED: chop
+  DOBJ: 1 peach
+  PARG: 1/2 inch pieces
+    PREP: into
+
+
+SENTID: 1
+SENT: place in large bowl .
+PREDID: 0
+PRED: place
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Add chicken and onion ;
+PREDID: 0
+PRED: add
+  DOBJ: chicken, onion
+
+
+SENTID: 3
+SENT: toss with enough dressing to coat .
+PREDID: 0
+PRED: toss
+  PARG: enough dressing
+    PREP: with
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Add greens and walnuts to bowl and toss to coat .
+PREDID: 0
+PRED: add
+  DOBJ: greens, walnuts
+  PARG: bowl
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 5
+SENT: Mound salad on large plate .
+PREDID: 0
+PRED: mound
+  DOBJ: salad
+  PARG: large plate
+    PREP: on
+
+
+SENTID: 6
+SENT: Cut remaining peach in thin wedges and place on top to garnish .
+PREDID: 0
+PRED: cut
+  DOBJ: remaining peach
+  PARG: thin wedges
+    PREP: in
+
+PREDID: 1
+PRED: place
+  PARG: top
+    PREP: on
+  PARG: garnish
+    PREP: to
+

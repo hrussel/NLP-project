@@ -1,0 +1,53 @@
+T1	arg_location 0 36	In a large saucepan over medium heat
+T2	predicate 38 45	combine
+T3	arg_object 46 61	the ground beef
+T4	arg_object 66 75	the onion
+T5	predicate 80 85	saute
+R1	object Arg1:T5 Arg2:T2	
+R2	object Arg1:T2 Arg2:T3	
+R3	object Arg1:T2 Arg2:T4	
+T6	arg_duration 86 147	for 10 minutes, or until meat is browned and onion is tender.
+R4	duration Arg1:T5 Arg2:T6	
+T7	predicate 148 153	Drain
+T8	arg_object 154 160	grease
+R5	object Arg1:T7 Arg2:T8	
+R6	co-object Arg1:T7 Arg2:T5	
+T9	predicate 174 177	Add
+T11	arg_object 203 214	garlic salt
+T12	arg_object 216 228	tomato sauce
+T13	arg_object 230 235	salsa
+T14	arg_object 237 256	chili seasoning mix
+T15	arg_object 261 273	kidney beans
+R7	co-object Arg1:T9 Arg2:T7	
+R9	object Arg1:T9 Arg2:T11	
+R10	object Arg1:T9 Arg2:T12	
+R11	object Arg1:T9 Arg2:T13	
+R12	object Arg1:T9 Arg2:T14	
+R13	object Arg1:T9 Arg2:T15	
+T16	arg_duration 279 283	well
+T17	predicate 275 278	Mix
+R14	duration Arg1:T17 Arg2:T16	
+R15	object Arg1:T17 Arg2:T9	
+T18	predicate 285 291	reduce
+T19	arg_object 292 296	heat
+R16	object Arg1:T18 Arg2:T19	
+T20	predicate 308 314	simmer
+T22	arg_duration 315 335	for at least an hour
+R19	duration Arg1:T20 Arg2:T22	
+R18	object Arg1:T20 Arg2:T18	
+R20	co-object Arg1:T18 Arg2:T17	
+T21	arg_duration 297 303	to low
+R17	duration Arg1:T18 Arg2:T21	
+R21	location Arg1:T2 Arg2:T1	
+T23	ingredient 46 61	the ground beef
+T24	ingredient 66 75	the onion
+T25	ingredient 178 201	the ground black pepper
+T26	ingredient 203 214	garlic salt
+T27	ingredient 216 228	tomato sauce
+T28	ingredient 230 235	salsa
+T29	ingredient 237 256	chili seasoning mix
+T30	ingredient 261 273	kidney beans
+T31	Evolution 154 160	grease
+E1	Evolution:T31 Cause:T5
+T10	arg_object 178 201	the ground black pepper
+R8	object Arg1:T9 Arg2:T10	

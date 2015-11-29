@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well in a colander set in the sink , and rinse with cold water .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 5
+SENT: Place the bacon into a Dutch oven or enameled casserole dish over medium heat , and cook until just starting to soften , 3 to 4 minutes ;
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a dutch oven or enameled casserole dish
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: just starting to soften , 3 to 4 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: add the ground beef , onion , and green pepper , and cook and stir until the meat is browned and the vegetables are tender , about 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef , onion , green pepper
+
+PREDID: 1
+PRED: cook
+  PARG: the meat is browned, the vegetables are tender , about 10 minutes
+    PREP: until
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 7
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 8
+SENT: Mix in the cooked noodles , mushrooms , and diced tomatoes until thoroughly combined .
+PREDID: 0
+PRED: mix
+  PARG: the cooked noodles , mushrooms , diced tomatoes
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 9
+SENT: Sprinkle the Parmesan cheese over the mixture , and pour the tomato juice over the casserole .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the parmesan cheese
+  PARG: the mixture
+    PREP: over
+
+PREDID: 1
+PRED: pour
+  DOBJ: the tomato juice
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until browned and bubbling , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: browned, bubbling , about 1 hour
+    PREP: until
+

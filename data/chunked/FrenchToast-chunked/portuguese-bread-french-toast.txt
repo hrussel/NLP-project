@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk together the eggs , milk , sugar , cinnamon , nutmeg , and orange rind in a medium mixing bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , sugar , cinnamon , nutmeg , orange rind
+  PARG: a medium mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Cut the bread into seven or eight slices , and lay them , overlapping , in a large baking dish .
+PREDID: 0
+PRED: cut
+  DOBJ: the bread
+  PARG: seven or eight slices
+    PREP: into
+
+PREDID: 1
+PRED: lay
+  DOBJ: them , overlapping
+  PARG: a large baking dish
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour the egg mixture over the bread , covering every slice .
+PREDID: 0
+PRED: pour
+  DOBJ: covering every slice
+  PARG: the bread
+    PREP: over
+  OARG: the egg mixture
+
+
+SENTID: 4
+SENT: Dot the bread with the butter .
+PREDID: 0
+PRED: dot
+  DOBJ: the bread
+  PARG: the butter
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake the French toast in the oven for 35 to 45 minutes until the custard is set .
+PREDID: 0
+PRED: bake
+  DOBJ: the french toast
+  PARG: the oven
+    PREP: in
+  PARG: 35 to 45 minutes
+    PREP: for
+  PARG: the custard is set
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

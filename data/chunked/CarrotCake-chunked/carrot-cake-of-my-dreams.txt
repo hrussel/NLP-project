@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a fluted tube pan -LRB- such as Bundt ¨ -RRB- .
+PREDID: 0
+PRED: grease
+  DOBJ: a fluted tube pan -lrb- such
+  PARG: bundt ¨ -rrb-
+    PREP: as
+
+
+SENTID: 2
+SENT: Combine flour , white sugar , cinnamon , baking soda , baking powder , salt , and ginger in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , white sugar , cinnamon , baking soda , baking powder , salt , ginger
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Whisk drained pineapple , brown sugar , egg substitute , vegetable oil , and vanilla extract together in a separate bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: drained pineapple , brown sugar , egg substitute , vegetable oil , vanilla extract
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir pineapple mixture , carrots , zucchini , and raisins into flour mixture just until flour is moistened .
+PREDID: 0
+PRED: stir
+  DOBJ: pineapple mixture , carrots , zucchini , raisins
+  PARG: flour mixture
+    PREP: into
+  PARG: flour is moistened
+    PREP: until
+  OARG: just
+
+
+SENTID: 5
+SENT: Pour batter into the prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until a toothpick inserted in the cake comes out clean , 55 to 65 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the cake comes out clean , 55 to 65 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Cool in the pan for 10 minutes ;
+PREDID: 0
+PRED: cool
+  PARG: the pan
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: remove cake from pan and cool completely on a wire rack , about 30 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: cake
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: a wire rack
+    PREP: on
+  PARG: 30 minutes
+    PREP: about
+  OARG: completely
+
+
+SENTID: 9
+SENT: Whisk reserved pineapple juice , 1 tablespoon at a time , with confectioners ' sugar until a spreadable glaze forms .
+PREDID: 0
+PRED: whisk
+  DOBJ: reserved pineapple juice , 1 tablespoon
+  PARG: a time
+    PREP: at
+  PARG: confectioners ' sugar
+    PREP: with
+  PARG: a spreadable glaze forms
+    PREP: until
+
+
+SENTID: 10
+SENT: Drizzle over cooled cake .
+PREDID: 0
+PRED: drizzle
+  PARG: cooled cake
+    PREP: over
+

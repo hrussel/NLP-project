@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x5-inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5-inch loaf pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Press brown sugar in the bottom of prepared loaf pan and spread ketchup over sugar .
+PREDID: 0
+PRED: press
+  DOBJ: brown sugar
+  PARG: the bottom of prepared loaf pan
+    PREP: in
+
+PREDID: 1
+PRED: spread
+  DOBJ: ketchup
+  PARG: sugar
+    PREP: over
+
+
+SENTID: 3
+SENT: Mix ground beef , milk , eggs , salt , ground pepper , onion , ginger , bread crumbs , and parsley thoroughly in a mixing bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , milk , eggs , salt , ground pepper , onion , ginger , bread crumbs , parsley
+  PARG: a mixing bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Shape into a loaf and place on top of ketchup .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: top of ketchup
+    PREP: on
+
+
+SENTID: 5
+SENT: Bake in preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+

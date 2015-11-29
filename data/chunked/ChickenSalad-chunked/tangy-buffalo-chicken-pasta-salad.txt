@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the rotini
+  PARG: a boil
+    PREP: at
+  PARG: tender yet firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: Mix pasta , chicken , celery , roasted red pepper , and 1 tablespoon of reserved roasted red pepper juice in a salad bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: pasta , chicken , celery , roasted red pepper , 1 tablespoon of reserved roasted red pepper juice
+  PARG: a salad bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir mayonnaise , hot sauce , Gorgonzola cheese , and Worcestershire sauce together in a separate bowl until thoroughly combined .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , hot sauce , gorgonzola cheese , worcestershire sauce
+  PARG: a separate bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour dressing over pasta mixture and toss lightly to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: pasta mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: lightly
+
+
+SENTID: 6
+SENT: Chill before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+

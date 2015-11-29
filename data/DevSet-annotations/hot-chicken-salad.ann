@@ -1,0 +1,54 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 54	Combine
+T3	predicate 149 152	Mix
+T4	predicate 162 166	pour
+T5	predicate 202 205	Top
+T6	predicate 255 259	Bake
+T7	arg_duration 260 274	for 25 minutes
+T8	arg_duration 278 300	until cheese is melted
+R3	duration Arg1:T6 Arg2:T7	
+R4	duration Arg1:T6 Arg2:T8	
+T11	arg_other 153 157	well
+R6	other Arg1:T3 Arg2:T11	
+T14	arg_object 68 74	celery
+T15	arg_object 76 83	almonds
+T16	arg_object 85 96	bell pepper
+T17	arg_object 98 103	onion
+T18	arg_object 105 112	pimento
+T19	arg_object 114 118	salt
+T20	arg_object 120 131	lemon juice
+T21	arg_object 137 147	mayonnaise
+R8	object Arg1:T2 Arg2:T14	
+R9	object Arg1:T2 Arg2:T15	
+R10	object Arg1:T2 Arg2:T16	
+R11	object Arg1:T2 Arg2:T17	
+R12	object Arg1:T2 Arg2:T18	
+R13	object Arg1:T2 Arg2:T19	
+R14	object Arg1:T2 Arg2:T20	
+R15	object Arg1:T2 Arg2:T21	
+T22	arg_object 8 12	oven
+R16	object Arg1:T1 Arg2:T22	
+T23	arg_other 13 45	to 350 degrees F (175 degrees C)
+R17	other Arg1:T1 Arg2:T23	
+R18	object Arg1:T3 Arg2:T2	
+R19	object Arg1:T4 Arg2:T3	
+R20	object Arg1:T5 Arg2:T4	
+R21	object Arg1:T6 Arg2:T5	
+R22	location Arg1:T6 Arg2:T1	
+T24	arg_location 167 200	into a 1 1/2 quart casserole dish
+R5	location Arg1:T4 Arg2:T24	
+T25	ingredient 68 74	celery
+T26	ingredient 76 83	almonds
+T27	ingredient 85 96	bell pepper
+T28	ingredient 98 103	onion
+T29	ingredient 105 112	pimento
+T30	ingredient 114 118	salt
+T31	ingredient 120 131	lemon juice
+T32	ingredient 137 147	mayonnaise
+T9	arg_co-object 206 253	with grated cheese and the crushed potato chips
+R1	co-object Arg1:T5 Arg2:T9	
+T10	ingredient 211 224	grated cheese
+T33	ingredient 229 253	the crushed potato chips
+T12	arg_object 55 66	the chicken
+T13	ingredient 55 66	the chicken
+R2	object Arg1:T2 Arg2:T12	

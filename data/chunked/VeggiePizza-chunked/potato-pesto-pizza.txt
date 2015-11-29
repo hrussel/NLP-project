@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: Heat oven to 400 degrees F for dark or nonstick pan -LRB- 425 degrees F for all other pans -RRB- .
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 400 degrees f
+    PREP: to
+  PARG: dark or nonstick pan -lrb- 425 degrees f
+    PREP: for
+  PARG: all other pans -rrb-
+    PREP: for
+
+
+SENTID: 1
+SENT: Spray 15x10-inch pan with sides with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: 15x10-inch pan
+  PARG: sides
+    PREP: with
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Unroll dough in pan ;
+PREDID: 0
+PRED: unroll
+  DOBJ: dough
+  PARG: pan
+    PREP: in
+
+
+SENTID: 3
+SENT: starting at center , press dough into 15x10-inch rectangle .
+PREDID: 0
+PRED: press
+  DOBJ: starting
+  PARG: center
+    PREP: at
+  PARG: 15x10-inch rectangle
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake 4 to 6 minutes or until edges begin to set .
+PREDID: 0
+PRED: bake
+  PARG: edges begin to set
+    PREP: until
+  OARG: 4 to 6 minutes
+
+
+SENTID: 5
+SENT: In small bowl , stir 6 tablespoons of the pesto with the garlic .
+PREDID: 0
+PRED: stir
+  DOBJ: 6 tablespoons of the pesto
+  PARG: small bowl
+    PREP: in
+  PARG: the garlic
+    PREP: with
+
+
+SENTID: 6
+SENT: Spread over crust .
+PREDID: 0
+PRED: spread
+  PARG: crust
+    PREP: over
+
+
+SENTID: 7
+SENT: Sprinkle with cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Top with potato slices , and brush remaining 2 tablespoons pesto over potatoes .
+PREDID: 0
+PRED: top
+  PARG: potato slices
+    PREP: with
+
+PREDID: 1
+PRED: brush
+  DOBJ: remaining 2 tablespoons pesto
+  PARG: potatoes
+    PREP: over
+
+
+SENTID: 9
+SENT: Bake 8 to 10 minutes longer or until crust is golden brown and cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: crust is golden brown, cheese is melted
+    PREP: until
+  OARG: 8 to 10 minutes
+  OARG: longer
+
+
+SENTID: 10
+SENT: Garnish with green onions .
+PREDID: 0
+PRED: garnish
+  PARG: green onions
+    PREP: with
+
+
+SENTID: 11
+SENT: To serve , cut into 6 rows by 3 rows .
+PREDID: 0
+PRED: cut
+  PARG: serve
+    PREP: to
+  PARG: 6 rows
+    PREP: into
+  PARG: 3 rows
+    PREP: by
+

@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: In a serving bowl , mix together the chicken , celery , and red onion .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , celery , red onion
+  PARG: a serving bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: In a separate bowl , stir together the mayonnaise , sour cream , feta cheese , and dill .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , sour cream , feta cheese , dill
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour over the chicken mixture , and stir to blend .
+PREDID: 0
+PRED: pour
+  PARG: the chicken mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: blend
+    PREP: to
+
+
+SENTID: 3
+SENT: Taste , and season with salt and pepper as needed .
+PREDID: 0
+PRED: taste
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: needed
+    PREP: as
+
+
+SENTID: 4
+SENT: Serve immediately , or refrigerate until serving .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

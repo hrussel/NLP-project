@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: Peel peaches , remove pits , and slice into a heavy saucepan , catching all the juices .
+PREDID: 0
+PRED: peel
+  DOBJ: peaches
+
+PREDID: 1
+PRED: remove
+  DOBJ: pits
+
+PREDID: 2
+PRED: slice
+  DOBJ: catching all the juices
+  PARG: a heavy saucepan
+    PREP: into
+
+
+SENTID: 1
+SENT: Stir in sugar , nutmeg , and cinnamon , and cook over medium heat until bubbly .
+PREDID: 0
+PRED: stir
+  PARG: sugar , nutmeg , cinnamon
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 2
+SENT: Continue cooking , stirring occasionally , until the sauce reaches a syrupy consistency , about 10 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking , stirring
+  PARG: the sauce reaches a syrupy consistency , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 4
+SENT: Meanwhile , cut off and discard the ends of the bolillo rolls .
+PREDID: 0
+PRED: cut
+  PARG: and discard the ends of the bolillo rolls
+    PREP: off
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Slice the rolls into 1Ê1/4 - inch-thick slices .
+PREDID: 0
+PRED: slice
+  DOBJ: the rolls
+  PARG: 1Ê1/4 - inch-thick slices
+    PREP: into
+
+
+SENTID: 6
+SENT: Lay each slice of bread on a board , and with a sharp knife held parallel to the board , cut a pocket into each slice , leaving three sides intact .
+PREDID: 0
+PRED: lay
+  DOBJ: each slice of bread
+  PARG: a board
+    PREP: on
+  PARG: a sharp knife held parallel
+    PREP: with
+  PARG: the board
+    PREP: to
+
+PREDID: 1
+PRED: cut
+  DOBJ: leaving three sides intact
+  PARG: each slice
+    PREP: into
+  OARG: a pocket
+
+
+SENTID: 7
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Stir together the mascarpone , confectioners ' sugar , and lemon zest until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: the mascarpone , confectioners ' sugar , lemon zest
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 9
+SENT: Scoop this mixture into a small plastic bag .
+PREDID: 0
+PRED: scoop
+  DOBJ: this mixture
+  PARG: a small plastic bag
+    PREP: into
+
+
+SENTID: 10
+SENT: Whisk together the eggs , milk , and vanilla in a shallow bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , vanilla
+  PARG: a shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Melt butter with oil over medium heat in a large nonstick skillet .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: oil
+    PREP: with
+  PARG: medium heat
+    PREP: over
+  PARG: a large nonstick skillet
+    PREP: in
+
+
+SENTID: 12
+SENT: Dip each stuffed piece of bread into the batter , add to the skillet , and cook until browned on both sides .
+PREDID: 0
+PRED: dip
+  DOBJ: each stuffed piece of bread
+  PARG: the batter
+    PREP: into
+
+PREDID: 1
+PRED: add
+  PARG: the skillet
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: browned on both sides
+    PREP: until
+
+
+SENTID: 13
+SENT: Serve hot with the warm peach sauce .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+  PARG: the warm peach sauce
+    PREP: with
+

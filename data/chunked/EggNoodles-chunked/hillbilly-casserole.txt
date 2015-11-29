@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add the egg noodles and cook until tender , about 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a large bowl , mix together the tomato soup , corn , onion , and cream of mushroom soup .
+PREDID: 0
+PRED: mix
+  DOBJ: the tomato soup , corn , onion , cream of mushroom soup
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir in the cooked noodles until well coated .
+PREDID: 0
+PRED: stir
+  PARG: the cooked noodles
+    PREP: in
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 6
+SENT: Transfer to a 9x13 inch baking dish .
+PREDID: 0
+PRED: transfer
+  PARG: a 9x13 inch baking dish
+    PREP: to
+
+
+SENTID: 7
+SENT: Place slices of cheese to cover the top .
+PREDID: 0
+PRED: place
+  DOBJ: slices of cheese
+  PARG: cover the top
+    PREP: to
+
+
+SENTID: 8
+SENT: Bake for 25 minutes in the preheated oven , or until cheese is melted and lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: 25 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is melted, lightly browned
+    PREP: until
+

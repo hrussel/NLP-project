@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Place egg noodles in the pot , cook for 8 to 10 minutes , until al dente , and drain .
+PREDID: 0
+PRED: place
+  DOBJ: egg noodles
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 2
+SENT: In a bowl , mix the beef , 1Ê1/4 teaspoons salt , pepper , eggs , and onion .
+PREDID: 0
+PRED: mix
+  DOBJ: the beef , 1Ê1/4 teaspoons salt , pepper , eggs , onion
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Form into small meatballs around the olives .
+PREDID: 0
+PRED: form
+  PARG: small meatballs
+    PREP: into
+  PARG: the olives
+    PREP: around
+
+
+SENTID: 4
+SENT: Heat the oil in skillet over medium heat , and cook the meatballs until evenly brown .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: the meatballs
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove meatballs from skillet , reserving oil ;
+PREDID: 0
+PRED: remove
+  DOBJ: meatballs
+  PARG: skillet , reserving oil
+    PREP: from
+
+
+SENTID: 6
+SENT: set meatballs aside , and keep warm .
+PREDID: 0
+PRED: set
+  DOBJ: meatballs
+  OARG: aside
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 7
+SENT: Stir the flour into the reserved oil in the skillet .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour
+  PARG: the reserved oil
+    PREP: into
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 8
+SENT: Gradually mix in water to form a thick gravy .
+PREDID: 0
+PRED: mix
+  PARG: water
+    PREP: in
+  PARG: form a thick gravy
+    PREP: to
+  OARG: gradually
+
+
+SENTID: 9
+SENT: Stir in sour cream , dill , and remaining 1/4 teaspoon salt , and cook until heated through .
+PREDID: 0
+PRED: stir
+  DOBJ: remaining 1/4 teaspoon salt , cook
+  PARG: sour cream , dill
+    PREP: in
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 10
+SENT: Pour over the meatballs , and serve over cooked egg noodles .
+PREDID: 0
+PRED: pour
+  PARG: the meatballs
+    PREP: over
+
+PREDID: 1
+PRED: serve
+  PARG: cooked egg noodles
+    PREP: over
+

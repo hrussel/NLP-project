@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat the eggs , pumpkin , and half-and-half together in a mixing bowl until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , pumpkin , half-and-half
+  PARG: a mixing bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in the sugar , flour , lemon zest , vanilla , salt , cinnamon , nutmeg , and allspice until evenly blended .
+PREDID: 0
+PRED: stir
+  PARG: the sugar , flour , lemon zest , vanilla , salt , cinnamon , nutmeg , allspice
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour the pumpkin mixture into the prepared pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: the pumpkin mixture
+  PARG: the prepared pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Cover the edges of the pie with aluminum foil strips to prevent burning .
+PREDID: 0
+PRED: cover
+  DOBJ: the edges of the pie
+  PARG: aluminum foil strips
+    PREP: with
+  OARG: to prevent burning
+
+
+SENTID: 5
+SENT: Bake in preheated oven for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Meanwhile , prepare the pecan caramel topping by mixing the brown sugar , pecans , and butter together in a bowl until evenly blended .
+PREDID: 0
+PRED: prepare
+  DOBJ: the pecan caramel topping
+  PARG: mixing the brown sugar , pecans , butter
+    PREP: by
+  PARG: a bowl
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 7
+SENT: Carefully spoon over the top of the pie .
+PREDID: 0
+PRED: spoon
+  PARG: the top of the pie
+    PREP: over
+  OARG: carefully
+
+
+SENTID: 8
+SENT: Continue baking the pie until the topping is golden and bubbly , and a knife inserted in the center comes out clean , about 20 minutes more .
+PREDID: 0
+PRED: continue
+  DOBJ: baking the pie
+  PARG: the topping is golden, bubbly , a knife inserted in the center comes out clean , about 20 minutes more
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: a wire rack
+    PREP: on
+

@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 6
+SENT: Cut each egg in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 7
+SENT: Scoop egg yolks out ;
+PREDID: 0
+PRED: scoop
+  DOBJ: egg yolks
+
+
+SENTID: 8
+SENT: place 3 to 6 egg yolks in a bowl , reserving remaining egg yolks for another use .
+PREDID: 0
+PRED: place
+  DOBJ: 3 to 6 egg yolks
+  PARG: a bowl , reserving remaining egg yolks
+    PREP: in
+  PARG: another use
+    PREP: for
+
+
+SENTID: 9
+SENT: Mash the 3 to 6 egg yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: the 3 to 6 egg yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 10
+SENT: stir in avocado , lemon juice , cayenne pepper , and garlic .
+PREDID: 0
+PRED: stir
+  PARG: avocado , lemon juice , cayenne pepper , garlic
+    PREP: in
+
+
+SENTID: 11
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Arrange egg whites cut-side-up on a serving platter .
+PREDID: 0
+PRED: arrange
+  DOBJ: egg whites cut-side-up
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 13
+SENT: Spoon avocado mixture into egg whites .
+PREDID: 0
+PRED: spoon
+  DOBJ: avocado mixture
+  PARG: egg whites
+    PREP: into
+
+
+SENTID: 14
+SENT: Chop bacon into 1/2-inch pieces ;
+PREDID: 0
+PRED: chop
+  DOBJ: bacon
+  PARG: 1/2-inch pieces
+    PREP: into
+
+
+SENTID: 15
+SENT: place bacon and paprika in a small bowl and toss to coat bacon .
+PREDID: 0
+PRED: place
+  DOBJ: bacon, paprika
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: coat bacon
+    PREP: to
+
+
+SENTID: 16
+SENT: Top deviled eggs with bacon pieces .
+PREDID: 0
+PRED: top
+  DOBJ: deviled eggs
+  PARG: bacon pieces
+    PREP: with
+

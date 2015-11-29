@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Place an oven rack in the center of the oven .
+PREDID: 0
+PRED: place
+  DOBJ: an oven rack
+  PARG: the center of the oven
+    PREP: in
+
+
+SENTID: 1
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 2
+SENT: Brush the entire crust surface with olive oil , and sprinkle with Italian herb mix , parsley flakes , and 1/2 cup of the Parmesan cheese .
+PREDID: 0
+PRED: brush
+  DOBJ: the entire crust surface
+  PARG: olive oil
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: italian herb mix , parsley flakes , 1/2 cup of the parmesan cheese
+    PREP: with
+
+
+SENTID: 3
+SENT: Sprinkle 1/4 cup of mozzarella cheese over the crust .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/4 cup of mozzarella cheese
+  PARG: the crust
+    PREP: over
+
+
+SENTID: 4
+SENT: Place pineapple chunks in a bowl , and toss with remaining Parmesan cheese .
+PREDID: 0
+PRED: place
+  DOBJ: pineapple chunks
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: remaining parmesan cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Spread the pineapple chunks evenly over the crust , and sprinkle pizza with the chopped jalapeno .
+PREDID: 0
+PRED: spread
+  DOBJ: the pineapple chunks
+  PARG: the crust
+    PREP: over
+  OARG: evenly
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: pizza
+  PARG: the chopped jalapeno
+    PREP: with
+
+
+SENTID: 6
+SENT: Top with the remaining mozzarella cheese .
+PREDID: 0
+PRED: top
+  PARG: the remaining mozzarella cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: Place the pizza directly on the oven rack , and bake until the crust is crisp and the cheese is melted and slightly browned , 10 to 12 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the pizza
+  PARG: the oven rack
+    PREP: on
+  OARG: directly
+
+PREDID: 1
+PRED: bake
+  PARG: the crust is crisp, the cheese is melted, slightly browned , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool for about 5 minutes before serving .
+PREDID: 0
+PRED: cool
+  PARG: about 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

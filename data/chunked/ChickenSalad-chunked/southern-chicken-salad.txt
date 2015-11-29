@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: Whisk the mayonnaise , green onions , buttermilk , dill and ground black pepper in a small bowl to blend -LRB- can be made 1 day ahead -RRB- .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , green onions , buttermilk , dill, ground black pepper
+  PARG: a small bowl
+    PREP: in
+  PARG: blend -lrb- can be made 1 day
+    PREP: to
+  OARG: ahead
+
+
+SENTID: 1
+SENT: Cover and chill .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 2
+SENT: Arrange the chicken in a heavy , medium size skillet .
+PREDID: 0
+PRED: arrange
+  DOBJ: the chicken
+  PARG: a heavy , medium size skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Add the wine , dill and ground black pepper .
+PREDID: 0
+PRED: add
+  DOBJ: the wine , dill, ground black pepper
+
+
+SENTID: 4
+SENT: Season with salt .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+
+SENTID: 5
+SENT: If necessary , add water to cover the chicken .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: necessary
+    PREP: if
+  PARG: cover the chicken
+    PREP: to
+
+
+SENTID: 6
+SENT: Simmer over medium low heat until chicken is just cooked through , turning once -LRB- about 11 minutes -RRB- .
+PREDID: 0
+PRED: simmer
+  PARG: medium low heat
+    PREP: over
+  PARG: chicken is just cooked through , turning once -lrb- about 11 minutes -rrb-
+    PREP: until
+
+
+SENTID: 7
+SENT: Transfer chicken to a plate and let cool .
+PREDID: 0
+PRED: transfer
+  DOBJ: chicken
+  PARG: a plate, let cool
+    PREP: to
+
+
+SENTID: 8
+SENT: Cut chicken into 1/2 inch pieces . Place in a large bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: 1/2 inch pieces
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Add the grapes and the celery and mix in the dressing to thoroughly coat the mixture .
+PREDID: 0
+PRED: add
+  DOBJ: the grapes, the celery
+
+PREDID: 1
+PRED: mix
+  PARG: the dressing
+    PREP: in
+  OARG: to thoroughly coat the mixture
+
+
+SENTID: 10
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 11
+SENT: Cover and refrigerate for at least 20 minutes to develop the flavors .
+PREDID: 0
+PRED: cover
+  PARG: at least 20 minutes
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+  OARG: to develop the flavors
+
+
+SENTID: 12
+SENT: -LRB- Can be prepared up to 3 hours ahead -RRB- .
+PREDID: 0
+PRED: can
+  DOBJ: be prepared
+  PARG: 3 hours
+    PREP: to
+  OARG: 
+  OARG: up
+  OARG: ahead
+
+
+SENTID: 13
+SENT: Arrange the lettuce leaves on plates , mound on the salad and sprinkle with nuts .
+PREDID: 0
+PRED: arrange
+  DOBJ: the lettuce leaves
+  PARG: plates
+    PREP: on
+
+PREDID: 1
+PRED: mound
+  PARG: the salad
+    PREP: on
+
+PREDID: 2
+PRED: sprinkle
+  PARG: nuts
+    PREP: with
+
+
+SENTID: 14
+SENT: Garnish with fresh dill and serve .
+PREDID: 0
+PRED: garnish
+  PARG: fresh dill
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

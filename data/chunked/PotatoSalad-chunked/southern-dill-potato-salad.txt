@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Place the potatoes in a large pot , cover them with water , and bring to a boil over high heat .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  DOBJ: them
+  PARG: water , bring
+    PREP: with
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Reduce the heat to medium-low , and simmer until the potatoes are cooked through but still firm , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium-low , simmer
+    PREP: to
+  PARG: the potatoes are cooked through but still firm , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from the water , let cool , and cut the potatoes into chunks .
+PREDID: 0
+PRED: remove
+  PARG: the water
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+PREDID: 2
+PRED: cut
+  DOBJ: the potatoes
+  PARG: chunks
+    PREP: into
+
+
+SENTID: 3
+SENT: Set the potatoes aside .
+PREDID: 0
+PRED: set
+  DOBJ: the potatoes
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a bowl , stir together the sour cream , mayonnaise , apple cider vinegar , Dijon mustard , onion , celery , celery salt , and salt and pepper until well mixed .
+PREDID: 0
+PRED: stir
+  DOBJ: the sour cream , mayonnaise , apple cider vinegar , dijon mustard , onion , celery , celery salt , salt, pepper
+  PARG: a bowl
+    PREP: in
+  PARG: well mixed
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Place the potatoes and eggs in a large salad bowl , and sprinkle with dried dill .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes, eggs
+  PARG: a large salad bowl
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: dried dill
+    PREP: with
+
+
+SENTID: 6
+SENT: Pour the dressing over the potatoes and eggs , and mix lightly .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potatoes, eggs
+    PREP: over
+
+PREDID: 1
+PRED: mix
+  OARG: lightly
+
+
+SENTID: 7
+SENT: Cover and refrigerate the salad for at least 30 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: the salad
+
+PREDID: 1
+PRED: refrigerate
+  PARG: at least 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Serve cold .
+PREDID: 0
+PRED: serve
+  DOBJ: cold
+

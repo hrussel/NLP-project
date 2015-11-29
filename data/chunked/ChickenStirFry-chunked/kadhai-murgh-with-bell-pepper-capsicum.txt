@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Evenly season the chicken with salt and turmeric ;
+PREDID: 0
+PRED: season
+  DOBJ: the chicken
+  PARG: salt, turmeric
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 1
+SENT: set aside for 15 minutes .
+PREDID: 0
+PRED: set
+  PARG: 15 minutes
+    PREP: for
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat the oil in a large skillet or kadhai over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet or kadhai
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook the onions in the hot oil until browned , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onions
+  PARG: the hot oil
+    PREP: in
+  PARG: browned , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add the chicken and cook until browned , about 5 minutes more .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: cook
+  PARG: browned , about 5 minutes more
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir the bell peppers and chile peppers into the chicken ;
+PREDID: 0
+PRED: stir
+  DOBJ: the bell peppers, chile peppers
+  PARG: the chicken
+    PREP: into
+
+
+SENTID: 6
+SENT: continue cooking another 5 minutes .
+PREDID: 0
+PRED: continue
+  OARG: cooking another 5 minutes
+
+
+SENTID: 7
+SENT: Grind the cumin seed , coriander seed , black peppercorns , cinnamon , cloves , cardamom pod , and fennel seed into a coarse powder ;
+PREDID: 0
+PRED: grind
+  DOBJ: the cumin seed , coriander seed , black peppercorns , cinnamon , cloves , cardamom pod , fennel seed
+  PARG: a coarse powder
+    PREP: into
+
+
+SENTID: 8
+SENT: sprinkle over the mixture in the skillet .
+PREDID: 0
+PRED: sprinkle
+  PARG: the mixture
+    PREP: over
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 9
+SENT: Add the water , coconut milk powder , ground red pepper , and salt .
+PREDID: 0
+PRED: add
+  DOBJ: the water , coconut milk powder , ground red pepper , salt
+
+
+SENTID: 10
+SENT: Cook until the chicken is tender , about 30 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the chicken is tender , about 30 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: If the curry is too wet , cook on high until the moisture evaporates .
+PREDID: 0
+PRED: cook
+  DOBJ: wet
+  PARG: the curry is
+    PREP: if
+  PARG: high
+    PREP: on
+  PARG: the moisture evaporates
+    PREP: until
+  OARG: too
+
+
+SENTID: 12
+SENT: Garnish with cilantro and serve hot .
+PREDID: 0
+PRED: garnish
+  PARG: cilantro
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  DOBJ: hot
+

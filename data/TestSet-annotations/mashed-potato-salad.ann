@@ -1,0 +1,73 @@
+T1	predicate 0 4	Cube
+T2	predicate 45 50	Place
+T3	predicate 84 89	cover
+T4	predicate 102 106	Cook
+T5	predicate 151 156	Drain
+T6	predicate 161 166	place
+T7	predicate 200 204	Mash
+T8	predicate 268 275	stir in
+T9	predicate 329 336	Stir in
+T10	predicate 382 387	Serve
+T11	arg_object 5 13	potatoes
+R1	object Arg1:T1 Arg2:T11	
+T12	arg_object 51 59	potatoes
+T13	Evolution 51 59	potatoes
+E1	Evolution:T13 Cause:T1
+R2	object Arg1:T2 Arg2:T12	
+T14	arg_location 60 79	in a large saucepan
+R3	location Arg1:T2 Arg2:T14	
+R4	object Arg1:T3 Arg2:T2	
+T15	arg_co-object 90 100	with water
+R5	co-object Arg1:T3 Arg2:T15	
+R6	object Arg1:T4 Arg2:T3	
+T16	arg_other 107 123	over medium heat
+T17	arg_duration 124 149	until potatoes are tender
+R7	other Arg1:T4 Arg2:T16	
+R8	duration Arg1:T4 Arg2:T17	
+R9	object Arg1:T5 Arg2:T4	
+T18	arg_object 167 182	cooked potatoes
+T19	Evolution 167 182	cooked potatoes
+E2	Evolution:T19 Cause:T5
+R10	object Arg1:T6 Arg2:T18	
+T20	arg_location 183 198	in a large bowl
+R11	location Arg1:T6 Arg2:T20	
+T21	arg_object 205 213	potatoes
+R12	object Arg1:T7 Arg2:T21	
+T22	Evolution 205 213	potatoes
+E3	Evolution:T22 Cause:T6
+T23	arg_co-object 214 245	with butter and salt and pepper
+R13	co-object Arg1:T7 Arg2:T23	
+T24	arg_other 246 254	to taste
+R14	other Arg1:T7 Arg2:T24	
+R15	co-object Arg1:T8 Arg2:T7	
+T25	arg_object 276 290	the mayonnaise
+T26	arg_object 292 299	mustard
+T27	arg_object 304 314	sour cream
+R16	object Arg1:T8 Arg2:T25	
+R17	object Arg1:T8 Arg2:T26	
+R18	object Arg1:T8 Arg2:T27	
+R19	co-object Arg1:T9 Arg2:T8	
+T28	arg_object 337 347	the celery
+T29	arg_object 349 354	onion
+T30	arg_object 356 363	pickles
+T31	arg_object 368 380	green pepper
+R20	object Arg1:T9 Arg2:T28	
+R21	object Arg1:T9 Arg2:T29	
+R22	object Arg1:T9 Arg2:T30	
+R23	object Arg1:T9 Arg2:T31	
+R24	object Arg1:T10 Arg2:T9	
+T32	arg_other 388 415	warm or at room temperature
+R25	other Arg1:T10 Arg2:T32	
+T33	ingredient 5 13	potatoes
+T34	ingredient 95 100	water
+R26	co-object Arg1:T5 Arg2:T4	
+T35	ingredient 219 225	butter
+T36	ingredient 230 234	salt
+T37	ingredient 239 245	pepper
+T38	ingredient 276 290	the mayonnaise
+T39	ingredient 292 299	mustard
+T40	ingredient 304 314	sour cream
+T41	ingredient 337 347	the celery
+T42	ingredient 349 354	onion
+T43	ingredient 356 363	pickles
+T44	ingredient 368 380	green pepper

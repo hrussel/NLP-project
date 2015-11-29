@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a covered jar , mix the lime juice , olive oil , salt , garlic , cilantro , chili powder , and cumin .
+PREDID: 0
+PRED: mix
+  DOBJ: the lime juice , olive oil , salt , garlic , cilantro , chili powder , cumin
+  PARG: a covered jar
+    PREP: in
+
+
+SENTID: 1
+SENT: Cover , and shake until well blended .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: shake
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Place the lettuce in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the lettuce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Toss with the chicken , black beans , onion , and tomato .
+PREDID: 0
+PRED: toss
+  PARG: the chicken , black beans , onion , tomato
+    PREP: with
+
+
+SENTID: 4
+SENT: Just before serving , toss with the dressing mixture and Parmesan cheese .
+PREDID: 0
+PRED: toss
+  PARG: serving
+    PREP: before
+  PARG: the dressing mixture, parmesan cheese
+    PREP: with
+  OARG: just
+
+
+SENTID: 5
+SENT: Serve with tortilla chips , either crushed over the top of the salad , or on the side .
+PREDID: 0
+PRED: serve
+  PARG: tortilla chips , either crushed
+    PREP: with
+  PARG: the top of the salad
+    PREP: over
+  PARG: the side
+    PREP: on
+

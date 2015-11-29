@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine ground beef and onion in a large skillet over medium-high heat .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cook and stir until meat is well browned and onion is soft .
+PREDID: 0
+PRED: cook
+  PARG: meat is well browned, onion is soft
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 4
+SENT: Cut each French roll into quarters .
+PREDID: 0
+PRED: cut
+  DOBJ: each french roll
+  PARG: quarters
+    PREP: into
+
+
+SENTID: 5
+SENT: Spread the processed cheese sauce on cut sides of each piece ;
+PREDID: 0
+PRED: spread
+  DOBJ: the processed cheese sauce
+  PARG: cut sides of each piece
+    PREP: on
+
+
+SENTID: 6
+SENT: place on a baking sheet .
+PREDID: 0
+PRED: place
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 7
+SENT: Evenly spoon the cooked beef onto the cheese topped rolls .
+PREDID: 0
+PRED: spoon
+  DOBJ: the cooked beef
+  PARG: the cheese topped rolls
+    PREP: onto
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Top each roll with a dab of ketchup .
+PREDID: 0
+PRED: top
+  DOBJ: each roll
+  PARG: a dab of ketchup
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in preheated oven until rolls are crisp and filling is hot , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: rolls are crisp, filling is hot , about 20 minutes
+    PREP: until
+

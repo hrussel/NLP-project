@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Heat oven to 400 degrees F .
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 400 degrees f
+    PREP: to
+
+
+SENTID: 1
+SENT: In 6-inch nonstick skillet , cook sausage over medium-high heat 4 to 6 minutes , stirring frequently , until no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: sausage
+  PARG: 6-inch nonstick skillet
+    PREP: in
+  PARG: medium-high heat 4 to 6 minutes , stirring
+    PREP: over
+  PARG: no longer pink
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Stir in mushrooms , tomatoes and pizza sauce .
+PREDID: 0
+PRED: stir
+  PARG: mushrooms , tomatoes, pizza sauce
+    PREP: in
+
+
+SENTID: 3
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 4
+SENT: cover to keep warm .
+PREDID: 0
+PRED: cover
+  PARG: keep warm
+    PREP: to
+
+
+SENTID: 5
+SENT: Spray bottom and side of 12-inch cast-iron skillet or other ovenproof skillet with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: bottom, side of 12-inch cast-iron skillet or other ovenproof skillet
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 6
+SENT: Unroll dough in skillet ;
+PREDID: 0
+PRED: unroll
+  DOBJ: dough
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 7
+SENT: press in bottom and at least halfway up side .
+PREDID: 0
+PRED: press
+  DOBJ: side
+  PARG: bottom
+    PREP: in
+  PARG: least
+    PREP: at
+  OARG: halfway
+  OARG: up
+
+
+SENTID: 8
+SENT: Bake 5 minutes .
+PREDID: 0
+PRED: bake
+  OARG: 5 minutes
+
+
+SENTID: 9
+SENT: Sprinkle 1Ê3/4 cups of the cheese over dough .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1Ê3/4 cups of the cheese
+  PARG: dough
+    PREP: over
+
+
+SENTID: 10
+SENT: Spoon sausage and vegetable mixture over cheese ;
+PREDID: 0
+PRED: spoon
+  DOBJ: sausage, vegetable mixture
+  PARG: cheese
+    PREP: over
+
+
+SENTID: 11
+SENT: top with remaining 1/4 cup cheese .
+PREDID: 0
+PRED: top
+  PARG: remaining 1/4 cup cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake 15 to 18 minutes or until crust is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: crust is golden brown
+    PREP: until
+  OARG: 15 to 18 minutes
+
+
+SENTID: 13
+SENT: Sprinkle with green onions .
+PREDID: 0
+PRED: sprinkle
+  PARG: green onions
+    PREP: with
+
+
+SENTID: 14
+SENT: Let stand 10 minutes before cutting .
+PREDID: 0
+PRED: let
+  PARG: cutting
+    PREP: before
+  OARG: stand 10 minutes
+
+
+SENTID: 15
+SENT: To serve , cut into 6 wedges .
+PREDID: 0
+PRED: cut
+  PARG: serve
+    PREP: to
+  PARG: 6 wedges
+    PREP: into
+

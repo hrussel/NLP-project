@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking dish
+
+
+SENTID: 2
+SENT: Mix ground beef with onion powder , garlic powder , salt , and black pepper in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef
+  PARG: onion powder , garlic powder , salt , black pepper
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: form mixture into a loaf and place into prepared baking dish .
+PREDID: 0
+PRED: form
+  DOBJ: mixture
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: prepared baking dish
+    PREP: into
+
+
+SENTID: 4
+SENT: Bring root beer , raisins , Worcestershire sauce , and ketchup to a boil in a saucepan ;
+PREDID: 0
+PRED: bring
+  DOBJ: root beer , raisins , worcestershire sauce , ketchup
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 5
+SENT: reduce heat and simmer until flavors have blended and raisins are plump , about 5 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: flavors have blended, raisins are plump , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour raisin sauce over meat loaf .
+PREDID: 0
+PRED: pour
+  DOBJ: raisin sauce
+  PARG: meat loaf
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until meat loaf is no longer pink inside and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: meat loaf is no longer pink inside, an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees f -lrb- 70 degrees c -rrb- , 25 to 30 minutes
+    PREP: until
+

@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large skillet brown beef in oil over medium high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: oil
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: When meat is browned , drain excess fat from skillet .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+  PARG: skillet
+    PREP: from
+  OARG: when meat is browned
+
+
+SENTID: 2
+SENT: Add garlic powder , salt and pepper and stir in .
+PREDID: 0
+PRED: add
+  DOBJ: garlic powder , salt, pepper
+
+PREDID: 1
+PRED: stir
+  DOBJ: in
+
+
+SENTID: 3
+SENT: Add bouillon , onion and mushrooms to skillet and saute until onions are translucent .
+PREDID: 0
+PRED: add
+  DOBJ: bouillon , onion, mushrooms
+  PARG: skillet
+    PREP: to
+
+PREDID: 1
+PRED: saute
+  PARG: onions are translucent
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove from heat -LRB- very important -RRB- and add sour cream .
+PREDID: 0
+PRED: remove
+  DOBJ: important -rrb-, add sour cream
+  PARG: heat -lrb-
+    PREP: from
+  OARG: very
+
+
+SENTID: 5
+SENT: Stir all together and serve over hot cooked egg noodles .
+PREDID: 0
+PRED: stir
+  DOBJ: all together
+
+PREDID: 1
+PRED: serve
+  PARG: hot cooked egg noodles
+    PREP: over
+

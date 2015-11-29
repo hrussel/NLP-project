@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Place the shredded cabbage in a large bowl , and drizzle olive oil over it .
+PREDID: 0
+PRED: place
+  DOBJ: the shredded cabbage
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: drizzle
+  DOBJ: olive oil
+  PARG: it
+    PREP: over
+
+
+SENTID: 1
+SENT: Toss until evenly coated .
+PREDID: 0
+PRED: toss
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Season with garlic powder , lemon juice and cilantro , and stir to blend in all of the flavors .
+PREDID: 0
+PRED: season
+  PARG: garlic powder , lemon juice, cilantro
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: blend
+    PREP: to
+  PARG: all of the flavors
+    PREP: in
+

@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Combine bok choy , red bell pepper , and scallions in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: bok choy , red bell pepper , scallions
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In a smaller bowl , whisk together red pepper flakes -LRB- or chile paste -RRB- , mustard , apple cider vinegar , garlic , ginger , sugar , salt , and oil .
+PREDID: 0
+PRED: whisk
+  DOBJ: red pepper flakes -lrb- or chile paste -rrb- , mustard , apple cider vinegar , garlic , ginger , sugar , salt , oil
+  PARG: a smaller bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour this spicy dressing over the chopped vegetables , and toss well .
+PREDID: 0
+PRED: pour
+  DOBJ: this spicy dressing
+  PARG: the chopped vegetables
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: well
+
+
+SENTID: 3
+SENT: Refrigerate for 1 hour , then toss again .
+PREDID: 0
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: toss
+  OARG: again
+
+
+SENTID: 4
+SENT: Taste salad , and add more chile paste , salt , or sugar to taste before serving .
+PREDID: 0
+PRED: taste
+  DOBJ: salad
+
+PREDID: 1
+PRED: add
+  DOBJ: more chile paste , salt , or sugar
+  PARG: taste
+    PREP: to
+  PARG: serving
+    PREP: before
+

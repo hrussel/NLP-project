@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 9x13-inch baking dish with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x13-inch baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain ;
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: pour macaroni into the prepared dish .
+PREDID: 0
+PRED: pour
+  DOBJ: macaroni
+  PARG: the prepared dish
+    PREP: into
+
+
+SENTID: 6
+SENT: Beat eggs , sour cream , seasoned salt , and black pepper into a smooth mixture ;
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , sour cream , seasoned salt , black pepper
+  PARG: a smooth mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: stir Cheddar cheese and Cheddar-Monterey Jack cheese into mixture until thoroughly combined .
+PREDID: 0
+PRED: stir
+  DOBJ: cheddar cheese, cheddar-monterey jack cheese
+  PARG: mixture
+    PREP: into
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour over macaroni and mix well .
+PREDID: 0
+PRED: pour
+  PARG: macaroni
+    PREP: over
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 9
+SENT: Top casserole with torn pieces of processed cheese .
+PREDID: 0
+PRED: top
+  DOBJ: casserole
+  PARG: torn pieces of processed cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Drizzle melted butter over casserole , especially along the sides .
+PREDID: 0
+PRED: drizzle
+  DOBJ: melted butter
+  PARG: casserole
+    PREP: over
+  PARG: the sides
+    PREP: along
+  OARG: especially
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until casserole is bubbling and cheese has melted , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole is bubbling
+    PREP: until
+
+PREDID: 1
+PRED: cheese
+  DOBJ: has melted
+  PARG: 30 minutes
+    PREP: about
+

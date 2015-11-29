@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Place ground beef into a soup pot over medium heat , and cook and stir until the meat is browned , breaking it up into crumbles as it cooks , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a soup pot
+    PREP: into
+  PARG: medium heat , cook
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the meat is browned , breaking it up into crumbles as it cooks , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in onion and garlic , and cook until the onion is translucent , about 5 more minutes .
+PREDID: 0
+PRED: stir
+  PARG: onion, garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: the onion is translucent , about 5 more minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain excess grease if necessary , and sprinkle the meat with taco seasoning mix ;
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+  PARG: necessary
+    PREP: if
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: the meat
+  PARG: taco seasoning mix
+    PREP: with
+
+
+SENTID: 3
+SENT: cook the meat with the seasoning for 1 or 2 more minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the meat
+  PARG: the seasoning
+    PREP: with
+  PARG: 1 or 2 more minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Pour in the chili-flavored tomatoes , chili beans , tomato sauce , and diced green chilies , and stir to combine ;
+PREDID: 0
+PRED: pour
+  PARG: the chili-flavored tomatoes , chili beans , tomato sauce , diced green chilies
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 5
+SENT: simmer for 30 minutes to blend flavors .
+PREDID: 0
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+  PARG: blend flavors
+    PREP: to
+

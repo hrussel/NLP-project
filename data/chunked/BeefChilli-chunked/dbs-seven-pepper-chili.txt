@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat and lightly oil grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+  OARG: lightly
+
+
+SENTID: 1
+SENT: Brush beef tip with barbeque sauce and grill 5 to 8 minutes on a side , or to desired doneness , brushing frequently with sauce .
+PREDID: 0
+PRED: brush
+  DOBJ: beef
+
+PREDID: 1
+PRED: tip
+  PARG: barbeque sauce
+    PREP: with
+
+PREDID: 2
+PRED: grill
+  PARG: a side
+    PREP: on
+  PARG: desired doneness , brushing
+    PREP: to
+  PARG: sauce
+    PREP: with
+  OARG: 5 to 8 minutes
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large pot over medium heat , cook onion and bell , habanero , pepperoncini , serrano , cayenne , pequin and jalapeno peppers until onion is translucent .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, bell , habanero , pepperoncini , serrano , cayenne , pequin, jalapeno peppers
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: onion is translucent
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in cumin , paprika , oregano and chili powder and cook until fragrant .
+PREDID: 0
+PRED: stir
+  PARG: cumin , paprika , oregano, chili powder
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: fragrant
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in ground beef and cook until brown .
+PREDID: 0
+PRED: stir
+  PARG: ground beef
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: Stir in tomato sauce , any remaining barbeque sauce and beans .
+PREDID: 0
+PRED: stir
+  PARG: tomato sauce , any remaining barbeque sauce, beans
+    PREP: in
+
+
+SENTID: 8
+SENT: Cut grilled tip steak into bite sized pieces and stir into chili as well .
+PREDID: 0
+PRED: cut
+  DOBJ: grilled tip steak
+  PARG: bite sized pieces
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: chili
+    PREP: into
+  PARG: well
+    PREP: as
+
+
+SENTID: 9
+SENT: Continue to cook until thickened and flavors have blended and mixture is thoroughly heated .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: thickened, flavors have blended, mixture is thoroughly heated
+    PREP: until
+

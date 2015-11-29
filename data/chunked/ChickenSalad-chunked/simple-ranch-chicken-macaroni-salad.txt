@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Bring a pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add the macaroni , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the macaroni
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and pat dry .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: pat
+  DOBJ: dry
+
+
+SENTID: 3
+SENT: In a medium bowl , mix together the celery , olives , mayonnaise , sour cream , milk , chicken and Ranch dressing mix .
+PREDID: 0
+PRED: mix
+  DOBJ: the celery , olives , mayonnaise , sour cream , milk , chicken, ranch dressing mix
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in macaroni until well blended .
+PREDID: 0
+PRED: stir
+  PARG: macaroni
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 5
+SENT: Refrigerate for 24 hours .
+PREDID: 0
+PRED: refrigerate
+  PARG: 24 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: Stir , and sprinkle paprika over the top before serving .
+PREDID: 0
+PRED: stir
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: paprika
+  PARG: the top
+    PREP: over
+  PARG: serving
+    PREP: before
+

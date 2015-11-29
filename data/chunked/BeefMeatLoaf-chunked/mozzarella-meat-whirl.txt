@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine beef , bread crumbs , egg , mustard , salt and pepper ;
+PREDID: 0
+PRED: combine
+  DOBJ: beef , bread crumbs , egg , mustard , salt, pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: On a sheet of waxed paper , pat out beef mixture into a large rectangle .
+PREDID: 0
+PRED: pat
+  PARG: a sheet of waxed paper
+    PREP: on
+  PARG: beef mixture
+    PREP: out
+  PARG: a large rectangle
+    PREP: into
+
+
+SENTID: 4
+SENT: Cover the surface with slices of cheese .
+PREDID: 0
+PRED: cover
+  DOBJ: the surface
+  PARG: slices of cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Starting with the short side of the rectangle , roll up and remove waxed paper simultaneously .
+PREDID: 0
+PRED: roll
+  DOBJ: waxed paper
+  PARG: the short side of the rectangle
+    PREP: with
+  OARG: up
+  OARG: starting
+
+PREDID: 1
+PRED: remove
+  OARG: simultaneously
+
+
+SENTID: 6
+SENT: Place in a shallow baking dish .
+PREDID: 0
+PRED: place
+  PARG: a shallow baking dish
+    PREP: in
+
+
+SENTID: 7
+SENT: In a small bowl , mix together ketchup , water , and Worcestershire sauce ;
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup , water , worcestershire sauce
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: pour over beef .
+PREDID: 0
+PRED: pour
+  PARG: beef
+    PREP: over
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 1 hour and 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour, 10 minutes
+    PREP: for
+

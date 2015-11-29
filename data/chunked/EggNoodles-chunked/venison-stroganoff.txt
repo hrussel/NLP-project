@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Season venison with salt , pepper and garlic powder to taste .
+PREDID: 0
+PRED: season
+  DOBJ: venison
+  PARG: salt , pepper, garlic powder
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 1
+SENT: Saute onion in a large skillet ;
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 2
+SENT: when soft , add venison and brown .
+PREDID: 0
+PRED: add
+  DOBJ: venison, brown
+  OARG: when soft
+
+
+SENTID: 3
+SENT: Drain when venison is no longer pink and add soup .
+PREDID: 0
+PRED: drain
+  OARG: when venison is no longer pink
+
+PREDID: 1
+PRED: add
+  DOBJ: soup
+
+
+SENTID: 4
+SENT: Reduce heat to low and simmer .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low, simmer
+    PREP: to
+
+
+SENTID: 5
+SENT: Meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Add noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 7
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 8
+SENT: When noodles are almost done cooking , stir sour cream into meat mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: done cooking
+  PARG: meat mixture
+    PREP: into
+  OARG: when noodles are
+  OARG: almost
+
+
+SENTID: 9
+SENT: Pour meat mixture over hot cooked noodles and serve .
+PREDID: 0
+PRED: pour
+  DOBJ: meat mixture
+  PARG: hot cooked noodles
+    PREP: over
+
+PREDID: 1
+PRED: serve
+

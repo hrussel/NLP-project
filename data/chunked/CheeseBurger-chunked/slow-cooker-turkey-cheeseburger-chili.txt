@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Heat a large , nonstick skillet over medium-high heat and stir in the ground turkey .
+PREDID: 0
+PRED: heat
+  DOBJ: a large , nonstick skillet
+  PARG: medium-high heat, stir
+    PREP: over
+  PARG: the ground turkey
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook and stir until the turkey is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: the turkey is crumbly , evenly browned , no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Place the browned turkey , kidney beans , and diced onion in a slow cooker ;
+PREDID: 0
+PRED: place
+  DOBJ: the browned turkey , kidney beans , diced onion
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 3
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 4
+SENT: Combine the tomato sauce , fire roasted tomatoes , chili seasoning , ketchup , mustard , and brown sugar in the skillet .
+PREDID: 0
+PRED: combine
+  DOBJ: the tomato sauce , fire roasted tomatoes , chili seasoning , ketchup , mustard , brown sugar
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: Bring to a simmer .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir the sauce into the meat mixture in the slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: the sauce
+  PARG: the meat mixture
+    PREP: into
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 7
+SENT: Cook on High for 20 minutes .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Sprinkle with shredded Colby-Monterey Jack cheese before serving .
+PREDID: 0
+PRED: sprinkle
+  PARG: shredded colby-monterey jack cheese
+    PREP: with
+  PARG: serving
+    PREP: before
+

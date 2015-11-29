@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Place almonds in a small saucepan over low heat .
+PREDID: 0
+PRED: place
+  DOBJ: almonds
+  PARG: a small saucepan
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Tossing frequently , toast until lightly browned , 5 to 10 minutes .
+PREDID: 0
+PRED: toast
+  DOBJ: tossing
+  PARG: lightly browned , 5 to 10 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Remove from heat , and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , whisk together eggs , milk , flour , salt , baking powder , almond extract and vanilla extract .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , milk , flour , salt , baking powder , almond extract, vanilla extract
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Soak bread slices in the mixture until saturated .
+PREDID: 0
+PRED: soak
+  DOBJ: bread slices
+  PARG: the mixture
+    PREP: in
+  PARG: saturated
+    PREP: until
+
+
+SENTID: 5
+SENT: Place slices in a shallow pan .
+PREDID: 0
+PRED: place
+  DOBJ: slices
+  PARG: a shallow pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Refrigerate slices approximately 1 hour .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: slices
+  OARG: approximately
+  OARG: 1 hour
+
+
+SENTID: 7
+SENT: Heat canola oil and butter in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: canola oil
+
+PREDID: 1
+PRED: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: One at a time , press one side of soaked bread slices in the almonds to coat .
+PREDID: 0
+PRED: press
+  DOBJ: one side of soaked bread slices
+  PARG: the almonds
+    PREP: in
+  PARG: coat
+    PREP: to
+  OARG: one at a time
+
+
+SENTID: 9
+SENT: Fry bread slices on both sides until golden brown .
+PREDID: 0
+PRED: fry
+  DOBJ: bread slices
+  PARG: both sides
+    PREP: on
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 10
+SENT: Dust with confectioner 's sugar before serving ,
+PREDID: 0
+PRED: dust
+  PARG: confectioner 's sugar
+    PREP: with
+  PARG: serving
+    PREP: before
+

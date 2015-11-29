@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Toss the water chestnuts with the lemon juice in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the water chestnuts
+  PARG: the lemon juice
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Add the chicken , celery , grapes , and almonds to the water chestnuts .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken , celery , grapes , almonds
+  PARG: the water chestnuts
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir the mayonnaise , chutney , curry powder , and salt together in a separate bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , chutney , curry powder , salt
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Fold the chicken mixture into the mayonnaise mixture ;
+PREDID: 0
+PRED: fold
+  DOBJ: the chicken mixture
+  PARG: the mayonnaise mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: stir to coat evenly .
+PREDID: 0
+PRED: stir
+  PARG: coat
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Chill in refrigerator at least 30 minutes before serving .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator
+    PREP: in
+  PARG: least 30 minutes
+    PREP: at
+  PARG: serving
+    PREP: before
+

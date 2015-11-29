@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place pumpkin halves cut side down on a medium baking sheet , and cover with foil .
+PREDID: 0
+PRED: place
+  DOBJ: pumpkin halves cut side
+  PARG: a medium baking sheet
+    PREP: on
+  OARG: down
+
+PREDID: 1
+PRED: cover
+  PARG: foil
+    PREP: with
+
+
+SENTID: 2
+SENT: Bake 90 minutes , or until flesh is easily mashed with a fork .
+PREDID: 0
+PRED: bake
+  PARG: flesh is easily mashed with a fork
+    PREP: until
+  OARG: 90 minutes
+
+
+SENTID: 3
+SENT: Cool , scoop pumpkin flesh from shell , and mash .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: scoop
+  DOBJ: pumpkin flesh
+  PARG: shell
+    PREP: from
+
+PREDID: 2
+PRED: mash
+
+
+SENTID: 4
+SENT: Increase oven temperature to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: increase
+  DOBJ: oven temperature
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: In a medium bowl , mix mashed pumpkin , honey , cinnamon , ginger , cloves , nutmeg , and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: mashed pumpkin , honey , cinnamon , ginger , cloves , nutmeg , salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Gradually blend in heavy cream and eggs .
+PREDID: 0
+PRED: blend
+  PARG: heavy cream, eggs
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 7
+SENT: Pour into crusts , and top with pecans .
+PREDID: 0
+PRED: pour
+  PARG: crusts
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: pecans
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake pies in the preheated oven 50 minutes , or until a knife inserted in the center comes out clean .
+PREDID: 0
+PRED: bake
+  DOBJ: pies
+  PARG: the preheated oven 50 minutes
+    PREP: in
+  PARG: a knife inserted in the center comes out clean
+    PREP: until
+

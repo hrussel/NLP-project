@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: In a skillet , cook sausage , onion and garlic until pork is no longer pink and onion is tender ;
+PREDID: 0
+PRED: cook
+  DOBJ: sausage , onion, garlic
+  PARG: a skillet
+    PREP: in
+  PARG: pork is no longer pink, onion is tender
+    PREP: until
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Add marinara sauce and oregano ;
+PREDID: 0
+PRED: add
+  DOBJ: marinara sauce, oregano
+
+
+SENTID: 3
+SENT: simmer for 5 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: In a bowl , combine ricotta cheese , egg , 1/4 cup Parmesan and spinach .
+PREDID: 0
+PRED: combine
+  DOBJ: ricotta cheese , egg , 1/4 cup parmesan, spinach
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: baking dish , spread 1 cup meat sauce .
+PREDID: 0
+PRED: spread
+  DOBJ: 1 cup meat sauce
+  OARG: baking dish
+
+
+SENTID: 6
+SENT: Arrange 3 noodles over sauce .
+PREDID: 0
+PRED: arrange
+  DOBJ: 3 noodles
+  PARG: sauce
+    PREP: over
+
+
+SENTID: 7
+SENT: Spread one-fourth of the ricotta cheese mixture over the noodles , top with 1 cup of meat sauce .
+PREDID: 0
+PRED: spread
+  DOBJ: one-fourth of the ricotta cheese mixture
+  PARG: the noodles
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: 1 cup of meat sauce
+    PREP: with
+
+
+SENTID: 8
+SENT: Sprinkle with 1/2 cup mozzarella cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/2 cup mozzarella cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Repeat process 3 times .
+PREDID: 0
+PRED: repeat
+  DOBJ: process 3 times
+
+
+SENTID: 10
+SENT: Top with remaining Parmesan cheese .
+PREDID: 0
+PRED: top
+  PARG: remaining parmesan cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake , uncovered , at 350 degrees F for 40 to 45 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 350 degrees f
+    PREP: at
+  PARG: 40 to 45 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Let stand for 10 minutes before cutting .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+
+
+SENTID: 13
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: To make the dressing , place the peanut butter , soy sauce , rice vinegar , chili-garlic sauce , brown sugar , ginger , red pepper flakes , and 3 tablespoons of chicken broth together in a blender or bowl of a food processor .
+PREDID: 0
+PRED: place
+  DOBJ: the peanut butter , soy sauce , rice vinegar , chili-garlic sauce , brown sugar , ginger , red pepper flakes , 3 tablespoons of chicken broth
+  PARG: make the dressing
+    PREP: to
+  PARG: a blender or bowl of a food processor
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Thin the dressing to your taste by adding more chicken broth or water .
+PREDID: 0
+PRED: water
+  DOBJ: the dressing
+  PARG: your taste
+    PREP: to
+  PARG: adding more chicken broth
+    PREP: by
+  OARG: thin
+
+
+SENTID: 4
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Add the linguine and cook until al dente , 8 to 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the linguine
+
+PREDID: 1
+PRED: cook
+  PARG: al dente , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain and place pasta into a large mixing bowl .
+PREDID: 0
+PRED: drain
+  DOBJ: pasta
+
+PREDID: 1
+PRED: place
+  PARG: a large mixing bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Add the chicken , carrots , green onions , red pepper , celery , and cilantro to the bowl with the linguine .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken , carrots , green onions , red pepper , celery , cilantro
+  PARG: the bowl
+    PREP: to
+  PARG: the linguine
+    PREP: with
+
+
+SENTID: 8
+SENT: Pour the dressing over the noodle-chicken mixture and toss until mixture is evenly coated .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the noodle-chicken mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: mixture is evenly coated
+    PREP: until
+
+
+SENTID: 9
+SENT: Divide the salad among eight serving plates , and sprinkle peanuts over each serving .
+PREDID: 0
+PRED: divide
+  DOBJ: the salad
+  PARG: eight serving plates
+    PREP: among
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: peanuts
+  PARG: each serving
+    PREP: over
+

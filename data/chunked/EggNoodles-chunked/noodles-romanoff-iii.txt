@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Immediately add sour cream and cottage cheese to pasta ;
+PREDID: 0
+PRED: add
+  DOBJ: sour cream, cottage cheese
+  PARG: pasta
+    PREP: to
+  OARG: immediately
+
+
+SENTID: 5
+SENT: mix together .
+PREDID: 0
+PRED: mix
+  OARG: together
+
+
+SENTID: 6
+SENT: Add Worcestershire sauce , onion and garlic to mixture , if desired .
+PREDID: 0
+PRED: add
+  DOBJ: worcestershire sauce , onion, garlic
+  PARG: mixture
+    PREP: to
+  PARG: desired
+    PREP: if
+
+
+SENTID: 7
+SENT: Pour mixture into a lightly greased two-quart baking dish and top with bread crumbs .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: a lightly greased two-quart baking dish
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: bread crumbs
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake in preheated oven for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+

@@ -1,0 +1,348 @@
+SENTID: 0
+SENT: Place sausage and ground beef into a large saucepan over medium heat ;
+PREDID: 0
+PRED: place
+  DOBJ: sausage, ground beef
+  PARG: a large saucepan
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir until meat is browned and crumbly , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: meat is browned, crumbly , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Break the meat apart as it cooks .
+PREDID: 0
+PRED: break
+  DOBJ: the meat
+  PARG: it cooks
+    PREP: as
+  OARG: apart
+
+
+SENTID: 3
+SENT: Stir in mushrooms , 1 teaspoon salt , 1/2 teaspoon black pepper , Italian herb seasoning , and red pepper flakes .
+PREDID: 0
+PRED: stir
+  PARG: mushrooms , 1 teaspoon salt , 1/2 teaspoon black pepper , italian herb seasoning , red pepper flakes
+    PREP: in
+
+
+SENTID: 4
+SENT: Turn heat to medium-high and cook until mushrooms have given off their juices and bottom of pan is almost dry .
+PREDID: 0
+PRED: turn
+  DOBJ: heat
+  PARG: medium-high, cook
+    PREP: to
+  PARG: mushrooms have given off their juices, bottom of pan is almost dry
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour prepared marinara sauce into meat mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: prepared marinara sauce
+  PARG: meat mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Pour water into marinara sauce jar and shake to get all the sauce out of the jar ;
+PREDID: 0
+PRED: pour
+  DOBJ: water
+  PARG: marinara sauce jar
+    PREP: into
+
+PREDID: 1
+PRED: shake
+  PARG: get all the sauce
+    PREP: to
+  PARG: of the jar
+    PREP: out
+
+
+SENTID: 7
+SENT: add to mixture .
+PREDID: 0
+PRED: add
+  PARG: mixture
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat to low and simmer until meat is extremely tender , about 2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: meat is extremely tender , about 2 hours
+    PREP: until
+
+
+SENTID: 9
+SENT: Add a little more water if sauce becomes too thick .
+PREDID: 0
+PRED: add
+  DOBJ: a little more water
+  PARG: sauce becomes
+    PREP: if
+  OARG: too
+
+
+SENTID: 10
+SENT: Skim excess fat from surface of the sauce and season with more salt and black pepper , if needed .
+PREDID: 0
+PRED: skim
+  DOBJ: excess fat
+  PARG: surface of the sauce
+    PREP: from
+
+PREDID: 1
+PRED: season
+  PARG: more salt, black pepper
+    PREP: with
+  PARG: needed
+    PREP: if
+
+
+SENTID: 11
+SENT: Turn off heat .
+PREDID: 0
+PRED: turn
+  PARG: heat
+    PREP: off
+
+
+SENTID: 12
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 13
+SENT: Beat eggs in a large bowl and stir in ricotta cheese , 8 ounces diced mozzarella cheese , and 2/3 cup Parmigiano-Reggiano cheese .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: ricotta cheese , 8 ounces diced mozzarella cheese , 2/3 cup parmigiano-reggiano cheese
+    PREP: in
+
+
+SENTID: 14
+SENT: Season cheese mixture with 1 teaspoon salt , 1/4 teaspoon black pepper , and cayenne pepper ;
+PREDID: 0
+PRED: season
+  DOBJ: cheese mixture
+  PARG: 1 teaspoon salt , 1/4 teaspoon black pepper , cayenne pepper
+    PREP: with
+
+
+SENTID: 15
+SENT: mix in parsley .
+PREDID: 0
+PRED: mix
+  PARG: parsley
+    PREP: in
+
+
+SENTID: 16
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 17
+SENT: Cook lasagna in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 18
+SENT: Drain and rinse noodles and set aside in a bowl of cold water .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: rinse
+
+PREDID: 2
+PRED: set
+  PARG: a bowl of cold water
+    PREP: in
+  OARG: aside
+
+
+SENTID: 19
+SENT: Spread 1/4 the sauce into the bottom of a 10x15-inch baking pan .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 the sauce
+  PARG: the bottom of a 10x15-inch baking pan
+    PREP: into
+
+
+SENTID: 20
+SENT: Top with 1/3 the noodles and spread 1/2 the ricotta cheese mixture over noodles .
+PREDID: 0
+PRED: top
+  PARG: 1/3 the noodles
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  DOBJ: 1/2 the ricotta cheese mixture
+  PARG: noodles
+    PREP: over
+
+
+SENTID: 21
+SENT: Spread 1/4 the meat sauce over the cheese , top with 1/3 the noodles , and spread remaining 1/2 the ricotta mixture over the noodles .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 the meat sauce
+  PARG: the cheese
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: 1/3 the noodles
+    PREP: with
+
+PREDID: 2
+PRED: spread
+  DOBJ: remaining 1/2 the ricotta mixture
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 22
+SENT: Spread 1/4 the meat sauce over the cheese filling .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 the meat sauce
+  PARG: the cheese filling
+    PREP: over
+
+
+SENTID: 23
+SENT: Tap the casserole dish lightly on a sturdy work surface to settle the layers .
+PREDID: 0
+PRED: tap
+  DOBJ: the casserole dish
+  PARG: a sturdy work surface
+    PREP: on
+  PARG: settle the layers
+    PREP: to
+  OARG: lightly
+
+
+SENTID: 24
+SENT: Arrange last 1/3 the noodles over sauce and spread remaining 1/4 the sauce over the noodles .
+PREDID: 0
+PRED: arrange
+  DOBJ: 1/3 the noodles
+  PARG: sauce
+    PREP: over
+  OARG: last
+
+PREDID: 1
+PRED: spread
+  DOBJ: remaining 1/4 the sauce
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 25
+SENT: Dot top of the casserole with 4 ounces diced fresh mozzarella cheese and sprinkle with 1/2 cup Parmigiano-Reggiano cheese .
+PREDID: 0
+PRED: dot
+  DOBJ: top of the casserole
+  PARG: 4 ounces diced fresh mozzarella cheese
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: 1/2 cup parmigiano-reggiano cheese
+    PREP: with
+
+
+SENTID: 26
+SENT: Place casserole onto a baking sheet to catch spills .
+PREDID: 0
+PRED: place
+  DOBJ: casserole
+  PARG: a baking sheet
+    PREP: onto
+  PARG: catch spills
+    PREP: to
+
+
+SENTID: 27
+SENT: Bake in the preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 28
+SENT: Remove foil and cook until lasagna is golden brown and bubbling , 30 to 35 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: cook
+  PARG: lasagna is golden brown, bubbling , 30 to 35 more minutes
+    PREP: until
+
+
+SENTID: 29
+SENT: Let set for 20 minutes before cutting into squares .
+PREDID: 0
+PRED: let
+  DOBJ: set
+  PARG: 20 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+  PARG: squares
+    PREP: into
+

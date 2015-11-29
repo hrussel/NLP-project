@@ -1,0 +1,191 @@
+SENTID: 0
+SENT: Crumble ground beef into a large skillet over medium heat ;
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: sprinkle with seasoned salt .
+PREDID: 0
+PRED: sprinkle
+  PARG: seasoned salt
+    PREP: with
+
+
+SENTID: 2
+SENT: Drain excess grease from skillet and return to heat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: return
+  PARG: heat
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir onion , nutmeg , and cloves into the beef .
+PREDID: 0
+PRED: stir
+  DOBJ: onion , nutmeg , cloves
+  PARG: the beef
+    PREP: into
+
+
+SENTID: 4
+SENT: Whisk hot water and flour together in a bowl until smooth ;
+PREDID: 0
+PRED: whisk
+  DOBJ: hot water
+
+PREDID: 1
+PRED: flour
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: pour over beef mixture and mix .
+PREDID: 0
+PRED: pour
+  PARG: beef mixture
+    PREP: over
+
+PREDID: 1
+PRED: mix
+
+
+SENTID: 6
+SENT: Stir mushroom soup into the beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: mushroom soup
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Place a cover on the skillet .
+PREDID: 0
+PRED: place
+  DOBJ: a cover
+  PARG: the skillet
+    PREP: on
+
+
+SENTID: 8
+SENT: Reduce heat to medium-low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 9
+SENT: Stirring occasionally , cook at a simmer until thickened , about 30 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: a simmer
+    PREP: at
+  PARG: thickened , about 30 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 10
+SENT: Whisk sour cream , parsley , and dry mustard together in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: sour cream , parsley , dry mustard
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Stir sour cream mixture into the beef mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: sour cream mixture
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 12
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Continue cooking at a simmer uncovered until hot , 15 to 20 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: a simmer uncovered
+    PREP: at
+  PARG: hot , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 15
+SENT: Cook egg noodles in the boiling water until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+
+
+SENTID: 16
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 17
+SENT: Transfer noodles to a large bowl .
+PREDID: 0
+PRED: transfer
+  DOBJ: noodles
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 18
+SENT: Ladle beef mixture over the noodles and mix .
+PREDID: 0
+PRED: ladle
+  DOBJ: beef mixture
+  PARG: the noodles
+    PREP: over
+
+PREDID: 1
+PRED: mix
+

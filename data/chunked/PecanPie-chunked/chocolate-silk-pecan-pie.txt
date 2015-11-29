@@ -1,0 +1,207 @@
+SENTID: 0
+SENT: Heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Place pie crust in 9-inch glass pie plate as directed on box for One-Crust Filled Pie .
+PREDID: 0
+PRED: place
+  DOBJ: pie crust
+  PARG: 9-inch glass pie plate
+    PREP: in
+  PARG: directed
+    PREP: as
+  PARG: box
+    PREP: on
+  PARG: one-crust filled pie
+    PREP: for
+
+
+SENTID: 2
+SENT: In small bowl , beat eggs with electric mixer on medium speed until well blended .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: small bowl
+    PREP: in
+  PARG: electric mixer
+    PREP: with
+  PARG: medium speed
+    PREP: on
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 3
+SENT: Add granulated sugar , corn syrup , butter and salt ;
+PREDID: 0
+PRED: add
+  DOBJ: granulated sugar , corn syrup , butter, salt
+
+
+SENTID: 4
+SENT: beat 1 minute .
+PREDID: 0
+PRED: beat
+  OARG: 1 minute
+
+
+SENTID: 5
+SENT: Stir in pecans .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour into crust-lined pie plate .
+PREDID: 0
+PRED: pour
+  PARG: crust-lined pie plate
+    PREP: into
+
+
+SENTID: 7
+SENT: Cover crust edge with 2 - to 3-inch-wide strips of foil to prevent excessive browning ;
+PREDID: 0
+PRED: cover
+  DOBJ: crust edge
+  PARG: 2
+    PREP: with
+  PARG: 3-inch-wide strips of foil
+    PREP: to
+  OARG: to prevent excessive browning
+
+
+SENTID: 8
+SENT: remove foil during last 15 minutes of bake time .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+  PARG: last 15 minutes of bake time
+    PREP: during
+
+
+SENTID: 9
+SENT: Bake 40 to 55 minutes or until center of pie is puffed and golden brown .
+PREDID: 0
+PRED: bake
+  PARG: center of pie is puffed, golden brown
+    PREP: until
+  OARG: 40 to 55 minutes
+
+
+SENTID: 10
+SENT: Cool 1 hour .
+PREDID: 0
+PRED: cool
+  OARG: 1 hour
+
+
+SENTID: 11
+SENT: Meanwhile , in blender or food processor , place chocolate filling ingredients .
+PREDID: 0
+PRED: place
+  DOBJ: chocolate filling ingredients
+  PARG: blender or food processor
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 12
+SENT: Cover ;
+PREDID: 0
+PRED: cover
+
+
+SENTID: 13
+SENT: blend about 1 minute or until smooth .
+PREDID: 0
+PRED: blend
+  PARG: 1 minute
+    PREP: about
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 14
+SENT: Gently stir chocolate filling ;
+PREDID: 0
+PRED: stir
+  DOBJ: chocolate filling
+  OARG: gently
+
+
+SENTID: 15
+SENT: pour over cooled pecan filling in crust .
+PREDID: 0
+PRED: pour
+  PARG: cooled pecan filling
+    PREP: over
+  PARG: crust
+    PREP: in
+
+
+SENTID: 16
+SENT: Refrigerate at least 1 hour or until firm before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  PARG: firm before serving
+    PREP: until
+
+
+SENTID: 17
+SENT: Just before serving , in small bowl , beat whipping cream , powdered sugar and 1/4 teaspoon vanilla with mixer on high speed until stiff peaks form .
+PREDID: 0
+PRED: beat
+  DOBJ: whipping cream , powdered sugar, 1/4 teaspoon vanilla
+  PARG: serving
+    PREP: before
+  PARG: small bowl
+    PREP: in
+  PARG: mixer
+    PREP: with
+  PARG: high speed
+    PREP: on
+  PARG: stiff peaks form
+    PREP: until
+  OARG: just
+
+
+SENTID: 18
+SENT: Spoon or pipe whipped cream over filling .
+PREDID: 0
+PRED: spoon
+  DOBJ: whipped cream
+
+PREDID: 1
+PRED: pipe
+  PARG: filling
+    PREP: over
+
+
+SENTID: 19
+SENT: Garnish with chocolate curls .
+PREDID: 0
+PRED: garnish
+  PARG: chocolate curls
+    PREP: with
+
+
+SENTID: 20
+SENT: Cover and refrigerate any remaining pie .
+PREDID: 0
+PRED: cover
+  DOBJ: any remaining pie
+
+PREDID: 1
+PRED: refrigerate
+

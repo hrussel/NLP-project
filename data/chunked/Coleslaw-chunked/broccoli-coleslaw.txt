@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: In a small bowl combine oil , vinegar , sugar and the seasoning packet from the ramen noodles .
+PREDID: 0
+PRED: combine
+  DOBJ: oil , vinegar , sugar, the seasoning packet
+  PARG: a small bowl
+    PREP: in
+  PARG: the ramen noodles
+    PREP: from
+
+
+SENTID: 1
+SENT: Mix well and refrigerate at least one hour before serving , or overnight .
+PREDID: 0
+PRED: mix
+  PARG: least one hour
+    PREP: at
+  OARG: well
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+  OARG: overnight
+
+
+SENTID: 2
+SENT: In a large bowl combine broccoli , carrots , green onions and sunflower seeds .
+PREDID: 0
+PRED: combine
+  DOBJ: broccoli , carrots , green onions, sunflower seeds
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Crush ramen noodles and stir in .
+PREDID: 0
+PRED: crush
+  DOBJ: ramen noodles
+
+PREDID: 1
+PRED: stir
+  DOBJ: in
+
+
+SENTID: 4
+SENT: Pour dressing over salad about 10 minutes before serving .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+  PARG: 10 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+

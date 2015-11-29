@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: In a large bowl , toss together the cabbage , onion , and 1 cup sugar .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , onion , 1 cup sugar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: In a small saucepan , combine the vinegar , salt , celery seed , 1 teaspoon white sugar , mustard and oil .
+PREDID: 0
+PRED: combine
+  DOBJ: the vinegar , salt , celery seed , 1 teaspoon white sugar , mustard, oil
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 2
+SENT: Bring to a boil , and cook for 3 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Cool completely , then pour over cabbage mixture , and toss to coat .
+PREDID: 0
+PRED: cool
+  OARG: completely
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  PARG: cabbage mixture
+    PREP: over
+
+PREDID: 2
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Refrigerate overnight for best flavor .
+PREDID: 0
+PRED: refrigerate
+  PARG: best flavor
+    PREP: for
+  OARG: overnight
+

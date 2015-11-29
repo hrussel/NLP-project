@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Score fat layer on pork shoulder by making shallow cuts in a diamond pattern .
+PREDID: 0
+PRED: score
+  DOBJ: fat
+
+PREDID: 1
+PRED: layer
+  PARG: pork shoulder
+    PREP: on
+  PARG: making shallow cuts
+    PREP: by
+  PARG: a diamond pattern
+    PREP: in
+
+
+SENTID: 2
+SENT: Spread garlic , parsley , sage rosemary , and thyme over pork .
+PREDID: 0
+PRED: spread
+  DOBJ: garlic , parsley , sage rosemary , thyme
+  PARG: pork
+    PREP: over
+
+
+SENTID: 3
+SENT: Place pork in a large roasting pan , fat side up .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: a large roasting pan , fat side
+    PREP: in
+  OARG: up
+
+
+SENTID: 4
+SENT: Pour cider over pork .
+PREDID: 0
+PRED: pour
+  DOBJ: cider
+  PARG: pork
+    PREP: over
+
+
+SENTID: 5
+SENT: Bake in the preheated oven for 8 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 8 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: Transfer pork to a large platter ;
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a large platter
+    PREP: to
+
+
+SENTID: 7
+SENT: remove and discard any large pieces of fat and skin .
+PREDID: 0
+PRED: remove
+  DOBJ: any large pieces of fat, skin
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 8
+SENT: Pour pan drippings into a separate pot .
+PREDID: 0
+PRED: pour
+  DOBJ: pan drippings
+  PARG: a separate pot
+    PREP: into
+
+
+SENTID: 9
+SENT: Shred meat and return to the roasting pan .
+PREDID: 0
+PRED: shred
+  DOBJ: meat
+
+PREDID: 1
+PRED: return
+  PARG: the roasting pan
+    PREP: to
+
+
+SENTID: 10
+SENT: Whisk flour into water in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour
+  PARG: water
+    PREP: into
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: Bring drippings to a boil and stir in flour mixture ;
+PREDID: 0
+PRED: bring
+  DOBJ: drippings
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: flour mixture
+    PREP: in
+
+
+SENTID: 12
+SENT: Pour gravy over pork .
+PREDID: 0
+PRED: pour
+  DOBJ: gravy
+  PARG: pork
+    PREP: over
+

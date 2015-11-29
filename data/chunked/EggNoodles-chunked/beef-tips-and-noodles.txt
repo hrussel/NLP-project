@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a 13x9 inch casserole dish , combine the mushroom and beef onion soups , canned mushrooms and water .
+PREDID: 0
+PRED: combine
+  DOBJ: the mushroom, beef onion soups , canned mushrooms, water
+  PARG: a 13x9 inch casserole dish
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix thoroughly and add beef tips .
+PREDID: 0
+PRED: mix
+  DOBJ: beef tips
+  OARG: thoroughly
+
+PREDID: 1
+PRED: add
+
+
+SENTID: 3
+SENT: Turn to coat well .
+PREDID: 0
+PRED: turn
+  PARG: coat
+    PREP: to
+  OARG: well
+
+
+SENTID: 4
+SENT: Bake in a preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 5
+SENT: While beef tips are baking , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: beef tips are baking
+    PREP: while
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 7
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 8
+SENT: Serve beef tips and sauce over noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: beef tips
+
+PREDID: 1
+PRED: sauce
+  PARG: noodles
+    PREP: over
+

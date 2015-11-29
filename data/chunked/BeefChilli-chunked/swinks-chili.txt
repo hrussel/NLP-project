@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook beef and onion until beef is brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: beef is brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in chili seasoning and water .
+PREDID: 0
+PRED: stir
+  PARG: chili seasoning, water
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour beef mixture into a slow cooker and stir in tomato paste , chili beans , baked beans , tomato soup and diced tomatoes with green chiles .
+PREDID: 0
+PRED: pour
+  DOBJ: beef mixture
+  PARG: a slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: tomato paste , chili beans , baked beans , tomato soup, diced tomatoes
+    PREP: in
+  PARG: green chiles
+    PREP: with
+
+
+SENTID: 3
+SENT: Cook on low 2 hours .
+PREDID: 0
+PRED: cook
+  PARG: low 2 hours
+    PREP: on
+

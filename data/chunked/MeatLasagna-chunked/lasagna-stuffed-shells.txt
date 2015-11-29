@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: Preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Fill a large pot with lightly-salted water and bring to a rolling boil ;
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly-salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 2
+SENT: stir in the shell pasta and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the shell pasta
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has nearly cooked through but still very firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has nearly cooked through but still very firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well and rinse with cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: with
+  OARG: well
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 5
+SENT: While the shells are cooking , heat a large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: the shells are cooking
+    PREP: while
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: cook and stir the beef and onion in the hot skillet until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: the beef, onion
+
+PREDID: 1
+PRED: stir
+  PARG: the hot skillet
+    PREP: in
+  PARG: the beef is crumbly , evenly browned , no longer pink
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain and discard any excess grease ;
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 8
+SENT: stir in the tomato paste , tomato sauce , salt , oregano , and garlic powder .
+PREDID: 0
+PRED: stir
+  PARG: the tomato paste , tomato sauce , salt , oregano , garlic powder
+    PREP: in
+
+
+SENTID: 9
+SENT: Bring to a simmer and cook for 5 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Spread half of the sauce into a 9x13-inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: half of the sauce
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 11
+SENT: Beat the eggs in a mixing bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: Stir in the cottage cheese , 3/4 of the mozzarella cheese , Parmesan cheese , parsley , salt , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the cottage cheese , 3/4 of the mozzarella cheese , parmesan cheese , parsley , salt , pepper
+    PREP: in
+
+
+SENTID: 13
+SENT: Spoon the cheese mixture into the shells and set them into the prepared baking dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: the cheese mixture
+  PARG: the shells
+    PREP: into
+
+PREDID: 1
+PRED: set
+  DOBJ: them
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 14
+SENT: Once all the shells have been filled , pour the remaining meat sauce over the shells and sprinkle with the remaining mozzarella cheese .
+PREDID: 0
+PRED: pour
+  DOBJ: all the shells have been filled
+  PARG: the shells
+    PREP: over
+  OARG: once
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the remaining mozzarella cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Bake in the preheated oven until the shells are hot in the center and the mozzarella cheese is melted and bubbly , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the shells are hot in the center, the mozzarella cheese is melted, bubbly , about 30 minutes
+    PREP: until
+

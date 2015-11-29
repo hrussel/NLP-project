@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: Combine pesto and lemon juice in small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: pesto, lemon juice
+  PARG: small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Evenly brush beef steak with 1 tablespoon pesto mixture .
+PREDID: 0
+PRED: brush
+  DOBJ: beef steak
+  PARG: 1 tablespoon pesto mixture
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 2
+SENT: Place steaks on grid over medium , ash-covered coals .
+PREDID: 0
+PRED: place
+  DOBJ: steaks
+  PARG: grid
+    PREP: on
+  PARG: medium , ash-covered coals
+    PREP: over
+
+
+SENTID: 3
+SENT: Grill , covered , 11 to 15 minutes -LRB- over medium heat on preheated gas grill , 13 to 16 minutes -RRB- for medium rare -LRB- 145 degrees F -RRB- to medium -LRB- 160 degrees F -RRB- doneness , turning occasionally .
+PREDID: 0
+PRED: grill
+  PARG: medium heat
+    PREP: over
+  PARG: preheated gas grill , 13 to 16 minutes -rrb-
+    PREP: on
+  PARG: medium rare -lrb- 145 degrees f -rrb-
+    PREP: for
+  PARG: medium -lrb- 160 degrees f -rrb- doneness , turning
+    PREP: to
+  OARG: covered , 11 to 15 minutes -lrb-
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Meanwhile , preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Spray 10x15-inch rimmed baking sheet with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: 10x15-inch rimmed baking sheet
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 6
+SENT: Place dough on baking sheet and pat dough to edges of baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: dough
+  PARG: baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: pat
+  DOBJ: dough
+  PARG: edges of baking sheet
+    PREP: to
+
+
+SENTID: 7
+SENT: Spread dough with remaining 3 tablespoons pesto mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: dough
+  PARG: remaining 3 tablespoons pesto mixture
+    PREP: with
+
+
+SENTID: 8
+SENT: Top with tomatoes and cheese .
+PREDID: 0
+PRED: top
+  PARG: tomatoes, cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in 425 degrees F oven , 15 to 18 minutes or until crust is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 425 degrees f oven , 15 to 18 minutes
+    PREP: in
+  PARG: crust is golden brown
+    PREP: until
+
+
+SENTID: 10
+SENT: Carve steak into slices ;
+PREDID: 0
+PRED: carve
+  DOBJ: steak
+  PARG: slices
+    PREP: into
+
+
+SENTID: 11
+SENT: season with salt , if desired .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+  PARG: desired
+    PREP: if
+
+
+SENTID: 12
+SENT: Top pizza evenly with arugula and steak slices ;
+PREDID: 0
+PRED: top
+  DOBJ: pizza
+  PARG: arugula, steak slices
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 13
+SENT: sprinkle with red pepper , as desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: red pepper
+    PREP: with
+  PARG: desired
+    PREP: as
+

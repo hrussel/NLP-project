@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Heat a large skillet over medium-high heat and stir in Italian sausage and ground sirloin .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: italian sausage, ground sirloin
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook and stir until meat is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: meat is crumbly , evenly browned , no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 3
+SENT: Transfer meat to a large Dutch oven ;
+PREDID: 0
+PRED: transfer
+  DOBJ: meat
+  PARG: a large dutch oven
+    PREP: to
+
+
+SENTID: 4
+SENT: place over medium-high heat .
+PREDID: 0
+PRED: place
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Stir in chopped onion ;
+PREDID: 0
+PRED: stir
+  PARG: chopped onion
+    PREP: in
+
+
+SENTID: 6
+SENT: add red , yellow , and green bell peppers , garlic , and jalapeno peppers .
+PREDID: 0
+PRED: add
+  DOBJ: red , yellow , green bell peppers , garlic , jalapeno peppers
+
+
+SENTID: 7
+SENT: Mix in chili powder , brown sugar , cumin , tomato paste , oregano , salt , black pepper , and bay leaves .
+PREDID: 0
+PRED: mix
+  PARG: chili powder , brown sugar , cumin , tomato paste , oregano , salt , black pepper , bay leaves
+    PREP: in
+
+
+SENTID: 8
+SENT: Stirring constantly , pour in wine , chopped tomatoes and their juice , kidney beans , tomato sauce , and chopped chipotle chiles in sauce .
+PREDID: 0
+PRED: pour
+  DOBJ: stirring
+  PARG: wine , chopped tomatoes, their juice , kidney beans , tomato sauce , chopped chipotle chiles
+    PREP: in
+  PARG: sauce
+    PREP: in
+  OARG: constantly
+
+
+SENTID: 9
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Cover , reduce heat to low , and simmer , stirring occasionally , for 1 hour .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  DOBJ: stirring
+  PARG: 1 hour
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 11
+SENT: Uncover and simmer , stirring occasionally , until thickened , about 30 minutes .
+PREDID: 0
+PRED: uncover
+  DOBJ: stirring
+
+PREDID: 1
+PRED: simmer
+  PARG: thickened , about 30 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 12
+SENT: Discard bay leaves before serving .
+PREDID: 0
+PRED: discard
+  DOBJ: bay leaves
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook noodles until tender and drain .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: tender
+    PREP: until
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 2
+SENT: Combine noodles , corned beef , cheese , cream of chicken soup , milk and onion .
+PREDID: 0
+PRED: combine
+  DOBJ: noodles , corned beef , cheese , cream of chicken soup , milk, onion
+
+
+SENTID: 3
+SENT: Pour into a 2 quart casserole dish .
+PREDID: 0
+PRED: pour
+  PARG: a 2 quart casserole dish
+    PREP: into
+
+
+SENTID: 4
+SENT: Top with buttered bread crumbs .
+PREDID: 0
+PRED: top
+  PARG: buttered bread crumbs
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 45 minutes
+    PREP: for
+

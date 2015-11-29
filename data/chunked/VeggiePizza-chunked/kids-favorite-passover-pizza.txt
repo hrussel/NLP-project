@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread marinara sauce on the pieces of matzo .
+PREDID: 0
+PRED: spread
+  DOBJ: marinara sauce
+  PARG: the pieces of matzo
+    PREP: on
+
+
+SENTID: 2
+SENT: Sprinkle garlic salt and oregano over the tomato sauce .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: garlic salt, oregano
+  PARG: the tomato sauce
+    PREP: over
+
+
+SENTID: 3
+SENT: Cover with cheese , tomato slices , and olives .
+PREDID: 0
+PRED: cover
+  PARG: cheese , tomato slices , olives
+    PREP: with
+
+
+SENTID: 4
+SENT: Place pizzas on cookie sheets .
+PREDID: 0
+PRED: place
+  DOBJ: pizzas
+  PARG: cookie sheets
+    PREP: on
+
+
+SENTID: 5
+SENT: Bake for 5 minutes at 350 degrees F -LRB- 175 degrees C -RRB- , or until cheese has melted .
+PREDID: 0
+PRED: bake
+  PARG: 5 minutes
+    PREP: for
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: cheese has melted
+    PREP: until
+

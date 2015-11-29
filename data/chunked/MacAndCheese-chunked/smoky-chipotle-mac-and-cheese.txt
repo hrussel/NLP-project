@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2-quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Stir soup , evaporated milk , Colby cheese , and chipotle chile into the cooked pasta until well combined .
+PREDID: 0
+PRED: stir
+  DOBJ: soup , evaporated milk , colby cheese , chipotle chile
+  PARG: the cooked pasta
+    PREP: into
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Spoon mixture into the prepared casserole dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: the prepared casserole dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Stir together panko bread crumbs and olive oil in a small bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: panko bread crumbs, olive oil
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Sprinkle bread crumb mixture over the top of casserole .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: bread crumb mixture
+  PARG: the top of casserole
+    PREP: over
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until the top is browned and the casserole is bubbling , 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the top is browned, the casserole is bubbling , 25 to 30 minutes
+    PREP: until
+

@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , stir together flour , 1/2 cup sugar , salt and 1 teaspoon cinnamon .
+PREDID: 0
+PRED: stir
+  DOBJ: flour , 1/2 cup sugar , salt, 1 teaspoon cinnamon
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in milk , banana , apples , orange zest and vanilla extract .
+PREDID: 0
+PRED: stir
+  PARG: milk , banana , apples , orange zest, vanilla extract
+    PREP: in
+
+
+SENTID: 4
+SENT: Spoon batter into prepared muffin cups . Bake in preheated oven until golden brown , about 25 to 30 minutes .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: golden brown , about 25 to 30 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Check bake time by inserting a toothpick into the center of a muffin .
+PREDID: 0
+PRED: check
+  DOBJ: bake time
+  PARG: inserting a toothpick
+    PREP: by
+  PARG: the center of a muffin
+    PREP: into
+
+
+SENTID: 6
+SENT: While muffins bake , combine 1/4 cup white sugar and 3 tablespoons water in a small saucepan .
+PREDID: 0
+PRED: bake
+  PARG: muffins
+    PREP: while
+
+PREDID: 1
+PRED: combine
+  DOBJ: 1/4 cup white sugar, 3 tablespoons water
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 7
+SENT: Bring mixture to a boil and cook for 1 minute .
+PREDID: 0
+PRED: bring
+  DOBJ: mixture
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 1 minute
+    PREP: for
+

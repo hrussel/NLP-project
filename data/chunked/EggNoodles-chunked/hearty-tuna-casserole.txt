@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2 quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2 quart casserole dish
+
+
+SENTID: 2
+SENT: Bring a large pot of salted water to a boil , add noodles , and cook until al dente ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: noodles
+
+PREDID: 2
+PRED: cook
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a large mixing bowl , combine noodles , tuna , celery , and green onion .
+PREDID: 0
+PRED: combine
+  DOBJ: noodles , tuna , celery , green onion
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in sour cream , mustard , and mayonnaise .
+PREDID: 0
+PRED: stir
+  PARG: sour cream , mustard , mayonnaise
+    PREP: in
+
+
+SENTID: 6
+SENT: Season with salt and thyme .
+PREDID: 0
+PRED: season
+  PARG: salt, thyme
+    PREP: with
+
+
+SENTID: 7
+SENT: Spoon 1/2 of the noodle mixture into the prepared casserole dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: 1/2 of the noodle mixture
+  PARG: the prepared casserole dish
+    PREP: into
+
+
+SENTID: 8
+SENT: Arrange a layer of zucchini over the mixture .
+PREDID: 0
+PRED: arrange
+  DOBJ: a layer of zucchini
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 9
+SENT: Top with the remaining noodles , followed by a layer of zucchini .
+PREDID: 0
+PRED: top
+  PARG: the remaining noodles , followed
+    PREP: with
+  PARG: a layer of zucchini
+    PREP: by
+
+
+SENTID: 10
+SENT: Top the entire casserole with cheese .
+PREDID: 0
+PRED: top
+  DOBJ: the entire casserole
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in preheated oven for 30 minutes , or until hot and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: hot, bubbly
+    PREP: until
+
+
+SENTID: 12
+SENT: Sprinkle the casserole with tomatoes before serving .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the casserole
+  PARG: tomatoes
+    PREP: with
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Melt margarine in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: margarine
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add beef strips , and fry until browned .
+PREDID: 0
+PRED: add
+  DOBJ: beef strips
+
+PREDID: 1
+PRED: fry
+  PARG: browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in onion and cook , stirring , for 3 minutes , or until softened .
+PREDID: 0
+PRED: stir
+  PARG: onion
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: 3 minutes
+    PREP: for
+  PARG: softened
+    PREP: until
+
+
+SENTID: 3
+SENT: Sprinkle flour over the meat , and stir into the pan juices until blended .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: flour
+  PARG: the meat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the pan juices
+    PREP: into
+  PARG: blended
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually mix in the beef broth , Burgundy , tomato paste and thyme .
+PREDID: 0
+PRED: mix
+  PARG: the beef broth , burgundy , tomato paste, thyme
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 5
+SENT: Reduce heat to low , and simmer for 40 to 45 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 40 to 45 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: During the last 15 minutes of the cooking , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: the last 15 minutes of the cooking
+    PREP: during
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Add egg noodles , and cook until tender , about 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 7 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove the burgundy beef from the heat and stir in sour cream .
+PREDID: 0
+PRED: remove
+  DOBJ: the burgundy beef
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+
+SENTID: 9
+SENT: Serve over hot egg noodles .
+PREDID: 0
+PRED: serve
+  PARG: hot egg noodles
+    PREP: over
+

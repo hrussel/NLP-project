@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Pour sweet and sour sauce into a large bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: sweet, sour sauce
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Sprinkle ground ginger into the bowl and mix it thoroughly with the sauce .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: ground ginger
+  PARG: the bowl
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  DOBJ: it
+  PARG: the sauce
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 2
+SENT: Place romaine lettuce and bean sprouts into the bowl of sauce and toss it a few times .
+PREDID: 0
+PRED: place
+  DOBJ: romaine lettuce, bean sprouts
+  PARG: the bowl of sauce
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  DOBJ: it a few times
+
+
+SENTID: 3
+SENT: Add the shredded chicken to the bowl and toss it thoroughly with the lettuce and bean sprouts .
+PREDID: 0
+PRED: add
+  DOBJ: the shredded chicken
+  PARG: the bowl
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  DOBJ: it
+  PARG: the lettuce, bean sprouts
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Transfer the salad into a large serving bowl or 4 separate serving bowls .
+PREDID: 0
+PRED: transfer
+  DOBJ: the salad
+  PARG: a large serving bowl or 4 separate serving bowls
+    PREP: into
+
+
+SENTID: 5
+SENT: Top with cornflakes , almonds and a pinch of black ground pepper .
+PREDID: 0
+PRED: top
+  PARG: cornflakes , almonds, a pinch of black ground pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Sprinkle with sesame seeds , if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: sesame seeds
+    PREP: with
+  PARG: desired
+    PREP: if
+

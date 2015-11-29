@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Cook bacon in a large , deep skillet over medium-high heat until crisp , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: crisp , about 10 minutes
+    PREP: until
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 1
+SENT: Drain bacon slices on a paper towel-lined plate and allow to cool ;
+PREDID: 0
+PRED: drain
+  DOBJ: bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 2
+SENT: crumble .
+PREDID: 0
+PRED: crumble
+
+
+SENTID: 3
+SENT: Mix cooked chicken , crumbled bacon , water chestnuts , celery , and red grapes in a large salad bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cooked chicken , crumbled bacon , water chestnuts , celery , red grapes
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Whisk mayonnaise , dried parsley , lime juice , onion powder , ground ginger , Worcestershire sauce , salt , and black pepper together to make a smooth dressing .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , dried parsley , lime juice , onion powder , ground ginger , worcestershire sauce , salt , black pepper
+  PARG: make a smooth dressing
+    PREP: to
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour dressing over chicken mixture and stir to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: chicken mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Cover the bowl and refrigerate until cold , at least 30 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: the bowl
+
+PREDID: 1
+PRED: refrigerate
+  PARG: cold , at least 30 minutes
+    PREP: until
+

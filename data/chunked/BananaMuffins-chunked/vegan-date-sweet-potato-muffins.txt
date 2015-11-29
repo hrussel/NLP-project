@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Place diced sweet potato into a small pan with enough water to cover , bring to a boil , and cook until tender , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: diced sweet potato
+  PARG: a small pan
+    PREP: into
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain sweet potato ;
+PREDID: 0
+PRED: drain
+  DOBJ: sweet potato
+
+
+SENTID: 4
+SENT: set aside to cool .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Whisk together spelt flour , oats , baking soda , and cinnamon in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: spelt flour , oats , baking soda , cinnamon
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Stir together bananas , oil , and sugar in a separate bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: bananas , oil , sugar
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Stir banana mixture into spelt mixture just until dry ingredients are moistened ;
+PREDID: 0
+PRED: stir
+  DOBJ: banana mixture
+  PARG: spelt mixture
+    PREP: into
+  PARG: dry ingredients are moistened
+    PREP: until
+  OARG: just
+
+
+SENTID: 8
+SENT: fold in dates and sweet potato .
+PREDID: 0
+PRED: fold
+  PARG: dates, sweet potato
+    PREP: in
+
+
+SENTID: 9
+SENT: Divide mixture evenly into 12 muffin cups . Bake in the preheated oven until a toothpick inserted into the center comes out clean , about 18 minutes .
+PREDID: 0
+PRED: divide
+  DOBJ: mixture
+  PARG: 12 muffin cups
+    PREP: into
+  OARG: evenly
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , about 18 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool in pan for 10 minutes ;
+PREDID: 0
+PRED: cool
+  PARG: pan
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: remove to cool completely on a wire rack .
+PREDID: 0
+PRED: remove
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

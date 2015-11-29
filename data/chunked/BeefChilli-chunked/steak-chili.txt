@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: In a large pot over medium high heat , combine the oil and steak and saute for about 5 minutes , or until steak is browned .
+PREDID: 0
+PRED: combine
+  DOBJ: the oil, steak
+  PARG: a large pot
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  PARG: about 5 minutes
+    PREP: for
+  PARG: steak is browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Add the onions , garlic and chile pepper and saute for another 5 minutes , or until the onions are translucent .
+PREDID: 0
+PRED: add
+  DOBJ: the onions , garlic, chile pepper
+
+PREDID: 1
+PRED: saute
+  PARG: another 5 minutes
+    PREP: for
+  PARG: the onions are translucent
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the chili powder , cumin , cayenne pepper , tomatoes and kidney beans .
+PREDID: 0
+PRED: add
+  DOBJ: the chili powder , cumin , cayenne pepper , tomatoes, kidney beans
+
+
+SENTID: 3
+SENT: Reduce heat to low , cover and simmer for about one hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: about one hour
+    PREP: for
+
+PREDID: 2
+PRED: simmer
+

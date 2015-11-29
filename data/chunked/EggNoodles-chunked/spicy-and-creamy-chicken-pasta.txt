@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: Mix cider vinegar , 1/4 cup vegetable oil , seasoned salt , red pepper flakes , monosodium glutamate , black pepper , and salt in a resealable plastic bag .
+PREDID: 0
+PRED: mix
+  DOBJ: cider vinegar , 1/4 cup vegetable oil , seasoned salt , red pepper flakes , monosodium glutamate , black pepper , salt
+  PARG: a resealable plastic bag
+    PREP: in
+
+
+SENTID: 1
+SENT: Place chicken pieces into marinade , seal bag , and marinate in refrigerator for 1 hour .
+PREDID: 0
+PRED: place
+  DOBJ: chicken pieces
+  PARG: marinade
+    PREP: into
+
+PREDID: 1
+PRED: seal
+  DOBJ: bag
+
+PREDID: 2
+PRED: marinate
+  PARG: refrigerator
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 2
+SENT: Heat 2 tablespoons vegetable oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons vegetable oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Remove chicken from marinade ;
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: marinade
+    PREP: from
+
+
+SENTID: 4
+SENT: discard used marinade .
+PREDID: 0
+PRED: discard
+  DOBJ: used marinade
+
+
+SENTID: 5
+SENT: Cook chicken in hot oil until browned and no longer pink inside , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+  PARG: hot oil
+    PREP: in
+  PARG: browned, no longer pink inside , about 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir frequently .
+PREDID: 0
+PRED: stir
+  OARG: frequently
+
+
+SENTID: 7
+SENT: Transfer chicken to a bowl with a slotted spoon , leaving accumulated juices in skillet .
+PREDID: 0
+PRED: transfer
+  DOBJ: chicken
+  PARG: a bowl
+    PREP: to
+  PARG: a slotted spoon , leaving accumulated juices
+    PREP: with
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 8
+SENT: Whisk whipping cream into pan juices and cook until cream has started to thicken , about 5 minutes .
+PREDID: 0
+PRED: whisk
+  DOBJ: whipping cream
+  PARG: pan juices
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: cream has started to thicken , about 5 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir chicken back into skillet and reduce heat to low .
+PREDID: 0
+PRED: stir
+  DOBJ: chicken
+  PARG: skillet
+    PREP: into
+  OARG: back
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 10
+SENT: Simmer chicken in cream sauce until sauce is thick , 15 to 20 minutes .
+PREDID: 0
+PRED: simmer
+  DOBJ: chicken
+  PARG: cream sauce
+    PREP: in
+  PARG: sauce is thick , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 12
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 13
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 14
+SENT: Gently stir cooked noodles into skillet with chicken and cream sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: cooked noodles
+  PARG: skillet
+    PREP: into
+  PARG: chicken, cream sauce
+    PREP: with
+  OARG: gently
+

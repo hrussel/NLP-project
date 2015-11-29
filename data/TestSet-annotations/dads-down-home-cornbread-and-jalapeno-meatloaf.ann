@@ -1,0 +1,88 @@
+T1	predicate 0 7	Preheat
+T2	predicate 55 61	grease
+T3	predicate 84 87	Mix
+T4	predicate 157 160	mix
+T5	predicate 289 292	mix
+T6	predicate 333 337	Form
+T7	predicate 369 374	place
+T8	predicate 403 407	Bake
+T9	predicate 513 518	cover
+T10	arg_duration 408 414	1 hour
+R1	duration Arg1:T8 Arg2:T10	
+R2	object Arg1:T8 Arg2:T7	
+T11	arg_location 415 436	in the preheated oven
+R3	location Arg1:T8 Arg2:T11	
+T12	Evolution 418 436	the preheated oven
+E1	Evolution:T12 Cause:T1
+T13	arg_other 438 503	to a minimum internal temperature of 160 degrees F (72 degrees C)
+R4	other Arg1:T8 Arg2:T13	
+R5	object Arg1:T9 Arg2:T8	
+T14	arg_other 519 537	with aluminum foil
+R6	other Arg1:T9 Arg2:T14	
+T15	arg_duration 538 605	during the last 15 minutes of cook time if the loaf is overly brown
+R7	duration Arg1:T9 Arg2:T15	
+R8	object Arg1:T6 Arg2:T5	
+R9	object Arg1:T7 Arg2:T6	
+T16	arg_location 375 402	in the prepared baking dish
+R10	location Arg1:T7 Arg2:T16	
+T17	Evolution 378 402	the prepared baking dish
+E2	Evolution:T17 Cause:T2
+T18	arg_object 62 82	a medium baking dish
+R11	object Arg1:T2 Arg2:T18	
+T19	arg_object 8 12	oven
+T20	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R12	object Arg1:T1 Arg2:T19	
+R13	duration Arg1:T1 Arg2:T20	
+T21	arg_object 88 103	the ground beef
+T22	arg_object 108 119	ground pork
+R14	object Arg1:T3 Arg2:T21	
+R15	object Arg1:T3 Arg2:T22	
+T23	arg_location 120 135	in a large bowl
+R16	location Arg1:T3 Arg2:T23	
+T24	arg_location 137 155	In a separate bowl
+R17	location Arg1:T4 Arg2:T24	
+T25	arg_object 161 169	the corn
+T26	arg_object 171 180	cornbread
+T27	arg_object 182 192	sour cream
+T28	arg_object 194 211	pepperjack cheese
+T29	arg_object 213 218	onion
+T30	arg_object 220 224	milk
+T31	arg_object 226 229	egg
+T32	arg_object 231 247	jalapeno peppers
+T33	arg_object 249 255	garlic
+T34	arg_object 257 268	kosher salt
+T35	arg_object 274 280	pepper
+R18	object Arg1:T4 Arg2:T25	
+R19	object Arg1:T4 Arg2:T26	
+R20	object Arg1:T4 Arg2:T27	
+R21	object Arg1:T4 Arg2:T28	
+R22	object Arg1:T4 Arg2:T29	
+R23	object Arg1:T4 Arg2:T30	
+R24	object Arg1:T4 Arg2:T31	
+R25	object Arg1:T4 Arg2:T32	
+R26	object Arg1:T4 Arg2:T33	
+R27	object Arg1:T4 Arg2:T34	
+R28	object Arg1:T4 Arg2:T35	
+T36	arg_object 293 309	the corn mixture
+R29	object Arg1:T5 Arg2:T36	
+T37	Evolution 293 309	the corn mixture
+E3	Evolution:T37 Cause:T4
+T38	arg_co-object 310 331	into the meat mixture
+R30	co-object Arg1:T5 Arg2:T38	
+T39	Evolution 315 331	the meat mixture
+E4	Evolution:T39 Cause:T3
+T40	arg_other 338 363	into a rounded loaf shape
+R31	other Arg1:T6 Arg2:T40	
+T41	ingredient 88 103	the ground beef
+T42	ingredient 108 119	ground pork
+T43	ingredient 161 169	the corn
+T44	ingredient 171 180	cornbread
+T45	ingredient 182 192	sour cream
+T46	ingredient 194 211	pepperjack cheese
+T47	ingredient 213 218	onion
+T48	ingredient 220 224	milk
+T49	ingredient 226 229	egg
+T50	ingredient 231 247	jalapeno peppers
+T51	ingredient 249 255	garlic
+T52	ingredient 257 268	kosher salt
+T53	ingredient 274 280	pepper

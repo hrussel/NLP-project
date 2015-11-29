@@ -1,0 +1,210 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool , and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: While the eggs are cooking , place the potatoes in a saucepan with just enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: the eggs are cooking
+    PREP: while
+  PARG: a saucepan
+    PREP: in
+  PARG: just
+    PREP: with
+  PARG: cover
+    PREP: to
+  OARG: enough
+
+
+SENTID: 5
+SENT: Bring to a boil , and cook for 10 to 15 minutes , or until tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove from heat , drain , and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Heat oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Add onions , and saute until lightly browned and translucent , about 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: onions
+
+PREDID: 1
+PRED: saute
+  PARG: lightly browned, translucent , about 10 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Flake salmon and spread it over the bottom of a glass baking dish or serving dish .
+PREDID: 0
+PRED: spread
+  DOBJ: flake salmon
+  PARG: the bottom of a glass baking dish or serving dish
+    PREP: over
+
+
+SENTID: 10
+SENT: Spread the sauteed onions over the salmon .
+PREDID: 0
+PRED: spread
+  DOBJ: the sauteed onions
+  PARG: the salmon
+    PREP: over
+
+
+SENTID: 11
+SENT: Gently spread a little bit of the mayonnaise over the onion layer .
+PREDID: 0
+PRED: spread
+  DOBJ: a little bit of the mayonnaise
+  PARG: the onion
+    PREP: over
+  OARG: gently
+
+PREDID: 1
+PRED: layer
+
+
+SENTID: 12
+SENT: Top with potatoes , and spread enough mayonnaise just to add moisture to the layer .
+PREDID: 0
+PRED: top
+  PARG: potatoes
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  DOBJ: mayonnaise
+  PARG: add moisture
+    PREP: to
+  PARG: the layer
+    PREP: to
+  OARG: enough
+  OARG: just
+
+
+SENTID: 13
+SENT: Finally , slice the eggs , and cover the layer of potatoes .
+PREDID: 0
+PRED: slice
+  DOBJ: the eggs
+  OARG: finally
+
+PREDID: 1
+PRED: cover
+  DOBJ: the layer of potatoes
+
+
+SENTID: 14
+SENT: Spread mayonnaise over the eggs , and garnish with chopped parsley .
+PREDID: 0
+PRED: spread
+  DOBJ: mayonnaise
+  PARG: the eggs
+    PREP: over
+
+PREDID: 1
+PRED: garnish
+  PARG: chopped parsley
+    PREP: with
+
+
+SENTID: 15
+SENT: Chill for 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: 1 hour
+    PREP: for
+  PARG: serving
+    PREP: before
+

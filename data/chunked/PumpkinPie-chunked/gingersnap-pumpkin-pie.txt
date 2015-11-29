@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine cookie crumbs , granulated sugar , and melted butter in a 9 inch pie pan .
+PREDID: 0
+PRED: combine
+  DOBJ: cookie crumbs , granulated sugar , melted butter
+  PARG: a 9 inch pie pan
+    PREP: in
+
+
+SENTID: 2
+SENT: Press into sides .
+PREDID: 0
+PRED: press
+  PARG: sides
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake for 5 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Cool completely .
+PREDID: 0
+PRED: cool
+  OARG: completely
+
+
+SENTID: 5
+SENT: Combine pumpkin , brown sugar , cornstarch , cinnamon , nutmeg , salt , vanilla , eggs , and milk .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , brown sugar , cornstarch , cinnamon , nutmeg , salt , vanilla , eggs , milk
+
+
+SENTID: 6
+SENT: Blend with wire whisk until combined .
+PREDID: 0
+PRED: blend
+  PARG: wire whisk
+    PREP: with
+  PARG: combined
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour into crust .
+PREDID: 0
+PRED: pour
+  PARG: crust
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake at 325 degrees F -LRB- 165 degrees C -RRB- for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: at
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 9
+SENT: Let cool .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 10
+SENT: Refrigerate to chill .
+PREDID: 0
+PRED: refrigerate
+  PARG: chill
+    PREP: to
+

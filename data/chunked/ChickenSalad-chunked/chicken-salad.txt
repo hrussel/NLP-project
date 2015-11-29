@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Combine the chicken , celery , spice blend and mayonnaise .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , celery , spice blend, mayonnaise
+
+
+SENTID: 1
+SENT: Mix all together ;
+PREDID: 0
+PRED: mix
+  DOBJ: all together
+
+
+SENTID: 2
+SENT: more or less mayonnaise can be added , depending on your preference .
+PREDID: 0
+PRED: can
+  DOBJ: more or less mayonnaise
+  PARG: your preference
+    PREP: on
+
+
+SENTID: 3
+SENT: Voila , your summer salad is ready to serve !
+PREDID: 0
+PRED: ready
+  DOBJ: voila , your summer salad is
+  PARG: serve
+    PREP: to
+

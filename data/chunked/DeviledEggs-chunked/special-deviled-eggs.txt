@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Place eggs in a medium saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool , peel and cut lengthwise .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  DOBJ: peel, cut lengthwise
+
+
+SENTID: 4
+SENT: Remove yolks from eggs .
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+  PARG: eggs
+    PREP: from
+
+
+SENTID: 5
+SENT: In a medium bowl , mash the yolks and mix together with mayonnaise , onion , sweet pickle relish , horseradish and mustard .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: mayonnaise , onion , sweet pickle relish , horseradish, mustard
+    PREP: with
+  OARG: together
+
+
+SENTID: 6
+SENT: With a fork or pastry bag , fill the egg halves with the yolk mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: the egg halves
+  PARG: a fork or pastry bag
+    PREP: with
+  PARG: the yolk mixture
+    PREP: with
+
+
+SENTID: 7
+SENT: Garnish with paprika , salt and pepper .
+PREDID: 0
+PRED: garnish
+  PARG: paprika , salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Chill until serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: until
+

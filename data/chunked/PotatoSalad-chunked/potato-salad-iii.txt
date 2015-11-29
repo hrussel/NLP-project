@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Bring a pot of salted water to boil , place potatoes in water .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of salted water
+  PARG: boil
+    PREP: to
+
+PREDID: 1
+PRED: place
+  DOBJ: potatoes
+  PARG: water
+    PREP: in
+
+
+SENTID: 1
+SENT: Boil until potatoes are tender .
+PREDID: 0
+PRED: boil
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 3
+SENT: Let the potatoes cool 30 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: cool
+  OARG: 30 minutes
+
+
+SENTID: 4
+SENT: Peel the skin off of the potatoes and cube them .
+PREDID: 0
+PRED: peel
+  DOBJ: the skin
+  PARG: of the potatoes
+    PREP: off
+
+PREDID: 1
+PRED: cube
+  DOBJ: them
+
+
+SENTID: 5
+SENT: In a medium size mixing bowl combine potatoes , mayonnaise , ranch dressing , onion , celery , green pepper , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , mayonnaise , ranch dressing , onion , celery , green pepper , salt, pepper
+  PARG: a medium size mixing bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Cover and refrigerate until well chilled .
+PREDID: 0
+PRED: cover
+  PARG: well chilled
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+

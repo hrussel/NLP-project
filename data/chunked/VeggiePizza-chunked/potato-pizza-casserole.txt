@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook the ground beef and onion in a large skillet over medium heat until evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: evenly browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain off grease .
+PREDID: 0
+PRED: drain
+  PARG: grease
+    PREP: off
+
+
+SENTID: 3
+SENT: Season with salt , pepper , and garlic powder .
+PREDID: 0
+PRED: season
+  PARG: salt , pepper , garlic powder
+    PREP: with
+
+
+SENTID: 4
+SENT: Spread the sliced potatoes in a layer on the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: the sliced potatoes
+  PARG: a layer
+    PREP: in
+  PARG: the bottom of a 9x13 inch baking dish
+    PREP: on
+
+
+SENTID: 5
+SENT: Spread the ground beef and onion over the potatoes .
+PREDID: 0
+PRED: spread
+  DOBJ: the ground beef, onion
+  PARG: the potatoes
+    PREP: over
+
+
+SENTID: 6
+SENT: Place slices of pepperoni over the ground beef .
+PREDID: 0
+PRED: place
+  DOBJ: slices of pepperoni
+  PARG: the ground beef
+    PREP: over
+
+
+SENTID: 7
+SENT: In a saucepan over medium heat , combine the tomato soup , Cheddar cheese soup , and milk .
+PREDID: 0
+PRED: combine
+  DOBJ: the tomato soup , cheddar cheese soup , milk
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Season with oregano , Italian seasoning , and brown sugar .
+PREDID: 0
+PRED: season
+  PARG: oregano , italian seasoning , brown sugar
+    PREP: with
+
+
+SENTID: 9
+SENT: Mix well , and cook until heated through .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 10
+SENT: Pour over the contents of the baking dish .
+PREDID: 0
+PRED: pour
+  PARG: the contents of the baking dish
+    PREP: over
+
+
+SENTID: 11
+SENT: Cover the dish with aluminum foil , and bake for 30 minutes in the preheated oven .
+PREDID: 0
+PRED: cover
+  DOBJ: the dish
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 12
+SENT: Remove the aluminum foil , sprinkle mozzarella cheese over the top , and bake for an additional 15 minutes , until the cheese is melted and bubbly .
+PREDID: 0
+PRED: remove
+  DOBJ: the aluminum foil
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: mozzarella cheese
+  PARG: the top
+    PREP: over
+
+PREDID: 2
+PRED: bake
+  PARG: an additional 15 minutes
+    PREP: for
+  PARG: the cheese is melted, bubbly
+    PREP: until
+

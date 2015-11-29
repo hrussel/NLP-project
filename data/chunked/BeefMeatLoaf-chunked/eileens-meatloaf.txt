@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the beef , egg , sour cream and Worcestershire sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , egg , sour cream, worcestershire sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix in soup mix , cheese , and bread crumbs .
+PREDID: 0
+PRED: mix
+  PARG: soup
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: cheese , bread crumbs
+
+
+SENTID: 3
+SENT: Form mixture into a loaf , and place in a 9x5 inch loaf pan .
+PREDID: 0
+PRED: form
+  DOBJ: mixture
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a 9x5 inch loaf pan
+    PREP: in
+
+
+SENTID: 4
+SENT: Cover with foil .
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove foil and continue baking for another 10 to 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil, continue baking
+  PARG: another 10 to 15 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Let stand 5 to 10 minutes before serving for easier slicing .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  PARG: easier slicing
+    PREP: for
+  OARG: stand 5 to 10 minutes
+

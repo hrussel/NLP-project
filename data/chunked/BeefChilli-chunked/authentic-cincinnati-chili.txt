@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Place the ground beef in a large pan , cover with about 1 quart of cold water , and bring to a boil , stirring and breaking up the beef with a fork to a fine texture .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a large pan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: about 1 quart of cold water
+    PREP: with
+
+PREDID: 2
+PRED: bring
+  DOBJ: the beef
+  PARG: a boil , stirring, breaking
+    PREP: to
+  PARG: a fork
+    PREP: with
+  PARG: a fine texture
+    PREP: to
+  OARG: up
+
+
+SENTID: 1
+SENT: Slowly boil until the meat is thoroughly cooked , about 30 minutes , then remove from heat and refrigerate in the pan overnight .
+PREDID: 0
+PRED: remove
+  DOBJ: boil
+  PARG: the meat is thoroughly cooked , about 30 minutes
+    PREP: until
+  PARG: heat, refrigerate
+    PREP: from
+  PARG: the pan
+    PREP: in
+  OARG: slowly
+  OARG: overnight
+
+
+SENTID: 2
+SENT: Place the beef mixture over medium heat , and stir in the onions , tomato sauce , vinegar , Worcestershire sauce , garlic , chocolate , chili powder , salt , cumin , cinnamon , cayenne pepper , cloves , allspice berries , and bay leaf .
+PREDID: 0
+PRED: place
+  DOBJ: the beef mixture
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the onions , tomato sauce , vinegar , worcestershire sauce , garlic , chocolate , chili powder , salt , cumin , cinnamon , cayenne pepper , cloves , allspice berries , bay leaf
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a boil , reduce heat to a simmer , and cook , stirring occasionally , for 3 hours .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  DOBJ: stirring
+  PARG: 3 hours
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Add water if necessary to prevent the chili from burning .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: necessary
+    PREP: if
+  PARG: burning
+    PREP: from
+  OARG: to prevent the chili
+

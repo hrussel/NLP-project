@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Cut several slits into the fatty side of the pork shoulder .
+PREDID: 0
+PRED: cut
+  DOBJ: several slits
+  PARG: the fatty side of the pork shoulder
+    PREP: into
+
+
+SENTID: 1
+SENT: Insert garlic slices into slits .
+PREDID: 0
+PRED: insert
+  DOBJ: garlic slices
+  PARG: slits
+    PREP: into
+
+
+SENTID: 2
+SENT: Transfer pork to a slow cooker , fat side up .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a slow cooker , fat side
+    PREP: to
+  OARG: up
+
+
+SENTID: 3
+SENT: Mix coffee , onion , Worcestershire sauce , and liquid smoke in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: coffee , onion , worcestershire sauce , liquid smoke
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: pour over pork .
+PREDID: 0
+PRED: pour
+  PARG: pork
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook pork on Low until very tender , about 8 hours .
+PREDID: 0
+PRED: cook
+  DOBJ: pork
+  PARG: low
+    PREP: on
+  PARG: very tender , about 8 hours
+    PREP: until
+
+
+SENTID: 6
+SENT: Carefully remove pork from slow cooker to a large plate ;
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: slow cooker
+    PREP: from
+  PARG: a large plate
+    PREP: to
+  OARG: carefully
+
+
+SENTID: 7
+SENT: discard excess fat .
+PREDID: 0
+PRED: discard
+  DOBJ: excess fat
+
+
+SENTID: 8
+SENT: Shred pork with 2 forks or by hand .
+PREDID: 0
+PRED: shred
+  DOBJ: pork
+  PARG: 2 forks
+    PREP: with
+  PARG: hand
+    PREP: by
+
+
+SENTID: 9
+SENT: Reserve about 1/2 cup juices from the slow cooker ;
+PREDID: 0
+PRED: reserve
+  PARG: 1/2 cup juices
+    PREP: about
+  PARG: the slow cooker
+    PREP: from
+
+
+SENTID: 10
+SENT: discard remaining liquid .
+PREDID: 0
+PRED: discard
+  DOBJ: remaining liquid
+
+
+SENTID: 11
+SENT: Return shredded pork and juices to slow cooker and season with red pepper flakes , salt , and pepper .
+PREDID: 0
+PRED: return
+  DOBJ: shredded pork, juices
+  OARG: to slow cooker
+
+PREDID: 1
+PRED: season
+  PARG: red pepper flakes , salt , pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Add barbeque sauce and stir .
+PREDID: 0
+PRED: add
+  DOBJ: barbeque sauce
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 13
+SENT: Heat pork on Low until sauce is hot , about 30 minutes more .
+PREDID: 0
+PRED: heat
+  DOBJ: pork
+  PARG: low
+    PREP: on
+  PARG: sauce is hot , about 30 minutes more
+    PREP: until
+
+
+SENTID: 14
+SENT: Pile pork over toasted buns to serve .
+PREDID: 0
+PRED: pile
+  DOBJ: pork
+  PARG: toasted buns
+    PREP: over
+  PARG: serve
+    PREP: to
+

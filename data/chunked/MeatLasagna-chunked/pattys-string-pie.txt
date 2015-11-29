@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Brown ground beef in a large skillet over medium heat until crumbly and no longer pink , about 10 minutes .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crumbly, no longer pink , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and set aside in a bowl .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir onion and green bell pepper in the same skillet until onion is translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, green bell pepper
+
+PREDID: 1
+PRED: stir
+  PARG: the same skillet
+    PREP: in
+  PARG: onion is translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir onion , green pepper , and spaghetti sauce into ground beef .
+PREDID: 0
+PRED: stir
+  DOBJ: onion , green pepper , spaghetti sauce
+  PARG: ground beef
+    PREP: into
+
+
+SENTID: 5
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Cook spaghetti in the boiling water , stirring occasionally until cooked through but firm to the bite , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: spaghetti
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Drain and transfer to a bowl .
+PREDID: 0
+PRED: drain
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 8
+SENT: Let pasta cool slightly and stir beaten eggs and Parmesan cheese into spaghetti .
+PREDID: 0
+PRED: let
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cool
+  DOBJ: beaten eggs, parmesan cheese
+  OARG: slightly
+
+PREDID: 2
+PRED: stir
+  PARG: spaghetti
+    PREP: into
+
+
+SENTID: 9
+SENT: Spread spaghetti mixture into a 9x13-inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: spaghetti mixture
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 10
+SENT: Spread ricotta cheese over pasta mixture in an even layer ;
+PREDID: 0
+PRED: spread
+  DOBJ: ricotta cheese
+  PARG: pasta mixture
+    PREP: over
+  PARG: an even layer
+    PREP: in
+
+
+SENTID: 11
+SENT: top with ground beef mixture .
+PREDID: 0
+PRED: top
+  PARG: ground beef mixture
+    PREP: with
+
+
+SENTID: 12
+SENT: Sprinkle mozzarella cheese evenly over the top of the casserole .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: mozzarella cheese
+  PARG: the top of the casserole
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 13
+SENT: Bake in the preheated oven until the casserole is set in the center and the cheese topping is melted and lightly browned , about 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the casserole is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  DOBJ: browned
+  PARG: the center, the cheese topping is melted
+    PREP: in
+  PARG: 35 minutes
+    PREP: about
+  OARG: lightly
+

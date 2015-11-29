@@ -1,0 +1,50 @@
+T1	predicate 0 13	Beat together
+T2	arg_object 14 18	milk
+T3	arg_object 20 24	eggs
+T4	arg_object 26 31	sugar
+T5	arg_object 33 45	cocoa powder
+T6	arg_object 47 60	baking powder
+T7	arg_object 66 70	salt
+T8	predicate 72 76	Heat
+R1	object Arg1:T1 Arg2:T2	
+R2	object Arg1:T1 Arg2:T3	
+R3	object Arg1:T1 Arg2:T4	
+R4	object Arg1:T1 Arg2:T5	
+R5	object Arg1:T1 Arg2:T6	
+R6	object Arg1:T1 Arg2:T7	
+T9	arg_object 79 114	lightly buttered skillet or griddle
+T10	arg_other 115 131	over medium heat
+R7	object Arg1:T8 Arg2:T9	
+R8	other Arg1:T8 Arg2:T10	
+T11	predicate 133 136	Dip
+T12	arg_object 137 156	each slice of bread
+T13	arg_co-object 157 173	into egg mixture
+T14	arg_duration 174 191	until well soaked
+T15	arg_duration 193 218	about 20 seconds per side
+R9	object Arg1:T11 Arg2:T12	
+R10	co-object Arg1:T11 Arg2:T13	
+R11	duration Arg1:T11 Arg2:T14	
+R12	duration Arg1:T11 Arg2:T15	
+T16	predicate 220 225	Place
+T17	arg_location 226 232	in pan
+R13	object Arg1:T16 Arg2:T11	
+R14	location Arg1:T16 Arg2:T17	
+T18	predicate 238 242	cook
+R15	object Arg1:T18 Arg2:T16	
+T19	arg_duration 257 327	until they are no longer gooey or shiny in the middle when cut in half
+T20	arg_duration 329 358	about 3 to 4 minutes per side
+T21	arg_other 243 256	on both sides
+R16	other Arg1:T18 Arg2:T21	
+R17	duration Arg1:T18 Arg2:T19	
+R18	duration Arg1:T18 Arg2:T20	
+T22	Evolution 162 173	egg mixture
+E1	Evolution:T22 Cause:T1
+T24	ingredient 14 18	milk
+T25	ingredient 20 24	eggs
+T26	ingredient 26 31	sugar
+T27	ingredient 33 45	cocoa powder
+T28	ingredient 47 60	baking powder
+T29	ingredient 66 70	salt
+T30	ingredient 137 156	each slice of bread
+T23	Evolution 229 232	pan
+E2	Evolution:T23 Cause:T8

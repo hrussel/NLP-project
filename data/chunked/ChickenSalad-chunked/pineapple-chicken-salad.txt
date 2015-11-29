@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Combine drained pineapple and mandarin oranges in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: drained pineapple, mandarin oranges
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with plastic wrap and refrigerate 8 hours to overnight .
+PREDID: 0
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 8 hours
+  OARG: to overnight
+
+
+SENTID: 2
+SENT: Stir mayonnaise and mustard together in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise, mustard
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: add chicken , celery , mushrooms , green bell pepper , olives , and onion .
+PREDID: 0
+PRED: add
+  DOBJ: chicken , celery , mushrooms , green bell pepper , olives , onion
+
+
+SENTID: 4
+SENT: Stir mixture until evenly mixed .
+PREDID: 0
+PRED: stir
+  DOBJ: mixture
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 5
+SENT: Cover bowl with plastic wrap and refrigerate 8 hours to over night .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: over night
+    PREP: to
+  OARG: 8 hours
+
+
+SENTID: 6
+SENT: Stir pineapple and oranges into the chicken mixture to coat .
+PREDID: 0
+PRED: stir
+  DOBJ: pineapple, oranges
+  PARG: the chicken mixture
+    PREP: into
+  PARG: coat
+    PREP: to
+
+
+SENTID: 7
+SENT: Spoon into lettuce leaves and top with croutons to serve .
+PREDID: 0
+PRED: spoon
+  PARG: lettuce leaves
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: croutons
+    PREP: with
+  PARG: serve
+    PREP: to
+

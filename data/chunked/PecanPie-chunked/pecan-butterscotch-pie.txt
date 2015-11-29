@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: In the top of a double boiler , combine brown sugar , cornstarch , and 1/4 teaspoon . salt .
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , cornstarch , 1/4 teaspoon
+  PARG: the top of a double boiler
+    PREP: in
+
+PREDID: 1
+PRED: salt
+
+
+SENTID: 1
+SENT: Stir in milk and corn syrup .
+PREDID: 0
+PRED: stir
+  PARG: milk, corn syrup
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook over boiling water , stirring constantly , 20 minutes or until thickened .
+PREDID: 0
+PRED: cook
+  PARG: boiling water , stirring
+    PREP: over
+  PARG: thickened
+    PREP: until
+  OARG: constantly
+  OARG: 20 minutes
+
+
+SENTID: 3
+SENT: In a medium bowl , beat egg yolks until thick and lemon colored .
+PREDID: 0
+PRED: beat
+  DOBJ: egg yolks
+  PARG: a medium bowl
+    PREP: in
+  PARG: thick, lemon colored
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually stir 1/2 cup of hot mixture into yolks .
+PREDID: 0
+PRED: stir
+  DOBJ: 1/2 cup of hot mixture
+  PARG: yolks
+    PREP: into
+  OARG: gradually
+
+
+SENTID: 5
+SENT: Pour back into remaining milk mixture , stirring constantly .
+PREDID: 0
+PRED: pour
+  PARG: remaining milk mixture , stirring
+    PREP: into
+  OARG: back
+  OARG: constantly
+
+
+SENTID: 6
+SENT: Cook 5 minutes over boiling water , stirring frequently .
+PREDID: 0
+PRED: cook
+  PARG: boiling water , stirring
+    PREP: over
+  OARG: 5 minutes
+  OARG: frequently
+
+
+SENTID: 7
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 8
+SENT: stir in butter , vanilla and 3/4 cup pecans .
+PREDID: 0
+PRED: stir
+  PARG: butter , vanilla, 3/4 cup pecans
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour into pastry shell .
+PREDID: 0
+PRED: pour
+  PARG: pastry shell
+    PREP: into
+
+
+SENTID: 10
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- Beat egg whites cream of tartar , and pinch of salt until foamy .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c. -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: beat
+  DOBJ: egg whites cream of tartar , pinch of salt
+  PARG: foamy
+    PREP: until
+
+
+SENTID: 11
+SENT: Gradually add sugar , beating until stiff peaks form .
+PREDID: 0
+PRED: add
+  DOBJ: sugar , beating
+  PARG: stiff peaks form
+    PREP: until
+  OARG: gradually
+
+
+SENTID: 12
+SENT: Spread meringue over filling , sealing to edge of pastry .
+PREDID: 0
+PRED: spread
+  DOBJ: meringue
+  PARG: filling , sealing
+    PREP: over
+  PARG: edge of pastry
+    PREP: to
+
+
+SENTID: 13
+SENT: Sprinkle with remaining 1/4 cup pecans .
+PREDID: 0
+PRED: sprinkle
+  PARG: remaining 1/4 cup pecans
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in the preheated oven for 12 minutes , or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 12 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 15
+SENT: Cool to room temperature .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 16
+SENT: Chill thoroughly .
+PREDID: 0
+PRED: chill
+  OARG: thoroughly
+

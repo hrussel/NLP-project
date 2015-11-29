@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Stir together the peanut butter , peanut oil , tea , ginger , garlic , jalapeno pepper , salt , sugar , soy sauce , vinegar , and sesame oil in a large mixing bowl until incorporated .
+PREDID: 0
+PRED: stir
+  DOBJ: the peanut butter , peanut oil , tea , ginger , garlic , jalapeno pepper , salt , sugar , soy sauce , vinegar , sesame oil
+  PARG: a large mixing bowl
+    PREP: in
+  PARG: incorporated
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Place the egg noodles in a large bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: the egg noodles
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: add the cucumber and cilantro and mix together with your hands .
+PREDID: 0
+PRED: add
+  DOBJ: the cucumber, cilantro
+
+PREDID: 1
+PRED: mix
+  PARG: your hands
+    PREP: with
+  OARG: together
+
+
+SENTID: 3
+SENT: Pour the peanut sauce over the noodles ;
+PREDID: 0
+PRED: pour
+  DOBJ: the peanut sauce
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 4
+SENT: mix with your hands until evenly coated .
+PREDID: 0
+PRED: mix
+  PARG: your hands
+    PREP: with
+  PARG: evenly coated
+    PREP: until
+

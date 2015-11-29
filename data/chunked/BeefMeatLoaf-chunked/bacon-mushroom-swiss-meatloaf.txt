@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place bacon in a skillet and cook over medium heat until the pieces are browned .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: the pieces are browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove with a slotted spoon to paper towels .
+PREDID: 0
+PRED: remove
+  PARG: a slotted spoon
+    PREP: with
+  PARG: paper towels
+    PREP: to
+
+
+SENTID: 3
+SENT: Discard all but 1 tablespoon of bacon grease .
+PREDID: 0
+PRED: discard
+  DOBJ: all but 1 tablespoon of bacon
+
+PREDID: 1
+PRED: grease
+
+
+SENTID: 4
+SENT: Stir in onions and mushrooms , and cook until soft .
+PREDID: 0
+PRED: stir
+  PARG: onions, mushrooms
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: soft
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 6
+SENT: In a large bowl , stir together beef , egg , and milk .
+PREDID: 0
+PRED: stir
+  DOBJ: beef , egg , milk
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Stir in the onion and mushrooms .
+PREDID: 0
+PRED: stir
+  PARG: the onion, mushrooms
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix in about 4 ounces of Swiss cheese , and all but 1 tablespoon of bacon .
+PREDID: 0
+PRED: mix
+  PARG: about 4 ounces of swiss cheese , all but 1 tablespoon of bacon
+    PREP: in
+
+
+SENTID: 9
+SENT: Stir in cornflake crumbs , and mix until well blended .
+PREDID: 0
+PRED: stir
+  PARG: cornflake crumbs
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 10
+SENT: Shape into a loaf , and place in a meatloaf pan .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a meatloaf pan
+    PREP: in
+
+
+SENTID: 11
+SENT: Bake in a preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 12
+SENT: Drain fat , and sprinkle with remaining cheese and bacon .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining cheese, bacon
+    PREP: with
+
+
+SENTID: 13
+SENT: Return to oven , and bake until cheese is melted , about 5 minutes .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: cheese is melted , about 5 minutes
+    PREP: until
+

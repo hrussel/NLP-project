@@ -1,0 +1,259 @@
+SENTID: 0
+SENT: Soak bread slices in warm water in a bowl for 5 minutes ;
+PREDID: 0
+PRED: soak
+  DOBJ: bread slices
+  PARG: warm water
+    PREP: in
+  PARG: a bowl
+    PREP: in
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: squeeze bread dry and transfer to a large bowl .
+PREDID: 0
+PRED: squeeze
+  DOBJ: bread dry
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 2
+SENT: Melt butter in a skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: cook and stir onion and garlic in hot butter until onion is translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: hot butter
+    PREP: in
+  PARG: onion is translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add onion and garlic to bread .
+PREDID: 0
+PRED: add
+  DOBJ: onion, garlic
+  PARG: bread
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir 1Ê1/2 cup mozzarella cheese , eggs , Parmesan cheese , and Italian seasoning into bread and onions until thoroughly combined .
+PREDID: 0
+PRED: stir
+  DOBJ: 1Ê1/2 cup mozzarella cheese , eggs , parmesan cheese , italian seasoning
+  PARG: bread, onions
+    PREP: into
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Crumble ground beef into mixture ;
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: mix until thoroughly combined .
+PREDID: 0
+PRED: mix
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Form ground beef mixture into 1-inch meatballs .
+PREDID: 0
+PRED: form
+  DOBJ: ground beef mixture
+  PARG: 1-inch meatballs
+    PREP: into
+
+
+SENTID: 10
+SENT: Heat vegetable oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Set meatballs aside .
+PREDID: 0
+PRED: set
+  DOBJ: meatballs
+  OARG: aside
+
+
+SENTID: 12
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 13
+SENT: Cook lasagna in the boiling water , stirring occasionally until cooked through but firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 14
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 15
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 16
+SENT: Combine prepared spaghetti sauce , tomato paste , and Cheddar cheese soup in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: prepared spaghetti sauce , tomato paste , cheddar cheese soup
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 17
+SENT: Combine ricotta cheese , cottage cheese , 2 cups mozzarella cheese , and parsley in a separate bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: ricotta cheese , cottage cheese , 2 cups mozzarella cheese , parsley
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 18
+SENT: Spread 1 cup of sauce mixture into the bottom of a 9x13-inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 1 cup of sauce mixture
+  PARG: the bottom of a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 19
+SENT: Layer 1/3 the lasagna noodles over the sauce , overlapping if necessary .
+PREDID: 0
+PRED: layer
+  DOBJ: 1/3 the lasagna noodles
+  PARG: the sauce , overlapping
+    PREP: over
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 20
+SENT: Arrange meat balls over noodles .
+PREDID: 0
+PRED: arrange
+  DOBJ: meat balls
+  PARG: noodles
+    PREP: over
+
+
+SENTID: 21
+SENT: Place 1/3 the lasagna noodles over meat balls , and spread with cheese mixture in an even layer .
+PREDID: 0
+PRED: place
+  DOBJ: 1/3 the lasagna noodles
+  PARG: meat balls
+    PREP: over
+
+PREDID: 1
+PRED: spread
+  PARG: cheese mixture
+    PREP: with
+  PARG: an even layer
+    PREP: in
+
+
+SENTID: 22
+SENT: Top cheese layer with remaining 1/3 the lasagna noodles and spread remaining sauce over top layer of noodles .
+PREDID: 0
+PRED: top
+  DOBJ: cheese
+
+PREDID: 1
+PRED: layer
+  PARG: remaining 1/3 the lasagna noodles
+    PREP: with
+
+PREDID: 2
+PRED: spread
+  DOBJ: remaining sauce
+  PARG: top layer of noodles
+    PREP: over
+
+
+SENTID: 23
+SENT: Sprinkle top with 1 cup mozzarella cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top
+  PARG: 1 cup mozzarella cheese
+    PREP: with
+
+
+SENTID: 24
+SENT: Bake lasagna in the preheated oven until casserole is bubbling and the topping is melted , about 1 hour .
+PREDID: 0
+PRED: bake
+  DOBJ: lasagna
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole is bubbling, the topping is melted , about 1 hour
+    PREP: until
+

@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix together the ground beef , salt , pepper , ketchup , onion , Worcestershire sauce , cornflakes , and evaporated milk until evenly blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , salt , pepper , ketchup , onion , worcestershire sauce , cornflakes , evaporated milk
+  PARG: a medium bowl
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Divide the mixture in half , and spread onto the cut side of each half of the loaf of bread .
+PREDID: 0
+PRED: divide
+  DOBJ: the mixture
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: spread
+  PARG: the cut side of each half of the loaf of bread
+    PREP: onto
+
+
+SENTID: 3
+SENT: Place them crust side down onto a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: them crust side
+  PARG: a baking sheet
+    PREP: onto
+  OARG: down
+
+
+SENTID: 4
+SENT: Bake for 30 to 35 minutes in the preheated oven , until meat is no longer pink .
+PREDID: 0
+PRED: bake
+  PARG: 30 to 35 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: meat is no longer pink
+    PREP: until
+
+
+SENTID: 5
+SENT: During the last 5 minutes of baking , place the slices of cheese over the top to melt .
+PREDID: 0
+PRED: place
+  DOBJ: the slices of cheese
+  PARG: the last 5 minutes of baking
+    PREP: during
+  PARG: the top
+    PREP: over
+  PARG: melt
+    PREP: to
+
+
+SENTID: 6
+SENT: Enjoy .
+PREDID: 0
+PRED: enjoy
+

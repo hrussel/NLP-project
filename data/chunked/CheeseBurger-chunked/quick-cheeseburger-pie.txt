@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix 1Ê1/3 cups flour and 1/2 teaspoon salt .
+PREDID: 0
+PRED: mix
+  DOBJ: 1Ê1/3 cups flour, 1/2 teaspoon salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Cut in shortening until mixture resembles tiny peas .
+PREDID: 0
+PRED: cut
+  PARG: shortening
+    PREP: in
+  PARG: mixture resembles tiny peas
+    PREP: until
+
+
+SENTID: 3
+SENT: Add cold water 1 tablespoon at a time , stirring with a fork after each addition .
+PREDID: 0
+PRED: add
+  DOBJ: cold water 1 tablespoon
+  PARG: a time , stirring
+    PREP: at
+  PARG: a fork
+    PREP: with
+  PARG: each addition
+    PREP: after
+
+
+SENTID: 4
+SENT: Mix lightly just until pastry almost cleans sides of bowl .
+PREDID: 0
+PRED: mix
+  PARG: pastry almost cleans sides of bowl
+    PREP: until
+  OARG: lightly
+  OARG: just
+
+
+SENTID: 5
+SENT: Pat into bottom and sides of an 8 inch pie pan .
+PREDID: 0
+PRED: pat
+  PARG: bottom, sides of an 8 inch pie pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Crumble ground beef into a large skillet and saute over medium heat for 1 minute .
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: into
+
+PREDID: 1
+PRED: saute
+  PARG: medium heat
+    PREP: over
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 8
+SENT: Add onion and garlic .
+PREDID: 0
+PRED: add
+  DOBJ: onion, garlic
+
+
+SENTID: 9
+SENT: Continue to saute until onion is browned , about 10 minutes .
+PREDID: 0
+PRED: continue
+  PARG: saute
+    PREP: to
+  PARG: onion is browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Drain grease from mixture .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+  PARG: mixture
+    PREP: from
+
+
+SENTID: 11
+SENT: Sprinkle beef mixture with 1/2 teaspoon salt and 1/4 cup flour .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: beef mixture
+  PARG: 1/2 teaspoon salt, 1/4 cup flour
+    PREP: with
+
+
+SENTID: 12
+SENT: Stir in pickle liquid , milk , pickles , and 1 cup shredded cheese .
+PREDID: 0
+PRED: stir
+  PARG: pickle liquid , milk , pickles , 1 cup shredded cheese
+    PREP: in
+
+
+SENTID: 13
+SENT: Spoon mixture into pastry shell .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: pastry shell
+    PREP: into
+
+
+SENTID: 14
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: Sprinkle top with remaining 1 cup cheese and bake an additional 5 minutes , until pastry is golden brown and cheese is bubbly .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top
+  PARG: remaining 1 cup cheese
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: pastry is golden brown, cheese is bubbly
+    PREP: until
+  OARG: an additional 5 minutes
+

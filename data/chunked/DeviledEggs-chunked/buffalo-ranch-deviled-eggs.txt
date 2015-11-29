@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut each egg in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: place egg yolks in a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: egg yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 7
+SENT: stir in ranch dressing and hot Buffalo sauce until smooth .
+PREDID: 0
+PRED: stir
+  PARG: ranch dressing, hot buffalo sauce
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Spoon yolk mixture into a resealable plastic bag ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: a resealable plastic bag
+    PREP: into
+
+
+SENTID: 9
+SENT: snip off one corner of the bag .
+PREDID: 0
+PRED: snip
+  PARG: one corner of the bag
+    PREP: off
+
+
+SENTID: 10
+SENT: Place egg white halves cut-side-up on a serving platter ;
+PREDID: 0
+PRED: place
+  DOBJ: egg white halves cut-side-up
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 11
+SENT: pipe yolk mixture into whites .
+PREDID: 0
+PRED: pipe
+  DOBJ: yolk mixture
+  PARG: whites
+    PREP: into
+
+
+SENTID: 12
+SENT: Sprinkle with cayenne pepper .
+PREDID: 0
+PRED: sprinkle
+  PARG: cayenne pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Cut celery into tiny stalks and place one on top of each egg .
+PREDID: 0
+PRED: cut
+  DOBJ: celery
+  PARG: tiny stalks
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: one on top of each egg
+

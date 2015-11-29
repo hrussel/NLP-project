@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: Cook and stir ground beef , onions , bell peppers , garlic , chili seasoning , chili powder , ground cumin , onion powder , and garlic powder in a large pot over medium-high heat until meat is browned , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onions , bell peppers , garlic , chili seasoning , chili powder , ground cumin , onion powder , garlic powder
+
+PREDID: 1
+PRED: stir
+  PARG: a large pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: meat is browned , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir diced tomatoes , crushed tomatoes , stewed tomatoes , navy beans , chili beans , pinto beans , kidney beans , black beans , and black-eyed peas into beef mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: diced tomatoes , crushed tomatoes , stewed tomatoes , navy beans , chili beans , pinto beans , kidney beans , black beans , black-eyed peas
+  PARG: beef mixture
+    PREP: into
+
+
+SENTID: 2
+SENT: bring to a boil , reduce heat , and simmer until flavors blend and chili is warmed through , at least 30 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: flavors blend, chili is warmed through , at least 30 minutes
+    PREP: until
+

@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat eggs slightly in medium bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: medium bowl
+    PREP: in
+  OARG: slightly
+
+
+SENTID: 2
+SENT: Beat in sugar , and then blend in syrup , butter or margarine , vanilla , salt , and pecans .
+PREDID: 0
+PRED: beat
+  PARG: sugar
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: blend
+  PARG: syrup , butter or margarine , vanilla , salt , pecans
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour filling into unbaked pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: unbaked pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- , and continue baking 35 to 40 minutes ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  OARG: baking 35 to 40 minutes
+

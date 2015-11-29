@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: Heat olive oil in a large pot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Press ground beef into the hot oil to form one large patty ;
+PREDID: 0
+PRED: press
+  DOBJ: ground beef
+  PARG: the hot oil
+    PREP: into
+  PARG: form one large patty
+    PREP: to
+
+
+SENTID: 2
+SENT: let the bottom brown , 8 to 10 minutes .
+PREDID: 0
+PRED: let
+  OARG: the bottom brown , 8 to 10 minutes
+
+
+SENTID: 3
+SENT: Stir and break the ground beef into crumbles and cook until no longer pink , about 5 more minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: the ground beef
+
+PREDID: 1
+PRED: break
+  PARG: crumbles
+    PREP: into
+
+PREDID: 2
+PRED: cook
+  PARG: no longer pink , about 5 more minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir celery , onion , and green bell pepper into ground beef and cook until onion is translucent , about 5 minutes ;
+PREDID: 0
+PRED: stir
+  DOBJ: celery , onion , green bell pepper
+  PARG: ground beef
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: onion is translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: pour in stewed tomatoes , diced tomatoes with green chiles , tomato sauce , and water .
+PREDID: 0
+PRED: pour
+  PARG: stewed tomatoes , diced tomatoes
+    PREP: in
+  PARG: green chiles , tomato sauce , water
+    PREP: with
+
+
+SENTID: 6
+SENT: Break apart large chunks of stewed tomatoes .
+PREDID: 0
+PRED: break
+  DOBJ: large chunks of stewed tomatoes
+  OARG: apart
+
+
+SENTID: 7
+SENT: Stir in chili seasoning .
+PREDID: 0
+PRED: stir
+  PARG: chili seasoning
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix kidney beans and pinto beans into chili , season with salt and black pepper , and bring to a boil .
+PREDID: 0
+PRED: mix
+  DOBJ: kidney beans, pinto beans
+  PARG: chili
+    PREP: into
+
+PREDID: 1
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Reduce heat to low and simmer for 1 hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 10
+SENT: Mix vinegar into chili .
+PREDID: 0
+PRED: mix
+  DOBJ: vinegar
+  PARG: chili
+    PREP: into
+

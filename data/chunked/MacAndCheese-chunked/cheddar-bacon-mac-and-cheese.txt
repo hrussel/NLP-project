@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: Heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook macaroni as directed on package .
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni
+  PARG: directed
+    PREP: as
+  PARG: package
+    PREP: on
+
+
+SENTID: 2
+SENT: Meanwhile , melt butter in large saucepan on low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: large saucepan
+    PREP: in
+  PARG: low heat
+    PREP: on
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Stir in flour ;
+PREDID: 0
+PRED: stir
+  PARG: flour
+    PREP: in
+
+
+SENTID: 4
+SENT: cook 2 min .
+PREDID: 0
+PRED: cook
+  DOBJ: 2 min
+
+
+SENTID: 5
+SENT: Gradually stir in milk ;
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 6
+SENT: cook on medium heat until mixture comes to boil , stirring constantly .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: on
+  PARG: mixture comes to boil , stirring constantly
+    PREP: until
+
+
+SENTID: 7
+SENT: Simmer on low heat 3 to 5 min .
+PREDID: 0
+PRED: simmer
+  PARG: low heat 3 to 5 min
+    PREP: on
+
+
+SENTID: 8
+SENT: Add 1Ê1/2 cups cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: 1Ê1/2 cups cheese
+
+
+SENTID: 9
+SENT: cook and stir 5 min .
+PREDID: 0
+PRED: cook
+  DOBJ: 5 min
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 10
+SENT: Drain macaroni .
+PREDID: 0
+PRED: drain
+  DOBJ: macaroni
+
+
+SENTID: 11
+SENT: Add to sauce with bacon ;
+PREDID: 0
+PRED: add
+  PARG: sauce
+    PREP: to
+  PARG: bacon
+    PREP: with
+
+
+SENTID: 12
+SENT: mix lightly .
+PREDID: 0
+PRED: mix
+  OARG: lightly
+
+
+SENTID: 13
+SENT: Spoon into 1Ê1/2 quart casserole ;
+PREDID: 0
+PRED: spoon
+  PARG: 1Ê1/2 quart casserole
+    PREP: into
+
+
+SENTID: 14
+SENT: top with remaining cheese .
+PREDID: 0
+PRED: top
+  PARG: remaining cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Bake 20 min .
+PREDID: 0
+PRED: bake
+  DOBJ: 20 min
+

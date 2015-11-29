@@ -1,0 +1,64 @@
+T1	predicate 0 5	Scrub
+T2	predicate 39 42	cut
+T3	predicate 67 71	Boil
+T4	predicate 115 120	Drain
+T5	predicate 122 125	dry
+T6	predicate 130 133	cut
+T7	predicate 172 179	combine
+T8	predicate 227 231	toss
+T9	predicate 248 251	Add
+T10	arg_object 6 14	potatoes
+T11	ingredient 6 14	potatoes
+R1	object Arg1:T1 Arg2:T10	
+R2	object Arg1:T2 Arg2:T1	
+T12	arg_other 29 37	If large
+R3	other Arg1:T2 Arg2:T12	
+T13	arg_other 43 65	in half or in quarters
+R4	other Arg1:T2 Arg2:T13	
+T14	arg_object 72 80	potatoes
+T15	Evolution 72 80	potatoes
+E1	Evolution:T15 Cause:T2
+R5	object Arg1:T3 Arg2:T14	
+T16	arg_other 81 95	in their skins
+T17	arg_duration 96 113	until fork-tender
+R6	other Arg1:T3 Arg2:T16	
+R7	duration Arg1:T3 Arg2:T17	
+R8	object Arg1:T4 Arg2:T3	
+R9	object Arg1:T5 Arg2:T4	
+R10	object Arg1:T6 Arg2:T5	
+T18	arg_other 134 153	into 1/2 inch cubes
+R11	other Arg1:T6 Arg2:T18	
+T19	arg_location 155 170	In a salad bowl
+R12	location Arg1:T7 Arg2:T19	
+T20	arg_object 180 193	the  potatoes
+T21	Evolution 180 193	the  potatoes
+E2	Evolution:T21 Cause:T6
+R13	object Arg1:T7 Arg2:T20	
+T22	arg_object 195 205	sour cream
+T23	ingredient 195 205	sour cream
+T24	arg_object 207 213	yogurt
+T25	ingredient 207 213	yogurt
+T26	arg_object 219 225	chives
+T27	ingredient 219 225	chives
+R14	object Arg1:T7 Arg2:T22	
+R15	object Arg1:T7 Arg2:T24	
+R16	object Arg1:T7 Arg2:T26	
+R17	object Arg1:T8 Arg2:T7	
+T28	arg_other 232 238	gently
+T29	arg_other 239 246	to coat
+R18	other Arg1:T8 Arg2:T28	
+R19	other Arg1:T8 Arg2:T29	
+R20	co-object Arg1:T9 Arg2:T7	
+T30	arg_object 252 256	salt
+T31	arg_object 262 268	pepper
+T32	ingredient 262 268	pepper
+T33	ingredient 252 256	salt
+R21	object Arg1:T9 Arg2:T30	
+R22	object Arg1:T9 Arg2:T31	
+T34	arg_other 269 277	to taste
+R23	other Arg1:T9 Arg2:T34	
+T35	predicate 279 290	refrigerate
+R24	object Arg1:T35 Arg2:T9	
+T36	arg_duration 291 304	until chilled
+R25	duration Arg1:T35 Arg2:T36	
+R26	co-object Arg1:T4 Arg2:T3	

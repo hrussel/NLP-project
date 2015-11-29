@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Marinate chicken in salad dressing to cover , for at least 1 hour .
+PREDID: 0
+PRED: marinate
+  DOBJ: chicken
+  PARG: salad dressing
+    PREP: in
+  PARG: cover
+    PREP: to
+  PARG: at least 1 hour
+    PREP: for
+
+
+SENTID: 1
+SENT: Heat the chicken with Cajun blackening spice in olive oil .
+PREDID: 0
+PRED: heat
+  DOBJ: the chicken
+  PARG: cajun blackening spice
+    PREP: with
+  PARG: olive oil
+    PREP: in
+
+
+SENTID: 2
+SENT: Add crushed garlic , bell peppers , onion , mushrooms , wine and salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: crushed garlic , bell peppers , onion , mushrooms , wine, salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 3
+SENT: Saute until tender .
+PREDID: 0
+PRED: saute
+  PARG: tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Add chopped plum tomatoes and chopped fresh parsley to taste .
+PREDID: 0
+PRED: add
+  DOBJ: chopped plum tomatoes, chopped fresh parsley
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

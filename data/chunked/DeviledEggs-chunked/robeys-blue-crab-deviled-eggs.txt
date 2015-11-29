@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Place eggs in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring water to a boil and remove saucepan from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  DOBJ: saucepan
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain , cool , and peel .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut the eggs in half lengthwise and remove the yolks .
+PREDID: 0
+PRED: cut
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: the yolks
+
+
+SENTID: 5
+SENT: In a bowl , mash the yolks and mix with mayonnaise , paprika , mustard powder , and Old Bay seasoning .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: mayonnaise , paprika , mustard powder , old bay seasoning
+    PREP: with
+
+
+SENTID: 6
+SENT: Fold in the crabmeat .
+PREDID: 0
+PRED: fold
+  PARG: the crabmeat
+    PREP: in
+
+
+SENTID: 7
+SENT: Spoon the mixture evenly into the hollowed egg white halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: the mixture
+  PARG: the hollowed egg white halves
+    PREP: into
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Chill at least 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

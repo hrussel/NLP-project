@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: In a saucepan , stir together the brown sugar , butter and water .
+PREDID: 0
+PRED: stir
+  DOBJ: the brown sugar , butter, water
+  PARG: a saucepan
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Bring to a boil , then reduce heat to low , and simmer for 10 minutes , stirring frequently .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: 10 minutes , stirring
+    PREP: for
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Pour the brown sugar mixture into a 9x13 inch baking dish , and tilt the dish to cover the entire bottom .
+PREDID: 0
+PRED: pour
+  DOBJ: the brown sugar mixture
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: tilt
+  DOBJ: the dish
+  PARG: cover the entire bottom
+    PREP: to
+
+
+SENTID: 3
+SENT: Place peaches in a layer over the sugar coating , then top with slices of French bread .
+PREDID: 0
+PRED: place
+  DOBJ: peaches
+  PARG: a layer
+    PREP: in
+  PARG: the sugar
+    PREP: over
+
+PREDID: 1
+PRED: coating
+  OARG: then
+
+PREDID: 2
+PRED: top
+  PARG: slices of french bread
+    PREP: with
+
+
+SENTID: 4
+SENT: In a medium bowl , whisk together the eggs and vanilla .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs, vanilla
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Slowly pour over the bread slices to coat evenly .
+PREDID: 0
+PRED: pour
+  PARG: the bread slices
+    PREP: over
+  PARG: coat
+    PREP: to
+  OARG: slowly
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Sprinkle cinnamon over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: cinnamon
+  PARG: the top
+    PREP: over
+
+
+SENTID: 7
+SENT: Cover and refrigerate for 8 hours or overnight .
+PREDID: 0
+PRED: cover
+  PARG: 8 hours
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 8
+SENT: Remove the dish from the refrigerator about 30 minutes before baking to come to room temperature .
+PREDID: 0
+PRED: remove
+  DOBJ: the dish
+  PARG: the refrigerator
+    PREP: from
+  PARG: 30 minutes
+    PREP: about
+  PARG: baking
+    PREP: before
+  PARG: come
+    PREP: to
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 9
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: Bake for 25 to 30 minutes in the preheated oven , or until the bread is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 25 to 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the bread is golden brown
+    PREP: until
+
+
+SENTID: 11
+SENT: Spoon out portions to serve .
+PREDID: 0
+PRED: spoon
+  PARG: portions
+    PREP: out
+  PARG: serve
+    PREP: to
+

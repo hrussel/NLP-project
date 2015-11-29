@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread pizza crusts out onto baking sheets or pizza pans .
+PREDID: 0
+PRED: spread
+  DOBJ: pizza crusts
+  PARG: onto baking sheets or pizza pans
+    PREP: out
+
+
+SENTID: 2
+SENT: Place the spinach and Alfredo sauce in a saucepan , and warm over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: the spinach, alfredo sauce
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: warm
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Stir occasionally .
+PREDID: 0
+PRED: stir
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Spread 1tablespoon of olive oil onto each pizza crust .
+PREDID: 0
+PRED: spread
+  DOBJ: 1tablespoon of olive oil
+  PARG: each pizza crust
+    PREP: onto
+
+
+SENTID: 5
+SENT: Spoon half of the Alfredo and spinach onto each crust , then arrange artichoke hearts over the sauce layer .
+PREDID: 0
+PRED: spoon
+  DOBJ: half of the alfredo, spinach
+  PARG: each crust
+    PREP: onto
+  OARG: then
+
+PREDID: 1
+PRED: arrange
+  DOBJ: artichoke hearts
+  PARG: the sauce layer
+    PREP: over
+
+
+SENTID: 6
+SENT: Top each pizza with half of the mozzarella cheese and Parmesan cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each pizza
+  PARG: half of the mozzarella cheese, parmesan cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: Sprinkle mushrooms and black olives on top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: mushrooms, black olives
+  PARG: top
+    PREP: on
+
+
+SENTID: 8
+SENT: Bake pizzas one at a time for 20 minutes in the preheated oven , or until the bottom is nicely browned .
+PREDID: 0
+PRED: bake
+  DOBJ: pizzas one at a time
+  PARG: 20 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the bottom is nicely browned
+    PREP: until
+

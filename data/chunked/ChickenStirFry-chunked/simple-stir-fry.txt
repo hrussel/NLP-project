@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: Melt butter/margarine in a medium skillet over low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter/margarine
+  PARG: a medium skillet
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add chicken , onion and green bell pepper and saute all over low heat for 4 to 6 minutes , stirring occasionally and turning chicken pieces . Season with paprika , garlic salt and seasoned salt to taste .
+PREDID: 0
+PRED: add
+  DOBJ: chicken , onion, green bell pepper
+
+PREDID: 1
+PRED: saute
+  DOBJ: and turning chicken pieces . season
+  PARG: 4 to 6 minutes , stirring
+    PREP: for
+  PARG: paprika , garlic salt, seasoned salt
+    PREP: with
+  PARG: taste
+    PREP: to
+  OARG: occasionally
+  OARG: all over low heat
+
+
+SENTID: 2
+SENT: Cover skillet and let cook until chicken is done and juices run clear , about 15 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: skillet
+
+PREDID: 1
+PRED: let
+  DOBJ: cook
+  PARG: chicken is done, juices run clear , about 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: When chicken is cooked through add soup and water and let simmer , stirring .
+PREDID: 0
+PRED: add
+  DOBJ: soup, water, let simmer , stirring
+  OARG: when chicken is cooked
+  OARG: through
+

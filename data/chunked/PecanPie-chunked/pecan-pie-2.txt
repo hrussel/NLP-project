@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat together the eggs , corn syrup , sugar , butter and vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , corn syrup , sugar , butter, vanilla
+  OARG: together
+
+
+SENTID: 2
+SENT: Arrange pecans in bottom of pie crust and pour mixture over .
+PREDID: 0
+PRED: arrange
+  DOBJ: pecans
+  PARG: bottom of pie crust
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: mixture
+
+
+SENTID: 3
+SENT: Bake for 1 hour or until knife inserted 1 inch from edge comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: knife inserted 1 inch from edge comes out clean
+    PREP: until
+
+
+SENTID: 4
+SENT: Allow to cool before slicing .
+PREDID: 0
+PRED: allow
+  PARG: slicing
+    PREP: before
+  OARG: to cool
+

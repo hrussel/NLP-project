@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray 16 muffin cups with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: 16 muffin cups
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Sift all-purpose flour , whole wheat flour , baking powder , baking soda , and salt together in a large bowl .
+PREDID: 0
+PRED: sift
+  DOBJ: all-purpose flour , whole wheat flour , baking powder , baking soda , salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Mix bananas , white sugar , canola oil , brown sugar , and egg together in a separate large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: bananas , white sugar , canola oil , brown sugar , egg
+  PARG: a separate large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: fold banana mixture into flour mixture until just incorporated .
+PREDID: 0
+PRED: fold
+  DOBJ: banana mixture
+  PARG: flour mixture
+    PREP: into
+  PARG: just incorporated
+    PREP: until
+
+
+SENTID: 5
+SENT: Scoop batter into prepared muffin cups . Bake in the preheated oven until muffins spring back when lightly tapped in the middle , 14 to 16 minutes .
+PREDID: 0
+PRED: scoop
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: muffins spring back when lightly tapped in the middle , 14 to 16 minutes
+    PREP: until
+

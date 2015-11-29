@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: In a large pot , melt butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute celery , garlic , onion , red pepper , 3/4 tsp -LRB- 3 mL -RRB- salt and 1/4 tsp -LRB- 1 mL -RRB- pepper for about 5 min or until onions are softened .
+PREDID: 0
+PRED: saute
+  DOBJ: celery , garlic , onion , red pepper , 3/4 tsp -lrb- 3 ml -rrb- salt, 1/4 tsp -lrb- 1 ml -rrb- pepper
+  PARG: about 5 min
+    PREP: for
+  PARG: onions are softened
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in broth , potatoes , corn and 2 cups -LRB- 500 mL -RRB- water ;
+PREDID: 0
+PRED: stir
+  PARG: broth , potatoes , corn, 2 cups -lrb- 500 ml -rrb- water
+    PREP: in
+
+
+SENTID: 3
+SENT: bring to a boil over high heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Reduce heat , cover and simmer for about 10 min or until potatoes are almost tender .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: cover
+  PARG: about 10 min
+    PREP: for
+
+PREDID: 2
+PRED: simmer
+  PARG: potatoes are almost tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Increase heat to medium .
+PREDID: 0
+PRED: increase
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 6
+SENT: Whisk flour into cream and gradually stir into pot .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour
+  PARG: cream
+    PREP: into
+  OARG: gradually
+
+PREDID: 1
+PRED: stir
+  PARG: pot
+    PREP: into
+
+
+SENTID: 7
+SENT: Season to taste with salt and pepper Ladle into warmed bowls and sprinkle with basil .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: ladle
+  PARG: warmed bowls
+    PREP: into
+
+PREDID: 2
+PRED: sprinkle
+  PARG: basil
+    PREP: with
+

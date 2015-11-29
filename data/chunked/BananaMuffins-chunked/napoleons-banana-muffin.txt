@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease two twelve-cup muffin tins .
+PREDID: 0
+PRED: grease
+  DOBJ: two twelve-cup muffin tins
+
+
+SENTID: 2
+SENT: In a mixing bowl , mix bananas , 1/2 cup brown sugar , honey , rum , and cognac with an electric mixer until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: bananas , 1/2 cup brown sugar , honey , rum , cognac
+  PARG: a mixing bowl
+    PREP: in
+  PARG: an electric mixer
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: In a large bowl , whisk together 3 cups flour , baking soda , baking powder , and salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: 3 cups flour , baking soda , baking powder , salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: In another bowl , cream white sugar , 2/3 cup brown sugar , eggs , and melted butter .
+PREDID: 0
+PRED: cream
+  DOBJ: white sugar , 2/3 cup brown sugar , eggs , melted butter
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour banana mixture and creamed egg mixture into the flour , and stir until just combined .
+PREDID: 0
+PRED: pour
+  DOBJ: banana mixture, creamed egg mixture
+  PARG: the flour
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Spoon mixture into muffin tins , filling cups 3/4 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: muffin tins , filling cups 3/4 full
+    PREP: into
+
+
+SENTID: 7
+SENT: In a small bowl , mix together 1 cup brown sugar , 3 tablespoons flour , and cinnamon .
+PREDID: 0
+PRED: mix
+  DOBJ: 1 cup brown sugar , 3 tablespoons flour , cinnamon
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Cut in 3 tablespoons butter until mixture resembles coarse crumbs .
+PREDID: 0
+PRED: cut
+  PARG: 3 tablespoons butter
+    PREP: in
+  PARG: mixture resembles coarse crumbs
+    PREP: until
+
+
+SENTID: 9
+SENT: Sprinkle over batter in muffin tins .
+PREDID: 0
+PRED: sprinkle
+  PARG: batter
+    PREP: over
+  PARG: muffin tins
+    PREP: in
+
+
+SENTID: 10
+SENT: Bake muffins in preheated oven for 20 minutes , or until done .
+PREDID: 0
+PRED: bake
+  DOBJ: muffins
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+

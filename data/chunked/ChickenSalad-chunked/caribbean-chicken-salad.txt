@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Place the chicken in a bowl , and cover with the teriyaki marinade sauce .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: the teriyaki marinade sauce
+    PREP: with
+
+
+SENTID: 1
+SENT: Marinate at least 2 hours in the refrigerator .
+PREDID: 0
+PRED: marinate
+  PARG: least 2 hours
+    PREP: at
+  PARG: the refrigerator
+    PREP: in
+
+
+SENTID: 2
+SENT: In a small bowl mix the tomatoes , onion , jalapeno pepper , and cilantro .
+PREDID: 0
+PRED: mix
+  DOBJ: the tomatoes , onion , jalapeno pepper , cilantro
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Cover salsa , and refrigerate .
+PREDID: 0
+PRED: cover
+  DOBJ: salsa
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 4
+SENT: In a small bowl , mix the mustard , honey , sugar , oil , vinegar , and lime juice .
+PREDID: 0
+PRED: mix
+  DOBJ: the mustard , honey , sugar , oil , vinegar , lime juice
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Cover dressing , and refrigerate .
+PREDID: 0
+PRED: cover
+  DOBJ: dressing
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 6
+SENT: Preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: the grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 7
+SENT: Lightly oil grill grate .
+PREDID: 0
+PRED: oil
+  DOBJ: grill grate
+  OARG: lightly
+
+
+SENTID: 8
+SENT: Place chicken on the grill , and discard marinade .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: the grill
+    PREP: on
+
+PREDID: 1
+PRED: discard
+  DOBJ: marinade
+
+
+SENTID: 9
+SENT: Cook for 6 to 8 minutes on each side , or until juices run clear .
+PREDID: 0
+PRED: cook
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+
+
+SENTID: 10
+SENT: Arrange mixed salad greens on plates .
+PREDID: 0
+PRED: arrange
+  DOBJ: mixed salad greens
+  PARG: plates
+    PREP: on
+
+
+SENTID: 11
+SENT: Spoon some of the salsa over each salad , and sprinkle with 1/4 of the pineapple chunks .
+PREDID: 0
+PRED: spoon
+  DOBJ: some of the salsa
+  PARG: each salad
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: 1/4 of the pineapple chunks
+    PREP: with
+
+
+SENTID: 12
+SENT: Break tortilla chips into large chunks , and sprinkle over salads .
+PREDID: 0
+PRED: break
+  DOBJ: tortilla chips
+  PARG: large chunks
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: salads
+    PREP: over
+
+
+SENTID: 13
+SENT: Lay some of the grilled chicken strips on each salad .
+PREDID: 0
+PRED: lay
+  DOBJ: some of the grilled chicken strips
+  PARG: each salad
+    PREP: on
+
+
+SENTID: 14
+SENT: Finally , drizzle dressing over each salad , and serve .
+PREDID: 0
+PRED: drizzle
+  DOBJ: dressing
+  PARG: each salad
+    PREP: over
+  OARG: finally
+
+PREDID: 1
+PRED: serve
+

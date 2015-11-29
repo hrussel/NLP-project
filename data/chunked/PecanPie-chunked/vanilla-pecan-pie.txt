@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare crust as directed on package for one-crust pie using 9-inch deep dish pie plate .
+PREDID: 0
+PRED: prepare
+  DOBJ: dish pie plate
+  PARG: directed
+    PREP: as
+  PARG: package
+    PREP: on
+  PARG: one-crust pie using 9-inch
+    PREP: for
+  OARG: deep
+  OARG: crust
+
+
+SENTID: 2
+SENT: Beat cream cheese , 1 of the eggs , 1/4 cup of the sugar and 2 teaspoons of the vanilla in large bowl with electric mixer on medium speed until well blended and smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese , 1 of the eggs , 1/4 cup of the sugar, 2 teaspoons of the vanilla
+  PARG: large bowl
+    PREP: in
+  PARG: electric mixer
+    PREP: with
+  PARG: medium speed
+    PREP: on
+  PARG: well blended
+    PREP: until
+
+PREDID: 1
+PRED: smooth
+
+
+SENTID: 3
+SENT: Spread evenly on bottom of crust .
+PREDID: 0
+PRED: spread
+  PARG: bottom of crust
+    PREP: on
+  OARG: evenly
+
+
+SENTID: 4
+SENT: Bake 15 minutes .
+PREDID: 0
+PRED: bake
+  OARG: 15 minutes
+
+
+SENTID: 5
+SENT: Beat remaining 2 eggs and 1/2 cup sugar in large bowl with wire whisk until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: remaining 2 eggs, 1/2 cup sugar
+  PARG: large bowl
+    PREP: in
+  PARG: wire whisk
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Add corn syrup , butter , remaining 2 teaspoons vanilla and salt ;
+PREDID: 0
+PRED: add
+  DOBJ: corn syrup
+
+PREDID: 1
+PRED: butter
+  DOBJ: remaining 2 teaspoons vanilla, salt
+
+
+SENTID: 7
+SENT: stir until well blended .
+PREDID: 0
+PRED: stir
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Sprinkle pecans evenly over baked cream cheese layer .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pecans
+  PARG: baked cream cheese layer
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 9
+SENT: Slowly pour corn syrup mixture over nuts .
+PREDID: 0
+PRED: pour
+  DOBJ: corn syrup mixture
+  PARG: nuts
+    PREP: over
+  OARG: slowly
+
+
+SENTID: 10
+SENT: Bake 35 to 40 minutes or until just set in center .
+PREDID: 0
+PRED: bake
+  PARG: just
+    PREP: until
+  OARG: 35 to 40 minutes
+
+PREDID: 1
+PRED: set
+  PARG: center
+    PREP: in
+
+
+SENTID: 11
+SENT: Cool completely on wire rack .
+PREDID: 0
+PRED: cool
+  PARG: wire rack
+    PREP: on
+  OARG: completely
+

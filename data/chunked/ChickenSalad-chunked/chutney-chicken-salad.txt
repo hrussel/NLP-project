@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: In a large bowl , whisk together the mayonnaise , chutney , curry powder , lime zest , lime juice and salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , chutney , curry powder , lime zest , lime juice, salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add chicken and toss with the dressing until well coated .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+PREDID: 1
+PRED: toss
+  PARG: the dressing
+    PREP: with
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Add more mayonnaise to taste , if desired .
+PREDID: 0
+PRED: add
+  DOBJ: more mayonnaise
+  PARG: taste
+    PREP: to
+  PARG: desired
+    PREP: if
+
+
+SENTID: 3
+SENT: Cover and refrigerate until serving .
+PREDID: 0
+PRED: cover
+  PARG: serving
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+

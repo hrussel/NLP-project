@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the tomatillos , and boil for 10 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: the tomatillos
+
+PREDID: 1
+PRED: boil
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Meanwhile , melt the butter in a large pot over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Stir in the onions , and cook until they have softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the onions
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: they have softened, turned translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in the hominy , marjoram , and thyme , cook and stir 5 minutes more .
+PREDID: 0
+PRED: stir
+  PARG: the hominy , marjoram , thyme
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 5 minutes more
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 6
+SENT: Pour in the milk , parsley , and half of the corn kernels , and bring to a simmer over medium-high heat .
+PREDID: 0
+PRED: pour
+  PARG: the milk , parsley , half of the corn kernels
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Puree the tomatillos with the remaining half of the corn until smooth in a blender , then stir into the soup along with the roasted peppers .
+PREDID: 0
+PRED: puree
+  DOBJ: the tomatillos
+  PARG: the remaining half of the corn
+    PREP: with
+  PARG: smooth in a blender
+    PREP: until
+
+PREDID: 1
+PRED: stir
+  PARG: the soup
+    PREP: into
+  PARG: with the roasted peppers
+    PREP: along
+
+
+SENTID: 8
+SENT: Simmer the soup for 10 minutes , then remove the parsley sprigs , and sprinkle with cilantro before serving .
+PREDID: 0
+PRED: simmer
+  DOBJ: the soup
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  DOBJ: the parsley sprigs
+
+PREDID: 2
+PRED: sprinkle
+  PARG: cilantro
+    PREP: with
+  PARG: serving
+    PREP: before
+

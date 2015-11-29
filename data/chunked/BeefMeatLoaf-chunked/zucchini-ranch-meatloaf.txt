@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Mix the ground beef , ground turkey , zucchini , onions , green bell pepper , egg , Worcestershire sauce , Cheddar cheese , bread crumbs , and ranch dressing mix until well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , ground turkey , zucchini , onions , green bell pepper , egg , worcestershire sauce , cheddar cheese , bread crumbs , ranch dressing
+
+PREDID: 1
+PRED: mix
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 3
+SENT: Form the mixture into a loaf in the middle of the prepared baking dish .
+PREDID: 0
+PRED: form
+  DOBJ: the mixture
+  PARG: a loaf
+    PREP: into
+  PARG: the middle of the prepared baking dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir together the ketchup and steak sauce in a small bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the ketchup, steak sauce
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour the sauce over the top of the meatloaf .
+PREDID: 0
+PRED: pour
+  DOBJ: the sauce
+  PARG: the top of the meatloaf
+    PREP: over
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+

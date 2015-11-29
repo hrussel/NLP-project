@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the bow tie pasta and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the bow tie pasta
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 12 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 12 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Combine pasta , chicken , ham , Swiss cheese , and broccoli in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: pasta , chicken , ham , swiss cheese , broccoli
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Blend honey , mayonnaise , mustard , vinegar , onion , olive oil , sugar , and garlic salt in a blender .
+PREDID: 0
+PRED: blend
+  DOBJ: honey , mayonnaise , mustard , vinegar , onion , olive oil , sugar , garlic salt
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir in parsley .
+PREDID: 0
+PRED: stir
+  PARG: parsley
+    PREP: in
+
+
+SENTID: 8
+SENT: Stir dressing into the pasta , reserving 1/2 cup of dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: reserving 1/2 cup of dressing
+  PARG: the pasta
+    PREP: into
+  OARG: dressing
+
+
+SENTID: 9
+SENT: Chill salad and reserved dressing in the refrigerator for at least 1 hour .
+PREDID: 0
+PRED: chill
+  DOBJ: salad, reserved dressing
+  PARG: the refrigerator
+    PREP: in
+  PARG: at least 1 hour
+    PREP: for
+
+
+SENTID: 10
+SENT: Stir in the remaining dressing and Parmesan cheese before serving .
+PREDID: 0
+PRED: stir
+  PARG: the remaining dressing, parmesan cheese
+    PREP: in
+  PARG: serving
+    PREP: before
+

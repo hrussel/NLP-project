@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add lasagna noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: lasagna noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a skillet , brown ground beef .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: Using a fork , mix cottage cheese , eggs , garlic powder , parsley , salt and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: cottage cheese , eggs , garlic powder , parsley , salt, pepper
+  OARG: using a fork
+
+
+SENTID: 6
+SENT: In a separate bowl combine tomato paste and tomato sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: tomato paste, tomato sauce
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: In a 9x13 inch baking pan , layer noodles , ground beef , tomato sauce mixture and cottage cheese mixture .
+PREDID: 0
+PRED: layer
+  DOBJ: noodles , ground beef , tomato sauce mixture, cottage cheese mixture
+  PARG: a 9x13 inch baking pan
+    PREP: in
+
+
+SENTID: 8
+SENT: Cover with tin foil and bake for 30 minutes .
+PREDID: 0
+PRED: cover
+  PARG: tin foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Remove tin foil the last 8 minutes of baking time .
+PREDID: 0
+PRED: remove
+  OARG: tin foil the last 8 minutes of baking time
+

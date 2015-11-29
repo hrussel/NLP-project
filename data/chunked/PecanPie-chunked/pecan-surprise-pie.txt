@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small mixing bowl , beat cream cheese until fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese
+  PARG: a small mixing bowl
+    PREP: in
+  PARG: fluffy
+    PREP: until
+
+
+SENTID: 2
+SENT: Add 1/3 cup sugar and beat until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: 1/3 cup sugar
+
+PREDID: 1
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Thoroughly mix in 1 egg and 1 teaspoon vanilla extract .
+PREDID: 0
+PRED: mix
+  PARG: 1 egg, 1 teaspoon vanilla extract
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Spread mixture into pastry shell .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: pastry shell
+    PREP: into
+
+
+SENTID: 5
+SENT: Sprinkle with chopped pecans .
+PREDID: 0
+PRED: sprinkle
+  PARG: chopped pecans
+    PREP: with
+
+
+SENTID: 6
+SENT: In a medium bowl , combine 3 beaten eggs , corn syrup , 1/4 cup sugar , 1 teaspoon vanilla extract , salt , cinnamon , and cloves .
+PREDID: 0
+PRED: combine
+  DOBJ: 3 beaten eggs , corn syrup , 1/4 cup sugar , 1 teaspoon vanilla extract , salt , cinnamon , cloves
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour mixture over pecan layer .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pecan layer
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in preheated oven for 35 to 45 minutes , until filling is set and pecans are browned .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 35 to 45 minutes
+    PREP: for
+  PARG: filling is set, pecans are browned
+    PREP: until
+

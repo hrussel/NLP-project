@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray muffin tins with non-stick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: muffin tins
+  PARG: non-stick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In large bowl , stir together flour , baking powder , soda , and salt .
+PREDID: 0
+PRED: stir
+  DOBJ: flour , baking powder , soda , salt
+  PARG: large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: In a medium bowl , beat egg whites slightly .
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: a medium bowl
+    PREP: in
+  OARG: slightly
+
+
+SENTID: 4
+SENT: Stir in bananas , sugar , oil , and lemon peel .
+PREDID: 0
+PRED: stir
+  PARG: bananas , sugar , oil , lemon peel
+    PREP: in
+
+
+SENTID: 5
+SENT: Add to flour mixture , stirring just until combined .
+PREDID: 0
+PRED: add
+  PARG: flour mixture , stirring
+    PREP: to
+  PARG: combined
+    PREP: until
+  OARG: just
+
+
+SENTID: 6
+SENT: Stir in walnuts .
+PREDID: 0
+PRED: stir
+  PARG: walnuts
+    PREP: in
+
+
+SENTID: 7
+SENT: Fill muffin pan cups 2/3 full .
+PREDID: 0
+PRED: fill
+  DOBJ: muffin pan cups 2/3 full
+
+
+SENTID: 8
+SENT: Bake for about 20 to 25 minutes , or until tops are lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: about 20 to 25 minutes
+    PREP: for
+  PARG: tops are lightly browned
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove muffins from pan .
+PREDID: 0
+PRED: remove
+  DOBJ: muffins
+  PARG: pan
+    PREP: from
+

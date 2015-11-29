@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a large skillet over medium heat , cook hamburger , onion and garlic ;
+PREDID: 0
+PRED: cook
+  DOBJ: hamburger , onion, garlic
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: add tomato sauce and simmer for a few minutes .
+PREDID: 0
+PRED: add
+  DOBJ: tomato sauce
+
+PREDID: 1
+PRED: simmer
+  PARG: a few minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: In a small bowl , combine cream cheese , sour cream and green onions ;
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese , sour cream, green onions
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: In a lightly greased 9x13 inch baking dish , spread 1/4 cup of meat mixture on bottom .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 cup of meat mixture
+  PARG: a lightly greased 9x13 inch baking dish
+    PREP: in
+  PARG: bottom
+    PREP: on
+
+
+SENTID: 9
+SENT: Layer with some egg noodles , cream cheese mixture and meat sauce .
+PREDID: 0
+PRED: layer
+  PARG: some egg noodles , cream cheese mixture, meat sauce
+    PREP: with
+
+
+SENTID: 10
+SENT: Repeat layers ending with meat sauce ;
+PREDID: 0
+PRED: repeat
+  DOBJ: layers ending
+  PARG: meat sauce
+    PREP: with
+
+
+SENTID: 11
+SENT: top with Cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: cheddar cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 30 to 45 minutes or until bubbly ;
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 to 45 minutes
+    PREP: for
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 13
+SENT: serve .
+PREDID: 0
+PRED: serve
+

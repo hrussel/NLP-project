@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: Preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a baking sheet with nonstick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a baking sheet
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Place the beef , bread , egg , liquid seasoning , Worcestershire sauce , pepper , and seasoned salt in a bowl , and mix well .
+PREDID: 0
+PRED: place
+  DOBJ: the beef , bread , egg , liquid seasoning , worcestershire sauce , pepper , seasoned salt
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Using about 2 tablespoons of meat mixture per meatball , form into about 40 meatballs .
+PREDID: 0
+PRED: form
+  DOBJ: using
+  PARG: 2 tablespoons of meat mixture
+    PREP: about
+  PARG: meatball
+    PREP: per
+  PARG: about 40 meatballs
+    PREP: into
+
+
+SENTID: 4
+SENT: Place the meatballs onto the prepared baking sheet , and bake for about 15 minutes , until the meatballs are no longer pink .
+PREDID: 0
+PRED: place
+  DOBJ: the meatballs
+  PARG: the prepared baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: bake
+  PARG: about 15 minutes
+    PREP: for
+  PARG: the meatballs are no longer pink
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove the meatballs , place them into a large baking dish with a cover , and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: the meatballs
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a large baking dish
+    PREP: into
+  PARG: a cover , set
+    PREP: with
+  OARG: aside
+
+
+SENTID: 6
+SENT: Reduce the oven heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: the oven heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Whisk the cornstarch into 1/4 cup water in a bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: the cornstarch
+  PARG: 1/4 cup water
+    PREP: into
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Place 2 cups of water , onion , beef bouillon granules , and 1/4 teaspoon black pepper in a small saucepan over medium heat , and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: 2 cups of water , onion , beef bouillon granules , 1/4 teaspoon black pepper
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Whisk the cornstarch mixture into the hot bouillon mixture , and return to a simmer .
+PREDID: 0
+PRED: whisk
+  DOBJ: the cornstarch mixture
+  PARG: the hot bouillon mixture
+    PREP: into
+
+PREDID: 1
+PRED: return
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 10
+SENT: Reduce the heat to low , stir in the mushrooms , soup , parsley , and sour cream , and bring back just to a simmer .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the mushrooms , soup , parsley , sour cream
+    PREP: in
+
+PREDID: 2
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  OARG: back
+  OARG: just
+
+
+SENTID: 11
+SENT: Pour the hot sour cream sauce over the meatballs , cover the baking dish , and bake for about 30 minutes , until the sauce is bubbling and thickened .
+PREDID: 0
+PRED: pour
+  DOBJ: the hot sour cream sauce
+  PARG: the meatballs
+    PREP: over
+
+PREDID: 1
+PRED: cover
+  DOBJ: the baking dish
+
+PREDID: 2
+PRED: bake
+  PARG: about 30 minutes
+    PREP: for
+  PARG: the sauce is bubbling, thickened
+    PREP: until
+

@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Pour chicken broth into a large soup pot and place over medium heat .
+PREDID: 0
+PRED: pour
+  DOBJ: chicken broth
+  PARG: a large soup pot
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add chicken and any accumulated juices from the chicken to the broth .
+PREDID: 0
+PRED: add
+  DOBJ: chicken, any accumulated juices
+  PARG: the chicken
+    PREP: from
+  PARG: the broth
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir corn , dry soup mix , and chicken soup base into broth mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: corn , dry soup mix , chicken soup base
+  PARG: broth mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Simmer soup for 20 minutes .
+PREDID: 0
+PRED: simmer
+  DOBJ: soup
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Add noodles to soup and simmer until tender , about 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+  PARG: soup
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+

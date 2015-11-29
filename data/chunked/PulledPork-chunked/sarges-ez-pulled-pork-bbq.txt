@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Cut roast in half .
+PREDID: 0
+PRED: cut
+  DOBJ: roast
+  PARG: half
+    PREP: in
+
+
+SENTID: 1
+SENT: Rub each half with salt and pepper , and place in the slow cooker .
+PREDID: 0
+PRED: rub
+  DOBJ: each half
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour broth and coffee over the meat .
+PREDID: 0
+PRED: pour
+  DOBJ: broth, coffee
+  PARG: the meat
+    PREP: over
+
+
+SENTID: 3
+SENT: Turn the slow cooker to Low , and cover .
+PREDID: 0
+PRED: turn
+  DOBJ: the slow cooker
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+
+SENTID: 4
+SENT: Cook for 6 to 8 hours , or until the roast is fork tender .
+PREDID: 0
+PRED: cook
+  PARG: 6 to 8 hours
+    PREP: for
+  PARG: the roast is fork tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Carefully remove the roast to a cutting board .
+PREDID: 0
+PRED: remove
+  DOBJ: the roast
+  PARG: a cutting board
+    PREP: to
+  OARG: carefully
+
+
+SENTID: 6
+SENT: Pull the meat off the bone with a fork .
+PREDID: 0
+PRED: pull
+  DOBJ: the meat
+  PARG: the bone
+    PREP: off
+  PARG: a fork
+    PREP: with
+

@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Cook beef , green pepper , onion , chili powder and black pepper in skillet until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: beef , green pepper , onion , chili powder, black pepper
+  PARG: skillet
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour off fat .
+PREDID: 0
+PRED: pour
+  PARG: fat
+    PREP: off
+
+
+SENTID: 2
+SENT: Add tomato juice and beans and heat through .
+PREDID: 0
+PRED: add
+  DOBJ: tomato juice, beans
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 3
+SENT: Top with sour cream , green onions , cheese and tomato .
+PREDID: 0
+PRED: top
+  PARG: sour cream , green onions , cheese, tomato
+    PREP: with
+

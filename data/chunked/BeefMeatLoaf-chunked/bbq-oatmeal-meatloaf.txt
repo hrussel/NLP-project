@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix the ground beef , sausage , onion , carrots , onion soup mix , brown sugar , eggs , and barbeque sauce together in a large mixing bowl until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , sausage , onion , carrots , onion soup mix , brown sugar , eggs , barbeque sauce
+  PARG: a large mixing bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Divide the mixture in half , and spoon into 2 9x5-inch loaf pans .
+PREDID: 0
+PRED: divide
+  DOBJ: the mixture
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: spoon
+  PARG: 2 9x5-inch loaf pans
+    PREP: into
+
+
+SENTID: 3
+SENT: Place 3 strips of bacon the long way onto each loaf .
+PREDID: 0
+PRED: place
+  DOBJ: 3 strips of bacon the long way
+  PARG: each loaf
+    PREP: onto
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until the meatloaf is no longer pink in the middle and the juices run clear , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the meatloaf is no longer pink in the middle, the juices run clear , about 1 hour
+    PREP: until
+

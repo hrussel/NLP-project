@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Cook pasta in a large pot of boiling salted water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of boiling salted water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain and cool under cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 2
+SENT: Refrigerate until chilled .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+
+
+SENTID: 3
+SENT: Prepare the dressing in a small bowl by whisking together the olive oil , lemon zest , lemon juice , walnuts , and honey .
+PREDID: 0
+PRED: prepare
+  DOBJ: the olive oil , lemon zest , lemon juice , walnuts , honey
+  PARG: a small bowl
+    PREP: in
+  PARG: whisking
+    PREP: by
+  OARG: together
+  OARG: the dressing
+
+
+SENTID: 4
+SENT: Refrigerate until chilled .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+
+
+SENTID: 5
+SENT: In a salad bowl , combine pasta , peppers , red onion , olives , and chicken .
+PREDID: 0
+PRED: combine
+  DOBJ: pasta , peppers , red onion , olives , chicken
+  PARG: a salad bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Add lemon dressing and feta cheese , toss and serve .
+PREDID: 0
+PRED: add
+  DOBJ: lemon dressing, feta cheese
+
+PREDID: 1
+PRED: toss
+
+PREDID: 2
+PRED: serve
+

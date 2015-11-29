@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups with butter or line with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+  PARG: butter
+    PREP: with
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Sift flour , white sugar , baking soda , cinnamon , and ginger together in a large bowl .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , white sugar , baking soda , cinnamon , ginger
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Beat canola oil and eggs into flour mixture with an electric mixer , beating each egg thoroughly before adding the next one .
+PREDID: 0
+PRED: beat
+  DOBJ: canola oil, eggs
+  PARG: flour mixture
+    PREP: into
+  PARG: an electric mixer , beating each egg
+    PREP: with
+  PARG: adding the next one
+    PREP: before
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Stir carrots into mixture until well combined .
+PREDID: 0
+PRED: stir
+  DOBJ: carrots
+  PARG: mixture
+    PREP: into
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Fill the prepared muffin cups about 2/3 full with carrot mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: the prepared muffin cups
+  PARG: 2/3 full
+    PREP: about
+  PARG: carrot mixture
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until cupcakes are lightly browned and a toothpick inserted into the middle of a cupcake comes out clean , 30 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: cupcakes are lightly browned, a toothpick inserted into the middle of a cupcake comes out clean , 30 to 40 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Let cupcakes cool completely .
+PREDID: 0
+PRED: let
+  DOBJ: cupcakes cool
+  OARG: completely
+
+
+SENTID: 8
+SENT: Beat unsalted butter and cream cheese together with an electric mixer on high speed in a bowl until fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: unsalted butter, cream cheese
+  PARG: an electric mixer
+    PREP: with
+  PARG: high speed
+    PREP: on
+  PARG: a bowl
+    PREP: in
+  PARG: fluffy
+    PREP: until
+  OARG: together
+
+
+SENTID: 9
+SENT: Reduce mixer speed to low and beat in vanilla extract and confectioners ' sugar until combined .
+PREDID: 0
+PRED: reduce
+  DOBJ: mixer speed
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: beat
+  PARG: vanilla extract, confectioners ' sugar
+    PREP: in
+  PARG: combined
+    PREP: until
+
+
+SENTID: 10
+SENT: Increase speed to high , and beat until the frosting is fluffy , about 3 more minutes .
+PREDID: 0
+PRED: increase
+  DOBJ: speed
+  PARG: high
+    PREP: to
+
+PREDID: 1
+PRED: beat
+  PARG: the frosting is fluffy , about 3 more minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Fill a pastry bag with the cream cheese frosting and pipe onto the cupcakes .
+PREDID: 0
+PRED: fill
+  DOBJ: a pastry bag
+  PARG: the cream cheese frosting
+    PREP: with
+
+PREDID: 1
+PRED: pipe
+  PARG: the cupcakes
+    PREP: onto
+

@@ -1,0 +1,51 @@
+T1	arg_location 0 17	Using a saute pan
+T2	arg_other 18 34	over medium heat
+T3	predicate 36 41	saute
+T4	predicate 72 75	Add
+T5	predicate 131 134	Add
+T6	predicate 166 169	Add
+T7	predicate 144 148	stir
+T8	predicate 216 228	Heat through
+T9	predicate 262 267	serve
+T10	arg_other 268 271	hot
+T11	arg_duration 230 252	until the cheese melts
+T12	arg_duration 149 164	until thickened
+T13	predicate 86 90	stir
+T14	arg_duration 58 70	until tender
+T15	arg_object 42 47	onion
+T16	arg_co-object 48 57	in butter
+T17	arg_object 76 81	flour
+T18	arg_object 135 139	milk
+T19	arg_object 170 174	corn
+T20	arg_object 176 182	cheese
+T21	predicate 187 193	season
+T22	arg_co-object 194 214	with salt and pepper
+R1	other Arg1:T3 Arg2:T2	
+R2	location Arg1:T3 Arg2:T1	
+R3	object Arg1:T3 Arg2:T15	
+R4	co-object Arg1:T3 Arg2:T16	
+R5	duration Arg1:T3 Arg2:T14	
+R6	object Arg1:T4 Arg2:T17	
+R7	co-object Arg1:T4 Arg2:T3	
+R8	object Arg1:T13 Arg2:T4	
+R9	object Arg1:T5 Arg2:T18	
+R10	co-object Arg1:T5 Arg2:T13	
+R11	object Arg1:T7 Arg2:T5	
+R12	duration Arg1:T7 Arg2:T12	
+R13	object Arg1:T6 Arg2:T19	
+R14	object Arg1:T6 Arg2:T20	
+R15	co-object Arg1:T6 Arg2:T7	
+R16	object Arg1:T21 Arg2:T6	
+R17	co-object Arg1:T21 Arg2:T22	
+R18	duration Arg1:T8 Arg2:T11	
+R19	object Arg1:T8 Arg2:T21	
+R20	object Arg1:T9 Arg2:T8	
+R21	other Arg1:T9 Arg2:T10	
+T23	ingredient 42 47	onion
+T24	ingredient 51 57	butter
+T25	ingredient 76 81	flour
+T26	ingredient 135 139	milk
+T27	ingredient 170 174	corn
+T28	ingredient 176 182	cheese
+T29	ingredient 199 203	salt
+T30	ingredient 208 214	pepper

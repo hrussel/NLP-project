@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place bacon in a large deep skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 2
+SENT: Add onions , and cook , stirring frequently , until bacon is crisp and onions are transparent .
+PREDID: 0
+PRED: add
+  DOBJ: onions
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: bacon is crisp, onions are transparent
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 3
+SENT: Drain off excess grease , and set aside to cool .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 4
+SENT: In a large bowl , mix together the ground beef , pork sausage , bacon and onions , spinach , olives , pistachio nuts , 1 cup of ketchup , eggs , and meatloaf seasoning until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , pork sausage , bacon, onions , spinach , olives , pistachio nuts , 1 cup of ketchup , eggs , meatloaf seasoning
+  PARG: a large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Pat meat into a loaf shape , and place in a large baking pan .
+PREDID: 0
+PRED: pat
+  DOBJ: meat
+  PARG: a loaf shape
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a large baking pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Poke cheese cubes into the top of the loaf so they are completely covered .
+PREDID: 0
+PRED: poke
+  DOBJ: cheese cubes
+  PARG: the top of the loaf
+    PREP: into
+  OARG: so
+  OARG: completely
+
+
+SENTID: 7
+SENT: Brush remaining ketchup generously over the top .
+PREDID: 0
+PRED: brush
+  DOBJ: remaining ketchup
+  PARG: the top
+    PREP: over
+  OARG: generously
+
+
+SENTID: 8
+SENT: Bake for 1Ê1/2 hours in the preheated oven , or until the internal temperature of the loaf is 180 degrees F -LRB- 82 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: 1Ê1/2 hours
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the internal temperature of the loaf is 180 degrees f -lrb- 82 degrees c -rrb-
+    PREP: until
+

@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the diced onion in a large pot of lightly-salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: the diced onion
+  PARG: a large pot of lightly-salted water
+    PREP: in
+
+
+SENTID: 2
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta until al dente , 8 to 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta
+  PARG: al dente , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Transfer the onion and pasta to a casserole dish ;
+PREDID: 0
+PRED: transfer
+  DOBJ: the onion, pasta
+  PARG: a casserole dish
+    PREP: to
+
+
+SENTID: 6
+SENT: season with salt , pepper , and garlic salt .
+PREDID: 0
+PRED: season
+  PARG: salt , pepper , garlic salt
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir the butter and brown sugar into the pasta mixture until the butter melts .
+PREDID: 0
+PRED: stir
+  DOBJ: the butter, brown sugar
+  PARG: the pasta mixture
+    PREP: into
+  PARG: the butter melts
+    PREP: until
+
+
+SENTID: 8
+SENT: Add the Cheddar cheese soup , Havarti cheese , Parmesan cheese and 1/3 cup of Cheddar cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: the cheddar cheese soup , havarti cheese , parmesan cheese, 1/3 cup of cheddar cheese
+
+
+SENTID: 9
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 10
+SENT: Sprinkle remaining Cheddar cheese over top of the dish .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining cheddar cheese
+  PARG: top of the dish
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake in preheated oven about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: about
+
+
+SENTID: 12
+SENT: Change oven setting to ` Broil ' and cook until top is golden brown , about 4 minutes .
+PREDID: 0
+PRED: change
+  DOBJ: oven setting
+  PARG: ` broil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: top is golden
+    PREP: until
+
+PREDID: 2
+PRED: brown
+  PARG: 4 minutes
+    PREP: about
+

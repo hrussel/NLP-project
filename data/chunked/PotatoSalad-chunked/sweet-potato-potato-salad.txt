@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 30 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool , peel and chop .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chop
+
+
+SENTID: 3
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water ;
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+
+SENTID: 7
+SENT: cool , peel and chop .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: peel
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 8
+SENT: Combine the potatoes , eggs , celery and onion .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , eggs , celery, onion
+
+
+SENTID: 9
+SENT: Whisk together the mayonnaise , mustard , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , mustard , salt, pepper
+  OARG: together
+
+
+SENTID: 10
+SENT: Add to potato mixture , toss well to coat .
+PREDID: 0
+PRED: add
+  PARG: potato mixture
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: well
+
+
+SENTID: 11
+SENT: Refrigerate and serve chilled .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: chilled
+
+PREDID: 1
+PRED: serve
+

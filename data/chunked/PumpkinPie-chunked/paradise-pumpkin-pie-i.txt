@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small mixing bowl combine cream cheese , 1/4 cup sugar , and vanilla extract .
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese , 1/4 cup sugar , vanilla extract
+  PARG: a small mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Beat well , then add 1 egg and mix until thoroughly combined .
+PREDID: 0
+PRED: beat
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: 1 egg
+
+PREDID: 2
+PRED: mix
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 3
+SENT: Spread onto the bottom of pie shell and set aside .
+PREDID: 0
+PRED: spread
+  PARG: the bottom of pie shell
+    PREP: onto
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a medium bowl combine pumpkin , evaporated milk , 1/2 cup sugar , 2 eggs , cinnamon , ginger , nutmeg , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , evaporated milk , 1/2 cup sugar , 2 eggs , cinnamon , ginger , nutmeg , salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix well , then pour the mixture over the cream cheese layer .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: the mixture
+  PARG: the cream cheese layer
+    PREP: over
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 1 hour or until set in center .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: set in center
+    PREP: until
+
+
+SENTID: 7
+SENT: Cool , then brush top with maple syrup .
+PREDID: 0
+PRED: cool
+  OARG: then
+
+PREDID: 1
+PRED: brush
+  DOBJ: top
+  PARG: maple syrup
+    PREP: with
+

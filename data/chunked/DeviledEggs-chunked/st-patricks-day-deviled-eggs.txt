@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , remove from heat , and let eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove from hot water and chill at least 30 minutes in a bowl of cold water or in the refrigerator , until eggs are cold .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: chill
+  PARG: least 30 minutes
+    PREP: at
+  PARG: a bowl of cold water
+    PREP: in
+  PARG: the refrigerator
+    PREP: in
+  PARG: eggs are cold
+    PREP: until
+
+
+SENTID: 3
+SENT: Prepare egg dye according to package directions in a large metal or glass bowl .
+PREDID: 0
+PRED: prepare
+  DOBJ: egg dye according
+  PARG: package directions
+    PREP: to
+  PARG: a large metal or glass bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Place the cracked hard-cooked eggs into the dye , working in batches if necessary , until dye seeps through the cracks and colors the eggs slightly , about 5 minutes per batch .
+PREDID: 0
+PRED: place
+  DOBJ: the cracked hard-cooked eggs
+  PARG: the dye , working
+    PREP: into
+  PARG: batches
+    PREP: in
+  PARG: necessary
+    PREP: if
+  PARG: dye seeps through the cracks, colors the eggs slightly , about 5 minutes per batch
+    PREP: until
+
+
+SENTID: 5
+SENT: Rinse eggs and peel to expose the green marbled color ;
+PREDID: 0
+PRED: rinse
+  DOBJ: eggs
+
+PREDID: 1
+PRED: peel
+  PARG: expose the green marbled color
+    PREP: to
+
+
+SENTID: 6
+SENT: slice eggs in half lengthwise .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 7
+SENT: Scoop egg yolks into a bowl and mash with a fork and mix in the mayonnaise and celery ;
+PREDID: 0
+PRED: scoop
+  DOBJ: egg yolks
+  PARG: a bowl
+    PREP: into
+
+PREDID: 1
+PRED: mash
+  PARG: a fork
+    PREP: with
+
+PREDID: 2
+PRED: mix
+  PARG: the mayonnaise, celery
+    PREP: in
+
+
+SENTID: 8
+SENT: stir green food coloring into the yolk mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: green food coloring
+  PARG: the yolk mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: Spoon the yolk mixture into the egg halves ;
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk mixture
+  PARG: the egg halves
+    PREP: into
+
+
+SENTID: 10
+SENT: top each egg half with a parsley leaf .
+PREDID: 0
+PRED: top
+  DOBJ: each egg half
+  PARG: a parsley leaf
+    PREP: with
+

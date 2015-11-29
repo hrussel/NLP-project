@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Heat olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add onion and red pepper ;
+PREDID: 0
+PRED: add
+  DOBJ: onion, red pepper
+
+
+SENTID: 2
+SENT: Stir corn , zucchini , and chicken into the onion mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: corn , zucchini , chicken
+  PARG: the onion mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Remove skillet from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: skillet
+  PARG: heat
+    PREP: from
+
+
+SENTID: 4
+SENT: Sprinkle parsley and about half the cheese over the vegetable mixture and toss to mix ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: parsley
+  PARG: half the cheese
+    PREP: about
+  PARG: the vegetable mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: mix
+    PREP: to
+
+
+SENTID: 5
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Transfer the vegetables to a serving dish and top with remaining cheese .
+PREDID: 0
+PRED: transfer
+  DOBJ: the vegetables
+  PARG: a serving dish
+    PREP: to
+
+PREDID: 1
+PRED: top
+  PARG: remaining cheese
+    PREP: with
+

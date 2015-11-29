@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Bake sweet potatoes until tender , peel and mash .
+PREDID: 0
+PRED: bake
+  DOBJ: sweet potatoes
+  PARG: tender
+    PREP: until
+
+PREDID: 1
+PRED: peel
+
+PREDID: 2
+PRED: mash
+
+
+SENTID: 1
+SENT: Make sure all lumps are removed , straining if necessary .
+PREDID: 0
+PRED: make
+  DOBJ: all lumps are removed , straining
+  PARG: necessary
+    PREP: if
+  OARG: sure
+
+
+SENTID: 2
+SENT: Lightly beat eggs .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  OARG: lightly
+
+
+SENTID: 3
+SENT: Blend together eggs and sweet potatoes .
+PREDID: 0
+PRED: blend
+  DOBJ: eggs, sweet potatoes
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in sugar , salt , cinnamon , ginger , and cloves .
+PREDID: 0
+PRED: stir
+  PARG: sugar , salt , cinnamon , ginger , cloves
+    PREP: in
+
+
+SENTID: 5
+SENT: Blend in cream .
+PREDID: 0
+PRED: blend
+  PARG: cream
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour into pie shell .
+PREDID: 0
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in preheated oven at 400 degrees F -LRB- 205 degrees C -RRB- 45-55 minutes or until knife inserted halfway between center and edge of pie comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb- 45-55 minutes
+    PREP: at
+  PARG: knife inserted halfway between center, edge of pie comes out clean
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool completely on rack .
+PREDID: 0
+PRED: cool
+  PARG: rack
+    PREP: on
+  OARG: completely
+
+
+SENTID: 9
+SENT: Combine butter or margarine , brown sugar , and pecans .
+PREDID: 0
+PRED: combine
+  DOBJ: butter or margarine , brown sugar , pecans
+
+
+SENTID: 10
+SENT: Gently drop by spoonfuls over cooled pie to cover top .
+PREDID: 0
+PRED: drop
+  PARG: spoonfuls
+    PREP: by
+  PARG: cooled pie
+    PREP: over
+  PARG: cover top
+    PREP: to
+  OARG: gently
+
+
+SENTID: 11
+SENT: Broil 5 inches below heat until mixture begins to bubble , about 3 minutes .
+PREDID: 0
+PRED: broil
+  DOBJ: 5 inches
+  PARG: heat
+    PREP: below
+  PARG: mixture begins to bubble , about 3 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Cool on rack .
+PREDID: 0
+PRED: cool
+  PARG: rack
+    PREP: on
+

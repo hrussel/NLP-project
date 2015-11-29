@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9X13 inch pan with non-fat cooking spray .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch pan
+  PARG: non-fat cooking spray
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In large mixing bowl , beat egg whites .
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: large mixing bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Slowly beat in sugar , then applesauce , skim milk , and vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: applesauce , skim milk , vanilla
+  PARG: sugar
+    PREP: in
+  OARG: slowly
+  OARG: then
+
+
+SENTID: 4
+SENT: Stir in cloves , nutmeg , cinnamon , baking soda , and flour .
+PREDID: 0
+PRED: stir
+  PARG: cloves , nutmeg , cinnamon , baking soda , flour
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in , one ingredient at a time , pineapple -LRB- with juice -RRB- , carrots , walnuts , and raisins .
+PREDID: 0
+PRED: stir
+  PARG: , one ingredient
+    PREP: in
+  PARG: a time , pineapple -lrb-
+    PREP: at
+  PARG: juice -rrb- , carrots , walnuts , raisins
+    PREP: with
+
+
+SENTID: 6
+SENT: Pour into the prepared pan .
+PREDID: 0
+PRED: pour
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake for 35 - 40 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 35 - 40 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+

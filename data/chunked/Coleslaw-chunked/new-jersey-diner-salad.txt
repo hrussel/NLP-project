@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: In a large bowl , toss together the cabbage , onions , carrot , pepper , and cucumber .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , onions , carrot , pepper , cucumber
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: In a small bowl , whisk together the vinegar , oil , sugar , and salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: the vinegar , oil , sugar , salt
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour the dressing over the salad , and stir to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover tightly , and refrigerate overnight before serving .
+PREDID: 0
+PRED: cover
+  OARG: tightly
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+  OARG: overnight
+

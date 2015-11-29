@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Combine cabbage , green bell pepper , onion , and carrots in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: cabbage , green bell pepper , onion , carrots
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix boiling water and salt together in a bowl and pour over cabbage mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: boiling water, salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: pour
+  PARG: cabbage mixture
+    PREP: over
+
+
+SENTID: 2
+SENT: Set aside for salt to draw out extra water from vegetables , about 1 hour .
+PREDID: 0
+PRED: set
+  PARG: salt
+    PREP: for
+  PARG: draw
+    PREP: to
+  PARG: extra water
+    PREP: out
+  PARG: vegetables
+    PREP: from
+  PARG: 1 hour
+    PREP: about
+  OARG: aside
+
+
+SENTID: 3
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 4
+SENT: Mix sugar , 1 cup water , cider vinegar , and celery seed in a saucepan ;
+PREDID: 0
+PRED: mix
+  DOBJ: sugar , 1 cup water , cider vinegar , celery seed
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 5
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Remove saucepan from heat and cool completely .
+PREDID: 0
+PRED: remove
+  DOBJ: saucepan
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  OARG: completely
+
+
+SENTID: 7
+SENT: Pour cooled sugar-vinegar mixture over drained cabbage mixture in a large bowl and toss until slaw is well mixed .
+PREDID: 0
+PRED: pour
+  DOBJ: cooled sugar-vinegar mixture
+  PARG: drained cabbage mixture
+    PREP: over
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: slaw is well mixed
+    PREP: until
+
+
+SENTID: 8
+SENT: Spoon slaw into resealable plastic bags and freeze .
+PREDID: 0
+PRED: spoon
+  DOBJ: slaw
+  PARG: resealable plastic bags
+    PREP: into
+
+PREDID: 1
+PRED: freeze
+

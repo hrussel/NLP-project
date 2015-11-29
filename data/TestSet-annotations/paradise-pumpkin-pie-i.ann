@@ -1,0 +1,96 @@
+T1	predicate 0 7	Preheat
+T2	predicate 70 77	combine
+T3	predicate 128 132	Beat
+T4	predicate 144 147	add
+T5	predicate 158 161	mix
+T6	predicate 189 195	Spread
+T7	predicate 229 238	set aside
+T8	predicate 257 264	combine
+T9	predicate 350 353	Mix
+T10	predicate 365 369	pour
+T11	predicate 411 415	Bake
+T12	predicate 469 473	Cool
+T13	predicate 480 485	brush
+T14	arg_object 8 12	oven
+T15	arg_other 13 45	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T14	
+R2	other Arg1:T1 Arg2:T15	
+T16	arg_location 416 433	in preheated oven
+T17	Evolution 419 433	preheated oven
+E1	Evolution:T17 Cause:T1
+R3	location Arg1:T11 Arg2:T16	
+T18	arg_duration 434 467	for 1 hour or until set in center
+R4	duration Arg1:T11 Arg2:T18	
+R5	object Arg1:T11 Arg2:T10	
+T19	arg_location 47 69	In a small mixing bowl
+R6	location Arg1:T2 Arg2:T19	
+T20	arg_object 78 90	cream cheese
+T21	arg_object 92 105	1/4 cup sugar
+T22	arg_object 111 126	vanilla extract
+R7	object Arg1:T2 Arg2:T20	
+R8	object Arg1:T2 Arg2:T21	
+R9	object Arg1:T2 Arg2:T22	
+T23	ingredient 78 90	cream cheese
+T24	ingredient 92 105	1/4 cup sugar
+T25	ingredient 111 126	vanilla extract
+R10	object Arg1:T3 Arg2:T2	
+T26	arg_other 133 137	well
+R11	other Arg1:T3 Arg2:T26	
+R12	co-object Arg1:T4 Arg2:T3	
+T27	arg_object 148 153	1 egg
+T28	ingredient 148 153	1 egg
+R13	object Arg1:T4 Arg2:T27	
+R14	object Arg1:T5 Arg2:T4	
+T29	arg_duration 162 187	until thoroughly combined
+R15	duration Arg1:T5 Arg2:T29	
+R16	object Arg1:T6 Arg2:T5	
+T30	arg_co-object 196 224	onto the bottom of pie shell
+R17	co-object Arg1:T6 Arg2:T30	
+T31	ingredient 201 224	the bottom of pie shell
+R18	object Arg1:T7 Arg2:T6	
+T32	arg_co-object 382 409	over the cream cheese layer
+T33	Evolution 387 409	the cream cheese layer
+E2	Evolution:T33 Cause:T7
+T34	arg_object 370 381	the mixture
+T35	Evolution 370 381	the mixture
+E3	Evolution:T35 Cause:T9
+R19	object Arg1:T10 Arg2:T34	
+R20	co-object Arg1:T10 Arg2:T32	
+T36	arg_other 354 358	well
+R21	other Arg1:T9 Arg2:T36	
+R22	object Arg1:T9 Arg2:T8	
+T37	arg_location 240 256	In a medium bowl
+R23	location Arg1:T8 Arg2:T37	
+T38	arg_object 265 272	pumpkin
+T39	arg_object 274 289	evaporated milk
+T40	arg_object 291 304	1/2 cup sugar
+T41	arg_object 306 312	2 eggs
+T42	arg_object 314 322	cinnamon
+T43	arg_object 324 330	ginger
+T44	arg_object 332 338	nutmeg
+T45	arg_object 344 348	salt
+T46	ingredient 265 272	pumpkin
+T47	ingredient 274 289	evaporated milk
+T48	ingredient 291 304	1/2 cup sugar
+T49	ingredient 306 312	2 eggs
+T50	ingredient 314 322	cinnamon
+T51	ingredient 324 330	ginger
+T52	ingredient 332 338	nutmeg
+T53	ingredient 344 348	salt
+R24	object Arg1:T8 Arg2:T38	
+R25	object Arg1:T8 Arg2:T39	
+R26	object Arg1:T8 Arg2:T40	
+R27	object Arg1:T8 Arg2:T41	
+R28	object Arg1:T8 Arg2:T42	
+R29	object Arg1:T8 Arg2:T43	
+R30	object Arg1:T8 Arg2:T44	
+R31	object Arg1:T8 Arg2:T45	
+R32	object Arg1:T12 Arg2:T11	
+R33	object Arg1:T13 Arg2:T12	
+T54	arg_object 486 489	top
+T55	Evolution 486 489	top
+E4	Evolution:T55 Cause:T12
+R34	object Arg1:T13 Arg2:T54	
+T56	arg_co-object 490 506	with maple syrup
+T57	ingredient 495 506	maple syrup
+R35	co-object Arg1:T13 Arg2:T56	

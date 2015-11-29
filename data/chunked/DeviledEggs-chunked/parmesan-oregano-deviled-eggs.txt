@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut each egg in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: place egg yolks in a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: egg yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 7
+SENT: stir in mayonnaise , Dijon mustard , Parmesan cheese , oregano , and pepper sauce ;
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise , dijon mustard , parmesan cheese , oregano , pepper sauce
+    PREP: in
+
+
+SENTID: 8
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Arrange egg whites cut-side up on a serving platter .
+PREDID: 0
+PRED: arrange
+  DOBJ: egg whites cut-side
+  PARG: a serving platter
+    PREP: on
+  OARG: up
+
+
+SENTID: 10
+SENT: Spoon yolk mixture into a resealable plastic bag ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: a resealable plastic bag
+    PREP: into
+
+
+SENTID: 11
+SENT: snip off one corner of the bag , and pipe filling into egg white halves .
+PREDID: 0
+PRED: snip
+  PARG: one corner of the bag
+    PREP: off
+
+PREDID: 1
+PRED: pipe
+  DOBJ: filling
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 12
+SENT: Sprinkle deviled eggs with Cheddar cheese and paprika .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: deviled eggs
+  PARG: cheddar cheese, paprika
+    PREP: with
+

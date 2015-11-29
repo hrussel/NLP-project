@@ -1,0 +1,256 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter a 2-quart casserole dish .
+PREDID: 0
+PRED: butter
+  DOBJ: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: Place torn rye bread into a food processor and pulse several times to make crumbs ;
+PREDID: 0
+PRED: place
+  DOBJ: torn rye bread
+  PARG: a food processor, pulse several times
+    PREP: into
+  PARG: make crumbs
+    PREP: to
+
+
+SENTID: 3
+SENT: combine rye crumbs with panko crumbs in a bowl and set aside .
+PREDID: 0
+PRED: combine
+  DOBJ: rye crumbs
+  PARG: panko crumbs
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain noodles and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Melt 3 tablespoons butter in a large saucepan over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: 3 tablespoons butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: cook and stir onion until lightly browned , about 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+
+PREDID: 1
+PRED: stir
+  PARG: lightly browned , about 15 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Season with salt and black pepper ;
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 10
+SENT: stir in brown mustard .
+PREDID: 0
+PRED: stir
+  PARG: brown mustard
+    PREP: in
+
+
+SENTID: 11
+SENT: Remove from heat , stir in flour until smooth , and gradually whisk in milk .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: flour
+    PREP: in
+  PARG: smooth , gradually
+    PREP: until
+
+PREDID: 2
+PRED: whisk
+  PARG: milk
+    PREP: in
+
+
+SENTID: 12
+SENT: Whisk 1Ê1/2 cup Swiss cheese into the sauce , stirring until the cheese has melted and the sauce is smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: 1Ê1/2 cup swiss cheese
+  PARG: the sauce , stirring
+    PREP: into
+  PARG: the cheese has melted, the sauce is smooth
+    PREP: until
+
+
+SENTID: 13
+SENT: Stir sauerkraut with about 1 tablespoon of reserved juice and corned beef into the cheese sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: sauerkraut
+  PARG: about 1 tablespoon of reserved juice, corned beef
+    PREP: with
+  PARG: the cheese sauce
+    PREP: into
+
+
+SENTID: 14
+SENT: Transfer cooked noodles to the prepared casserole dish and pour in the sauce ;
+PREDID: 0
+PRED: transfer
+  DOBJ: cooked noodles
+  PARG: the prepared casserole dish
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  PARG: the sauce
+    PREP: in
+
+
+SENTID: 15
+SENT: stir to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 16
+SENT: Sprinkle remaining 1Ê1/2 cup Swiss cheese in an even layer over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining 1Ê1/2 cup swiss cheese
+  PARG: an even layer
+    PREP: in
+  PARG: the top
+    PREP: over
+
+
+SENTID: 17
+SENT: Bake casserole in the preheated oven until bubbling , about 20 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: casserole
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbling , about 20 minutes
+    PREP: until
+
+
+SENTID: 18
+SENT: Remove casserole from oven and set the oven to broil .
+PREDID: 0
+PRED: remove
+  DOBJ: casserole
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: set
+  DOBJ: the oven
+  PARG: broil
+    PREP: to
+
+
+SENTID: 19
+SENT: Stir 3 tablespoons melted butter into the reserved rye and panko crumbs until thoroughly combined and sprinkle top of casserole with rye crumb mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: 3 tablespoons melted butter
+  PARG: the reserved rye, panko crumbs
+    PREP: into
+  PARG: thoroughly combined
+    PREP: until
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: top of casserole
+  PARG: rye crumb mixture
+    PREP: with
+
+
+SENTID: 20
+SENT: Return to oven and broil until the crumbs are golden brown , about 2 more minutes .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: broil
+  PARG: the crumbs are golden
+    PREP: until
+
+PREDID: 2
+PRED: brown
+  PARG: 2 more minutes
+    PREP: about
+
+
+SENTID: 21
+SENT: Watch carefully to prevent burning .
+PREDID: 0
+PRED: watch
+  OARG: carefully
+  OARG: to prevent burning
+

@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: In a gallon size plastic bag or 9x9 baking dish , mix together the mayonnaise and Italian dressing .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise, italian dressing
+  PARG: a gallon size plastic bag or 9x9 baking dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Place chicken in mixture and marinate overnight in the refrigerator .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: mixture
+    PREP: in
+
+PREDID: 1
+PRED: marinate
+  PARG: the refrigerator
+    PREP: in
+  OARG: overnight
+
+
+SENTID: 2
+SENT: Chop , wash , and dry the iceberg and romaine lettuce .
+PREDID: 0
+PRED: chop
+
+PREDID: 1
+PRED: wash
+
+PREDID: 2
+PRED: dry
+  DOBJ: the iceberg, romaine lettuce
+
+
+SENTID: 3
+SENT: Mix and divide among four dinner-size plates .
+PREDID: 0
+PRED: mix
+  PARG: four dinner-size plates
+    PREP: among
+
+PREDID: 1
+PRED: divide
+
+
+SENTID: 4
+SENT: Divide and place the tomato and green onions among the plates .
+PREDID: 0
+PRED: divide
+  DOBJ: the tomato, green onions
+
+PREDID: 1
+PRED: place
+  PARG: the plates
+    PREP: among
+
+
+SENTID: 5
+SENT: Sprinkle the top of each salad with shredded cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top of each salad
+  PARG: shredded cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Remove chicken from marinade and grill or broil until cooked .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: marinade
+    PREP: from
+
+PREDID: 1
+PRED: grill
+  PARG: cooked
+    PREP: until
+
+PREDID: 2
+PRED: broil
+
+
+SENTID: 7
+SENT: While chicken is cooking , cut tortillas into three thick strips and cut each strip into ` matchsticks ' .
+PREDID: 0
+PRED: cut
+  DOBJ: tortillas
+  PARG: chicken is cooking
+    PREP: while
+  PARG: three thick strips
+    PREP: into
+
+PREDID: 1
+PRED: cut
+  DOBJ: each strip
+  PARG: ` matchsticks '
+    PREP: into
+
+
+SENTID: 8
+SENT: Place on a cookie sheet and put under broiler until golden brown .
+PREDID: 0
+PRED: place
+  PARG: a cookie sheet
+    PREP: on
+
+PREDID: 1
+PRED: put
+  PARG: broiler
+    PREP: under
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 9
+SENT: Let cool .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 10
+SENT: Cut the chicken into strips and divide among plates .
+PREDID: 0
+PRED: cut
+  DOBJ: the chicken
+  PARG: strips
+    PREP: into
+
+PREDID: 1
+PRED: divide
+  PARG: plates
+    PREP: among
+
+
+SENTID: 11
+SENT: Top with tortilla ` crispies ' .
+PREDID: 0
+PRED: top
+  PARG: tortilla ` crispies '
+    PREP: with
+
+
+SENTID: 12
+SENT: To prepare the dressing , combine the salsa and ranch dressing in a blender and mix until smooth .
+PREDID: 0
+PRED: combine
+  DOBJ: the salsa, ranch dressing
+  PARG: a blender
+    PREP: in
+  OARG: to prepare the dressing
+
+PREDID: 1
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 13
+SENT: Pour over each salad .
+PREDID: 0
+PRED: pour
+  PARG: each salad
+    PREP: over
+

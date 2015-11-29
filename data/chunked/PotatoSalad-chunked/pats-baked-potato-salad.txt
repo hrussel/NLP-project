@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain thoroughly .
+PREDID: 0
+PRED: drain
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Meanwhile , place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: meanwhile
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain the bacon slices on a paper towel-lined plate , then crumble .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: crumble
+
+
+SENTID: 5
+SENT: Set the bacon aside .
+PREDID: 0
+PRED: set
+  DOBJ: the bacon
+  OARG: aside
+
+
+SENTID: 6
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Grease an 8-inch square baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8-inch square baking dish
+
+
+SENTID: 8
+SENT: Combine the potatoes , Cheddar cheese , relish , onion , and olives in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , cheddar cheese , relish , onion , olives
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Stir in the mayonnaise , celery salt , and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: the mayonnaise , celery salt , black pepper
+    PREP: in
+
+
+SENTID: 10
+SENT: Transfer the mixture into the prepared baking dish , and sprinkle with bacon .
+PREDID: 0
+PRED: transfer
+  DOBJ: the mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: bacon
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until the potatoes are browned and the cheese is melted , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the potatoes are browned, the cheese is melted , about 45 minutes
+    PREP: until
+

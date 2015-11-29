@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 3
+SENT: Place bacon in a large skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain bacon on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: bacon
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 6
+SENT: crumble bacon when cool enough to handle .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+
+SENTID: 7
+SENT: Cut each egg in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 8
+SENT: place half the egg yolks in a bowl , reserving remaining yolks for another use .
+PREDID: 0
+PRED: place
+  DOBJ: half the egg yolks
+  PARG: a bowl , reserving remaining yolks
+    PREP: in
+  PARG: another use
+    PREP: for
+
+
+SENTID: 9
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 10
+SENT: stir in potato flakes , mayonnaise , chives , Dijon mustard , seafood seasoning , black pepper , and red pepper until smooth .
+PREDID: 0
+PRED: stir
+  PARG: potato flakes , mayonnaise , chives , dijon mustard , seafood seasoning , black pepper , red pepper
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir shrimp , parsley , and cilantro into yolk mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: shrimp , parsley , cilantro
+  PARG: yolk mixture
+    PREP: into
+
+
+SENTID: 12
+SENT: Arrange egg whites cut-side-up on a serving platter .
+PREDID: 0
+PRED: arrange
+  DOBJ: egg whites cut-side-up
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 13
+SENT: Spoon about 1 rounded tablespoon yolk mixture into each egg white half ;
+PREDID: 0
+PRED: spoon
+  PARG: 1 rounded tablespoon yolk mixture
+    PREP: about
+  PARG: each egg white half
+    PREP: into
+
+
+SENTID: 14
+SENT: sprinkle with crumbled bacon .
+PREDID: 0
+PRED: sprinkle
+  PARG: crumbled bacon
+    PREP: with
+

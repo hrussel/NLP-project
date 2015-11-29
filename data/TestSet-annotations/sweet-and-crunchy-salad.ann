@@ -1,0 +1,66 @@
+T1	predicate 0 5	Place
+T2	predicate 42 46	soak
+T3	predicate 77 82	Whisk
+T4	predicate 137 142	Drain
+T5	predicate 262 266	Pour
+T6	predicate 291 295	toss
+T7	predicate 312 323	Refrigerate
+T8	predicate 342 345	Add
+T9	predicate 361 368	serving
+T10	arg_object 6 13	noodles
+T11	ingredient 6 13	noodles
+R1	object Arg1:T1 Arg2:T10	
+T12	arg_co-object 14 37	in a bowl of warm water
+R2	co-object Arg1:T1 Arg2:T12	
+R3	object Arg1:T2 Arg2:T1	
+T13	arg_duration 47 75	for 15 minutes or until soft
+R4	duration Arg1:T2 Arg2:T13	
+T14	arg_other 83 91	together
+T15	arg_object 92 99	the oil
+T16	ingredient 92 99	the oil
+T17	arg_object 101 106	sugar
+T18	ingredient 101 106	sugar
+T19	arg_object 108 115	vinegar
+T20	ingredient 108 115	vinegar
+T21	arg_object 120 135	seasoning packs
+T22	ingredient 120 135	seasoning packs
+R5	other Arg1:T3 Arg2:T14	
+R6	object Arg1:T3 Arg2:T15	
+R7	object Arg1:T3 Arg2:T17	
+R8	object Arg1:T3 Arg2:T19	
+R9	object Arg1:T3 Arg2:T21	
+T23	arg_object 143 154	the noodles
+T24	Evolution 143 154	the noodles
+E1	Evolution:T24 Cause:T2
+R10	object Arg1:T4 Arg2:T23	
+R11	co-object Arg1:T4 Arg2:T2	
+T25	predicate 159 166	combine
+R12	object Arg1:T25 Arg2:T4	
+T26	arg_location 167 182	in a large bowl
+R13	location Arg1:T25 Arg2:T26	
+T27	arg_co-object 183 260	with the coleslaw, oranges, water chestnuts, green onions and sunflower seeds
+T28	ingredient 188 200	the coleslaw
+T29	ingredient 202 209	oranges
+T30	ingredient 211 226	water chestnuts
+T31	ingredient 228 240	green onions
+T32	ingredient 245 260	sunflower seeds
+R14	co-object Arg1:T25 Arg2:T27	
+T33	arg_object 267 275	dressing
+T34	Evolution 267 275	dressing
+E2	Evolution:T34 Cause:T3
+R15	object Arg1:T5 Arg2:T33	
+T35	arg_co-object 276 286	over salad
+T36	Evolution 281 286	salad
+E3	Evolution:T36 Cause:T25
+R16	co-object Arg1:T5 Arg2:T35	
+R17	object Arg1:T6 Arg2:T5	
+T37	arg_other 296 310	to coat evenly
+R18	other Arg1:T6 Arg2:T37	
+R19	object Arg1:T7 Arg2:T6	
+T38	arg_duration 324 340	for 2 to 4 hours
+R20	duration Arg1:T7 Arg2:T38	
+R21	co-object Arg1:T8 Arg2:T7	
+T39	arg_object 346 353	cashews
+T40	ingredient 346 353	cashews
+R22	object Arg1:T8 Arg2:T39	
+R23	object Arg1:T9 Arg2:T8	

@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix the ground sirloin , salsa , bread crumbs , cheese , egg , and garlic .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground sirloin , salsa , bread crumbs , cheese , egg , garlic
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Season with parsley , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: parsley , salt , pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Transfer to a 5x9 inch loaf pan .
+PREDID: 0
+PRED: transfer
+  PARG: a 5x9 inch loaf pan
+    PREP: to
+
+
+SENTID: 4
+SENT: Bake 45 minutes in the preheated oven , or to a minimum internal temperature of 160 degrees F -LRB- 72 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a minimum internal temperature of 160 degrees f -lrb- 72 degrees c -rrb-
+    PREP: to
+  OARG: 45 minutes
+

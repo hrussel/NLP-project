@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until slightly tender , 15 to 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: slightly tender , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 4
+SENT: Remove skin from potatoes ;
+PREDID: 0
+PRED: remove
+  DOBJ: skin
+  PARG: potatoes
+    PREP: from
+
+
+SENTID: 5
+SENT: quarter and slice .
+PREDID: 0
+PRED: quarter
+
+PREDID: 1
+PRED: slice
+
+
+SENTID: 6
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Drain on paper towels .
+PREDID: 0
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 8
+SENT: Combine potatoes , bacon , onion , celery , and eggs together in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , bacon , onion , celery , eggs
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Whisk mayonnaise , milk , sour cream , vinegar , celery salt , salt , and black pepper together in a separate bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , milk , sour cream , vinegar , celery salt , salt , black pepper
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Fold mayonnaise mixture into potato mixture until incorporated .
+PREDID: 0
+PRED: fold
+  DOBJ: mayonnaise mixture
+  PARG: potato mixture
+    PREP: into
+  PARG: incorporated
+    PREP: until
+
+
+SENTID: 11
+SENT: Refrigerate 8 hours or overnight to allow flavors to blend .
+PREDID: 0
+PRED: refrigerate
+  PARG: blend
+    PREP: to
+  OARG: 8 hours
+  OARG: overnight
+  OARG: to allow flavors
+

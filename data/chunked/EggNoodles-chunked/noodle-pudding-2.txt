@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a large bowl , combine noodles , sugar , raisins , pecans , salt and eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: noodles , sugar , raisins , pecans , salt, eggs
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Melt butter in an 8x12 inch baking dish .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: an 8x12 inch baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Tilt to coat dish , then pour remaining butter into noodle mixture , stirring to coat evenly .
+PREDID: 0
+PRED: tilt
+  PARG: coat dish
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: remaining butter
+  PARG: noodle mixture , stirring
+    PREP: into
+  PARG: coat
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Spread mixture into dish .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: dish
+    PREP: into
+
+
+SENTID: 8
+SENT: Sprinkle with cinnamon .
+PREDID: 0
+PRED: sprinkle
+  PARG: cinnamon
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in preheated oven 55 minutes , until top is browned .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 55 minutes
+    PREP: in
+  PARG: top is browned
+    PREP: until
+

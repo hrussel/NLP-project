@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Stir celery , onion , barbeque sauce , ketchup , water , garlic powder , chili powder , salt , and pepper together in a slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: celery , onion , barbeque sauce , ketchup , water , garlic powder , chili powder , salt , pepper
+  PARG: a slow cooker
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Place roast into the mixture .
+PREDID: 0
+PRED: place
+  DOBJ: roast
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 2
+SENT: Cook on Low for 7 hours -LRB- or High for 5 hours -RRB- .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 7 hours -lrb- or high
+    PREP: for
+  PARG: 5 hours -rrb-
+    PREP: for
+
+
+SENTID: 3
+SENT: Shred the meat with two forks and stir into the liquid ;
+PREDID: 0
+PRED: shred
+  DOBJ: the meat
+  PARG: two forks
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: the liquid
+    PREP: into
+
+
+SENTID: 4
+SENT: cook for 1 hour more .
+PREDID: 0
+PRED: cook
+  PARG: 1 hour more
+    PREP: for
+

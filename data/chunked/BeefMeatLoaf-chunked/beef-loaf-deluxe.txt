@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 15x10 inch roasting pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 15x10 inch roasting pan
+
+
+SENTID: 2
+SENT: Place the potatoes , green and red peppers , and onions in the pan and toss with the 2 tablespoons of vegetable oil .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes , green, red peppers , onions
+  PARG: the pan
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: the 2 tablespoons of vegetable oil
+    PREP: with
+
+
+SENTID: 3
+SENT: Bake in a preheated oven , uncovered , for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven , uncovered
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Meanwhile , in a mixing bowl , combine egg , ground beef , parsley , Worcestershire sauce , garlic and bread crumbs .
+PREDID: 0
+PRED: combine
+  DOBJ: egg , ground beef , parsley , worcestershire sauce , garlic, bread crumbs
+  PARG: a mixing bowl
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 6
+SENT: Shape into a loaf about 8x4x4 inches .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+  PARG: 8x4x4 inches
+    PREP: about
+
+
+SENTID: 7
+SENT: When vegetables have cooked for 20 minutes , reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 20 minutes
+    PREP: for
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+  OARG: when vegetables have cooked
+
+
+SENTID: 8
+SENT: Take roasting pan out of oven and stir in zucchini .
+PREDID: 0
+PRED: take
+  DOBJ: roasting pan
+  PARG: of oven
+    PREP: out
+
+PREDID: 1
+PRED: stir
+  PARG: zucchini
+    PREP: in
+
+
+SENTID: 9
+SENT: Push the vegetables to the sides of the pan .
+PREDID: 0
+PRED: push
+  DOBJ: the vegetables
+  PARG: the sides of the pan
+    PREP: to
+
+
+SENTID: 10
+SENT: Place the meat loaf in the center of the pan and pour the tomato sauce over the loaf and vegetables .
+PREDID: 0
+PRED: place
+  DOBJ: the meat loaf
+  PARG: the center of the pan
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: the tomato sauce
+  PARG: the loaf, vegetables
+    PREP: over
+
+
+SENTID: 11
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 12
+SENT: Bake in a preheated oven , uncovered , for 30 minutes or until done .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven , uncovered
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+

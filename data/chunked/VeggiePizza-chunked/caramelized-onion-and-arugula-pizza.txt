@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Cook onions in butter in large skillet on medium-high heat 15 to 20 min .
+PREDID: 0
+PRED: cook
+  DOBJ: onions
+  PARG: butter
+    PREP: in
+  PARG: large skillet
+    PREP: in
+  PARG: medium-high heat 15 to 20 min
+    PREP: on
+
+
+SENTID: 1
+SENT: Add dressing ;
+PREDID: 0
+PRED: add
+  DOBJ: dressing
+
+
+SENTID: 2
+SENT: cook on medium heat 10 min .
+PREDID: 0
+PRED: cook
+  PARG: medium heat 10 min
+    PREP: on
+
+
+SENTID: 3
+SENT: Stir in rosemary .
+PREDID: 0
+PRED: stir
+  PARG: rosemary
+    PREP: in
+
+
+SENTID: 4
+SENT: Cool completely .
+PREDID: 0
+PRED: cool
+  OARG: completely
+
+
+SENTID: 5
+SENT: Heat oven to 450 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 450 degrees f.
+    PREP: to
+
+
+SENTID: 6
+SENT: Press Perfect Parmesan Pizza Dough onto bottom of 17x11-1 / 2x3/4-inch pan sprayed with cooking spray .
+PREDID: 0
+PRED: press
+  DOBJ: perfect parmesan pizza dough
+  PARG: bottom of 17x11-1 / 2x3/4-inch pan sprayed
+    PREP: onto
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 7
+SENT: Let stand 10 min .
+PREDID: 0
+PRED: let
+  DOBJ: stand 10 min
+
+
+SENTID: 8
+SENT: Top with onions .
+PREDID: 0
+PRED: top
+  PARG: onions
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake on bottom oven rack 15 min .
+PREDID: 0
+PRED: bake
+  PARG: bottom oven rack 15 min
+    PREP: on
+
+
+SENTID: 10
+SENT: or until crust is golden brown .
+PREDID: 0
+PRED: brown
+  PARG: crust is golden
+    PREP: until
+
+
+SENTID: 11
+SENT: Top with cheese ;
+PREDID: 0
+PRED: top
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: bake 2 to 3 min .
+PREDID: 0
+PRED: bake
+  DOBJ: 2 to 3 min
+
+
+SENTID: 13
+SENT: Top with arugula and pine nuts .
+PREDID: 0
+PRED: top
+  PARG: arugula, pine nuts
+    PREP: with
+

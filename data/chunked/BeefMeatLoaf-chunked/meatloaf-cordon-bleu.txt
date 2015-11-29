@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix together the ground beef , bread crumbs , eggs , and onion .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , bread crumbs , eggs , onion
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Season with garlic powder , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: garlic powder , salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Pat the meat mixture out onto a piece of waxed paper , and flatten to 1/2 inch thick .
+PREDID: 0
+PRED: pat
+  DOBJ: the meat mixture
+  PARG: onto a piece of waxed paper
+    PREP: out
+
+PREDID: 1
+PRED: flatten
+  PARG: 1/2 inch thick
+    PREP: to
+
+
+SENTID: 4
+SENT: Lay slices of ham onto the flattened meat , and top with slices of cheese .
+PREDID: 0
+PRED: lay
+  DOBJ: slices of ham
+  PARG: the flattened meat
+    PREP: onto
+
+PREDID: 1
+PRED: top
+  PARG: slices of cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Pick up the edge of the waxed paper to roll the flattened meat up into a log .
+PREDID: 0
+PRED: pick
+  DOBJ: the edge of the waxed paper
+  PARG: roll the flattened meat
+    PREP: to
+  PARG: a log
+    PREP: into
+  OARG: up
+  OARG: up
+
+
+SENTID: 6
+SENT: Remove waxed paper , seal the ends and seam , and place the loaf into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: remove
+  DOBJ: waxed paper
+
+PREDID: 1
+PRED: seal
+  DOBJ: the ends, seam
+
+PREDID: 2
+PRED: place
+  DOBJ: the loaf
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake for 1 hour and 15 minutes in the preheated oven , or until the loaf is no longer pink inside .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour, 15 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the loaf is no longer pink inside
+    PREP: until
+

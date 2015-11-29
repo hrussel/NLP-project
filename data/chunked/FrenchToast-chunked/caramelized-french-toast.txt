@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Melt two tablespoons of butter in a frying pan or skillet over medium high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: two tablespoons of butter
+  PARG: a frying pan or skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Beat together eggs , milk and salt .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , milk, salt
+  OARG: together
+
+
+SENTID: 2
+SENT: Dip bread one at a time into egg mixture and fry until light brown and egg is cooked .
+PREDID: 0
+PRED: dip
+  DOBJ: bread one at a time
+  PARG: egg mixture
+    PREP: into
+
+PREDID: 1
+PRED: fry
+  PARG: light brown, egg is cooked
+    PREP: until
+
+
+SENTID: 3
+SENT: After 4 slices of bread have been cooked , melt remaining 2 tablespoons butter .
+PREDID: 0
+PRED: melt
+  DOBJ: remaining 2 tablespoons butter
+  PARG: 4 slices of bread have been cooked
+    PREP: after
+
+
+SENTID: 4
+SENT: Cook remaining bread slices until light brown on both sides and egg is cooked .
+PREDID: 0
+PRED: cook
+  DOBJ: remaining bread slices
+  PARG: light brown on both sides, egg is cooked
+    PREP: until
+
+
+SENTID: 5
+SENT: After all bread slices have been cooked and removed from pan , add brown sugar to pan .
+PREDID: 0
+PRED: add
+  DOBJ: brown sugar
+  PARG: all bread slices have been cooked, removed
+    PREP: after
+  PARG: pan
+    PREP: from
+  PARG: pan
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir until melted and sticky .
+PREDID: 0
+PRED: stir
+  PARG: melted, sticky
+    PREP: until
+
+
+SENTID: 7
+SENT: Add water and stir .
+PREDID: 0
+PRED: add
+  DOBJ: water
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 8
+SENT: Place French toast in caramel sauce .
+PREDID: 0
+PRED: place
+  DOBJ: french toast
+  PARG: caramel sauce
+    PREP: in
+
+
+SENTID: 9
+SENT: Turn to coat , then remove from pan .
+PREDID: 0
+PRED: turn
+  PARG: coat
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  PARG: pan
+    PREP: from
+
+
+SENTID: 10
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

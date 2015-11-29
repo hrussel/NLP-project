@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: In a skillet over medium-high heat , cook the bacon until evenly brown and crisp .
+PREDID: 0
+PRED: cook
+  DOBJ: the bacon
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly brown, crisp
+    PREP: until
+
+
+SENTID: 1
+SENT: Reserve juices in skillet , and set bacon aside .
+PREDID: 0
+PRED: reserve
+  DOBJ: juices
+  PARG: skillet
+    PREP: in
+
+PREDID: 1
+PRED: set
+  DOBJ: bacon
+  OARG: aside
+
+
+SENTID: 2
+SENT: Brown the sausage in the bacon juices .
+PREDID: 0
+PRED: brown
+  DOBJ: the sausage
+  PARG: the bacon juices
+    PREP: in
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Cook the ground beef in the skillet until evenly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+  PARG: the skillet
+    PREP: in
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Saute the onion and green pepper in the skillet juices until tender .
+PREDID: 0
+PRED: saute
+  DOBJ: the onion, green pepper
+  PARG: the skillet juices
+    PREP: in
+  PARG: tender
+    PREP: until
+
+
+SENTID: 7
+SENT: In a large pot over medium heat , mix the bacon , sausage , beef , onion , green pepper , and jalapeno pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the bacon , sausage , beef , onion , green pepper , jalapeno pepper
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Pour in the wine and tomatoes , and season with chili powder .
+PREDID: 0
+PRED: pour
+  PARG: the wine, tomatoes
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: chili powder
+    PREP: with
+
+
+SENTID: 9
+SENT: Cook 20 minutes , stirring often .
+PREDID: 0
+PRED: cook
+  OARG: 20 minutes , stirring
+  OARG: often
+
+
+SENTID: 10
+SENT: Mix in the beans , and continue to cook and stir 25 minutes .
+PREDID: 0
+PRED: mix
+  PARG: the beans
+    PREP: in
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  OARG: 25 minutes
+

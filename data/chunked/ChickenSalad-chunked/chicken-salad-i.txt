@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+
+SENTID: 2
+SENT: cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , cool and chop .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 4
+SENT: In a mixing bowl , combine the potatoes , chicken , peas and corn .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , chicken , peas, corn
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Add enough salad dressing to coat , mix well .
+PREDID: 0
+PRED: add
+  DOBJ: salad dressing
+  PARG: coat
+    PREP: to
+  OARG: enough
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Top with sliced tomatoes , cover and refrigerate for 2 hours .
+PREDID: 0
+PRED: top
+  PARG: sliced tomatoes
+    PREP: with
+
+PREDID: 1
+PRED: cover
+  PARG: 2 hours
+    PREP: for
+
+PREDID: 2
+PRED: refrigerate
+
+
+SENTID: 7
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

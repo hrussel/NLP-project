@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x5 inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5 inch loaf pan
+
+
+SENTID: 2
+SENT: In a large bowl , combine ground beef , bread crumbs , onion , banana , salt , pepper , paprika and dry mustard until well mixed .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , bread crumbs , onion , banana , salt , pepper , paprika, dry mustard
+  PARG: a large bowl
+    PREP: in
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 3
+SENT: Shape into a loaf and place in prepared pan .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: prepared pan
+    PREP: in
+
+
+SENTID: 4
+SENT: Bake in preheated oven 1 hour , or until no longer pink in the center .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 1 hour
+    PREP: in
+  PARG: no longer pink in the center
+    PREP: until
+

@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk the flour , cream of tartar , baking soda , and salt in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the flour , cream of tartar , baking soda , salt
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: In a large mixing bowl , mash the vegetable shortening and margarine together until thoroughly combined , and beat in 1Ê1/2 cup of sugar , eggs , and 1 teaspoon of vanilla extract .
+PREDID: 0
+PRED: mash
+  DOBJ: the vegetable shortening, margarine
+  PARG: a large mixing bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: beat
+  PARG: 1Ê1/2 cup of sugar , eggs , 1 teaspoon of vanilla extract
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix in the flour mixture to make a workable dough , and spread the dough out in a rectangle shape onto an ungreased 12x17 inch baking sheet .
+PREDID: 0
+PRED: mix
+  PARG: the flour mixture
+    PREP: in
+  PARG: make a workable dough
+    PREP: to
+
+PREDID: 1
+PRED: spread
+  DOBJ: the dough
+  PARG: in a rectangle
+    PREP: out
+
+PREDID: 2
+PRED: shape
+  PARG: an ungreased 12x17 inch baking sheet
+    PREP: onto
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until very lightly browned , 8 to 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: very lightly browned , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Allow to cool completely .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 6
+SENT: While the cookie base is cooling , mash the cream cheese with 1 cup of sugar and 2 teaspoons of vanilla extract in a bowl until smooth .
+PREDID: 0
+PRED: mash
+  DOBJ: the cream cheese
+  PARG: the cookie base is cooling
+    PREP: while
+  PARG: 1 cup of sugar, 2 teaspoons of vanilla extract
+    PREP: with
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Place sliced bananas in a bowl , and gently toss with lemon juice to prevent browning .
+PREDID: 0
+PRED: place
+  DOBJ: sliced bananas
+  PARG: a bowl
+    PREP: in
+  OARG: gently
+
+PREDID: 1
+PRED: toss
+  PARG: lemon juice
+    PREP: with
+  OARG: to prevent browning
+
+
+SENTID: 8
+SENT: To decorate the pizza , spread the cream cheese filling all over the cookie base in an even , smooth layer .
+PREDID: 0
+PRED: spread
+  DOBJ: filling all over the cookie base
+  PARG: an even , smooth layer
+    PREP: in
+  OARG: to decorate the pizza
+  OARG: the cream cheese
+
+
+SENTID: 9
+SENT: Place the blueberries in a square in neat , closely-spaced rows , in the left upper corner for blue stars .
+PREDID: 0
+PRED: place
+  DOBJ: the blueberries
+  PARG: a square
+    PREP: in
+  PARG: neat , closely-spaced rows
+    PREP: in
+  PARG: the left upper corner
+    PREP: in
+  PARG: blue stars
+    PREP: for
+
+
+SENTID: 10
+SENT: Arrange alternating stripes of white bananas and red strawberry slices across the pizza .
+PREDID: 0
+PRED: arrange
+  DOBJ: alternating stripes of white bananas, red strawberry slices
+  PARG: the pizza
+    PREP: across
+
+
+SENTID: 11
+SENT: Refrigerate leftovers .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: leftovers
+

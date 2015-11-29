@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Prepare couscous pasta according to package directions , using chicken broth for liquid .
+PREDID: 0
+PRED: prepare
+  DOBJ: couscous pasta according
+  PARG: package directions , using chicken broth
+    PREP: to
+  PARG: liquid
+    PREP: for
+
+
+SENTID: 1
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 2
+SENT: In a large skillet combine the wine , oil , 1 tablespoon lime juice , 1 teaspoon cumin and garlic ;
+PREDID: 0
+PRED: combine
+  DOBJ: the wine
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: oil
+  DOBJ: 1 tablespoon lime juice , 1 teaspoon cumin, garlic
+
+
+SENTID: 3
+SENT: mix all together and add chicken .
+PREDID: 0
+PRED: mix
+  DOBJ: all together
+
+PREDID: 1
+PRED: add
+  DOBJ: chicken
+
+
+SENTID: 4
+SENT: Simmer over low heat until all liquid has evaporated and chicken juices run clear , 5 to 7 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: all liquid has evaporated, chicken juices run clear , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove chicken from skillet and mix in a large bowl with remaining 1 tablespoon lime juice , remaining 1/2 teaspoon cumin , green bell pepper , red bell pepper , yellow bell pepper , green onion and couscous .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: mix
+  DOBJ: remaining 1/2 teaspoon cumin , green bell pepper , red bell pepper , yellow bell pepper , green onion, couscous
+  PARG: a large bowl
+    PREP: in
+  PARG: remaining 1 tablespoon lime juice
+    PREP: with
+
+
+SENTID: 6
+SENT: Garnish with a few black olives per serving .
+PREDID: 0
+PRED: garnish
+  PARG: a few black olives
+    PREP: with
+  PARG: serving
+    PREP: per
+

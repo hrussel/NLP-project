@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease 9x13-inch baking pan .
+PREDID: 0
+PRED: grease
+  DOBJ: 9x13-inch baking pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Melt butter in a saucepan over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: saute onion and garlic until onion is translucent , 5 to 10 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: onion, garlic
+  PARG: onion is translucent , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add green bell pepper to onion mixture and saute until bell pepper is softened , about 3 more minutes .
+PREDID: 0
+PRED: add
+  DOBJ: green bell pepper
+  PARG: onion mixture
+    PREP: to
+
+PREDID: 1
+PRED: saute
+  PARG: bell pepper is softened , about 3 more minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix sirloin , bread crumbs , salt , and black pepper together in a large bowl with your hands ;
+PREDID: 0
+PRED: mix
+  DOBJ: sirloin , bread crumbs , salt , black pepper
+  PARG: a large bowl
+    PREP: in
+  PARG: your hands
+    PREP: with
+  OARG: together
+
+
+SENTID: 6
+SENT: add vegetable mixture and loosely mix .
+PREDID: 0
+PRED: add
+  DOBJ: vegetable mixture
+  OARG: loosely
+
+PREDID: 1
+PRED: mix
+
+
+SENTID: 7
+SENT: Mix egg into sirloin mixture ;
+PREDID: 0
+PRED: mix
+  DOBJ: egg
+  PARG: sirloin mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: add oats if mixture is too wet .
+PREDID: 0
+PRED: add
+  DOBJ: oats
+  PARG: mixture is
+    PREP: if
+  OARG: too
+
+
+SENTID: 9
+SENT: Transfer sirloin mixture to the prepared baking pan and form into a loaf .
+PREDID: 0
+PRED: transfer
+  DOBJ: sirloin mixture
+  PARG: the prepared baking pan
+    PREP: to
+
+PREDID: 1
+PRED: form
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 10
+SENT: Bake in the preheated oven for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Whisk ketchup , sugar , honey , and hot sauce together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: ketchup , sugar , honey , hot sauce
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 12
+SENT: brush over meat loaf .
+PREDID: 0
+PRED: brush
+  PARG: meat loaf
+    PREP: over
+
+
+SENTID: 13
+SENT: Continue baking until no longer pink in the center , about 40 more minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: baking
+  PARG: no longer pink in the center , about 40 more minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Let stand for 10 minutes before slicing .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+

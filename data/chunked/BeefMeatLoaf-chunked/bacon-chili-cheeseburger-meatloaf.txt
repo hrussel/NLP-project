@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Cook and stir bacon in a large skillet over medium heat until bacon is translucent and beginning to brown , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+
+PREDID: 1
+PRED: stir
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: bacon is translucent, beginning to brown , about 5 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: stir in onion and continue cooking and stirring until bacon is browned and sweet onion is translucent , about 5 more minutes .
+PREDID: 0
+PRED: stir
+  PARG: onion, continue cooking, stirring
+    PREP: in
+  PARG: bacon is browned, sweet onion is translucent , about 5 more minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix 1/2 cup ketchup , 2 tablespoons chili powder , 2 tablespoons ancho chile powder , 1 tablespoon Worcestershire sauce , cumin , salt , black pepper , and garlic powder in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: 1/2 cup ketchup , 2 tablespoons chili powder , 2 tablespoons ancho chile powder , 1 tablespoon worcestershire sauce , cumin , salt , black pepper , garlic powder
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix in ground sirloin , bacon-onion mixture , Cheddar cheese , pepper jack cheese , eggs , and bread crumbs until thoroughly combined .
+PREDID: 0
+PRED: mix
+  PARG: ground sirloin , bacon-onion mixture , cheddar cheese , pepper jack cheese , eggs , bread crumbs
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Form the mixture into a loaf shape and refrigerate 1 hour .
+PREDID: 0
+PRED: form
+  DOBJ: the mixture
+  PARG: a loaf shape
+    PREP: into
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 1 hour
+
+
+SENTID: 5
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 6
+SENT: Line a 9x13-inch baking pan with aluminum foil and spray the foil with cooking spray .
+PREDID: 0
+PRED: line
+  DOBJ: a 9x13-inch baking pan
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: spray
+  DOBJ: the foil
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 7
+SENT: Place loaf into the prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: loaf
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 8
+SENT: Mix 1/2 cup ketchup , 1 tablespoon Worcestershire sauce , 1 teaspoon chili powder , and 1 teaspoon ground ancho chile in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: 1/2 cup ketchup , 1 tablespoon worcestershire sauce , 1 teaspoon chili powder , 1 teaspoon ground ancho chile
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Spread the mixture over the loaf .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: the loaf
+    PREP: over
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until the loaf is no longer pink inside and the juices run clear , 1 hour and 5 minutes to 1 hour and 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the loaf is no longer pink inside, the juices run clear , 1 hour, 5 minutes to 1 hour, 15 minutes
+    PREP: until
+

@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Grate the zest from the lemon , lime , and orange into a large bowl .
+PREDID: 0
+PRED: grate
+  DOBJ: the zest
+  PARG: the lemon , lime , orange
+    PREP: from
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Squeeze the juice from half of each piece of fruit into the bowl .
+PREDID: 0
+PRED: squeeze
+  DOBJ: the juice
+  PARG: half of each piece of fruit
+    PREP: from
+  PARG: the bowl
+    PREP: into
+
+
+SENTID: 2
+SENT: Whisk in 1 tablespoon barbeque sauce .
+PREDID: 0
+PRED: whisk
+  PARG: 1 tablespoon barbeque sauce
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in ground beef ;
+PREDID: 0
+PRED: stir
+  PARG: ground beef
+    PREP: in
+
+
+SENTID: 4
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Cover and refrigerate for 10 to 30 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 10 to 30 minutes
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 6
+SENT: Preheat an outdoor grill for high heat , and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 7
+SENT: Form meat into patties .
+PREDID: 0
+PRED: form
+  DOBJ: meat
+  PARG: patties
+    PREP: into
+
+
+SENTID: 8
+SENT: Grill with lid open , about 3 minutes per side .
+PREDID: 0
+PRED: grill
+  PARG: lid open
+    PREP: with
+  PARG: 3 minutes
+    PREP: about
+  PARG: side
+    PREP: per
+
+
+SENTID: 9
+SENT: Brush each burger with one tablespoon barbeque sauce during grilling , coating both sides .
+PREDID: 0
+PRED: brush
+  DOBJ: each burger
+  PARG: one tablespoon barbeque sauce
+    PREP: with
+  PARG: grilling , coating both sides
+    PREP: during
+
+
+SENTID: 10
+SENT: Top burgers with pepperjack cheese and cook until cheese is melted and meat is no longer pink in the center , about 1 additional minute .
+PREDID: 0
+PRED: top
+  DOBJ: burgers
+  PARG: pepperjack cheese
+    PREP: with
+
+PREDID: 1
+PRED: cook
+  PARG: cheese is melted, meat is no longer pink in the center , about 1 additional minute
+    PREP: until
+

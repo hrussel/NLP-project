@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a medium baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a medium baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a saucepan of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a saucepan of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in boiling water for 6 to 8 minutes , or until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: boiling water
+    PREP: in
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Melt butter in a saucepan over medium-low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Mix in flour , heating until bubbly .
+PREDID: 0
+PRED: mix
+  PARG: flour , heating
+    PREP: in
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 7
+SENT: Slowly whisk in milk .
+PREDID: 0
+PRED: whisk
+  PARG: milk
+    PREP: in
+  OARG: slowly
+
+
+SENTID: 8
+SENT: Cook for 5 minutes , stirring constantly , or until thick and smooth .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes , stirring
+    PREP: for
+  PARG: thick, smooth
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 9
+SENT: Remove the saucepan from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: the saucepan
+  PARG: heat
+    PREP: from
+
+
+SENTID: 10
+SENT: Mix in the noodles , chicken , ham , celery , salt , and pepper .
+PREDID: 0
+PRED: mix
+  PARG: the noodles , chicken , ham , celery , salt , pepper
+    PREP: in
+
+
+SENTID: 11
+SENT: Spoon the mixture into the prepared baking dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: the mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 12
+SENT: Bake for 15 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 15 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 13
+SENT: Sprinkle with cheese and paprika , and continue baking for another 5 minutes .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheese, paprika , continue baking
+    PREP: with
+  PARG: another 5 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Serve hot !
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

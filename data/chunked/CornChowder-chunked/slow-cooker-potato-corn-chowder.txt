@@ -1,0 +1,19 @@
+SENTID: 0
+SENT: Stir potatoes , whole kernel corn , cream-style corn , evaporated milk , vegetable broth , sweet onion , celery , garlic powder , dried chives , Worcestershire sauce , and black pepper together in a slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: potatoes , whole kernel corn , cream-style corn , evaporated milk , vegetable broth , sweet onion , celery , garlic powder , dried chives , worcestershire sauce , black pepper
+  PARG: a slow cooker
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Cook 6 hours on Low , stirring occasionally .
+PREDID: 0
+PRED: cook
+  PARG: low , stirring
+    PREP: on
+  OARG: 6 hours
+  OARG: occasionally
+

@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large pot over medium heat , combine garlic , onion , habanero peppers , chili beans , kidney beans , black beans , diced tomatoes with green chiles , salsa , chili powder , black pepper , red pepper flakes , cumin and taco seasoning .
+PREDID: 0
+PRED: combine
+  DOBJ: garlic , onion , habanero peppers , chili beans , kidney beans , black beans , diced tomatoes
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: green chiles , salsa , chili powder , black pepper , red pepper flakes , cumin, taco seasoning
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , then reduce heat , cover and simmer .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: cover
+
+PREDID: 3
+PRED: simmer
+
+
+SENTID: 2
+SENT: While soup is heating , cook beef in a large skillet over medium heat until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: soup is heating
+    PREP: while
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain excess fat , then stir beef into soup pot .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  DOBJ: beef
+  PARG: soup pot
+    PREP: into
+
+
+SENTID: 4
+SENT: Simmer , covered , until flavors are well blended , about 1 hour .
+PREDID: 0
+PRED: simmer
+  DOBJ: covered
+  PARG: flavors are well blended , about 1 hour
+    PREP: until
+

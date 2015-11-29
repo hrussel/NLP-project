@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Melt the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the onion and garlic , and fresh mushrooms ;
+PREDID: 0
+PRED: add
+  DOBJ: the onion, garlic , fresh mushrooms
+
+
+SENTID: 2
+SENT: cook until the onions are translucent .
+PREDID: 0
+PRED: cook
+  PARG: the onions are translucent
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in curry powder until well blended .
+PREDID: 0
+PRED: stir
+  PARG: curry powder
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 4
+SENT: Place the meat strips in the skillet , and fry until evenly browned .
+PREDID: 0
+PRED: place
+  DOBJ: the meat strips
+  PARG: the skillet
+    PREP: in
+
+PREDID: 1
+PRED: fry
+  PARG: evenly browned
+    PREP: until
+
+
+SENTID: 5
+SENT: Dissolve the bouillon cubes in the boiling water , then stir into the skillet .
+PREDID: 0
+PRED: dissolve
+  DOBJ: the bouillon cubes
+  PARG: the boiling water
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 6
+SENT: Add the mushroom stems and pieces and dried shiitake mushrooms .
+PREDID: 0
+PRED: add
+  DOBJ: the mushroom stems, pieces, dried shiitake mushrooms
+
+
+SENTID: 7
+SENT: Let the mixture simmer over medium heat until most of the liquid has evaporated , about 20 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: the mixture
+
+PREDID: 1
+PRED: simmer
+  PARG: medium heat
+    PREP: over
+  PARG: most of the liquid has evaporated , about 20 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 9
+SENT: Add the noodles and cook until tender , about 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 7 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 11
+SENT: Reduce the heat under the skillet to low , and pour in the cream , stirring until the sauce is an even color .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: the skillet
+    PREP: under
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  PARG: the cream , stirring
+    PREP: in
+  PARG: the sauce is an even color
+    PREP: until
+
+
+SENTID: 12
+SENT: Serve over noodles .
+PREDID: 0
+PRED: serve
+  PARG: noodles
+    PREP: over
+

@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: To Make Crust :
+PREDID: 0
+PRED: crust
+  PARG: make
+    PREP: to
+
+
+SENTID: 2
+SENT: In a medium bowl , combine flour , salt and white sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , salt, white sugar
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Cut butter into flour mixture until it resembles coarse crumbs .
+PREDID: 0
+PRED: cut
+  DOBJ: butter
+  PARG: flour mixture
+    PREP: into
+  PARG: it resembles coarse crumbs
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually sprinkle the water over the dry mixture , stirring until dough comes together enough to form a ball .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the water
+  PARG: the dry mixture , stirring
+    PREP: over
+  PARG: dough comes together enough to form a ball
+    PREP: until
+  OARG: gradually
+
+
+SENTID: 5
+SENT: On a floured surface flatten dough ball with rolling pin .
+PREDID: 0
+PRED: flatten
+  DOBJ: dough ball
+  PARG: a floured surface
+    PREP: on
+  PARG: rolling pin
+    PREP: with
+
+
+SENTID: 6
+SENT: Roll out into a circle that is one inch larger than pie dish .
+PREDID: 0
+PRED: roll
+  PARG: into a circle
+    PREP: out
+  PARG: is one inch larger
+    PREP: that
+  PARG: pie dish
+    PREP: than
+
+
+SENTID: 7
+SENT: Place pie shell into dish and refrigerate until pie filling is complete .
+PREDID: 0
+PRED: place
+  DOBJ: pie shell
+  PARG: dish
+    PREP: into
+
+PREDID: 1
+PRED: refrigerate
+  PARG: pie filling is complete
+    PREP: until
+
+
+SENTID: 8
+SENT: In a medium bowl , mix together eggs , light and dark corn syrups , brown sugar , butter , salt and finely crushed pecans .
+PREDID: 0
+PRED: mix
+  DOBJ: eggs , light, dark corn syrups , brown sugar , butter , salt
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+  OARG: finely
+
+
+SENTID: 9
+SENT: Spread quartered pecans over bottom of refrigerated pie crust .
+PREDID: 0
+PRED: spread
+  DOBJ: quartered pecans
+  PARG: bottom of refrigerated pie crust
+    PREP: over
+
+
+SENTID: 10
+SENT: Pour syrup mixture over top of pecans , then arrange pecan halves on top of pie .
+PREDID: 0
+PRED: pour
+  DOBJ: syrup mixture
+  PARG: top of pecans
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: arrange
+  DOBJ: pecan halves
+  PARG: top of pie
+    PREP: on
+
+
+SENTID: 11
+SENT: Bake in a preheated 350 degrees F -LRB- 175 degrees C -RRB- oven for one hour or until firm ;
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degrees f -lrb- 175 degrees c -rrb- oven
+    PREP: in
+  PARG: one hour
+    PREP: for
+  PARG: firm
+    PREP: until
+
+
+SENTID: 12
+SENT: let cool for one hour before serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: one hour
+    PREP: for
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Combine all dressing ingredients ;
+PREDID: 0
+PRED: combine
+  DOBJ: all dressing ingredients
+
+
+SENTID: 1
+SENT: stir until well blended .
+PREDID: 0
+PRED: stir
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Add turkey or chicken , apples , celery and raisins .
+PREDID: 0
+PRED: add
+  DOBJ: turkey or chicken , apples , celery, raisins
+
+
+SENTID: 3
+SENT: Toss to coat the salad ingredients .
+PREDID: 0
+PRED: toss
+  PARG: coat the salad ingredients
+    PREP: to
+
+
+SENTID: 4
+SENT: Season with additional salt and pepper , if desired .
+PREDID: 0
+PRED: season
+  PARG: additional salt, pepper
+    PREP: with
+  PARG: desired
+    PREP: if
+
+
+SENTID: 5
+SENT: Place lettuce leaf on each of 6 serving plates .
+PREDID: 0
+PRED: place
+  DOBJ: lettuce leaf
+  PARG: each of 6 serving plates
+    PREP: on
+
+
+SENTID: 6
+SENT: Top each with mound of salad .
+PREDID: 0
+PRED: top
+  DOBJ: each with mound of salad
+
+
+SENTID: 7
+SENT: Garnish each salad with chopped fresh parsley or chives .
+PREDID: 0
+PRED: garnish
+  DOBJ: each salad
+  PARG: chopped fresh parsley or chives
+    PREP: with
+
+
+SENTID: 8
+SENT: Ask the deli to slice the turkey into 3/4 - or 1-inch slices , then cube the meat at home before adding to this salad .
+PREDID: 0
+PRED: ask
+  DOBJ: the deli
+  PARG: slice the turkey
+    PREP: to
+  PARG: 3/4 - or 1-inch slices
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: cube
+  DOBJ: the meat
+  PARG: home
+    PREP: at
+  PARG: adding
+    PREP: before
+  PARG: this salad
+    PREP: to
+

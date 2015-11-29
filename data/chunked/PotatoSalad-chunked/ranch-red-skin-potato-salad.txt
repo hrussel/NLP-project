@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Reduce heat and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and refrigerate until cold , then cut into bite-size pieces . While the potatoes simmer , cook the bacon .
+PREDID: 0
+PRED: drain
+  PARG: cold
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+
+PREDID: 2
+PRED: cut
+  PARG: bite-size pieces
+    PREP: into
+  PARG: the potatoes simmer
+    PREP: while
+
+PREDID: 3
+PRED: cook
+  DOBJ: the bacon
+
+
+SENTID: 4
+SENT: Place the bacon in a large skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: cook over medium-high heat until brown and crisp , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: brown, crisp , about 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain the bacon slices on a paper towel-lined plate ;
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 7
+SENT: crumble .
+PREDID: 0
+PRED: crumble
+
+
+SENTID: 8
+SENT: Combine the cooked potatoes , crumbled bacon , Cheddar cheese , and green onions in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the cooked potatoes , crumbled bacon , cheddar cheese , green onions
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Fold in the ranch dip .
+PREDID: 0
+PRED: fold
+  PARG: the ranch dip
+    PREP: in
+
+
+SENTID: 10
+SENT: Refrigerate overnight .
+PREDID: 0
+PRED: refrigerate
+  OARG: overnight
+

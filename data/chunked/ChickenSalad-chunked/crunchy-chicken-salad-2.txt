@@ -1,0 +1,23 @@
+SENTID: 0
+SENT: Mix chicken , onion , mayonnaise , water chestnuts , sweet pickle relish , pecans , salt , and black pepper together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: chicken , onion , mayonnaise , water chestnuts , sweet pickle relish , pecans , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Serve on lettuce leaves and garnish each serving with a slice or 2 of hard-boiled egg .
+PREDID: 0
+PRED: serve
+  PARG: lettuce leaves
+    PREP: on
+
+PREDID: 1
+PRED: garnish
+  DOBJ: each serving
+  PARG: a slice or 2 of hard-boiled egg
+    PREP: with
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook ground beef , mushrooms , sweet onion , and jalapeno pepper in a large skillet over medium heat until the beef is browned and crumbly and the mushrooms are softened , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , mushrooms , sweet onion , jalapeno pepper
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the beef is browned, crumbly, the mushrooms are softened , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain excess grease and stir in ketchup , yellow mustard , salt , and black pepper .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+PREDID: 1
+PRED: stir
+  PARG: ketchup , yellow mustard , salt , black pepper
+    PREP: in
+
+
+SENTID: 3
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 4
+SENT: Roll out pizza dough on a floured work surface and cut dough in half .
+PREDID: 0
+PRED: roll
+  PARG: pizza dough
+    PREP: out
+  PARG: a floured work surface
+    PREP: on
+
+PREDID: 1
+PRED: cut
+  DOBJ: dough
+  PARG: half
+    PREP: in
+
+
+SENTID: 5
+SENT: Spoon half the ground beef onto each dough half ;
+PREDID: 0
+PRED: spoon
+  DOBJ: half the ground beef
+  PARG: each dough half
+    PREP: onto
+
+
+SENTID: 6
+SENT: top each with 6 dill pickle slices and half the American-Cheddar cheese blend .
+PREDID: 0
+PRED: top
+  DOBJ: each with 6 dill pickle slices, half the american-cheddar cheese blend
+
+
+SENTID: 7
+SENT: Fold dough over to enclose filling and press edges together with a fork to seal the calzones .
+PREDID: 0
+PRED: fold
+  DOBJ: dough
+  PARG: to enclose filling
+    PREP: over
+
+PREDID: 1
+PRED: press
+  DOBJ: edges
+  PARG: a fork
+    PREP: with
+  PARG: seal the calzones
+    PREP: to
+  OARG: together
+
+
+SENTID: 8
+SENT: Place calzones onto a baking sheet , brush tops with olive oil , and sprinkle with sesame seeds .
+PREDID: 0
+PRED: place
+  DOBJ: calzones
+  PARG: a baking sheet , brush tops
+    PREP: onto
+  PARG: olive oil , sprinkle
+    PREP: with
+  PARG: sesame seeds
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until calzones are golden brown and the cheese has melted , 15 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: calzones are golden brown, the cheese has melted , 15 to 20 minutes
+    PREP: until
+

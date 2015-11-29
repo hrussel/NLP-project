@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Place eggs in a medium saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs lengthwise .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs lengthwise
+
+
+SENTID: 5
+SENT: Remove yolks and place in a sieve .
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+
+PREDID: 1
+PRED: place
+  PARG: a sieve
+    PREP: in
+
+
+SENTID: 6
+SENT: Into the bowl with the egg yolks , mix mayonnaise , barbeque seasoning , prepared Dijon-style mustard , lemon juice and ground black pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , barbeque seasoning , prepared dijon-style mustard , lemon juice, ground black pepper
+  PARG: the bowl
+    PREP: into
+  PARG: the egg yolks
+    PREP: with
+
+
+SENTID: 7
+SENT: Place the mixture in a plastic ziplock bag .
+PREDID: 0
+PRED: place
+  DOBJ: the mixture
+  PARG: a plastic ziplock bag
+    PREP: in
+
+
+SENTID: 8
+SENT: Cut one corner from the bag , and pipe the egg yolk mixture into the egg whites .
+PREDID: 0
+PRED: cut
+  DOBJ: one corner
+  PARG: the bag
+    PREP: from
+
+PREDID: 1
+PRED: pipe
+  DOBJ: the egg yolk mixture
+  PARG: the egg whites
+    PREP: into
+
+
+SENTID: 9
+SENT: Top with sliced green olives .
+PREDID: 0
+PRED: top
+  PARG: sliced green olives
+    PREP: with
+
+
+SENTID: 10
+SENT: Chill in the refrigerator until serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: until
+

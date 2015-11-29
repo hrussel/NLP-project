@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: drain and rinse with cold water to cool .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: rinse
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Remove and discard potato skins .
+PREDID: 0
+PRED: remove
+  DOBJ: potato skins
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 5
+SENT: Slice potatoes .
+PREDID: 0
+PRED: slice
+  DOBJ: potatoes
+
+
+SENTID: 6
+SENT: Whisk vinegar , sugar , salt , and pepper together in a large bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: vinegar , sugar , salt , pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: add potatoes , onion , and chopped gherkin .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes , onion , chopped gherkin
+
+
+SENTID: 8
+SENT: Stir salad dressing into the mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: salad dressing
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: Fold 3/4 the egg wedges into the mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: 3/4 the egg wedges
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Garnish with the remaining egg wedges and parsley .
+PREDID: 0
+PRED: garnish
+  PARG: the remaining egg wedges, parsley
+    PREP: with
+
+
+SENTID: 11
+SENT: Cover bowl with plastic wrap and refrigerate 1 hour before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+  OARG: 1 hour
+

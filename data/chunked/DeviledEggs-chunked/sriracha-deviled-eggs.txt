@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut eggs in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: place egg yolks in a small bowl .
+PREDID: 0
+PRED: place
+  DOBJ: egg yolks
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 7
+SENT: stir mayonnaise , Sriracha sauce , dry mustard , and cayenne pepper into yolks until smooth ;
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , sriracha sauce , dry mustard , cayenne pepper
+  PARG: yolks
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: season with salt .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+
+SENTID: 9
+SENT: Spoon yolk mixture into a resealable plastic bag ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: a resealable plastic bag
+    PREP: into
+
+
+SENTID: 10
+SENT: snip off one corner of the bag .
+PREDID: 0
+PRED: snip
+  PARG: one corner of the bag
+    PREP: off
+
+
+SENTID: 11
+SENT: Place egg whites cut-side up on a serving platter .
+PREDID: 0
+PRED: place
+  DOBJ: egg whites cut-side
+  PARG: a serving platter
+    PREP: on
+  OARG: up
+
+
+SENTID: 12
+SENT: Pipe the yolk mixture into egg white halves ;
+PREDID: 0
+PRED: pipe
+  DOBJ: the yolk mixture
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 13
+SENT: sprinkle with smoked paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: smoked paprika
+    PREP: with
+
+
+SENTID: 14
+SENT: Refrigerate deviled eggs , covered , until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: deviled eggs , covered
+  PARG: ready to serve
+    PREP: until
+

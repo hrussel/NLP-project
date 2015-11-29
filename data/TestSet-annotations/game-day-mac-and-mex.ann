@@ -1,0 +1,170 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 52	Bring
+T3	predicate 100 104	Cook
+T4	predicate 224 229	Drain
+T5	predicate 234 242	transfer
+T6	predicate 267 274	stir in
+T7	predicate 310 314	Melt
+T8	predicate 383 388	whisk
+T9	predicate 415 419	Cook
+T10	predicate 493 498	whisk
+T11	predicate 542 547	Whisk
+T12	predicate 597 602	bring
+T13	predicate 620 625	whisk
+T14	predicate 671 677	Remove
+T15	predicate 708 712	stir
+T16	predicate 769 773	Pour
+T17	predicate 812 816	fold
+T18	predicate 908 916	Transfer
+T19	predicate 951 956	Spoon
+T20	predicate 1013 1017	Bake
+T21	predicate 1122 1125	Let
+T22	arg_object 8 12	oven
+R1	object Arg1:T1 Arg2:T22	
+T23	arg_duration 13 45	to 375 degrees F (190 degrees C)
+R2	duration Arg1:T1 Arg2:T23	
+T24	arg_location 1018 1039	in the preheated oven
+R3	location Arg1:T20 Arg2:T24	
+T25	Evolution 1021 1039	the preheated oven
+E1	Evolution:T25 Cause:T1
+T26	arg_object 53 88	a large pot of lightly salted water
+T27	arg_other 89 98	to a boil
+R4	object Arg1:T2 Arg2:T26	
+R5	other Arg1:T2 Arg2:T27	
+T28	arg_object 105 119	elbow macaroni
+T29	arg_co-object 120 140	in the boiling water
+R6	object Arg1:T3 Arg2:T28	
+T30	Evolution 123 140	the boiling water
+E2	Evolution:T30 Cause:T2
+T31	arg_other 142 163	stirring occasionally
+T32	arg_duration 165 222	until cooked through but firm to the bite, 6 to 7 minutes
+R8	other Arg1:T3 Arg2:T31	
+R9	duration Arg1:T3 Arg2:T32	
+R10	object Arg1:T4 Arg2:T3	
+R11	object Arg1:T5 Arg2:T4	
+T33	arg_location 243 265	to a large mixing bowl
+R12	location Arg1:T5 Arg2:T33	
+R13	co-object Arg1:T6 Arg2:T5	
+T34	arg_object 275 295	2 tablespoons butter
+T35	arg_duration 296 308	until coated
+R14	object Arg1:T6 Arg2:T34	
+R15	duration Arg1:T6 Arg2:T35	
+T36	arg_object 315 345	remaining 6 tablespoons butter
+T37	arg_location 346 363	in a large skille
+T38	arg_other 365 381	over medium heat
+R16	object Arg1:T7 Arg2:T36	
+R17	location Arg1:T7 Arg2:T37	
+R18	other Arg1:T7 Arg2:T38	
+T39	arg_object 389 394	flour
+T40	arg_co-object 395 413	into melted butter
+R19	object Arg1:T8 Arg2:T39	
+R20	co-object Arg1:T8 Arg2:T40	
+T41	Evolution 400 413	melted butter
+E3	Evolution:T41 Cause:T7
+R21	object Arg1:T9 Arg2:T8	
+T42	arg_other 421 440	stirring constantly
+T43	arg_duration 442 484	until mixture is lightly golden and smooth
+R22	other Arg1:T9 Arg2:T42	
+R23	duration Arg1:T9 Arg2:T43	
+T44	arg_object 499 508	warm milk
+T45	arg_co-object 509 527	into flour mixture
+T46	arg_duration 528 540	until smooth
+T47	Evolution 514 527	flour mixture
+E4	Evolution:T47 Cause:T9
+R24	object Arg1:T10 Arg2:T44	
+R25	co-object Arg1:T10 Arg2:T45	
+R26	duration Arg1:T10 Arg2:T46	
+T48	arg_object 548 552	salt
+T49	arg_object 554 566	white pepper
+T50	arg_object 572 578	nutmeg
+T51	arg_co-object 579 595	into white sauce
+R27	object Arg1:T11 Arg2:T48	
+R28	object Arg1:T11 Arg2:T49	
+R29	object Arg1:T11 Arg2:T50	
+R30	co-object Arg1:T11 Arg2:T51	
+T52	Evolution 584 595	white sauce
+E5	Evolution:T52 Cause:T10
+R31	object Arg1:T12 Arg2:T11	
+T53	arg_other 603 614	to a simmer
+R32	other Arg1:T12 Arg2:T53	
+R33	object Arg1:T13 Arg2:T12	
+T54	arg_duration 626 669	until smooth and thickened, about 3 minutes
+R34	duration Arg1:T13 Arg2:T54	
+T55	arg_object 678 683	sauce
+R35	object Arg1:T14 Arg2:T55	
+T56	Evolution 678 683	sauce
+E6	Evolution:T56 Cause:T13
+T57	arg_location 684 693	from heat
+R36	location Arg1:T14 Arg2:T57	
+T58	arg_object 713 733	Mexican-style cheese
+T59	arg_co-object 734 744	into sauce
+T60	arg_duration 745 767	until melted and thick
+R37	object Arg1:T15 Arg2:T58	
+R38	co-object Arg1:T15 Arg2:T59	
+R39	duration Arg1:T15 Arg2:T60	
+T61	Evolution 739 744	sauce
+E7	Evolution:T61 Cause:T14
+T62	Evolution 774 786	cheese sauce
+E8	Evolution:T62 Cause:T15
+T63	arg_object 774 786	cheese sauce
+R40	object Arg1:T16 Arg2:T63	
+T64	arg_co-object 787 800	over macaroni
+R41	co-object Arg1:T16 Arg2:T64	
+T65	Evolution 792 800	macaroni
+E9	Evolution:T65 Cause:T6
+T66	arg_co-object 881 906	into the macaroni mixture
+T67	Evolution 890 906	macaroni mixture
+E10	Evolution:T67 Cause:T16
+R42	co-object Arg1:T17 Arg2:T66	
+T68	arg_object 817 828	black beans
+T69	arg_object 830 838	avocados
+T70	arg_object 840 852	green chiles
+T71	arg_object 854 866	green onions
+T72	arg_object 872 880	cilantro
+R43	object Arg1:T17 Arg2:T68	
+R44	object Arg1:T17 Arg2:T69	
+R45	object Arg1:T17 Arg2:T70	
+R46	object Arg1:T17 Arg2:T71	
+R47	object Arg1:T17 Arg2:T72	
+R48	object Arg1:T18 Arg2:T17	
+T73	arg_location 917 949	to a 9x13-inch glass baking dish
+R49	location Arg1:T18 Arg2:T73	
+T74	arg_object 957 962	salsa
+R50	object Arg1:T19 Arg2:T74	
+T75	arg_co-object 963 981	over the casserole
+R51	co-object Arg1:T19 Arg2:T75	
+T76	Evolution 968 981	the casserole
+E11	Evolution:T76 Cause:T18
+T77	arg_other 982 1011	in decorative swirls or lines
+R52	other Arg1:T19 Arg2:T77	
+R53	object Arg1:T20 Arg2:T19	
+T78	arg_duration 1040 1120	until the top has begun to brown and the casserole is bubbling, 30 to 45 minutes
+R54	duration Arg1:T20 Arg2:T78	
+T79	arg_object 1126 1139	the casserole
+T80	Evolution 1126 1139	the casserole
+E12	Evolution:T80 Cause:T20
+R55	object Arg1:T21 Arg2:T79	
+T82	ingredient 53 88	a large pot of lightly salted water
+T83	ingredient 105 119	elbow macaroni
+R7	co-object Arg1:T3 Arg2:T29	
+R57	co-object Arg1:T4 Arg2:T3	
+T84	ingredient 275 295	2 tablespoons butter
+T85	ingredient 315 345	remaining 6 tablespoons butter
+T86	ingredient 389 394	flour
+T87	ingredient 499 508	warm milk
+T88	ingredient 548 552	salt
+T89	ingredient 554 566	white pepper
+T90	ingredient 572 578	nutmeg
+T91	ingredient 713 733	Mexican-style cheese
+T92	ingredient 817 828	black beans
+T93	ingredient 830 838	avocados
+T94	ingredient 840 852	green chiles
+T95	ingredient 854 866	green onions
+T96	ingredient 872 880	cilantro
+T97	ingredient 957 962	salsa
+T98	arg_other 1140 1144	rest
+R58	other Arg1:T21 Arg2:T98	
+T99	predicate 1169 1176	serving
+T81	arg_duration 1145 1161	about 10 minutes
+R56	duration Arg1:T21 Arg2:T81	
+R59	object Arg1:T99 Arg2:T21	

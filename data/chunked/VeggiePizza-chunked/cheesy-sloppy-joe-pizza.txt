@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Heat oven to 400 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 400 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12-inch pizza pan .
+PREDID: 0
+PRED: grease
+  DOBJ: 12-inch pizza pan
+
+
+SENTID: 2
+SENT: Unroll dough ;
+PREDID: 0
+PRED: unroll
+  DOBJ: dough
+
+
+SENTID: 3
+SENT: place in greased pan .
+PREDID: 0
+PRED: place
+  PARG: greased pan
+    PREP: in
+
+
+SENTID: 4
+SENT: Starting at center , press out dough to edges of pan .
+PREDID: 0
+PRED: press
+  DOBJ: starting
+  PARG: center
+    PREP: at
+  PARG: dough
+    PREP: out
+  PARG: edges of pan
+    PREP: to
+
+
+SENTID: 5
+SENT: Bake 10 to 12 minutes or until crust begins to brown .
+PREDID: 0
+PRED: bake
+  PARG: crust begins to brown
+    PREP: until
+  OARG: 10 to 12 minutes
+
+
+SENTID: 6
+SENT: Meanwhile , cook beef in 10-inch skillet over medium heat , stirring occasionally , until brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: 10-inch skillet
+    PREP: in
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: brown
+    PREP: until
+  OARG: meanwhile
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 8
+SENT: Stir in sloppy joe sauce .
+PREDID: 0
+PRED: stir
+  PARG: sloppy joe sauce
+    PREP: in
+
+
+SENTID: 9
+SENT: Spoon beef mixture over crust .
+PREDID: 0
+PRED: spoon
+  DOBJ: beef mixture
+  PARG: crust
+    PREP: over
+
+
+SENTID: 10
+SENT: Sprinkle with cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake an additional 10 to 12 minutes or until cheese is melted and crust is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: cheese is melted, crust is golden brown
+    PREP: until
+  OARG: an additional 10 to 12 minutes
+
+
+SENTID: 12
+SENT: Top with tomatoes and onions .
+PREDID: 0
+PRED: top
+  PARG: tomatoes, onions
+    PREP: with
+

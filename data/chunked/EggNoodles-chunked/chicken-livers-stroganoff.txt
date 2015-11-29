@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add noodles , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: While the noodles are getting started , heat olive oil in a large heavy skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: the noodles are getting started
+    PREP: while
+  PARG: a large heavy skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: Add onions , and cook , stirring until tender , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: onions
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Add mushrooms , and continue cooking for a few minutes , until starting to brown .
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms , continue cooking
+  PARG: a few minutes
+    PREP: for
+  PARG: starting to brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Add the chicken livers , and season with paprika , salt and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken livers
+
+PREDID: 1
+PRED: season
+  PARG: paprika , salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Cook for 8 to 10 minutes , until livers are nicely browned on the outside , but still slightly pink in the center .
+PREDID: 0
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: livers are nicely browned on the outside , but still slightly pink in the center
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove the skillet from the heat , and gradually whisk in the sherry , then the sour cream until well blended .
+PREDID: 0
+PRED: remove
+  DOBJ: the skillet
+  PARG: the heat
+    PREP: from
+  OARG: gradually
+
+PREDID: 1
+PRED: whisk
+  DOBJ: the sour cream
+  PARG: the sherry
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: then
+
+
+SENTID: 9
+SENT: Serve over hot egg noodles .
+PREDID: 0
+PRED: serve
+  PARG: hot egg noodles
+    PREP: over
+

@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat muffin pans with non-stick spray , or use paper liners .
+PREDID: 0
+PRED: coat
+  DOBJ: muffin pans
+  PARG: non-stick spray
+    PREP: with
+
+PREDID: 1
+PRED: use
+  DOBJ: paper liners
+
+
+SENTID: 2
+SENT: Sift together the flour , baking powder , baking soda , and salt ;
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , baking powder , baking soda , salt
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Combine bananas , sugar , egg , and melted butter in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: bananas , sugar , egg , melted butter
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Fold in flour mixture , and mix until smooth .
+PREDID: 0
+PRED: fold
+  PARG: flour mixture
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Scoop into muffin pans .
+PREDID: 0
+PRED: scoop
+  PARG: muffin pans
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+
+
+SENTID: 8
+SENT: Bake mini muffins for 10 to 15 minutes , and large muffins for 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: mini muffins
+  PARG: 10 to 15 minutes , large muffins
+    PREP: for
+  PARG: 25 to 30 minutes
+    PREP: for
+

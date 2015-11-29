@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the beef , bread crumbs , onion , eggs , salt and pepper , and mix well .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , bread crumbs , onion , eggs , salt, pepper
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Pat out meat mixture into a 14x18 inch rectangle on a piece of wax paper .
+PREDID: 0
+PRED: pat
+  PARG: meat mixture
+    PREP: out
+  PARG: a 14x18 inch rectangle
+    PREP: into
+  PARG: a piece of wax paper
+    PREP: on
+
+
+SENTID: 3
+SENT: Spread cheese over the meat , leaving a 3/4 inch border around the edges .
+PREDID: 0
+PRED: spread
+  DOBJ: leaving a 3/4 inch border
+  PARG: the meat
+    PREP: over
+  PARG: the edges
+    PREP: around
+  OARG: cheese
+
+
+SENTID: 4
+SENT: Roll up jelly roll fashion to enclose the filling and form a pinwheel loaf .
+PREDID: 0
+PRED: roll
+  DOBJ: roll fashion
+  OARG: up
+  OARG: jelly
+  OARG: to enclose the filling
+
+PREDID: 1
+PRED: form
+  DOBJ: a pinwheel loaf
+
+
+SENTID: 5
+SENT: Press beef in on both ends to enclose the cheese .
+PREDID: 0
+PRED: press
+  DOBJ: beef
+  PARG: on both ends
+    PREP: in
+  OARG: to enclose the cheese
+
+
+SENTID: 6
+SENT: Place in a 10x15 inch baking dish .
+PREDID: 0
+PRED: place
+  PARG: a 10x15 inch baking dish
+    PREP: in
+
+
+SENTID: 7
+SENT: Bake in the preheated oven 1 hour , or until internal temperature reaches 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 1 hour
+    PREP: in
+  PARG: internal temperature reaches 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: until
+

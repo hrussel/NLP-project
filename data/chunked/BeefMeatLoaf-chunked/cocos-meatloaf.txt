@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine onion , green bell pepper , milk , 1/4 cup ketchup , and eggs in a blender and puree until smooth .
+PREDID: 0
+PRED: combine
+  DOBJ: onion , green bell pepper , milk , 1/4 cup ketchup , eggs
+  PARG: a blender
+    PREP: in
+
+PREDID: 1
+PRED: puree
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir ground beef , crushed saltine crackers , kosher salt , dry mustard in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: ground beef , crushed saltine crackers , kosher salt , dry mustard
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Add onion and egg mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: onion, egg mixture
+
+
+SENTID: 4
+SENT: stir to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 5
+SENT: Transfer beef mixture to a shallow baking dish and shape into a loaf .
+PREDID: 0
+PRED: transfer
+  DOBJ: beef mixture
+  PARG: a shallow baking dish
+    PREP: to
+
+PREDID: 1
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 6
+SENT: Drizzle top of the meatloaf with 2 tablespoons ketchup .
+PREDID: 0
+PRED: drizzle
+  DOBJ: top of the meatloaf
+  PARG: 2 tablespoons ketchup
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake in the preheated over for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated
+    PREP: in
+  PARG: for 45 minutes
+    PREP: over
+
+
+SENTID: 8
+SENT: Remove from oven and let meatloaf to rest uncovered for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: meatloaf
+  PARG: rest uncovered
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Slice and serve .
+PREDID: 0
+PRED: slice
+
+PREDID: 1
+PRED: serve
+

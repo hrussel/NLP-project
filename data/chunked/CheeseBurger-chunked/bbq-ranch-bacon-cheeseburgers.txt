@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: Mix ground beef with seasoning mix in large bowl until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef
+  PARG: seasoning
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  PARG: large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 1
+SENT: Shape beef into 6 oblong patties , about 6 x 3-inches each .
+PREDID: 0
+PRED: shape
+  DOBJ: beef
+  PARG: 6 oblong patties
+    PREP: into
+  PARG: 6 x 3-inches each
+    PREP: about
+
+
+SENTID: 2
+SENT: Whisk together barbecue sauce and dressing in small bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: barbecue sauce, dressing
+  PARG: small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Spray grate of outdoor grill and utensils with grilling spray .
+PREDID: 0
+PRED: spray
+  DOBJ: grate of outdoor grill, utensils
+  PARG: grilling spray
+    PREP: with
+
+
+SENTID: 5
+SENT: Preheat grill to medium heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: grill
+  PARG: medium heat
+    PREP: to
+
+
+SENTID: 6
+SENT: Grill patties 5 minutes on one side or until juices begin to appear on surface .
+PREDID: 0
+PRED: grill
+  PARG: one side
+    PREP: on
+  PARG: juices begin to appear on surface
+    PREP: until
+  OARG: patties 5 minutes
+
+
+SENTID: 7
+SENT: Turn patties over ;
+PREDID: 0
+PRED: turn
+  DOBJ: patties
+
+
+SENTID: 8
+SENT: top each with 3 slices bacon .
+PREDID: 0
+PRED: top
+  DOBJ: each with 3 slices bacon
+
+
+SENTID: 9
+SENT: Cook about 4 minutes longer ;
+PREDID: 0
+PRED: cook
+  PARG: 4 minutes
+    PREP: about
+  OARG: longer
+
+
+SENTID: 10
+SENT: top each patty with 2 triangle pieces of cheese , overlapping to cover patty .
+PREDID: 0
+PRED: top
+  DOBJ: each patty
+  PARG: 2 triangle pieces of cheese , overlapping
+    PREP: with
+  PARG: cover patty
+    PREP: to
+
+
+SENTID: 11
+SENT: Remove patties when cheese begins to melt .
+PREDID: 0
+PRED: remove
+  DOBJ: patties
+  PARG: melt
+    PREP: to
+  OARG: when cheese begins
+
+
+SENTID: 12
+SENT: Spread barbecue-dressing mixture on bottom of each roll .
+PREDID: 0
+PRED: spread
+  DOBJ: barbecue-dressing mixture
+  PARG: bottom of each roll
+    PREP: on
+
+
+SENTID: 13
+SENT: Add a lettuce leaf .
+PREDID: 0
+PRED: add
+  DOBJ: a lettuce leaf
+
+
+SENTID: 14
+SENT: Place cooked patty with bacon and cheese on lettuce .
+PREDID: 0
+PRED: place
+  DOBJ: cooked patty
+  PARG: bacon, cheese
+    PREP: with
+  PARG: lettuce
+    PREP: on
+
+
+SENTID: 15
+SENT: Spoon additional barbecue-dressing mixture over cheese .
+PREDID: 0
+PRED: spoon
+  DOBJ: additional barbecue-dressing mixture
+  PARG: cheese
+    PREP: over
+
+
+SENTID: 16
+SENT: Sprinkle with fried onions , if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: fried onions
+    PREP: with
+  PARG: desired
+    PREP: if
+
+
+SENTID: 17
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Season both sides of chicken breasts with salt and black pepper .
+PREDID: 0
+PRED: season
+  DOBJ: both sides of chicken breasts
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 1
+SENT: Heat 2 tablespoons olive oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: cook chicken breasts in the hot oil until they are no longer pink in the center and juices run clear , 5 to 10 minutes per side .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken breasts
+  PARG: the hot oil
+    PREP: in
+  PARG: they are no longer pink in the center, juices run clear , 5 to 10 minutes per side
+    PREP: until
+
+
+SENTID: 3
+SENT: Cut chicken into 1/2-inch cubes and transfer to a large bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: 1/2-inch cubes
+    PREP: into
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 4
+SENT: Heat remaining 4 tablespoons olive oil in the same skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: remaining 4 tablespoons olive oil
+  PARG: the same skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: cook and stir zucchini in the hot oil until slightly tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: zucchini
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: slightly tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Transfer zucchini to a paper towel-lined plate to drain .
+PREDID: 0
+PRED: transfer
+  DOBJ: zucchini
+  PARG: a paper towel-lined plate
+    PREP: to
+  PARG: drain
+    PREP: to
+
+
+SENTID: 8
+SENT: Mix zucchini , garbanzo beans , olives , artichoke hearts , and Parmesan cheese with chicken ;
+PREDID: 0
+PRED: mix
+  DOBJ: zucchini , garbanzo beans , olives , artichoke hearts , parmesan cheese
+  PARG: chicken
+    PREP: with
+
+
+SENTID: 9
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 10
+SENT: Chill in refrigerator before serving , about 1 hour .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator
+    PREP: in
+  PARG: serving
+    PREP: before
+  PARG: 1 hour
+    PREP: about
+

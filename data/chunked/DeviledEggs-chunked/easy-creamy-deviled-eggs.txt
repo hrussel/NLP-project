@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut the eggs in half , and place the yolks in a bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: the eggs
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: place
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Reserve the whites .
+PREDID: 0
+PRED: reserve
+  DOBJ: the whites
+
+
+SENTID: 6
+SENT: Mix the wasabi mayonnaise , salad dressing , relish , mustard , garlic salt and pepper into the yolks .
+PREDID: 0
+PRED: mix
+  DOBJ: the wasabi mayonnaise , salad dressing , relish , mustard , garlic salt, pepper
+  PARG: the yolks
+    PREP: into
+
+
+SENTID: 7
+SENT: Spoon into the awaiting egg white halves .
+PREDID: 0
+PRED: spoon
+  PARG: the awaiting egg white halves
+    PREP: into
+
+
+SENTID: 8
+SENT: Sprinkle paprika over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: paprika
+  PARG: the top
+    PREP: over
+
+
+SENTID: 9
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

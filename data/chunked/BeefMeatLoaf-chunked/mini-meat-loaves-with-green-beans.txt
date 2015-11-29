@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a medium saucepan of salted water to boiling .
+PREDID: 0
+PRED: bring
+  DOBJ: a medium saucepan of salted water
+  PARG: boiling
+    PREP: to
+
+
+SENTID: 2
+SENT: In large bowl combine egg , 1/2 cup of the Classico ¨ Tomato and Basil pasta sauce , bread crumbs , 2 tablespoons of the basil , and 1/4 teaspoon salt .
+PREDID: 0
+PRED: combine
+  DOBJ: egg , 1/2 cup of the classico ¨ tomato, basil pasta sauce , bread crumbs , 2 tablespoons of the basil , 1/4 teaspoon salt
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Add beef and 1/2 cup of the cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: beef, 1/2 cup of the cheese
+
+
+SENTID: 4
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Divide beef mixture in four equal portions .
+PREDID: 0
+PRED: divide
+  DOBJ: beef mixture
+  PARG: four equal portions
+    PREP: in
+
+
+SENTID: 6
+SENT: Shape each portion in a 5-1/2 x2-inch oval .
+PREDID: 0
+PRED: shape
+  DOBJ: each portion
+  PARG: a 5-1/2 x2-inch oval
+    PREP: in
+
+
+SENTID: 7
+SENT: Place on 15x10x1-inch baking pan .
+PREDID: 0
+PRED: place
+  PARG: 15x10x1-inch baking pan
+    PREP: on
+
+
+SENTID: 8
+SENT: Spoon on remaining Classico ¨ Tomato and Basil pasta sauce and sprinkle with remaining cheese .
+PREDID: 0
+PRED: spoon
+  PARG: remaining classico ¨ tomato, basil pasta sauce
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake 15 minutes or until internal temperature registers 160 degrees F.
+PREDID: 0
+PRED: bake
+  PARG: internal temperature registers 160 degrees f.
+    PREP: until
+  OARG: 15 minutes
+
+
+SENTID: 10
+SENT: Meanwhile , cook green beans in boiling salted water for 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: green beans
+  PARG: boiling salted water
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  OARG: meanwhile
+
+
+SENTID: 11
+SENT: Drain ;
+PREDID: 0
+PRED: drain
+
+
+SENTID: 12
+SENT: toss with 1 tablespoon olive oil and red pepper .
+PREDID: 0
+PRED: toss
+  PARG: 1 tablespoon olive oil, red pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Serve with meat loaves .
+PREDID: 0
+PRED: serve
+  PARG: meat loaves
+    PREP: with
+
+
+SENTID: 14
+SENT: Sprinkle all with remaining basil leaves .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: all with remaining basil leaves
+

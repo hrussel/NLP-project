@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add egg noodles and cook for 8 to 10 minutes or until al dente .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and return to the pot .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: return
+  PARG: the pot
+    PREP: to
+
+
+SENTID: 3
+SENT: Heat the olive oil in a skillet , and cook the garlic and spinach 3 to 5 minutes , until well coated .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: well coated
+    PREP: until
+  OARG: the garlic, spinach 3 to 5 minutes
+
+
+SENTID: 4
+SENT: Transfer to the pot with the drained pasta .
+PREDID: 0
+PRED: transfer
+  PARG: the pot
+    PREP: to
+  PARG: the drained pasta
+    PREP: with
+
+
+SENTID: 5
+SENT: Toss in the cottage cheese .
+PREDID: 0
+PRED: toss
+  PARG: the cottage cheese
+    PREP: in
+
+
+SENTID: 6
+SENT: Top with Parmesan cheese to serve .
+PREDID: 0
+PRED: top
+  PARG: parmesan cheese
+    PREP: with
+  PARG: serve
+    PREP: to
+

@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Cook pasta according to package directions , omitting salt .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta according
+  PARG: package directions , omitting salt
+    PREP: to
+
+
+SENTID: 1
+SENT: Meanwhile , cook sausage in large nonstick skillet over medium-high heat until crumbled and no longer pink , stirring occasionally ;
+PREDID: 0
+PRED: cook
+  DOBJ: sausage
+  PARG: large nonstick skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: crumbled, no longer pink , stirring occasionally
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Add undrained tomatoes and tomato paste ;
+PREDID: 0
+PRED: add
+  DOBJ: undrained tomatoes, tomato paste
+
+
+SENTID: 4
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Reduce heat to low ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 6
+SENT: simmer 5 minutes , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  OARG: 5 minutes , stirring
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Transfer sausage mixture to medium bowl ;
+PREDID: 0
+PRED: transfer
+  DOBJ: sausage mixture
+  PARG: medium bowl
+    PREP: to
+
+
+SENTID: 8
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: Drain pasta in colander .
+PREDID: 0
+PRED: drain
+  DOBJ: pasta
+  PARG: colander
+    PREP: in
+
+
+SENTID: 10
+SENT: Place half of pasta in same skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: half of pasta
+  PARG: same skillet
+    PREP: in
+
+
+SENTID: 11
+SENT: top with half each of the sausage mixture and cheese .
+PREDID: 0
+PRED: top
+  PARG: half each of the sausage mixture
+    PREP: with
+
+PREDID: 1
+PRED: cheese
+
+
+SENTID: 12
+SENT: Repeat all layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: all layers
+
+
+SENTID: 13
+SENT: Cover skillet with lid .
+PREDID: 0
+PRED: cover
+  DOBJ: skillet
+  PARG: lid
+    PREP: with
+
+
+SENTID: 14
+SENT: Place over medium heat ;
+PREDID: 0
+PRED: place
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 15
+SENT: cook 5 minutes or until all layers are hot and cheese melts .
+PREDID: 0
+PRED: cook
+  PARG: all layers are hot, cheese melts
+    PREP: until
+  OARG: 5 minutes
+
+
+SENTID: 16
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 17
+SENT: let stand 1 minute before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 1 minute
+

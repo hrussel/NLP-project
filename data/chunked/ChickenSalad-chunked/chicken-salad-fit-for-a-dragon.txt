@@ -1,0 +1,24 @@
+SENTID: 0
+SENT: Stir the chicken , mayonnaise , celery , pine nuts , lemon juice , relish , jalapeno pepper , and black pepper together in a mixing bowl until evenly blended .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken , mayonnaise , celery , pine nuts , lemon juice , relish , jalapeno pepper , black pepper
+  PARG: a mixing bowl
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Cover , and refrigerate 20 to 30 minutes to allow the flavors to blend .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: blend
+    PREP: to
+  OARG: 20 to 30 minutes
+  OARG: to allow the flavors
+

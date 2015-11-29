@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Break ground beef into small pieces into a large pot over medium heat ;
+PREDID: 0
+PRED: break
+  DOBJ: ground beef
+  PARG: small pieces
+    PREP: into
+  PARG: a large pot
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add onion , green bell pepper , yellow bell pepper , and carrot to ground beef ;
+PREDID: 0
+PRED: add
+  DOBJ: onion , green bell pepper , yellow bell pepper , carrot
+  PARG: ground beef
+    PREP: to
+
+
+SENTID: 2
+SENT: cook and stir until the vegetables begin to soften , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the vegetables
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: begin
+  OARG: to soften , 5 to 7 minutes
+
+
+SENTID: 3
+SENT: Stir zucchini and yellow squash into the beef mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: zucchini, yellow squash
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: continue cooking until the beef is completely browned , 3 to 5 minutes more .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: the beef is completely browned , 3 to 5 minutes more
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain excess liquid from the pot and return to medium heat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess liquid
+  PARG: the pot
+    PREP: from
+
+PREDID: 1
+PRED: return
+  PARG: medium heat
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir crushed tomatoes , kidney beans , black beans , diced tomatoes , corn , and garlic into the beef mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: crushed tomatoes , kidney beans , black beans , diced tomatoes , corn , garlic
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Season mixture with chili powder , brown sugar , paprika , oregano , cayenne pepper , cumin , salt , and black pepper .
+PREDID: 0
+PRED: season
+  DOBJ: mixture
+  PARG: chili powder , brown sugar , paprika , oregano , cayenne pepper , cumin , salt , black pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Reduce heat to low , place a cover on the pot , and cook chili at a simmer for 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: place
+  DOBJ: a cover
+  PARG: the pot
+    PREP: on
+
+PREDID: 2
+PRED: cook
+  DOBJ: chili
+  PARG: a simmer
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+

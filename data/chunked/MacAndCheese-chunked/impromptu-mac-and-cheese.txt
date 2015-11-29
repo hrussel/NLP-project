@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Fill a pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the macaroni , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the macaroni
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Slice up the sausage , place on a microwave-safe plate , and heat the sausage just until hot , about 30 seconds .
+PREDID: 0
+PRED: slice
+  DOBJ: the sausage
+  OARG: up
+
+PREDID: 1
+PRED: place
+  PARG: a microwave-safe plate
+    PREP: on
+
+PREDID: 2
+PRED: heat
+  DOBJ: the sausage
+  PARG: hot , about 30 seconds
+    PREP: until
+  OARG: just
+
+
+SENTID: 5
+SENT: Mix the sausage slices into the hot macaroni , and stir in the milk , butter , Parmesan cheese , and mozzarella cheese .
+PREDID: 0
+PRED: mix
+  DOBJ: the sausage slices
+  PARG: the hot macaroni
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: the milk
+    PREP: in
+
+PREDID: 2
+PRED: butter
+  DOBJ: parmesan cheese , mozzarella cheese
+
+
+SENTID: 6
+SENT: Stir until the cheese is melted , and serve .
+PREDID: 0
+PRED: stir
+  PARG: the cheese is melted
+    PREP: until
+
+PREDID: 1
+PRED: serve
+

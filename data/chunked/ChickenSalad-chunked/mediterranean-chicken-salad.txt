@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: In a shallow dish , arrange chicken breasts and evenly cover with 1 cup of the salad dressing .
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken breasts
+  PARG: a shallow dish
+    PREP: in
+  OARG: evenly
+
+PREDID: 1
+PRED: cover
+  PARG: 1 cup of the salad dressing
+    PREP: with
+
+
+SENTID: 1
+SENT: Cover tightly and marinate in the refrigerator for 20 minutes to an hour .
+PREDID: 0
+PRED: cover
+  PARG: the refrigerator
+    PREP: in
+  OARG: tightly
+
+PREDID: 1
+PRED: marinate
+  PARG: 20 minutes
+    PREP: for
+  PARG: an hour
+    PREP: to
+
+
+SENTID: 2
+SENT: Preheat your grill to high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: your grill
+  PARG: high heat
+    PREP: to
+
+
+SENTID: 3
+SENT: While grill is preheating , arrange lettuce , olives and feta cheese in a salad bowl .
+PREDID: 0
+PRED: arrange
+  DOBJ: lettuce , olives, feta cheese
+  PARG: grill is preheating
+    PREP: while
+  PARG: a salad bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Remove chicken from marinade and place on grill .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: marinade
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: grill
+    PREP: on
+
+
+SENTID: 5
+SENT: Cook chicken breasts for 6 to 8 minutes per side .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken breasts
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: side
+    PREP: per
+
+
+SENTID: 6
+SENT: Arrange peppers on grill , and baste with the reserved 1/2 cup dressing .
+PREDID: 0
+PRED: arrange
+  DOBJ: peppers
+  PARG: grill
+    PREP: on
+
+PREDID: 1
+PRED: baste
+  PARG: the reserved 1/2 cup dressing
+    PREP: with
+
+
+SENTID: 7
+SENT: -LRB- Do n't use the leftover chicken marinade ! -RRB-
+PREDID: 0
+PRED: use
+  DOBJ: the leftover chicken marinade ! -rrb-
+  OARG: n't
+  OARG: do
+
+
+SENTID: 8
+SENT: Remove chicken and peppers from the grill and , when cool enough to handle , slice into strips .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken, peppers
+  PARG: the grill and
+    PREP: from
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+PREDID: 1
+PRED: slice
+  PARG: strips
+    PREP: into
+
+
+SENTID: 9
+SENT: Arrange peppers and chicken on top of the salad and serve with the last 1/2 cup of dressing .
+PREDID: 0
+PRED: arrange
+  DOBJ: peppers, chicken
+  PARG: top of the salad
+    PREP: on
+
+PREDID: 1
+PRED: serve
+  PARG: the last 1/2 cup of dressing
+    PREP: with
+

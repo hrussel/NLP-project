@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Place potatoes into a pot , and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil and cook until tender but still firm , about 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and cover to keep warm .
+PREDID: 0
+PRED: drain
+  PARG: keep warm
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+
+SENTID: 3
+SENT: Preheat oven to broil or preheat a grill for medium-high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: broil
+    PREP: to
+
+PREDID: 1
+PRED: preheat
+  DOBJ: a grill
+  PARG: medium-high heat
+    PREP: for
+
+
+SENTID: 4
+SENT: Season both sides of steak with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: both sides of steak
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Broil or grill steaks for 6 to 8 minutes per side , or to desired doneness .
+PREDID: 0
+PRED: broil
+  DOBJ: steaks
+
+PREDID: 1
+PRED: grill
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: side
+    PREP: per
+  PARG: desired doneness
+    PREP: to
+
+
+SENTID: 6
+SENT: Meanwhile , whisk together oil , vinegar , mustard , and tarragon for dressing ;
+PREDID: 0
+PRED: whisk
+  DOBJ: oil , vinegar , mustard , tarragon
+  PARG: dressing
+    PREP: for
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 7
+SENT: season dressing to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: dressing
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Divide greens , tomatoes , and shallots among 4 plates .
+PREDID: 0
+PRED: divide
+  DOBJ: greens , tomatoes , shallots
+  PARG: 4 plates
+    PREP: among
+
+
+SENTID: 9
+SENT: Cut warm , unpeeled potatoes into quarters ;
+PREDID: 0
+PRED: cut
+  DOBJ: warm , unpeeled potatoes
+  PARG: quarters
+    PREP: into
+
+
+SENTID: 10
+SENT: slice steak into 1/4 inch thick strips .
+PREDID: 0
+PRED: slice
+  DOBJ: steak
+  PARG: 1/4 inch thick strips
+    PREP: into
+
+
+SENTID: 11
+SENT: Top salad greens with steak and potatoes ;
+PREDID: 0
+PRED: top
+  DOBJ: salad greens
+  PARG: steak, potatoes
+    PREP: with
+
+
+SENTID: 12
+SENT: drizzle dressing over salads .
+PREDID: 0
+PRED: drizzle
+  DOBJ: dressing
+  PARG: salads
+    PREP: over
+
+
+SENTID: 13
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

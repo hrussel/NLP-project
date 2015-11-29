@@ -1,0 +1,317 @@
+SENTID: 0
+SENT: Adjust oven rack to middle position ;
+PREDID: 0
+PRED: adjust
+  DOBJ: oven rack
+  PARG: middle position
+    PREP: to
+
+
+SENTID: 1
+SENT: heat oven to 450 degrees .
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 450 degrees
+    PREP: to
+
+
+SENTID: 2
+SENT: Set a large , heavy-duty roasting pan over 2 burners on medium heat .
+PREDID: 0
+PRED: set
+  DOBJ: a large , heavy-duty roasting pan
+  PARG: 2 burners
+    PREP: over
+  PARG: medium heat
+    PREP: on
+
+
+SENTID: 3
+SENT: Pour 2 Tbs .
+PREDID: 0
+PRED: pour
+  DOBJ: 2 tbs
+
+
+SENTID: 4
+SENT: oil into a medium bowl .
+PREDID: 0
+PRED: oil
+  PARG: a medium bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Add half the meat ;
+PREDID: 0
+PRED: add
+  DOBJ: half the meat
+
+
+SENTID: 6
+SENT: coat .
+PREDID: 0
+PRED: coat
+
+
+SENTID: 7
+SENT: Generously sprinkle with salt , pepper , and 1 Tb . cumin .
+PREDID: 0
+PRED: sprinkle
+  PARG: salt , pepper , 1 tb . cumin
+    PREP: with
+  OARG: generously
+
+
+SENTID: 8
+SENT: Repeat entire process with rest of meat .
+PREDID: 0
+PRED: repeat
+  DOBJ: entire process
+  PARG: rest of meat
+    PREP: with
+
+
+SENTID: 9
+SENT: Increase heat under roasting pan to medium-high .
+PREDID: 0
+PRED: increase
+  DOBJ: heat
+  PARG: roasting pan
+    PREP: under
+  PARG: medium-high
+    PREP: to
+
+
+SENTID: 10
+SENT: Add half the meat ;
+PREDID: 0
+PRED: add
+  DOBJ: half the meat
+
+
+SENTID: 11
+SENT: cook until a solid brown crust forms on one side , 4 to 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: a solid brown crust forms on one side , 4 to 5 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Turn over ;
+PREDID: 0
+PRED: turn
+  DOBJ: over
+
+
+SENTID: 13
+SENT: cook until a crust again forms , 4 to 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: a crust again forms , 4 to 5 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Transfer meat to a soup pot .
+PREDID: 0
+PRED: transfer
+  DOBJ: meat
+  PARG: a soup pot
+    PREP: to
+
+
+SENTID: 15
+SENT: Brown remaining meat ;
+PREDID: 0
+PRED: brown
+  DOBJ: remaining meat
+
+
+SENTID: 16
+SENT: add to soup pot .
+PREDID: 0
+PRED: add
+  PARG: soup pot
+    PREP: to
+
+
+SENTID: 17
+SENT: Set roasting pan aside .
+PREDID: 0
+PRED: set
+  DOBJ: roasting pan
+  OARG: aside
+
+
+SENTID: 18
+SENT: Add 2Ê1/2 cups water to the soup pot and cover with heavy-duty foil , pressing down so foil is concave and touches the meat .
+PREDID: 0
+PRED: add
+  DOBJ: 2Ê1/2 cups water
+  PARG: the soup pot
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  DOBJ: foil is concave, touches the meat
+  PARG: heavy-duty foil , pressing
+    PREP: with
+  OARG: down
+  OARG: so
+
+
+SENTID: 19
+SENT: Seal foil around the top of the pot so it is airtight ;
+PREDID: 0
+PRED: seal
+  DOBJ: it is airtight
+  PARG: the top of the pot
+    PREP: around
+  OARG: so
+  OARG: foil
+
+
+SENTID: 20
+SENT: place lid on pot .
+PREDID: 0
+PRED: place
+  DOBJ: lid
+  PARG: pot
+    PREP: on
+
+
+SENTID: 21
+SENT: Set pot in oven .
+PREDID: 0
+PRED: set
+  DOBJ: pot
+  PARG: oven
+    PREP: in
+
+
+SENTID: 22
+SENT: Cook , without checking , 90 minutes -LRB- meat should be very tender -RRB- .
+PREDID: 0
+PRED: cook
+  DOBJ: tender -rrb-
+  PARG: checking , 90 minutes -lrb- meat should be
+    PREP: without
+  OARG: very
+
+
+SENTID: 23
+SENT: Carefully remove from oven and let cool .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+  OARG: carefully
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 24
+SENT: Shred pork and beef into bite-size pieces , discarding pork bones .
+PREDID: 0
+PRED: shred
+  DOBJ: pork, beef
+  PARG: bite-size pieces , discarding pork bones
+    PREP: into
+
+
+SENTID: 25
+SENT: Measure meat juices , then add enough water to equal 12 cups . Meanwhile , in a medium skillet over low heat , slow-toast chili powder , oregano and remaining 4 teaspoons cumin , stirring constantly , until spices are fragrant and darker in color ;
+PREDID: 0
+PRED: measure
+  DOBJ: meat juices
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: remaining 4 teaspoons cumin , stirring
+  PARG: equal 12 cups
+    PREP: to
+  PARG: a medium skillet
+    PREP: in
+  PARG: low heat , slow-toast chili powder , oregano
+    PREP: over
+  PARG: spices are fragrant, darker in color
+    PREP: until
+  OARG: enough
+  OARG: meanwhile
+  OARG: water
+  OARG: constantly
+
+
+SENTID: 26
+SENT: Set roasting pan over two burners on medium-high heat ;
+PREDID: 0
+PRED: set
+  DOBJ: roasting pan
+  PARG: two burners
+    PREP: over
+  PARG: medium-high heat
+    PREP: on
+
+
+SENTID: 27
+SENT: add remaining 1/4 cup oil .
+PREDID: 0
+PRED: add
+  DOBJ: remaining 1/4 cup oil
+
+
+SENTID: 28
+SENT: Add onions ;
+PREDID: 0
+PRED: add
+  DOBJ: onions
+
+
+SENTID: 29
+SENT: saute until soft , 7 to 8 minutes .
+PREDID: 0
+PRED: saute
+  PARG: soft , 7 to 8 minutes
+    PREP: until
+
+
+SENTID: 30
+SENT: Add spices , tomatoes , meat and juices .
+PREDID: 0
+PRED: add
+  DOBJ: spices , tomatoes , meat, juices
+
+
+SENTID: 31
+SENT: Simmer until flavors are unified , 1 to 1Ê1/2 hours .
+PREDID: 0
+PRED: simmer
+  PARG: flavors are unified , 1 to 1Ê1/2 hours
+    PREP: until
+
+
+SENTID: 32
+SENT: Add garlic , chocolate and optional beans ;
+PREDID: 0
+PRED: add
+  DOBJ: garlic , chocolate, optional beans
+
+
+SENTID: 33
+SENT: simmer 5 minutes .
+PREDID: 0
+PRED: simmer
+  OARG: 5 minutes
+
+
+SENTID: 34
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

@@ -1,0 +1,278 @@
+T1	predicate 0 7	Combine
+T2	predicate 97 105	Sprinkle
+T3	predicate 147 156	let stand
+T4	predicate 229 233	Stir
+T5	predicate 281 285	Stir
+T6	predicate 320 323	Mix
+T7	predicate 376 380	stir
+T8	predicate 408 415	Stir in
+T9	predicate 527 531	turn
+T10	predicate 671 674	oil
+T11	predicate 689 694	place
+T12	predicate 721 725	turn
+T13	predicate 744 749	Cover
+T14	predicate 774 782	let rise
+T15	predicate 838 845	Combine
+T16	predicate 946 951	Cover
+T17	predicate 961 965	cook
+T18	predicate 1034 1041	Preheat
+T19	predicate 1084 1091	Deflate
+T20	predicate 1150 1153	Cut
+T21	predicate 1185 1189	Roll
+T22	predicate 1228 1232	Roll
+T23	predicate 1279 1284	Place
+T24	predicate 1350 1358	Sprinkle
+T25	predicate 1387 1392	Shape
+T26	predicate 1425 1430	place
+T27	predicate 1460 1465	Layer
+T28	predicate 1560 1563	Top
+T29	predicate 1596 1601	pinch
+T30	predicate 1617 1620	Cut
+T31	predicate 1667 1673	Spread
+T32	predicate 1745 1749	Bake
+T33	predicate 1877 1880	Let
+T34	arg_location 1756 1777	in the preheated oven
+T35	Evolution 1759 1777	the preheated oven
+E1	Evolution:T35 Cause:T18
+R1	location Arg1:T32 Arg2:T34	
+T36	arg_object 1750 1755	pizza
+R2	object Arg1:T32 Arg2:T36	
+T37	Evolution 1750 1755	pizza
+E2	Evolution:T37 Cause:T31
+T38	arg_duration 1778 1875	until the crust is set, the cheese is melted, and the sausage is cooked through, 40 to 45 minutes
+R3	duration Arg1:T32 Arg2:T38	
+T39	arg_object 1881 1890	hot pizza
+R4	object Arg1:T33 Arg2:T39	
+T40	Evolution 1881 1890	hot pizza
+E3	Evolution:T40 Cause:T32
+T42	arg_object 1674 1679	sauce
+R6	object Arg1:T31 Arg2:T42	
+T43	Evolution 1674 1679	sauce
+E4	Evolution:T43 Cause:T17
+T44	arg_co-object 1687 1703	on the top crust
+R7	co-object Arg1:T31 Arg2:T44	
+T45	Evolution 1690 1703	the top crust
+E5	Evolution:T45 Cause:T30
+T46	arg_other 1705 1743	leaving a 1/2 inch border at the edges
+R8	other Arg1:T31 Arg2:T46	
+T47	arg_object 1621 1648	several 1/2 inch vent holes
+R9	object Arg1:T30 Arg2:T47	
+T48	arg_co-object 1649 1665	in the top crust
+R10	co-object Arg1:T30 Arg2:T48	
+T49	Evolution 1652 1665	the top crust
+E6	Evolution:T49 Cause:T29
+T50	arg_object 1602 1607	edges
+T51	Evolution 1602 1607	edges
+E7	Evolution:T51 Cause:T28
+R11	object Arg1:T29 Arg2:T50	
+T52	arg_other 1608 1615	to seal
+R12	other Arg1:T29 Arg2:T52	
+R13	object Arg1:T28 Arg2:T27	
+T53	arg_co-object 1564 1591	with the 9 inch dough round
+R14	co-object Arg1:T28 Arg2:T53	
+T54	Evolution 1569 1591	the 9 inch dough round
+E8	Evolution:T54 Cause:T22
+T55	arg_co-object 1535 1558	on top of sausage patty
+T56	Evolution 1545 1558	sausage patty
+E9	Evolution:T56 Cause:T26
+R15	co-object Arg1:T27 Arg2:T55	
+T57	arg_object 1466 1475	pepperoni
+T58	arg_object 1477 1486	mushrooms
+T59	arg_object 1488 1500	green pepper
+T60	arg_object 1502 1512	red pepper
+T61	arg_object 1518 1534	remaining cheese
+R16	object Arg1:T27 Arg2:T57	
+R17	object Arg1:T27 Arg2:T58	
+R18	object Arg1:T27 Arg2:T59	
+R19	object Arg1:T27 Arg2:T60	
+R20	object Arg1:T27 Arg2:T61	
+R21	object Arg1:T26 Arg2:T25	
+T62	arg_location 1431 1437	in pan
+T63	arg_co-object 1438 1458	on top of the cheese
+T64	Evolution 1448 1458	the cheese
+E10	Evolution:T64 Cause:T24
+R22	location Arg1:T26 Arg2:T62	
+R23	co-object Arg1:T26 Arg2:T63	
+T65	arg_object 1393 1400	sausage
+T66	arg_other 1401 1420	into a 9 inch patty
+R24	object Arg1:T25 Arg2:T65	
+R25	other Arg1:T25 Arg2:T66	
+T67	arg_object 1359 1364	dough
+T68	arg_co-object 1365 1385	with 1 cup of cheese
+R26	object Arg1:T24 Arg2:T67	
+R27	co-object Arg1:T24 Arg2:T68	
+T69	Evolution 1359 1364	dough
+E11	Evolution:T69 Cause:T23
+T70	arg_object 1285 1308	the 12 inch dough round
+T71	arg_location 1309 1348	into an ungreased 9 inch springform pan
+R28	object Arg1:T23 Arg2:T70	
+R29	location Arg1:T23 Arg2:T71	
+T72	Evolution 1285 1308	the 12 inch dough round
+E12	Evolution:T72 Cause:T21
+T73	arg_object 1190 1199	one piece
+T74	Evolution 1190 1199	one piece
+E13	Evolution:T74 Cause:T20
+T75	arg_other 1200 1226	into a 12 inch thin circle
+T76	arg_object 1233 1247	the other half
+T77	Evolution 1233 1247	the other half
+E14	Evolution:T77 Cause:T20
+T78	arg_other 1248 1277	into a thicker, 9 inch circle
+R30	object Arg1:T22 Arg2:T76	
+R31	other Arg1:T22 Arg2:T78	
+R32	object Arg1:T21 Arg2:T73	
+R33	other Arg1:T21 Arg2:T75	
+T79	arg_object 1154 1163	the dough
+T80	Evolution 1154 1163	the dough
+E15	Evolution:T80 Cause:T81
+T81	predicate 1106 1110	turn
+T82	arg_other 1164 1183	into 2 equal pieces
+R34	object Arg1:T20 Arg2:T79	
+R35	other Arg1:T20 Arg2:T82	
+T83	arg_object 1111 1113	it
+T84	Evolution 1111 1113	it
+E16	Evolution:T84 Cause:T19
+R36	object Arg1:T81 Arg2:T83	
+T85	arg_other 1114 1117	out
+T86	arg_location 1118 1148	onto a lightly floured surface
+R37	other Arg1:T81 Arg2:T85	
+R38	location Arg1:T81 Arg2:T86	
+T87	arg_object 1092 1101	the dough
+R39	object Arg1:T19 Arg2:T87	
+T88	Evolution 1092 1101	the dough
+E17	Evolution:T88 Cause:T14
+T89	arg_object 1042 1049	an oven
+T90	arg_duration 1050 1082	to 450 degrees F (230 degrees C)
+R40	object Arg1:T18 Arg2:T89	
+R41	duration Arg1:T18 Arg2:T90	
+T91	arg_object 952 955	pan
+T92	Evolution 952 955	pan
+E18	Evolution:T92 Cause:T15
+R42	object Arg1:T16 Arg2:T91	
+R43	object Arg1:T17 Arg2:T16	
+T93	arg_other 966 979	over low heat
+T94	arg_duration 980 1032	until tomatoes start to break down, about 30 minutes
+R44	other Arg1:T17 Arg2:T93	
+R45	duration Arg1:T17 Arg2:T94	
+T95	arg_object 846 866	the crushed tomatoes
+T96	arg_object 868 879	brown sugar
+T97	arg_object 881 894	garlic powder
+T98	arg_object 896 916	1 teaspoon olive oil
+T99	arg_object 922 926	salt
+T100	arg_location 927 944	in small saucepan
+R46	object Arg1:T15 Arg2:T95	
+R47	object Arg1:T15 Arg2:T96	
+R48	object Arg1:T15 Arg2:T97	
+R49	object Arg1:T15 Arg2:T98	
+R50	object Arg1:T15 Arg2:T99	
+R51	location Arg1:T15 Arg2:T100	
+R52	object Arg1:T14 Arg2:T13	
+R53	object Arg1:T13 Arg2:T12	
+R54	object Arg1:T12 Arg2:T11	
+T101	arg_location 705 716	in the bowl
+T102	Evolution 708 716	the bowl
+E19	Evolution:T102 Cause:T10
+T103	arg_location 783 798	in a warm place
+T104	arg_duration 799 836	until doubled in volume, about 1 hour
+R55	location Arg1:T14 Arg2:T103	
+R56	duration Arg1:T14 Arg2:T104	
+T105	arg_other 750 768	with a light cloth
+R57	other Arg1:T13 Arg2:T105	
+T106	arg_other 726 733	to coat
+T107	arg_co-object 734 742	with oil
+R58	other Arg1:T12 Arg2:T106	
+R59	co-object Arg1:T12 Arg2:T107	
+T108	arg_object 695 704	the dough
+R60	object Arg1:T11 Arg2:T108	
+T109	Evolution 695 704	the dough
+E20	Evolution:T109 Cause:T114
+T110	arg_object 675 687	a large bowl
+R61	object Arg1:T10 Arg2:T110	
+T111	arg_object 532 534	it
+T112	Evolution 532 534	it
+E21	Evolution:T112 Cause:T8
+R62	object Arg1:T9 Arg2:T111	
+T113	arg_location 539 569	onto a lightly floured surface
+R63	location Arg1:T9 Arg2:T113	
+T114	predicate 574 579	knead
+R64	object Arg1:T114 Arg2:T9	
+T115	arg_duration 580 661	until smooth and elastic, about 8 minutes (or mix with dough hook in stand mixer)
+R65	duration Arg1:T114 Arg2:T115	
+T116	arg_object 416 435	the remaining flour
+T117	arg_other 437 456	a 1/2 cup at a time
+T118	arg_other 458 489	mixing well after each addition
+R66	object Arg1:T8 Arg2:T116	
+R67	other Arg1:T8 Arg2:T117	
+R68	other Arg1:T8 Arg2:T118	
+T119	arg_object 324 349	half of the flour mixture
+T120	Evolution 332 349	the flour mixture
+E22	Evolution:T120 Cause:T5
+R69	object Arg1:T6 Arg2:T119	
+R70	co-object Arg1:T8 Arg2:T7	
+R71	object Arg1:T7 Arg2:T6	
+T121	arg_duration 381 406	until no dry spots remain
+R72	duration Arg1:T7 Arg2:T121	
+T122	arg_co-object 350 370	into the yeast water
+R73	co-object Arg1:T6 Arg2:T122	
+T123	Evolution 355 370	the yeast water
+E23	Evolution:T123 Cause:T4
+T124	arg_object 286 303	1/2 teaspoon salt
+T125	arg_co-object 304 318	into the flour
+R74	object Arg1:T5 Arg2:T124	
+R75	co-object Arg1:T5 Arg2:T125	
+T126	arg_object 234 256	1 tablespoon olive oil
+T127	arg_co-object 257 279	into the yeast mixture
+R76	object Arg1:T4 Arg2:T126	
+R77	co-object Arg1:T4 Arg2:T127	
+T128	Evolution 262 279	the yeast mixture
+E24	Evolution:T128 Cause:T3
+T129	arg_duration 157 227	for 5 minutes until the yeast softens and begins to form a creamy foam
+R78	duration Arg1:T3 Arg2:T129	
+R79	object Arg1:T3 Arg2:T2	
+T130	arg_object 106 115	the yeast
+T131	arg_co-object 116 141	over the warm sugar water
+R80	object Arg1:T2 Arg2:T130	
+R81	co-object Arg1:T2 Arg2:T131	
+T132	Evolution 121 141	the warm sugar water
+E25	Evolution:T132 Cause:T1
+T133	arg_object 8 23	the white sugar
+T134	arg_object 28 42	the warm water
+T135	arg_location 43 95	in a large bowl or in the work bowl of a stand mixer
+R82	object Arg1:T1 Arg2:T133	
+R83	object Arg1:T1 Arg2:T134	
+R84	location Arg1:T1 Arg2:T135	
+T136	ingredient 8 23	the white sugar
+T137	ingredient 28 42	the warm water
+T138	ingredient 106 115	the yeast
+T139	ingredient 234 256	1 tablespoon olive oil
+T140	ingredient 286 303	1/2 teaspoon salt
+T141	ingredient 309 318	the flour
+T142	Evolution 416 435	the remaining flour
+E26	Evolution:T142 Cause:T5
+T143	arg_other 535 538	out
+R85	other Arg1:T9 Arg2:T143	
+T144	arg_other 491 526	When the dough has pulled together,
+R86	other Arg1:T9 Arg2:T144	
+T145	ingredient 739 742	oil
+T146	ingredient 846 866	the crushed tomatoes
+T147	ingredient 868 879	brown sugar
+T148	ingredient 881 894	garlic powder
+T149	ingredient 896 916	1 teaspoon olive oil
+T150	ingredient 922 926	salt
+T151	ingredient 1370 1385	1 cup of cheese
+T152	ingredient 1393 1400	sausage
+R87	same-location Arg1:T62 Arg2:T71	
+T153	ingredient 1466 1475	pepperoni
+T154	ingredient 1477 1486	mushrooms
+T155	ingredient 1488 1500	green pepper
+T156	ingredient 1502 1512	red pepper
+T157	ingredient 1518 1534	remaining cheese
+T41	arg_duration 1896 1910	for 15 minutes
+T158	arg_other 1891 1895	rest
+R5	other Arg1:T33 Arg2:T158	
+R88	duration Arg1:T33 Arg2:T41	
+T159	predicate 1918 1925	cutting
+T160	arg_other 1926 1937	into wedges
+R89	other Arg1:T159 Arg2:T160	
+R90	object Arg1:T159 Arg2:T33	
+T161	predicate 1942 1949	serving
+R91	object Arg1:T161 Arg2:T159	

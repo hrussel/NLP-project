@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: In a large saucepan , melt butter over medium high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook onion , red and green bell peppers , and carrots until tender .
+PREDID: 0
+PRED: cook
+  DOBJ: onion , red, green bell peppers , carrots
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in thawed corn , potato flakes , salt , ground peppers , and 3 cups water .
+PREDID: 0
+PRED: stir
+  PARG: thawed corn , potato flakes , salt , ground peppers , 3 cups water
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to boil .
+PREDID: 0
+PRED: bring
+  PARG: boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Reduce heat .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 5
+SENT: Cover , and simmer for 10 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Stir in milk and half and half .
+PREDID: 0
+PRED: stir
+  PARG: milk, half, half
+    PREP: in
+
+
+SENTID: 7
+SENT: Warm only .
+PREDID: 0
+PRED: warm
+  OARG: only
+
+
+SENTID: 8
+SENT: Serve sprinkled with grated cheese .
+PREDID: 0
+PRED: serve
+  DOBJ: sprinkled
+  PARG: grated cheese
+    PREP: with
+

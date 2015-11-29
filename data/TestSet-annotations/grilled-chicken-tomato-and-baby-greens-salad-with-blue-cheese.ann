@@ -1,0 +1,69 @@
+T1	predicate 0 4	Heat
+T2	predicate 32 37	Brush
+T3	predicate 56 62	season
+T4	predicate 95 100	Grill
+T5	predicate 186 190	Cool
+T6	predicate 217 222	slice
+T7	predicate 241 248	Combine
+T8	predicate 357 361	Toss
+T9	arg_object 5 10	grill
+T10	arg_duration 11 30	to medium-high heat
+R1	object Arg1:T1 Arg2:T9	
+R2	duration Arg1:T1 Arg2:T10	
+T11	arg_object 38 45	chicken
+T12	arg_co-object 46 54	with oil
+R3	object Arg1:T2 Arg2:T11	
+R4	co-object Arg1:T2 Arg2:T12	
+T13	arg_co-object 63 83	with salt and pepper
+R5	co-object Arg1:T3 Arg2:T13	
+R6	object Arg1:T3 Arg2:T2	
+T14	arg_duration 101 170	8 to 12 minutes or until no longer pink in the center (165 degrees F)
+T15	arg_other 172 184	turning once
+R7	duration Arg1:T4 Arg2:T14	
+R8	other Arg1:T4 Arg2:T15	
+R9	object Arg1:T4 Arg2:T3	
+T16	arg_object 191 198	chicken
+R10	object Arg1:T5 Arg2:T16	
+T17	Evolution 191 198	chicken
+E1	Evolution:T17 Cause:T4
+T18	arg_other 199 215	enough to handle
+R11	other Arg1:T5 Arg2:T18	
+R12	object Arg1:T6 Arg2:T5	
+T19	arg_other 223 239	into thin strips
+R13	other Arg1:T6 Arg2:T19	
+T20	arg_object 249 260	salad blend
+T21	arg_object 262 281	tomatoes from pouch
+T22	arg_object 283 304	cooked sliced chicken
+T23	Evolution 283 304	cooked sliced chicken
+E2	Evolution:T23 Cause:T6
+T24	arg_object 306 313	avocado
+T25	arg_object 315 320	bacon
+T26	arg_object 322 325	egg
+T27	arg_object 330 341	blue cheese
+T28	arg_location 342 355	in large bowl
+R14	object Arg1:T7 Arg2:T20	
+R15	object Arg1:T7 Arg2:T21	
+R16	object Arg1:T7 Arg2:T22	
+R17	object Arg1:T7 Arg2:T24	
+R18	object Arg1:T7 Arg2:T25	
+R19	object Arg1:T7 Arg2:T26	
+R20	object Arg1:T7 Arg2:T27	
+R21	location Arg1:T7 Arg2:T28	
+R22	object Arg1:T8 Arg2:T7	
+T29	arg_co-object 362 387	with blue cheese dressing
+R23	co-object Arg1:T8 Arg2:T29	
+T30	arg_other 389 397	to taste
+R24	other Arg1:T8 Arg2:T30	
+T31	arg_other 85 93	to taste
+R25	other Arg1:T3 Arg2:T31	
+T32	ingredient 38 45	chicken
+T33	ingredient 51 54	oil
+T34	ingredient 68 72	salt
+T35	ingredient 77 83	pepper
+T36	ingredient 249 260	salad blend
+T37	ingredient 262 281	tomatoes from pouch
+T38	ingredient 306 313	avocado
+T39	ingredient 315 320	bacon
+T40	ingredient 322 325	egg
+T41	ingredient 330 341	blue cheese
+T42	ingredient 367 387	blue cheese dressing

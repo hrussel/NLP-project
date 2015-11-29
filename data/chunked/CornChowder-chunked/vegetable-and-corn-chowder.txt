@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Heat a large skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir bacon and ham until bacon is crisp , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon, ham
+
+PREDID: 1
+PRED: stir
+  PARG: bacon is crisp , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain bacon and ham on a paper towel-lined plate .
+PREDID: 0
+PRED: drain
+  DOBJ: bacon, ham
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 3
+SENT: Bring mixed vegetables , potato , water , and onion to a boil in a large pot ;
+PREDID: 0
+PRED: bring
+  DOBJ: mixed vegetables , potato , water , onion
+  PARG: a boil
+    PREP: to
+  PARG: a large pot
+    PREP: in
+
+
+SENTID: 4
+SENT: reduce heat to medium and simmer until potatoes begin to soften , 12 to 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: potatoes
+    PREP: until
+
+PREDID: 2
+PRED: begin
+  OARG: to soften , 12 to 15 minutes
+
+
+SENTID: 5
+SENT: Stir in cream-style corn , whole kernel corn , cream of mushroom soup , milk , half-and-half , bacon , and ham .
+PREDID: 0
+PRED: stir
+  PARG: cream-style corn , whole kernel corn , cream of mushroom soup , milk , half-and-half , bacon , ham
+    PREP: in
+
+
+SENTID: 6
+SENT: Continue to simmer until potatoes are completely tender , about 5 minutes more .
+PREDID: 0
+PRED: continue
+  PARG: simmer
+    PREP: to
+  PARG: potatoes are completely tender , about 5 minutes more
+    PREP: until
+

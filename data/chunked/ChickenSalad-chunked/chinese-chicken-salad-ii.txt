@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: In a small bowl , whisk together the oil , vinegar , sugar , salt , pepper , and poppy seeds , and set aside .
+PREDID: 0
+PRED: whisk
+  DOBJ: the oil , vinegar , sugar , salt , pepper , poppy seeds
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: Wash lettuce and tear into bite-sized pieces . To a large bowl , first add the lettuce , then the onions , water chestnuts , and chicken .
+PREDID: 0
+PRED: wash
+  DOBJ: lettuce
+
+PREDID: 1
+PRED: tear
+  PARG: bite-sized pieces
+    PREP: into
+  PARG: a large bowl
+    PREP: to
+  OARG: first
+
+PREDID: 2
+PRED: add
+  DOBJ: the onions , water chestnuts , chicken
+  OARG: then
+  OARG: the lettuce
+
+
+SENTID: 2
+SENT: Just before serving , top with the almonds , noodles and dressing , and toss lightly .
+PREDID: 0
+PRED: top
+  PARG: serving
+    PREP: before
+  PARG: the almonds , noodles, dressing , toss
+    PREP: with
+  OARG: just
+  OARG: lightly
+

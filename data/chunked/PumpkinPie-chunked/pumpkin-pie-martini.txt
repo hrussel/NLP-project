@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Place graham cracker crumbs in a shallow dish .
+PREDID: 0
+PRED: place
+  DOBJ: graham cracker crumbs
+  PARG: a shallow dish
+    PREP: in
+
+
+SENTID: 1
+SENT: Coat rim of martini glass with honey , and dip into graham cracker crumbs to coat .
+PREDID: 0
+PRED: coat
+  DOBJ: rim of martini glass
+  PARG: honey
+    PREP: with
+
+PREDID: 1
+PRED: dip
+  PARG: graham cracker crumbs
+    PREP: into
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Combine milk and pumpkin puree in a cocktail shaker , and shake to combine .
+PREDID: 0
+PRED: combine
+  DOBJ: milk, pumpkin puree
+  PARG: a cocktail shaker
+    PREP: in
+
+PREDID: 1
+PRED: shake
+  PARG: combine
+    PREP: to
+
+
+SENTID: 3
+SENT: Pour in vodka and creme de cacao , and add ice .
+PREDID: 0
+PRED: pour
+  PARG: vodka, creme
+    PREP: in
+  PARG: cacao
+    PREP: de
+
+PREDID: 1
+PRED: add
+  DOBJ: ice
+
+
+SENTID: 4
+SENT: Shake well , and then strain into prepared martini glass .
+PREDID: 0
+PRED: shake
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: strain
+  PARG: prepared martini glass
+    PREP: into
+
+
+SENTID: 5
+SENT: Garnish with a sprinkle of pumpkin pie spice .
+PREDID: 0
+PRED: garnish
+  PARG: a sprinkle of pumpkin pie spice
+    PREP: with
+

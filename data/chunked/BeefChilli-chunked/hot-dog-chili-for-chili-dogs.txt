@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: Place ancho chiles into 1 cup boiling water and set aside until softened , about 15 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: ancho chiles
+  PARG: 1 cup boiling water
+    PREP: into
+
+PREDID: 1
+PRED: set
+  PARG: softened , about 15 minutes
+    PREP: until
+  OARG: aside
+
+
+SENTID: 1
+SENT: While chiles are soaking , place bacon in a large saucepan and cook over medium-high heat , stirring occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: chiles are soaking
+    PREP: while
+  PARG: a large saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , stirring
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain excess grease but reserve 2 tablespoons bacon drippings in the pan .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+PREDID: 1
+PRED: reserve
+  DOBJ: 2 tablespoons bacon drippings
+  PARG: the pan
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir white and red onion in bacon drippings with bacon over medium heat with a pinch of salt until onions are translucent , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: white, red onion
+
+PREDID: 1
+PRED: stir
+  PARG: bacon drippings
+    PREP: in
+  PARG: bacon
+    PREP: with
+  PARG: medium heat
+    PREP: over
+  PARG: a pinch of salt
+    PREP: with
+  PARG: onions are translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: stir in garlic and cook until softened , about 1 more minute .
+PREDID: 0
+PRED: stir
+  PARG: garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: softened , about 1 more minute
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour in 3 cups boiling water and stir in beef chuck , mixing the meat with the water to break it apart .
+PREDID: 0
+PRED: pour
+  PARG: 3 cups boiling water
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  DOBJ: mixing the meat
+  PARG: beef chuck
+    PREP: in
+  PARG: the water
+    PREP: with
+  PARG: break it
+    PREP: to
+  OARG: apart
+
+
+SENTID: 6
+SENT: Bring to a boil and reduce heat to low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 7
+SENT: Stir in tomato paste and beef bouillon granules until the granules dissolve ;
+PREDID: 0
+PRED: stir
+  PARG: tomato paste, beef bouillon granules
+    PREP: in
+  PARG: the granules dissolve
+    PREP: until
+
+
+SENTID: 8
+SENT: Place soaked ancho chiles and their liquid , spicy brown mustard , chili powder , Worcestershire sauce , cumin , garlic powder , adobo seasoning , and paprika into a blender and blend until smooth ;
+PREDID: 0
+PRED: place
+  DOBJ: soaked ancho chiles, their liquid , spicy brown mustard , chili powder , worcestershire sauce , cumin , garlic powder , adobo seasoning , paprika
+  PARG: a blender
+    PREP: into
+
+PREDID: 1
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 9
+SENT: pour mixture into the chili .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: the chili
+    PREP: into
+
+
+SENTID: 10
+SENT: Use a little water to dissolve remaining mixture in blender and pour into the chili .
+PREDID: 0
+PRED: use
+  DOBJ: a little water
+  PARG: dissolve remaining mixture
+    PREP: to
+  PARG: blender
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: the chili
+    PREP: into
+
+
+SENTID: 11
+SENT: Bring chili to a slow boil over medium-low heat and stir in kidney beans and masa harina .
+PREDID: 0
+PRED: bring
+  DOBJ: chili
+  PARG: a slow boil
+    PREP: to
+  PARG: medium-low heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: kidney beans, masa harina
+    PREP: in
+
+
+SENTID: 12
+SENT: Reduce heat to low ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 13
+SENT: allow to simmer until thick and the flavors have blended , at least 45 more minutes .
+PREDID: 0
+PRED: allow
+  PARG: simmer
+    PREP: to
+  PARG: thick, the flavors have blended , at least 45 more minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 15
+SENT: If chili is too thin , mix in more masa harina .
+PREDID: 0
+PRED: mix
+  PARG: chili is
+    PREP: if
+  PARG: more masa harina
+    PREP: in
+  OARG: too
+  OARG: thin
+

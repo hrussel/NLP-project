@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , blend together the eggs , white sugar , brown sugar , flour , butter , corn syrup and vanilla .
+PREDID: 0
+PRED: blend
+  DOBJ: the eggs , white sugar , brown sugar , flour , butter , corn syrup, vanilla
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add the chocolate chips and pecans ;
+PREDID: 0
+PRED: add
+  DOBJ: the chocolate chips, pecans
+
+
+SENTID: 3
+SENT: mix well and pour into pie crusts .
+PREDID: 0
+PRED: mix
+  PARG: pie crusts
+    PREP: into
+  OARG: well
+
+PREDID: 1
+PRED: pour
+
+
+SENTID: 4
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 40 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 40 to 45 minutes
+    PREP: for
+

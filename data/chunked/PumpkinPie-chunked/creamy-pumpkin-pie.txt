@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C. -RRB- In a large bowl , combine pumpkin puree , sweetened condensed milk and eggs .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: pumpkin puree , sweetened condensed milk, eggs
+
+
+SENTID: 1
+SENT: Season with cinnamon , ginger , nutmeg and salt .
+PREDID: 0
+PRED: season
+  PARG: cinnamon , ginger , nutmeg, salt
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix together with a wire whisk until thoroughly blended .
+PREDID: 0
+PRED: mix
+  PARG: a wire whisk
+    PREP: with
+  PARG: thoroughly blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Pour filling into pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Reduce the heat to 350 degrees F -LRB- 175 degrees C -RRB- and bake another 35 to 40 minutes or until a knife inserted comes out clean .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: a knife inserted comes out clean
+    PREP: until
+  OARG: another 35 to 40 minutes
+

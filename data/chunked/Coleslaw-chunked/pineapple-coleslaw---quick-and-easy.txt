@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Mix marshmallows , mayonnaise , pineapple , salt , and pepper together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: marshmallows , mayonnaise , pineapple , salt , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: fold in coleslaw mix .
+PREDID: 0
+PRED: fold
+  PARG: coleslaw mix
+    PREP: in
+
+
+SENTID: 2
+SENT: Cover bowl with plastic wrap and refrigerate until flavors blend , at least 1 hour .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: flavors
+    PREP: until
+
+PREDID: 2
+PRED: blend
+  PARG: least 1 hour
+    PREP: at
+

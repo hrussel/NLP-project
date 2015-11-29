@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Let stand 15 to 30 minutes and press all remaining liquid out of squash .
+PREDID: 0
+PRED: let
+  OARG: stand 15 to 30 minutes
+
+PREDID: 1
+PRED: press
+  DOBJ: all remaining liquid
+  PARG: of squash
+    PREP: out
+
+
+SENTID: 2
+SENT: In a medium-sized mixing bowl , combine squash , flour , Parmesan cheese , mozzarella cheese , eggs , pepper and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: squash
+  PARG: a medium-sized mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: flour
+  DOBJ: parmesan cheese , mozzarella cheese , eggs , pepper, salt
+
+
+SENTID: 3
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 4
+SENT: Spread the mixture into a greased and floured jelly roll pan .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: a greased, floured
+    PREP: into
+  OARG: jelly
+
+PREDID: 1
+PRED: roll
+  DOBJ: pan
+
+
+SENTID: 5
+SENT: Bake for 25 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 25 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 6
+SENT: Remove the crust from the oven and change the oven 's temperature to broil .
+PREDID: 0
+PRED: remove
+  DOBJ: the crust
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: change
+  DOBJ: the oven 's temperature
+  PARG: broil
+    PREP: to
+
+
+SENTID: 7
+SENT: Brush the top of the crust with oil , and then broil the crust for 3 to 5 minutes until the top is lightly browned .
+PREDID: 0
+PRED: brush
+  DOBJ: the top of the crust
+  PARG: oil
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: broil
+  DOBJ: the crust
+  PARG: 3 to 5 minutes
+    PREP: for
+  PARG: the top is lightly browned
+    PREP: until
+
+
+SENTID: 8
+SENT: Allow the crust to cool slightly and slide spatula underneath all edges and under the middle .
+PREDID: 0
+PRED: allow
+  DOBJ: the crust
+  OARG: to cool
+  OARG: slightly
+
+PREDID: 1
+PRED: slide
+  DOBJ: spatula
+  PARG: all edges
+    PREP: underneath
+  PARG: the middle
+    PREP: under
+
+
+SENTID: 9
+SENT: Place a large baking sheet over the top of the crust and gently flip the crust over so that the bottom of the crust is now facing upwards .
+PREDID: 0
+PRED: place
+  DOBJ: a large baking sheet
+  PARG: the top of the crust
+    PREP: over
+  OARG: gently
+
+PREDID: 1
+PRED: flip
+  DOBJ: facing upwards
+  PARG: so
+    PREP: over
+  PARG: the bottom of the crust is
+    PREP: that
+  OARG: now
+  OARG: the crust
+
+
+SENTID: 10
+SENT: Because it can be difficult to flip the crust smoothly , it may be necessary to cut the crust in half to facilitate the flipping of the crust .
+PREDID: 0
+PRED: can
+  DOBJ: it may be necessary
+  PARG: it
+    PREP: because
+  PARG: flip the crust
+    PREP: to
+  PARG: cut the crust
+    PREP: to
+  PARG: half
+    PREP: in
+  OARG: smoothly
+  OARG: be difficult
+  OARG: to facilitate the flipping of the crust
+
+
+SENTID: 11
+SENT: Brush the top of the crust with oil and broil for another 3 to 5 minutes until the top is browned .
+PREDID: 0
+PRED: brush
+  DOBJ: the top of the crust
+  PARG: oil
+    PREP: with
+
+PREDID: 1
+PRED: broil
+  PARG: another 3 to 5 minutes
+    PREP: for
+  PARG: the top is browned
+    PREP: until
+
+
+SENTID: 12
+SENT: Cover with toppings as desired .
+PREDID: 0
+PRED: cover
+  PARG: toppings
+    PREP: with
+  PARG: desired
+    PREP: as
+

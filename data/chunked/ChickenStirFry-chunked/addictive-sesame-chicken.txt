@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Combine the 2 tablespoons soy sauce , the dry sherry , dash of sesame oil , flour , 2 tablespoons cornstarch , 2 tablespoons water , baking powder , baking soda , and canola oil in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the 2 tablespoons soy sauce , the dry sherry , dash of sesame oil , flour , 2 tablespoons cornstarch , 2 tablespoons water , baking powder , baking soda , canola oil
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix well ;
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: stir in the chicken .
+PREDID: 0
+PRED: stir
+  PARG: the chicken
+    PREP: in
+
+
+SENTID: 3
+SENT: Cover and refrigerate for 20 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 20 minutes
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 4
+SENT: Heat oil in a deep-fryer or large saucepan to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a deep-fryer or large saucepan
+    PREP: in
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Combine the 1/2 cup water , chicken broth , vinegar , 1/4 cup cornstarch , sugar , 2 tablespoons soy sauce , 2 tablespoons sesame oil , red chili paste , and garlic in a small saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: the 1/2 cup water , chicken broth , vinegar , 1/4 cup cornstarch , sugar , 2 tablespoons soy sauce , 2 tablespoons sesame oil , red chili paste , garlic
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 6
+SENT: Bring to a boil , stirring constantly .
+PREDID: 0
+PRED: bring
+  PARG: a boil , stirring
+    PREP: to
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Turn heat to low and keep warm , stirring occasionally .
+PREDID: 0
+PRED: turn
+  DOBJ: heat
+  PARG: low, keep warm , stirring
+    PREP: to
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Fry the marinated chicken in batches until cooked through and golden brown , 3 to 5 minutes .
+PREDID: 0
+PRED: fry
+  DOBJ: the marinated chicken
+  PARG: batches
+    PREP: in
+  PARG: cooked through, golden brown , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Drain on paper towels .
+PREDID: 0
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 10
+SENT: Transfer the chicken to a large platter , top with sauce , and sprinkle with sesame seeds .
+PREDID: 0
+PRED: transfer
+  DOBJ: the chicken
+  PARG: a large platter
+    PREP: to
+
+PREDID: 1
+PRED: top
+  PARG: sauce
+    PREP: with
+
+PREDID: 2
+PRED: sprinkle
+  PARG: sesame seeds
+    PREP: with
+

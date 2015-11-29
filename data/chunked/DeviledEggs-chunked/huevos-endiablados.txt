@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 3
+SENT: Allow to cool completely , about 20 minutes .
+PREDID: 0
+PRED: allow
+  PARG: 20 minutes
+    PREP: about
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 4
+SENT: Slice each egg in half lengthwise , remove yolks and place them in a bowl .
+PREDID: 0
+PRED: slice
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: yolks
+
+PREDID: 2
+PRED: place
+  DOBJ: them
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Set the whites aside on a serving platter .
+PREDID: 0
+PRED: set
+  DOBJ: the whites
+  PARG: a serving platter
+    PREP: on
+  OARG: aside
+
+
+SENTID: 6
+SENT: Mash yolks together with tuna , red onion , mayonnaise , Dijon mustard , garlic , smoked paprika , and salt until smooth and combined .
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: tuna , red onion , mayonnaise , dijon mustard , garlic , smoked paprika , salt
+    PREP: with
+  PARG: smooth, combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: Fill each egg white half with about a tablespoon of filling .
+PREDID: 0
+PRED: fill
+  DOBJ: each egg white half
+  PARG: about a tablespoon of filling
+    PREP: with
+
+
+SENTID: 8
+SENT: Garnish with smoked paprika .
+PREDID: 0
+PRED: garnish
+  PARG: smoked paprika
+    PREP: with
+

@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Stir together peanut butter , garlic , salt , rice vinegar , soy sauce , and hot pepper sauce until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: peanut butter , garlic , salt , rice vinegar , soy sauce , hot pepper sauce
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Fold in cilantro , chives , and red pepper .
+PREDID: 0
+PRED: fold
+  PARG: cilantro , chives , red pepper
+    PREP: in
+
+
+SENTID: 2
+SENT: Add shredded cabbage , and toss until well coated .
+PREDID: 0
+PRED: add
+  DOBJ: shredded cabbage
+
+PREDID: 1
+PRED: toss
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 3
+SENT: Scoop into a serving bowl , cover with plastic wrap , and refrigerate 1 hour .
+PREDID: 0
+PRED: scoop
+  PARG: a serving bowl
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 2
+PRED: refrigerate
+  OARG: 1 hour
+
+
+SENTID: 4
+SENT: Sprinkle with sesame seeds before serving .
+PREDID: 0
+PRED: sprinkle
+  PARG: sesame seeds
+    PREP: with
+  PARG: serving
+    PREP: before
+

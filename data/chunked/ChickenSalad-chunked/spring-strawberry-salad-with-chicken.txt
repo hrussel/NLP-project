@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Place the chicken breast meat into a skillet with 2 tablespoons of olive oil and 2 tablespoons of balsamic vinaigrette over medium heat ;
+PREDID: 0
+PRED: place
+  DOBJ: the chicken breast meat
+  PARG: a skillet
+    PREP: into
+  PARG: 2 tablespoons of olive oil, 2 tablespoons of balsamic vinaigrette
+    PREP: with
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir until the chicken is browned , no longer pink in the center , and the juice has nearly evaporated , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the chicken is browned , no longer pink in the center , the juice has nearly evaporated , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Remove the chicken to a bowl and let cool .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 3
+SENT: Place the spinach into a salad bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: the spinach
+  PARG: a salad bowl
+    PREP: into
+
+
+SENTID: 4
+SENT: scatter the strawberries , goat cheese , and candied pecans over the spinach .
+PREDID: 0
+PRED: scatter
+  DOBJ: the strawberries , goat cheese , candied pecans
+  PARG: the spinach
+    PREP: over
+
+
+SENTID: 5
+SENT: Drizzle 2 tablespoons of olive oil and 2 tablespoons of balsamic vinaigrette over the salad and top with the chicken .
+PREDID: 0
+PRED: drizzle
+  DOBJ: 2 tablespoons of olive oil, 2 tablespoons of balsamic vinaigrette
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: the chicken
+    PREP: with
+
+
+SENTID: 6
+SENT: Serve slightly warm or chilled .
+PREDID: 0
+PRED: serve
+  DOBJ: warm or chilled
+  OARG: slightly
+

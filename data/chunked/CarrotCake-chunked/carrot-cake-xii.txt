@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 9x13 inch pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: Sift together the flour , baking soda , salt and cinnamon .
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , baking soda , salt, cinnamon
+  OARG: together
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a large bowl , beat eggs , sugar and oil until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , sugar, oil
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Beat in flour mixture .
+PREDID: 0
+PRED: beat
+  PARG: flour mixture
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in pureed carrots , pineapple , walnuts and coconut .
+PREDID: 0
+PRED: stir
+  PARG: pureed carrots , pineapple , walnuts, coconut
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour batter into prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake in the preheated oven for 30 to 40 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 to 40 minutes
+    PREP: for
+  PARG: a toothpick inserted into the center of the cake comes out clean
+    PREP: until
+
+
+SENTID: 9
+SENT: Allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+

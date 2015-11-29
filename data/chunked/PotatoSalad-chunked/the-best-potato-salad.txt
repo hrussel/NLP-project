@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Pour out the hot water ;
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+
+
+SENTID: 4
+SENT: cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 5
+SENT: Peel and chop the cooled eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: the cooled eggs
+
+PREDID: 1
+PRED: chop
+
+
+SENTID: 6
+SENT: Place the potatoes into a large pot and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 7
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , 15 to 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain and refrigerate until cold .
+PREDID: 0
+PRED: drain
+  PARG: cold
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 9
+SENT: Peel and cube once cold .
+PREDID: 0
+PRED: peel
+  OARG: once
+
+PREDID: 1
+PRED: cube
+  DOBJ: cold
+
+
+SENTID: 10
+SENT: Stir together the mayonnaise , ranch dressing , relish , mustard , salt , pepper , paprika , and celery seed in a mixing bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , ranch dressing , relish , mustard , salt , pepper , paprika , celery seed
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Add the eggs , potatoes , onion , pepperoncini , and olives ;
+PREDID: 0
+PRED: add
+  DOBJ: the eggs , potatoes , onion , pepperoncini , olives
+
+
+SENTID: 12
+SENT: stir until evenly mixed .
+PREDID: 0
+PRED: stir
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 13
+SENT: Cover and refrigerate at least 2 hours before serving .
+PREDID: 0
+PRED: cover
+  PARG: least 2 hours
+    PREP: at
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+

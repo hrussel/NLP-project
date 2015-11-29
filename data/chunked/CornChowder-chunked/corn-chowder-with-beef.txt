@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: In a medium skillet over medium-high heat , cook beef with onions until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: onions
+    PREP: with
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: In a large stock pot cook potatoes , until tender , in as little water as possible , about 20 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: potatoes
+  PARG: a large stock pot
+    PREP: in
+  PARG: tender , in as little water as possible , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add creamed corn , undrained corn , milk and beef mixture to potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: creamed corn , undrained corn , milk, beef mixture
+  PARG: potatoes
+    PREP: to
+
+
+SENTID: 3
+SENT: Simmer for 30 minutes and serve .
+PREDID: 0
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

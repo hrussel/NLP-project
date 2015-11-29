@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13 inch baking pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking pan
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , mix together sugar , oil , eggs , vanilla , and buttermilk .
+PREDID: 0
+PRED: mix
+  DOBJ: sugar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: oil
+  DOBJ: eggs , vanilla , buttermilk
+
+
+SENTID: 4
+SENT: Stir in carrots , coconut , vanilla , and pineapple .
+PREDID: 0
+PRED: stir
+  PARG: carrots , coconut , vanilla , pineapple
+    PREP: in
+
+
+SENTID: 5
+SENT: In a separate bowl , combine flour , baking soda , cinnamon , and salt ;
+PREDID: 0
+PRED: combine
+  DOBJ: flour , baking soda , cinnamon , salt
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: gently stir into carrot mixture .
+PREDID: 0
+PRED: stir
+  PARG: carrot mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 7
+SENT: Stir in chopped nuts .
+PREDID: 0
+PRED: stir
+  PARG: chopped nuts
+    PREP: in
+
+
+SENTID: 8
+SENT: Spread batter into prepared pan .
+PREDID: 0
+PRED: spread
+  DOBJ: batter
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake for 55 minutes or until toothpick inserted into cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 55 minutes
+    PREP: for
+  PARG: toothpick inserted into cake comes out clean
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove from oven , and set aside to cool .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 11
+SENT: In a medium mixing bowl , combine butter or margarine , cream cheese , vanilla , and confectioners sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: butter or margarine , cream cheese , vanilla , confectioners sugar
+  PARG: a medium mixing bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: Blend until creamy .
+PREDID: 0
+PRED: blend
+  PARG: creamy
+    PREP: until
+
+
+SENTID: 13
+SENT: Frost cake while still in the pan .
+PREDID: 0
+PRED: frost
+  DOBJ: cake
+  PARG: still
+    PREP: while
+  PARG: the pan
+    PREP: in
+

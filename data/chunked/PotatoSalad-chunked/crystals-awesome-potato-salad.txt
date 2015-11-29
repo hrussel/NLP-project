@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Place potatoes in a large saucepan with enough water to cover , and bring to a boil over high heat .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large saucepan
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Reduce heat to medium low , cover and simmer until potatoes are tender .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: potatoes are tender
+    PREP: until
+
+PREDID: 2
+PRED: simmer
+
+
+SENTID: 2
+SENT: Drain and cool ;
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: cut into 1-inch cubes .
+PREDID: 0
+PRED: cut
+  PARG: 1-inch cubes
+    PREP: into
+
+
+SENTID: 4
+SENT: In a large bowl , combine potatoes with onion , celery , roasted red pepper , pepperoncini and eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes
+  PARG: a large bowl
+    PREP: in
+  PARG: onion , celery , roasted red pepper , pepperoncini, eggs
+    PREP: with
+
+
+SENTID: 5
+SENT: In a small bowl , mix mayonnaise , sour cream , pickle relish , Dijon and yellow mustards , garlic , dill , parsley and red pepper flakes .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , sour cream , pickle relish , dijon, yellow mustards , garlic , dill , parsley, red pepper flakes
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour mixture over potatoes and stir gently to combine .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+  OARG: gently
+
+
+SENTID: 7
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Cover and chill for 2 hours before serving .
+PREDID: 0
+PRED: cover
+  PARG: 2 hours
+    PREP: for
+
+PREDID: 1
+PRED: chill
+  PARG: serving
+    PREP: before
+

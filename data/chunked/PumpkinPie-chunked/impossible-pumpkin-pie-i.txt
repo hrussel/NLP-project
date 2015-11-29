@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9 inch pie pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9 inch pie pan
+
+
+SENTID: 2
+SENT: In a medium mixing bowl , combine pumpkin , milk , sugar , baking mix , melted butter , eggs , allspice , cinnamon , cloves , and vanilla extract .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , milk , sugar , baking mix , melted butter , eggs , allspice , cinnamon , cloves , vanilla extract
+  PARG: a medium mixing bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Beat on medium speed 2 minutes , until mixture is smooth .
+PREDID: 0
+PRED: beat
+  PARG: medium speed 2 minutes
+    PREP: on
+  PARG: mixture is smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour mixture into pan .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in preheated oven for 50 to 55 minutes , until set in center .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 to 55 minutes
+    PREP: for
+  PARG: set in center
+    PREP: until
+
+
+SENTID: 6
+SENT: Allow to cool before serving .
+PREDID: 0
+PRED: allow
+  PARG: serving
+    PREP: before
+  OARG: to cool
+

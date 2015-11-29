@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Place equal portions of spinach onto four salad plates .
+PREDID: 0
+PRED: place
+  DOBJ: equal portions of spinach
+  PARG: four salad plates
+    PREP: onto
+
+
+SENTID: 1
+SENT: Arrange chicken , zucchini , bell pepper , and black olives over spinach , and top with cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken , zucchini , bell pepper , black olives
+  PARG: spinach
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 2
+SENT: Drizzle dressing over salad .
+PREDID: 0
+PRED: drizzle
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+

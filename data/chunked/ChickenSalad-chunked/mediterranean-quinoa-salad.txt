@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Bring the water , bouillon cubes , and garlic to a boil in a saucepan .
+PREDID: 0
+PRED: bring
+  DOBJ: the water , bouillon cubes , garlic
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in the quinoa , reduce heat to medium-low , cover , and simmer until the quinoa is tender and the water has been absorbed , 15 to 20 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the quinoa , reduce heat
+    PREP: in
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the quinoa is tender, the water has been absorbed , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Discard the garlic clove and scrape the quinoa into a large bowl .
+PREDID: 0
+PRED: discard
+  DOBJ: the garlic clove
+
+PREDID: 1
+PRED: scrape
+  DOBJ: the quinoa
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 3
+SENT: Gently stir the chicken , onion , bell pepper , olives , feta cheese , parsley , chives , and salt into the quinoa .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken , onion , bell pepper , olives , feta cheese , parsley , chives , salt
+  PARG: the quinoa
+    PREP: into
+  OARG: gently
+
+
+SENTID: 4
+SENT: Drizzle with the lemon juice , balsamic vinegar , and olive oil .
+PREDID: 0
+PRED: drizzle
+  PARG: the lemon juice , balsamic vinegar , olive oil
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir until evenly mixed .
+PREDID: 0
+PRED: stir
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve warm or refrigerate and serve cold .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: cold
+
+PREDID: 2
+PRED: serve
+

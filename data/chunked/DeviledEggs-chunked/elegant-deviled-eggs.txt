@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Slice eggs in half and remove yolks .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: yolks
+
+
+SENTID: 1
+SENT: Mash yolks with fork in medium bowl .
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: fork
+    PREP: with
+  PARG: medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Add mayonnaise , salt and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: mayonnaise , salt, pepper
+
+
+SENTID: 3
+SENT: Blend well .
+PREDID: 0
+PRED: blend
+  OARG: well
+
+
+SENTID: 4
+SENT: Fill egg whites with yolk mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: egg whites
+  PARG: yolk mixture
+    PREP: with
+
+
+SENTID: 5
+SENT: Top half the eggs with Pepper and Onion Relish and half with Cranberry Relish .
+PREDID: 0
+PRED: top
+  DOBJ: half the eggs
+  PARG: pepper, onion relish, half
+    PREP: with
+  PARG: cranberry relish
+    PREP: with
+
+
+SENTID: 6
+SENT: Chill before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+
+
+SENTID: 7
+SENT: Garnish with cilantro , if desired .
+PREDID: 0
+PRED: garnish
+  PARG: cilantro
+    PREP: with
+  PARG: desired
+    PREP: if
+

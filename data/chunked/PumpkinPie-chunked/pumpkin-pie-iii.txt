@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Mix together pumpkin , brown sugar , salt , cinnamon , ginger , and molasses .
+PREDID: 0
+PRED: mix
+  DOBJ: pumpkin , brown sugar , salt , cinnamon , ginger , molasses
+  OARG: together
+
+
+SENTID: 1
+SENT: Blend in eggs and evaporated milk .
+PREDID: 0
+PRED: blend
+  PARG: eggs, evaporated milk
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake at 425 degrees F -LRB- 220 degrees C -RRB- for 40 minutes , or until set .
+PREDID: 0
+PRED: bake
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: at
+  PARG: 40 minutes
+    PREP: for
+  PARG: set
+    PREP: until
+

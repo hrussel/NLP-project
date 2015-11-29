@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Place the potatoes in a large pot , and fill with about 1 inch of water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: about 1 inch of water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook for about 15 minutes , or until potatoes are tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 15 minutes
+    PREP: for
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Throw in the green beans to steam after the first 10 minutes .
+PREDID: 0
+PRED: throw
+  PARG: the green beans
+    PREP: in
+  PARG: steam
+    PREP: to
+  PARG: the first 10 minutes
+    PREP: after
+
+
+SENTID: 3
+SENT: Drain , cool , and cut potatoes into quarters .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  DOBJ: potatoes
+  PARG: quarters
+    PREP: into
+
+
+SENTID: 4
+SENT: Transfer to a large bowl , and toss with fresh basil , red onion , salt and pepper .
+PREDID: 0
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  PARG: fresh basil , red onion , salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: In a medium bowl , whisk together the balsamic vinegar , mustard , lemon juice , garlic , Worcestershire sauce and olive oil .
+PREDID: 0
+PRED: whisk
+  DOBJ: the balsamic vinegar , mustard , lemon juice , garlic , worcestershire sauce, olive oil
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Pour over the salad , and stir to coat .
+PREDID: 0
+PRED: pour
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 8
+SENT: Taste and season with additional salt and pepper if needed .
+PREDID: 0
+PRED: taste
+  PARG: additional salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: season
+  PARG: needed
+    PREP: if
+

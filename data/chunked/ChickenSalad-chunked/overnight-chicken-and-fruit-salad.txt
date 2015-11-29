@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Combine chicken , grapes , pineapple chunks , celery , and water chestnuts in a large salad bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , grapes , pineapple chunks , celery , water chestnuts
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix mayonnaise , soy sauce , lemon juice , and curry powder in a separate bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , soy sauce , lemon juice , curry powder
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour dressing over salad and toss lightly to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: lightly
+
+
+SENTID: 3
+SENT: Cover and chill 8 hours to overnight .
+PREDID: 0
+PRED: cover
+  OARG: 8 hours
+
+PREDID: 1
+PRED: chill
+  OARG: to overnight
+
+
+SENTID: 4
+SENT: Stir almonds into salad just before serving ;
+PREDID: 0
+PRED: stir
+  DOBJ: almonds
+  PARG: salad
+    PREP: into
+  PARG: serving
+    PREP: before
+  OARG: just
+
+
+SENTID: 5
+SENT: garnish with papaya and avocado slices .
+PREDID: 0
+PRED: garnish
+  PARG: papaya, avocado slices
+    PREP: with
+

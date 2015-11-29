@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Melt butter in a 4-quart pot .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a 4-quart pot
+    PREP: in
+
+
+SENTID: 1
+SENT: Add leeks -LRB- strips of the white and pale green parts only -RRB- and celery and cook over medium heat , stirring frequently , 5 to 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: leeks -lrb- strips of the white, pale green parts
+  OARG: only
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat , stirring
+    PREP: over
+  OARG: frequently
+  OARG: 5 to 7 minutes
+
+
+SENTID: 2
+SENT: Add potatoes and broth ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes, broth
+
+
+SENTID: 3
+SENT: Stir in corn , milk , cream , salt , and pepper , and nutmeg and cook until potatoes are very tender , about 10 minutes more .
+PREDID: 0
+PRED: stir
+  PARG: corn , milk , cream , salt , pepper , nutmeg
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: potatoes are very tender , about 10 minutes more
+    PREP: until
+
+
+SENTID: 4
+SENT: Meanwhile , brown ground sausage in a large skillet .
+PREDID: 0
+PRED: brown
+  DOBJ: ground sausage
+  PARG: a large skillet
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Remove sausage and grease from pot and reserve till later .
+PREDID: 0
+PRED: remove
+  DOBJ: sausage
+
+PREDID: 1
+PRED: grease
+  PARG: pot
+    PREP: from
+
+PREDID: 2
+PRED: reserve
+  PARG: later
+    PREP: till
+
+
+SENTID: 6
+SENT: Stir sausage into soup just before serving .
+PREDID: 0
+PRED: stir
+  DOBJ: sausage
+  PARG: soup
+    PREP: into
+  PARG: serving
+    PREP: before
+  OARG: just
+

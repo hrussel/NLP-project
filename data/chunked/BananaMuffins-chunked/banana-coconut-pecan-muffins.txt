@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees and line muffin pans with muffin/cupcake liners .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees
+    PREP: to
+
+PREDID: 1
+PRED: line
+  DOBJ: muffin pans
+  PARG: muffin/cupcake liners
+    PREP: with
+
+
+SENTID: 1
+SENT: In a small bowl , combine flour , baking soda and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , baking soda, salt
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir and set aside .
+PREDID: 0
+PRED: stir
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: In a larger bowl , mix sugar and oil together then add mashed bananas .
+PREDID: 0
+PRED: mix
+  DOBJ: sugar, oil
+  PARG: a larger bowl
+    PREP: in
+  OARG: together
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: mashed bananas
+
+
+SENTID: 4
+SENT: Note :
+PREDID: 0
+PRED: note
+
+
+SENTID: 5
+SENT: To your wet mix also add coconut milk and vanilla , stirring until everything is thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: coconut milk, vanilla , stirring
+  PARG: your wet
+    PREP: to
+  OARG: also
+
+PREDID: 1
+PRED: add
+  PARG: everything is thoroughly combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Add flour mixture to wet mixture and stir lightly , then add pecans and coconut .
+PREDID: 0
+PRED: add
+  DOBJ: flour mixture
+  PARG: wet mixture
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  OARG: lightly
+  OARG: then
+
+PREDID: 2
+PRED: add
+  DOBJ: pecans, coconut
+
+
+SENTID: 7
+SENT: Stir until everything is just combined .
+PREDID: 0
+PRED: stir
+  PARG: everything is just combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Note :
+PREDID: 0
+PRED: note
+
+
+SENTID: 9
+SENT: Spoon batter into muffin tins about 3/4 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: muffin tins
+    PREP: into
+  PARG: 3/4 full
+    PREP: about
+
+
+SENTID: 10
+SENT: Bake for 20-25 minutes until muffins are golden brown on top .
+PREDID: 0
+PRED: bake
+  PARG: 20-25 minutes
+    PREP: for
+  PARG: muffins are golden brown on top
+    PREP: until
+

@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Combine the ground beef , bread crumbs , Romano cheese , barbeque sauce , beer , egg , green onion , basil , Worcestershire sauce , garlic , salt and pepper in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , bread crumbs , romano cheese , barbeque sauce , beer , egg , green onion , basil , worcestershire sauce , garlic , salt, pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix lightly using your hands , then form into 8 patties .
+PREDID: 0
+PRED: mix
+  DOBJ: using your hands
+  OARG: lightly
+  OARG: then
+
+PREDID: 1
+PRED: form
+  PARG: 8 patties
+    PREP: into
+
+
+SENTID: 3
+SENT: Lightly brush the grill grate with oil and place patties on the grill .
+PREDID: 0
+PRED: brush
+  DOBJ: the grill grate
+  PARG: oil
+    PREP: with
+  OARG: lightly
+
+PREDID: 1
+PRED: place
+  DOBJ: patties
+  PARG: the grill
+    PREP: on
+
+
+SENTID: 4
+SENT: Cook until no longer pink in the center , 7 to 8 minutes per side for well done .
+PREDID: 0
+PRED: cook
+  PARG: no longer pink in the center , 7 to 8 minutes per side for well done
+    PREP: until
+

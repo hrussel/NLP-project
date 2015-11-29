@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: In a bowl , mix the water , oil , and yeast .
+PREDID: 0
+PRED: mix
+  DOBJ: the water , oil , yeast
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in the flour .
+PREDID: 0
+PRED: stir
+  PARG: the flour
+    PREP: in
+
+
+SENTID: 2
+SENT: Roll into a ball , and transfer to a well-oiled bowl .
+PREDID: 0
+PRED: roll
+  PARG: a ball
+    PREP: into
+
+PREDID: 1
+PRED: transfer
+  PARG: a well-oiled bowl
+    PREP: to
+
+
+SENTID: 3
+SENT: Allow to rise 1 hour in a warm location , or until doubled in size .
+PREDID: 0
+PRED: allow
+  PARG: rise 1 hour
+    PREP: to
+  PARG: a warm location
+    PREP: in
+  PARG: doubled in size
+    PREP: until
+
+
+SENTID: 4
+SENT: Thoroughly grease a deep dish pizza pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a deep dish pizza pan
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Punch down dough , and transfer to the pan .
+PREDID: 0
+PRED: punch
+  DOBJ: dough
+  OARG: down
+
+PREDID: 1
+PRED: transfer
+  PARG: the pan
+    PREP: to
+
+
+SENTID: 6
+SENT: Cover dough with a cloth , and allow crust to rise 25 minutes , until puffy .
+PREDID: 0
+PRED: cover
+  DOBJ: dough
+  PARG: a cloth
+    PREP: with
+
+PREDID: 1
+PRED: allow
+  DOBJ: crust
+  PARG: rise 25 minutes
+    PREP: to
+  PARG: puffy
+    PREP: until
+
+
+SENTID: 7
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: In a saucepan over low heat , mix the cream , butter , and cream cheese , stirring constantly , until melted and well-blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the cream , butter , cream cheese , stirring
+  PARG: a saucepan
+    PREP: in
+  PARG: low heat
+    PREP: over
+  PARG: melted, well-blended
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 9
+SENT: Mix in Parmesan cheese and garlic powder .
+PREDID: 0
+PRED: mix
+  PARG: parmesan cheese, garlic powder
+    PREP: in
+
+
+SENTID: 10
+SENT: Continue to cook and stir 15 minutes , or until Parmesan is lightly browned .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: parmesan is lightly browned
+    PREP: until
+  OARG: 15 minutes
+
+
+SENTID: 11
+SENT: Spread over the pizza crust .
+PREDID: 0
+PRED: spread
+  PARG: the pizza crust
+    PREP: over
+
+
+SENTID: 12
+SENT: Top with mozzarella cheese .
+PREDID: 0
+PRED: top
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake 35 minutes in the preheated oven , until crust is lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: crust is lightly browned
+    PREP: until
+  OARG: 35 minutes
+

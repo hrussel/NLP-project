@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Place potatoes in saucepan .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Heat to a boil .
+PREDID: 0
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook over low heat 20 minutes or until potatoes are tender .
+PREDID: 0
+PRED: cook
+  PARG: low heat 20 minutes
+    PREP: over
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Cool and cut into cubes .
+PREDID: 0
+PRED: cool
+  PARG: cubes
+    PREP: into
+
+PREDID: 1
+PRED: cut
+
+
+SENTID: 6
+SENT: Mix broth , vinegar , flour , sugar , celery seed , salt and black pepper in saucepan .
+PREDID: 0
+PRED: mix
+  DOBJ: broth , vinegar , flour , sugar , celery seed , salt, black pepper
+  PARG: saucepan
+    PREP: in
+
+
+SENTID: 7
+SENT: Add onion .
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+
+SENTID: 8
+SENT: Cook until mixture boils and thickens , stirring constantly .
+PREDID: 0
+PRED: cook
+  PARG: mixture boils, thickens , stirring constantly
+    PREP: until
+
+
+SENTID: 9
+SENT: Cook over low heat 5 minutes or until onion is tender .
+PREDID: 0
+PRED: cook
+  PARG: low heat 5 minutes
+    PREP: over
+  PARG: onion is tender
+    PREP: until
+
+
+SENTID: 10
+SENT: Toss potatoes , parsley and broth mixture until evenly coated .
+PREDID: 0
+PRED: toss
+  DOBJ: potatoes , parsley, broth mixture
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 11
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

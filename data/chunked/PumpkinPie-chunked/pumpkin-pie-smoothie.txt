@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: Remove pumpkin from can and freeze for 1 hour .
+PREDID: 0
+PRED: remove
+  DOBJ: pumpkin
+  PARG: can
+    PREP: from
+
+PREDID: 1
+PRED: freeze
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 1
+SENT: In a blender combine partially frozen pumpkin , frozen apple juice concentrate , nutmeg and cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: frozen pumpkin , frozen apple juice concentrate , nutmeg, cinnamon
+  PARG: a blender
+    PREP: in
+  OARG: partially
+
+
+SENTID: 2
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Continue to blend while adding water to fill the blender .
+PREDID: 0
+PRED: continue
+  PARG: blend
+    PREP: to
+  PARG: adding water
+    PREP: while
+  PARG: fill the blender
+    PREP: to
+

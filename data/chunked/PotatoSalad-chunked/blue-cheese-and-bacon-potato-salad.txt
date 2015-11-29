@@ -1,0 +1,199 @@
+SENTID: 0
+SENT: Fill a large bowl with iced water .
+PREDID: 0
+PRED: fill
+  DOBJ: a large bowl
+  PARG: iced water
+    PREP: with
+
+
+SENTID: 1
+SENT: Line a baking sheet with a dish towel .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: a dish towel
+    PREP: with
+
+
+SENTID: 2
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 3
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Reduce heat to medium-low and simmer until tender , about 18 to 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 18 to 20 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Add green beans to the boiling water ;
+PREDID: 0
+PRED: add
+  DOBJ: green beans
+  PARG: the boiling water
+    PREP: to
+
+
+SENTID: 6
+SENT: blanch for just 1 minute .
+PREDID: 0
+PRED: blanch
+  PARG: just 1 minute
+    PREP: for
+
+
+SENTID: 7
+SENT: Drain potatoes and green beans ;
+PREDID: 0
+PRED: drain
+  DOBJ: potatoes, green beans
+
+
+SENTID: 8
+SENT: transfer to bowl of iced water to stop cooking process , about 5 minutes .
+PREDID: 0
+PRED: transfer
+  PARG: bowl of iced water
+    PREP: to
+  PARG: stop cooking
+    PREP: to
+
+PREDID: 1
+PRED: process
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 9
+SENT: Remove from iced water with a slotted spoon and place on prepared baking sheet to dry .
+PREDID: 0
+PRED: remove
+  PARG: iced water
+    PREP: from
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: prepared baking sheet
+    PREP: on
+  PARG: dry
+    PREP: to
+
+
+SENTID: 10
+SENT: Cut potatoes into quarters .
+PREDID: 0
+PRED: cut
+  DOBJ: potatoes
+  PARG: quarters
+    PREP: into
+
+
+SENTID: 11
+SENT: Place the bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 12
+SENT: Drain and cool bacon slices on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: bacon slices
+
+PREDID: 1
+PRED: cool
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 13
+SENT: crumble .
+PREDID: 0
+PRED: crumble
+
+
+SENTID: 14
+SENT: Whisk vinegar , olive oil , mayonnaise , and mustard together in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: vinegar , olive oil , mayonnaise , mustard
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 15
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 16
+SENT: Add potatoes and green beans ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes, green beans
+
+
+SENTID: 17
+SENT: stir to coat .
+PREDID: 0
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 18
+SENT: Top with bacon , blue cheese , and green onions ;
+PREDID: 0
+PRED: top
+  PARG: bacon , blue cheese , green onions
+    PREP: with
+
+
+SENTID: 19
+SENT: stir once to incorporate .
+PREDID: 0
+PRED: stir
+  OARG: once
+  OARG: to incorporate
+

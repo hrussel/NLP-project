@@ -1,0 +1,131 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 52	Bring
+T3	predicate 100 103	Add
+T4	predicate 114 118	cook
+T5	predicate 158 163	drain
+T6	predicate 196 201	brown
+T7	predicate 239 244	drain
+T8	predicate 257 264	Stir in
+T9	predicate 324 333	set aside
+T10	predicate 358 362	melt
+T11	predicate 402 407	Saute
+T12	predicate 463 470	combine
+T13	predicate 532 537	Place
+T14	predicate 603 610	Drizzle
+T15	predicate 642 647	Cover
+T16	predicate 669 673	Toss
+T17	predicate 726 732	spread
+T18	predicate 754 759	Cover
+T19	predicate 779 783	Bake
+T20	arg_location 784 801	in preheated oven
+T21	Evolution 787 801	preheated oven
+E1	Evolution:T21 Cause:T1
+R1	location Arg1:T19 Arg2:T20	
+T22	arg_duration 802 833	for 40 minutes, or until bubbly
+R2	duration Arg1:T19 Arg2:T22	
+R3	object Arg1:T19 Arg2:T18	
+T23	arg_co-object 760 777	with meat mixture
+R4	co-object Arg1:T18 Arg2:T23	
+R5	object Arg1:T18 Arg2:T17	
+T24	Evolution 765 777	meat mixture
+E2	Evolution:T24 Cause:T9
+T25	arg_object 674 691	remaining noodles
+T26	arg_co-object 692 720	with remaining melted butter
+R6	object Arg1:T16 Arg2:T25	
+R7	co-object Arg1:T16 Arg2:T26	
+T27	Evolution 697 720	remaining melted butter
+E3	Evolution:T27 Cause:T11
+T28	Evolution 674 691	remaining noodles
+E4	Evolution:T28 Cause:T5
+R8	object Arg1:T17 Arg2:T16	
+T29	arg_co-object 733 752	over cheese mixture
+R9	co-object Arg1:T17 Arg2:T29	
+T30	Evolution 738 752	cheese mixture
+E5	Evolution:T30 Cause:T15
+R10	object Arg1:T15 Arg2:T14	
+T31	arg_co-object 648 667	with cheese mixture
+R11	co-object Arg1:T15 Arg2:T31	
+T32	Evolution 653 667	cheese mixture
+E6	Evolution:T32 Cause:T12
+T33	arg_co-object 611 640	with 1/2 of the melted butter
+R12	co-object Arg1:T14 Arg2:T33	
+R13	object Arg1:T14 Arg2:T13	
+T34	Evolution 616 640	1/2 of the melted butter
+E7	Evolution:T34 Cause:T11
+T35	arg_object 538 559	1/2 of cooked noodles
+T36	arg_location 560 601	in the bottom of a 2 quart casserole dish
+R14	object Arg1:T13 Arg2:T35	
+R15	location Arg1:T13 Arg2:T36	
+T37	Evolution 538 559	1/2 of cooked noodles
+E8	Evolution:T37 Cause:T5
+T38	arg_location 445 461	In a medium bowl
+R16	location Arg1:T12 Arg2:T38	
+T39	arg_object 471 485	cottage cheese
+T40	arg_object 487 499	cream cheese
+T41	arg_object 501 511	sour cream
+T42	arg_object 516 530	sauteed onions
+T43	Evolution 516 530	sauteed onions
+E9	Evolution:T43 Cause:T11
+R17	object Arg1:T12 Arg2:T39	
+R18	object Arg1:T12 Arg2:T40	
+R19	object Arg1:T12 Arg2:T41	
+R20	object Arg1:T12 Arg2:T42	
+T44	arg_object 408 425	the chopped onion
+R21	object Arg1:T11 Arg2:T44	
+T45	arg_duration 426 443	until translucent
+R22	duration Arg1:T11 Arg2:T45	
+T46	arg_object 363 383	2 tablespoons butter
+R23	object Arg1:T10 Arg2:T46	
+T47	arg_other 384 400	over medium heat
+R24	other Arg1:T10 Arg2:T47	
+T48	arg_location 335 356	In a separate skillet
+R25	location Arg1:T10 Arg2:T48	
+R26	co-object Arg1:T11 Arg2:T10	
+R27	object Arg1:T9 Arg2:T8	
+T49	arg_object 265 277	tomato paste
+T50	arg_object 279 299	Worcestershire sauce
+T51	arg_object 301 310	hot sauce
+T52	arg_object 315 322	oregano
+R28	object Arg1:T8 Arg2:T49	
+R29	object Arg1:T8 Arg2:T50	
+R30	object Arg1:T8 Arg2:T51	
+R31	object Arg1:T8 Arg2:T52	
+R32	co-object Arg1:T8 Arg2:T7	
+T53	arg_object 245 255	excess fat
+R33	object Arg1:T7 Arg2:T53	
+R34	co-object Arg1:T7 Arg2:T6	
+T54	arg_location 165 194	In a skillet over medium heat
+R35	location Arg1:T6 Arg2:T54	
+T55	arg_object 202 217	the ground beef
+T56	arg_duration 218 237	until no pink shows
+R36	object Arg1:T6 Arg2:T55	
+R37	duration Arg1:T6 Arg2:T56	
+T57	arg_object 104 109	pasta
+R38	object Arg1:T3 Arg2:T57	
+R39	co-object Arg1:T3 Arg2:T2	
+R40	object Arg1:T4 Arg2:T3	
+T58	arg_duration 119 156	for 8 to 10 minutes or until al dente
+R41	duration Arg1:T4 Arg2:T58	
+R42	object Arg1:T5 Arg2:T4	
+T59	arg_object 53 88	a large pot of lightly salted water
+R43	object Arg1:T2 Arg2:T59	
+T60	arg_other 89 98	to a boil
+R44	other Arg1:T2 Arg2:T60	
+T61	arg_object 8 12	oven
+T62	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R45	object Arg1:T1 Arg2:T61	
+R46	duration Arg1:T1 Arg2:T62	
+T63	ingredient 104 109	pasta
+T64	ingredient 202 217	the ground beef
+T65	Evolution 245 255	excess fat
+E10	Evolution:T65 Cause:T6
+T66	ingredient 265 277	tomato paste
+T67	ingredient 279 299	Worcestershire sauce
+T68	ingredient 301 310	hot sauce
+T69	ingredient 315 322	oregano
+T70	ingredient 363 383	2 tablespoons butter
+T71	ingredient 408 425	the chopped onion
+T72	ingredient 471 485	cottage cheese
+T73	ingredient 487 499	cream cheese
+T74	ingredient 501 511	sour cream
+T75	ingredient 53 88	a large pot of lightly salted water

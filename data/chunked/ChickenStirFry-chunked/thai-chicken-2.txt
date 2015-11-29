@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Place the rice noodles in a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the rice noodles
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Pour the boiling water over the noodles ;
+PREDID: 0
+PRED: pour
+  DOBJ: the boiling water
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Heat the oil in a large wok or skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large wok or skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Cook and stir the onion , zucchini , and mushrooms until softened ;
+PREDID: 0
+PRED: cook
+  DOBJ: the onion , zucchini , mushrooms
+
+PREDID: 1
+PRED: stir
+  PARG: softened
+    PREP: until
+
+
+SENTID: 5
+SENT: remove from skillet , reserving the oil , and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: reserving the oil , set
+  PARG: skillet
+    PREP: from
+  OARG: aside
+
+
+SENTID: 6
+SENT: Reheat the remaining oil in the skillet .
+PREDID: 0
+PRED: reheat
+  DOBJ: the remaining oil
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 7
+SENT: Cook and stir the chicken in the hot oil until no longer pink , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: no longer pink , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Return the vegetable mixture to the skillet and add the fish sauce , curry paste , and sugar ;
+PREDID: 0
+PRED: return
+  DOBJ: the vegetable mixture
+  PARG: the skillet
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: the fish sauce , curry paste , sugar
+
+
+SENTID: 9
+SENT: stir to coat the chicken and vegetables with sauce .
+PREDID: 0
+PRED: stir
+  PARG: coat the chicken, vegetables
+    PREP: to
+  PARG: sauce
+    PREP: with
+
+
+SENTID: 10
+SENT: Drain the rice noodles and add to the mixture .
+PREDID: 0
+PRED: drain
+  DOBJ: the rice noodles
+
+PREDID: 1
+PRED: add
+  PARG: the mixture
+    PREP: to
+
+
+SENTID: 11
+SENT: Pour the coconut milk into the skillet and stir to combine .
+PREDID: 0
+PRED: pour
+  DOBJ: the coconut milk
+  PARG: the skillet
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 12
+SENT: Sprinkle with cilantro to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: cilantro
+    PREP: with
+  PARG: serve
+    PREP: to
+

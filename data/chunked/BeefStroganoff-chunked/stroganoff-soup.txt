@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add egg noodles and cook for 8 to 10 minutes , or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and rinse under hot water .
+PREDID: 0
+PRED: drain
+  PARG: hot water
+    PREP: under
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: In a slow cooker , combine the soup , 2Ê2/3 cup -LRB- or 2 soup cans -RRB- of water , sour cream and steak sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the soup , 2Ê2/3 cup -lrb- or 2 soup cans -rrb- of water , sour cream, steak sauce
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix until smooth .
+PREDID: 0
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Add cooked steak pieces , onions and cooked noodles .
+PREDID: 0
+PRED: add
+  DOBJ: cooked steak pieces , onions, cooked noodles
+
+
+SENTID: 6
+SENT: Cook on low for 2 hours , or to desired taste and consistency .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 2 hours
+    PREP: for
+  PARG: desired taste, consistency
+    PREP: to
+
+
+SENTID: 7
+SENT: In a large skillet , brown the round steak pieces with the onion to desired doneness .
+PREDID: 0
+PRED: brown
+  DOBJ: the round steak pieces
+  PARG: a large skillet
+    PREP: in
+  PARG: the onion
+    PREP: with
+  PARG: desired doneness
+    PREP: to
+

@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook egg noodles until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large bowl mix together the cottage cheese , sour cream , minced onion , garlic , Worcestershire sauce , red pepper sauce , and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: the cottage cheese , sour cream , minced onion , garlic , worcestershire sauce , red pepper sauce , salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in cooked egg noodles .
+PREDID: 0
+PRED: stir
+  PARG: cooked egg noodles
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour into a greased 2 quart casserole dish .
+PREDID: 0
+PRED: pour
+  PARG: a greased 2 quart casserole dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in a preheated 350 degree F -LRB- 175 degrees C -RRB- for 30 minutes , or until heated through and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degree f -lrb- 175 degrees c -rrb-
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: heated through, bubbly
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

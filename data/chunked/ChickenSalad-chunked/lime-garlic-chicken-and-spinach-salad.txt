@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Place chicken , onions , garlic , salt , pepper , and flour in a resealable bag .
+PREDID: 0
+PRED: place
+  DOBJ: chicken , onions , garlic , salt , pepper , flour
+  PARG: a resealable bag
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in the lime juice .
+PREDID: 0
+PRED: stir
+  PARG: the lime juice
+    PREP: in
+
+
+SENTID: 2
+SENT: Allow to sit for a few minutes to marinate .
+PREDID: 0
+PRED: allow
+  PARG: a few minutes
+    PREP: for
+  OARG: to sit
+  OARG: to marinate
+
+
+SENTID: 3
+SENT: Spray a non-stick frying pan with olive oil cooking spray and place over medium heat .
+PREDID: 0
+PRED: spray
+  DOBJ: a non-stick frying pan
+  PARG: olive oil cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Pour in the entire contents of the bag and cook until the onion has softened -LRB- there is no need to brown -RRB- .
+PREDID: 0
+PRED: pour
+  PARG: the entire contents of the bag
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: the onion has softened -lrb- there is no need to brown -rrb-
+    PREP: until
+
+
+SENTID: 5
+SENT: Add additional lime juice to taste .
+PREDID: 0
+PRED: add
+  DOBJ: additional lime juice
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Serve over spinach .
+PREDID: 0
+PRED: serve
+  PARG: spinach
+    PREP: over
+

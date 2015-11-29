@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Beat the eggs .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+
+
+SENTID: 1
+SENT: Stir in melted butter , syrup , sugar , salt , and vanilla .
+PREDID: 0
+PRED: stir
+  PARG: melted butter , syrup , sugar , salt , vanilla
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Stir in oats .
+PREDID: 0
+PRED: stir
+  PARG: oats
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour filling into crust .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: crust
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 35 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 35 to 40 minutes
+    PREP: for
+

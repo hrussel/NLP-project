@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Heat oven to 375 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 375 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin tin wells or line with paper cups . In a large bowl , mix avocado , bananas , eggs and milk .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin tin wells
+
+PREDID: 1
+PRED: line
+  PARG: paper cups
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 2
+PRED: mix
+  DOBJ: avocado , bananas , eggs, milk
+
+
+SENTID: 2
+SENT: In a separate bowl , whisk or sift together flour , sugar , baking soda and salt .
+PREDID: 0
+PRED: whisk
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: sift
+  DOBJ: flour , sugar , baking soda, salt
+
+
+SENTID: 3
+SENT: Stir into avocado mixture ;
+PREDID: 0
+PRED: stir
+  PARG: avocado mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: Stir in walnuts .
+PREDID: 0
+PRED: stir
+  PARG: walnuts
+    PREP: in
+
+
+SENTID: 5
+SENT: Spoon batter into prepared muffin tin ;
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin tin
+    PREP: into
+
+
+SENTID: 6
+SENT: bake 15 to 20 minutes or until tops start to brown and a toothpick inserted into a muffin comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: tops start to brown, a toothpick inserted into a muffin comes out clean
+    PREP: until
+  OARG: 15 to 20 minutes
+

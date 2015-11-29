@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add the egg noodles , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Meanwhile , crumble the ground beef and pork into a large skillet over medium heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef, pork
+  PARG: a large skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Add the onion to the meat once there are juices in the pan .
+PREDID: 0
+PRED: add
+  DOBJ: are juices
+  PARG: the meat
+    PREP: to
+  PARG: the pan
+    PREP: in
+  OARG: once
+  OARG: there
+  OARG: the onion
+
+
+SENTID: 5
+SENT: Cook and stir until onion is tender and meat is no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: onion is tender, meat is no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 7
+SENT: Transfer the meat and onion to a 9x13 inch baking dish , and mix in the egg noodles , cheese , tomato sauce , corn , green pepper and mushrooms .
+PREDID: 0
+PRED: transfer
+  DOBJ: the meat, onion
+  PARG: a 9x13 inch baking dish
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  PARG: the egg noodles , cheese , tomato sauce , corn , green pepper, mushrooms
+    PREP: in
+
+
+SENTID: 8
+SENT: Bake for 45 minutes in the preheated oven , until bubbling hot and lightly browned on the top .
+PREDID: 0
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbling hot, lightly browned on the top
+    PREP: until
+

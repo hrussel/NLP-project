@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: Finely chop the hard-cooked eggs and the pickles .
+PREDID: 0
+PRED: chop
+  DOBJ: the hard-cooked eggs, the pickles
+  OARG: finely
+
+
+SENTID: 4
+SENT: When they 're cool enough to handle , cube the potatoes and transfer them to a 9x13-inch dish .
+PREDID: 0
+PRED: cube
+  DOBJ: the potatoes
+  PARG: handle
+    PREP: to
+  OARG: when they 're cool
+  OARG: enough
+
+PREDID: 1
+PRED: transfer
+  DOBJ: them
+  PARG: a 9x13-inch dish
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir in the chopped eggs , pickles , mayonnaise , mustard , and the peas and carrots and mix gently to combine .
+PREDID: 0
+PRED: stir
+  PARG: the chopped eggs , pickles , mayonnaise , mustard , the peas, carrots
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: combine
+    PREP: to
+  OARG: gently
+
+
+SENTID: 6
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Serve immediately , or refrigerate the salad before serving .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: the salad
+  PARG: serving
+    PREP: before
+

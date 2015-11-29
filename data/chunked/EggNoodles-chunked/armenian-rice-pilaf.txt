@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Melt butter in large saucepan over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: large saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in the rice .
+PREDID: 0
+PRED: stir
+  PARG: the rice
+    PREP: in
+
+
+SENTID: 2
+SENT: Continue stirring until rice is coated with butter .
+PREDID: 0
+PRED: continue
+  DOBJ: stirring
+  PARG: rice is coated with butter
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour in the chicken broth and add the bouillon cubes .
+PREDID: 0
+PRED: pour
+  PARG: the chicken broth
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: the bouillon cubes
+
+
+SENTID: 4
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: reduce heat to low and cover tightly .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  OARG: tightly
+
+
+SENTID: 6
+SENT: Cook without uncovering pot until all the liquid has been absorbed , about 20 minutes .
+PREDID: 0
+PRED: cook
+  PARG: uncovering pot
+    PREP: without
+  PARG: all the liquid has been absorbed , about 20 minutes
+    PREP: until
+

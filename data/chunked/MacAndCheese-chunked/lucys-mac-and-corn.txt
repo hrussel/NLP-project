@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Mix together creamed corn , whole kernel corn , and uncooked macaroni .
+PREDID: 0
+PRED: mix
+  DOBJ: creamed corn , whole kernel corn , uncooked macaroni
+  OARG: together
+
+
+SENTID: 1
+SENT: Slice the butter or margarine , and mix into the corn mixture along with the cheese .
+PREDID: 0
+PRED: slice
+  DOBJ: the butter or margarine
+
+PREDID: 1
+PRED: mix
+  PARG: the corn mixture
+    PREP: into
+  PARG: with the cheese
+    PREP: along
+
+
+SENTID: 2
+SENT: Place in a buttered casserole dish .
+PREDID: 0
+PRED: place
+  PARG: a buttered casserole dish
+    PREP: in
+
+
+SENTID: 3
+SENT: Cover .
+PREDID: 0
+PRED: cover
+
+
+SENTID: 4
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Uncover , stir , and bake uncovered for 30 more minutes .
+PREDID: 0
+PRED: uncover
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: bake
+  DOBJ: uncovered
+  PARG: 30 more minutes
+    PREP: for
+

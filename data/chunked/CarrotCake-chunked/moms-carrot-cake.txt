@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: In a small saucepan , cover carrots with water .
+PREDID: 0
+PRED: cover
+  DOBJ: carrots
+  PARG: a small saucepan
+    PREP: in
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and cook until tender , about 15 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Let cool and mash .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+
+PREDID: 1
+PRED: mash
+
+
+SENTID: 3
+SENT: In a large mixing bowl , beat eggs .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Add vegetable oil , buttermilk , 2 cups white sugar and 2 teaspoons vanilla .
+PREDID: 0
+PRED: add
+  DOBJ: vegetable oil , buttermilk , 2 cups white sugar, 2 teaspoons vanilla
+
+
+SENTID: 5
+SENT: Add flour , baking soda , ground cinnamon and salt .
+PREDID: 0
+PRED: add
+  DOBJ: flour , baking soda , ground cinnamon, salt
+
+
+SENTID: 6
+SENT: Mix in pineapple , 2 cups mashed carrots , nuts and coconut .
+PREDID: 0
+PRED: mix
+  PARG: pineapple , 2 cups mashed carrots , nuts, coconut
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour into paper towel-lined 13 x 9 x 2-1/2 inch pan .
+PREDID: 0
+PRED: pour
+  PARG: paper towel-lined 13 x 9 x 2-1/2 inch pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 55 minutes , or until cake tests done .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 55 minutes
+    PREP: for
+  PARG: cake tests done
+    PREP: until
+
+
+SENTID: 9
+SENT: Place cake on a plate , and allow to cool completely before frosting .
+PREDID: 0
+PRED: place
+  DOBJ: cake
+  PARG: a plate
+    PREP: on
+
+PREDID: 1
+PRED: allow
+  PARG: frosting
+    PREP: before
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 10
+SENT: Combine cream cheese , melted butter , 1 teaspoon vanilla extract , and confectioners ' sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese , melted butter , 1 teaspoon vanilla extract , confectioners ' sugar
+
+
+SENTID: 11
+SENT: Spread on cooled cake .
+PREDID: 0
+PRED: spread
+  PARG: cooled cake
+    PREP: on
+
+
+SENTID: 12
+SENT: Cake tastes best after refrigerating overnight .
+PREDID: 0
+PRED: cake
+  DOBJ: tastes
+
+PREDID: 1
+PRED: best
+  PARG: refrigerating
+    PREP: after
+  OARG: overnight
+

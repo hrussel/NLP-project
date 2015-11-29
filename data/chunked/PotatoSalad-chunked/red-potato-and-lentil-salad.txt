@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Toss potatoes , 1 tablespoon olive oil , and salt together in a 9x13-inch baking dish until coated .
+PREDID: 0
+PRED: toss
+  DOBJ: potatoes , 1 tablespoon olive oil , salt
+  PARG: a 9x13-inch baking dish
+    PREP: in
+  PARG: coated
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Bake until the potatoes are easily pierced with a fork , about 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the potatoes are easily pierced with a fork , about 35 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Meanwhile , bring lentils , water , and salt to a boil in a saucepan .
+PREDID: 0
+PRED: bring
+  DOBJ: lentils , water , salt
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Reduce heat to medium-low and simmer until lentils are tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: lentils are tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Combine potatoes , lentils , red bell pepper , and green onions in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , lentils , red bell pepper , green onions
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Whisk yogurt , Dijon mustard , cider vinegar , 2 tablespoons olive oil , and turbinado sugar together ;
+PREDID: 0
+PRED: whisk
+  DOBJ: yogurt , dijon mustard , cider vinegar , 2 tablespoons olive oil , turbinado sugar
+  OARG: together
+
+
+SENTID: 8
+SENT: drizzle over potato mixture and toss to combine .
+PREDID: 0
+PRED: drizzle
+  PARG: potato mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 9
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+

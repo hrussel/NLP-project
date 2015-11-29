@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Mix mango , tomatoes , onion , jalapeno pepper , cilantro , and juice of 1 lime in a large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: mango , tomatoes , onion , jalapeno pepper , cilantro , juice of 1 lime
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Whisk olive oil , 1/4 cup lime juice , sugar , chipotle chile powder , cumin , and garlic powder together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: olive oil , 1/4 cup lime juice , sugar , chipotle chile powder , cumin , garlic powder
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Toss spinach leaves , broccoli coleslaw mix , chicken , red , green , and yellow bell peppers , cranberries , and pecans together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: spinach leaves , broccoli coleslaw mix , chicken , red , green , yellow bell peppers , cranberries , pecans
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Spread mango salsa and blue cheese on top .
+PREDID: 0
+PRED: spread
+  DOBJ: mango salsa, blue cheese
+  PARG: top
+    PREP: on
+
+
+SENTID: 6
+SENT: Drizzle lime dressing over salad and toss before serving .
+PREDID: 0
+PRED: drizzle
+  DOBJ: lime dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: serving
+    PREP: before
+

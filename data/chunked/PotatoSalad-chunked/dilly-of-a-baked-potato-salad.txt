@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add potatoes and cook until tender but still firm , about 15 to 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 4
+SENT: Peel potatoes and slice 1/4 inch thick ;
+PREDID: 0
+PRED: peel
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: slice
+  DOBJ: 1/4 inch thick
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Heat oil in a medium-size skillet ;
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a medium-size skillet
+    PREP: in
+
+
+SENTID: 7
+SENT: saute onion until soft .
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: soft
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in flour , mustard , celery seed and salt .
+PREDID: 0
+PRED: stir
+  PARG: flour , mustard , celery seed, salt
+    PREP: in
+
+
+SENTID: 9
+SENT: Gradually add water and vinegar ;
+PREDID: 0
+PRED: add
+  DOBJ: water, vinegar
+  OARG: gradually
+
+
+SENTID: 10
+SENT: cook over low heat , stirring constantly , until mixture boils and thickens .
+PREDID: 0
+PRED: cook
+  PARG: low heat , stirring
+    PREP: over
+  PARG: mixture boils, thickens
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 11
+SENT: In a mixing bowl , combine the potatoes , green pepper , carrots and dill ;
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , green pepper , carrots, dill
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: add sauce and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: sauce
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 13
+SENT: Spoon half the mixture into a shallow 8x8 inch baking dish and sprinkle with half the cheese .
+PREDID: 0
+PRED: spoon
+  DOBJ: half the mixture
+  PARG: a shallow 8x8 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: half the cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Cover with remaining potato mixture and cheese .
+PREDID: 0
+PRED: cover
+  PARG: remaining potato mixture
+    PREP: with
+
+PREDID: 1
+PRED: cheese
+
+
+SENTID: 15
+SENT: Bake uncovered at 350 degrees F -LRB- 175 degrees C -RRB- for 15 to 20 minutes , or until cheese is melted and vegetables are heated through .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 15 to 20 minutes
+    PREP: for
+  PARG: cheese is melted, vegetables are heated through
+    PREP: until
+

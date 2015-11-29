@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the rotini
+  PARG: a boil
+    PREP: at
+  PARG: tender yet firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Combine the rotini pasta , evaporated milk , American cheese , Cheddar cheese , canned green chiles , and chili powder in a slow cooker .
+PREDID: 0
+PRED: combine
+  DOBJ: the rotini pasta , evaporated milk , american cheese , cheddar cheese , canned green chiles , chili powder
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook on High , stirring twice , for 2 hours .
+PREDID: 0
+PRED: cook
+  PARG: high , stirring
+    PREP: on
+  PARG: 2 hours
+    PREP: for
+  OARG: twice
+
+
+SENTID: 5
+SENT: Stir tomatoes and green onions through the pasta mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: tomatoes, green onions
+
+
+SENTID: 6
+SENT: Continue cooking until the tomatoes are hot , 5 to 10 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: the tomatoes are hot , 5 to 10 minutes
+    PREP: until
+

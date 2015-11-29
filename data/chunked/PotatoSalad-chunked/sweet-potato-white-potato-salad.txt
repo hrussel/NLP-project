@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Place potatoes in two separate saucepans and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: two separate saucepans
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then turn heat to medium-low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: turn
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 2
+SENT: Cover , and cook until tender but still firm , 12 to 14 minutes for sweet potatoes , and 10 to 12 minutes for white potatoes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , 12 to 14 minutes for sweet potatoes , 10 to 12 minutes for white potatoes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and place in a large mixing bowl .
+PREDID: 0
+PRED: drain
+  PARG: a large mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: place
+
+
+SENTID: 4
+SENT: Sprinkle with vinegar , and cool .
+PREDID: 0
+PRED: sprinkle
+  PARG: vinegar
+    PREP: with
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 5
+SENT: To make the dressing , combine the mayonnaise , sour cream , lemon juice , and curry powder in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the mayonnaise , sour cream , lemon juice , curry powder
+  PARG: make the dressing
+    PREP: to
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Mix the green onions , celery , and cilantro with the potatoes .
+PREDID: 0
+PRED: mix
+  DOBJ: the green onions , celery , cilantro
+  PARG: the potatoes
+    PREP: with
+
+
+SENTID: 8
+SENT: Pour the dressing over the potato mixture , and toss to evenly coat vegetables .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potato mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: to evenly coat vegetables
+
+
+SENTID: 9
+SENT: Refrigerate at least 1 hour before serving to let flavors blend .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+  PARG: let flavors blend
+    PREP: to
+

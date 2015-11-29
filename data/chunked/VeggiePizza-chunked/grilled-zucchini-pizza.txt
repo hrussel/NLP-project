@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Slice the Zucchini into thick rounds .
+PREDID: 0
+PRED: slice
+  DOBJ: the zucchini
+  PARG: thick rounds
+    PREP: into
+
+
+SENTID: 1
+SENT: Combine the melted butter and crushed garlic in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the melted butter, crushed garlic
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: When the coals on your barbeque are almost burned down , lay your zucchini slices on the grill .
+PREDID: 0
+PRED: lay
+  DOBJ: your zucchini slices
+  PARG: your barbeque are
+    PREP: on
+  PARG: the grill
+    PREP: on
+  OARG: when the coals
+  OARG: almost
+  OARG: down
+  OARG: burned
+
+
+SENTID: 4
+SENT: Let cook for three minutes then turn over and brush the butter/garlic mixture on each slice .
+PREDID: 0
+PRED: let
+  DOBJ: cook
+  PARG: three minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: turn
+  PARG: and brush the butter/garlic mixture
+    PREP: over
+  PARG: each slice
+    PREP: on
+
+
+SENTID: 5
+SENT: Cook for three more minutes and turn over again and brush the other side with the garlic and butter .
+PREDID: 0
+PRED: cook
+  PARG: three more minutes
+    PREP: for
+
+PREDID: 1
+PRED: turn
+  PARG: again
+    PREP: over
+
+PREDID: 2
+PRED: brush
+  DOBJ: the other side
+  PARG: the garlic
+    PREP: with
+
+PREDID: 3
+PRED: butter
+
+
+SENTID: 6
+SENT: Cover the slices with pizza sauce and cheese and let cook until the cheese begins to melt .
+PREDID: 0
+PRED: cover
+  DOBJ: the slices
+  PARG: pizza sauce, cheese, let cook
+    PREP: with
+  PARG: the cheese begins to melt
+    PREP: until
+

@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Heat a large Dutch oven until hot over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large dutch oven
+  PARG: hot over high heat
+    PREP: until
+
+
+SENTID: 1
+SENT: Add the ground beef , and cook until barely pink , stirring constantly to break into small pieces . Stir in onions and bell pepper , cook until the meat has browned , and the onions have softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef
+
+PREDID: 1
+PRED: cook
+  PARG: barely pink , stirring constantly to break into small pieces . stir in onions, bell pepper
+    PREP: until
+
+PREDID: 2
+PRED: cook
+  PARG: the meat has browned , the onions have softened, turned translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour meat into a large mesh strainer and press to expel excess fat .
+PREDID: 0
+PRED: pour
+  DOBJ: meat
+  PARG: a large mesh strainer
+    PREP: into
+
+PREDID: 1
+PRED: press
+  OARG: to expel excess fat
+
+
+SENTID: 3
+SENT: Place meat back into Dutch oven along with stewed tomatoes , kidney beans , tomato sauce , and pineapple chunks ;
+PREDID: 0
+PRED: place
+  DOBJ: meat
+  PARG: dutch oven
+    PREP: into
+  PARG: with stewed tomatoes , kidney beans , tomato sauce , pineapple chunks
+    PREP: along
+  OARG: back
+
+
+SENTID: 4
+SENT: season with chili powder and salt .
+PREDID: 0
+PRED: season
+  PARG: chili powder, salt
+    PREP: with
+
+
+SENTID: 5
+SENT: Bring to a boil , then reduce heat to medium-low and simmer uncovered for 10 minutes , or until chili reaches desired consistency .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer uncovered
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+  PARG: chili reaches desired consistency
+    PREP: until
+

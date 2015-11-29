@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: In large saucepan , brown ground beef with onions ;
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: large saucepan
+    PREP: in
+  PARG: onions
+    PREP: with
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Add remaining ingredients except green pepper and kidney beans .
+PREDID: 0
+PRED: add
+  DOBJ: remaining ingredients
+  PARG: green pepper, kidney beans
+    PREP: except
+
+
+SENTID: 3
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: reduce heat .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 5
+SENT: Simmer uncovered 1 hour , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  OARG: uncovered 1 hour , stirring
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Stir in green pepper and kidney beans ;
+PREDID: 0
+PRED: stir
+  PARG: green pepper, kidney beans
+    PREP: in
+
+
+SENTID: 7
+SENT: simmer until thoroughly heated .
+PREDID: 0
+PRED: simmer
+  PARG: thoroughly heated
+    PREP: until
+

@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x9 inch baking pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x9 inch baking pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large saucepan of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large saucepan of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in egg noodles , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: stir
+  PARG: egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: In a medium bowl , thoroughly mix egg noodles with 1/4 cup butter , cream cheese , eggs , 1/2 cup sugar , and vanilla .
+PREDID: 0
+PRED: mix
+  DOBJ: egg noodles
+  PARG: a medium bowl
+    PREP: in
+  PARG: 1/4 cup butter , cream cheese , eggs , 1/2 cup sugar , vanilla
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 6
+SENT: Stir in apricot nectar and milk .
+PREDID: 0
+PRED: stir
+  PARG: apricot nectar, milk
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix in raisins .
+PREDID: 0
+PRED: mix
+  PARG: raisins
+    PREP: in
+
+
+SENTID: 8
+SENT: Transfer to the prepared baking pan .
+PREDID: 0
+PRED: transfer
+  PARG: the prepared baking pan
+    PREP: to
+
+
+SENTID: 9
+SENT: In a separate medium bowl , mix cornflake crumbs , 1/2 cup butter , 1/4 cup sugar , remaining vanilla , and cinnamon .
+PREDID: 0
+PRED: mix
+  DOBJ: cornflake crumbs , 1/2 cup butter , 1/4 cup sugar , remaining vanilla , cinnamon
+  PARG: a separate medium bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Spread over the egg noodle mixture .
+PREDID: 0
+PRED: spread
+  PARG: the egg noodle mixture
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake 45 minutes in the preheated oven , until bubbly and lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbly, lightly browned
+    PREP: until
+  OARG: 45 minutes
+

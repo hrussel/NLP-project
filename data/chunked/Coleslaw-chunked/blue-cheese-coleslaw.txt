@@ -1,0 +1,29 @@
+SENTID: 0
+SENT: In a large bowl , whisk together the mayonnaise , mustard , cheese , SPLENDA ¨ Granulated Sweetener , and vinegar .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , mustard , cheese , splenda ¨ granulated sweetener , vinegar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add the coleslaw mix , grapes , and carrots and stir until evenly coated .
+PREDID: 0
+PRED: add
+  DOBJ: the coleslaw mix , grapes , carrots
+
+PREDID: 1
+PRED: stir
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Chill until serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: until
+

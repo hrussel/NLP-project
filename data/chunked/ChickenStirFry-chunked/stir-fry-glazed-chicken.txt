@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: In a small bowl , whisk together the condensed milk , mayonnaise , sugar , vinegar , and honey until combined into a sauce ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the condensed milk , mayonnaise , sugar , vinegar , honey
+  PARG: a small bowl
+    PREP: in
+  PARG: combined into a sauce
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Combine the diced chicken and beaten eggs in a bowl and set aside .
+PREDID: 0
+PRED: combine
+  DOBJ: the diced chicken, beaten eggs
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Spread the flour in a shallow dish .
+PREDID: 0
+PRED: spread
+  DOBJ: the flour
+  PARG: a shallow dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Dredge the chicken pieces in the flour until evenly coated .
+PREDID: 0
+PRED: dredge
+  DOBJ: the chicken pieces
+  PARG: the flour
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 5
+SENT: Heat the canola oil in a skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the canola oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook the chicken in the heated oil for about 2 minutes , turning occasionally to brown evenly .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+  PARG: the heated oil
+    PREP: in
+  PARG: about 2 minutes , turning
+    PREP: for
+  PARG: brown
+    PREP: to
+  OARG: occasionally
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Stir in the sauce until the chicken is completely coated .
+PREDID: 0
+PRED: stir
+  PARG: the sauce
+    PREP: in
+  PARG: the chicken is completely coated
+    PREP: until
+
+
+SENTID: 8
+SENT: Cook and stir until chicken is golden brown on the outside and no longer pink inside , 12 to 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: chicken is golden brown on the outside, no longer pink inside , 12 to 15 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+

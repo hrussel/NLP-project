@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Toss drained noodles with 2 teaspoons of the oil .
+PREDID: 0
+PRED: toss
+  DOBJ: drained noodles
+  PARG: 2 teaspoons of the oil
+    PREP: with
+
+
+SENTID: 5
+SENT: Heat remaining oil in a skillet and saute onion over medium heat until soft .
+PREDID: 0
+PRED: heat
+  DOBJ: remaining oil
+  PARG: a skillet
+    PREP: in
+
+PREDID: 1
+PRED: saute
+  DOBJ: onion
+  PARG: medium heat
+    PREP: over
+  PARG: soft
+    PREP: until
+
+
+SENTID: 6
+SENT: Combine noodles , onion , mushrooms , ham , Swiss cheese , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: noodles , onion , mushrooms , ham , swiss cheese , salt, pepper
+
+
+SENTID: 7
+SENT: Transfer to a greased 3 quart casserole dish .
+PREDID: 0
+PRED: transfer
+  PARG: a greased 3 quart casserole dish
+    PREP: to
+
+
+SENTID: 8
+SENT: In a bowl mix together egg and milk ;
+PREDID: 0
+PRED: mix
+  DOBJ: egg, milk
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: pour over noodle mixture .
+PREDID: 0
+PRED: pour
+  PARG: noodle mixture
+    PREP: over
+
+
+SENTID: 10
+SENT: Sprinkle with parmesan cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in a preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+

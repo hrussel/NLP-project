@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Place the apples and onion into the bottom of a slow cooker , and sprinkle with 1/4 teaspoon cinnamon .
+PREDID: 0
+PRED: place
+  DOBJ: the apples, onion
+  PARG: the bottom of a slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: 1/4 teaspoon cinnamon
+    PREP: with
+
+
+SENTID: 1
+SENT: Rub the pork roast with salt and pepper , and place it on the layer of apples and onions in the slow cooker .
+PREDID: 0
+PRED: rub
+  DOBJ: the pork roast
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: place
+  DOBJ: it
+  PARG: the layer of apples, onions
+    PREP: on
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour the applesauce over the roast , and dust the top with 1/4 teaspoon cinnamon .
+PREDID: 0
+PRED: pour
+  DOBJ: the applesauce
+  PARG: the roast
+    PREP: over
+
+PREDID: 1
+PRED: dust
+  DOBJ: the top
+  PARG: 1/4 teaspoon cinnamon
+    PREP: with
+
+
+SENTID: 3
+SENT: Cook on High setting for 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: high setting
+    PREP: on
+  PARG: 8 hours
+    PREP: for
+
+
+SENTID: 4
+SENT: Serve the roast topped with the sauce , apples , and onions .
+PREDID: 0
+PRED: serve
+  DOBJ: the roast topped
+  PARG: the sauce , apples , onions
+    PREP: with
+

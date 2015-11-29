@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a large casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a large casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in shell pasta and cook 12 minutes , or until tender but still firm .
+PREDID: 0
+PRED: stir
+  PARG: shell pasta
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm
+    PREP: until
+  OARG: 12 minutes
+
+
+SENTID: 4
+SENT: Drain , and transfer to a large bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 5
+SENT: Mix cream of mushroom soup , Cheddar cheese , and pimentos with the pasta .
+PREDID: 0
+PRED: mix
+  DOBJ: cream of mushroom soup , cheddar cheese , pimentos
+  PARG: the pasta
+    PREP: with
+
+
+SENTID: 6
+SENT: Pour into the prepared casserole dish .
+PREDID: 0
+PRED: pour
+  PARG: the prepared casserole dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Top with crushed crackers .
+PREDID: 0
+PRED: top
+  PARG: crushed crackers
+    PREP: with
+
+
+SENTID: 8
+SENT: Cover dish , and bake 30 minutes in the preheated oven .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  OARG: 30 minutes
+
+
+SENTID: 9
+SENT: Remove cover , and continue baking 15 minutes , until cheese is bubbly and crackers are lightly browned .
+PREDID: 0
+PRED: remove
+  DOBJ: cover
+
+PREDID: 1
+PRED: continue
+  PARG: cheese is bubbly, crackers are lightly browned
+    PREP: until
+  OARG: baking 15 minutes
+

@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: In a small bowl , lightly beat the egg and vanilla together .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg, vanilla
+  PARG: a small bowl
+    PREP: in
+  OARG: lightly
+  OARG: together
+
+
+SENTID: 1
+SENT: Spread 1 tablespoon of peanut butter on top of each slice of bread .
+PREDID: 0
+PRED: spread
+  DOBJ: 1 tablespoon of peanut butter
+  PARG: top of each slice of bread
+    PREP: on
+
+
+SENTID: 2
+SENT: Place the banana slices on top of one of the slices of bread .
+PREDID: 0
+PRED: place
+  DOBJ: the banana slices
+  PARG: top of one of the slices of bread
+    PREP: on
+
+
+SENTID: 3
+SENT: Place the other slice of bread on top of the first , to make a peanut butter and banana sandwich .
+PREDID: 0
+PRED: place
+  DOBJ: the other slice of bread
+  PARG: top of the first
+    PREP: on
+  PARG: make a peanut butter, banana sandwich
+    PREP: to
+
+
+SENTID: 4
+SENT: In a skillet or frying pan , melt the butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a skillet or frying pan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Dip the sandwich into the egg mixture and place in the heated skillet .
+PREDID: 0
+PRED: dip
+  DOBJ: the sandwich
+  PARG: the egg mixture
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: the heated skillet
+    PREP: in
+
+
+SENTID: 6
+SENT: Cook until brown on both sides .
+PREDID: 0
+PRED: cook
+  PARG: brown on both sides
+    PREP: until
+
+
+SENTID: 7
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

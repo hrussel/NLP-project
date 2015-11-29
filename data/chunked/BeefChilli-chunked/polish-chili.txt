@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Place the ground beef into a large pot over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a large pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring to crumble , until beef is no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: beef is no longer pink
+    PREP: until
+  OARG: to crumble
+
+
+SENTID: 2
+SENT: Drain off excess grease , leaving just enough to coat the bottom of the pot .
+PREDID: 0
+PRED: drain
+  PARG: excess grease , leaving
+    PREP: off
+  PARG: coat the bottom of the pot
+    PREP: to
+  OARG: just
+  OARG: enough
+
+
+SENTID: 3
+SENT: Add the polish sausage , onion and garlic to the pot ;
+PREDID: 0
+PRED: add
+  DOBJ: the polish sausage , onion, garlic
+  PARG: the pot
+    PREP: to
+
+
+SENTID: 4
+SENT: cook and stir until onion is tender .
+PREDID: 0
+PRED: cook
+  PARG: onion is tender
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Mix in the Anaheim , yellow and jalapeno peppers , tomatoes and tomatillos .
+PREDID: 0
+PRED: mix
+  PARG: the anaheim , yellow, jalapeno peppers , tomatoes, tomatillos
+    PREP: in
+
+
+SENTID: 6
+SENT: Simmer over medium heat for about 20 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: medium heat
+    PREP: over
+  PARG: about 20 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Pour in the vinegar , tomato sauce and pimentos and then mix in the pinto beans and kidney beans ;
+PREDID: 0
+PRED: pour
+  PARG: the vinegar , tomato sauce, pimentos
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: mix
+  PARG: the pinto beans, kidney beans
+    PREP: in
+
+
+SENTID: 8
+SENT: cover and simmer over medium heat for 30 minutes .
+PREDID: 0
+PRED: cover
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+

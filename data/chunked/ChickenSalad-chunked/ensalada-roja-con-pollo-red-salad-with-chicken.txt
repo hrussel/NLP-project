@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Place the potatoes and carrots into a large pot and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes, carrots
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook until potatoes are tender enough to pierce with a fork , 8 to 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: potatoes are tender enough to pierce with a fork , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and rinse under cold water to cool .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: rinse
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Heat the olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Add the onion ;
+PREDID: 0
+PRED: add
+  DOBJ: the onion
+
+
+SENTID: 6
+SENT: cook and stir until tender and light brown , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: tender, light
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: brown
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 7
+SENT: Set aside to cool .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 8
+SENT: In a large bowl , combine the potatoes , carrots , chicken , eggs and pickles .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , carrots , chicken , eggs, pickles
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: In a separate bowl , whisk together the onion , pickle juice and mayonnaise .
+PREDID: 0
+PRED: whisk
+  DOBJ: the onion , pickle juice, mayonnaise
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 11
+SENT: Pour over the potato mixture and stir gently to coat .
+PREDID: 0
+PRED: pour
+  PARG: the potato mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 12
+SENT: Adjust the amounts of mayonnaise , salt and pepper if desired .
+PREDID: 0
+PRED: adjust
+  DOBJ: the amounts of mayonnaise , salt, pepper
+  PARG: desired
+    PREP: if
+
+
+SENTID: 13
+SENT: Gently stir in beets last .
+PREDID: 0
+PRED: stir
+  PARG: beets
+    PREP: in
+  OARG: gently
+  OARG: last
+
+
+SENTID: 14
+SENT: Refrigerate for at least 1 hour to blend flavors before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: at least 1 hour
+    PREP: for
+  PARG: blend flavors
+    PREP: to
+  PARG: serving
+    PREP: before
+

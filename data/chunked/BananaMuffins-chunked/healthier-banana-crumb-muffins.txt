@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease 10 muffin cups or line with muffin papers .
+PREDID: 0
+PRED: grease
+  DOBJ: 10 muffin cups
+  OARG: lightly
+
+PREDID: 1
+PRED: line
+  PARG: muffin papers
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix 1Ê1/2 cups flour , baking soda , baking powder , and salt in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: 1Ê1/2 cups flour , baking soda , baking powder , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Beat bananas , sugar , egg , and melted butter in another bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: bananas , sugar , egg , melted butter
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir banana mixture into flour mixture just until moistened .
+PREDID: 0
+PRED: stir
+  DOBJ: banana mixture
+  PARG: flour mixture
+    PREP: into
+  PARG: moistened
+    PREP: until
+  OARG: just
+
+
+SENTID: 5
+SENT: Spoon batter into prepared muffin cups . Combine brown sugar , 2 tablespoons flour , and cinnamon in a small bowl .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: combine
+  DOBJ: brown sugar , 2 tablespoons flour , cinnamon
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Blend in 1 tablespoon butter until mixture resembles coarse cornmeal .
+PREDID: 0
+PRED: blend
+  PARG: 1 tablespoon butter
+    PREP: in
+  PARG: mixture resembles coarse cornmeal
+    PREP: until
+
+
+SENTID: 7
+SENT: Sprinkle topping over muffins .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: topping
+  PARG: muffins
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in preheated oven until golden and tops spring back when lightly pressed , 18 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: golden, tops spring back when lightly pressed , 18 to 20 minutes
+    PREP: until
+

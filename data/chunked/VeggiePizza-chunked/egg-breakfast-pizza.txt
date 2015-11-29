@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place sausage in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: sausage
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 2
+SENT: Cook over medium-high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 4
+SENT: Place pizza crusts upside down on cookie sheets and bake for 5 to 7 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: pizza crusts
+  PARG: cookie sheets
+    PREP: on
+  OARG: upside
+  OARG: down
+
+PREDID: 1
+PRED: bake
+  PARG: 5 to 7 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Beat eggs , milk , salt and pepper .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , milk , salt, pepper
+
+
+SENTID: 6
+SENT: Scramble eggs until firm .
+PREDID: 0
+PRED: scramble
+  DOBJ: eggs
+  PARG: firm
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove crusts from oven , turn right side up , spread 1/2 can of cream of celery soup on top of each crust .
+PREDID: 0
+PRED: remove
+  DOBJ: crusts
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: turn
+  DOBJ: side
+  OARG: right
+  OARG: up
+
+PREDID: 2
+PRED: spread
+  DOBJ: 1/2 can of cream of celery soup
+  PARG: top of each crust
+    PREP: on
+
+
+SENTID: 8
+SENT: Spread 1/2 of egg mixture on each crust .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/2 of egg mixture
+  PARG: each crust
+    PREP: on
+
+
+SENTID: 9
+SENT: Sprinkle bacon bits on one pizza and cooked sausage on the other .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: bacon bits
+  PARG: one pizza, cooked sausage
+    PREP: on
+  PARG: the other
+    PREP: on
+
+
+SENTID: 10
+SENT: Cover each with onions and peppers .
+PREDID: 0
+PRED: cover
+  DOBJ: each with onions, peppers
+
+
+SENTID: 11
+SENT: Top each pizza with 2 cups of cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each pizza
+  PARG: 2 cups of cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in preheated oven , for 25 to 30 minutes , until cheese is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 to 30 minutes
+    PREP: for
+  PARG: cheese is golden brown
+    PREP: until
+

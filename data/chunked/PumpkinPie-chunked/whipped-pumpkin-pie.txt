@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine graham cracker crumbs , 2/3 cup sugar , and melted butter in a mixing bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: graham cracker crumbs , 2/3 cup sugar , melted butter
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix until evenly moistened , then press into the bottom and halfway up the sides of a 9-inch springform pan .
+PREDID: 0
+PRED: mix
+  PARG: evenly moistened
+    PREP: until
+
+PREDID: 1
+PRED: press
+  DOBJ: the sides of a 9-inch springform pan
+  PARG: the bottom
+    PREP: into
+  OARG: halfway
+  OARG: up
+
+
+SENTID: 3
+SENT: Place pan on a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: pan
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 4
+SENT: Bake the crust in the preheated oven until lightly browned and toasted , about 10 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the crust
+  PARG: the preheated oven
+    PREP: in
+  PARG: lightly browned, toasted , about 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from the oven and allow crust to cool .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  DOBJ: crust
+  OARG: to cool
+
+
+SENTID: 6
+SENT: Beat cream cheese and 1/2 cup sugar together in a large bowl with an electric mixture until light and fluffy , 2 to 3 minutes .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese, 1/2 cup sugar
+  PARG: a large bowl
+    PREP: in
+  PARG: an electric mixture
+    PREP: with
+  PARG: light, fluffy , 2 to 3 minutes
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: Beat in pumpkin puree until completely incorporated .
+PREDID: 0
+PRED: beat
+  PARG: pumpkin puree
+    PREP: in
+  PARG: completely incorporated
+    PREP: until
+
+
+SENTID: 8
+SENT: Fold whipped topping into pumpkin mixture ;
+PREDID: 0
+PRED: fold
+  DOBJ: whipped topping
+  PARG: pumpkin mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: stir in nutmeg and pumpkin pie spice .
+PREDID: 0
+PRED: stir
+  PARG: nutmeg, pumpkin pie spice
+    PREP: in
+
+
+SENTID: 10
+SENT: Pour pumpkin mixture into graham cracker crust .
+PREDID: 0
+PRED: pour
+  DOBJ: pumpkin mixture
+  PARG: graham cracker crust
+    PREP: into
+
+
+SENTID: 11
+SENT: Cover pie with plastic wrap and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: pie
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 12
+SENT: Gently remove pie from springform pan .
+PREDID: 0
+PRED: remove
+  DOBJ: pie
+  PARG: springform pan
+    PREP: from
+  OARG: gently
+

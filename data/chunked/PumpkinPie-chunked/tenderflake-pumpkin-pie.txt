@@ -1,0 +1,193 @@
+SENTID: 0
+SENT: MIX together flour and salt in a large bowl .
+PREDID: 0
+PRED: mix
+  OARG: together
+
+PREDID: 1
+PRED: flour
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 2
+PRED: salt
+
+
+SENTID: 1
+SENT: Cut in lard with a pastry cutter or gently with finger tips until mixture resembles coarse oatmeal .
+PREDID: 0
+PRED: cut
+  PARG: lard
+    PREP: in
+  PARG: a pastry cutter
+    PREP: with
+  PARG: finger tips
+    PREP: with
+  PARG: mixture resembles coarse oatmeal
+    PREP: until
+  OARG: gently
+
+
+SENTID: 2
+SENT: Gradually add enough water to make dough cling together .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: make dough cling
+    PREP: to
+  OARG: gradually
+  OARG: enough
+  OARG: together
+
+
+SENTID: 3
+SENT: Gather into a ball and divide in half .
+PREDID: 0
+PRED: gather
+  PARG: a ball
+    PREP: into
+
+PREDID: 1
+PRED: divide
+  PARG: half
+    PREP: in
+
+
+SENTID: 4
+SENT: Shape each ball into a flattened round on a lightly floured surface .
+PREDID: 0
+PRED: shape
+  DOBJ: each ball
+  PARG: a flattened round
+    PREP: into
+  PARG: a lightly floured surface
+    PREP: on
+
+
+SENTID: 5
+SENT: Wrap in plastic wrap and refrigerate one for 30 minutes and freeze one for later use .
+PREDID: 0
+PRED: wrap
+  PARG: plastic wrap
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  OARG: one for 30 minutes
+
+PREDID: 2
+PRED: freeze
+  DOBJ: one for
+  OARG: later
+
+PREDID: 3
+PRED: use
+
+
+SENTID: 6
+SENT: PREHEAT oven to 350 degrees F -LRB- 180 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 180 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: ROLL out one pastry round on a lightly floured surface with a floured rolling pin until slightly larger than an upside down 9-inch -LRB- 23cm -RRB- pie plate .
+PREDID: 0
+PRED: roll
+  PARG: one pastry round
+    PREP: out
+  PARG: a lightly floured surface
+    PREP: on
+  PARG: a floured rolling pin
+    PREP: with
+  PARG: slightly larger than an upside down 9-inch -lrb- 23cm -rrb- pie plate
+    PREP: until
+
+
+SENTID: 8
+SENT: Transfer into pie plate .
+PREDID: 0
+PRED: transfer
+  PARG: pie plate
+    PREP: into
+
+
+SENTID: 9
+SENT: Flute edges with floured fork or fingers .
+PREDID: 0
+PRED: flute
+  DOBJ: edges
+  PARG: floured fork or fingers
+    PREP: with
+
+
+SENTID: 10
+SENT: Place on a baking sheet .
+PREDID: 0
+PRED: place
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 11
+SENT: WHISK eggs and yolks together in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs, yolks
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 12
+SENT: Add remaining ingredients and stir to combine .
+PREDID: 0
+PRED: add
+  DOBJ: remaining ingredients
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 13
+SENT: Pour into pie shell and cover fluted pastry edge with aluminum foil to prevent over browning .
+PREDID: 0
+PRED: pour
+  PARG: pie shell, cover fluted pastry edge
+    PREP: into
+  PARG: aluminum foil
+    PREP: with
+  PARG: browning
+    PREP: over
+  OARG: to prevent
+
+
+SENTID: 14
+SENT: BAKE in preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: Remove foil from edge and bake an additional 20-25 minutes or until filling in center is set .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+  PARG: edge
+    PREP: from
+
+PREDID: 1
+PRED: bake
+  PARG: filling in center is set
+    PREP: until
+  OARG: an additional 20-25 minutes
+

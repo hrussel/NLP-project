@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Stir cabbage and carrots together in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage, carrots
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Whisk creamy salad dressing , mayonnaise , buttermilk , sour cream , honey , apple cider vinegar , lemon juice , salt , basil pesto , mustard , cayenne pepper , celery seed , onion powder , ground black pepper , and garlic powder together in a bowl until smooth and creamy .
+PREDID: 0
+PRED: whisk
+  DOBJ: creamy salad dressing , mayonnaise , buttermilk , sour cream , honey , apple cider vinegar , lemon juice , salt , basil pesto , mustard , cayenne pepper , celery seed , onion powder , ground black pepper , garlic powder
+  PARG: a bowl
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour half the dressing over the cabbage mixture and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: half the dressing
+  PARG: the cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Gradually add remainder of dressing until coleslaw is your desired consistency .
+PREDID: 0
+PRED: add
+  DOBJ: remainder of dressing
+  PARG: coleslaw is your desired consistency
+    PREP: until
+  OARG: gradually
+
+
+SENTID: 4
+SENT: Cover bowl with plastic wrap and refrigerate until flavors combine , at least 3 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: flavors
+    PREP: until
+
+PREDID: 2
+PRED: combine
+  PARG: least 3 hours
+    PREP: at
+

@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: Preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a baking sheet .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking sheet
+
+
+SENTID: 2
+SENT: Combine the water and butter with 1/8 teaspoon salt in a saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: the water
+
+PREDID: 1
+PRED: butter
+  PARG: 1/8 teaspoon salt
+    PREP: with
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a boil over medium-high heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Once boiling , reduce heat to medium , and pour in the flour all at once .
+PREDID: 0
+PRED: reduce
+  DOBJ: boiling
+  PARG: medium
+    PREP: to
+  OARG: once
+
+PREDID: 1
+PRED: pour
+  PARG: the flour all at
+    PREP: in
+  OARG: once
+
+
+SENTID: 5
+SENT: Stir vigorously until the mixture forms a semi-translucent ball .
+PREDID: 0
+PRED: stir
+  PARG: the mixture forms a semi-translucent ball
+    PREP: until
+  OARG: vigorously
+
+
+SENTID: 6
+SENT: Remove from the heat and allow to cool for 10 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: 10 minutes
+    PREP: for
+  OARG: to cool
+
+
+SENTID: 7
+SENT: Mix in the eggs into the dough , one at a time , adding the next egg only after the first has been completely incorporated .
+PREDID: 0
+PRED: mix
+  DOBJ: adding the next egg
+  PARG: the eggs
+    PREP: in
+  PARG: the dough , one at a time
+    PREP: into
+  PARG: the first has been
+    PREP: after
+  OARG: only
+  OARG: completely
+
+
+SENTID: 8
+SENT: Drop the dough onto the prepared baking sheet by the heaping tablespoon . Bake in the preheated oven until puffed and golden brown , 30 to 35 minutes .
+PREDID: 0
+PRED: drop
+  DOBJ: the dough
+  PARG: the prepared baking sheet
+    PREP: onto
+  PARG: the heaping tablespoon
+    PREP: by
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: puffed, golden brown , 30 to 35 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove from the oven , and cool to room temperature on a wire rack .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: room temperature
+    PREP: to
+  PARG: a wire rack
+    PREP: on
+
+
+SENTID: 10
+SENT: To prepare the filling , stir together the onion , celery , raisins , mustard , mayonnaise , yogurt , 1/2 teaspoon salt , and dill in a bowl until combined .
+PREDID: 0
+PRED: stir
+  DOBJ: the onion , celery , raisins , mustard , mayonnaise , yogurt , 1/2 teaspoon salt , dill
+  PARG: a bowl
+    PREP: in
+  PARG: combined
+    PREP: until
+  OARG: to prepare the filling
+  OARG: together
+
+
+SENTID: 11
+SENT: Fold in the chopped chicken meat until evenly combined .
+PREDID: 0
+PRED: fold
+  PARG: the chopped chicken meat
+    PREP: in
+  PARG: evenly combined
+    PREP: until
+
+
+SENTID: 12
+SENT: Cut the tops from the puffs , and spoon the chicken filling inside .
+PREDID: 0
+PRED: cut
+  DOBJ: the tops
+  PARG: the puffs
+    PREP: from
+
+PREDID: 1
+PRED: spoon
+  DOBJ: the chicken filling
+
+
+SENTID: 13
+SENT: Replace the tops before serving .
+PREDID: 0
+PRED: replace
+  DOBJ: the tops
+  PARG: serving
+    PREP: before
+

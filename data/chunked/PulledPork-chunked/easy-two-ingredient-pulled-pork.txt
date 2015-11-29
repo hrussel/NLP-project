@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Place pork in a slow cooker and add enough water to cover the bottom of the slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: water
+  PARG: cover the bottom of the slow cooker
+    PREP: to
+  OARG: enough
+
+
+SENTID: 1
+SENT: Cook on Low for 7 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 7 hours
+    PREP: for
+
+
+SENTID: 2
+SENT: Transfer pork to a bowl and shred with 2 forks .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: shred
+  PARG: 2 forks
+    PREP: with
+
+
+SENTID: 3
+SENT: Return pork to slow cooker and stir in barbeque sauce .
+PREDID: 0
+PRED: return
+  DOBJ: pork
+  OARG: to slow cooker
+
+PREDID: 1
+PRED: stir
+  PARG: barbeque sauce
+    PREP: in
+
+
+SENTID: 4
+SENT: Continue to cook on Low for 45 minutes to 1 hour .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: low
+    PREP: on
+  PARG: 45 minutes
+    PREP: for
+  PARG: 1 hour
+    PREP: to
+
+
+SENTID: 5
+SENT: Spoon a generous amount of pork into each roll .
+PREDID: 0
+PRED: spoon
+  DOBJ: a generous amount of pork
+  PARG: each roll
+    PREP: into
+

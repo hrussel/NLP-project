@@ -1,0 +1,99 @@
+T1	predicate 0 7	Preheat
+T2	predicate 91 96	saute
+T3	predicate 164 167	Add
+T4	predicate 205 211	Remove
+T5	predicate 226 234	let cool
+T6	predicate 253 260	combine
+T7	predicate 340 343	Add
+T8	predicate 447 455	Transfer
+T9	predicate 490 494	form
+T10	predicate 508 512	Bake
+T11	predicate 590 594	heat
+T12	predicate 675 679	Pour
+R1	object Arg1:T12 Arg2:T11	
+T13	arg_co-object 680 689	over loaf
+R2	co-object Arg1:T12 Arg2:T13	
+T14	Evolution 685 689	loaf
+E1	Evolution:T14 Cause:T10
+T15	arg_object 595 621	the remaining tomato sauce
+T16	arg_object 626 631	sugar
+R3	object Arg1:T11 Arg2:T15	
+R4	object Arg1:T11 Arg2:T16	
+T17	arg_location 632 652	in a medium saucepan
+T18	arg_other 653 673	over medium low heat
+R5	location Arg1:T11 Arg2:T17	
+R6	other Arg1:T11 Arg2:T18	
+T19	arg_duration 568 588	While loaf is baking
+R7	duration Arg1:T11 Arg2:T19	
+T20	arg_other 513 545	at 375 degrees F (190 degrees C)
+T21	arg_duration 546 566	for 30 to 45 minutes
+R8	other Arg1:T10 Arg2:T20	
+R9	duration Arg1:T10 Arg2:T21	
+R10	object Arg1:T10 Arg2:T9	
+T22	arg_object 456 463	mixture
+R11	object Arg1:T8 Arg2:T22	
+T23	Evolution 456 463	mixture
+E2	Evolution:T23 Cause:T28
+T24	arg_location 464 485	to a 9x13 baking dish
+R12	location Arg1:T8 Arg2:T24	
+R13	object Arg1:T9 Arg2:T8	
+T25	arg_other 495 506	into a loaf
+R14	other Arg1:T9 Arg2:T25	
+T26	arg_object 344 368	the carrot/onion mixture
+R15	object Arg1:T7 Arg2:T26	
+T27	Evolution 344 368	the carrot/onion mixture
+E3	Evolution:T27 Cause:T5
+T28	predicate 373 388	continue mixing
+R16	object Arg1:T28 Arg2:T7	
+R17	co-object Arg1:T7 Arg2:T6	
+T29	arg_location 236 251	In a large bowl
+T30	arg_object 261 272	the parsley
+T31	arg_object 274 278	beef
+T32	arg_object 280 287	ketchup
+T33	arg_object 289 309	1/2 cup tomato sauce
+T34	arg_object 311 316	bread
+T35	arg_object 321 325	eggs
+R18	object Arg1:T6 Arg2:T30	
+R19	location Arg1:T6 Arg2:T29	
+R20	object Arg1:T6 Arg2:T31	
+R21	object Arg1:T6 Arg2:T32	
+R22	object Arg1:T6 Arg2:T33	
+R23	object Arg1:T6 Arg2:T34	
+R24	object Arg1:T6 Arg2:T35	
+R25	object Arg1:T5 Arg2:T4	
+T36	arg_location 212 221	from heat
+R27	location Arg1:T4 Arg2:T36	
+T37	arg_object 168 174	garlic
+R28	object Arg1:T3 Arg2:T37	
+R29	co-object Arg1:T3 Arg2:T2	
+T38	predicate 179 184	saute
+R26	object Arg1:T4 Arg2:T38	
+R30	object Arg1:T38 Arg2:T3	
+T39	arg_duration 185 203	for 2 more minutes
+R31	duration Arg1:T38 Arg2:T39	
+T40	arg_object 97 107	the carrot
+T41	arg_object 112 117	onion
+R32	object Arg1:T2 Arg2:T40	
+R33	object Arg1:T2 Arg2:T41	
+T42	arg_duration 118 162	for 2 minutes, or until onion is transparent
+R34	duration Arg1:T2 Arg2:T42	
+T43	arg_location 47 67	In a medium saucepan
+T44	arg_other 68 89	over medium high heat
+R35	other Arg1:T2 Arg2:T44	
+R36	location Arg1:T2 Arg2:T43	
+T45	arg_object 8 12	oven
+T46	arg_other 13 45	to 375 degrees F (190 degrees C)
+R37	object Arg1:T1 Arg2:T45	
+R38	other Arg1:T1 Arg2:T46	
+R39	location Arg1:T10 Arg2:T1	
+T47	ingredient 97 107	the carrot
+T48	ingredient 112 117	onion
+T49	ingredient 168 174	garlic
+T50	ingredient 261 272	the parsley
+T51	ingredient 274 278	beef
+T52	ingredient 280 287	ketchup
+T53	ingredient 289 309	1/2 cup tomato sauce
+T54	ingredient 311 316	bread
+T55	ingredient 321 325	eggs
+T56	ingredient 595 621	the remaining tomato sauce
+T57	ingredient 626 631	sugar

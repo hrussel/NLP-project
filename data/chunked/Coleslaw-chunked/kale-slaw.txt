@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Toss kale with carrot , orange juice , lemon juice , salt , and black pepper in a large salad bowl , using your hands to rub orange and lemon juice into kale leaves .
+PREDID: 0
+PRED: toss
+  DOBJ: kale
+  PARG: carrot , orange juice , lemon juice , salt , black pepper
+    PREP: with
+  PARG: a large salad bowl , using your hands
+    PREP: in
+  PARG: rub orange, lemon juice
+    PREP: to
+  PARG: kale leaves
+    PREP: into
+
+
+SENTID: 1
+SENT: Let stand a few minutes to absorb flavors .
+PREDID: 0
+PRED: let
+  OARG: stand a few minutes
+  OARG: to absorb flavors
+
+
+SENTID: 2
+SENT: Fill a bowl with ice water .
+PREDID: 0
+PRED: fill
+  DOBJ: a bowl
+  PARG: ice water
+    PREP: with
+
+
+SENTID: 3
+SENT: Bring a saucepan of water to a boil and stir onion into boiling water ;
+PREDID: 0
+PRED: bring
+  DOBJ: a saucepan of water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  DOBJ: onion
+  PARG: boiling water
+    PREP: into
+
+
+SENTID: 4
+SENT: cook just until starting to soften , 15 to 30 seconds .
+PREDID: 0
+PRED: cook
+  PARG: starting to soften , 15 to 30 seconds
+    PREP: until
+  OARG: just
+
+
+SENTID: 5
+SENT: Drain ice water , blot onion dry on paper towels , and add to kale .
+PREDID: 0
+PRED: drain
+  DOBJ: ice
+
+PREDID: 1
+PRED: water
+  DOBJ: blot onion
+
+PREDID: 2
+PRED: dry
+  PARG: paper towels
+    PREP: on
+
+PREDID: 3
+PRED: add
+  PARG: kale
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir bacon , mayonnaise , and olive oil into kale mixture and toss to coat .
+PREDID: 0
+PRED: stir
+  DOBJ: bacon , mayonnaise , olive oil
+  PARG: kale mixture
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 7
+SENT: Can be made several hours ahead of time and refrigerated until serving time .
+PREDID: 0
+PRED: can
+  PARG: time, refrigerated
+    PREP: of
+  PARG: serving time
+    PREP: until
+  OARG: be made several hours
+  OARG: ahead
+

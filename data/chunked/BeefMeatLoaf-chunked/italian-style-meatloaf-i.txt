@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix together ground beef , eggs , bread crumbs and ketchup .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , eggs , bread crumbs, ketchup
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Season with Italian-style seasoning , oregano , basil , garlic salt , diced tomatoes and cheese .
+PREDID: 0
+PRED: season
+  PARG: italian-style seasoning , oregano , basil , garlic salt , diced tomatoes, cheese
+    PREP: with
+
+
+SENTID: 3
+SENT: Press into a 9x5 inch loaf pan , and cover loosely with foil .
+PREDID: 0
+PRED: press
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: foil
+    PREP: with
+  OARG: loosely
+
+
+SENTID: 4
+SENT: Bake in the preheated oven approximately 1 hour , or until internal temperature reaches 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: internal temperature reaches 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: until
+  OARG: approximately
+  OARG: 1 hour
+

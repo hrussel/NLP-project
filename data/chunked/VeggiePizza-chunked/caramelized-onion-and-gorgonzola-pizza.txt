@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: In a large saute pan , melt butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saute pan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute onions in butter until the onions are soft and dark brown , approximately 25 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: onions
+  PARG: butter
+    PREP: in
+  PARG: the onions are soft, dark brown , approximately 25 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in sugar , and continue cooking for 1 or 2 more minutes .
+PREDID: 0
+PRED: stir
+  PARG: sugar , continue cooking
+    PREP: in
+  PARG: 1 or 2 more minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Grease a pizza pan or cookie sheet , and press out the dough to desired thickness .
+PREDID: 0
+PRED: grease
+  DOBJ: a pizza pan or cookie sheet
+
+PREDID: 1
+PRED: press
+  PARG: the dough
+    PREP: out
+  PARG: desired thickness
+    PREP: to
+
+
+SENTID: 5
+SENT: Spread onions evenly over the dough , and top with crumbled Gorgonzola .
+PREDID: 0
+PRED: spread
+  DOBJ: onions
+  PARG: the dough
+    PREP: over
+  OARG: evenly
+
+PREDID: 1
+PRED: top
+  PARG: crumbled gorgonzola
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake for 10 to 12 minutes , or until done .
+PREDID: 0
+PRED: bake
+  PARG: 10 to 12 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+

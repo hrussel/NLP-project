@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: In a large salad bowl combine the chicken , lettuce , green onion , celery , nuts , seeds and noodles .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , lettuce , green onion , celery , nuts , seeds, noodles
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix all together .
+PREDID: 0
+PRED: mix
+  DOBJ: all together
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Put vinegar in a small bowl .
+PREDID: 0
+PRED: put
+  DOBJ: vinegar
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Dissolve sugar and salt in vinegar before adding oil .
+PREDID: 0
+PRED: dissolve
+  DOBJ: sugar, salt
+  PARG: vinegar
+    PREP: in
+  PARG: adding oil
+    PREP: before
+
+
+SENTID: 5
+SENT: Add dressing to salad and toss to coat .
+PREDID: 0
+PRED: add
+  DOBJ: dressing
+  PARG: salad
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Serve and enjoy !
+PREDID: 0
+PRED: serve
+
+PREDID: 1
+PRED: enjoy
+

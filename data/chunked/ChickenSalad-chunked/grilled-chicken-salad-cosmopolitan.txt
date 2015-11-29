@@ -1,0 +1,212 @@
+SENTID: 0
+SENT: In a small saucepan over low heat , combine the cranberry sauce and orange marmalade .
+PREDID: 0
+PRED: combine
+  DOBJ: the cranberry sauce, orange marmalade
+  PARG: a small saucepan
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Warm and stir until melted and well blended .
+PREDID: 0
+PRED: warm
+  PARG: melted, well blended
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Remove from the heat and stir in the lime juice , orange juice and vegetable oil .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: the lime juice , orange juice, vegetable oil
+    PREP: in
+
+
+SENTID: 3
+SENT: Remove 1/2 cup of the mixture and set aside in the refrigerator for later .
+PREDID: 0
+PRED: remove
+  DOBJ: 1/2 cup of the mixture
+
+PREDID: 1
+PRED: set
+  PARG: the refrigerator
+    PREP: in
+  PARG: later
+    PREP: for
+  OARG: aside
+
+
+SENTID: 4
+SENT: Allow the mixture to cool then stir in the lemon vodka and transfer to a large resealable bag .
+PREDID: 0
+PRED: allow
+  DOBJ: the mixture
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the lemon vodka
+    PREP: in
+
+PREDID: 2
+PRED: transfer
+  PARG: a large resealable bag
+    PREP: to
+
+
+SENTID: 5
+SENT: Season the chicken pieces with salt and lemon pepper ;
+PREDID: 0
+PRED: season
+  DOBJ: the chicken pieces
+  PARG: salt, lemon pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: place them into the bag with the marinade .
+PREDID: 0
+PRED: place
+  DOBJ: them
+  PARG: the bag
+    PREP: into
+  PARG: the marinade
+    PREP: with
+
+
+SENTID: 7
+SENT: Seal the bag and marinate in the refrigerator for at least 1 hour , turning occasionally .
+PREDID: 0
+PRED: seal
+  DOBJ: the bag
+
+PREDID: 1
+PRED: marinate
+  PARG: the refrigerator
+    PREP: in
+  PARG: at least 1 hour , turning
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Preheat a grill for medium heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: a grill
+  PARG: medium heat
+    PREP: for
+
+
+SENTID: 9
+SENT: Remove the chicken from the plastic bag , discarding the marinade .
+PREDID: 0
+PRED: remove
+  DOBJ: discarding the marinade
+  PARG: the plastic bag
+    PREP: from
+  OARG: the chicken
+
+
+SENTID: 10
+SENT: Place the chicken pieces on the preheated grill and cook for 4 to 5 minutes on each side , or until firm and no longer pink in the center .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken pieces
+  PARG: the preheated grill
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 4 to 5 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+  PARG: firm, no longer pink in the center
+    PREP: until
+
+
+SENTID: 11
+SENT: Remove chicken to a cutting board and allow to rest for about 5 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: a cutting board
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: rest
+    PREP: to
+  PARG: about 5 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: While the chicken is resting , combine the salad greens , cranberries , and orange segments .
+PREDID: 0
+PRED: combine
+  DOBJ: the salad greens , cranberries , orange segments
+  PARG: the chicken is resting
+    PREP: while
+
+
+SENTID: 13
+SENT: Pour the reserved citrus marinade over the salad and toss lightly to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the reserved citrus marinade
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: lightly
+
+
+SENTID: 14
+SENT: Divide the salad between four serving plates .
+PREDID: 0
+PRED: divide
+  DOBJ: the salad
+  PARG: four serving plates
+    PREP: between
+
+
+SENTID: 15
+SENT: Slice each piece of chicken crosswise into 1/2 inch strips .
+PREDID: 0
+PRED: slice
+  DOBJ: each piece of chicken
+  PARG: 1/2 inch strips
+    PREP: into
+  OARG: crosswise
+
+
+SENTID: 16
+SENT: Arrange over the tops of the salads and sprinkle with orange zest strips .
+PREDID: 0
+PRED: arrange
+  PARG: the tops of the salads
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: orange zest strips
+    PREP: with
+

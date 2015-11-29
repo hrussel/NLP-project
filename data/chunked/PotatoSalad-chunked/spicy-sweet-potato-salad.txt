@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Wash , pierce with a fork , and microwave the sweet potatoes and Yukon Gold potatoes until tender .
+PREDID: 0
+PRED: wash
+
+PREDID: 1
+PRED: pierce
+  PARG: a fork
+    PREP: with
+
+PREDID: 2
+PRED: microwave
+  DOBJ: the sweet potatoes, yukon gold potatoes
+  PARG: tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Boil the red potatoes in salted water until tender .
+PREDID: 0
+PRED: boil
+  DOBJ: the red potatoes
+  PARG: salted water
+    PREP: in
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain red potatoes and chill all three types overnight .
+PREDID: 0
+PRED: drain
+  DOBJ: red potatoes
+
+PREDID: 1
+PRED: chill
+  DOBJ: all three types
+  OARG: overnight
+
+
+SENTID: 3
+SENT: Peel the sweet potatoes and Yukon Golds , and dice into 1/2 inch cubes .
+PREDID: 0
+PRED: peel
+  DOBJ: the sweet potatoes, yukon golds
+
+PREDID: 1
+PRED: dice
+  PARG: 1/2 inch cubes
+    PREP: into
+
+
+SENTID: 4
+SENT: Cut red potatoes into fourths .
+PREDID: 0
+PRED: cut
+  DOBJ: red potatoes
+  PARG: fourths
+    PREP: into
+
+
+SENTID: 5
+SENT: Place all potatoes into a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: all potatoes
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 6
+SENT: Slice red onion thinly and place into a colander .
+PREDID: 0
+PRED: slice
+  DOBJ: red onion
+  OARG: thinly
+
+PREDID: 1
+PRED: place
+  PARG: a colander
+    PREP: into
+
+
+SENTID: 7
+SENT: Sprinkle the salt on the onion and let it sit in the colander for 30 minutes to drain .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the salt
+  PARG: the onion
+    PREP: on
+
+PREDID: 1
+PRED: let
+  DOBJ: it sit
+  PARG: the colander
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: drain
+    PREP: to
+
+
+SENTID: 8
+SENT: Squeeze onion to remove excess water , and add to the bowl with the potatoes .
+PREDID: 0
+PRED: squeeze
+  DOBJ: onion
+  PARG: remove excess water
+    PREP: to
+
+PREDID: 1
+PRED: add
+  PARG: the bowl
+    PREP: to
+  PARG: the potatoes
+    PREP: with
+
+
+SENTID: 9
+SENT: Mix in the garlic , jalapeno , lemon juice , mayonnaise , curry powder , parsley and pepper , and chill until ready to serve .
+PREDID: 0
+PRED: mix
+  PARG: the garlic , jalapeno , lemon juice , mayonnaise , curry powder , parsley, pepper
+    PREP: in
+
+PREDID: 1
+PRED: chill
+  PARG: ready to serve
+    PREP: until
+

@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9 inch pie pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9 inch pie pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a large bowl , combine sugar and baking mix .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar, baking mix
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in butter , milk and eggs .
+PREDID: 0
+PRED: stir
+  PARG: butter , milk, eggs
+    PREP: in
+
+
+SENTID: 4
+SENT: Then beat in pumpkin , spice and vanilla to mixture until smooth .
+PREDID: 0
+PRED: beat
+  PARG: pumpkin , spice, vanilla
+    PREP: in
+  PARG: mixture
+    PREP: to
+  PARG: smooth
+    PREP: until
+  OARG: then
+
+
+SENTID: 5
+SENT: Pour into pie pan .
+PREDID: 0
+PRED: pour
+  PARG: pie pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 50 to 55 minutes , or until knife inserted in center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 to 55 minutes
+    PREP: for
+  PARG: knife inserted in center comes out clean
+    PREP: until
+
+
+SENTID: 7
+SENT: Refrigerate any remaining pie .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: any remaining pie
+
+
+SENTID: 8
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 45 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 45 to 50 minutes
+    PREP: for
+

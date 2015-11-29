@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Place cabbage in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: cabbage
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix sugar , vinegar , celery seed , and salt together in a separate bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: sugar , vinegar , celery seed , salt
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir mayonnaise into sugar-vinegar mixture until dressing is smooth and creamy .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise
+  PARG: sugar-vinegar mixture
+    PREP: into
+  PARG: dressing is smooth, creamy
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour dressing over cabbage ;
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: cabbage
+    PREP: over
+
+
+SENTID: 4
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 5
+SENT: Marinate coleslaw in refrigerator for 2 to 3 hours ;
+PREDID: 0
+PRED: marinate
+  DOBJ: coleslaw
+  PARG: refrigerator
+    PREP: in
+  PARG: 2 to 3 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: stir well before serving .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+  OARG: well
+

@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook peeled potatoes until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: peeled potatoes
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool , and cube .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cube
+
+
+SENTID: 3
+SENT: Place eggs in a saucepan , and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring to a boil , and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Cover pan , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water and allow to cool .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 7
+SENT: Peel and chop the eggs , and toss together with the potatoes and vegetables in a large mixing or serving bowl .
+PREDID: 0
+PRED: peel
+  DOBJ: the eggs
+
+PREDID: 1
+PRED: chop
+
+PREDID: 2
+PRED: toss
+  PARG: the potatoes, vegetables
+    PREP: with
+  PARG: a large mixing or serving bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: In a separate bowl , combine the mayonnaise , 1/2 teaspoon black pepper , ground mustard , lemon juice , dill weed , and green olives .
+PREDID: 0
+PRED: combine
+  DOBJ: the mayonnaise , 1/2 teaspoon black pepper , ground mustard , lemon juice , dill weed , green olives
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Stir to blend .
+PREDID: 0
+PRED: stir
+  PARG: blend
+    PREP: to
+
+
+SENTID: 10
+SENT: Pour dressing over the potato mixture , season with salt and pepper , and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: the potato mixture
+    PREP: over
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 2
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 11
+SENT: Cover , and refrigerate for 1 hour , or overnight .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+  OARG: overnight
+

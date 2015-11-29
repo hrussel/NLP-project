@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Brown the beef lightly .
+PREDID: 0
+PRED: brown
+  DOBJ: the beef
+  OARG: lightly
+
+
+SENTID: 1
+SENT: Place all the ingredients in a crock pot and mix together well .
+PREDID: 0
+PRED: place
+  DOBJ: all the ingredients
+  PARG: a crock pot
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: together
+  OARG: well
+
+
+SENTID: 2
+SENT: Cook for 12 hours or more on low .
+PREDID: 0
+PRED: cook
+  PARG: 12 hours or more
+    PREP: for
+  PARG: low
+    PREP: on
+

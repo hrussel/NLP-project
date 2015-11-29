@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: Place potatoes in a pot with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook until tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , dice , and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: dice
+
+PREDID: 2
+PRED: cool
+
+
+SENTID: 3
+SENT: Place eggs in a pot with enough cold water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a pot
+    PREP: in
+  PARG: enough cold water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 4
+SENT: Bring to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Cover saucepan , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: saucepan
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Drain , cool , peel and chop .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chop
+
+
+SENTID: 7
+SENT: Place bacon in a skillet over medium-high heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 9
+SENT: In a large bowl , mix chopped eggs , 1/2 the bacon , black beans , green onions , jalapeno peppers , bell pepper , mayonnaise , mustard , and Cajun seasoning .
+PREDID: 0
+PRED: mix
+  DOBJ: chopped eggs , 1/2 the bacon , black beans , green onions , jalapeno peppers , bell pepper , mayonnaise , mustard , cajun seasoning
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Gently mix in diced , cooled potatoes .
+PREDID: 0
+PRED: mix
+  PARG: diced , cooled potatoes
+    PREP: in
+  OARG: gently
+
+
+SENTID: 11
+SENT: Season with salt and pepper , and sprinkle with remaining bacon .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining bacon
+    PREP: with
+
+
+SENTID: 12
+SENT: Cover , and refrigerate until ready to serve .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+

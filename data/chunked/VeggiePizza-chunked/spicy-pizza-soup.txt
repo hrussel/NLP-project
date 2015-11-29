@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: In a large saucepan , place the hot Italian sausage , pepperoni sausage , green bell peppers , onions , mushrooms , diced tomatoes , tomato sauce , tomato paste and water .
+PREDID: 0
+PRED: place
+  DOBJ: the hot italian sausage , pepperoni sausage , green bell peppers , onions , mushrooms , diced tomatoes , tomato sauce , tomato paste, water
+  PARG: a large saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Boil 30 minutes , reduce heat and simmer 90 minutes .
+PREDID: 0
+PRED: boil
+  OARG: 30 minutes
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  OARG: 90 minutes
+
+
+SENTID: 3
+SENT: During the final 15 minutes of cooking , stir in the elbow macaroni .
+PREDID: 0
+PRED: stir
+  PARG: the final 15 minutes of cooking
+    PREP: during
+  PARG: the elbow macaroni
+    PREP: in
+
+
+SENTID: 4
+SENT: Top with mozzarella and serve .
+PREDID: 0
+PRED: top
+  PARG: mozzarella
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

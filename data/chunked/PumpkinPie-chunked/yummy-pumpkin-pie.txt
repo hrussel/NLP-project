@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large saucepan , combine custard mix , brown sugar , and pumpkin pie spice .
+PREDID: 0
+PRED: combine
+  DOBJ: custard mix , brown sugar , pumpkin pie spice
+  PARG: a large saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix well , then add pumpkin , condensed milk , and egg .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: pumpkin , condensed milk , egg
+
+
+SENTID: 2
+SENT: Whisk mixture until smooth , then cook over medium heat , stirring constantly , until mixture comes to a boil .
+PREDID: 0
+PRED: whisk
+  DOBJ: mixture
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: mixture comes to a boil
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 3
+SENT: Boil and stir 1 minute .
+PREDID: 0
+PRED: boil
+  OARG: 1 minute
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Pour mixture into baked pastry shell and chill .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: baked pastry shell
+    PREP: into
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 5
+SENT: Garnish with whipped topping before serving .
+PREDID: 0
+PRED: garnish
+  PARG: whipped topping
+    PREP: with
+  PARG: serving
+    PREP: before
+

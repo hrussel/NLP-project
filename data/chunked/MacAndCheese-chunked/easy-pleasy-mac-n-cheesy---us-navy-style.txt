@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease an 8x8-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8x8-inch baking dish
+
+
+SENTID: 2
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Once the water is boiling , stir in the macaroni , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the macaroni
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 6
+SENT: Transfer the macaroni to a large bowl , and stir in the processed cheese cubes , Cheddar cheese soup , sour cream , Parmesan cheese , milk , salt , and black pepper .
+PREDID: 0
+PRED: transfer
+  DOBJ: the macaroni
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the processed cheese cubes , cheddar cheese soup , sour cream , parmesan cheese , milk , salt , black pepper
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour into the prepared baking dish .
+PREDID: 0
+PRED: pour
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 8
+SENT: Mix the cracker crumbs with the butter , and sprinkle over the casserole .
+PREDID: 0
+PRED: mix
+  DOBJ: the cracker crumbs
+  PARG: the butter
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 9
+SENT: Cover the casserole with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the casserole
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until bubbling , about 30 minutes ;
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbling , about 30 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: remove foil and bake until crumbs are golden brown , 5 to 10 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: crumbs are golden brown , 5 to 10 more minutes
+    PREP: until
+

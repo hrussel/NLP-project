@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a mixing bowl , blend together the pumpkin , evaporated milk , butter , eggs and vanilla .
+PREDID: 0
+PRED: blend
+  DOBJ: the pumpkin , evaporated milk , butter , eggs, vanilla
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: In a separate bowl , whisk together the cinnamon , nutmeg , allspice , salt , molasses and baking mix .
+PREDID: 0
+PRED: whisk
+  DOBJ: the cinnamon , nutmeg , allspice , salt , molasses, baking mix
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Add to the pumpkin mixture and mix thoroughly .
+PREDID: 0
+PRED: add
+  PARG: the pumpkin mixture
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Pour filling into unbaked pie crust and bake for 50 minutes or until knife inserted comes out clean .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: unbaked pie crust
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: 50 minutes
+    PREP: for
+  PARG: knife inserted comes out clean
+    PREP: until
+

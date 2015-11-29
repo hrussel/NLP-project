@@ -1,0 +1,61 @@
+T1	predicate 0 3	Mix
+T2	predicate 52 57	bring
+T3	predicate 87 91	Beat
+T4	predicate 116 123	Fold in
+T5	predicate 154 158	Pour
+T6	predicate 187 193	Spread
+T7	predicate 223 227	Pour
+T8	predicate 255 259	Bake
+T9	arg_object 4 9	syrup
+T10	arg_object 11 27	sugar substitute
+T11	arg_object 32 38	butter
+T12	arg_location 39 50	in saucepan
+T13	arg_other 58 73	to rolling boil
+T14	arg_duration 74 85	3-4 minutes
+R1	object Arg1:T1 Arg2:T9	
+R2	object Arg1:T1 Arg2:T10	
+R3	object Arg1:T1 Arg2:T11	
+R4	location Arg1:T1 Arg2:T12	
+R5	object Arg1:T2 Arg2:T1	
+R6	other Arg1:T2 Arg2:T13	
+R7	duration Arg1:T2 Arg2:T14	
+T15	arg_object 92 102	whole eggs
+R8	object Arg1:T3 Arg2:T15	
+T16	arg_duration 103 114	until thick
+R9	duration Arg1:T3 Arg2:T16	
+T17	arg_object 124 134	wheat germ
+T18	arg_object 139 152	powdered milk
+R10	object Arg1:T4 Arg2:T17	
+R11	object Arg1:T4 Arg2:T18	
+R12	co-object Arg1:T4 Arg2:T3	
+T19	arg_object 159 168	hot syrup
+T20	arg_co-object 169 185	into egg mixture
+R13	object Arg1:T5 Arg2:T19	
+R14	co-object Arg1:T5 Arg2:T20	
+T21	Evolution 174 185	egg mixture
+E1	Evolution:T21 Cause:T4
+T22	Evolution 159 168	hot syrup
+E2	Evolution:T22 Cause:T2
+T23	arg_object 194 200	pecans
+T24	arg_co-object 201 221	in unbaked pie shell
+R15	object Arg1:T6 Arg2:T23	
+R16	co-object Arg1:T6 Arg2:T24	
+T25	arg_object 228 241	syrup mixture
+T26	Evolution 228 241	syrup mixture
+E3	Evolution:T26 Cause:T5
+R17	object Arg1:T7 Arg2:T25	
+T27	arg_co-object 242 253	over pecans
+R18	co-object Arg1:T7 Arg2:T27	
+T28	Evolution 247 253	pecans
+E4	Evolution:T28 Cause:T6
+R19	object Arg1:T8 Arg2:T7	
+T29	arg_duration 260 306	25-30 minutes at 400 degrees F (205 degrees C)
+R20	duration Arg1:T8 Arg2:T29	
+T30	ingredient 4 9	syrup
+T31	ingredient 11 27	sugar substitute
+T32	ingredient 32 38	butter
+T33	ingredient 92 102	whole eggs
+T34	ingredient 124 134	wheat germ
+T35	ingredient 139 152	powdered milk
+T36	ingredient 194 200	pecans
+T37	ingredient 204 221	unbaked pie shell

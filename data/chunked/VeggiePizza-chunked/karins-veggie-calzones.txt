@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a baking sheet .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking sheet
+
+
+SENTID: 2
+SENT: Divide pizza dough into 4 equal parts .
+PREDID: 0
+PRED: divide
+  DOBJ: pizza dough
+  PARG: 4 equal parts
+    PREP: into
+
+
+SENTID: 3
+SENT: Roll each piece into a large oval on a lightly floured surface .
+PREDID: 0
+PRED: roll
+  DOBJ: each piece
+  PARG: a large oval
+    PREP: into
+  PARG: a lightly floured surface
+    PREP: on
+
+
+SENTID: 4
+SENT: Mix spinach , mushrooms , zucchini , cabbage , green bell pepper , fresh tomato , onion , sun-dried tomatoes , artichoke hearts , olives , garlic , and Italian seasoning in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: spinach , mushrooms , zucchini , cabbage , green bell pepper , fresh tomato , onion , sun-dried tomatoes , artichoke hearts , olives , garlic , italian seasoning
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Divide vegetable mixture over the center of each piece of dough , leaving about a 1-inch border of dough .
+PREDID: 0
+PRED: divide
+  DOBJ: vegetable mixture
+  PARG: the center of each piece of dough , leaving
+    PREP: over
+  PARG: a 1-inch border of dough
+    PREP: about
+
+
+SENTID: 7
+SENT: Sprinkle about 1/4 cup mozzarella cheese and about 2 tablespoons Asiago cheese over vegetables Fold pizza dough in half to create a half-moon ;
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/4 cup mozzarella cheese
+    PREP: about
+  PARG: 2 tablespoons asiago cheese
+    PREP: about
+  PARG: vegetables fold pizza dough
+    PREP: over
+  PARG: half
+    PREP: in
+  OARG: to create a half-moon
+
+
+SENTID: 8
+SENT: pinch and seal the edges of each calzone .
+PREDID: 0
+PRED: pinch
+  DOBJ: the edges of each calzone
+
+PREDID: 1
+PRED: seal
+
+
+SENTID: 9
+SENT: Transfer calzones to the prepared baking sheet .
+PREDID: 0
+PRED: transfer
+  DOBJ: calzones
+  PARG: the prepared baking sheet
+    PREP: to
+
+
+SENTID: 10
+SENT: Cut small holes on the top of each to vent ;
+PREDID: 0
+PRED: cut
+  DOBJ: small holes
+  PARG: the top of each to vent
+    PREP: on
+
+
+SENTID: 11
+SENT: brush tops with olive oil .
+PREDID: 0
+PRED: brush
+  DOBJ: tops
+  PARG: olive oil
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until lightly browned , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: lightly browned , about 30 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Sprinkle remaining mozzarella cheese and Asiago cheese evenly over each calzone and continue baking until cheese is melted and crust is golden brown , 5 to 10 minutes more .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining mozzarella cheese, asiago cheese
+  PARG: each calzone, continue baking
+    PREP: over
+  PARG: cheese is melted, crust is golden brown , 5 to 10 minutes more
+    PREP: until
+  OARG: evenly
+
+
+SENTID: 14
+SENT: Serve with marinara sauce for dipping .
+PREDID: 0
+PRED: serve
+  PARG: marinara sauce
+    PREP: with
+  PARG: dipping
+    PREP: for
+

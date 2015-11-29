@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Pour can of beef broth into slow cooker , and add boneless pork ribs .
+PREDID: 0
+PRED: pour
+  DOBJ: can of beef broth
+  PARG: slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: boneless pork ribs
+
+
+SENTID: 1
+SENT: Cook on High heat for 4 hours , or until meat shreds easily .
+PREDID: 0
+PRED: cook
+  PARG: high heat
+    PREP: on
+  PARG: 4 hours
+    PREP: for
+  PARG: meat shreds easily
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove meat , and shred with two forks .
+PREDID: 0
+PRED: remove
+  DOBJ: meat
+
+PREDID: 1
+PRED: shred
+  PARG: two forks
+    PREP: with
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Transfer the shredded pork to a Dutch oven or iron skillet , and stir in barbeque sauce .
+PREDID: 0
+PRED: transfer
+  DOBJ: the shredded pork
+  PARG: a dutch oven or iron skillet
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: barbeque sauce
+    PREP: in
+
+
+SENTID: 5
+SENT: Bake in the preheated oven for 30 minutes , or until heated through .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+

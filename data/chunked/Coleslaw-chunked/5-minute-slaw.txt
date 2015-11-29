@@ -1,0 +1,26 @@
+SENTID: 0
+SENT: Whisk red wine vinegar , sugar , salt , celery seed , and green onions in a salad bowl until sugar and salt have dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: red wine vinegar , sugar , salt , celery seed , green onions
+  PARG: a salad bowl
+    PREP: in
+  PARG: sugar, salt have dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Toss coleslaw mix with dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: coleslaw mix
+  PARG: dressing
+    PREP: with
+
+
+SENTID: 2
+SENT: Refrigerate 4 to 6 hours .
+PREDID: 0
+PRED: refrigerate
+  OARG: 4 to 6 hours
+

@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Par-bake your favorite pie crust -LRB- either homemade or store-bought -RRB- in a 350-degree oven for about 20 minutes or until it just barely starts to brown .
+PREDID: 0
+PRED: crust
+  DOBJ: either homemade or store-bought -rrb-
+  PARG: a 350-degree oven
+    PREP: in
+  PARG: about 20 minutes
+    PREP: for
+  PARG: it just barely starts to brown
+    PREP: until
+  OARG: par-bake your favorite pie
+
+
+SENTID: 1
+SENT: Preheat the oven to 350 degrees .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees
+    PREP: to
+
+
+SENTID: 2
+SENT: In a bowl of a stand mixer , fitted with the whisk attachment , beat the eggs on medium speed for about 30 seconds , until foamy .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a bowl of a stand mixer , fitted
+    PREP: in
+  PARG: the whisk attachment
+    PREP: with
+  PARG: medium speed
+    PREP: on
+  PARG: about 30 seconds
+    PREP: for
+  PARG: foamy
+    PREP: until
+
+
+SENTID: 3
+SENT: Add the Karo syrups , maple syrup , salt and vanilla , and beat for about one minute on medium speed until well combined .
+PREDID: 0
+PRED: add
+  DOBJ: the karo syrups , maple syrup , salt, vanilla
+
+PREDID: 1
+PRED: beat
+  PARG: about one minute
+    PREP: for
+  PARG: medium speed
+    PREP: on
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Add the flour and melted butter Place the pecans in the par-baked pie crust and pour the mixture over the pecans .
+PREDID: 0
+PRED: add
+  DOBJ: the flour, melted butter
+
+PREDID: 1
+PRED: place
+  DOBJ: the pecans
+  PARG: the par-baked pie crust
+    PREP: in
+
+PREDID: 2
+PRED: pour
+  DOBJ: the mixture
+  PARG: the pecans
+    PREP: over
+
+
+SENTID: 5
+SENT: Bake the pie for 40 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the pie
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: TIP :
+PREDID: 0
+PRED: tip
+
+
+SENTID: 7
+SENT: To determine when the pie is ready , gently move the pie .
+PREDID: 0
+PRED: move
+  DOBJ: the pie
+  OARG: to determine
+  OARG: when the pie is ready
+  OARG: gently
+

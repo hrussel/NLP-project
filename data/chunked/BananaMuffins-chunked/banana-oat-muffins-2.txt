@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Place 1 cup rolled oats in a food processor and process until ground .
+PREDID: 0
+PRED: place
+  DOBJ: 1 cup rolled oats
+  PARG: a food processor
+    PREP: in
+
+PREDID: 1
+PRED: process
+  PARG: ground
+    PREP: until
+
+
+SENTID: 3
+SENT: In a large bowl , combine ground oats with flour , 1 tablespoon rolled oats , chopped walnuts , baking powder , cinnamon and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: ground oats
+  PARG: a large bowl
+    PREP: in
+  PARG: flour , 1 tablespoon rolled oats , chopped walnuts , baking powder , cinnamon, salt
+    PREP: with
+
+
+SENTID: 4
+SENT: In a separate bowl , cream together the butter and sugar until light and fluffy .
+PREDID: 0
+PRED: cream
+  DOBJ: the butter, sugar
+  PARG: a separate bowl
+    PREP: in
+  PARG: light, fluffy
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Beat in the eggs one at a time , then stir in the banana and vanilla .
+PREDID: 0
+PRED: beat
+  PARG: the eggs one at a time
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the banana, vanilla
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in sour cream .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix oat/flour mixture into egg mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: oat/flour mixture
+  PARG: egg mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: Spoon batter into prepared muffin pans .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin pans
+    PREP: into
+
+
+SENTID: 9
+SENT: In a small bowl , combine 1/3 cup rolled oats , brown sugar , cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/3 cup rolled oats , brown sugar , cinnamon
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Cut in butter until mixture resembles coarse crumbs ;
+PREDID: 0
+PRED: cut
+  PARG: butter
+    PREP: in
+  PARG: mixture resembles coarse crumbs
+    PREP: until
+
+
+SENTID: 11
+SENT: stir in 1/4 cup chopped walnuts .
+PREDID: 0
+PRED: stir
+  PARG: 1/4 cup chopped walnuts
+    PREP: in
+
+
+SENTID: 12
+SENT: Generously sprinkle muffins with topping .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: muffins
+  PARG: topping
+    PREP: with
+  OARG: generously
+
+
+SENTID: 13
+SENT: Bake in preheated oven for 25 to 30 minutes , until golden brown and a toothpick inserted into a muffin comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 to 30 minutes
+    PREP: for
+  PARG: golden brown, a toothpick inserted into a muffin comes out clean
+    PREP: until
+

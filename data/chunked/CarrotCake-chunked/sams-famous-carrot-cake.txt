@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour an 8x12 inch pan .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8x12 inch pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: In a medium bowl , sift together flour , baking soda , salt and cinnamon .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , baking soda , salt, cinnamon
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a large bowl , combine eggs , buttermilk , oil , sugar and vanilla .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , buttermilk , oil , sugar, vanilla
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Add flour mixture and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: flour mixture
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: In a medium bowl , combine shredded carrots , coconut , walnuts , pineapple and raisins .
+PREDID: 0
+PRED: combine
+  DOBJ: shredded carrots , coconut , walnuts , pineapple, raisins
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Using a large wooden spoon or a very heavy whisk , add carrot mixture to batter and fold in well .
+PREDID: 0
+PRED: add
+  DOBJ: using a large wooden spoon or a very heavy whisk
+  PARG: batter
+    PREP: to
+
+PREDID: 1
+PRED: fold
+  PARG: well
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour into prepared 8x12 inch pan , and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour .
+PREDID: 0
+PRED: pour
+  PARG: prepared 8x12 inch pan
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 10
+SENT: Check with toothpick .
+PREDID: 0
+PRED: check
+  PARG: toothpick
+    PREP: with
+
+
+SENTID: 11
+SENT: Allow to cool for at least 20 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: at least 20 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: to cool
+

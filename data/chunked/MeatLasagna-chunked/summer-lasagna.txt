@@ -1,0 +1,148 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a medium baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a medium baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a skillet over medium heat , cook the ground beef until evenly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain juices .
+PREDID: 0
+PRED: drain
+  DOBJ: juices
+
+
+SENTID: 4
+SENT: Mix the onion , green bell pepper , carrots , garlic , and tomato sauce into the skillet .
+PREDID: 0
+PRED: mix
+  DOBJ: the onion , green bell pepper , carrots , garlic , tomato sauce
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 5
+SENT: Season with oregano , basil , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: oregano , basil , salt , pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Bring the mixture to a boil , reduce heat to low , and simmer 10 minutes , until vegetables are tender .
+PREDID: 0
+PRED: bring
+  DOBJ: the mixture
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: vegetables are tender
+    PREP: until
+  OARG: 10 minutes
+
+
+SENTID: 7
+SENT: In the bottom of the prepared baking dish , layer 1/2 the zucchini strips .
+PREDID: 0
+PRED: layer
+  DOBJ: 1/2 the zucchini strips
+  PARG: the bottom of the prepared baking dish
+    PREP: in
+
+
+SENTID: 8
+SENT: In a bowl , beat together the cottage cheese and egg , and spread over the zucchini .
+PREDID: 0
+PRED: beat
+  DOBJ: the cottage cheese, egg
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: spread
+  PARG: the zucchini
+    PREP: over
+
+
+SENTID: 9
+SENT: Scoop 1/2 the beef mixture over the cottage cheese and egg mixture , and sprinkle with 1/2 the mozzarella cheese .
+PREDID: 0
+PRED: scoop
+  DOBJ: 1/2 the beef mixture
+  PARG: the cottage cheese, egg mixture
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: 1/2 the mozzarella cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Layer with remaining zucchini , beef mixture , and mozzarella .
+PREDID: 0
+PRED: layer
+  PARG: remaining zucchini , beef mixture , mozzarella
+    PREP: with
+
+
+SENTID: 11
+SENT: Top with Parmesan cheese .
+PREDID: 0
+PRED: top
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake 45 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  OARG: 45 minutes
+
+
+SENTID: 13
+SENT: Allow to sit 10 minutes before slicing to serve .
+PREDID: 0
+PRED: allow
+  PARG: slicing
+    PREP: before
+  PARG: serve
+    PREP: to
+  OARG: to sit 10 minutes
+

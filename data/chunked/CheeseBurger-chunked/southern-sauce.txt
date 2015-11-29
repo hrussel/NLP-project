@@ -1,0 +1,11 @@
+SENTID: 0
+SENT: In a small bowl , mix together the mayonnaise , mustard and sugar until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise , mustard, sugar
+  PARG: a small bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+

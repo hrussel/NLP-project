@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Place the pork roast into an oven roasting bag set inside a slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: the pork roast
+  PARG: an oven roasting bag
+    PREP: into
+
+PREDID: 1
+PRED: set
+  PARG: a slow cooker
+    PREP: inside
+
+
+SENTID: 1
+SENT: Sprinkle the chili powder over the roast and arrange onions on top of the roast .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the chili powder
+  PARG: the roast
+    PREP: over
+
+PREDID: 1
+PRED: arrange
+  DOBJ: onions
+  PARG: top of the roast
+    PREP: on
+
+
+SENTID: 2
+SENT: Use scissors to cut 3 vents , 1-inch long in the top of the bag .
+PREDID: 0
+PRED: use
+  DOBJ: scissors
+  PARG: cut 3 vents , 1-inch
+    PREP: to
+  PARG: the top of the bag
+    PREP: in
+  OARG: long
+
+
+SENTID: 3
+SENT: Pour the water into the bottom of the slow cooker , around the bag , so that it is at least 1 inch deep .
+PREDID: 0
+PRED: pour
+  DOBJ: the water
+  PARG: the bottom of the slow cooker
+    PREP: into
+  PARG: the bag
+    PREP: around
+  PARG: it is
+    PREP: that
+  PARG: least 1 inch
+    PREP: at
+  OARG: so
+  OARG: deep
+
+
+SENTID: 4
+SENT: Cover and cook the pork on Low for 6 to 8 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: the pork
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 6 to 8 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: Remove the pork and onions from the bag and place in a large Dutch oven ;
+PREDID: 0
+PRED: remove
+  DOBJ: the pork, onions
+  PARG: the bag
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a large dutch oven
+    PREP: in
+
+
+SENTID: 6
+SENT: reserve 3/4 cup of liquid from the bag .
+PREDID: 0
+PRED: reserve
+  DOBJ: 3/4 cup of liquid
+  PARG: the bag
+    PREP: from
+
+
+SENTID: 7
+SENT: Shred the pork by pulling it apart using two forks .
+PREDID: 0
+PRED: shred
+  DOBJ: using two forks
+  PARG: pulling it
+    PREP: by
+  OARG: apart
+  OARG: the pork
+
+
+SENTID: 8
+SENT: Stir the salsa , tomatoes , and cooking liquid in with the shredded pork .
+PREDID: 0
+PRED: stir
+  DOBJ: the salsa , tomatoes , cooking liquid
+  PARG: with the shredded pork
+    PREP: in
+
+
+SENTID: 9
+SENT: Bring to a boil over high heat , then reduce the heat to low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: the heat
+  PARG: low
+    PREP: to
+

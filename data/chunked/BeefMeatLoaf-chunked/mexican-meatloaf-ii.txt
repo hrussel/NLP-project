@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine the eggs , tomatoes , onion , Worcestershire sauce , salt , and pepper in a large mixing bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the eggs , tomatoes , onion , worcestershire sauce , salt , pepper
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Gently stir the ground beef and crackers into the egg mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the ground beef, crackers
+  PARG: the egg mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 3
+SENT: Press into a 8x8 inch square baking pan .
+PREDID: 0
+PRED: press
+  PARG: a 8x8 inch square baking pan
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 35 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Remove the loaf from the oven , and drain any liquid from the pan .
+PREDID: 0
+PRED: remove
+  DOBJ: the loaf
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: drain
+  DOBJ: any liquid
+  PARG: the pan
+    PREP: from
+
+
+SENTID: 6
+SENT: Spread a layer of salsa on top of the loaf , and sprinkle with shredded cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: a layer of salsa
+  PARG: top of the loaf
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: shredded cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: Return the loaf to the oven ;
+PREDID: 0
+PRED: return
+  DOBJ: the loaf
+  PARG: the oven
+    PREP: to
+
+
+SENTID: 8
+SENT: bake until the meatloaf reaches 160 degrees F -LRB- 71 degrees C -RRB- and is no longer pink in the center , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the meatloaf reaches 160 degrees f -lrb- 71 degrees c -rrb-, is no longer pink in the center , about 15 minutes
+    PREP: until
+

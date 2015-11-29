@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: In a large bowl , sift together the cornmeal , flour , salt , black pepper and red pepper .
+PREDID: 0
+PRED: sift
+  DOBJ: the cornmeal , flour , salt , black pepper, red pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour buttermilk in a separate large bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: buttermilk
+  PARG: a separate large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Heat the oil in a large , deep skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  OARG: deep
+
+
+SENTID: 3
+SENT: Dip the chicken in the buttermilk , then in cornmeal mixture .
+PREDID: 0
+PRED: dip
+  DOBJ: the chicken
+  PARG: the buttermilk
+    PREP: in
+  PARG: cornmeal mixture
+    PREP: in
+  OARG: then
+
+
+SENTID: 4
+SENT: Coat lightly and cook in hot oil until crispy and golden brown , about 5 minutes .
+PREDID: 0
+PRED: coat
+  PARG: hot oil
+    PREP: in
+  OARG: lightly
+
+PREDID: 1
+PRED: cook
+  PARG: crispy, golden brown , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain on paper towels ;
+PREDID: 0
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 6
+SENT: keep warm .
+PREDID: 0
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 7
+SENT: Combine the rice , red bell peppers , green bell peppers , onion , and chicken in medium bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the rice , red bell peppers , green bell peppers , onion , chicken
+  PARG: medium bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Place lettuce on bottom of 4 servings bowls or plates .
+PREDID: 0
+PRED: place
+  DOBJ: lettuce
+  PARG: bottom of 4 servings bowls or plates
+    PREP: on
+
+
+SENTID: 9
+SENT: Top with rice and chicken mixture .
+PREDID: 0
+PRED: top
+  PARG: rice, chicken mixture
+    PREP: with
+
+
+SENTID: 10
+SENT: Prepare the dressing by placing the bacon in a large , deep skillet .
+PREDID: 0
+PRED: prepare
+  DOBJ: the dressing
+  PARG: placing the bacon
+    PREP: by
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 11
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 12
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 13
+SENT: Sprinkle crumbled bacon over chicken mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: crumbled bacon
+  PARG: chicken mixture
+    PREP: over
+
+
+SENTID: 14
+SENT: Pour off all but 2 tablespoons drippings .
+PREDID: 0
+PRED: pour
+  PARG: all but 2 tablespoons drippings
+    PREP: off
+
+
+SENTID: 15
+SENT: Add 2 tablespoons water , cider vinegar , honey , mustard , salt and pepper ;
+PREDID: 0
+PRED: add
+  DOBJ: 2 tablespoons water , cider vinegar , honey , mustard , salt, pepper
+
+
+SENTID: 16
+SENT: heat just to boiling and pour over salad .
+PREDID: 0
+PRED: heat
+  PARG: boiling
+    PREP: to
+  OARG: just
+
+PREDID: 1
+PRED: pour
+  PARG: salad
+    PREP: over
+

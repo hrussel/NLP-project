@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: To Make Crust :
+PREDID: 0
+PRED: crust
+  PARG: make
+    PREP: to
+
+
+SENTID: 2
+SENT: In a medium bowl combine flour and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: flour, salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir well , then cut in butter until mixture is the size of small peas .
+PREDID: 0
+PRED: stir
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: cut
+  PARG: butter
+    PREP: in
+  PARG: mixture is the size of small peas
+    PREP: until
+
+
+SENTID: 4
+SENT: Add ice water and mix just until dough forms a ball .
+PREDID: 0
+PRED: add
+  DOBJ: ice water
+
+PREDID: 1
+PRED: mix
+  PARG: dough forms a ball
+    PREP: until
+  OARG: just
+
+
+SENTID: 5
+SENT: Allow dough to rest in refrigerator for 20 minutes , then roll out and fit into a 9-inch pie plate .
+PREDID: 0
+PRED: allow
+  DOBJ: dough
+  PARG: rest
+    PREP: to
+  PARG: refrigerator
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: roll
+  PARG: and fit
+    PREP: out
+  PARG: a 9-inch pie plate
+    PREP: into
+
+
+SENTID: 6
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: In a medium bowl mix eggs and sugar .
+PREDID: 0
+PRED: mix
+  DOBJ: eggs, sugar
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Add corn syrup and melted butter or margarine .
+PREDID: 0
+PRED: add
+  DOBJ: corn syrup, melted butter or margarine
+
+
+SENTID: 9
+SENT: Mix until all ingredients are thoroughly combined .
+PREDID: 0
+PRED: mix
+  PARG: all ingredients are thoroughly combined
+    PREP: until
+
+
+SENTID: 10
+SENT: Spread chocolate chips and pecan pieces across bottom of pie shell .
+PREDID: 0
+PRED: spread
+  DOBJ: chocolate chips, pecan pieces
+  PARG: bottom of pie shell
+    PREP: across
+
+
+SENTID: 11
+SENT: Pour egg mixture over chocolate chip and pecan layer .
+PREDID: 0
+PRED: pour
+  DOBJ: egg mixture
+  PARG: chocolate chip, pecan layer
+    PREP: over
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 35 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Serve warm or cool with a dollop of whipped cream and a sprinkling of chocolate chips if desired .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+
+PREDID: 1
+PRED: cool
+  PARG: a dollop of whipped cream, a sprinkling of chocolate chips
+    PREP: with
+  PARG: desired
+    PREP: if
+

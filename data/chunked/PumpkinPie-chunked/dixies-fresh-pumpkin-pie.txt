@@ -1,0 +1,233 @@
+SENTID: 0
+SENT: Cut pumpkin into halves and remove seeds .
+PREDID: 0
+PRED: cut
+  DOBJ: pumpkin
+  PARG: halves
+    PREP: into
+
+PREDID: 1
+PRED: remove
+  DOBJ: seeds
+
+
+SENTID: 1
+SENT: Cut seeded pumpkin into 3-inch chunks .
+PREDID: 0
+PRED: cut
+  DOBJ: seeded pumpkin
+  PARG: 3-inch chunks
+    PREP: into
+
+
+SENTID: 2
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook pumpkin in boiling water until tender , about 20 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: pumpkin
+  PARG: boiling water
+    PREP: in
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Set pumpkin aside to cool until the skin hardens and the flesh is cool enough to handle .
+PREDID: 0
+PRED: set
+  DOBJ: pumpkin
+  PARG: the skin hardens, the flesh is cool enough to handle
+    PREP: until
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 6
+SENT: Scrape pumpkin flesh from skin into a large bowl ;
+PREDID: 0
+PRED: scrape
+  DOBJ: pumpkin flesh
+  PARG: skin
+    PREP: from
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: transfer to a food processor and blend until smooth .
+PREDID: 0
+PRED: transfer
+  PARG: a food processor
+    PREP: to
+
+PREDID: 1
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Put pureed pumpkin into a fine mesh strainer set over a bowl and set aside to drain .
+PREDID: 0
+PRED: put
+  DOBJ: pureed pumpkin
+  PARG: a fine mesh strainer
+    PREP: into
+
+PREDID: 1
+PRED: set
+  PARG: a bowl
+    PREP: over
+
+PREDID: 2
+PRED: set
+  PARG: drain
+    PREP: to
+  OARG: aside
+
+
+SENTID: 9
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: Press pie crusts into pie pans .
+PREDID: 0
+PRED: press
+  DOBJ: pie crusts
+  PARG: pie pans
+    PREP: into
+
+
+SENTID: 11
+SENT: Trim dough to overlap edges of pans by about 1/4 inch .
+PREDID: 0
+PRED: trim
+  DOBJ: dough
+  PARG: overlap edges of pans
+    PREP: to
+  PARG: about 1/4 inch
+    PREP: by
+
+
+SENTID: 12
+SENT: Dip a fork into the egg white first and then into the sugar .
+PREDID: 0
+PRED: dip
+  DOBJ: a fork
+  PARG: the egg white
+    PREP: into
+  PARG: the sugar
+    PREP: into
+  OARG: first
+  OARG: then
+
+
+SENTID: 13
+SENT: Bake pie crust in preheated oven until slightly set , about 5 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pie crust
+  PARG: preheated oven
+    PREP: in
+  PARG: slightly
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 14
+SENT: Place pie pans onto a cookie sheet .
+PREDID: 0
+PRED: place
+  DOBJ: pie pans
+  PARG: a cookie sheet
+    PREP: onto
+
+
+SENTID: 15
+SENT: Beat drained pumpkin , evaporated milk , eggs , brown sugar , cinnamon , ginger , nutmeg , and salt together in a bowl ;
+PREDID: 0
+PRED: beat
+  DOBJ: drained pumpkin , evaporated milk , eggs , brown sugar , cinnamon , ginger , nutmeg , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 16
+SENT: pour into the prepared crusts .
+PREDID: 0
+PRED: pour
+  PARG: the prepared crusts
+    PREP: into
+
+
+SENTID: 17
+SENT: Fold strips of aluminum foil around the edges of the crusts .
+PREDID: 0
+PRED: fold
+  DOBJ: strips of aluminum foil
+  PARG: the edges of the crusts
+    PREP: around
+
+
+SENTID: 18
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 19
+SENT: Reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 20
+SENT: Continue baking pie until a toothpick inserted into the center comes out clean , about 40 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: baking pie
+  PARG: a toothpick inserted into the center comes out clean , about 40 minutes
+    PREP: until
+
+
+SENTID: 21
+SENT: Allow to cool 30 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: serving
+    PREP: before
+  OARG: to cool 30 minutes
+

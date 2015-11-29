@@ -1,0 +1,451 @@
+SENTID: 0
+SENT: Mix water , sugar , yeast , and 2 tablespoons of vegetable oil for several seconds on low speed in the work bowl of a large stand mixer fitted with a dough hook .
+PREDID: 0
+PRED: mix
+  DOBJ: water , sugar , yeast , 2 tablespoons of vegetable oil
+  PARG: several seconds
+    PREP: for
+  PARG: low speed
+    PREP: on
+  PARG: the work bowl of a large stand mixer fitted
+    PREP: in
+  PARG: a dough hook
+    PREP: with
+
+
+SENTID: 1
+SENT: Stop the mixer and add the flour and salt .
+PREDID: 0
+PRED: stop
+  DOBJ: the mixer
+
+PREDID: 1
+PRED: add
+  DOBJ: the flour, salt
+
+
+SENTID: 2
+SENT: Start the mixer on low speed and mix until the flour mixture is incorporated with the yeast mixture ;
+PREDID: 0
+PRED: start
+  DOBJ: the mixer
+  PARG: low speed
+    PREP: on
+
+PREDID: 1
+PRED: mix
+  PARG: the flour mixture is incorporated with the yeast mixture
+    PREP: until
+
+
+SENTID: 3
+SENT: turn speed to medium-low and machine-knead the dough until springy and smooth , 10 to 12 minutes .
+PREDID: 0
+PRED: turn
+  DOBJ: speed
+  PARG: medium-low, machine-knead the dough
+    PREP: to
+  PARG: springy, smooth , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Sprinkle dough with flour occasionally if it sticks to the sides of the bowl .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: dough
+  PARG: flour
+    PREP: with
+  PARG: it sticks
+    PREP: if
+  PARG: the sides of the bowl
+    PREP: to
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Form dough into a ball and place into an oiled bowl ;
+PREDID: 0
+PRED: form
+  DOBJ: dough
+  PARG: a ball
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: an oiled bowl
+    PREP: into
+
+
+SENTID: 6
+SENT: turn the dough over in the bowl several times to oil the surface of the dough .
+PREDID: 0
+PRED: turn
+  DOBJ: the dough
+  PARG: in the bowl several times
+    PREP: over
+  PARG: oil the surface of the dough
+    PREP: to
+
+
+SENTID: 7
+SENT: Cover the dough with a towel , set into a warm place , and allow to rise until double , 30 minutes to 1 hour .
+PREDID: 0
+PRED: cover
+  DOBJ: the dough
+  PARG: a towel
+    PREP: with
+
+PREDID: 1
+PRED: set
+  PARG: a warm place
+    PREP: into
+
+PREDID: 2
+PRED: allow
+  PARG: rise
+    PREP: to
+  PARG: double , 30 minutes to 1 hour
+    PREP: until
+
+
+SENTID: 8
+SENT: Cook the bacon in a large , deep skillet over medium-high heat until evenly browned , about 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: deep
+
+
+SENTID: 9
+SENT: drain on a paper towel-lined plate and allow to cool ;
+PREDID: 0
+PRED: drain
+  PARG: a paper towel-lined plate
+    PREP: on
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 10
+SENT: chop and set aside .
+PREDID: 0
+PRED: chop
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 11
+SENT: Melt butter in a saucepan over medium-low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 12
+SENT: Cook the garlic in the melted butter until fragrant , about 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: the garlic
+  PARG: the melted butter
+    PREP: in
+  PARG: fragrant , about 1 minute
+    PREP: until
+
+
+SENTID: 13
+SENT: Stir the cream into the butter mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the cream
+  PARG: the butter mixture
+    PREP: into
+
+
+SENTID: 14
+SENT: Add the egg yolks and whisk with the butter mixture until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: the egg yolks
+
+PREDID: 1
+PRED: whisk
+  PARG: the butter mixture
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 15
+SENT: Stir 1/2 cup of Parmesan cheese , the Romano cheese , and nutmeg into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: 1/2 cup of parmesan cheese , the romano cheese , nutmeg
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 16
+SENT: season to taste with salt .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt
+    PREP: with
+
+
+SENTID: 17
+SENT: Bring the sauce just barely to a simmer over low heat ;
+PREDID: 0
+PRED: bring
+  DOBJ: the sauce
+  PARG: a simmer
+    PREP: to
+  PARG: low heat
+    PREP: over
+  OARG: just
+  OARG: barely
+
+
+SENTID: 18
+SENT: cook and stir at a simmer until cheeses have melted and sauce has thickened , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: a simmer
+    PREP: at
+
+PREDID: 1
+PRED: stir
+  PARG: cheeses have melted, sauce has thickened , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 19
+SENT: Remove from heat and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 20
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 21
+SENT: Mix the paprika , cayenne pepper , cumin , thyme , 1/8 teaspoon of salt , white pepper , and onion powder together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the paprika , cayenne pepper , cumin , thyme , 1/8 teaspoon of salt , white pepper , onion powder
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 22
+SENT: Rub one side of each chicken breast thoroughly with the spice mixture .
+PREDID: 0
+PRED: rub
+  DOBJ: one side of each chicken breast
+  PARG: the spice mixture
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 23
+SENT: Heat 1 tablespoon vegetable oil in a skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 24
+SENT: Sear the chicken breasts , seasoned sides first , in the hot oil until the spices turn almost black , about 1 minute per side ;
+PREDID: 0
+PRED: sear
+  DOBJ: the chicken breasts , seasoned sides
+  PARG: the hot oil
+    PREP: in
+  PARG: the spices turn almost black , about 1 minute per side
+    PREP: until
+  OARG: first
+
+
+SENTID: 25
+SENT: transfer to a baking sheet .
+PREDID: 0
+PRED: transfer
+  PARG: a baking sheet
+    PREP: to
+
+
+SENTID: 26
+SENT: Bake the chicken breasts in the preheated oven until no longer pink in the center and an instant-read meat thermometer inserted into the thickest part of a breast reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 5 to 10 minutes ;
+PREDID: 0
+PRED: bake
+  DOBJ: the chicken breasts
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center, an instant-read meat thermometer inserted into the thickest part of a breast reads at least 160 degrees f -lrb- 70 degrees c -rrb- , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 27
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 28
+SENT: Punch down pizza dough and roll out onto a floured work surface .
+PREDID: 0
+PRED: punch
+  DOBJ: pizza dough
+  OARG: down
+
+PREDID: 1
+PRED: roll
+  PARG: onto a floured work surface
+    PREP: out
+
+
+SENTID: 29
+SENT: Shape pizza crust on a large pizza stone or heavy baking sheet .
+PREDID: 0
+PRED: shape
+  DOBJ: pizza crust
+  PARG: a large pizza stone or heavy baking sheet
+    PREP: on
+
+
+SENTID: 30
+SENT: Poke several holes in the crust with a fork to help it release steam .
+PREDID: 0
+PRED: poke
+  DOBJ: several holes
+  PARG: the crust
+    PREP: in
+  PARG: a fork
+    PREP: with
+  PARG: help it release steam
+    PREP: to
+
+
+SENTID: 31
+SENT: Bake the crust in the oven until top is very lightly cooked , 5 to 7 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the crust
+  PARG: the oven
+    PREP: in
+  PARG: top is very lightly cooked , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 32
+SENT: Remove from oven and spread a layer of Alfredo sauce over the crust .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: spread
+  DOBJ: a layer of alfredo sauce
+  PARG: the crust
+    PREP: over
+
+
+SENTID: 33
+SENT: Spread the mozzarella cheese in an even layer over the sauce .
+PREDID: 0
+PRED: spread
+  DOBJ: the mozzarella cheese
+  PARG: an even layer
+    PREP: in
+  PARG: the sauce
+    PREP: over
+
+
+SENTID: 34
+SENT: Slice the blackened chicken breasts and arrange over the mozzarella cheese .
+PREDID: 0
+PRED: slice
+  DOBJ: the blackened chicken breasts
+
+PREDID: 1
+PRED: arrange
+  PARG: the mozzarella cheese
+    PREP: over
+
+
+SENTID: 35
+SENT: Sprinkle pizza with spinach leaves and chopped bacon .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pizza
+  PARG: spinach leaves, chopped bacon
+    PREP: with
+
+
+SENTID: 36
+SENT: Top with 3 tablespoons of Parmesan cheese .
+PREDID: 0
+PRED: top
+  PARG: 3 tablespoons of parmesan cheese
+    PREP: with
+
+
+SENTID: 37
+SENT: Return pizza to oven and bake until the mozzarella cheese is melted and browned , 15 to 20 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: pizza
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the mozzarella cheese is melted, browned , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 38
+SENT: Sprinkle pizza with chopped Roma tomatoes to serve .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pizza
+  PARG: chopped roma tomatoes
+    PREP: with
+  PARG: serve
+    PREP: to
+

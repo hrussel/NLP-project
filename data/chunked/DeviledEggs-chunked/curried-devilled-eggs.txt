@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover the saucepan and remove it from the heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: remove
+  DOBJ: it
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 4
+SENT: Leave eggs in the water for 18 minutes -LRB- for large eggs -RRB- .
+PREDID: 0
+PRED: leave
+  DOBJ: eggs
+  PARG: the water
+    PREP: in
+  PARG: 18 minutes -lrb-
+    PREP: for
+  PARG: large eggs -rrb-
+    PREP: for
+
+
+SENTID: 5
+SENT: Drain water ;
+PREDID: 0
+PRED: drain
+  DOBJ: water
+
+
+SENTID: 6
+SENT: pour cold water over eggs until they feel cool to the touch .
+PREDID: 0
+PRED: pour
+  DOBJ: cold water
+  PARG: eggs
+    PREP: over
+  PARG: they feel
+    PREP: until
+
+PREDID: 1
+PRED: cool
+  PARG: the touch
+    PREP: to
+
+
+SENTID: 7
+SENT: Cut eggs in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 8
+SENT: Remove yolk and place in a bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: yolk
+
+PREDID: 1
+PRED: place
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Set egg white halves aside .
+PREDID: 0
+PRED: set
+  DOBJ: egg white halves
+  OARG: aside
+
+
+SENTID: 10
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 11
+SENT: add ham , salad dressing , onion powder , curry powder and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: ham , salad dressing , onion powder , curry powder, pepper
+
+
+SENTID: 12
+SENT: Stir together until well combined .
+PREDID: 0
+PRED: stir
+  PARG: well combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 13
+SENT: Fill each egg white half with about 1 tbsp of the yolk mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: each egg white half
+  PARG: about 1 tbsp of the yolk mixture
+    PREP: with
+
+
+SENTID: 14
+SENT: Sprinkle paprika over top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: paprika
+  PARG: top
+    PREP: over
+
+
+SENTID: 15
+SENT: Chill until serving time .
+PREDID: 0
+PRED: chill
+  PARG: serving time
+    PREP: until
+

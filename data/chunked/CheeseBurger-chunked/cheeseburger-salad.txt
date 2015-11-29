@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Arrange the strips in a single layer on a baking sheet , and bake for 8 to 10 minutes , until the strips are lightly toasted .
+PREDID: 0
+PRED: arrange
+  DOBJ: the strips
+  PARG: a single layer
+    PREP: in
+  PARG: a baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: the strips are lightly toasted
+    PREP: until
+
+
+SENTID: 2
+SENT: Set the strips aside .
+PREDID: 0
+PRED: set
+  DOBJ: the strips
+  OARG: aside
+
+
+SENTID: 3
+SENT: Place the ground beef into a skillet over medium heat , and brown the meat for about 10 to 12 minutes , breaking the beef apart as it cooks , until the meat is well browned and no longer pink inside .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: brown
+  DOBJ: breaking the beef
+  PARG: about 10 to 12 minutes
+    PREP: for
+  PARG: it cooks
+    PREP: as
+  PARG: the meat is well browned, no longer pink inside
+    PREP: until
+  OARG: the meat
+  OARG: apart
+
+
+SENTID: 4
+SENT: Stir the chopped onion , ketchup , dill pickle , and mustard into the beef mixture and mix well .
+PREDID: 0
+PRED: stir
+  DOBJ: the chopped onion , ketchup , dill pickle , mustard
+  PARG: the beef mixture
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Arrange the chopped lettuce on a large serving platter , and spoon the beef mixture over the lettuce .
+PREDID: 0
+PRED: arrange
+  DOBJ: the chopped lettuce
+  PARG: a large serving platter
+    PREP: on
+
+PREDID: 1
+PRED: spoon
+  DOBJ: the beef mixture
+  PARG: the lettuce
+    PREP: over
+
+
+SENTID: 6
+SENT: Top the salad with the sliced onion , plum tomatoes , and shredded cheese , and arrange the hamburger bun croutons around the platter .
+PREDID: 0
+PRED: top
+  DOBJ: the salad
+  PARG: the sliced onion , plum tomatoes , shredded cheese
+    PREP: with
+
+PREDID: 1
+PRED: arrange
+  DOBJ: the hamburger bun croutons
+  PARG: the platter
+    PREP: around
+

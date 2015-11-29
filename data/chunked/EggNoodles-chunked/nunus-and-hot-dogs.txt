@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Bring a large pot of lightly-salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly-salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: add the pasta and cook until al dente , about 5 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: the pasta
+
+PREDID: 1
+PRED: cook
+  PARG: al dente , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Melt 1 tablespoon butter in a skillet .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon butter
+  PARG: a skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook the hot dog pieces in the butter until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the hot dog pieces
+  PARG: the butter
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 5
+SENT: Add the hot dogs to the drained noodles with 2 tablespoons butter , parsley , and Parmesan cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: the hot dogs
+  PARG: the drained noodles
+    PREP: to
+  PARG: 2 tablespoons butter , parsley , parmesan cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: stir until butter is melted and the hot dogs are coated .
+PREDID: 0
+PRED: stir
+  PARG: butter is melted, the hot dogs are coated
+    PREP: until
+

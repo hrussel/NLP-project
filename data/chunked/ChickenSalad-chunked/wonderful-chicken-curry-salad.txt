@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: In a large saucepan , simmer chicken breasts in water for about 7 to 10 minutes , or until cooked through .
+PREDID: 0
+PRED: simmer
+  DOBJ: chicken breasts
+  PARG: a large saucepan
+    PREP: in
+  PARG: water
+    PREP: in
+  PARG: about 7 to 10 minutes
+    PREP: for
+  PARG: cooked through
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain , cool , and tear into small pieces with a fork .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: tear
+  PARG: small pieces
+    PREP: into
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , combine mayonnaise , chutney , curry powder , and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: mayonnaise , chutney , curry powder , pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in chicken , pecans , grapes , and onions .
+PREDID: 0
+PRED: stir
+  PARG: chicken , pecans , grapes , onions
+    PREP: in
+
+
+SENTID: 4
+SENT: Chill .
+PREDID: 0
+PRED: chill
+

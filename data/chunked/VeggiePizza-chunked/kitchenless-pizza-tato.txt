@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: Poke the potato a few times with a fork .
+PREDID: 0
+PRED: poke
+  DOBJ: the potato a few times
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 1
+SENT: Place the potato on a plate in the microwave .
+PREDID: 0
+PRED: place
+  DOBJ: the potato
+  PARG: a plate
+    PREP: on
+  PARG: the microwave
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook at full power for 6 minutes , then let rest for 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: full power
+    PREP: at
+  PARG: 6 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: let
+  DOBJ: rest
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: While the potato is cooking , preheat a toaster oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: a toaster oven
+  PARG: the potato is cooking
+    PREP: while
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Coat the potato with oil and sprinkle with salt .
+PREDID: 0
+PRED: coat
+  DOBJ: the potato
+  PARG: oil
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: salt
+    PREP: with
+
+
+SENTID: 5
+SENT: Place the potato into the toaster oven so that it is sitting directly on the rack .
+PREDID: 0
+PRED: place
+  DOBJ: the potato
+  PARG: the toaster oven
+    PREP: into
+  PARG: it is sitting
+    PREP: that
+  PARG: the rack
+    PREP: on
+  OARG: so
+  OARG: directly
+
+
+SENTID: 6
+SENT: Bake for 10 minutes in the preheated toaster oven .
+PREDID: 0
+PRED: bake
+  PARG: 10 minutes
+    PREP: for
+  PARG: the preheated toaster oven
+    PREP: in
+
+
+SENTID: 7
+SENT: Remove the potato and place it on the tray that comes with the toaster oven .
+PREDID: 0
+PRED: remove
+  DOBJ: the potato
+
+PREDID: 1
+PRED: place
+  DOBJ: it
+  PARG: the tray
+    PREP: on
+  PARG: comes
+    PREP: that
+  PARG: the toaster oven
+    PREP: with
+
+
+SENTID: 8
+SENT: Make a cut lengthwise that is about 1/4 of the way through the potato .
+PREDID: 0
+PRED: make
+  DOBJ: a cut lengthwise
+  PARG: is
+    PREP: that
+  PARG: 1/4 of the way
+    PREP: about
+
+
+SENTID: 9
+SENT: It should pop open without splitting in half .
+PREDID: 0
+PRED: open
+  DOBJ: it should pop
+  PARG: splitting
+    PREP: without
+  PARG: half
+    PREP: in
+
+
+SENTID: 10
+SENT: Press the ends together slightly to open it up more and use a fork to fluff the interior while mixing in the butter .
+PREDID: 0
+PRED: press
+  DOBJ: the ends
+  OARG: together
+  OARG: slightly
+  OARG: to open it
+  OARG: up
+
+PREDID: 1
+PRED: use
+  DOBJ: a fork
+  PARG: fluff the interior
+    PREP: to
+  PARG: mixing
+    PREP: while
+  PARG: the butter
+    PREP: in
+
+
+SENTID: 11
+SENT: Spoon Pizza sauce over the potato and top with mozzarella cheese .
+PREDID: 0
+PRED: spoon
+  DOBJ: pizza sauce
+  PARG: the potato
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Return the potato -LRB- on the tray -RRB- to the toaster oven and cook for 10 more minutes , or until cheese is golden brown .
+PREDID: 0
+PRED: return
+  DOBJ: the potato -lrb-
+  PARG: the tray -rrb-
+    PREP: on
+  PARG: the toaster oven
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 10 more minutes
+    PREP: for
+  PARG: cheese is golden brown
+    PREP: until
+

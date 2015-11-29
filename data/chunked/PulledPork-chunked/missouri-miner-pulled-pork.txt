@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: Season pork roast with half the steak seasoning and place in the center of a slow cooker .
+PREDID: 0
+PRED: season
+  DOBJ: pork roast
+  PARG: half the steak seasoning
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: the center of a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Layer about half the pork rib meat around pork roast and season with about half the remaining steak seasoning , paprika , and chili pepper .
+PREDID: 0
+PRED: layer
+  PARG: half the pork rib meat
+    PREP: about
+  PARG: pork roast
+    PREP: around
+
+PREDID: 1
+PRED: season
+  PARG: about half the remaining steak seasoning , paprika , chili pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Layer the remaining pork ribs in the slower and season with the remaining steak seasoning .
+PREDID: 0
+PRED: layer
+  DOBJ: the remaining pork ribs
+  PARG: the slower, season
+    PREP: in
+  PARG: the remaining steak seasoning
+    PREP: with
+
+
+SENTID: 3
+SENT: Add soy sauce , Worcestershire sauce , and liquid smoke .
+PREDID: 0
+PRED: add
+  DOBJ: soy sauce , worcestershire sauce , liquid smoke
+
+
+SENTID: 4
+SENT: Cook on Low for 10 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 10 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: Transfer meat to a roasting pan ;
+PREDID: 0
+PRED: transfer
+  DOBJ: meat
+  PARG: a roasting pan
+    PREP: to
+
+
+SENTID: 6
+SENT: remove and discard any bones and large chunks of fat .
+PREDID: 0
+PRED: remove
+  DOBJ: any bones, large chunks of fat
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 7
+SENT: Shred pork with tongs or forks .
+PREDID: 0
+PRED: shred
+  DOBJ: pork
+  PARG: tongs or forks
+    PREP: with
+
+
+SENTID: 8
+SENT: Drain and discard liquid from slow cooker ;
+PREDID: 0
+PRED: drain
+  DOBJ: liquid
+
+PREDID: 1
+PRED: discard
+  PARG: slow cooker
+    PREP: from
+
+
+SENTID: 9
+SENT: wipe away any remaining fat .
+PREDID: 0
+PRED: wipe
+  DOBJ: any remaining fat
+  OARG: away
+
+
+SENTID: 10
+SENT: Return shredded pork to slow cooker and add about 1Ê1/2 bottles barbeque sauce .
+PREDID: 0
+PRED: return
+  DOBJ: shredded pork
+  OARG: to slow cooker
+
+PREDID: 1
+PRED: add
+  PARG: 1Ê1/2 bottles barbeque sauce
+    PREP: about
+
+
+SENTID: 11
+SENT: Stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 12
+SENT: Continue to heat on Low until ready to serve .
+PREDID: 0
+PRED: continue
+  PARG: heat
+    PREP: to
+  PARG: low
+    PREP: on
+  PARG: ready to serve
+    PREP: until
+
+
+SENTID: 13
+SENT: Serve with remaining 1/2 bottle barbeque sauce .
+PREDID: 0
+PRED: serve
+  PARG: remaining 1/2 bottle barbeque sauce
+    PREP: with
+

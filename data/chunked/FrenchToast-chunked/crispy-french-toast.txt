@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: Heat deep-fryer to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: heat
+  DOBJ: deep-fryer
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl combine eggs , milk , sugar , cinnamon and vanilla ;
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , milk , sugar , cinnamon, vanilla
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: beat well .
+PREDID: 0
+PRED: beat
+  OARG: well
+
+
+SENTID: 3
+SENT: Place cornflakes in a separate bowl .
+PREDID: 0
+PRED: place
+  DOBJ: cornflakes
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Dip bread slices in egg mixture and press into cornflakes .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: egg mixture
+    PREP: in
+
+PREDID: 1
+PRED: press
+  PARG: cornflakes
+    PREP: into
+
+
+SENTID: 5
+SENT: Carefully slide coated bread slices into hot oil .
+PREDID: 0
+PRED: slide
+  DOBJ: coated bread slices
+  PARG: hot oil
+    PREP: into
+  OARG: carefully
+
+
+SENTID: 6
+SENT: Fry on each side until golden brown .
+PREDID: 0
+PRED: fry
+  PARG: each side
+    PREP: on
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain on paper towels and serve hot .
+PREDID: 0
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+PREDID: 1
+PRED: serve
+  DOBJ: hot
+

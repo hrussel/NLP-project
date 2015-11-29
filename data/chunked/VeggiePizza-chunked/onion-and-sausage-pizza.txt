@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Remove sausage from casings and saute sausage in 2 tablespoons olive oil until browned .
+PREDID: 0
+PRED: remove
+  DOBJ: sausage
+  PARG: casings, saute sausage
+    PREP: from
+  PARG: 2 tablespoons olive oil
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain to remove excess oil .
+PREDID: 0
+PRED: drain
+  PARG: remove excess oil
+    PREP: to
+
+
+SENTID: 2
+SENT: Remove from skillet and set aside .
+PREDID: 0
+PRED: remove
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In skillet , heat 3 tablespoons olive oil , add onions , garlic and saute stirring until onions wilt down .
+PREDID: 0
+PRED: heat
+  DOBJ: 3 tablespoons olive oil
+  PARG: skillet
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: onions , garlic, saute stirring
+  PARG: onions wilt down
+    PREP: until
+
+
+SENTID: 4
+SENT: Add tomato sauce , salt , pepper and red pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: tomato sauce , salt , pepper, red pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Simmer about 5 minutes on low .
+PREDID: 0
+PRED: simmer
+  PARG: 5 minutes
+    PREP: about
+  PARG: low
+    PREP: on
+
+
+SENTID: 6
+SENT: Stir together the sausage and onion and chopped olives .
+PREDID: 0
+PRED: stir
+  DOBJ: the sausage, onion, chopped olives
+  OARG: together
+
+
+SENTID: 7
+SENT: Toast bread lightly under broiler .
+PREDID: 0
+PRED: toast
+  DOBJ: bread
+  PARG: broiler
+    PREP: under
+  OARG: lightly
+
+
+SENTID: 8
+SENT: Top with sausage mix and sprinkle grated mozzarella over all .
+PREDID: 0
+PRED: top
+  PARG: sausage
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  DOBJ: grated mozzarella
+
+PREDID: 2
+PRED: sprinkle
+  PARG: all
+    PREP: over
+
+
+SENTID: 9
+SENT: Broil about 3 minutes under broiler until cheese melts .
+PREDID: 0
+PRED: broil
+  PARG: 3 minutes
+    PREP: about
+  PARG: broiler
+    PREP: under
+  PARG: cheese melts
+    PREP: until
+
+
+SENTID: 10
+SENT: Watch carefully with oven door open .
+PREDID: 0
+PRED: watch
+  PARG: oven door open
+    PREP: with
+  OARG: carefully
+
+
+SENTID: 11
+SENT: Remove from broiler , slice and serve .
+PREDID: 0
+PRED: remove
+  PARG: broiler
+    PREP: from
+
+PREDID: 1
+PRED: slice
+
+PREDID: 2
+PRED: serve
+

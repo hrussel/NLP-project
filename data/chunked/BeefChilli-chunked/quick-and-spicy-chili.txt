@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Place the beef in a skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+  DOBJ: the beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 2
+SENT: In a large pot , mix the beans , corn , tomato sauce , tomato paste , and water .
+PREDID: 0
+PRED: mix
+  DOBJ: the beans , corn , tomato sauce , tomato paste , water
+  PARG: a large pot
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a boil , and reduce heat to low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 4
+SENT: In a food processor , finely chop the jalapenos , habanero , onion , and garlic .
+PREDID: 0
+PRED: chop
+  DOBJ: the jalapenos , habanero , onion , garlic
+  PARG: a food processor
+    PREP: in
+  OARG: finely
+
+
+SENTID: 5
+SENT: Mix into the pot .
+PREDID: 0
+PRED: mix
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 6
+SENT: Mix in the cooked beef .
+PREDID: 0
+PRED: mix
+  PARG: the cooked beef
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir in masa flour .
+PREDID: 0
+PRED: stir
+  PARG: masa flour
+    PREP: in
+
+
+SENTID: 8
+SENT: Season with cayenne pepper , chili powder , salt , black pepper , and sugar .
+PREDID: 0
+PRED: season
+  PARG: cayenne pepper , chili powder , salt , black pepper , sugar
+    PREP: with
+
+
+SENTID: 9
+SENT: Cook 45 minutes to 1 hour , stirring occasionally .
+PREDID: 0
+PRED: cook
+  PARG: 1 hour , stirring
+    PREP: to
+  OARG: 45 minutes
+  OARG: occasionally
+

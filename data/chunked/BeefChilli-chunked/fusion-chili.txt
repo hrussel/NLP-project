@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: In a small bowl , soak chiles in water and vinegar for 30 minutes .
+PREDID: 0
+PRED: soak
+  DOBJ: chiles
+  PARG: a small bowl
+    PREP: in
+  PARG: water, vinegar
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: After soaking , puree in a blender or food processor until very smooth , about 5 minutes ;
+PREDID: 0
+PRED: puree
+  PARG: soaking
+    PREP: after
+  PARG: a blender or food processor
+    PREP: in
+  PARG: very
+    PREP: until
+
+PREDID: 1
+PRED: smooth
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Place sausage and ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: sausage, ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 4
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove meat from pan , and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: meat
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: In a large pot , Heat 3 to 4 tablespoons of the meat drippings over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 3 to 4 tablespoons of the meat drippings
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Saute white onion , red onion , sweet onion , celery , carrots and garlic until onions are soft and translucent .
+PREDID: 0
+PRED: saute
+  DOBJ: white onion , red onion , sweet onion , celery , carrots, garlic
+  PARG: onions are soft, translucent
+    PREP: until
+
+
+SENTID: 8
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Stir in tomato paste , and allow to caramelize .
+PREDID: 0
+PRED: stir
+  PARG: tomato paste
+    PREP: in
+
+PREDID: 1
+PRED: allow
+  OARG: to caramelize
+
+
+SENTID: 10
+SENT: Pour in wine to deglaze the pot , scraping up any bits stuck to the bottom .
+PREDID: 0
+PRED: pour
+  DOBJ: any bits stuck
+  PARG: wine
+    PREP: in
+  PARG: the bottom
+    PREP: to
+  OARG: to deglaze the pot , scraping
+  OARG: up
+
+
+SENTID: 11
+SENT: Stir in cooked meat , tomatoes , Worcestershire sauce and hot pepper sauce .
+PREDID: 0
+PRED: stir
+  PARG: cooked meat , tomatoes , worcestershire sauce, hot pepper sauce
+    PREP: in
+
+
+SENTID: 12
+SENT: Season with chili powder , cumin and parsley .
+PREDID: 0
+PRED: season
+  PARG: chili powder , cumin, parsley
+    PREP: with
+
+
+SENTID: 13
+SENT: Bring to a boil , then stir in blended chile mixture and honey .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: blended chile mixture, honey
+    PREP: in
+
+
+SENTID: 14
+SENT: Carefully mix in kidney beans pinto beans without breaking them .
+PREDID: 0
+PRED: mix
+  PARG: kidney beans pinto beans
+    PREP: in
+  PARG: breaking them
+    PREP: without
+  OARG: carefully
+
+
+SENTID: 15
+SENT: Cover , and simmer for 3 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: 3 hours
+    PREP: for
+
+
+SENTID: 16
+SENT: Stir and scrape the bottom every hour or so .
+PREDID: 0
+PRED: stir
+  OARG: the bottom every hour
+
+PREDID: 1
+PRED: scrape
+  OARG: so
+

@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line a baking sheet with aluminum foil .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix ground beef , 1/2 cup ketchup , 1/2 cup shredded cheese , egg , and garlic powder in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , 1/2 cup ketchup , 1/2 cup shredded cheese , egg , garlic powder
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Form mixture into 1 inch balls , and gently press onto prepared baking sheet to form mini-burgers .
+PREDID: 0
+PRED: form
+  DOBJ: mixture
+  PARG: 1 inch balls
+    PREP: into
+  OARG: gently
+
+PREDID: 1
+PRED: press
+  PARG: prepared baking sheet
+    PREP: onto
+  PARG: form mini-burgers
+    PREP: to
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Spread remaining ketchup on burgers , and sprinkle with remaining cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining ketchup
+  PARG: burgers
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Return burgers to the oven , and bake until cheese is melted and bubbly , about 5 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: burgers
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: cheese is melted, bubbly , about 5 minutes
+    PREP: until
+

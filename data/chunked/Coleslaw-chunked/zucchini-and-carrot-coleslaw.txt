@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: Place zucchini in a colander and let drain thoroughly , about 30 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: zucchini
+  PARG: a colander, let drain
+    PREP: in
+  PARG: 30 minutes
+    PREP: about
+  OARG: thoroughly
+
+
+SENTID: 1
+SENT: Toss with carrot in a large salad bowl ;
+PREDID: 0
+PRED: toss
+  PARG: carrot
+    PREP: with
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: stir in creamy salad dressing and sugar .
+PREDID: 0
+PRED: stir
+  PARG: creamy salad dressing, sugar
+    PREP: in
+
+
+SENTID: 3
+SENT: Chill the coleslaw for 1 hour to blend flavors , stir again , and season with salt and black pepper .
+PREDID: 0
+PRED: chill
+  DOBJ: the coleslaw
+  PARG: 1 hour
+    PREP: for
+  PARG: blend flavors
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  OARG: again
+
+PREDID: 2
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+

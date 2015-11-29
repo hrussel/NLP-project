@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix onion , bell pepper , bread crumbs , hot pepper sauce , egg , salt , and pepper together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: onion , bell pepper , bread crumbs , hot pepper sauce , egg , salt , pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add ground beef ;
+PREDID: 0
+PRED: add
+  DOBJ: ground beef
+
+
+SENTID: 3
+SENT: mix .
+PREDID: 0
+PRED: mix
+
+
+SENTID: 4
+SENT: Press beef mixture into a loaf pan .
+PREDID: 0
+PRED: press
+  DOBJ: beef mixture
+  PARG: a loaf pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Sprinkle brown gravy mix over meat .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: brown gravy mix
+  PARG: meat
+    PREP: over
+
+
+SENTID: 6
+SENT: Bake in preheated oven until cooked through and browned , 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: cooked through, browned , 1 hour
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove from oven and let rest for 10 minutes before serving .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: rest
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

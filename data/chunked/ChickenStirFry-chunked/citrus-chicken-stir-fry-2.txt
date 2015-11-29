@@ -1,0 +1,196 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir in whole-wheat noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: whole-wheat noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook uncovered , stirring occasionally , until the pasta has cooked through but is firm to the bite , 5 to 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered , stirring
+  PARG: the pasta has cooked through but is firm to the bite , 5 to 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well and set aside .
+PREDID: 0
+PRED: drain
+  OARG: well
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 4
+SENT: Combine chicken stock , orange marmalade , tamari sauce , whole ginger root piece , and ground black pepper in a pot over medium-high heat .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken stock , orange marmalade , tamari sauce , whole ginger root piece , ground black pepper
+  PARG: a pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Bring sauce to a boil and reduce heat to medium .
+PREDID: 0
+PRED: bring
+  DOBJ: sauce
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 6
+SENT: Simmer until sauce reduces and thickens ;
+PREDID: 0
+PRED: simmer
+  PARG: sauce reduces, thickens
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove sauce from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: sauce
+  PARG: heat
+    PREP: from
+
+
+SENTID: 8
+SENT: Stir in lemon juice and set aside .
+PREDID: 0
+PRED: stir
+  PARG: lemon juice
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: Heat peanut oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: peanut oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 10
+SENT: Cook and stir chicken in hot oil until golden , no longer pink in the center , and the juices run clear , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: golden , no longer pink in the center , the juices run clear , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Remove chicken from skillet and set aside , leaving oil in the pan .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: set
+  DOBJ: leaving oil
+  PARG: the pan
+    PREP: in
+  OARG: aside
+
+
+SENTID: 12
+SENT: Cook and stir the stir-fry vegetables in the same skillet used for the chicken until vegetables are almost tender , 4 to 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the stir-fry vegetables
+
+PREDID: 1
+PRED: stir
+  PARG: the same skillet used
+    PREP: in
+  PARG: the chicken
+    PREP: for
+  PARG: vegetables are almost tender , 4 to 5 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Remove ginger root piece from sauce and discard .
+PREDID: 0
+PRED: remove
+  DOBJ: ginger root piece
+  PARG: sauce
+    PREP: from
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 14
+SENT: Stir chicken and sauce into vegetables and cook until heated through , 1 to 2 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: chicken
+
+PREDID: 1
+PRED: sauce
+  PARG: vegetables
+    PREP: into
+
+PREDID: 2
+PRED: cook
+  PARG: heated through , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Serve over whole-wheat noodles .
+PREDID: 0
+PRED: serve
+  PARG: whole-wheat noodles
+    PREP: over
+

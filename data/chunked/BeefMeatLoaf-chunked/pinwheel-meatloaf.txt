@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Make the filling :
+PREDID: 0
+PRED: make
+  DOBJ: the filling
+
+
+SENTID: 2
+SENT: Coarsely chop the spinach , and place in a large bowl ;
+PREDID: 0
+PRED: chop
+  DOBJ: the spinach
+  OARG: coarsely
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Heat butter in a large heavy skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: butter
+  PARG: a large heavy skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Saute mushrooms and onion until onion is translucent .
+PREDID: 0
+PRED: saute
+  DOBJ: mushrooms, onion
+  PARG: onion is translucent
+    PREP: until
+
+
+SENTID: 6
+SENT: Transfer mushroom mixture to bowl with spinach .
+PREDID: 0
+PRED: transfer
+  DOBJ: mushroom mixture
+  PARG: bowl
+    PREP: to
+  PARG: spinach
+    PREP: with
+
+
+SENTID: 7
+SENT: Mix in 1/2 cup bread crumbs , 1 egg and parsley .
+PREDID: 0
+PRED: mix
+  PARG: 1/2 cup bread crumbs , 1 egg, parsley
+    PREP: in
+
+
+SENTID: 8
+SENT: Season with salt , pepper and nutmeg .
+PREDID: 0
+PRED: season
+  PARG: salt , pepper, nutmeg
+    PREP: with
+
+
+SENTID: 9
+SENT: In a large bowl , combine ground beef , ground pork , Cheddar cheese , 1/2 cup bread crumbs , 1 egg .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , ground pork , cheddar cheese , 1/2 cup bread crumbs , 1 egg
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Season with Worcestershire sauce , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: worcestershire sauce , salt, pepper
+    PREP: with
+
+
+SENTID: 11
+SENT: Place meat mixture between two sheets of waxed paper , and roll into a rectangle approximately 18x8 inches .
+PREDID: 0
+PRED: place
+  DOBJ: meat mixture
+  PARG: two sheets of waxed paper
+    PREP: between
+
+PREDID: 1
+PRED: roll
+  DOBJ: 18x8 inches
+  PARG: a rectangle
+    PREP: into
+  OARG: approximately
+
+
+SENTID: 12
+SENT: Remove top sheet .
+PREDID: 0
+PRED: remove
+  DOBJ: top sheet
+
+
+SENTID: 13
+SENT: Spread spinach mixture evenly over meat , leaving a 1/2 inch border .
+PREDID: 0
+PRED: spread
+  DOBJ: leaving a 1/2 inch border
+  PARG: meat
+    PREP: over
+  OARG: evenly
+  OARG: spinach mixture
+
+
+SENTID: 14
+SENT: Place loaf into an 8x4 inch loaf pan .
+PREDID: 0
+PRED: place
+  DOBJ: loaf
+  PARG: an 8x4 inch loaf pan
+    PREP: into
+
+
+SENTID: 15
+SENT: Bake in preheated oven for about 1 hour , or until browned and juices run clear .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: about 1 hour
+    PREP: for
+  PARG: browned, juices run clear
+    PREP: until
+
+
+SENTID: 16
+SENT: Serve hot or cold .
+PREDID: 0
+PRED: serve
+  DOBJ: hot or cold
+

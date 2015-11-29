@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease one 9 or 10 inch tube pan .
+PREDID: 0
+PRED: grease
+  DOBJ: one 9 or 10 inch tube pan
+
+
+SENTID: 2
+SENT: Combine the sugar , flour , salt , cinnamon , soda , oil .
+PREDID: 0
+PRED: combine
+  DOBJ: the sugar , flour , salt , cinnamon , soda , oil
+
+
+SENTID: 3
+SENT: With an electric mixer beat in the eggs one at a time .
+PREDID: 0
+PRED: beat
+  PARG: an electric mixer
+    PREP: with
+  PARG: the eggs one at a time
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in the carrots and the walnuts .
+PREDID: 0
+PRED: stir
+  PARG: the carrots, the walnuts
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour the batter into the prepared baking pan .
+PREDID: 0
+PRED: pour
+  DOBJ: the batter
+  PARG: the prepared baking pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 1 hour 20 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Note :
+PREDID: 0
+PRED: note
+
+
+SENTID: 8
+SENT: With an electric mixer blend the cream cheese and cream .
+PREDID: 0
+PRED: blend
+  DOBJ: the cream cheese
+  PARG: an electric mixer
+    PREP: with
+
+PREDID: 1
+PRED: cream
+
+
+SENTID: 9
+SENT: Add the vanilla and confectioners ' sugar .
+PREDID: 0
+PRED: add
+  DOBJ: the vanilla, confectioners ' sugar
+
+
+SENTID: 10
+SENT: Frosting can be spread and a still warm cake .
+PREDID: 0
+PRED: cake
+  DOBJ: frosting can be spread, a still warm
+

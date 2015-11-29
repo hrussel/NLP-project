@@ -1,0 +1,175 @@
+SENTID: 0
+SENT: Place bacon in a wok or large skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a wok or large skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: cook and stir over medium-high heat until crisp , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: crisp , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove bacon with a slotted spoon and reserve bacon drippings in the wok .
+PREDID: 0
+PRED: remove
+  DOBJ: bacon
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: reserve
+  DOBJ: bacon drippings
+  PARG: the wok
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir shallots in bacon drippings over medium-high heat until fragrant and light brown , 1 to 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: shallots
+
+PREDID: 1
+PRED: stir
+  PARG: bacon drippings
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: fragrant, light brown , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir chicken into shallots and cook without stirring until browned on one side , 45 seconds to 1 minute ;
+PREDID: 0
+PRED: stir
+  DOBJ: chicken
+  PARG: shallots
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: stirring
+    PREP: without
+  PARG: browned on one side , 45 seconds to 1 minute
+    PREP: until
+
+
+SENTID: 5
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 6
+SENT: Continue cooking until chicken is browned , about 1 minute .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: chicken is browned , about 1 minute
+    PREP: until
+
+
+SENTID: 7
+SENT: Add 2 teaspoons curry powder ;
+PREDID: 0
+PRED: add
+  DOBJ: 2 teaspoons curry powder
+
+
+SENTID: 8
+SENT: stir until chicken is coated .
+PREDID: 0
+PRED: stir
+  PARG: chicken is coated
+    PREP: until
+
+
+SENTID: 9
+SENT: Make a well in the center of chicken and pour oil into center of the well ;
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the center of chicken
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: oil
+  PARG: center of the well
+    PREP: into
+
+
+SENTID: 10
+SENT: add egg yolks .
+PREDID: 0
+PRED: add
+  DOBJ: egg yolks
+
+
+SENTID: 11
+SENT: Cook and stir egg yolks until set , 1 to 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg yolks
+
+PREDID: 1
+PRED: stir
+  PARG: set , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Add rice and stir , breaking up rice .
+PREDID: 0
+PRED: add
+  DOBJ: rice
+
+PREDID: 1
+PRED: stir
+  DOBJ: breaking
+  OARG: up
+
+
+SENTID: 13
+SENT: Mix chile pepper , cilantro , soy sauce , remaining 2 teaspoons curry powder , fish sauce , and sugar into rice mixture ;
+PREDID: 0
+PRED: mix
+  DOBJ: remaining 2 teaspoons curry powder , fish sauce , sugar
+  PARG: rice mixture
+    PREP: into
+  OARG: chile pepper , cilantro , soy sauce
+
+
+SENTID: 14
+SENT: add shrimp and cook until shrimp is cooked through and pink , about 2 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: shrimp
+
+PREDID: 1
+PRED: cook
+  PARG: shrimp is cooked through, pink , about 2 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Fold pineapple , green onions , and bacon into rice mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: pineapple , green onions , bacon
+  PARG: rice mixture
+    PREP: into
+

@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: In a large bowl combine the flour , sugar , cocoa powder and baking powder .
+PREDID: 0
+PRED: combine
+  DOBJ: the flour , sugar , cocoa powder, baking powder
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In another bowl , blend the bananas , oil and egg together .
+PREDID: 0
+PRED: blend
+  DOBJ: the bananas , oil, egg
+  PARG: another bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add to dry ingredients , mixing just until blended .
+PREDID: 0
+PRED: add
+  PARG: dry ingredients , mixing
+    PREP: to
+  PARG: blended
+    PREP: until
+  OARG: just
+
+
+SENTID: 3
+SENT: Fold in the chocolate chips .
+PREDID: 0
+PRED: fold
+  PARG: the chocolate chips
+    PREP: in
+
+
+SENTID: 4
+SENT: Spoon the batter into a greased muffin pan , filling three-fourths full .
+PREDID: 0
+PRED: spoon
+  DOBJ: the batter
+  PARG: a greased muffin pan , filling three-fourths full
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in a preheated 425 degree F -LRB- 220 degrees C -RRB- for 15 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 425 degree f -lrb- 220 degrees c -rrb-
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove the muffins to a wire rack to cool completely .
+PREDID: 0
+PRED: remove
+  DOBJ: the muffins
+  PARG: a wire rack
+    PREP: to
+  OARG: to cool
+  OARG: completely
+

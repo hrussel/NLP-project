@@ -1,0 +1,118 @@
+T1	predicate 0 5	Place
+T2	predicate 36 41	cover
+T3	predicate 61 66	bring
+T4	predicate 78 84	Reduce
+T5	predicate 108 114	simmer
+T6	predicate 147 152	Drain
+T7	predicate 157 161	cool
+T8	predicate 163 167	Chop
+T9	predicate 181 189	transfer
+T10	predicate 215 220	Place
+T11	predicate 254 258	cook
+T12	predicate 344 349	Drain
+T13	predicate 384 391	Crumble
+T14	predicate 409 413	Stir
+T15	predicate 574 580	Season
+T16	predicate 618 625	Garnish
+T17	arg_object 626 631	salad
+T18	Evolution 626 631	salad
+E1	Evolution:T18 Cause:T15
+T19	arg_co-object 632 713	with slices of hard-cooked egg, 3 sprigs of fresh parsley, and a pinch of paprika
+R1	object Arg1:T16 Arg2:T17	
+R2	co-object Arg1:T16 Arg2:T19	
+T20	arg_co-object 590 616	with salt and black pepper
+R3	co-object Arg1:T15 Arg2:T20	
+R4	object Arg1:T15 Arg2:T14	
+T21	arg_object 414 424	mayonnaise
+T22	arg_object 426 440	crumbled bacon
+T23	arg_object 442 450	cucumber
+T24	arg_object 452 461	red onion
+T25	arg_object 463 477	3 chopped eggs
+T26	arg_object 479 485	celery
+T27	arg_object 487 502	1/2 cup parsley
+T28	arg_object 508 528	1 tablespoon paprika
+T29	arg_co-object 529 546	into the potatoes
+T30	Evolution 534 546	the potatoes
+E2	Evolution:T30 Cause:T9
+T31	arg_duration 547 572	until thoroughly combined
+R5	object Arg1:T14 Arg2:T21	
+R6	object Arg1:T14 Arg2:T22	
+R7	object Arg1:T14 Arg2:T23	
+R8	object Arg1:T14 Arg2:T24	
+R9	object Arg1:T14 Arg2:T25	
+R10	object Arg1:T14 Arg2:T26	
+R11	object Arg1:T14 Arg2:T27	
+R12	object Arg1:T14 Arg2:T28	
+R13	co-object Arg1:T14 Arg2:T29	
+R14	duration Arg1:T14 Arg2:T31	
+T32	arg_object 392 397	bacon
+T33	Evolution 392 397	bacon
+E3	Evolution:T33 Cause:T12
+T34	arg_duration 398 407	when cool
+R15	object Arg1:T13 Arg2:T32	
+R16	duration Arg1:T13 Arg2:T34	
+T35	Evolution 426 440	crumbled bacon
+E4	Evolution:T35 Cause:T13
+T36	arg_object 350 366	the bacon slices
+T37	arg_location 367 382	on paper towels
+R17	object Arg1:T12 Arg2:T36	
+R18	location Arg1:T12 Arg2:T37	
+T38	Evolution 350 366	the bacon slices
+E5	Evolution:T38 Cause:T11
+T39	arg_other 259 280	over medium-high heat
+T40	arg_other 282 302	turning occasionally
+T41	arg_duration 304 342	until evenly browned, about 10 minutes
+R19	other Arg1:T11 Arg2:T39	
+R20	other Arg1:T11 Arg2:T40	
+R21	duration Arg1:T11 Arg2:T41	
+R22	object Arg1:T11 Arg2:T10	
+T42	arg_object 221 230	the bacon
+T43	arg_location 231 249	in a large skillet
+R23	object Arg1:T10 Arg2:T42	
+R24	location Arg1:T10 Arg2:T43	
+T44	arg_object 168 176	potatoes
+T45	Evolution 168 176	potatoes
+E6	Evolution:T45 Cause:T7
+R25	object Arg1:T8 Arg2:T44	
+R26	object Arg1:T9 Arg2:T8	
+T46	arg_location 190 213	into a large salad bowl
+R27	location Arg1:T9 Arg2:T46	
+R28	object Arg1:T7 Arg2:T6	
+R29	object Arg1:T6 Arg2:T5	
+R30	object Arg1:T5 Arg2:T4	
+T47	arg_duration 115 145	until tender, about 20 minutes
+R31	duration Arg1:T5 Arg2:T47	
+T48	arg_object 85 89	heat
+R32	object Arg1:T4 Arg2:T48	
+R33	co-object Arg1:T4 Arg2:T3	
+T49	arg_other 90 103	to medium-low
+R34	other Arg1:T4 Arg2:T49	
+T50	arg_other 67 76	to a boil
+R35	other Arg1:T3 Arg2:T50	
+R36	object Arg1:T3 Arg2:T2	
+T51	arg_co-object 42 59	with salted water
+R37	co-object Arg1:T2 Arg2:T51	
+R38	object Arg1:T2 Arg2:T1	
+T52	arg_object 6 14	potatoes
+T53	arg_location 15 31	into a large pot
+R39	object Arg1:T1 Arg2:T52	
+R40	location Arg1:T1 Arg2:T53	
+T54	ingredient 6 14	potatoes
+T55	ingredient 47 59	salted water
+R41	co-object Arg1:T6 Arg2:T5	
+T56	ingredient 221 230	the bacon
+R42	co-object Arg1:T12 Arg2:T11	
+T57	ingredient 414 424	mayonnaise
+T58	ingredient 442 450	cucumber
+T59	ingredient 452 461	red onion
+T60	ingredient 463 477	3 chopped eggs
+T61	ingredient 479 485	celery
+T62	ingredient 487 502	1/2 cup parsley
+T63	ingredient 508 528	1 tablespoon paprika
+T64	ingredient 595 599	salt
+T65	ingredient 604 616	black pepper
+T66	arg_other 581 589	to taste
+R43	other Arg1:T15 Arg2:T66	
+T67	ingredient 637 662	slices of hard-cooked egg
+T68	ingredient 664 689	3 sprigs of fresh parsley
+T69	ingredient 695 713	a pinch of paprika

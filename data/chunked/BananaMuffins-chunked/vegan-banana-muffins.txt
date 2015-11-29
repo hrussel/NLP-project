@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups or line with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix flour , white sugar , brown sugar , cinnamon , baking powder , baking soda , nutmeg , and salt together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , white sugar , brown sugar , cinnamon , baking powder , baking soda , nutmeg , salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir bananas , canola oil , and coconut milk together in a separate bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: bananas , canola oil , coconut milk
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: mix banana mixture into flour mixture until just combined .
+PREDID: 0
+PRED: mix
+  DOBJ: banana mixture
+  PARG: flour mixture
+    PREP: into
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Fill muffin cups with batter .
+PREDID: 0
+PRED: fill
+  DOBJ: muffin cups
+  PARG: batter
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until a tooth pick inserted in the center of a muffin comes out clean , 30 to 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a tooth pick inserted in the center of a muffin comes out clean , 30 to 35 minutes
+    PREP: until
+

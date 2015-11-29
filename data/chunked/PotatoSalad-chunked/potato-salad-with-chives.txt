@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Place the potatoes into a pan , and fill with just enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a pan
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  DOBJ: water
+  PARG: just
+    PREP: with
+  PARG: cover
+    PREP: to
+  OARG: enough
+
+
+SENTID: 1
+SENT: Bring to a boil , then simmer over low heat until tender , about 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and cool under cold running water .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+
+SENTID: 3
+SENT: In a large bowl , stir together the sour cream , mayonnaise , and 1/2 cup of chives .
+PREDID: 0
+PRED: stir
+  DOBJ: the sour cream , mayonnaise , 1/2 cup of chives
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: When the potatoes have cooled , stir them into this mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: them
+  PARG: this mixture
+    PREP: into
+  OARG: when the potatoes have cooled
+
+
+SENTID: 5
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Garnish with remaining chives .
+PREDID: 0
+PRED: garnish
+  PARG: remaining chives
+    PREP: with
+

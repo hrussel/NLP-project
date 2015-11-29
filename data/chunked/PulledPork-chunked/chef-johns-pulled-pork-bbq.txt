@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: Preheat oven to 210 degrees F -LRB- 100 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 210 degrees f -lrb- 100 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Sprinkle dry rub generously on all sides of pork roast and place meat into a heavy pan or Dutch oven .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: dry
+
+PREDID: 1
+PRED: rub
+  PARG: all sides of pork roast
+    PREP: on
+  OARG: generously
+
+PREDID: 2
+PRED: place
+  DOBJ: meat
+  PARG: a heavy pan or dutch oven
+    PREP: into
+
+
+SENTID: 2
+SENT: Pour 1/4 teaspoon of liquid smoke flavoring into each of two 6-ounce ramekins ;
+PREDID: 0
+PRED: pour
+  DOBJ: 1/4 teaspoon of liquid smoke flavoring
+  PARG: each of two 6-ounce ramekins
+    PREP: into
+
+
+SENTID: 3
+SENT: fill ramekins with 1/2 cup water each .
+PREDID: 0
+PRED: fill
+  DOBJ: ramekins
+  PARG: 1/2 cup water each
+    PREP: with
+
+
+SENTID: 4
+SENT: Place ramekins into the Dutch oven on either side of the roast .
+PREDID: 0
+PRED: place
+  DOBJ: ramekins
+  PARG: the dutch oven
+    PREP: into
+  PARG: either side of the roast
+    PREP: on
+
+
+SENTID: 5
+SENT: Place lid onto Dutch oven .
+PREDID: 0
+PRED: place
+  DOBJ: lid
+  PARG: dutch oven
+    PREP: onto
+
+
+SENTID: 6
+SENT: Roast pork in the preheated oven until very tender , 12 hours .
+PREDID: 0
+PRED: roast
+  DOBJ: pork
+  PARG: the preheated oven
+    PREP: in
+  PARG: very tender , 12 hours
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove roast from Dutch oven , place onto a work surface -LRB- such as a cutting board -RRB- , and separate the meat from the bone using your fingers .
+PREDID: 0
+PRED: remove
+  DOBJ: roast
+  PARG: dutch oven
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a work surface -lrb- such
+    PREP: onto
+  PARG: a cutting board -rrb-
+    PREP: as
+
+PREDID: 2
+PRED: separate
+  DOBJ: the meat
+  PARG: the bone using your fingers
+    PREP: from
+
+
+SENTID: 8
+SENT: Discard any large pieces of fat .
+PREDID: 0
+PRED: discard
+  DOBJ: any large pieces of fat
+
+
+SENTID: 9
+SENT: Roughly chop pork with a large knife or cleaver ;
+PREDID: 0
+PRED: chop
+  DOBJ: pork
+  PARG: a large knife or cleaver
+    PREP: with
+  OARG: roughly
+
+
+SENTID: 10
+SENT: drizzle with 3/4 cup barbeque sauce .
+PREDID: 0
+PRED: drizzle
+  PARG: 3/4 cup barbeque sauce
+    PREP: with
+
+
+SENTID: 11
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Spread about 1 tablespoon barbeque sauce onto each bun and pile pork on buns to serve .
+PREDID: 0
+PRED: spread
+  PARG: 1 tablespoon barbeque sauce
+    PREP: about
+  PARG: each bun
+    PREP: onto
+
+PREDID: 1
+PRED: pile
+  DOBJ: pork
+  PARG: buns
+    PREP: on
+  PARG: serve
+    PREP: to
+

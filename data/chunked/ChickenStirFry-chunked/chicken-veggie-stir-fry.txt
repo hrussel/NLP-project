@@ -1,0 +1,148 @@
+SENTID: 0
+SENT: Heat oil in a large skillet or wok and saute chicken until cooked through -LRB- no longer pink -RRB- .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet or wok
+    PREP: in
+
+PREDID: 1
+PRED: saute
+  DOBJ: chicken
+  PARG: cooked through -lrb- no longer pink -rrb-
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in celery and zucchini and stir fry for 3 minutes ;
+PREDID: 0
+PRED: stir
+  PARG: celery, zucchini, stir
+    PREP: in
+
+PREDID: 1
+PRED: fry
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: then add mushrooms and spinach and stir fry another 2 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms, spinach
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  OARG: fry another 2 minutes
+
+
+SENTID: 3
+SENT: Reduce heat to low and allow to simmer .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: simmer
+    PREP: to
+
+
+SENTID: 4
+SENT: Meanwhile , bring salted water to a boil in a medium saucepan .
+PREDID: 0
+PRED: bring
+  DOBJ: salted water
+  PARG: a boil
+    PREP: to
+  PARG: a medium saucepan
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Add rice , reduce heat , cover and simmer for 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: rice
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: cover
+  PARG: 20 minutes
+    PREP: for
+
+PREDID: 3
+PRED: simmer
+
+
+SENTID: 6
+SENT: Prepare ramen noodles according to package directions , then stir ramen into prepared rice and set aside .
+PREDID: 0
+PRED: prepare
+  DOBJ: ramen noodles according
+  PARG: package directions
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  DOBJ: ramen
+  PARG: prepared rice, set
+    PREP: into
+  OARG: aside
+
+
+SENTID: 7
+SENT: In a small bowl , combine the cornstarch , water , oil and soy sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the cornstarch , water , oil, soy sauce
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix well and stir mixture into chicken and vegetables , then stir in rice and noodles .
+PREDID: 0
+PRED: mix
+  DOBJ: mixture
+  OARG: well
+
+PREDID: 1
+PRED: stir
+  PARG: chicken, vegetables
+    PREP: into
+  OARG: then
+
+PREDID: 2
+PRED: stir
+  PARG: rice, noodles
+    PREP: in
+
+
+SENTID: 9
+SENT: Mix all together and simmer for another 5 minutes .
+PREDID: 0
+PRED: mix
+  DOBJ: all together
+
+PREDID: 1
+PRED: simmer
+  PARG: another 5 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

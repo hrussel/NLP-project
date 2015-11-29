@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , brown ground beef together with onion , crushed red pepper , garlic powder , and seasoned pepper .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: onion , crushed red pepper , garlic powder , seasoned pepper
+    PREP: with
+  OARG: together
+
+
+SENTID: 1
+SENT: Drain off the fat , and place the mixture into a slow cooker .
+PREDID: 0
+PRED: drain
+  PARG: the fat
+    PREP: off
+
+PREDID: 1
+PRED: place
+  DOBJ: the mixture
+  PARG: a slow cooker
+    PREP: into
+
+
+SENTID: 2
+SENT: Stir mushrooms , baked beans , kidney beans with liquid , tomato paste , sugar , carrots , celery , peppers , beer , and barbeque sauce into the slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: mushrooms , baked beans , kidney beans
+  PARG: liquid , tomato paste , sugar , carrots , celery , peppers , beer , barbeque sauce
+    PREP: with
+  PARG: the slow cooker
+    PREP: into
+
+
+SENTID: 3
+SENT: Season with hot sauce and more crushed red pepper .
+PREDID: 0
+PRED: season
+  PARG: hot sauce, more crushed red pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Cover , and cook on Low for 4 to 5 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 4 to 5 hours
+    PREP: for
+

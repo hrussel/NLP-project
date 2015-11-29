@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Brown the ground beef completely in a large skillet over medium heat ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: completely
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Transfer the beef to a slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: the beef
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 3
+SENT: Brown the sausage completely in a large skillet over medium heat ;
+PREDID: 0
+PRED: brown
+  DOBJ: the sausage
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: completely
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Transfer the beef to a slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: the beef
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 6
+SENT: Add the crushed tomatoes , corn , black beans , kidney beans , ranch dressing mix , taco seasoning mix , onion , green bell pepper , red bell pepper , diced tomatoes with green chile peppers , chili sauce , jalapeno peppers , beer , and black pepper to the slow cooker .
+PREDID: 0
+PRED: add
+  DOBJ: the crushed tomatoes , corn , black beans , kidney beans , ranch dressing mix , taco seasoning mix , onion , green bell pepper , red bell pepper , diced tomatoes
+  PARG: green chile peppers , chili sauce , jalapeno peppers , beer , black pepper
+    PREP: with
+  PARG: the slow cooker
+    PREP: to
+

@@ -1,0 +1,188 @@
+SENTID: 0
+SENT: Scrub potatoes and cut in half or quarters , if larger .
+PREDID: 0
+PRED: scrub
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cut
+  PARG: half or quarters
+    PREP: in
+  PARG: larger
+    PREP: if
+
+
+SENTID: 1
+SENT: In a medium saucepan , cover potatoes with cold water .
+PREDID: 0
+PRED: cover
+  DOBJ: potatoes
+  PARG: a medium saucepan
+    PREP: in
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil over high heat ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: season water with salt .
+PREDID: 0
+PRED: season
+  DOBJ: water
+  PARG: salt
+    PREP: with
+
+
+SENTID: 4
+SENT: Reduce heat and boil gently for about 15 min or until potatoes are tender .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: boil
+  PARG: about 15 min
+    PREP: for
+  PARG: potatoes are tender
+    PREP: until
+  OARG: gently
+
+
+SENTID: 5
+SENT: Drain and transfer to a large bowl ;
+PREDID: 0
+PRED: drain
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 6
+SENT: let cool slightly .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  OARG: slightly
+
+
+SENTID: 7
+SENT: Meanwhile , make Dressing :
+PREDID: 0
+PRED: make
+  DOBJ: dressing
+  OARG: meanwhile
+
+
+SENTID: 8
+SENT: in a blender , combine cream , garlic , mustard , salt and pepper ;
+PREDID: 0
+PRED: combine
+  DOBJ: cream , garlic , mustard , salt, pepper
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 9
+SENT: puree until smooth .
+PREDID: 0
+PRED: puree
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 10
+SENT: With motor running , pour in lemon juice .
+PREDID: 0
+PRED: pour
+  PARG: motor running
+    PREP: with
+  PARG: lemon juice
+    PREP: in
+
+
+SENTID: 11
+SENT: Add yogurt and pulse to blend .
+PREDID: 0
+PRED: add
+  DOBJ: yogurt
+
+PREDID: 1
+PRED: pulse
+  PARG: blend
+    PREP: to
+
+
+SENTID: 12
+SENT: Let stand for 5 min or until thickened .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 5 min
+    PREP: for
+  PARG: thickened
+    PREP: until
+
+
+SENTID: 13
+SENT: Add half of the Parmesan cheese and bacon -LRB- if using -RRB- to potatoes and pour in dressing ;
+PREDID: 0
+PRED: add
+  DOBJ: half of the parmesan cheese, bacon -lrb-
+  PARG: using -rrb-
+    PREP: if
+  PARG: potatoes
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  PARG: dressing
+    PREP: in
+
+
+SENTID: 14
+SENT: toss gently to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 15
+SENT: Just before serving , add lettuce and toss to combine .
+PREDID: 0
+PRED: add
+  DOBJ: lettuce
+  PARG: serving
+    PREP: before
+  OARG: just
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 16
+SENT: Divide among serving bowls and sprinkle with remaining Parmesan .
+PREDID: 0
+PRED: divide
+  PARG: serving bowls
+    PREP: among
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining parmesan
+    PREP: with
+

@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Place potatoes in a large pot of salted water and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot of salted water
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook until tender , about 30 minutes ;
+PREDID: 0
+PRED: cook
+  PARG: tender , about 30 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: To the potatoes add corn , bell pepper , onion , red pepper flakes and vegetable broth .
+PREDID: 0
+PRED: add
+  DOBJ: corn , bell pepper , onion , red pepper flakes, vegetable broth
+  PARG: the potatoes
+    PREP: to
+
+
+SENTID: 4
+SENT: Boil for about 15 minutes ;
+PREDID: 0
+PRED: boil
+  PARG: about 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 6
+SENT: In a food processor or blender puree all but 1Ê1/2 cups of the vegetable and broth mixture with the tofu .
+PREDID: 0
+PRED: puree
+  DOBJ: all but 1Ê1/2 cups of the vegetable, broth mixture
+  PARG: a food processor or blender
+    PREP: in
+  PARG: the tofu
+    PREP: with
+
+
+SENTID: 7
+SENT: Process in batches if necessary .
+PREDID: 0
+PRED: process
+  PARG: batches
+    PREP: in
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 8
+SENT: Combine the pureed mixture with the remaining 1Ê1/2 cups vegetable and broth mixture , and cook over low heat for 5 minutes ;
+PREDID: 0
+PRED: combine
+  DOBJ: the pureed mixture
+  PARG: the remaining 1Ê1/2 cups vegetable, broth mixture
+    PREP: with
+
+PREDID: 1
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Season with salt to taste .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+  PARG: taste
+    PREP: to
+

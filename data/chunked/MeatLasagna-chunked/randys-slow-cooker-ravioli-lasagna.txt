@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir beef , garlic , garlic powder , salt , and pepper in the hot skillet until meat is browned and crumbly , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: beef , garlic , garlic powder , salt , pepper
+
+PREDID: 1
+PRED: stir
+  PARG: the hot skillet
+    PREP: in
+  PARG: meat is browned, crumbly , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 3
+SENT: Stir pasta sauce , Italian seasoning , basil , and oregano into ground beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: pasta sauce , italian seasoning , basil , oregano
+  PARG: ground beef mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: Ladle a generous layer of meat sauce into the bottom of a slow cooker ;
+PREDID: 0
+PRED: ladle
+  DOBJ: a generous layer of meat sauce
+  PARG: the bottom of a slow cooker
+    PREP: into
+
+
+SENTID: 5
+SENT: add a layer of ravioli .
+PREDID: 0
+PRED: add
+  DOBJ: a layer of ravioli
+
+
+SENTID: 6
+SENT: Ladle another layer of meat sauce over ravioli layer ;
+PREDID: 0
+PRED: ladle
+  DOBJ: another layer of meat sauce
+  PARG: ravioli layer
+    PREP: over
+
+
+SENTID: 7
+SENT: alternate with remaining ravioli and meat sauce until all ingredients are used .
+PREDID: 0
+PRED: alternate
+  PARG: remaining ravioli, meat sauce
+    PREP: with
+  PARG: all ingredients are used
+    PREP: until
+
+
+SENTID: 8
+SENT: Cook on Low for 3 to 5 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 3 to 5 hours
+    PREP: for
+
+
+SENTID: 9
+SENT: Sprinkle ravioli mixture with mozzarella cheese and continue cooking until cheese is melted , 45 minutes to 1 hour more .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: ravioli mixture
+  PARG: mozzarella cheese, continue cooking
+    PREP: with
+  PARG: cheese is melted , 45 minutes to 1 hour more
+    PREP: until
+

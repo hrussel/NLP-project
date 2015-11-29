@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large mixing bowl beat eggs until light and fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large mixing bowl
+    PREP: in
+  PARG: light, fluffy
+    PREP: until
+
+
+SENTID: 2
+SENT: Add sugar , flour , melted butter or margarine , salt , lemon juice , and corn syrup .
+PREDID: 0
+PRED: add
+  DOBJ: sugar
+
+PREDID: 1
+PRED: flour
+  DOBJ: melted butter or margarine , salt , lemon juice , corn syrup
+
+
+SENTID: 3
+SENT: Mix thoroughly , then stir in chocolate chips and pecans .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: chocolate chips, pecans
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour mixture into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in preheated oven for 45 minutes or until set and golden .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  PARG: set, golden
+    PREP: until
+

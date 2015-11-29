@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Heat oil in a large stockpot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large stockpot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute onions and bell pepper until tender .
+PREDID: 0
+PRED: saute
+  DOBJ: onions, bell pepper
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Add garlic , ground beef and stew meat and cook until the meat is no longer pink , about 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: garlic , ground beef, stew meat
+
+PREDID: 1
+PRED: cook
+  PARG: the meat is no longer pink , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Add the tomatoes , beef broth and kidney beans to the stockpot , cover and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: the tomatoes , beef broth, kidney beans
+  PARG: the stockpot
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: a boil
+    PREP: to
+
+PREDID: 2
+PRED: bring
+
+
+SENTID: 4
+SENT: Let the mixture boil for 4 to 5 minutes then stir in the chili powder , Italian seasoning , salt and brown sugar .
+PREDID: 0
+PRED: let
+  DOBJ: the mixture
+
+PREDID: 1
+PRED: boil
+  PARG: 4 to 5 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 2
+PRED: stir
+  PARG: the chili powder , italian seasoning , salt, brown sugar
+    PREP: in
+
+
+SENTID: 5
+SENT: Simmer uncovered for about 2 hours , or until the chili thickens and beans are tender .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: about 2 hours
+    PREP: for
+  PARG: the chili thickens, beans are tender
+    PREP: until
+

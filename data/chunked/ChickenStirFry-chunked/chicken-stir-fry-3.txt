@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: Bring rice and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: rice, water
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Reduce heat to medium-low , cover , and simmer until rice is tender , and liquid has been absorbed , 20 to 25 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: rice is tender , liquid has been absorbed , 20 to 25 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Combine soy sauce , brown sugar , and corn starch in a small bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: soy sauce , brown sugar , corn starch
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: stir until smooth .
+PREDID: 0
+PRED: stir
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix ginger , garlic , and red pepper into sauce ;
+PREDID: 0
+PRED: mix
+  DOBJ: ginger , garlic , red pepper
+  PARG: sauce
+    PREP: into
+
+
+SENTID: 5
+SENT: coat chicken with marinade and refrigerate for at least 15 minutes .
+PREDID: 0
+PRED: coat
+  DOBJ: chicken
+  PARG: marinade
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: at least 15 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Heat 1 tablespoon sesame oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon sesame oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook and stir bell pepper , water chestnuts , broccoli , carrots , and onion until just tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: bell pepper , water chestnuts , broccoli , carrots , onion
+
+PREDID: 1
+PRED: stir
+  PARG: just tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove vegetables from skillet and keep warm .
+PREDID: 0
+PRED: remove
+  DOBJ: vegetables
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 9
+SENT: Remove chicken from marinade , reserving liquid .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: marinade , reserving liquid
+    PREP: from
+
+
+SENTID: 10
+SENT: Heat 1 tablespoon sesame oil in skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon sesame oil
+  PARG: skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Cook and stir chicken until slightly pink on the inside , about 2 minutes per side ;
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+
+PREDID: 1
+PRED: stir
+  PARG: slightly pink on the inside , about 2 minutes per side
+    PREP: until
+
+
+SENTID: 12
+SENT: return vegetables and reserved marinade to skillet .
+PREDID: 0
+PRED: return
+  DOBJ: vegetables, reserved marinade
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 13
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 14
+SENT: cook and stir until chicken is longer pink in the middle and vegetables are tender , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  PARG: chicken is longer pink in the middle, vegetables are tender , 5 to 7 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 15
+SENT: Serve over rice .
+PREDID: 0
+PRED: serve
+  PARG: rice
+    PREP: over
+

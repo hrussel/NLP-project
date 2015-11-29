@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Whisk mayonnaise , Dijon mustard , Asian chile sauce , lemon juice , rice vinegar , vegetable oil , and sugar in a bowl until dressing is smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , dijon mustard , asian chile sauce , lemon juice , rice vinegar , vegetable oil , sugar
+  PARG: a bowl
+    PREP: in
+  PARG: dressing is smooth
+    PREP: until
+
+
+SENTID: 1
+SENT: Season with salt and cayenne pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, cayenne pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Place cabbage into a large bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: cabbage
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 3
+SENT: add peaches and 1 tablespoon chives .
+PREDID: 0
+PRED: add
+  DOBJ: peaches, 1 tablespoon chives
+
+
+SENTID: 4
+SENT: Lightly toss until combined .
+PREDID: 0
+PRED: toss
+  PARG: combined
+    PREP: until
+  OARG: lightly
+
+
+SENTID: 5
+SENT: Pour dressing over coleslaw and stir until coated .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: coleslaw
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coated
+    PREP: until
+
+
+SENTID: 6
+SENT: Cover coleslaw with plastic wrap and chill until flavors have developed and cabbage is slightly softened , about 30 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: coleslaw
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: chill
+  PARG: flavors have developed, cabbage is slightly softened , about 30 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Adjust seasoning , mix again , and sprinkle with 1 teaspoon chives before serving .
+PREDID: 0
+PRED: adjust
+  DOBJ: seasoning
+
+PREDID: 1
+PRED: mix
+  OARG: again
+
+PREDID: 2
+PRED: sprinkle
+  PARG: 1 teaspoon chives
+    PREP: with
+  PARG: serving
+    PREP: before
+

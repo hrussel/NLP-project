@@ -1,0 +1,13 @@
+SENTID: 0
+SENT: In a large bowl , stir together the cabbage , carrot , pineapple , mayonnaise and salt and let chill for at least an hour before serving .
+PREDID: 0
+PRED: stir
+  DOBJ: the cabbage , carrot , pineapple , mayonnaise, salt, let chill
+  PARG: a large bowl
+    PREP: in
+  PARG: at least an hour
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: together
+

@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , 8 to 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: Place potatoes in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Heat a large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: grease with cooking spray .
+PREDID: 0
+PRED: grease
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 6
+SENT: Cook and stir the green beans and onion until tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the green beans, onion
+
+PREDID: 1
+PRED: stir
+  PARG: tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in the garlic ;
+PREDID: 0
+PRED: stir
+  PARG: the garlic
+    PREP: in
+
+
+SENTID: 8
+SENT: Transfer the green bean mixture into the large bowl with the potatoes .
+PREDID: 0
+PRED: transfer
+  DOBJ: the green bean mixture
+  PARG: the large bowl
+    PREP: into
+  PARG: the potatoes
+    PREP: with
+
+
+SENTID: 9
+SENT: Add the balsamic vinaigrette , roasted red peppers , and basil ;
+PREDID: 0
+PRED: add
+  DOBJ: the balsamic vinaigrette , roasted red peppers , basil
+
+
+SENTID: 10
+SENT: toss lightly .
+PREDID: 0
+PRED: toss
+  OARG: lightly
+
+
+SENTID: 11
+SENT: Stir in the goat cheese .
+PREDID: 0
+PRED: stir
+  PARG: the goat cheese
+    PREP: in
+

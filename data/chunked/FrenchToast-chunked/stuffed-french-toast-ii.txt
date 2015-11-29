@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Spread 4 slices oatnut bread on one side with cream cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: 4 slices oatnut bread
+  PARG: one side
+    PREP: on
+  PARG: cream cheese
+    PREP: with
+
+
+SENTID: 1
+SENT: Spread remaining 4 slices on one side with raspberry jam .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining 4 slices
+  PARG: one side
+    PREP: on
+  PARG: raspberry jam
+    PREP: with
+
+
+SENTID: 2
+SENT: Press cream cheese slices together with jam slices , forming sandwiches .
+PREDID: 0
+PRED: press
+  DOBJ: cream cheese slices
+  PARG: jam slices , forming sandwiches
+    PREP: with
+  OARG: together
+
+
+SENTID: 3
+SENT: In a medium , shallow bowl , beat together the eggs , milk and almond extract .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , milk, almond extract
+  PARG: a medium , shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Melt butter in a large , heavy skillet over medium high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large , heavy skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Dip sandwiches in the egg mixture to coat .
+PREDID: 0
+PRED: dip
+  DOBJ: sandwiches
+  PARG: the egg mixture
+    PREP: in
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Place in the skillet , and cook on both sides until golden brown .
+PREDID: 0
+PRED: place
+  PARG: the skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: both sides
+    PREP: on
+  PARG: golden brown
+    PREP: until
+

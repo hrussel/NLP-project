@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Whisk vegetable oil , sugar , vinegar , grated onion , dry mustard , and salt in a bowl , stirring until sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: vegetable oil , sugar , vinegar , grated onion , dry mustard , salt
+  PARG: a bowl , stirring
+    PREP: in
+  PARG: sugar has dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Toss coleslaw mix , peas , peanuts , and poppy seeds together in a large salad bowl until thoroughly combined ;
+PREDID: 0
+PRED: toss
+  DOBJ: coleslaw mix , peas , peanuts , poppy seeds
+  PARG: a large salad bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: pour dressing over coleslaw and stir to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: coleslaw
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Let stand 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 minutes
+

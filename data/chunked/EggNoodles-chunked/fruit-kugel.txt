@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain and let noodles cool .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: let
+
+PREDID: 2
+PRED: cool
+
+
+SENTID: 4
+SENT: Beat eggs with cinnamon and vanilla extract in a large bowl ;
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: cinnamon, vanilla extract
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: gently stir in noodles .
+PREDID: 0
+PRED: stir
+  PARG: noodles
+    PREP: in
+  OARG: gently
+
+
+SENTID: 6
+SENT: Mix pineapple , raisins , and apple into noodle mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: pineapple , raisins , apple
+  PARG: noodle mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Transfer mixture into a large casserole dish and scatter pieces of margarine over the noodle mixture .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: a large casserole dish
+    PREP: into
+
+PREDID: 1
+PRED: scatter
+  DOBJ: pieces of margarine
+  PARG: the noodle mixture
+    PREP: over
+
+
+SENTID: 8
+SENT: Spread apricot preserves over the casserole .
+PREDID: 0
+PRED: spread
+  DOBJ: apricot preserves
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until noodles on top are golden brown and preserves are bubbling , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: noodles on top are golden brown, preserves are bubbling , about 15 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool slightly before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+  OARG: slightly
+

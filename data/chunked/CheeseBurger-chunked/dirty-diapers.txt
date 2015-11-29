@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the ground beef in a skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cook , stirring to crumble , until no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: no longer pink
+    PREP: until
+  OARG: to crumble
+
+
+SENTID: 3
+SENT: Add the onion to the skillet ;
+PREDID: 0
+PRED: add
+  DOBJ: the onion
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 4
+SENT: cook and stir until tender .
+PREDID: 0
+PRED: cook
+  PARG: tender
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Drain off grease .
+PREDID: 0
+PRED: drain
+  PARG: grease
+    PREP: off
+
+
+SENTID: 6
+SENT: Unroll the crescent roll dough on a clean surface .
+PREDID: 0
+PRED: unroll
+  DOBJ: the crescent roll dough
+  PARG: a clean surface
+    PREP: on
+
+
+SENTID: 7
+SENT: Separate the triangles and then cut each triangle in half diagonally to make 2 smaller triangles .
+PREDID: 0
+PRED: separate
+  DOBJ: the triangles
+  OARG: then
+
+PREDID: 1
+PRED: cut
+  DOBJ: each triangle
+  PARG: half
+    PREP: in
+  PARG: make 2 smaller triangles
+    PREP: to
+  OARG: diagonally
+
+
+SENTID: 8
+SENT: Stack the slices of cheese and cut diagonally into 4 triangles .
+PREDID: 0
+PRED: stack
+  DOBJ: the slices of cheese
+
+PREDID: 1
+PRED: cut
+  PARG: 4 triangles
+    PREP: into
+  OARG: diagonally
+
+
+SENTID: 9
+SENT: Place one triangle of cheese onto each triangle of dough .
+PREDID: 0
+PRED: place
+  DOBJ: one triangle of cheese
+  PARG: each triangle of dough
+    PREP: onto
+
+
+SENTID: 10
+SENT: Spoon about a tablespoon of ground beef over the cheese and then top with a slice of pickle .
+PREDID: 0
+PRED: spoon
+  PARG: a tablespoon of ground beef
+    PREP: about
+  PARG: the cheese
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: a slice of pickle
+    PREP: with
+
+
+SENTID: 11
+SENT: Fold the points of the dough towards the center like a diaper and place on a baking sheet .
+PREDID: 0
+PRED: fold
+  DOBJ: the points of the dough
+  PARG: the center
+    PREP: towards
+  PARG: a diaper
+    PREP: like
+
+PREDID: 1
+PRED: place
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 12
+SENT: Bake for 10 to 15 minutes in the preheated oven , until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown
+    PREP: until
+

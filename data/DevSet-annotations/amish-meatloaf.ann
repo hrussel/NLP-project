@@ -1,0 +1,76 @@
+T1	predicate 0 7	Preheat
+T2	arg_object 8 16	the oven
+T3	arg_duration 17 49	to 350 degrees F (175 degrees C)
+T4	predicate 69 81	mix together
+R1	object Arg1:T1 Arg2:T2	
+R2	duration Arg1:T1 Arg2:T3	
+T5	arg_location 51 67	In a medium bowl
+R3	location Arg1:T4 Arg2:T5	
+T6	arg_object 82 93	ground beef
+T7	arg_object 95 111	crushed crackers
+T8	arg_object 113 118	onion
+T9	arg_object 120 124	eggs
+T10	arg_object 126 141	3/4 cup ketchup
+T11	arg_object 147 166	1/4 cup brown sugar
+T12	arg_duration 167 185	until well blended
+R4	object Arg1:T4 Arg2:T6	
+R5	object Arg1:T4 Arg2:T7	
+R6	object Arg1:T4 Arg2:T8	
+R7	object Arg1:T4 Arg2:T9	
+R8	object Arg1:T4 Arg2:T10	
+R9	object Arg1:T4 Arg2:T11	
+R10	duration Arg1:T4 Arg2:T12	
+T13	predicate 187 192	Press
+T14	arg_location 193 217	into a 9x5 inch loaf pan
+R11	location Arg1:T13 Arg2:T14	
+R12	object Arg1:T13 Arg2:T4	
+T15	predicate 219 222	Lay
+T16	arg_object 223 246	the two slices of bacon
+R13	object Arg1:T15 Arg2:T16	
+T18	predicate 261 265	Bake
+T19	arg_duration 266 276	for 1 hour
+T20	arg_location 277 298	in the preheated oven
+T21	arg_duration 300 323	or until cooked through
+R15	duration Arg1:T18 Arg2:T19	
+R16	duration Arg1:T18 Arg2:T21	
+R17	location Arg1:T18 Arg2:T20	
+T22	Evolution 280 298	the preheated oven
+E1	Evolution:T22 Cause:T1
+T23	Evolution 252 259	the top
+E2	Evolution:T23 Cause:T13
+T24	predicate 347 359	mix together
+T25	arg_object 360 387	the remaining 1 cup ketchup
+T26	arg_object 389 396	vinegar
+T27	arg_object 398 402	salt
+T28	arg_object 404 411	mustard
+T29	arg_object 416 435	1/2 cup brown sugar
+T30	arg_duration 325 345	While the loaf bakes
+R18	duration Arg1:T24 Arg2:T30	
+R19	object Arg1:T24 Arg2:T25	
+R20	object Arg1:T24 Arg2:T26	
+R21	object Arg1:T24 Arg2:T27	
+R22	object Arg1:T24 Arg2:T28	
+R23	object Arg1:T24 Arg2:T29	
+T31	predicate 437 443	Spread
+T33	arg_duration 474 507	for the last 15 minutes of baking
+R25	duration Arg1:T31 Arg2:T33	
+T34	Evolution 460 473	the meat loaf
+E3	Evolution:T34 Cause:T18
+R26	object Arg1:T31 Arg2:T24	
+R27	object Arg1:T18 Arg2:T15	
+T35	ingredient 82 93	ground beef
+T36	ingredient 95 111	crushed crackers
+T37	ingredient 113 118	onion
+T38	ingredient 120 124	eggs
+T39	ingredient 126 141	3/4 cup ketchup
+T40	ingredient 147 166	1/4 cup brown sugar
+T41	ingredient 223 246	the two slices of bacon
+T42	ingredient 360 387	the remaining 1 cup ketchup
+T43	ingredient 389 396	vinegar
+T44	ingredient 398 402	salt
+T45	ingredient 404 411	mustard
+T46	ingredient 416 435	1/2 cup brown sugar
+T17	arg_co-object 247 259	over the top
+T32	arg_co-object 444 473	over the top of the meat loaf
+R14	co-object Arg1:T15 Arg2:T17	
+R24	co-object Arg1:T31 Arg2:T32	

@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Beat egg , sugar substitute and spices until fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: egg , sugar substitute, spices
+  PARG: fluffy
+    PREP: until
+
+
+SENTID: 1
+SENT: Add milk and pumpkin ;
+PREDID: 0
+PRED: add
+  DOBJ: milk, pumpkin
+
+
+SENTID: 2
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Pour into unbaked 8-inch pie shell .
+PREDID: 0
+PRED: pour
+  PARG: unbaked 8-inch pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake at 350 degrees F for 30 minutes or until inserted knife comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+  PARG: inserted knife comes out clean
+    PREP: until
+

@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: Rub each breast half with 1/2 teaspoon jerk paste , and place in a shallow dish .
+PREDID: 0
+PRED: rub
+  DOBJ: each breast half
+  PARG: 1/2 teaspoon jerk paste
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: a shallow dish
+    PREP: in
+
+
+SENTID: 1
+SENT: Cover , and refrigerate at least 1 hour .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+
+
+SENTID: 2
+SENT: Preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: the grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil , cook the egg noodles 6 to 8 minutes , until al dente , and drain .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: al dente
+    PREP: until
+  OARG: the egg noodles 6 to 8 minutes
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 4
+SENT: Lightly oil the grill grate .
+PREDID: 0
+PRED: oil
+  DOBJ: the grill grate
+  OARG: lightly
+
+
+SENTID: 5
+SENT: Grill chicken 8 to 10 minutes on each side , until juices run clear .
+PREDID: 0
+PRED: grill
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+  OARG: chicken 8 to 10 minutes
+
+
+SENTID: 6
+SENT: Meanwhile , heat the olive oil in a large saucepan over medium heat , and cook the garlic for one minute .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+PREDID: 1
+PRED: cook
+  DOBJ: the garlic
+  PARG: one minute
+    PREP: for
+
+
+SENTID: 7
+SENT: Mix in the chicken stock , 1 tablespoon jerk paste , white wine , chopped cilantro , juice of 1 lime , salt , and pepper .
+PREDID: 0
+PRED: mix
+  PARG: the chicken stock , 1 tablespoon jerk paste , white wine , chopped cilantro , juice of 1 lime , salt , pepper
+    PREP: in
+
+
+SENTID: 8
+SENT: Bring to a boil , reduce heat to low , and stir in the heavy cream .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  PARG: the heavy cream
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour the cooked egg noodles into the saucepan , and toss with the cream sauce .
+PREDID: 0
+PRED: pour
+  DOBJ: the cooked egg noodles
+  PARG: the saucepan
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  PARG: the cream sauce
+    PREP: with
+
+
+SENTID: 10
+SENT: Divide noodles onto 4 serving plates , and top with grilled chicken .
+PREDID: 0
+PRED: divide
+  DOBJ: noodles
+  PARG: 4 serving plates
+    PREP: onto
+
+PREDID: 1
+PRED: top
+  PARG: grilled chicken
+    PREP: with
+
+
+SENTID: 11
+SENT: Garnish each serving with a cilantro sprig and the juice of 1/4 lime .
+PREDID: 0
+PRED: garnish
+  DOBJ: each serving
+  PARG: a cilantro sprig, the juice of 1/4 lime
+    PREP: with
+

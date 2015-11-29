@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a large mixing bowl , combine the ground beef , eggs , stuffing mix , hickory smoke flavored barbeque sauce , onion , garlic and milk .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , eggs , stuffing mix , hickory smoke flavored barbeque sauce , onion , garlic, milk
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix thoroughly and place into the prepared baking dish .
+PREDID: 0
+PRED: mix
+  PARG: the prepared baking dish
+    PREP: into
+  OARG: thoroughly
+
+PREDID: 1
+PRED: place
+
+
+SENTID: 4
+SENT: Shape into 2 loaves .
+PREDID: 0
+PRED: shape
+  PARG: 2 loaves
+    PREP: into
+
+
+SENTID: 5
+SENT: In a small bowl , combine the barbeque sauce and brown sugar ;
+PREDID: 0
+PRED: combine
+  DOBJ: the barbeque sauce, brown sugar
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: blend well .
+PREDID: 0
+PRED: blend
+  OARG: well
+
+
+SENTID: 7
+SENT: Pour the glaze over the 2 meatloaves .
+PREDID: 0
+PRED: pour
+  DOBJ: the glaze
+  PARG: the 2 meatloaves
+    PREP: over
+
+
+SENTID: 8
+SENT: Cover the baking dish and bake in the preheated oven for 60 to 90 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: the baking dish
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 60 to 90 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Uncover the last 15 minutes of bake time .
+PREDID: 0
+PRED: uncover
+  OARG: the last 15 minutes of bake time
+
+
+SENTID: 10
+SENT: Let sit for 15 minutes before slicing .
+PREDID: 0
+PRED: let
+  DOBJ: sit
+  PARG: 15 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+

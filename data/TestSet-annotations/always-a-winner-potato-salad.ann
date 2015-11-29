@@ -1,0 +1,127 @@
+T1	predicate 0 5	Place
+T2	arg_object 6 14	potatoes
+T3	arg_location 15 29	in a large pot
+T4	predicate 35 40	cover
+T5	arg_co-object 41 51	with water
+R1	co-object Arg1:T4 Arg2:T5	
+R2	object Arg1:T1 Arg2:T2	
+R3	location Arg1:T1 Arg2:T3	
+R4	object Arg1:T4 Arg2:T1	
+T6	predicate 53 57	Boil
+T7	arg_duration 58 68	until soft
+R5	duration Arg1:T6 Arg2:T7	
+R6	object Arg1:T6 Arg2:T4	
+T8	predicate 70 76	Remove
+T9	arg_location 77 87	from water
+T10	predicate 89 98	set aside
+T11	arg_duration 99 106	to cool
+R7	location Arg1:T8 Arg2:T9	
+R8	duration Arg1:T10 Arg2:T11	
+R9	object Arg1:T8 Arg2:T6	
+R10	object Arg1:T10 Arg2:T8	
+T12	predicate 108 112	Peel
+T13	predicate 123 127	chop
+R11	object Arg1:T12 Arg2:T10	
+R12	object Arg1:T13 Arg2:T12	
+T14	arg_other 128 149	into bite size chunks
+R13	other Arg1:T13 Arg2:T14	
+T15	predicate 151 156	Place
+T16	arg_object 157 161	eggs
+T17	arg_location 162 175	in a saucepan
+R14	object Arg1:T15 Arg2:T16	
+R15	location Arg1:T15 Arg2:T17	
+T18	predicate 181 186	cover
+T19	arg_co-object 198 213	with cold water
+R16	co-object Arg1:T18 Arg2:T19	
+R17	object Arg1:T18 Arg2:T15	
+T20	predicate 215 220	Bring
+T21	arg_object 221 226	water
+T22	arg_duration 227 236	to a boil
+T23	arg_duration 237 251	for one minute
+R18	object Arg1:T20 Arg2:T21	
+R19	duration Arg1:T20 Arg2:T22	
+R20	duration Arg1:T20 Arg2:T23	
+T24	Evolution 221 226	water
+E1	Evolution:T24 Cause:T18
+T25	predicate 253 258	Cover
+R21	object Arg1:T25 Arg2:T20	
+T26	predicate 260 266	remove
+T27	arg_location 267 276	from heat
+R22	location Arg1:T26 Arg2:T27	
+R23	object Arg1:T26 Arg2:T25	
+T28	predicate 282 285	let
+T29	arg_object 286 290	eggs
+T30	arg_location 297 309	in hot water
+T31	arg_duration 310 330	for 10 to 12 minutes
+R24	object Arg1:T28 Arg2:T29	
+R25	location Arg1:T28 Arg2:T30	
+R26	duration Arg1:T28 Arg2:T31	
+T32	arg_other 291 296	stand
+R27	other Arg1:T28 Arg2:T32	
+T33	predicate 332 338	Remove
+R28	object Arg1:T33 Arg2:T28	
+T34	arg_location 339 353	from hot water
+R29	location Arg1:T33 Arg2:T34	
+T35	predicate 359 363	cool
+R30	object Arg1:T35 Arg2:T33	
+T36	predicate 365 369	Peel
+T37	predicate 375 379	chop
+R31	object Arg1:T36 Arg2:T35	
+R32	object Arg1:T37 Arg2:T36	
+T38	arg_location 381 396	In a large bowl
+T39	predicate 398 405	combine
+T40	arg_object 406 414	potatoes
+T41	arg_object 416 420	eggs
+T42	arg_object 422 434	green onions
+T43	arg_object 436 448	dill pickles
+T44	arg_object 454 468	cans of shrimp
+R33	location Arg1:T39 Arg2:T38	
+R34	object Arg1:T39 Arg2:T40	
+R35	object Arg1:T39 Arg2:T41	
+R36	object Arg1:T39 Arg2:T42	
+R37	object Arg1:T39 Arg2:T43	
+R38	object Arg1:T39 Arg2:T44	
+T45	predicate 470 476	Mix in
+T46	arg_object 477 487	mayonnaise
+T47	arg_object 489 500	celery salt
+T48	arg_object 506 513	paprika
+R39	object Arg1:T45 Arg2:T46	
+R40	object Arg1:T45 Arg2:T47	
+R41	object Arg1:T45 Arg2:T48	
+R42	co-object Arg1:T45 Arg2:T39	
+T49	predicate 515 521	Season
+T50	arg_duration 522 530	to taste
+T51	arg_co-object 531 563	with salt an ground black pepper
+R43	duration Arg1:T49 Arg2:T50	
+R44	co-object Arg1:T49 Arg2:T51	
+R45	object Arg1:T49 Arg2:T45	
+T52	predicate 565 570	Chill
+T53	arg_duration 571 582	for 2 hours
+R46	duration Arg1:T52 Arg2:T53	
+R47	object Arg1:T52 Arg2:T49	
+T54	predicate 588 593	serve
+R48	object Arg1:T54 Arg2:T52	
+T55	Evolution 406 414	potatoes
+E2	Evolution:T55 Cause:T13
+T56	Evolution 286 290	eggs
+E3	Evolution:T56 Cause:T26
+T57	Evolution 416 420	eggs
+E4	Evolution:T57 Cause:T37
+T58	ingredient 6 14	potatoes
+T59	ingredient 46 51	water
+T60	ingredient 157 161	eggs
+T61	ingredient 203 213	cold water
+T62	ingredient 422 434	green onions
+T63	ingredient 436 448	dill pickles
+T64	ingredient 454 468	cans of shrimp
+T65	ingredient 477 487	mayonnaise
+T66	ingredient 489 500	celery salt
+T67	ingredient 506 513	paprika
+T68	ingredient 536 540	salt
+T69	ingredient 544 563	ground black pepper
+T70	Evolution 82 87	water
+E5	Evolution:T70 Cause:T6
+T71	Evolution 300 309	hot water
+E6	Evolution:T71 Cause:T26
+T72	Evolution 344 353	hot water
+E7	Evolution:T72 Cause:T28

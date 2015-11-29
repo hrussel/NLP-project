@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Place the chicken breasts in the prepared dish .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken breasts
+  PARG: the prepared dish
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix the tomato sauce , water and taco seasoning in a small bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: the tomato sauce , water, taco seasoning
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: pour sauce over the chicken .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: the chicken
+    PREP: over
+
+
+SENTID: 5
+SENT: Bake in preheated oven until chicken is no longer pink in the center , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: chicken is no longer pink in the center , about 30 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Divide spinach between two plates .
+PREDID: 0
+PRED: divide
+  DOBJ: spinach
+  PARG: two plates
+    PREP: between
+
+
+SENTID: 7
+SENT: Place the chicken breasts on the spinach beds and spoon half the black beans over each piece . Divide sour cream , shredded cheese and salsa to top each salad .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken breasts
+  PARG: the spinach beds
+    PREP: on
+
+PREDID: 1
+PRED: spoon
+  DOBJ: half the black beans
+  PARG: each piece
+    PREP: over
+
+PREDID: 2
+PRED: divide
+  DOBJ: sour cream , shredded cheese, salsa
+  PARG: top each salad
+    PREP: to
+

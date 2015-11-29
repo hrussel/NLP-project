@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook egg noodles until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large bowl mix together the sour cream , 1/4 cup of the grated Parmesan cheese , chives , salt , ground black pepper , and garlic .
+PREDID: 0
+PRED: mix
+  DOBJ: the sour cream , 1/4 cup of the grated parmesan cheese , chives , salt , ground black pepper , garlic
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in butter or margarine to hot egg noodles .
+PREDID: 0
+PRED: stir
+  PARG: butter or margarine
+    PREP: in
+  PARG: hot egg noodles
+    PREP: to
+
+
+SENTID: 4
+SENT: Stir in sour cream mixture .
+PREDID: 0
+PRED: stir
+  PARG: sour cream mixture
+    PREP: in
+
+
+SENTID: 5
+SENT: Arrange noodles on warm platter and sprinkle with remaining 1/4 cup of grated Parmesan cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: noodles
+  PARG: warm platter
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining 1/4 cup of grated parmesan cheese
+    PREP: with
+

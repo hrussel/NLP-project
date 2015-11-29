@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large bowl , combine chicken , celery , chives or green onions , yogurt , sour cream or mayonnaise , and tarragon ;
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , celery , chives or green onions , yogurt , sour cream or mayonnaise , tarragon
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: mix lightly .
+PREDID: 0
+PRED: mix
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Cover , and refrigerate for 1 hour .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 3
+SENT: Place nuts in a dry skillet .
+PREDID: 0
+PRED: place
+  DOBJ: nuts
+  PARG: a dry skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: Toast over medium heat , turning frequently , until nuts are fragrant and lightly browned .
+PREDID: 0
+PRED: toast
+  PARG: medium heat , turning
+    PREP: over
+  PARG: nuts are fragrant, lightly browned
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 5
+SENT: Add almonds to chicken salad , and season with salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: almonds
+  PARG: chicken salad
+    PREP: to
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 9x5-inch loaf pan with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x5-inch loaf pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Beat the eggs in a large mixing bowl until smooth , then whisk in 1/3 cup barbeque sauce , garlic , chipotle chiles , adobo sauce , kosher salt , black pepper , celery salt , cumin , and Worcestershire sauce until evenly smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a large mixing bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: whisk
+  PARG: 1/3 cup barbeque sauce , garlic , chipotle chiles , adobo sauce , kosher salt , black pepper , celery salt , cumin , worcestershire sauce
+    PREP: in
+  PARG: evenly smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Mix in the onion , oatmeal , and ground beef with your hands until evenly blended .
+PREDID: 0
+PRED: mix
+  PARG: the onion , oatmeal , ground beef
+    PREP: in
+  PARG: your hands
+    PREP: with
+  PARG: evenly blended
+    PREP: until
+
+
+SENTID: 4
+SENT: Pack the mixture into the prepared pan .
+PREDID: 0
+PRED: pack
+  DOBJ: the mixture
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Brush the top of the meatloaf with 2 more tablespoons of barbeque sauce .
+PREDID: 0
+PRED: brush
+  DOBJ: the top of the meatloaf
+  PARG: 2 more tablespoons of barbeque sauce
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+

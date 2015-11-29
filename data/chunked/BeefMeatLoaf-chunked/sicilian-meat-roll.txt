@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: In a large bowl , combine eggs and tomato juice .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs, tomato juice
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in the bread crumbs , parsley , oregano , salt , pepper , garlic and ground beef .
+PREDID: 0
+PRED: stir
+  PARG: the bread crumbs , parsley , oregano , salt , pepper , garlic, ground beef
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: On a piece of foil or waxed paper , pat and shape meat into a 10x8 inch rectangle .
+PREDID: 0
+PRED: pat
+  DOBJ: meat
+  PARG: a piece of foil or waxed paper
+    PREP: on
+
+PREDID: 1
+PRED: shape
+  PARG: a 10x8 inch rectangle
+    PREP: into
+
+
+SENTID: 5
+SENT: Arrange ham slices on top of meat , leaving a small margin around edges .
+PREDID: 0
+PRED: arrange
+  DOBJ: leaving a small margin
+  PARG: top of meat
+    PREP: on
+  PARG: edges
+    PREP: around
+  OARG: ham slices
+
+
+SENTID: 6
+SENT: Tear up the cheese slices , reserving 1 slice whole , and sprinkle over the ham .
+PREDID: 0
+PRED: tear
+  DOBJ: reserving 1 slice whole , sprinkle
+  PARG: the ham
+    PREP: over
+  OARG: up
+  OARG: the cheese slices
+
+
+SENTID: 7
+SENT: Starting from the short end , carefully roll up meat , using the foil or waxed paper to lift .
+PREDID: 0
+PRED: roll
+  DOBJ: using the foil or waxed paper
+  PARG: the short end
+    PREP: from
+  PARG: lift
+    PREP: to
+  OARG: carefully
+  OARG: up
+  OARG: starting
+
+
+SENTID: 8
+SENT: Seal the edges and ends of the meat .
+PREDID: 0
+PRED: seal
+  DOBJ: the edges, ends of the meat
+
+
+SENTID: 9
+SENT: Place roll , seam side down , in a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: roll , seam side
+  PARG: a 9x13 inch baking dish
+    PREP: in
+  OARG: down
+
+
+SENTID: 10
+SENT: Bake in a preheated oven for about 75 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: about 75 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Cut the reserved slice of cheese into 4 triangles .
+PREDID: 0
+PRED: cut
+  DOBJ: the reserved slice of cheese
+  PARG: 4 triangles
+    PREP: into
+
+
+SENTID: 12
+SENT: Overlap the triangles on top of loaf .
+PREDID: 0
+PRED: overlap
+  DOBJ: the triangles
+  PARG: top of loaf
+    PREP: on
+
+
+SENTID: 13
+SENT: Bake for another 2 minutes or until cheese melts .
+PREDID: 0
+PRED: bake
+  PARG: another 2 minutes
+    PREP: for
+  PARG: cheese melts
+    PREP: until
+

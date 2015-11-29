@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Place potatoes in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a saucepan
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil over medium heat , and cook until tender , about 8 to 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from heat , drain , and run under cold water to cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: run
+  PARG: cold water
+    PREP: under
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 4
+SENT: In a large bowl , mix together the potatoes , celery , onion , mayonnaise , and anise seed .
+PREDID: 0
+PRED: mix
+  DOBJ: the potatoes , celery , onion , mayonnaise , anise seed
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Refrigerate until cold .
+PREDID: 0
+PRED: refrigerate
+  PARG: cold
+    PREP: until
+
+
+SENTID: 7
+SENT: Garnish with sliced hard-cooked eggs , and dust with paprika , if desired .
+PREDID: 0
+PRED: garnish
+  PARG: sliced hard-cooked eggs
+    PREP: with
+
+PREDID: 1
+PRED: dust
+  PARG: paprika
+    PREP: with
+  PARG: desired
+    PREP: if
+

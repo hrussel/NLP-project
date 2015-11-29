@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: In a large pot over medium heat , combine the onion , garlic , red bell pepper and ground beef and saute for 10 minutes , or until meat is browned .
+PREDID: 0
+PRED: combine
+  DOBJ: the onion , garlic , red bell pepper, ground beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  PARG: 10 minutes
+    PREP: for
+  PARG: meat is browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Add the cumin , chili powder , oregano and bay leaf and saute for 2 to 3 more minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the cumin , chili powder , oregano, bay leaf
+
+PREDID: 1
+PRED: saute
+  PARG: 2 to 3 more minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Then add the chicken broth and the tomatoes , mix well and cook for 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken broth, the tomatoes
+  OARG: then
+
+PREDID: 1
+PRED: mix
+  PARG: 30 minutes
+    PREP: for
+  OARG: well
+
+PREDID: 2
+PRED: cook
+
+
+SENTID: 3
+SENT: Add the pinto beans and kidney beans and continue cooking for 10 more minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the pinto beans, kidney beans, continue cooking
+  PARG: 10 more minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Finally , add the cornmeal , stirring well , until the chili thickens , about 10 to 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the cornmeal , stirring
+  PARG: the chili thickens , about 10 to 15 minutes
+    PREP: until
+  OARG: finally
+  OARG: well
+
+
+SENTID: 5
+SENT: Remove bay leaf .
+PREDID: 0
+PRED: remove
+  DOBJ: bay leaf
+

@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Bring two pots of water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: two pots of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: cook potatoes in one pot and eggs in the other pot until potatoes are semi-soft , 20 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: potatoes
+  PARG: one pot, eggs
+    PREP: in
+  PARG: the other pot
+    PREP: in
+  PARG: potatoes are semi-soft , 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer potatoes and eggs to a bowl of cold water until both are cooled .
+PREDID: 0
+PRED: transfer
+  DOBJ: potatoes, eggs
+  PARG: a bowl of cold water
+    PREP: to
+  PARG: both are cooled
+    PREP: until
+
+
+SENTID: 3
+SENT: Dice potatoes and place in a large bowl .
+PREDID: 0
+PRED: dice
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Cut eggs in half ;
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half
+    PREP: in
+
+
+SENTID: 5
+SENT: remove yolks and place in a separate bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+
+PREDID: 1
+PRED: place
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Dice egg whites ;
+PREDID: 0
+PRED: dice
+  DOBJ: egg whites
+
+
+SENTID: 7
+SENT: add to potatoes .
+PREDID: 0
+PRED: add
+  PARG: potatoes
+    PREP: to
+
+
+SENTID: 8
+SENT: Mix red onion and pickles into potato mixture .
+PREDID: 0
+PRED: mix
+  DOBJ: red onion, pickles
+  PARG: potato mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: Whisk mayonnaise , mustard , chives , black pepper , and egg yolks together until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , mustard , chives , black pepper , egg yolks
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 10
+SENT: Gently mix mayonnaise mixture into potato mixture until evenly coated ;
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise mixture
+  PARG: potato mixture
+    PREP: into
+  PARG: evenly coated
+    PREP: until
+  OARG: gently
+
+
+SENTID: 11
+SENT: refrigerate for 10 to 15 minutes .
+PREDID: 0
+PRED: refrigerate
+  PARG: 10 to 15 minutes
+    PREP: for
+

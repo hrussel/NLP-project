@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Roll out crescent rolls onto a large non-stick baking sheet .
+PREDID: 0
+PRED: roll
+  PARG: crescent rolls
+    PREP: out
+  PARG: a large non-stick baking sheet
+    PREP: onto
+
+
+SENTID: 2
+SENT: Stretch and flatten to form a single rectangular shape on the baking sheet .
+PREDID: 0
+PRED: stretch
+  PARG: form a single rectangular shape
+    PREP: to
+
+PREDID: 1
+PRED: flatten
+  PARG: the baking sheet
+    PREP: on
+
+
+SENTID: 3
+SENT: Bake 11 to 13 minutes in the preheated oven , or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown
+    PREP: until
+  OARG: 11 to 13 minutes
+
+
+SENTID: 4
+SENT: Allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Place cream cheese in a medium bowl .
+PREDID: 0
+PRED: place
+  DOBJ: cream cheese
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix cream cheese with 1/2 of the ranch dressing mix .
+PREDID: 0
+PRED: mix
+  DOBJ: cream cheese
+  PARG: 1/2 of the ranch dressing mix
+    PREP: with
+
+
+SENTID: 7
+SENT: Adjust the amount of dressing mix to taste .
+PREDID: 0
+PRED: adjust
+  DOBJ: the amount of dressing
+
+PREDID: 1
+PRED: mix
+  PARG: taste
+    PREP: to
+
+
+SENTID: 8
+SENT: Spread the mixture over the cooled crust .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: the cooled crust
+    PREP: over
+
+
+SENTID: 9
+SENT: Arrange carrots , red bell pepper , broccoli and green onions on top .
+PREDID: 0
+PRED: arrange
+  DOBJ: carrots , red bell pepper , broccoli, green onions
+  PARG: top
+    PREP: on
+
+
+SENTID: 10
+SENT: Chill in the refrigerator approximately 1 hour .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  OARG: approximately
+  OARG: 1 hour
+
+
+SENTID: 11
+SENT: Cut into bite-size squares to serve .
+PREDID: 0
+PRED: cut
+  PARG: bite-size squares
+    PREP: into
+  PARG: serve
+    PREP: to
+

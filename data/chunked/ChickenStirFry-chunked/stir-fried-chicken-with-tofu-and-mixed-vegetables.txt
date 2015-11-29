@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: In a medium bowl , mix the soy sauce , sugar , cornstarch , and rice wine .
+PREDID: 0
+PRED: mix
+  DOBJ: the soy sauce , sugar , cornstarch , rice wine
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Place the green onion and chicken in the mixture .
+PREDID: 0
+PRED: place
+  DOBJ: the green onion, chicken
+  PARG: the mixture
+    PREP: in
+
+
+SENTID: 2
+SENT: Allow to marinate at least 15 minutes .
+PREDID: 0
+PRED: allow
+  PARG: least 15 minutes
+    PREP: at
+  OARG: to marinate
+
+
+SENTID: 3
+SENT: In a wok over medium-high heat , cook and stir the chicken with the marinade mixture about 5 minutes until almost done .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+  PARG: a wok
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the marinade mixture
+    PREP: with
+  PARG: 5 minutes
+    PREP: about
+  PARG: almost done
+    PREP: until
+
+
+SENTID: 4
+SENT: Toss in the garlic , onion , and peppers .
+PREDID: 0
+PRED: toss
+  PARG: the garlic , onion , peppers
+    PREP: in
+
+
+SENTID: 5
+SENT: Continue to cook and stir 5 minutes , or until vegetables are crisp but tender and chicken is no longer pink and juices run clear .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: vegetables are crisp but tender, chicken is no longer pink, juices run clear
+    PREP: until
+  OARG: 5 minutes
+
+
+SENTID: 6
+SENT: Mix the tofu , water , oyster sauce , and chili paste into the wok .
+PREDID: 0
+PRED: mix
+  DOBJ: the tofu , water , oyster sauce , chili paste
+  PARG: the wok
+    PREP: into
+
+
+SENTID: 7
+SENT: Cook and stir until heated through .
+PREDID: 0
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+PREDID: 1
+PRED: stir
+

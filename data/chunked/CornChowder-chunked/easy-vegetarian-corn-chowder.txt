@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , melt butter .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook onions and celery in butter 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onions, celery
+  PARG: butter 3 minutes
+    PREP: in
+
+
+SENTID: 2
+SENT: Whisk in flour and cook 6 minutes more , until light brown .
+PREDID: 0
+PRED: whisk
+  PARG: flour
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: light brown
+    PREP: until
+  OARG: 6 minutes more
+
+
+SENTID: 3
+SENT: Whisk in broth and simmer 10 minutes .
+PREDID: 0
+PRED: whisk
+  PARG: broth
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  OARG: 10 minutes
+
+
+SENTID: 4
+SENT: Stir in creamed corn , corn , carrot , half-and-half , milk , nutmeg , pepper and salt .
+PREDID: 0
+PRED: stir
+  PARG: creamed corn , corn , carrot , half-and-half , milk , nutmeg , pepper, salt
+    PREP: in
+
+
+SENTID: 5
+SENT: Simmer over low heat 10 minutes more .
+PREDID: 0
+PRED: simmer
+  PARG: low heat 10 minutes more
+    PREP: over
+

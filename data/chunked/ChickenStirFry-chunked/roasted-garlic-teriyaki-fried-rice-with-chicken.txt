@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Cut chicken into thin strips .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: thin strips
+    PREP: into
+
+
+SENTID: 1
+SENT: Heat oil in hot wok or large skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: hot wok or large skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Add chicken , green onions and carrot .
+PREDID: 0
+PRED: add
+  DOBJ: chicken , green onions, carrot
+
+
+SENTID: 3
+SENT: Add egg ;
+PREDID: 0
+PRED: add
+  DOBJ: egg
+
+
+SENTID: 4
+SENT: cook , stirring gently , until firm .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: firm
+    PREP: until
+  OARG: gently
+
+
+SENTID: 5
+SENT: Stir in rice and cook until heated through .
+PREDID: 0
+PRED: stir
+  PARG: rice
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 6
+SENT: Add roasted garlic teriyaki sauce ;
+PREDID: 0
+PRED: add
+  DOBJ: roasted garlic teriyaki sauce
+
+
+SENTID: 7
+SENT: remove pan from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: pan
+  PARG: heat
+    PREP: from
+
+
+SENTID: 8
+SENT: Stir mixture until well mixed .
+PREDID: 0
+PRED: stir
+  DOBJ: mixture
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 9
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

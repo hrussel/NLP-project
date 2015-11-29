@@ -1,0 +1,7 @@
+SENTID: 0
+SENT: Toss all ingredients together .
+PREDID: 0
+PRED: toss
+  DOBJ: all ingredients
+  OARG: together
+

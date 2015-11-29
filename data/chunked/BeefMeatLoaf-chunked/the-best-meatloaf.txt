@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease an 8Ê1/2 x 4Ê1/2 inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8Ê1/2 x 4Ê1/2 inch loaf pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a mixing bowl , combine the ground beef , salt , egg , black pepper and bread crumbs .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , salt , egg , black pepper, bread crumbs
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour in the milk , 3 tablespoons of the steak sauce , onion and green bell pepper .
+PREDID: 0
+PRED: pour
+  PARG: the milk , 3 tablespoons of the steak sauce , onion, green bell pepper
+    PREP: in
+
+
+SENTID: 4
+SENT: Place the mixture into the prepared loaf pan and shape into a loaf .
+PREDID: 0
+PRED: place
+  DOBJ: the mixture
+  PARG: the prepared loaf pan
+    PREP: into
+
+PREDID: 1
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 5
+SENT: Brush the top with the remaining steak sauce .
+PREDID: 0
+PRED: brush
+  DOBJ: the top
+  PARG: the remaining steak sauce
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in the preheated oven for 1 hour or until done .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: done
+    PREP: until
+
+
+SENTID: 7
+SENT: Allow to stand 5 minutes before slicing .
+PREDID: 0
+PRED: allow
+  PARG: stand 5 minutes
+    PREP: to
+  PARG: slicing
+    PREP: before
+

@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Combine paprika , onion powder , garlic powder , oregano , thyme , and salt in a small bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: paprika , onion powder , garlic powder , oregano , thyme , salt
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: season with black pepper .
+PREDID: 0
+PRED: season
+  PARG: black pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Blot pork chops dry with paper towels , then rub with paprika mixture .
+PREDID: 0
+PRED: rub
+  DOBJ: blot pork chops dry
+  PARG: paper towels
+    PREP: with
+  PARG: paprika mixture
+    PREP: with
+  OARG: then
+
+
+SENTID: 3
+SENT: Heat about 2 tablespoons canola oil in a non-stick skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  PARG: 2 tablespoons canola oil
+    PREP: about
+  PARG: a non-stick skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Fry pork chops in batches until browned , about 5 minutes per side .
+PREDID: 0
+PRED: fry
+  DOBJ: pork chops
+  PARG: batches
+    PREP: in
+  PARG: browned , about 5 minutes per side
+    PREP: until
+
+
+SENTID: 5
+SENT: Transfer browned pork chops to a slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: browned pork chops
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 6
+SENT: Wipe skillet clean and heat remaining 1Ê1/2 teaspoon canola oil and butter over medium heat ;
+PREDID: 0
+PRED: wipe
+  DOBJ: skillet clean
+
+PREDID: 1
+PRED: heat
+  DOBJ: remaining 1Ê1/2 teaspoon canola oil
+
+PREDID: 2
+PRED: butter
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook and stir onions , 1/2 bottle beer , and a pinch of salt until onion is tender and slightly browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onions , 1/2 bottle beer , a pinch of salt
+
+PREDID: 1
+PRED: stir
+  PARG: onion is tender, slightly browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Add liquid smoke .
+PREDID: 0
+PRED: add
+  DOBJ: liquid smoke
+
+
+SENTID: 9
+SENT: Spread onions over pork .
+PREDID: 0
+PRED: spread
+  DOBJ: onions
+  PARG: pork
+    PREP: over
+
+
+SENTID: 10
+SENT: Mix barbeque sauce , remaining beer , Worcestershire sauce , garlic , bourbon , and hot sauce in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: barbeque sauce , remaining beer , worcestershire sauce , garlic , bourbon , hot sauce
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: pour over pork .
+PREDID: 0
+PRED: pour
+  PARG: pork
+    PREP: over
+
+
+SENTID: 12
+SENT: Cook pork on Low until very tender , about 8 hours .
+PREDID: 0
+PRED: cook
+  DOBJ: pork
+  PARG: low
+    PREP: on
+  PARG: very tender , about 8 hours
+    PREP: until
+
+
+SENTID: 13
+SENT: Shred and divide pork over rolls to make sandwiches .
+PREDID: 0
+PRED: shred
+  DOBJ: pork
+
+PREDID: 1
+PRED: divide
+  PARG: rolls
+    PREP: over
+  PARG: make sandwiches
+    PREP: to
+

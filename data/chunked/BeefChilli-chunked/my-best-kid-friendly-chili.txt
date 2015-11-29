@@ -1,0 +1,233 @@
+SENTID: 0
+SENT: Set oven rack about 6 inches from the heat source and preheat the oven 's broiler .
+PREDID: 0
+PRED: set
+  DOBJ: oven rack
+  PARG: 6 inches
+    PREP: about
+  PARG: the heat source
+    PREP: from
+
+PREDID: 1
+PRED: preheat
+  DOBJ: the oven 's broiler
+
+
+SENTID: 1
+SENT: Line a baking sheet with aluminum foil .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: Place green bell pepper on the prepared baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: green bell pepper
+  PARG: the prepared baking sheet
+    PREP: on
+
+
+SENTID: 3
+SENT: Broil bell pepper in the oven , turning every 5 minutes , until skin is blackened and bubbling , about 20 minutes .
+PREDID: 0
+PRED: broil
+  DOBJ: bell pepper
+  PARG: the oven
+    PREP: in
+  PARG: skin is blackened, bubbling , about 20 minutes
+    PREP: until
+  OARG: turning every 5 minutes
+
+
+SENTID: 4
+SENT: Transfer roasted pepper to a resealable plastic bag ;
+PREDID: 0
+PRED: transfer
+  DOBJ: roasted pepper
+  PARG: a resealable plastic bag
+    PREP: to
+
+
+SENTID: 5
+SENT: seal and set aside .
+PREDID: 0
+PRED: seal
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 6
+SENT: Heat a Dutch oven over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a dutch oven
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook and stir ground beef and ground sausage in the hot Dutch oven until browned and crumbly , 5 to 7 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef, ground sausage
+
+PREDID: 1
+PRED: stir
+  PARG: the hot dutch oven
+    PREP: in
+  PARG: browned, crumbly , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 9
+SENT: Transfer ground meat to a bowl .
+PREDID: 0
+PRED: transfer
+  DOBJ: ground meat
+  PARG: a bowl
+    PREP: to
+
+
+SENTID: 10
+SENT: Heat olive oil in the same Dutch oven over medium-low heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: the same dutch oven
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 11
+SENT: cook and stir onions and garlic in the hot oil until onions are translucent , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onions, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: onions are translucent , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Carefully remove roasted pepper from the plastic bag and peel off the blackened layer ;
+PREDID: 0
+PRED: remove
+  DOBJ: roasted pepper
+  PARG: the plastic bag
+    PREP: from
+  OARG: carefully
+
+PREDID: 1
+PRED: peel
+  PARG: the blackened layer
+    PREP: off
+
+
+SENTID: 13
+SENT: chop the pepper .
+PREDID: 0
+PRED: chop
+  DOBJ: the pepper
+
+
+SENTID: 14
+SENT: Add chopped bell pepper , ground meat mixture , chili beans , coffee , green chiles , cocoa powder , cumin , and chili powder to the onion mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: chopped bell pepper , ground meat mixture , chili beans , coffee , green chiles , cocoa powder , cumin , chili powder
+  PARG: the onion mixture
+    PREP: to
+
+
+SENTID: 15
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 16
+SENT: Simmer , stirring frequently , until warmed , about 5 minutes .
+PREDID: 0
+PRED: simmer
+  DOBJ: stirring
+  PARG: warmed , about 5 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 17
+SENT: Stir crushed tomatoes and water into chili ;
+PREDID: 0
+PRED: stir
+  DOBJ: crushed tomatoes, water
+  PARG: chili
+    PREP: into
+
+
+SENTID: 18
+SENT: season with salt .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+
+SENTID: 19
+SENT: Bring to boil .
+PREDID: 0
+PRED: bring
+  PARG: boil
+    PREP: to
+
+
+SENTID: 20
+SENT: Cover Dutch oven , reduce heat , and simmer , stirring occasionally , until flavors have blended , at least 30 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: dutch oven
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  DOBJ: stirring
+  PARG: flavors have blended , at least 30 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 21
+SENT: Remove cover and simmer until chili is thickened , about 30 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: chili is thickened , about 30 more minutes
+    PREP: until
+

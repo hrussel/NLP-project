@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Heat the oil in a large stock pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large stock pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Crumble the beef and pork into the pot .
+PREDID: 0
+PRED: crumble
+  DOBJ: the beef, pork
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 2
+SENT: Cook , stirring frequently , until no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: no longer pink
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 3
+SENT: Drain off the grease , leaving just a thin layer .
+PREDID: 0
+PRED: drain
+  DOBJ: a thin layer
+  PARG: the grease , leaving
+    PREP: off
+  OARG: just
+
+
+SENTID: 4
+SENT: Cook the onion , garlic , bell pepper , and serrano pepper in the remaining oil until the onions soften , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onion , garlic , bell pepper , serrano pepper
+  PARG: the remaining oil
+    PREP: in
+  PARG: the onions soften , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Add the lime juice , chili powder , cayenne pepper , black pepper , salt , and 1Ê1/2 bottles of dark beer .
+PREDID: 0
+PRED: add
+  DOBJ: the lime juice , chili powder , cayenne pepper , black pepper , salt , 1Ê1/2 bottles of dark beer
+
+
+SENTID: 6
+SENT: Slowly add the last 1/2 bottle of beer while stirring .
+PREDID: 0
+PRED: add
+  DOBJ: the last 1/2 bottle of beer
+  PARG: stirring
+    PREP: while
+  OARG: slowly
+
+
+SENTID: 7
+SENT: Stir in the tomatoes and tomato juice .
+PREDID: 0
+PRED: stir
+  PARG: the tomatoes, tomato juice
+    PREP: in
+
+
+SENTID: 8
+SENT: Reduce heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 9
+SENT: Simmer 1 hour .
+PREDID: 0
+PRED: simmer
+  OARG: 1 hour
+

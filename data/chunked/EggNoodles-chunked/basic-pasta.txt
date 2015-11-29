@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: In a medium sized bowl , combine flour and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: flour, salt
+  PARG: a medium sized bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Make a well in the flour , add the slightly beaten egg , and mix .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the flour
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: the slightly beaten egg
+
+PREDID: 2
+PRED: mix
+
+
+SENTID: 2
+SENT: Mixture should form a stiff dough .
+PREDID: 0
+PRED: form
+  DOBJ: mixture should
+
+
+SENTID: 3
+SENT: If needed , stir in 1 to 2 tablespoons water .
+PREDID: 0
+PRED: stir
+  PARG: needed
+    PREP: if
+  PARG: 1 to 2 tablespoons water
+    PREP: in
+
+
+SENTID: 4
+SENT: On a lightly floured surface , knead dough for about 3 to 4 minutes .
+PREDID: 0
+PRED: knead
+  DOBJ: dough
+  PARG: a lightly floured surface
+    PREP: on
+  PARG: about 3 to 4 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: With a pasta machine or by hand roll dough out to desired thinness .
+PREDID: 0
+PRED: roll
+  DOBJ: dough
+  PARG: a pasta machine
+    PREP: with
+  PARG: hand
+    PREP: by
+  PARG: to desired thinness
+    PREP: out
+
+
+SENTID: 6
+SENT: Use machine or knife to cut into strips of desired width .
+PREDID: 0
+PRED: use
+  DOBJ: machine
+
+PREDID: 1
+PRED: knife
+  PARG: cut
+    PREP: to
+  PARG: strips of desired width
+    PREP: into
+

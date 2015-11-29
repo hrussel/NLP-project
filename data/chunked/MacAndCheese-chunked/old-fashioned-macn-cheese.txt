@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Heat oven to 350 degrees .
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 350 degrees
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine macaroni , cheese and seasonings .
+PREDID: 0
+PRED: combine
+  DOBJ: macaroni , cheese, seasonings
+
+
+SENTID: 2
+SENT: Place in an 8x13-inch baking dish .
+PREDID: 0
+PRED: place
+  PARG: an 8x13-inch baking dish
+    PREP: in
+
+
+SENTID: 3
+SENT: Combine eggs and soymilk and pour over macaroni .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs, soymilk
+
+PREDID: 1
+PRED: pour
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 4
+SENT: Sprinkle with Panko bread crumbs evenly over the top .
+PREDID: 0
+PRED: sprinkle
+  PARG: panko bread crumbs
+    PREP: with
+  PARG: the top
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Bake 40 minutes until browned on the crust .
+PREDID: 0
+PRED: bake
+  PARG: browned on the crust
+    PREP: until
+  OARG: 40 minutes
+

@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: cook rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: rotini
+  PARG: a boil
+    PREP: at
+  PARG: tender yet firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and rinse under cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Combine chicken , cherries , celery , almonds , and pasta together in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , cherries , celery , almonds , pasta
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Whisk mayonnaise , confectioners ' sugar , water , vinegar , poppy seeds , salt , and black pepper together in a separate bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , confectioners ' sugar , water , vinegar , poppy seeds , salt , black pepper
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: fold dressing into chicken-pasta mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: dressing
+  PARG: chicken-pasta mixture
+    PREP: into
+

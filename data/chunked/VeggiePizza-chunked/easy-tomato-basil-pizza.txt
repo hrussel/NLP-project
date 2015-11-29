@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Mix the tomatoes and salt in a mesh strainer .
+PREDID: 0
+PRED: mix
+  DOBJ: the tomatoes, salt
+  PARG: a mesh strainer
+    PREP: in
+
+
+SENTID: 1
+SENT: Let mixture sit and drain for 15 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: mixture sit
+
+PREDID: 1
+PRED: drain
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 3
+SENT: Combine the drained tomatoes , 8 ounces of mozzarella cheese , onion , basil , pepper , olive oil , jalapenos , olives , and mushrooms in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the drained tomatoes , 8 ounces of mozzarella cheese , onion , basil , pepper , olive oil , jalapenos , olives , mushrooms
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Spread the pizza sauce evenly onto the pizza crusts .
+PREDID: 0
+PRED: spread
+  DOBJ: the pizza sauce
+  PARG: the pizza crusts
+    PREP: onto
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Distribute tomato mixture over the two pizza crusts evenly .
+PREDID: 0
+PRED: distribute
+  DOBJ: tomato mixture
+  PARG: the two pizza crusts
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Sprinkle 8 ounces of mozzarella cheese and the Parmesan cheese over both pizzas .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 8 ounces of mozzarella cheese, the parmesan cheese
+  PARG: both pizzas
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake pizzas in preheated oven until cheese is completely melted , 8 to 10 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pizzas
+  PARG: preheated oven
+    PREP: in
+  PARG: cheese is completely melted , 8 to 10 minutes
+    PREP: until
+

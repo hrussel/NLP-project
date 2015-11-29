@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Bring the rice and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: the rice, water
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Reduce heat to medium-low , cover , and simmer until the rice is tender , and the liquid has been absorbed , 20 to 25 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the rice is tender , the liquid has been absorbed , 20 to 25 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Heat the vegetable oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the vegetable oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook the chicken breasts until no longer pink in the center and the juices run clear , about 25 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken breasts
+  PARG: no longer pink in the center, the juices run clear , about 25 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Cut the chicken into bite size pieces . Toss chicken , rice , and lettuce in a large bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: the chicken
+  PARG: bite size pieces
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  DOBJ: chicken , rice , lettuce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

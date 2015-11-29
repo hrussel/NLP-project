@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Place eggs into a saucepan , cover with cold water , and place over high heat .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+PREDID: 2
+PRED: place
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: When water is boiling , cover saucepan with a lid , reduce heat to low , and simmer for 18 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: saucepan
+  PARG: a lid
+    PREP: with
+  OARG: when water is boiling
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: 18 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove from heat and cool eggs under cold running water until eggs can be handled .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  DOBJ: eggs
+  PARG: cold running water
+    PREP: under
+  PARG: eggs can be handled
+    PREP: until
+
+
+SENTID: 3
+SENT: Peel eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+
+SENTID: 4
+SENT: Cut eggs in half lengthwise and scoop yolks into a mixing bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: scoop
+  DOBJ: yolks
+  PARG: a mixing bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Beat yolks , cream cheese , creamy salad dressing , pickle relish , hot sauce , salt , and black pepper until mixture is creamy and smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: yolks , cream cheese , creamy salad dressing , pickle relish , hot sauce , salt , black pepper
+  PARG: mixture is creamy
+    PREP: until
+
+PREDID: 1
+PRED: smooth
+
+
+SENTID: 6
+SENT: Spoon yolk mixture into egg white halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 7
+SENT: Sprinkle each deviled egg half lightly with Cajun seasoning .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: each deviled egg half
+  PARG: cajun seasoning
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 8
+SENT: Chill before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+

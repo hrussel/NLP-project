@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+
+
+SENTID: 2
+SENT: In a medium bowl , stir together the flour , baking soda , salt , cinnamon , nutmeg , and ginger .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour , baking soda , salt , cinnamon , nutmeg , ginger
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: In a large bowl , stir together the honey , buttermilk , eggs , oil and 2 teaspoons of vanilla until well blended .
+PREDID: 0
+PRED: stir
+  DOBJ: the honey , buttermilk , eggs , oil, 2 teaspoons of vanilla
+  PARG: a large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Add the flour mixture to the buttermilk mixture , and stir until all of the dry ingredients are absorbed .
+PREDID: 0
+PRED: add
+  DOBJ: the flour mixture
+  PARG: the buttermilk mixture
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: all of the dry ingredients are absorbed
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in the carrot , pineapple , and walnuts by hand .
+PREDID: 0
+PRED: stir
+  PARG: the carrot , pineapple , walnuts
+    PREP: in
+  PARG: hand
+    PREP: by
+
+
+SENTID: 6
+SENT: Pour into the prepared pan .
+PREDID: 0
+PRED: pour
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake for 50 minutes in the preheated oven , or until a toothpick inserted into the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 50 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool completely before frosting with cream cheese frosting .
+PREDID: 0
+PRED: cool
+  PARG: frosting
+    PREP: before
+  PARG: cream cheese frosting
+    PREP: with
+  OARG: completely
+
+
+SENTID: 9
+SENT: To make the frosting , mix together the cream cheese , honey and 1 teaspoon of vanilla until smooth and well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the cream cheese , honey, 1 teaspoon of vanilla
+  PARG: make the frosting
+    PREP: to
+  PARG: smooth, well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 10
+SENT: Spread over the cooled cake .
+PREDID: 0
+PRED: spread
+  PARG: the cooled cake
+    PREP: over
+

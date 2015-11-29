@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Cut eggs in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 1
+SENT: remove yolks and set whites aside .
+PREDID: 0
+PRED: remove
+  DOBJ: yolks, set whites
+  OARG: aside
+
+
+SENTID: 2
+SENT: Mix egg yolks , mayonnaise , mustard , horseradish , shallots , and seasoned salt in a bowl until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: egg yolks , mayonnaise , mustard , horseradish , shallots , seasoned salt
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Pipe or spoon yolk mixture into egg whites ;
+PREDID: 0
+PRED: pipe
+  DOBJ: yolk mixture
+
+PREDID: 1
+PRED: spoon
+  PARG: egg whites
+    PREP: into
+
+
+SENTID: 4
+SENT: top each with a leaf of cilantro .
+PREDID: 0
+PRED: top
+  DOBJ: each with a leaf of cilantro
+

@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain leaving about a 1/2 cup of water in the pot .
+PREDID: 0
+PRED: drain
+  DOBJ: leaving
+  PARG: a 1/2 cup of water
+    PREP: about
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 3
+SENT: To the pot of pasta , add tuna , celery soup , peas , red bell pepper , onion , and salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: tuna , celery soup , peas , red bell pepper , onion , salt, pepper
+  PARG: the pot of pasta
+    PREP: to
+  PARG: taste
+    PREP: to
+
+
+SENTID: 4
+SENT: Simmer until hot .
+PREDID: 0
+PRED: simmer
+  PARG: hot
+    PREP: until
+
+
+SENTID: 5
+SENT: If needed , add more water or milk .
+PREDID: 0
+PRED: add
+  DOBJ: more water or milk
+  PARG: needed
+    PREP: if
+

@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 10 inch casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 10 inch casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Melt butter in a small saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Stir in the flour and cook until a roux forms .
+PREDID: 0
+PRED: stir
+  PARG: the flour
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: a roux forms
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in the milk , salt and pepper ;
+PREDID: 0
+PRED: stir
+  PARG: the milk , salt, pepper
+    PREP: in
+
+
+SENTID: 8
+SENT: cook , stirring constantly , until sauce is smooth and thick and coats the back of a spoon .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: sauce is smooth, thick, coats the back of a spoon
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 9
+SENT: Remove from heat and stir in cheese .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: cheese
+    PREP: in
+
+
+SENTID: 10
+SENT: Combine cooked pasta and cheese sauce ;
+PREDID: 0
+PRED: combine
+  DOBJ: cooked pasta, cheese sauce
+
+
+SENTID: 11
+SENT: transfer to prepared dish .
+PREDID: 0
+PRED: transfer
+  PARG: prepared dish
+    PREP: to
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 15 minutes , or until heated through .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+

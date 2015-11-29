@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a mixing bowl , combine ground beef , Spanish rice and sauce mix , eggs , 1 tablespoon of ketchup , and mustard .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , spanish rice, sauce
+  PARG: a mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: eggs , 1 tablespoon of ketchup , mustard
+
+
+SENTID: 2
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Coat the inside of a 9x5 inch loaf pan with 2 tablespoons of the ketchup .
+PREDID: 0
+PRED: coat
+  DOBJ: the inside of a 9x5 inch loaf pan
+  PARG: 2 tablespoons of the ketchup
+    PREP: with
+
+
+SENTID: 4
+SENT: Transfer the meat mixture to the loaf pan .
+PREDID: 0
+PRED: transfer
+  DOBJ: the meat mixture
+  PARG: the loaf pan
+    PREP: to
+
+
+SENTID: 5
+SENT: Top with the remaining ketchup .
+PREDID: 0
+PRED: top
+  PARG: the remaining ketchup
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in a preheated oven for 1 hour or until cooked through .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: cooked through
+    PREP: until
+

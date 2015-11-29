@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: reduce heat to medium-low , cover , and simmer until tender , about 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 4
+SENT: Allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 6
+SENT: Cover the saucepan and bring the water to a boil .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Pour out the hot water and cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 9
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 10
+SENT: Dice the eggs .
+PREDID: 0
+PRED: dice
+  DOBJ: the eggs
+
+
+SENTID: 11
+SENT: In a salad bowl , lightly toss the potatoes , eggs , artichoke hearts , garlic , Parmesan cheese , croutons , Dijon mustard , rice vinegar , and mayonnaise until all ingredients are coated with dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: the potatoes , eggs , artichoke hearts , garlic , parmesan cheese , croutons , dijon mustard , rice vinegar , mayonnaise
+  PARG: a salad bowl
+    PREP: in
+  PARG: all ingredients are coated with dressing
+    PREP: until
+  OARG: lightly
+

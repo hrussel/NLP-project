@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Crumble the beef into a large skillet over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the beef
+  PARG: a large skillet
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir until evenly browned .
+PREDID: 0
+PRED: cook
+  PARG: evenly browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Drain off grease , and mix in the tomatoes , kidney beans and chili seasoning mix .
+PREDID: 0
+PRED: drain
+  PARG: grease
+    PREP: off
+
+PREDID: 1
+PRED: mix
+  PARG: the tomatoes , kidney beans, chili seasoning mix
+    PREP: in
+
+
+SENTID: 3
+SENT: Reduce heat to medium , and simmer for 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 15 minutes
+    PREP: for
+

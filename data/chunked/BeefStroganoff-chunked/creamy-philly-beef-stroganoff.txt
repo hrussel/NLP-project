@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: Cook steak in large skillet on high heat 2 min .
+PREDID: 0
+PRED: cook
+  DOBJ: steak
+  PARG: large skillet
+    PREP: in
+  PARG: high heat 2 min
+    PREP: on
+
+
+SENTID: 1
+SENT: Remove from skillet ;
+PREDID: 0
+PRED: remove
+  PARG: skillet
+    PREP: from
+
+
+SENTID: 2
+SENT: cover to keep warm .
+PREDID: 0
+PRED: cover
+  PARG: keep warm
+    PREP: to
+
+
+SENTID: 3
+SENT: Add margarine and onions to skillet ;
+PREDID: 0
+PRED: add
+  DOBJ: margarine, onions
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 4
+SENT: cook on medium heat 5 min .
+PREDID: 0
+PRED: cook
+  PARG: medium heat 5 min
+    PREP: on
+
+
+SENTID: 5
+SENT: Stir in mushrooms , bay leaves and thyme ;
+PREDID: 0
+PRED: stir
+  PARG: mushrooms , bay leaves, thyme
+    PREP: in
+
+
+SENTID: 6
+SENT: cook 10 min. , stirring occasionally .
+PREDID: 0
+PRED: cook
+  DOBJ: 10 min. , stirring
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Add broth ;
+PREDID: 0
+PRED: add
+  DOBJ: broth
+
+
+SENTID: 8
+SENT: bring to boil .
+PREDID: 0
+PRED: bring
+  PARG: boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Simmer on low heat 3 min .
+PREDID: 0
+PRED: simmer
+  PARG: low heat 3 min
+    PREP: on
+
+
+SENTID: 10
+SENT: Add cream cheese spread ;
+PREDID: 0
+PRED: add
+  DOBJ: cream cheese spread
+
+
+SENTID: 11
+SENT: cook until melted , stirring frequently .
+PREDID: 0
+PRED: cook
+  PARG: melted , stirring frequently
+    PREP: until
+
+
+SENTID: 12
+SENT: Remove and discard bay leaves .
+PREDID: 0
+PRED: remove
+  DOBJ: bay leaves
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 13
+SENT: Cut steak across the grain into thin slices .
+PREDID: 0
+PRED: cut
+  DOBJ: steak
+  PARG: the grain
+    PREP: across
+  PARG: thin slices
+    PREP: into
+
+
+SENTID: 14
+SENT: Add to skillet ;
+PREDID: 0
+PRED: add
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 15
+SENT: cook 3 to 5 min .
+PREDID: 0
+PRED: cook
+  DOBJ: 3 to 5 min
+
+
+SENTID: 16
+SENT: Stir in parsley .
+PREDID: 0
+PRED: stir
+  PARG: parsley
+    PREP: in
+
+
+SENTID: 17
+SENT: Serve over noodles .
+PREDID: 0
+PRED: serve
+  PARG: noodles
+    PREP: over
+

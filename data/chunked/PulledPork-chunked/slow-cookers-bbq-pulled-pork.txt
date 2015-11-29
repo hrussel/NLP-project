@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Place pork in slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix Seasoning Mix , ketchup , brown sugar and vinegar until blended .
+PREDID: 0
+PRED: mix
+  DOBJ: seasoning
+
+PREDID: 1
+PRED: mix
+  DOBJ: ketchup , brown sugar, vinegar
+  PARG: blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour over pork .
+PREDID: 0
+PRED: pour
+  PARG: pork
+    PREP: over
+
+
+SENTID: 3
+SENT: Cover .
+PREDID: 0
+PRED: cover
+
+
+SENTID: 4
+SENT: Cook 8 hours on LOW or 4 hours on HIGH .
+PREDID: 0
+PRED: cook
+  PARG: low or 4 hours
+    PREP: on
+  PARG: high
+    PREP: on
+  OARG: 8 hours
+
+
+SENTID: 5
+SENT: Remove pork from slow cooker .
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: slow cooker
+    PREP: from
+
+
+SENTID: 6
+SENT: Shred pork , using 2 forks .
+PREDID: 0
+PRED: shred
+  DOBJ: using 2 forks
+  OARG: pork
+
+
+SENTID: 7
+SENT: Return pork to slow cooker .
+PREDID: 0
+PRED: return
+  DOBJ: pork
+  OARG: to slow cooker
+
+
+SENTID: 8
+SENT: Mix and heat with sauce before serving .
+PREDID: 0
+PRED: mix
+  PARG: sauce
+    PREP: with
+
+PREDID: 1
+PRED: heat
+  PARG: serving
+    PREP: before
+
+
+SENTID: 9
+SENT: Serve on sandwich rolls , if desired .
+PREDID: 0
+PRED: serve
+  PARG: sandwich rolls
+    PREP: on
+  PARG: desired
+    PREP: if
+

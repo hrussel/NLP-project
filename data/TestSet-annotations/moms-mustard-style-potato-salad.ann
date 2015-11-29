@@ -1,0 +1,124 @@
+T1	predicate 0 5	Bring
+T2	predicate 45 48	Add
+T3	predicate 62 66	cook
+T4	predicate 114 119	Drain
+T5	predicate 121 126	place
+T6	predicate 154 158	beat
+T7	predicate 173 178	Place
+T8	predicate 202 207	cover
+T9	predicate 225 230	Bring
+T10	predicate 248 253	cover
+T11	predicate 255 261	remove
+T12	predicate 277 280	let
+T13	predicate 327 333	Remove
+T14	predicate 350 354	cool
+T15	predicate 356 360	peel
+T16	predicate 365 369	chop
+T17	predicate 389 396	combine
+T18	predicate 453 458	Blend
+T19	predicate 500 503	add
+T20	predicate 517 520	mix
+T21	predicate 527 535	Sprinkle
+T22	predicate 553 564	refrigerate
+T23	arg_object 6 33	a large pot of salted water
+T24	arg_other 34 43	to a boil
+R1	object Arg1:T1 Arg2:T23	
+R2	other Arg1:T1 Arg2:T24	
+T25	arg_object 49 57	potatoes
+T26	ingredient 49 57	potatoes
+R3	object Arg1:T2 Arg2:T25	
+R4	co-object Arg1:T2 Arg2:T1	
+T27	ingredient 6 33	a large pot of salted water
+R5	object Arg1:T3 Arg2:T2	
+T28	arg_duration 67 112	until tender but still firm, about 15 minutes
+R6	duration Arg1:T3 Arg2:T28	
+R7	object Arg1:T4 Arg2:T3	
+R8	co-object Arg1:T4 Arg2:T3	
+R9	object Arg1:T5 Arg2:T4	
+T29	arg_location 127 149	in a large mixing bowl
+R10	location Arg1:T5 Arg2:T29	
+R11	object Arg1:T6 Arg2:T5	
+T30	arg_duration 159 171	until smooth
+R12	duration Arg1:T6 Arg2:T30	
+T31	arg_object 179 183	eggs
+T32	ingredient 179 183	eggs
+R13	object Arg1:T7 Arg2:T31	
+T33	arg_location 184 197	in a saucepan
+R14	location Arg1:T7 Arg2:T33	
+R15	object Arg1:T8 Arg2:T7	
+T34	arg_co-object 208 223	with cold water
+T35	ingredient 213 223	cold water
+R16	co-object Arg1:T8 Arg2:T34	
+T36	arg_object 231 236	water
+T37	Evolution 231 236	water
+E1	Evolution:T37 Cause:T8
+R17	object Arg1:T9 Arg2:T36	
+T38	arg_other 237 246	to a boil
+R18	other Arg1:T9 Arg2:T38	
+R19	object Arg1:T10 Arg2:T9	
+R20	object Arg1:T11 Arg2:T10	
+T39	arg_location 262 271	from heat
+R21	location Arg1:T11 Arg2:T39	
+T40	arg_object 281 285	eggs
+R22	object Arg1:T12 Arg2:T40	
+T41	Evolution 281 285	eggs
+E2	Evolution:T41 Cause:T11
+T42	arg_other 286 291	stand
+T43	arg_co-object 292 304	in hot water
+T44	Evolution 295 304	hot water
+E3	Evolution:T44 Cause:T11
+T45	arg_duration 305 325	for 10 to 12 minutes
+R23	other Arg1:T12 Arg2:T42	
+R24	co-object Arg1:T12 Arg2:T43	
+R25	duration Arg1:T12 Arg2:T45	
+R26	object Arg1:T13 Arg2:T12	
+T46	arg_co-object 334 348	from hot water
+R27	co-object Arg1:T13 Arg2:T46	
+T47	Evolution 339 348	hot water
+E4	Evolution:T47 Cause:T12
+R28	object Arg1:T14 Arg2:T13	
+R29	object Arg1:T15 Arg2:T14	
+R30	object Arg1:T16 Arg2:T15	
+T48	arg_location 371 387	In a mixing bowl
+T49	arg_object 397 409	the potatoes
+T50	arg_object 411 415	eggs
+T51	arg_object 417 422	onion
+T52	ingredient 417 422	onion
+T53	ingredient 424 430	celery
+T54	arg_object 424 430	celery
+T55	ingredient 432 438	relish
+T56	arg_object 443 451	pimentos
+T57	ingredient 443 451	pimentos
+T58	arg_object 432 438	relish
+T59	Evolution 397 409	the potatoes
+E5	Evolution:T59 Cause:T6
+T60	Evolution 411 415	eggs
+E6	Evolution:T60 Cause:T16
+R31	location Arg1:T17 Arg2:T48	
+R32	object Arg1:T17 Arg2:T49	
+R33	object Arg1:T17 Arg2:T50	
+R34	object Arg1:T17 Arg2:T51	
+R35	object Arg1:T17 Arg2:T54	
+R36	object Arg1:T17 Arg2:T58	
+R37	object Arg1:T17 Arg2:T56	
+T61	arg_object 468 479	the mustard
+T62	ingredient 468 479	the mustard
+T63	arg_object 484 498	salad dressing
+T64	ingredient 484 498	salad dressing
+R38	object Arg1:T18 Arg2:T61	
+R39	object Arg1:T18 Arg2:T63	
+R40	object Arg1:T19 Arg2:T18	
+T65	arg_co-object 504 512	to salad
+T66	Evolution 507 512	salad
+E7	Evolution:T66 Cause:T17
+R41	co-object Arg1:T19 Arg2:T65	
+R42	object Arg1:T20 Arg2:T19	
+T67	arg_other 521 525	well
+R43	other Arg1:T20 Arg2:T67	
+R44	object Arg1:T21 Arg2:T20	
+T68	arg_co-object 536 548	with paprika
+T69	ingredient 541 548	paprika
+R45	co-object Arg1:T21 Arg2:T68	
+R46	object Arg1:T22 Arg2:T21	
+T70	arg_duration 565 578	until chilled
+R47	duration Arg1:T22 Arg2:T70	

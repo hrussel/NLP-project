@@ -1,0 +1,180 @@
+SENTID: 0
+SENT: Fill a large pot with water and bring to a rolling boil ;
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: add the corn and boil 15 to 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the corn
+
+PREDID: 1
+PRED: boil
+  OARG: 15 to 20 minutes
+
+
+SENTID: 2
+SENT: Remove the corn and allow to cool until cool enough to handle .
+PREDID: 0
+PRED: remove
+  DOBJ: the corn
+
+PREDID: 1
+PRED: allow
+  PARG: cool enough to handle
+    PREP: until
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Cut the corn off of the cob and place into a large mixing bowl ;
+PREDID: 0
+PRED: cut
+  DOBJ: the corn
+  PARG: of the cob
+    PREP: off
+
+PREDID: 1
+PRED: place
+  PARG: a large mixing bowl
+    PREP: into
+
+
+SENTID: 4
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Place the tomatillos , cilantro , jalapeno , onion , garlic , salt , and 4 teaspoons of lime juice into a blender .
+PREDID: 0
+PRED: place
+  DOBJ: the tomatillos , cilantro , jalapeno , onion , garlic , salt , 4 teaspoons of lime juice
+  PARG: a blender
+    PREP: into
+
+
+SENTID: 6
+SENT: Pulse until the vegetables have been finely chopped ;
+PREDID: 0
+PRED: pulse
+  PARG: the vegetables have been finely chopped
+    PREP: until
+
+
+SENTID: 7
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Toss the avocado with 1 teaspoon of lime juice and mix with the corn , cabbage , black beans , and bell pepper .
+PREDID: 0
+PRED: toss
+  DOBJ: the avocado
+  PARG: 1 teaspoon of lime juice
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  PARG: the corn , cabbage , black beans , bell pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Preheat an outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 10
+SENT: Season the chicken breasts with Cajun seasoning .
+PREDID: 0
+PRED: season
+  DOBJ: the chicken breasts
+  PARG: cajun seasoning
+    PREP: with
+
+
+SENTID: 11
+SENT: Cook the chicken breasts on the preheated grill until no longer pink in the center and the juices run clear , about 6 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken breasts
+  PARG: the preheated grill
+    PREP: on
+  PARG: no longer pink in the center, the juices run clear , about 6 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Set the breasts aside until cool enough to handle ;
+PREDID: 0
+PRED: set
+  DOBJ: the breasts
+  PARG: cool enough to handle
+    PREP: until
+  OARG: aside
+
+
+SENTID: 13
+SENT: cut into bite sized pieces . Divide the lettuce leaves onto 4 plates .
+PREDID: 0
+PRED: cut
+  PARG: bite sized pieces
+    PREP: into
+
+PREDID: 1
+PRED: divide
+  DOBJ: the lettuce leaves
+  PARG: 4 plates
+    PREP: onto
+
+
+SENTID: 14
+SENT: Mound the avocado mixture on top of the lettuce , followed by the chicken .
+PREDID: 0
+PRED: mound
+  DOBJ: the avocado mixture
+  PARG: top of the lettuce , followed
+    PREP: on
+  PARG: the chicken
+    PREP: by
+
+
+SENTID: 15
+SENT: Sprinkle with cotija cheese and garnish with lime wedges to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: cotija cheese
+    PREP: with
+
+PREDID: 1
+PRED: garnish
+  PARG: lime wedges
+    PREP: with
+  PARG: serve
+    PREP: to
+

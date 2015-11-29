@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Heat oven to 425 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly spray cookie sheet with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: cookie sheet
+  PARG: cooking spray
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Unroll dough onto cookie sheet .
+PREDID: 0
+PRED: unroll
+  DOBJ: dough
+  PARG: cookie sheet
+    PREP: onto
+
+
+SENTID: 3
+SENT: Starting at center , press out dough into 14x10-inch rectangle ;
+PREDID: 0
+PRED: press
+  DOBJ: starting
+  PARG: center
+    PREP: at
+  PARG: dough
+    PREP: out
+  PARG: 14x10-inch rectangle
+    PREP: into
+
+
+SENTID: 4
+SENT: cut into 4 -LRB- 7x5-inch -RRB- rectangles .
+PREDID: 0
+PRED: cut
+  PARG: 4 -lrb- 7x5-inch -rrb- rectangles
+    PREP: into
+
+
+SENTID: 5
+SENT: Spoon 1 tablespoon cream cheese spread onto half of each rectangle , spreading to within 1/2 inch of edges .
+PREDID: 0
+PRED: spoon
+  DOBJ: 1 tablespoon cream cheese
+
+PREDID: 1
+PRED: spread
+  PARG: half of each rectangle , spreading
+    PREP: onto
+  PARG: within 1/2 inch of edges
+    PREP: to
+
+
+SENTID: 6
+SENT: Top each with 1/4 cup chicken , 2 tablespoons broccoli and 1 tablespoon bell pepper .
+PREDID: 0
+PRED: top
+  DOBJ: each with 1/4 cup chicken , 2 tablespoons broccoli, 1 tablespoon bell pepper
+
+
+SENTID: 7
+SENT: Fold dough in half over filling ;
+PREDID: 0
+PRED: fold
+  DOBJ: dough
+  PARG: half
+    PREP: in
+  PARG: filling
+    PREP: over
+
+
+SENTID: 8
+SENT: press edges firmly with fork to seal .
+PREDID: 0
+PRED: press
+  DOBJ: edges
+  PARG: fork
+    PREP: with
+  PARG: seal
+    PREP: to
+  OARG: firmly
+
+
+SENTID: 9
+SENT: Prick tops with fork to vent .
+PREDID: 0
+PRED: prick
+  DOBJ: tops
+  PARG: fork
+    PREP: with
+  PARG: vent
+    PREP: to
+
+
+SENTID: 10
+SENT: Bake 11 to 13 minutes or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: golden brown
+    PREP: until
+  OARG: 11 to 13 minutes
+

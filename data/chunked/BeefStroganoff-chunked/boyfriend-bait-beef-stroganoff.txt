@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Over medium high heat , gently cook beef tenderloin in 2 tablespoons of butter for about 2 minutes , until just seared on all sides .
+PREDID: 0
+PRED: cook
+  DOBJ: beef tenderloin
+  PARG: medium high heat
+    PREP: over
+  PARG: 2 tablespoons of butter
+    PREP: in
+  PARG: about 2 minutes
+    PREP: for
+  PARG: just seared on all sides
+    PREP: until
+  OARG: gently
+
+
+SENTID: 1
+SENT: Return the pan to medium-high heat and cook the shallots and mushrooms in remaining butter until soft and wilted , about 5 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: the pan
+  PARG: medium-high heat
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: the shallots, mushrooms
+  PARG: remaining butter
+    PREP: in
+  PARG: soft, wilted , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix cornstarch into cold beef broth , whisk to blend .
+PREDID: 0
+PRED: mix
+  DOBJ: cornstarch
+  PARG: cold beef broth
+    PREP: into
+
+PREDID: 1
+PRED: whisk
+  PARG: blend
+    PREP: to
+
+
+SENTID: 3
+SENT: Pour into pan , and stir together with shallots and mushrooms until thickened , two or three minutes .
+PREDID: 0
+PRED: pour
+  PARG: pan
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: shallots, mushrooms
+    PREP: with
+  PARG: thickened , two or three minutes
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Add sour cream and mustard , stir to blend .
+PREDID: 0
+PRED: add
+  DOBJ: sour cream, mustard
+
+PREDID: 1
+PRED: stir
+  PARG: blend
+    PREP: to
+
+
+SENTID: 5
+SENT: Add beef and juices from dish ;
+PREDID: 0
+PRED: add
+  DOBJ: beef, juices
+  PARG: dish
+    PREP: from
+
+
+SENTID: 6
+SENT: stir over medium just till warmed through .
+PREDID: 0
+PRED: stir
+  DOBJ: through
+  PARG: medium
+    PREP: over
+  PARG: warmed
+    PREP: till
+  OARG: just
+
+
+SENTID: 7
+SENT: Salt to taste .
+PREDID: 0
+PRED: salt
+  PARG: taste
+    PREP: to
+

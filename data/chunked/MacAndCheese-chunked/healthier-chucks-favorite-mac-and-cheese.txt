@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Stir together macaroni , shredded Cheddar cheese , cottage cheese , sour cream , Parmesan cheese , and salt and pepper in a 9x13-inch baking dish .
+PREDID: 0
+PRED: stir
+  DOBJ: macaroni , shredded cheddar cheese , cottage cheese , sour cream , parmesan cheese , salt, pepper
+  PARG: a 9x13-inch baking dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Mix together bread crumbs and melted butter in a small bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: bread crumbs, melted butter
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: sprinkle topping over macaroni mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: topping
+  PARG: macaroni mixture
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake until top is golden in the preheated oven , 30 to 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: top is golden in the preheated oven , 30 to 35 minutes
+    PREP: until
+

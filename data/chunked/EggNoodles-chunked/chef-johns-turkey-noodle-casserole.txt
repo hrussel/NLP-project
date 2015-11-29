@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook egg noodles in boiling water , stirring occasionally until almost cooked through and still firm to the bite , about 4 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: boiling water , stirring
+    PREP: in
+  PARG: almost cooked through, still firm to the bite , about 4 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Melt butter in a large saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Whisk in flour ;
+PREDID: 0
+PRED: whisk
+  PARG: flour
+    PREP: in
+
+
+SENTID: 6
+SENT: cook , stirring , until mixture is light golden , about 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: mixture is light golden , about 3 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour milk into butter and flour mixture , whisking constantly .
+PREDID: 0
+PRED: pour
+  DOBJ: milk
+  PARG: butter, flour mixture , whisking
+    PREP: into
+  OARG: constantly
+
+
+SENTID: 8
+SENT: Stir in cream of mushroom soup , red bell pepper , green bell pepper , green onions , garam masala , and dried tarragon .
+PREDID: 0
+PRED: stir
+  PARG: cream of mushroom soup , red bell pepper , green bell pepper , green onions , garam masala , dried tarragon
+    PREP: in
+
+
+SENTID: 9
+SENT: Bring mixture to a simmer , cook for 2 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: mixture
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 11
+SENT: Stir in pepperjack cheese until cheese is melted and incorporated .
+PREDID: 0
+PRED: stir
+  PARG: pepperjack cheese
+    PREP: in
+  PARG: cheese is melted, incorporated
+    PREP: until
+
+
+SENTID: 12
+SENT: Stir pepperjack cheese mixture , turkey meat , and noodles in a large bowl until evenly incorporated .
+PREDID: 0
+PRED: stir
+  DOBJ: pepperjack cheese mixture , turkey meat , noodles
+  PARG: a large bowl
+    PREP: in
+  PARG: evenly incorporated
+    PREP: until
+
+
+SENTID: 13
+SENT: Pour mixture into a large casserole dish .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: a large casserole dish
+    PREP: into
+
+
+SENTID: 14
+SENT: Sprinkle chips on top , pressing down slightly with the tines of a fork .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chips
+  PARG: top , pressing
+    PREP: on
+  PARG: the tines of a fork
+    PREP: with
+  OARG: down
+  OARG: slightly
+
+
+SENTID: 15
+SENT: Bake in the preheated oven until casserole top is golden brown and sauce is bubbling , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole top is golden brown
+    PREP: until
+
+PREDID: 1
+PRED: sauce
+  DOBJ: is bubbling
+  PARG: 30 minutes
+    PREP: about
+

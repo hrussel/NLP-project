@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease 9x13 baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: 9x13 baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Place the carrots , eggs , and oil in a blender or bowl of a food processor .
+PREDID: 0
+PRED: place
+  DOBJ: the carrots , eggs , oil
+  PARG: a blender or bowl of a food processor
+    PREP: in
+
+
+SENTID: 3
+SENT: Process until carrots are finely chopped .
+PREDID: 0
+PRED: process
+  PARG: carrots are finely chopped
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour the carrot mixture into a mixing bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: the carrot mixture
+  PARG: a mixing bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Stir in 2 cups sugar until well blended .
+PREDID: 0
+PRED: stir
+  PARG: 2 cups sugar
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the flour and baking powder ;
+PREDID: 0
+PRED: stir
+  PARG: the flour, baking powder
+    PREP: in
+
+
+SENTID: 7
+SENT: mix until well blended .
+PREDID: 0
+PRED: mix
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour the batter into the prepared baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: the batter
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in preheated oven until top springs back when lightly touched , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: top springs back when lightly touched , about 40 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Meanwhile , make the icing by placing the butter , 1 cup sugar , instant hot chocolate drink mix , and milk in a pan .
+PREDID: 0
+PRED: make
+  DOBJ: the icing
+  PARG: placing the butter , 1 cup sugar , instant hot chocolate drink mix , milk
+    PREP: by
+  PARG: a pan
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 11
+SENT: While stirring , heat to almost boiling over medium-high heat until mixture thickens .
+PREDID: 0
+PRED: heat
+  PARG: stirring
+    PREP: while
+  PARG: medium-high heat
+    PREP: over
+  PARG: mixture thickens
+    PREP: until
+  OARG: to almost boiling
+
+
+SENTID: 12
+SENT: When the cake is done , remove from the oven and immediately spread the icing evenly over the top .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+  OARG: when the cake is done
+  OARG: immediately
+
+PREDID: 1
+PRED: spread
+  DOBJ: the icing
+  PARG: the top
+    PREP: over
+  OARG: evenly
+

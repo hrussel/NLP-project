@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Bring rice and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: rice, water
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Reduce heat to medium-low , cover , and simmer until the rice is tender and the liquid has been absorbed , 20 to 25 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the rice is tender, the liquid has been absorbed , 20 to 25 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Heat olive oil , garlic salt , black pepper , and parsley in a large skillet or wok over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil , garlic salt , black pepper , parsley
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook and stir chicken strips in olive oil until no longer pink in the center and juices run clear , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken strips
+
+PREDID: 1
+PRED: stir
+  PARG: olive oil
+    PREP: in
+  PARG: no longer pink in the center, juices run clear , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in broccoli , carrots , and snap peas ;
+PREDID: 0
+PRED: stir
+  PARG: broccoli , carrots , snap peas
+    PREP: in
+
+
+SENTID: 5
+SENT: cover the skillet , and cook until carrots are tender , 5 to 8 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: the skillet
+
+PREDID: 1
+PRED: cook
+  PARG: carrots are tender , 5 to 8 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir condensed Cheddar cheese soup into chicken and vegetables ;
+PREDID: 0
+PRED: stir
+  DOBJ: condensed cheddar cheese soup
+  PARG: chicken, vegetables
+    PREP: into
+
+
+SENTID: 7
+SENT: mix well and bring to a simmer .
+PREDID: 0
+PRED: mix
+  PARG: a simmer
+    PREP: to
+  OARG: well
+
+PREDID: 1
+PRED: bring
+
+
+SENTID: 8
+SENT: Cook and stir until chicken and vegetables are coated with sauce .
+PREDID: 0
+PRED: cook
+  PARG: chicken, vegetables are coated with sauce
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 9
+SENT: To serve , mound cooked rice on a platter , and top with chicken and vegetables in sauce .
+PREDID: 0
+PRED: mound
+  DOBJ: cooked rice
+  PARG: serve
+    PREP: to
+  PARG: a platter
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: chicken, vegetables
+    PREP: with
+  PARG: sauce
+    PREP: in
+
+
+SENTID: 10
+SENT: Sprinkle with shredded Cheddar cheese to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: shredded cheddar cheese
+    PREP: with
+  PARG: serve
+    PREP: to
+

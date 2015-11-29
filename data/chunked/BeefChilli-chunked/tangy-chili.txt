@@ -1,0 +1,34 @@
+SENTID: 0
+SENT: In a medium sized saute pan , brown ground beef and then drain fat .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a medium sized saute pan
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 1
+SENT: In a medium sauce pan combine browned beef , sloppy joe mix , corn , chili beans and mushrooms .
+PREDID: 0
+PRED: combine
+  DOBJ: browned beef , sloppy joe mix , corn , chili beans, mushrooms
+  PARG: a medium sauce pan
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir , heat through , and then serve .
+PREDID: 0
+PRED: stir
+  DOBJ: through
+  OARG: heat
+  OARG: then
+
+PREDID: 1
+PRED: serve
+

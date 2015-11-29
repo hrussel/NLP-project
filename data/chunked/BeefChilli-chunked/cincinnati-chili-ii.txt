@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: In a 4 quart saucepan over medium heat , cook ground beef , green pepper , onion , chili powder and garlic , until beef is browned and vegetables are tender .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , green pepper , onion , chili powder, garlic
+  PARG: a 4 quart saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: beef is browned, vegetables are tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain fat off of beef/vegetable mixture .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+  PARG: of beef/vegetable mixture
+    PREP: off
+
+
+SENTID: 2
+SENT: Add undrained kidney beans , tomato soup , vinegar and cinnamon to soup , and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: undrained kidney beans , tomato soup , vinegar, cinnamon
+  PARG: soup
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Simmer for 15 minutes , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  PARG: 15 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Heat through .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 5
+SENT: Serve with sprinkled cheese on top .
+PREDID: 0
+PRED: serve
+  PARG: sprinkled cheese
+    PREP: with
+  PARG: top
+    PREP: on
+

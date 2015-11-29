@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Heat olive oil in a heavy 6-quart pot over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a heavy 6-quart pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir onion until soft and pale gold in color , about 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+
+PREDID: 1
+PRED: stir
+  PARG: soft, pale gold in color , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir chili powder , cocoa , garlic , oregano , cumin , kosher salt , black pepper , and cayenne pepper into onion .
+PREDID: 0
+PRED: stir
+  DOBJ: chili powder , cocoa , garlic , oregano , cumin , kosher salt , black pepper , cayenne pepper
+  PARG: onion
+    PREP: into
+
+
+SENTID: 3
+SENT: Cook until fragrant , 1 to 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: fragrant , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir tomatoes and beer into the mixture until well-combined .
+PREDID: 0
+PRED: stir
+  DOBJ: tomatoes, beer
+  PARG: the mixture
+    PREP: into
+  PARG: well-combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Add ranch-style beans , beef brisket , and beef broth ;
+PREDID: 0
+PRED: add
+  DOBJ: ranch-style beans , beef brisket , beef broth
+
+
+SENTID: 6
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Reduce heat to low , cover , and simmer chili , stirring occasionally , until meat is very tender and flavors have blended , about 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: simmer
+  DOBJ: chili , stirring
+  PARG: meat is very tender, flavors have blended , about 30 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Season with liquid smoke flavoring , salt , and black pepper .
+PREDID: 0
+PRED: season
+  PARG: liquid smoke flavoring , salt , black pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Preheat a waffle iron on medium according to manufacturer 's instructions .
+PREDID: 0
+PRED: preheat
+  DOBJ: a waffle iron
+  PARG: medium according
+    PREP: on
+  PARG: manufacturer 's instructions
+    PREP: to
+
+
+SENTID: 10
+SENT: Whisk corn bread mix , egg , sour cream , and milk in a bowl to make a batter .
+PREDID: 0
+PRED: whisk
+  DOBJ: corn bread
+
+PREDID: 1
+PRED: mix
+  DOBJ: egg , sour cream , milk
+  PARG: a bowl
+    PREP: in
+  PARG: make a batter
+    PREP: to
+
+
+SENTID: 11
+SENT: Pour about 1/2 cup batter , or as needed , onto hot waffle iron , close lid , and bake waffle until golden brown , 2 to 3 minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: lid
+  PARG: 1/2 cup batter
+    PREP: about
+  PARG: needed
+    PREP: as
+  PARG: hot waffle iron
+    PREP: onto
+  OARG: close
+
+PREDID: 1
+PRED: bake
+  DOBJ: waffle
+  PARG: golden brown , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Repeat with remaining batter .
+PREDID: 0
+PRED: repeat
+  PARG: remaining batter
+    PREP: with
+
+
+SENTID: 13
+SENT: Serve chili over hot waffles .
+PREDID: 0
+PRED: serve
+  DOBJ: chili
+  PARG: hot waffles
+    PREP: over
+

@@ -1,0 +1,204 @@
+SENTID: 0
+SENT: Carrot Cake :
+PREDID: 0
+PRED: cake
+  DOBJ: carrot
+
+
+SENTID: 1
+SENT: Soak carrots and raisins in 1 cup HOT tap water , allow to stand for 5 mins .
+PREDID: 0
+PRED: soak
+  DOBJ: carrots, raisins
+  PARG: 1 cup hot tap water
+    PREP: in
+
+PREDID: 1
+PRED: allow
+  PARG: stand
+    PREP: to
+  PARG: 5 mins
+    PREP: for
+
+
+SENTID: 2
+SENT: Drain and squeeze out excess water from carrots and raisins .
+PREDID: 0
+PRED: drain
+  PARG: excess water
+    PREP: out
+
+PREDID: 1
+PRED: squeeze
+  PARG: carrots, raisins
+    PREP: from
+
+
+SENTID: 3
+SENT: In mixing bowl add dry mix , 2 eggs , 1/4 cup oil .
+PREDID: 0
+PRED: add
+  DOBJ: dry
+  PARG: mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: 2 eggs , 1/4 cup oil
+
+
+SENTID: 4
+SENT: Add well drained carrots , raisins and pineapple .
+PREDID: 0
+PRED: add
+  DOBJ: drained carrots , raisins, pineapple
+  OARG: well
+
+
+SENTID: 5
+SENT: Add coconut and walnuts .
+PREDID: 0
+PRED: add
+  DOBJ: coconut, walnuts
+
+
+SENTID: 6
+SENT: Mix well by hand .
+PREDID: 0
+PRED: mix
+  PARG: hand
+    PREP: by
+  OARG: well
+
+
+SENTID: 7
+SENT: Spread 2 cups of carrot cake on bottom of a greased 9-9 1/2 '' springform pan .
+PREDID: 0
+PRED: spread
+  DOBJ: 2 cups of carrot cake
+  PARG: bottom of a greased 9-9 1/2 '' springform pan
+    PREP: on
+
+
+SENTID: 8
+SENT: Reserve remaining carrot cake .
+PREDID: 0
+PRED: reserve
+  DOBJ: remaining carrot cake
+
+
+SENTID: 9
+SENT: In large bowl beat cream cheese , sugar and vanilla until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese , sugar, vanilla
+  PARG: large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 10
+SENT: Beat in eggs .
+PREDID: 0
+PRED: beat
+  PARG: eggs
+    PREP: in
+
+
+SENTID: 11
+SENT: Spread 1/2 of the cheesecake batter on top of the carrot cake .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/2 of the cheesecake batter
+  PARG: top of the carrot cake
+    PREP: on
+
+
+SENTID: 12
+SENT: Spoon on remaining carrot cake and top with remaining cheese cake batter .
+PREDID: 0
+PRED: spoon
+  PARG: remaining carrot cake
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: remaining cheese cake batter
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake in a 350 degrees F preheated oven for 50-60 mins or until cake is set and cooked through .
+PREDID: 0
+PRED: bake
+  PARG: a 350 degrees f preheated oven
+    PREP: in
+  PARG: 50-60 mins
+    PREP: for
+  PARG: cake is set, cooked through
+    PREP: until
+
+
+SENTID: 14
+SENT: Cool to room temperature .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 15
+SENT: When cake is cooled frost with Pineapple Cream Cheese frosting .
+PREDID: 0
+PRED: frost
+  PARG: pineapple cream cheese frosting
+    PREP: with
+  OARG: when cake is cooled
+
+
+SENTID: 16
+SENT: Or top with Duncan Hines Cream Cheese Frosting .
+PREDID: 0
+PRED: top
+  PARG: duncan hines cream cheese frosting
+    PREP: with
+
+
+SENTID: 17
+SENT: Refrigerate for 3 hours and serve chilled .
+PREDID: 0
+PRED: refrigerate
+  PARG: 3 hours
+    PREP: for
+
+PREDID: 1
+PRED: serve
+  DOBJ: chilled
+
+
+SENTID: 18
+SENT: Beat Cream cheese , butter , vanilla , and pineapple juice until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese , butter , vanilla , pineapple juice
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 19
+SENT: Beat in powder sugar until smooth .
+PREDID: 0
+PRED: beat
+  PARG: powder sugar
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 20
+SENT: Frost top of cheesecake .
+PREDID: 0
+PRED: frost
+  DOBJ: top of cheesecake
+

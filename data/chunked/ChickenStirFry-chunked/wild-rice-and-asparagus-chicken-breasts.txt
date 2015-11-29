@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Cut asparagus into 3/4 inch to 1 inch pieces , discarding tough bottoms of spears .
+PREDID: 0
+PRED: cut
+  DOBJ: asparagus
+  PARG: 3/4 inch
+    PREP: into
+  PARG: 1 inch pieces , discarding tough bottoms of spears
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small bowl , mix together the hoisin sauce and brown sugar and set aside .
+PREDID: 0
+PRED: mix
+  DOBJ: the hoisin sauce, brown sugar
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Prepare rice OR reheat cooked rice and keep warm .
+PREDID: 0
+PRED: prepare
+  DOBJ: rice
+
+PREDID: 1
+PRED: reheat
+  DOBJ: cooked rice, keep warm
+
+
+SENTID: 3
+SENT: Heat wok over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: wok
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Stir fry asparagus for approximately 2 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: fry asparagus
+  PARG: approximately 2 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Remove from the wok and keep warm .
+PREDID: 0
+PRED: remove
+  PARG: the wok
+    PREP: from
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 6
+SENT: Heat wok to high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: wok
+  PARG: high heat
+    PREP: to
+
+
+SENTID: 7
+SENT: Heat wok to high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: wok
+  PARG: high heat
+    PREP: to
+
+
+SENTID: 8
+SENT: Add 2 tablespoons of oil and the chicken pieces and stir fry until the chicken is no longer pink .
+PREDID: 0
+PRED: add
+  DOBJ: 2 tablespoons of oil, the chicken pieces, stir
+
+PREDID: 1
+PRED: fry
+  PARG: the chicken is no longer pink
+    PREP: until
+
+
+SENTID: 9
+SENT: Add the reserved asparagus and hoisin/sugar sauce and stir fry all together until pieces are coated with sauce .
+PREDID: 0
+PRED: add
+  DOBJ: the reserved asparagus, hoisin/sugar sauce
+
+PREDID: 1
+PRED: stir
+  DOBJ: fry all together
+  PARG: pieces are coated with sauce
+    PREP: until
+
+
+SENTID: 10
+SENT: Serve over the hot rice .
+PREDID: 0
+PRED: serve
+  PARG: the hot rice
+    PREP: over
+

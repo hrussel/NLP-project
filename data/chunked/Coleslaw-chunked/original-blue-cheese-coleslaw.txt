@@ -1,0 +1,23 @@
+SENTID: 0
+SENT: Lightly mix together the blue cheese , lemon juice , mayonnaise , and salt and pepper in a large salad bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the blue cheese , lemon juice , mayonnaise , salt, pepper
+  PARG: a large salad bowl
+    PREP: in
+  OARG: lightly
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir in the celery , green onions , and bagged coleslaw , and mix until well-coated .
+PREDID: 0
+PRED: stir
+  PARG: the celery , green onions , bagged coleslaw
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: well-coated
+    PREP: until
+

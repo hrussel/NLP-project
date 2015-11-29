@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: Whisk the vinegar , honey , salt , pepper , and oregano in a bowl until the honey has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: the vinegar , honey , salt , pepper , oregano
+  PARG: a bowl
+    PREP: in
+  PARG: the honey has dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Whisk in the olive oil until evenly blended .
+PREDID: 0
+PRED: whisk
+  PARG: the olive oil
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Place the kale , Swiss chard , chicken , feta cheese , raisins , and walnuts into a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the kale , swiss chard , chicken , feta cheese , raisins , walnuts
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 3
+SENT: Toss with the dressing to serve .
+PREDID: 0
+PRED: toss
+  PARG: the dressing
+    PREP: with
+  PARG: serve
+    PREP: to
+

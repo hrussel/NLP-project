@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Place the beef in a skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+  DOBJ: the beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 2
+SENT: Place the beef in a slow cooker , and mix in onion , celery , green bell pepper , garlic , tomato puree , kidney beans , and cannellini beans .
+PREDID: 0
+PRED: place
+  DOBJ: the beef
+  PARG: a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: onion , celery , green bell pepper , garlic , tomato puree , kidney beans , cannellini beans
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with chili powder , parsley , salt , basil , oregano , black pepper , and hot pepper sauce .
+PREDID: 0
+PRED: season
+  PARG: chili powder , parsley , salt , basil , oregano , black pepper , hot pepper sauce
+    PREP: with
+
+
+SENTID: 4
+SENT: Cover , and cook 8 hours on Low .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  OARG: 8 hours
+

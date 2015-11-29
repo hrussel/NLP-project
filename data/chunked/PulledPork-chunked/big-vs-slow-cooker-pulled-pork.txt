@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Mix beer , mustard , honey , Worcestershire sauce , garlic , cayenne pepper , and salt in a bowl until honey is dissolved .
+PREDID: 0
+PRED: mix
+  DOBJ: beer , mustard , honey , worcestershire sauce , garlic , cayenne pepper , salt
+  PARG: a bowl
+    PREP: in
+  PARG: honey is dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour a small amount of the beer marinade into a slow cooker ;
+PREDID: 0
+PRED: pour
+  DOBJ: a small amount of the beer marinade
+  PARG: a slow cooker
+    PREP: into
+
+
+SENTID: 2
+SENT: add pork .
+PREDID: 0
+PRED: add
+  DOBJ: pork
+
+
+SENTID: 3
+SENT: Pour remaining marinade over pork .
+PREDID: 0
+PRED: pour
+  DOBJ: remaining marinade
+  PARG: pork
+    PREP: over
+
+
+SENTID: 4
+SENT: Cover and refrigerate overnight , turning pork occasionally .
+PREDID: 0
+PRED: cover
+  OARG: overnight
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: turning pork
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Cook pork on Low in the slow cooker for 8 hours , basting occasionally .
+PREDID: 0
+PRED: cook
+  DOBJ: pork
+  PARG: low
+    PREP: on
+  PARG: the slow cooker
+    PREP: in
+  PARG: 8 hours , basting
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Add water if the pork becomes dry .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: the pork becomes dry
+    PREP: if
+
+
+SENTID: 7
+SENT: Drop onion around pork and continue to cook until pork is very tender , about 2 hours more .
+PREDID: 0
+PRED: drop
+  DOBJ: onion
+  PARG: pork
+    PREP: around
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: pork is very tender , about 2 hours more
+    PREP: until
+
+
+SENTID: 8
+SENT: Pull and shred pork with two forks , discarding any pieces of fat .
+PREDID: 0
+PRED: pull
+  DOBJ: pork
+
+PREDID: 1
+PRED: shred
+  DOBJ: discarding any pieces of fat
+  PARG: two forks
+    PREP: with
+
+
+SENTID: 9
+SENT: Transfer pork to a serving dish .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a serving dish
+    PREP: to
+
+
+SENTID: 10
+SENT: Skim remaining onion from the slow cooker using a sieve and add to pork .
+PREDID: 0
+PRED: skim
+  DOBJ: remaining onion
+  PARG: the slow cooker
+    PREP: from
+
+PREDID: 1
+PRED: add
+  PARG: pork
+    PREP: to
+

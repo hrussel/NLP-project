@@ -1,0 +1,95 @@
+T1	predicate 0 4	Wash
+T2	predicate 9 13	peel
+T3	predicate 31 34	cut
+T4	predicate 64 69	Bring
+T5	predicate 109 112	Add
+T6	predicate 182 187	Slice
+T7	predicate 220 224	cook
+T8	predicate 309 313	Chop
+T9	predicate 390 393	put
+T10	predicate 413 416	Add
+T11	predicate 458 461	Add
+T12	predicate 503 507	stir
+T13	predicate 513 518	place
+T14	predicate 638 643	ENJOY
+T15	arg_object 14 26	the potatoes
+T16	ingredient 14 26	the potatoes
+R1	object Arg1:T2 Arg2:T15	
+T17	Evolution 14 26	the potatoes
+E1	Evolution:T17 Cause:T1
+R2	object Arg1:T3 Arg2:T2	
+T18	arg_other 35 62	into 1/2 to 3/4 inch pieces
+R3	other Arg1:T3 Arg2:T18	
+T19	arg_object 70 97	a large pot of salted water
+R4	object Arg1:T4 Arg2:T19	
+T20	arg_other 98 107	to a boil
+T21	arg_object 113 125	the potatoes
+T22	Evolution 113 125	the potatoes
+E2	Evolution:T22 Cause:T3
+R5	object Arg1:T5 Arg2:T21	
+T23	predicate 130 134	cook
+R6	object Arg1:T23 Arg2:T5	
+T24	arg_duration 135 180	until tender but still firm, about 10 minutes
+R7	duration Arg1:T23 Arg2:T24	
+T25	arg_object 188 197	the bacon
+R8	object Arg1:T6 Arg2:T25	
+T26	arg_other 198 215	into small pieces
+R9	other Arg1:T6 Arg2:T26	
+T27	ingredient 188 197	the bacon
+R10	object Arg1:T7 Arg2:T6	
+T28	arg_other 225 246	over medium high heat
+R11	other Arg1:T7 Arg2:T28	
+T29	arg_location 247 271	in a large, deep skillet
+T30	arg_other 272 290	until evenly brown
+R12	location Arg1:T7 Arg2:T29	
+R13	other Arg1:T7 Arg2:T30	
+T31	arg_object 314 324	the celery
+T32	arg_object 326 338	green onions
+T33	arg_object 340 354	stuffed olives
+T34	arg_object 359 367	radishes
+T35	ingredient 359 367	radishes
+T36	ingredient 340 354	stuffed olives
+T37	ingredient 326 338	green onions
+T38	ingredient 314 324	the celery
+R14	object Arg1:T8 Arg2:T31	
+R15	object Arg1:T8 Arg2:T32	
+R16	object Arg1:T8 Arg2:T33	
+R17	object Arg1:T8 Arg2:T34	
+T39	arg_other 368 385	into small pieces
+R18	other Arg1:T8 Arg2:T39	
+R19	object Arg1:T9 Arg2:T8	
+T40	arg_location 394 411	into a large bowl
+R20	location Arg1:T9 Arg2:T40	
+T41	arg_object 417 429	the potatoes
+T42	arg_object 434 439	bacon
+T43	Evolution 417 429	the potatoes
+E3	Evolution:T43 Cause:T23
+T44	Evolution 434 439	bacon
+E4	Evolution:T44 Cause:T7
+R21	object Arg1:T10 Arg2:T41	
+R22	object Arg1:T10 Arg2:T42	
+T45	predicate 444 447	mix
+R23	co-object Arg1:T10 Arg2:T9	
+R24	object Arg1:T45 Arg2:T10	
+T46	arg_other 448 456	together
+R25	other Arg1:T45 Arg2:T46	
+T47	arg_object 462 476	the mayonnaise
+T48	arg_object 481 492	lemon juice
+T49	ingredient 462 476	the mayonnaise
+T50	ingredient 481 492	lemon juice
+R26	object Arg1:T11 Arg2:T47	
+R27	object Arg1:T11 Arg2:T48	
+T51	arg_other 493 501	to taste
+R28	other Arg1:T11 Arg2:T51	
+R29	co-object Arg1:T11 Arg2:T45	
+R30	object Arg1:T12 Arg2:T11	
+R31	object Arg1:T13 Arg2:T12	
+T52	arg_location 519 538	in the refrigerator
+T53	arg_duration 539 554	for a few hours
+T54	arg_other 555 563	to chill
+T55	predicate 571 578	serving
+R32	object Arg1:T55 Arg2:T13	
+R33	location Arg1:T13 Arg2:T52	
+R34	duration Arg1:T13 Arg2:T53	
+R35	other Arg1:T13 Arg2:T54	
+R36	object Arg1:T14 Arg2:T55	

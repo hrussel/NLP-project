@@ -1,0 +1,262 @@
+SENTID: 0
+SENT: Pour the water into a large bowl , and sprinkle yeast over the top .
+PREDID: 0
+PRED: pour
+  DOBJ: the water
+  PARG: a large bowl
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: yeast
+  PARG: the top
+    PREP: over
+
+
+SENTID: 1
+SENT: Let stand for a few minutes to dissolve .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: a few minutes
+    PREP: for
+  PARG: dissolve
+    PREP: to
+
+
+SENTID: 2
+SENT: Mix in the oil , salt , and flour to make a dough .
+PREDID: 0
+PRED: mix
+  PARG: the oil
+    PREP: in
+
+PREDID: 1
+PRED: salt
+
+PREDID: 2
+PRED: flour
+  PARG: make a dough
+    PREP: to
+
+
+SENTID: 3
+SENT: When the dough is too stiff to stir , turn out onto a floured surface , and knead for about 5 minutes .
+PREDID: 0
+PRED: turn
+  DOBJ: stiff
+  PARG: stir
+    PREP: to
+  PARG: onto a floured surface
+    PREP: out
+  OARG: when the dough is
+  OARG: too
+
+PREDID: 1
+PRED: knead
+  PARG: about 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Place into an oiled bowl , and cover with a clean towel .
+PREDID: 0
+PRED: place
+  PARG: an oiled bowl
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: a clean towel
+    PREP: with
+
+
+SENTID: 5
+SENT: Set aside to rise for about 45 minutes .
+PREDID: 0
+PRED: set
+  PARG: rise
+    PREP: to
+  PARG: about 45 minutes
+    PREP: for
+  OARG: aside
+
+
+SENTID: 6
+SENT: Place the figs into a small bowl , and pour boiling water over them .
+PREDID: 0
+PRED: place
+  DOBJ: the figs
+  PARG: a small bowl
+    PREP: into
+
+PREDID: 1
+PRED: pour
+  DOBJ: boiling water
+  PARG: them
+    PREP: over
+
+
+SENTID: 7
+SENT: Let stand for about 10 minutes , then drain and chop .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: about 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 8
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: Meanwhile , heat 1 tablespoon of oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon of oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 10
+SENT: Add the onions ;
+PREDID: 0
+PRED: add
+  DOBJ: the onions
+
+
+SENTID: 11
+SENT: cook and stir until they are wilted and soft .
+PREDID: 0
+PRED: cook
+  PARG: they are wilted, soft
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 12
+SENT: Reduce heat to low , and season with salt .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: season
+  PARG: salt
+    PREP: with
+
+
+SENTID: 13
+SENT: Continue to cook and stir until the onions are a dark brown , 5 to 10 minutes .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the onions are a dark brown , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Stir in the thyme , fennel seed and figs , and remove from the heat .
+PREDID: 0
+PRED: stir
+  PARG: the thyme , fennel seed, figs
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 15
+SENT: Preheat the oven to 450 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 450 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 16
+SENT: Punch down the pizza dough , and stretch into a circle about 1/4 inch thick .
+PREDID: 0
+PRED: punch
+  DOBJ: the pizza dough
+  OARG: down
+
+PREDID: 1
+PRED: stretch
+  PARG: a circle
+    PREP: into
+  PARG: 1/4 inch thick
+    PREP: about
+
+
+SENTID: 17
+SENT: Place on a lightly greased pizza pan or baking sheet .
+PREDID: 0
+PRED: place
+  PARG: a lightly greased pizza pan or baking sheet
+    PREP: on
+
+
+SENTID: 18
+SENT: Brush the surface lightly with remaining olive oil .
+PREDID: 0
+PRED: brush
+  DOBJ: the surface
+  PARG: remaining olive oil
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 19
+SENT: Spread the onion and fig mixture over the crust .
+PREDID: 0
+PRED: spread
+  DOBJ: the onion, fig mixture
+  PARG: the crust
+    PREP: over
+
+
+SENTID: 20
+SENT: Dot with pieces of goat cheese .
+PREDID: 0
+PRED: dot
+  PARG: pieces of goat cheese
+    PREP: with
+
+
+SENTID: 21
+SENT: Bake for 15 to 18 minutes in the preheated oven , or until the crust has turned golden brown at the edges .
+PREDID: 0
+PRED: bake
+  PARG: 15 to 18 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust has turned golden brown at the edges
+    PREP: until
+

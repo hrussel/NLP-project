@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix together flour , baking powder , baking soda and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , baking powder , baking soda, salt
+  OARG: together
+
+
+SENTID: 3
+SENT: In a separate bowl , beat together banana , sugar , egg and vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: banana , sugar , egg, vanilla
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in the sour cream .
+PREDID: 0
+PRED: stir
+  PARG: the sour cream
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir banana mixture into flour until just combined .
+PREDID: 0
+PRED: stir
+  DOBJ: banana mixture
+  PARG: flour
+    PREP: into
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Scoop batter into prepared muffin cups . Bake in preheated oven for 15 to 20 minutes , or until a toothpick inserted into center of a muffin comes out clean .
+PREDID: 0
+PRED: scoop
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+  PARG: a toothpick inserted into center of a muffin comes out clean
+    PREP: until
+
+
+SENTID: 7
+SENT: Let cool before serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: serving
+    PREP: before
+
+
+SENTID: 8
+SENT: For best flavor , place in an airtight container or bag overnight .
+PREDID: 0
+PRED: place
+  PARG: best flavor
+    PREP: for
+  PARG: an airtight container or bag
+    PREP: in
+  OARG: overnight
+

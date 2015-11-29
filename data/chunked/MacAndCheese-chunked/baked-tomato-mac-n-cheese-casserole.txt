@@ -1,0 +1,207 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter a baking dish .
+PREDID: 0
+PRED: butter
+  DOBJ: a baking dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: drain , return macaroni to pot , and stir tomatoes into the macaroni .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: return
+  DOBJ: macaroni
+  PARG: pot
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  DOBJ: tomatoes
+  PARG: the macaroni
+    PREP: into
+
+
+SENTID: 5
+SENT: Cook over medium heat until the macaroni absorbs some of the liquid from the tomatoes , about 4 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: the macaroni absorbs some of the liquid from the tomatoes , about 4 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 7
+SENT: Melt butter in a large saucepan over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Stir flour into melted butter and cook until bubbly , 1 to 2 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: flour
+  PARG: melted butter
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: bubbly , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Slowly stream half-and-half and chicken broth into the butter mixture while stirring .
+PREDID: 0
+PRED: stream
+  DOBJ: half-and-half, chicken broth
+  PARG: the butter mixture
+    PREP: into
+  PARG: stirring
+    PREP: while
+  OARG: slowly
+
+
+SENTID: 10
+SENT: Bring the mixture to a boil and continue to cook while stirring continually until thickened and bubbly , 2 to 3 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: the mixture
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: stirring
+    PREP: while
+  PARG: thickened, bubbly , 2 to 3 minutes
+    PREP: until
+  OARG: continually
+
+
+SENTID: 11
+SENT: Remove saucepan from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: saucepan
+  PARG: heat
+    PREP: from
+
+
+SENTID: 12
+SENT: Melt mild Cheddar cheese and sharp Cheddar cheese into the butter mixture one handful at a time , stirring to incorporate each addition before adding the next .
+PREDID: 0
+PRED: melt
+  DOBJ: mild cheddar cheese, sharp cheddar cheese
+  PARG: the butter mixture one handful
+    PREP: into
+  PARG: a time , stirring
+    PREP: at
+  PARG: adding the next
+    PREP: before
+  OARG: to incorporate each addition
+
+
+SENTID: 13
+SENT: Season the cheese mixture with pepper and pour over the macaroni ;
+PREDID: 0
+PRED: season
+  DOBJ: the cheese mixture
+  PARG: pepper
+    PREP: with
+
+PREDID: 1
+PRED: pour
+  PARG: the macaroni
+    PREP: over
+
+
+SENTID: 14
+SENT: stir to coat pasta evenly .
+PREDID: 0
+PRED: stir
+  PARG: coat pasta
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 15
+SENT: Transfer the mixture to the prepared baking dish and top with crushed crackers .
+PREDID: 0
+PRED: transfer
+  DOBJ: the mixture
+  PARG: the prepared baking dish
+    PREP: to
+
+PREDID: 1
+PRED: top
+  PARG: crushed crackers
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake in preheated oven until crust is golden brown and the liquid is bubbling , 15 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: crust is golden brown, the liquid is bubbling , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 17
+SENT: Cool 10 minutes before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+  OARG: 10 minutes
+

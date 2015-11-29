@@ -1,0 +1,114 @@
+T1	predicate 0 5	Bring
+T2	predicate 53 57	Cook
+T3	predicate 174 179	Drain
+T4	predicate 184 192	transfer
+T5	predicate 218 222	Melt
+T7	predicate 357 362	Place
+T8	predicate 418 423	shake
+T9	predicate 484 488	Pour
+T10	predicate 514 519	whisk
+T11	predicate 571 576	whisk
+T12	predicate 606 611	bring
+T13	predicate 646 650	Stir
+T14	predicate 693 699	season
+T15	predicate 732 735	mix
+T16	arg_object 6 41	a large pot of lightly salted water
+T17	arg_duration 42 51	to a boil
+R1	object Arg1:T1 Arg2:T16	
+R2	duration Arg1:T1 Arg2:T17	
+T18	arg_object 58 69	egg noodles
+T19	arg_co-object 70 90	in the boiling water
+T20	Evolution 73 90	the boiling water
+E1	Evolution:T20 Cause:T1
+R3	object Arg1:T2 Arg2:T18	
+T21	arg_other 92 113	stirring occasionally
+T22	arg_duration 114 172	until cooked through but firm to the bite, about 5 minutes
+R5	other Arg1:T2 Arg2:T21	
+R6	duration Arg1:T2 Arg2:T22	
+R7	object Arg1:T3 Arg2:T2	
+R8	object Arg1:T4 Arg2:T3	
+T23	arg_location 193 216	to a large serving bowl
+R9	location Arg1:T4 Arg2:T23	
+T24	arg_object 223 229	butter
+T25	arg_location 230 244	in a large pot
+T26	arg_other 245 261	over medium heat
+R10	object Arg1:T5 Arg2:T24	
+R11	location Arg1:T5 Arg2:T25	
+R12	other Arg1:T5 Arg2:T26	
+T27	arg_object 277 282	onion
+T28	arg_object 287 293	garlic
+T29	arg_co-object 294 311	in the hot butter
+T30	Evolution 297 311	the hot butter
+E2	Evolution:T30 Cause:T6
+T31	arg_duration 312 355	until onion is translucent, about 5 minutes
+T32	arg_object 363 368	flour
+T33	arg_object 370 374	milk
+T34	arg_object 380 393	half-and-half
+T35	arg_location 394 413	in a jar with a lid
+R17	object Arg1:T7 Arg2:T32	
+R18	object Arg1:T7 Arg2:T33	
+R19	object Arg1:T7 Arg2:T34	
+R20	location Arg1:T7 Arg2:T35	
+R21	object Arg1:T8 Arg2:T7	
+T36	arg_duration 424 482	until flour has smoothly mixed with milk and half-and-half
+T37	arg_object 489 496	mixture
+T38	arg_location 497 509	into skillet
+T39	Evolution 489 496	mixture
+E3	Evolution:T39 Cause:T8
+R22	object Arg1:T9 Arg2:T37	
+R23	location Arg1:T9 Arg2:T38	
+R24	object Arg1:T10 Arg2:T9	
+T40	arg_duration 520 559	until smooth and thick, about 5 minutes
+R25	duration Arg1:T10 Arg2:T40	
+T41	arg_object 577 590	chicken broth
+T42	arg_co-object 591 601	into sauce
+T43	Evolution 596 601	sauce
+E4	Evolution:T43 Cause:T10
+R26	object Arg1:T11 Arg2:T41	
+R27	co-object Arg1:T11 Arg2:T42	
+R28	object Arg1:T12 Arg2:T11	
+T44	arg_duration 612 623	to a simmer
+T45	arg_other 625 644	whisking constantly
+R29	duration Arg1:T12 Arg2:T44	
+R30	other Arg1:T12 Arg2:T45	
+T46	arg_object 651 665	cooked chicken
+T47	arg_object 670 680	sour cream
+T48	arg_co-object 681 691	into sauce
+R31	object Arg1:T13 Arg2:T46	
+R32	object Arg1:T13 Arg2:T47	
+R33	co-object Arg1:T13 Arg2:T48	
+T49	Evolution 686 691	sauce
+E5	Evolution:T49 Cause:T12
+R34	object Arg1:T14 Arg2:T13	
+T50	arg_co-object 700 726	with salt and black pepper
+R35	co-object Arg1:T14 Arg2:T50	
+R36	object Arg1:T15 Arg2:T14	
+T51	arg_co-object 736 755	with cooked noodles
+T52	Evolution 741 755	cooked noodles
+E6	Evolution:T52 Cause:T4
+R37	co-object Arg1:T15 Arg2:T51	
+R38	duration Arg1:T8 Arg2:T36	
+T54	ingredient 58 69	egg noodles
+T55	ingredient 223 229	butter
+T56	ingredient 277 282	onion
+T57	ingredient 287 293	garlic
+T58	ingredient 363 368	flour
+T59	ingredient 370 374	milk
+T60	ingredient 380 393	half-and-half
+T61	ingredient 577 590	chicken broth
+T62	ingredient 651 665	cooked chicken
+T63	ingredient 670 680	sour cream
+T64	ingredient 705 709	salt
+T65	ingredient 714 726	black pepper
+T66	ingredient 6 41	a large pot of lightly salted water
+R4	co-object Arg1:T2 Arg2:T19	
+R39	co-object Arg1:T3 Arg2:T2	
+R41	same-location Arg1:T38 Arg2:T25	
+T6	predicate 263 267	cook
+T53	predicate 272 276	stir
+R13	object Arg1:T6 Arg2:T5	
+R14	object Arg1:T53 Arg2:T27	
+R15	object Arg1:T53 Arg2:T28	
+R16	co-object Arg1:T53 Arg2:T29	
+R40	duration Arg1:T53 Arg2:T31	
+R42	co-object Arg1:T9 Arg2:T53	

@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , cool , and cut potatoes into bite-size pieces . Combine celery , green onion , carrots , bell peppers , and olives , in a large bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  DOBJ: potatoes
+  PARG: bite-size pieces
+    PREP: into
+
+PREDID: 3
+PRED: combine
+  DOBJ: celery , green onion , carrots , bell peppers , olives
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir mashed eggs , mayonnaise , mustard , pickles , salad seasoning mix , and dill seasoning in another bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: mashed eggs , mayonnaise , mustard , pickles , salad seasoning mix , dill seasoning
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Stir egg mixture and potatoes into vegetable mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: egg mixture, potatoes
+  PARG: vegetable mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Add pickle juice and mix until creamy .
+PREDID: 0
+PRED: add
+  DOBJ: pickle juice
+
+PREDID: 1
+PRED: mix
+  PARG: creamy
+    PREP: until
+

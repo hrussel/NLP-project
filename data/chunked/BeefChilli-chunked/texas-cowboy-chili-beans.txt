@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: In a large stock pot over high heat , brown roast on all sides .
+PREDID: 0
+PRED: roast
+  PARG: a large stock pot
+    PREP: in
+  PARG: high heat , brown
+    PREP: over
+  PARG: all sides
+    PREP: on
+
+
+SENTID: 1
+SENT: Reduce heat to medium low and add the diced tomatoes with green chile peppers , yellow onion , garlic powder , ground cumin and chili seasoning mix .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium low
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: the diced tomatoes
+  PARG: green chile peppers , yellow onion , garlic powder , ground cumin, chili seasoning mix
+    PREP: with
+
+
+SENTID: 2
+SENT: Meanwhile , rinse the pinto beans and soak them in a bowl of warm water .
+PREDID: 0
+PRED: rinse
+  DOBJ: the pinto beans
+  OARG: meanwhile
+
+PREDID: 1
+PRED: soak
+  DOBJ: them
+  PARG: a bowl of warm water
+    PREP: in
+
+
+SENTID: 3
+SENT: Remove cooked roast from the pot and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: cooked roast
+  PARG: the pot
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Rinse the pinto beans and pour them into the pot .
+PREDID: 0
+PRED: rinse
+  DOBJ: the pinto beans
+
+PREDID: 1
+PRED: pour
+  DOBJ: them
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 5
+SENT: Pour in enough water to cover the beans and bring to a boil .
+PREDID: 0
+PRED: pour
+  PARG: enough water
+    PREP: in
+  PARG: cover the beans
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Shred roast with fork and discard the fat .
+PREDID: 0
+PRED: shred
+  DOBJ: roast
+  PARG: fork
+    PREP: with
+
+PREDID: 1
+PRED: discard
+  DOBJ: the fat
+
+
+SENTID: 7
+SENT: Add the shredded meat to the cooked beans and pour in enough water to cover .
+PREDID: 0
+PRED: add
+  DOBJ: the shredded meat
+  PARG: the cooked beans
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  PARG: enough water
+    PREP: in
+  PARG: cover
+    PREP: to
+
+
+SENTID: 8
+SENT: Cover and simmer for 30 minutes
+PREDID: 0
+PRED: cover
+  PARG: 30 minutes
+    PREP: for
+
+PREDID: 1
+PRED: simmer
+

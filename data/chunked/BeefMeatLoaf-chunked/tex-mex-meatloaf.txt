@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the ground beef , eggs , diced tomatoes and green chile peppers , onion powder , ground black pepper , salt and bread .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , eggs , diced tomatoes, green chile peppers , onion powder , ground black pepper , salt, bread
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix together well , place in a 5x9 inch loaf pan and top with the cheese .
+PREDID: 0
+PRED: mix
+  OARG: together
+  OARG: well
+
+PREDID: 1
+PRED: place
+  PARG: a 5x9 inch loaf pan
+    PREP: in
+
+PREDID: 2
+PRED: top
+  PARG: the cheese
+    PREP: with
+
+
+SENTID: 3
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 1 hour
+    PREP: for
+

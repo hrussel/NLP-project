@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Combine beef , onion , cracker crumbs , Worcestershire and egg in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: beef , onion , cracker crumbs , worcestershire, egg
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix well with hands or a spoon .
+PREDID: 0
+PRED: mix
+  PARG: hands or a spoon
+    PREP: with
+  OARG: well
+
+
+SENTID: 2
+SENT: Shape meat into 6 rectangular mini meatloaves , each about the size of a deck of cards -LRB- 3-1/2 by 2x1/2 by 1/2-inch thick -RRB- .
+PREDID: 0
+PRED: shape
+  DOBJ: meat
+  PARG: 6 rectangular mini meatloaves , each about the size of a deck of cards -lrb- 3-1/2 by 2x1/2
+    PREP: into
+  PARG: 1/2-inch thick -rrb-
+    PREP: by
+
+
+SENTID: 3
+SENT: Heat oil in a wide skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a wide skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: brown meatloaves 3 to 4 minutes per side .
+PREDID: 0
+PRED: brown
+  PARG: side
+    PREP: per
+  OARG: meatloaves 3 to 4 minutes
+
+
+SENTID: 5
+SENT: Remove from pan and set aside .
+PREDID: 0
+PRED: remove
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Drain fat from pan .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+  PARG: pan
+    PREP: from
+
+
+SENTID: 7
+SENT: Add sauce and brown sugar to pan .
+PREDID: 0
+PRED: add
+  DOBJ: sauce, brown sugar
+  PARG: pan
+    PREP: to
+
+
+SENTID: 8
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: reduce heat and simmer over medium heat 3 minutes , stirring frequently until slightly reduced .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: medium heat 3 minutes , stirring
+    PREP: over
+  PARG: slightly reduced
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 10
+SENT: Return meatloaves to pan and spoon sauce over tops .
+PREDID: 0
+PRED: return
+  DOBJ: meatloaves
+  PARG: pan, spoon sauce
+    PREP: to
+  PARG: tops
+    PREP: over
+
+
+SENTID: 11
+SENT: Simmer , uncovered , over medium heat 5 minutes or until cooked through .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: medium heat 5 minutes
+    PREP: over
+  PARG: cooked through
+    PREP: until
+
+
+SENTID: 12
+SENT: Serve meatloaves and sauce with mashed or roasted potatoes , if desired .
+PREDID: 0
+PRED: serve
+  DOBJ: meatloaves, sauce
+  PARG: mashed or roasted potatoes
+    PREP: with
+  PARG: desired
+    PREP: if
+

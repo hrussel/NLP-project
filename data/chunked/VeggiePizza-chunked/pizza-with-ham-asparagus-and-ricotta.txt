@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: Preheat an oven to 550 degrees F -LRB- 285 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 550 degrees f -lrb- 285 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add asparagus and cook uncovered until just tender , about 2 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: asparagus
+
+PREDID: 1
+PRED: cook
+  DOBJ: uncovered
+  PARG: just tender , about 2 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain in a colander , then immediately immerse in ice water for several minutes .
+PREDID: 0
+PRED: drain
+  DOBJ: immerse
+  PARG: a colander
+    PREP: in
+  PARG: ice water
+    PREP: in
+  PARG: several minutes
+    PREP: for
+  OARG: then
+  OARG: immediately
+
+
+SENTID: 4
+SENT: Once asparagus is cold , drain well and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: asparagus is cold
+  OARG: once
+  OARG: well
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 5
+SENT: Combine ricotta , olive oil , garlic , red pepper flakes , salt , black pepper , and heavy cream in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: ricotta , olive oil , garlic , red pepper flakes , salt , black pepper , heavy cream
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in fresh herbs -LRB- if using -RRB- and set aside .
+PREDID: 0
+PRED: stir
+  PARG: fresh herbs -lrb-
+    PREP: in
+  PARG: using -rrb-
+    PREP: if
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: To shape the pizza dough , sprinkle the countertop and dough surface with flour and lightly pat flat .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the countertop, dough surface
+  PARG: shape the pizza dough
+    PREP: to
+  PARG: flour
+    PREP: with
+  OARG: lightly
+
+PREDID: 1
+PRED: pat
+  DOBJ: flat
+
+
+SENTID: 8
+SENT: Use a rolling pin to form a thin disk about 9 inches in diameter .
+PREDID: 0
+PRED: use
+  DOBJ: a rolling pin
+  PARG: form a thin disk
+    PREP: to
+  PARG: 9 inches
+    PREP: about
+  PARG: diameter
+    PREP: in
+
+
+SENTID: 9
+SENT: Transfer to a baking sheet .
+PREDID: 0
+PRED: transfer
+  PARG: a baking sheet
+    PREP: to
+
+
+SENTID: 10
+SENT: Spread ricotta mixture over crust , top with ham and asparagus .
+PREDID: 0
+PRED: spread
+  DOBJ: ricotta mixture
+  PARG: crust
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: ham, asparagus
+    PREP: with
+
+
+SENTID: 11
+SENT: Sprinkle with Cheddar and Parmigiano-Reggiano cheeses .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheddar, parmigiano-reggiano cheeses
+    PREP: with
+
+
+SENTID: 12
+SENT: Place baking sheet on the bottom rack of the preheated oven and bake for 5 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: baking sheet
+  PARG: the bottom rack of the preheated oven
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Transfer the baking sheet to the top rack and bake for an additional 5 minutes .
+PREDID: 0
+PRED: transfer
+  DOBJ: the baking sheet
+  PARG: the top rack
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 5 minutes
+    PREP: for
+

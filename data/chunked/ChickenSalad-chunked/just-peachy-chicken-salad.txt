@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: In a large bowl , whisk together the mayonnaise , peach juice and whipped cream .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , peach juice, whipped cream
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir in chicken and peaches and chill until ready to serve .
+PREDID: 0
+PRED: stir
+  PARG: chicken, peaches
+    PREP: in
+
+PREDID: 1
+PRED: chill
+  PARG: ready to serve
+    PREP: until
+

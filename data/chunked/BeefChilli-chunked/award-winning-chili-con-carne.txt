@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Heat oil in a large saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook green pepper , and onion , until softened .
+PREDID: 0
+PRED: cook
+  DOBJ: green pepper , onion
+  PARG: softened
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the ground beef and cook until browned .
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef
+
+PREDID: 1
+PRED: cook
+  PARG: browned
+    PREP: until
+
+
+SENTID: 3
+SENT: Crumble over bouillon cubes , and stir in wine ;
+PREDID: 0
+PRED: crumble
+  PARG: bouillon cubes
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: wine
+    PREP: in
+
+
+SENTID: 4
+SENT: continue to cook for a few minutes .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: a few minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Stir in chopped tomatoes , garlic , and tomato paste .
+PREDID: 0
+PRED: stir
+  PARG: chopped tomatoes , garlic , tomato paste
+    PREP: in
+
+
+SENTID: 6
+SENT: Season with paprika , chili powder , cayenne pepper , basil , oregano , and parsley .
+PREDID: 0
+PRED: season
+  PARG: paprika , chili powder , cayenne pepper , basil , oregano , parsley
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir in salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: salt, pepper
+    PREP: in
+
+
+SENTID: 8
+SENT: Bring to a boil over high heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Reduce heat to medium low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium low
+    PREP: to
+
+
+SENTID: 10
+SENT: Cover , and simmer for 90 minutes , stirring occasionally .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: 90 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 11
+SENT: Stir in kidney beans , and hot pepper sauce .
+PREDID: 0
+PRED: stir
+  PARG: kidney beans , hot pepper sauce
+    PREP: in
+
+
+SENTID: 12
+SENT: Continue to simmer for an additional 30 minutes .
+PREDID: 0
+PRED: continue
+  PARG: simmer
+    PREP: to
+  PARG: an additional 30 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: In a small bowl , whisk together the flour , corn meal , and water until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: the flour , corn meal , water
+  PARG: a small bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 14
+SENT: Stir into chili , and cook for a further 10 minutes , or until chili has thickened up .
+PREDID: 0
+PRED: stir
+  PARG: chili
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: a further 10 minutes
+    PREP: for
+  PARG: chili has thickened up
+    PREP: until
+

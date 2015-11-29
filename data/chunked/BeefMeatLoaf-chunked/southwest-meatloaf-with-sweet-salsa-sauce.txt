@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line a 9x5x2-inch -LRB- 23x13x6-cm -RRB- loaf pan with parchment and spray with cooking spray .
+PREDID: 0
+PRED: line
+  DOBJ: a 9x5x2-inch -lrb- 23x13x6-cm -rrb- loaf pan
+  PARG: parchment
+    PREP: with
+
+PREDID: 1
+PRED: spray
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In large bowl , combine cereal and beef broth .
+PREDID: 0
+PRED: combine
+  DOBJ: cereal, beef broth
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Let stand 2 minutes or until broth is absorbed and cereal softens .
+PREDID: 0
+PRED: let
+  PARG: broth is absorbed, cereal softens
+    PREP: until
+  OARG: stand 2 minutes
+
+
+SENTID: 4
+SENT: In small bowl , combine , eggs , chili powder , salt and black pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , chili powder , salt, black pepper
+  PARG: small bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Add egg mixture , beef , onion , flour , celery , red pepper and parsley to cereal mixture .
+PREDID: 0
+PRED: add
+  DOBJ: egg mixture , beef , onion , flour , celery , red pepper, parsley
+  PARG: cereal mixture
+    PREP: to
+
+
+SENTID: 6
+SENT: Mix together well .
+PREDID: 0
+PRED: mix
+  OARG: together
+  OARG: well
+
+
+SENTID: 7
+SENT: Press mixture well into prepared pan .
+PREDID: 0
+PRED: press
+  DOBJ: mixture
+  PARG: prepared pan
+    PREP: into
+  OARG: well
+
+
+SENTID: 8
+SENT: Bake in preheated oven until food thermometer reads 160 degrees F -LRB- 71 degrees C -RRB- at centre of meatloaf , about 1 hour 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: food thermometer reads 160 degrees f -lrb- 71 degrees c -rrb- at centre of meatloaf , about 1 hour 15 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Let stand 10 minutes before slicing .
+PREDID: 0
+PRED: let
+  PARG: slicing
+    PREP: before
+  OARG: stand 10 minutes
+
+
+SENTID: 10
+SENT: Turn onto serving platter and serve with Sweet Salsa Sauce .
+PREDID: 0
+PRED: turn
+  PARG: serving platter
+    PREP: onto
+
+PREDID: 1
+PRED: serve
+  PARG: sweet salsa sauce
+    PREP: with
+
+
+SENTID: 11
+SENT: In small saucepan , heat salsa and brown sugar to a boil .
+PREDID: 0
+PRED: heat
+  DOBJ: salsa, brown sugar
+  PARG: small saucepan
+    PREP: in
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 12
+SENT: Simmer for 3 minutes , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  PARG: 3 minutes , stirring
+    PREP: for
+  OARG: occasionally
+

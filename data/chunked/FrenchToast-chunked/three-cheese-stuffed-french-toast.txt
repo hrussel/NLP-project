@@ -1,0 +1,249 @@
+SENTID: 0
+SENT: Split each bread slice four fifths of the way through .
+PREDID: 0
+PRED: split
+  DOBJ: each bread
+
+PREDID: 1
+PRED: slice
+  DOBJ: four fifths of the way
+
+
+SENTID: 1
+SENT: Spread the two sides apart so that they look like butterfly wings .
+PREDID: 0
+PRED: spread
+  DOBJ: the two sides
+  PARG: they look
+    PREP: that
+  PARG: butterfly wings
+    PREP: like
+  OARG: apart
+  OARG: so
+
+
+SENTID: 2
+SENT: Use a fork hollow out a shallow pocket on the inside of each slice .
+PREDID: 0
+PRED: use
+  DOBJ: a fork hollow
+  PARG: a shallow pocket
+    PREP: out
+  PARG: the inside of each slice
+    PREP: on
+
+
+SENTID: 3
+SENT: Discard the crumbs ;
+PREDID: 0
+PRED: discard
+  DOBJ: the crumbs
+
+
+SENTID: 4
+SENT: set bread aside In a medium bowl , mix together the mozzarella , cream cheese and ricotta cheese .
+PREDID: 0
+PRED: set
+  DOBJ: bread
+  PARG: a medium bowl
+    PREP: in
+  OARG: aside
+
+PREDID: 1
+PRED: mix
+  DOBJ: the mozzarella , cream cheese, ricotta cheese
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir in the apricot jam .
+PREDID: 0
+PRED: stir
+  PARG: the apricot jam
+    PREP: in
+
+
+SENTID: 6
+SENT: Spoon 2 tablespoons of cheese mixture into each bread slice .
+PREDID: 0
+PRED: spoon
+  DOBJ: 2 tablespoons of cheese mixture
+  PARG: each bread slice
+    PREP: into
+
+
+SENTID: 7
+SENT: Place slices in a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: slices
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 8
+SENT: Cover and chill 8 hours or overnight .
+PREDID: 0
+PRED: cover
+  OARG: 8 hours
+
+PREDID: 1
+PRED: chill
+  OARG: overnight
+
+
+SENTID: 9
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: Pour apricot nectar into a small saucepan and simmer over medium heat .
+PREDID: 0
+PRED: pour
+  DOBJ: apricot nectar
+  PARG: a small saucepan
+    PREP: into
+
+PREDID: 1
+PRED: simmer
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Stir in sugar and cornstarch ;
+PREDID: 0
+PRED: stir
+  PARG: sugar, cornstarch
+    PREP: in
+
+
+SENTID: 12
+SENT: cook until thickened .
+PREDID: 0
+PRED: cook
+  PARG: thickened
+    PREP: until
+
+
+SENTID: 13
+SENT: Beat together eggs and milk .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs, milk
+  OARG: together
+
+
+SENTID: 14
+SENT: Dip bread slices into egg mixture and dredge in cornflakes crumbs .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: egg mixture
+    PREP: into
+
+PREDID: 1
+PRED: dredge
+  PARG: cornflakes crumbs
+    PREP: in
+
+
+SENTID: 15
+SENT: Melt 2 tablespoons butter in a large skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 16
+SENT: cook bread 2 minutes on each side or until golden .
+PREDID: 0
+PRED: cook
+  PARG: each side
+    PREP: on
+  PARG: golden
+    PREP: until
+  OARG: bread 2 minutes
+
+
+SENTID: 17
+SENT: Place in a lightly greased 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  PARG: a lightly greased 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 18
+SENT: Bake at 400 degrees for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees
+    PREP: at
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 19
+SENT: In a medium frying pan or skillet , heat 1/4 cup butter , 2 tablespoons sugar and ginger over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1/4 cup butter , 2 tablespoons sugar, ginger
+  PARG: a medium frying pan or skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 20
+SENT: Add peaches and cook for 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: peaches
+
+PREDID: 1
+PRED: cook
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 21
+SENT: Arrange French toast slices on individual plates .
+PREDID: 0
+PRED: arrange
+  DOBJ: french toast slices
+  PARG: individual plates
+    PREP: on
+
+
+SENTID: 22
+SENT: Top each serving evenly with peach slices , sprinkle with powdered sugar .
+PREDID: 0
+PRED: top
+  DOBJ: each serving
+  PARG: peach slices
+    PREP: with
+  OARG: evenly
+
+PREDID: 1
+PRED: sprinkle
+  PARG: powdered sugar
+    PREP: with
+
+
+SENTID: 23
+SENT: Serve with apricot syrup .
+PREDID: 0
+PRED: serve
+  PARG: apricot syrup
+    PREP: with
+

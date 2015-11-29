@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl combine sausage , beef , eggs , bread crumbs , onion , bell pepper , salt , pepper and garlic powder .
+PREDID: 0
+PRED: combine
+  DOBJ: sausage , beef , eggs , bread crumbs , onion , bell pepper , salt , pepper, garlic powder
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Roll out mixture flat , 8 inches by 8 inches square .
+PREDID: 0
+PRED: roll
+  PARG: mixture flat , 8 inches
+    PREP: out
+  PARG: 8 inches square
+    PREP: by
+
+
+SENTID: 4
+SENT: Spread 1/2 can of soup over meatloaf , roll up and seal edges .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/2 can of soup
+  PARG: meatloaf
+    PREP: over
+
+PREDID: 1
+PRED: roll
+  DOBJ: edges
+  OARG: up
+
+PREDID: 2
+PRED: seal
+
+
+SENTID: 5
+SENT: Place in a loaf pan .
+PREDID: 0
+PRED: place
+  PARG: a loaf pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Add remaining soup and bake for another 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: remaining soup
+
+PREDID: 1
+PRED: bake
+  PARG: another 20 minutes
+    PREP: for
+

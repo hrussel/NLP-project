@@ -1,0 +1,11 @@
+SENTID: 0
+SENT: Mix tomato sauce , tomato paste , ground black pepper , oregano , basil , garlic powder , salt , thyme , cilantro , parsley , and onion salt together in a bowl until well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: tomato sauce , tomato paste , ground black pepper , oregano , basil , garlic powder , salt , thyme , cilantro , parsley , onion salt
+  PARG: a bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+  OARG: together
+

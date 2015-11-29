@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Place eggs in a pot of salted water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a pot of salted water
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring the water to a boil , and let eggs cook in boiling water until they are hard boiled , approximately 10 to 15 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs
+
+PREDID: 2
+PRED: cook
+  PARG: boiling water
+    PREP: in
+  PARG: they are hard boiled , approximately 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain eggs , and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: eggs
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 3
+SENT: Cut eggs in half , lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half , lengthwise
+    PREP: in
+
+
+SENTID: 4
+SENT: Remove the egg yolks and mash them together in a small mixing bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: the egg yolks
+
+PREDID: 1
+PRED: mash
+  DOBJ: them
+  PARG: a small mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Mix in the paprika , mayonnaise , and dry mustard .
+PREDID: 0
+PRED: mix
+  PARG: the paprika , mayonnaise , dry mustard
+    PREP: in
+
+
+SENTID: 6
+SENT: Spoon mixture into the egg whites ;
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: the egg whites
+    PREP: into
+
+
+SENTID: 7
+SENT: cool and serve .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: serve
+

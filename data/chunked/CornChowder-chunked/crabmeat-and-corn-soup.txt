@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: In a heavy-bottomed pot , melt butter , add flour , and stir gently until blended ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a heavy-bottomed pot
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: flour
+
+PREDID: 2
+PRED: stir
+  PARG: blended
+    PREP: until
+  OARG: gently
+
+
+SENTID: 1
+SENT: Add milk gradually , stirring all the while , then add half and half , stirring gently while blending .
+PREDID: 0
+PRED: add
+  DOBJ: stirring all the while
+  OARG: gradually
+  OARG: milk
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: half, half , stirring
+  PARG: blending
+    PREP: while
+  OARG: gently
+
+
+SENTID: 2
+SENT: Add corn and green onions , and cook for a few minutes until tender .
+PREDID: 0
+PRED: add
+  DOBJ: corn, green onions
+
+PREDID: 1
+PRED: cook
+  PARG: a few minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Add crabmeat , pepper , salt , and soy sauce and simmer until very hot and small bubbles form around the edge ;
+PREDID: 0
+PRED: add
+  DOBJ: crabmeat , pepper , salt , soy sauce
+
+PREDID: 1
+PRED: simmer
+  PARG: very hot, small bubbles form around the edge
+    PREP: until
+
+
+SENTID: 4
+SENT: Adjust seasonings to taste .
+PREDID: 0
+PRED: adjust
+  DOBJ: seasonings
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Garnish with sprinkles of chopped fresh parsley when serving and serve hot .
+PREDID: 0
+PRED: garnish
+  PARG: sprinkles of chopped fresh parsley
+    PREP: with
+  OARG: when serving
+
+PREDID: 1
+PRED: serve
+  DOBJ: hot
+
+
+SENTID: 6
+SENT: Cut the kernels off the cob , scrape cob for juices , and then add to soup .
+PREDID: 0
+PRED: cut
+  DOBJ: the kernels
+  PARG: the cob
+    PREP: off
+
+PREDID: 1
+PRED: scrape
+  DOBJ: cob
+  PARG: juices
+    PREP: for
+  OARG: then
+
+PREDID: 2
+PRED: add
+  PARG: soup
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook until corn is tender .
+PREDID: 0
+PRED: cook
+  PARG: corn is tender
+    PREP: until
+
+
+SENTID: 8
+SENT: Canned crabmeat or imitation crab may be used instead of fresh crabmeat .
+PREDID: 0
+PRED: canned
+  DOBJ: crabmeat or imitation crab may be used
+  PARG: fresh crabmeat
+    PREP: of
+  OARG: instead
+
+
+SENTID: 9
+SENT: Use one 7Ê1/2 - ounce can crabmeat -LRB- drained -RRB- and 8 ounces imitation crab -LRB- cut into small pieces -RRB- .
+PREDID: 0
+PRED: use
+  DOBJ: one 7Ê1/2 - ounce can crabmeat -lrb- drained -rrb-, 8 ounces imitation crab -lrb- cut
+  PARG: small pieces -rrb-
+    PREP: into
+
+
+SENTID: 10
+SENT: Combine the two and cook as noted above .
+PREDID: 0
+PRED: combine
+  DOBJ: the two, cook
+  PARG: noted
+    PREP: as
+

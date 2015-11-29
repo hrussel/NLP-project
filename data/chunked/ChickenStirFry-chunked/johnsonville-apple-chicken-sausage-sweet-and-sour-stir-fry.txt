@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: In a large skillet , heat oil ;
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: Add sausage and pineapple ;
+PREDID: 0
+PRED: add
+  DOBJ: sausage, pineapple
+
+
+SENTID: 2
+SENT: cook and stir until heated through .
+PREDID: 0
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: In a small bowl , combine water , cornstarch , soy sauce , sugar and reserved pineapple juice .
+PREDID: 0
+PRED: combine
+  DOBJ: water , cornstarch , soy sauce , sugar, reserved pineapple juice
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Add to skillet ;
+PREDID: 0
+PRED: add
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 5
+SENT: bring to a boil , stirring constantly until thickened , about 2 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil , stirring
+    PREP: to
+  PARG: thickened , about 2 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 6
+SENT: Serve immediately over rice .
+PREDID: 0
+PRED: serve
+  PARG: rice
+    PREP: over
+  OARG: immediately
+

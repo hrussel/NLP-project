@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups or line with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix carrots , banana , zucchini , vegetable oil , yogurt , and eggs together until fully incorporated .
+PREDID: 0
+PRED: mix
+  DOBJ: carrots , banana , zucchini , vegetable oil , yogurt , eggs
+  PARG: fully incorporated
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Whisk flour and baking soda in a separate bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour, baking soda
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix brown sugar , oats , coconut , pecans , cherries , cinnamon , salt , and ginger into flour mixture until all ingredients are coated in flour .
+PREDID: 0
+PRED: mix
+  DOBJ: brown sugar , oats , coconut , pecans , cherries , cinnamon , salt , ginger
+  PARG: flour mixture
+    PREP: into
+  PARG: all ingredients are coated in flour
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir wet ingredients into flour mixture until just combined .
+PREDID: 0
+PRED: stir
+  DOBJ: wet ingredients
+  PARG: flour mixture
+    PREP: into
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Scoop batter into the prepared muffin cups . Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean and edges are slightly brown , 17 to 22 minutes .
+PREDID: 0
+PRED: scoop
+  DOBJ: batter
+  PARG: the prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the center of a muffin comes out clean, edges are slightly
+    PREP: until
+
+PREDID: 2
+PRED: brown
+  OARG: 17 to 22 minutes
+
+
+SENTID: 7
+SENT: Cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pans
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

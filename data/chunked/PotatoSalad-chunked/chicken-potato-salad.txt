@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: Chop the chicken , eggs , potatoes and pickled cucumbers into very small pieces . Mix all together .
+PREDID: 0
+PRED: chop
+  DOBJ: the chicken , eggs , potatoes, pickled cucumbers
+  PARG: very small pieces
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  DOBJ: all together
+
+
+SENTID: 1
+SENT: Add the salt and mayonnaise , then the olive oil .
+PREDID: 0
+PRED: add
+  DOBJ: the salt, mayonnaise
+  OARG: then
+
+
+SENTID: 2
+SENT: Toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Refrigerate for 2 to 3 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: 2 to 3 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

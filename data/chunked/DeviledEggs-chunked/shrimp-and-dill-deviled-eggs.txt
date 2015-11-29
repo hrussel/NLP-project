@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Place eggs in a medium saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs in half lengthwise .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: Remove yolks .
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+
+
+SENTID: 6
+SENT: Set aside whites .
+PREDID: 0
+PRED: set
+  DOBJ: whites
+  OARG: aside
+
+
+SENTID: 7
+SENT: In a medium bowl , mash egg yolks with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: egg yolks
+  PARG: a medium bowl
+    PREP: in
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 8
+SENT: Mix together with mayonnaise , shrimp , green onions , fresh dill weed , lime juice , prepared Dijon-style mustard , hot pepper sauce and ground black pepper .
+PREDID: 0
+PRED: mix
+  PARG: mayonnaise , shrimp , green onions , fresh dill weed , lime juice , prepared dijon-style mustard , hot pepper sauce, ground black pepper
+    PREP: with
+  OARG: together
+
+
+SENTID: 9
+SENT: Spoon approximately 1 tablespoon egg yolk mixture into each egg white .
+PREDID: 0
+PRED: spoon
+  DOBJ: 1 tablespoon egg yolk mixture
+  PARG: each egg white
+    PREP: into
+  OARG: approximately
+
+
+SENTID: 10
+SENT: Garnish with fresh dill weed .
+PREDID: 0
+PRED: garnish
+  PARG: fresh dill weed
+    PREP: with
+
+
+SENTID: 11
+SENT: Chill in the refrigerator until serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: until
+

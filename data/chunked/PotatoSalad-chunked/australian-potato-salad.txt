@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Place the potatoes in a large pot and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil with the pot uncovered , then remove from the heat , cover and let stand for 25 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: the pot uncovered
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 2
+PRED: cover
+  DOBJ: stand
+
+PREDID: 3
+PRED: let
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Drain and transfer to a serving bowl .
+PREDID: 0
+PRED: drain
+  PARG: a serving bowl
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 3
+SENT: Stir in the French salad dressing while the potatoes are still warm .
+PREDID: 0
+PRED: stir
+  PARG: the french salad dressing
+    PREP: in
+  PARG: the potatoes are
+    PREP: while
+  OARG: still
+
+PREDID: 1
+PRED: warm
+
+
+SENTID: 4
+SENT: Cool for at least 1 hour .
+PREDID: 0
+PRED: cool
+  PARG: at least 1 hour
+    PREP: for
+
+
+SENTID: 5
+SENT: Add the celery and green onions to the potatoes and mix in the mayonnaise , sour cream , mustard , mint , dill and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: the celery, green onions
+  PARG: the potatoes
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  PARG: the mayonnaise , sour cream , mustard , mint , dill, pepper
+    PREP: in
+
+
+SENTID: 6
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

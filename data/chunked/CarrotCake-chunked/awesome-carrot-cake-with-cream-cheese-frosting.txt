@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 9x13 inch pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: In a large bowl , combine grated carrots , flour , white sugar , baking soda , baking powder , salt and cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: grated carrots
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: flour
+  DOBJ: white sugar , baking soda , baking powder , salt, cinnamon
+
+
+SENTID: 3
+SENT: Stir in eggs , oil , 1Ê1/4 teaspoon vanilla , pineapple and 3/4 cup chopped pecans .
+PREDID: 0
+PRED: stir
+  PARG: eggs
+    PREP: in
+
+PREDID: 1
+PRED: oil
+  DOBJ: 1Ê1/4 teaspoon vanilla , pineapple, 3/4 cup chopped pecans
+
+
+SENTID: 4
+SENT: Spoon batter into prepared pan .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in the preheated oven for 30 to 40 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 to 40 minutes
+    PREP: for
+  PARG: a toothpick inserted into the center of the cake comes out clean
+    PREP: until
+
+
+SENTID: 6
+SENT: Allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 7
+SENT: In a medium bowl , combine confectioners ' sugar , Neufchatel cheese , 1/2 cup butter or margarine and 1Ê1/4 teaspoons vanilla .
+PREDID: 0
+PRED: combine
+  DOBJ: confectioners ' sugar , neufchatel cheese , 1/2 cup butter or margarine, 1Ê1/4 teaspoons vanilla
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Beat until smooth , then stir in 1 cup chopped pecans .
+PREDID: 0
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: stir
+  PARG: 1 cup chopped pecans
+    PREP: in
+
+
+SENTID: 9
+SENT: Spread on cooled cake .
+PREDID: 0
+PRED: spread
+  PARG: cooled cake
+    PREP: on
+

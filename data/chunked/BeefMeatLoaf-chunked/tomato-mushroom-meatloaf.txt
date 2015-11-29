@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix beef , pork , 1 cup spaghetti sauce , and dry soup mix together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: beef , pork , 1 cup spaghetti sauce , dry soup
+
+PREDID: 1
+PRED: mix
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add bread crumbs and eggs ;
+PREDID: 0
+PRED: add
+  DOBJ: bread crumbs, eggs
+
+
+SENTID: 3
+SENT: stir to incorporate .
+PREDID: 0
+PRED: stir
+  OARG: to incorporate
+
+
+SENTID: 4
+SENT: Divide meat mixture between two loaf pans .
+PREDID: 0
+PRED: divide
+  DOBJ: meat mixture
+  PARG: two loaf pans
+    PREP: between
+
+
+SENTID: 5
+SENT: Stir remaining 1 cup spaghetti sauce and condensed cream of mushroom soup together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: remaining 1 cup spaghetti sauce, condensed cream of mushroom soup
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Bake meat loaves in the preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: meat loaves
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Pour cream of mushroom soup mixture over the top of each loaf and return to oven .
+PREDID: 0
+PRED: pour
+  DOBJ: cream of mushroom soup mixture
+  PARG: the top of each loaf
+    PREP: over
+
+PREDID: 1
+PRED: return
+  PARG: oven
+    PREP: to
+
+
+SENTID: 8
+SENT: Continue baking loaves until no longer pink in the center , about 30 minutes more .
+PREDID: 0
+PRED: continue
+  DOBJ: baking loaves
+  PARG: no longer pink in the center , about 30 minutes more
+    PREP: until
+

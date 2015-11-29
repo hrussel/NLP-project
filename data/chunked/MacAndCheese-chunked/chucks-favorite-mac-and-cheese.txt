@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: add pasta ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+
+SENTID: 3
+SENT: and cook until done ;
+PREDID: 0
+PRED: cook
+  PARG: done
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: In 9x13 inch baking dish , stir together macaroni , shredded Cheddar cheese , cottage cheese , sour cream , Parmesan cheese , salt and pepper .
+PREDID: 0
+PRED: stir
+  DOBJ: macaroni , shredded cheddar cheese , cottage cheese , sour cream , parmesan cheese , salt, pepper
+  PARG: 9x13 inch baking dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: In a small bowl , mix together bread crumbs and melted butter .
+PREDID: 0
+PRED: mix
+  DOBJ: bread crumbs, melted butter
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Sprinkle topping over macaroni mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: topping
+  PARG: macaroni mixture
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake 30 to 35 minutes , or until top is golden .
+PREDID: 0
+PRED: bake
+  PARG: top is golden
+    PREP: until
+  OARG: 30 to 35 minutes
+

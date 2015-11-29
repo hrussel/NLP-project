@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut the eggs in half lengthwise and carefully remove the yolks to a bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+  OARG: carefully
+
+PREDID: 1
+PRED: remove
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: to
+
+
+SENTID: 5
+SENT: Mash the yolks with the mayonnaise and mustard and season with pepper and ranch dressing mix , blending until smooth .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: the mayonnaise, mustard
+    PREP: with
+
+PREDID: 1
+PRED: season
+  PARG: pepper, ranch dressing
+    PREP: with
+
+PREDID: 2
+PRED: mix
+  DOBJ: blending
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Spoon the mixture into the egg white halves and garnish with a sprinkle of paprika .
+PREDID: 0
+PRED: spoon
+  DOBJ: the mixture
+  PARG: the egg white halves
+    PREP: into
+
+PREDID: 1
+PRED: garnish
+  PARG: a sprinkle of paprika
+    PREP: with
+

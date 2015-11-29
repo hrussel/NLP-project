@@ -1,0 +1,199 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Make the pastry dough by creaming together 12 ounces of cream cheese with 1 pound of butter and the sugar in a large bowl until thoroughly blended .
+PREDID: 0
+PRED: make
+  DOBJ: 12 ounces of cream cheese
+  PARG: creaming
+    PREP: by
+  PARG: 1 pound of butter, the sugar
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+  PARG: thoroughly blended
+    PREP: until
+  OARG: together
+  OARG: the pastry dough
+
+
+SENTID: 2
+SENT: Mix in the flour , a little at a time , until the dough is workable .
+PREDID: 0
+PRED: mix
+  PARG: the flour , a little
+    PREP: in
+  PARG: a time
+    PREP: at
+  PARG: the dough is workable
+    PREP: until
+
+
+SENTID: 3
+SENT: Cut the dough into 4 equal-sized pieces , roll the pieces into balls , and refrigerate until needed .
+PREDID: 0
+PRED: cut
+  DOBJ: the dough
+  PARG: 4 equal-sized pieces
+    PREP: into
+
+PREDID: 1
+PRED: roll
+  DOBJ: the pieces
+  PARG: balls
+    PREP: into
+
+PREDID: 2
+PRED: refrigerate
+  PARG: needed
+    PREP: until
+
+
+SENTID: 4
+SENT: To make the filling , mash 12 ounces of cream cheese with brown sugar , pumpkin pie spice , cinnamon , and salt in a bowl until smooth and well combined ;
+PREDID: 0
+PRED: mash
+  DOBJ: 12 ounces of cream cheese
+  PARG: make the filling
+    PREP: to
+  PARG: brown sugar , pumpkin pie spice , cinnamon , salt
+    PREP: with
+  PARG: a bowl
+    PREP: in
+  PARG: smooth, well combined
+    PREP: until
+
+
+SENTID: 5
+SENT: beat in eggs , one at a time , incorporating each egg before adding the next one .
+PREDID: 0
+PRED: beat
+  DOBJ: incorporating each egg
+  PARG: eggs , one at a time
+    PREP: in
+  PARG: adding the next one
+    PREP: before
+
+
+SENTID: 6
+SENT: Mix in the pumpkin , evaporated milk , and vanilla extract until the filling is smooth .
+PREDID: 0
+PRED: mix
+  PARG: the pumpkin , evaporated milk , vanilla extract
+    PREP: in
+  PARG: the filling is smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Cut each dough ball in half , and cut each half into 12 pieces -LRB- 96 total pieces -RRB- .
+PREDID: 0
+PRED: cut
+  DOBJ: each dough ball
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: cut
+  DOBJ: each half
+  PARG: 12 pieces -lrb- 96 total pieces -rrb-
+    PREP: into
+
+
+SENTID: 8
+SENT: Working in batches , press each small piece of dough into the bottom and up the sides of mini muffin cups . Fill the little crusts almost to the top with the pumpkin filling .
+PREDID: 0
+PRED: press
+  DOBJ: the sides of mini muffin cups
+  PARG: batches
+    PREP: in
+  PARG: the bottom
+    PREP: into
+  OARG: working
+  OARG: up
+  OARG: each small piece of dough
+
+PREDID: 1
+PRED: fill
+  DOBJ: the little crusts
+  PARG: the top
+    PREP: to
+  PARG: the pumpkin filling
+    PREP: with
+  OARG: almost
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until the filling is set and the crusts are lightly golden brown , 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the filling is set, the crusts are lightly golden brown , 25 to 30 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Allow to cool completely before frosting .
+PREDID: 0
+PRED: allow
+  PARG: frosting
+    PREP: before
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 11
+SENT: Mash 1/2 cup of butter , the shortening , and 8 ounces of cream cheese together in a bowl until thoroughly combined , and mix in the confectioners ' sugar and marshmallow creme until smooth and creamy .
+PREDID: 0
+PRED: mash
+  DOBJ: 1/2 cup of butter , the shortening , 8 ounces of cream cheese
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: mix
+  PARG: the confectioners ' sugar, marshmallow creme
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+
+
+SENTID: 12
+SENT: Spread or pipe the frosting onto the cooled tarts .
+PREDID: 0
+PRED: spread
+  DOBJ: the frosting
+
+PREDID: 1
+PRED: pipe
+  PARG: the cooled tarts
+    PREP: onto
+
+
+SENTID: 13
+SENT: Sprinkle each tart with a few chopped pecans .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: each tart
+  PARG: a few chopped pecans
+    PREP: with
+
+
+SENTID: 14
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Muddle thyme , sage , oregano , rosemary , garlic salt , and salt together with a mortar and pestle .
+PREDID: 0
+PRED: muddle
+  DOBJ: thyme , sage , oregano , rosemary , garlic salt , salt
+  PARG: a mortar, pestle
+    PREP: with
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour vinegar into mortar bowl and swirl around to mix with herbs .
+PREDID: 0
+PRED: pour
+  DOBJ: vinegar
+  PARG: mortar bowl
+    PREP: into
+
+PREDID: 1
+PRED: swirl
+  PARG: to mix
+    PREP: around
+  PARG: herbs
+    PREP: with
+
+
+SENTID: 2
+SENT: Scoop egg yolks from eggs and transfer to a bowl ;
+PREDID: 0
+PRED: scoop
+  DOBJ: egg yolks
+  PARG: eggs
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  PARG: a bowl
+    PREP: to
+
+
+SENTID: 3
+SENT: mash egg yolks using a fork until texture is very fine .
+PREDID: 0
+PRED: mash
+  DOBJ: using a fork
+  PARG: texture is very fine
+    PREP: until
+  OARG: egg yolks
+
+
+SENTID: 4
+SENT: Stir chives and black pepper into mashed egg yolks .
+PREDID: 0
+PRED: stir
+  DOBJ: chives, black pepper
+  PARG: mashed egg yolks
+    PREP: into
+
+
+SENTID: 5
+SENT: Pour vinegar-herb mixture into egg yolks and mix well .
+PREDID: 0
+PRED: pour
+  DOBJ: vinegar-herb mixture
+  PARG: egg yolks
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Mix mayonnaise , sour cream , mustard , and sucralose sweetener into egg yolk mixture until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , sour cream , mustard , sucralose sweetener
+  PARG: egg yolk mixture
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Spoon egg yolk mixture into egg whites using a teaspoon .
+PREDID: 0
+PRED: spoon
+  DOBJ: egg yolk mixture
+  PARG: egg whites
+    PREP: into
+

@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Stir 1 bottle barbeque sauce and dry onion soup mix together in the bottom of a large slow cooker crock .
+PREDID: 0
+PRED: stir
+  DOBJ: 1 bottle barbeque sauce, dry onion soup
+
+PREDID: 1
+PRED: mix
+  PARG: the bottom of a large slow cooker crock
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Place pork loin and ribs into the slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: pork loin, ribs
+  PARG: the slow cooker
+    PREP: into
+
+
+SENTID: 2
+SENT: Cook on High until the meat begins to fall apart , 6 to 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: the meat begins to fall apart , 6 to 8 hours
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove meat and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: meat
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Allow crock to cool enough to handle ;
+PREDID: 0
+PRED: allow
+  DOBJ: crock
+  PARG: handle
+    PREP: to
+  OARG: to cool
+  OARG: enough
+
+
+SENTID: 5
+SENT: pour liquid into a bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: liquid
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 6
+SENT: Clean the crock and return it to the slow cooker .
+PREDID: 0
+PRED: clean
+  DOBJ: the crock
+
+PREDID: 1
+PRED: return
+  DOBJ: it
+  PARG: the slow cooker
+    PREP: to
+
+
+SENTID: 7
+SENT: Debone ribs ;
+PREDID: 0
+PRED: debone
+  DOBJ: ribs
+
+
+SENTID: 8
+SENT: discard bones and any fat .
+PREDID: 0
+PRED: discard
+  DOBJ: bones, any fat
+
+
+SENTID: 9
+SENT: Shred meat from the ribs .
+PREDID: 0
+PRED: shred
+  DOBJ: meat
+  PARG: the ribs
+    PREP: from
+
+
+SENTID: 10
+SENT: Shred pork loin meat using two forks pulling them in opposite directions .
+PREDID: 0
+PRED: shred
+  DOBJ: using two forks pulling them
+  PARG: opposite directions
+    PREP: in
+  OARG: pork loin meat
+
+
+SENTID: 11
+SENT: Return all the shredded meat to the slow cooker .
+PREDID: 0
+PRED: return
+  DOBJ: all the shredded meat
+  PARG: the slow cooker
+    PREP: to
+
+
+SENTID: 12
+SENT: Pour 1 bottle barbeque sauce over the pork .
+PREDID: 0
+PRED: pour
+  DOBJ: 1 bottle barbeque sauce
+  PARG: the pork
+    PREP: over
+
+
+SENTID: 13
+SENT: Add a small amount of water to the sauce bottle , shake vigorously to get as much sauce from the bottle as possible , and pour into the slow cooker .
+PREDID: 0
+PRED: add
+  DOBJ: a small amount of water
+  PARG: the sauce bottle
+    PREP: to
+
+PREDID: 1
+PRED: shake
+  PARG: get
+    PREP: to
+  PARG: much sauce
+    PREP: as
+  PARG: the bottle
+    PREP: from
+  PARG: possible
+    PREP: as
+  OARG: vigorously
+
+PREDID: 2
+PRED: pour
+  PARG: the slow cooker
+    PREP: into
+
+
+SENTID: 14
+SENT: Cook on Low for 1 hour .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 1 hour
+    PREP: for
+

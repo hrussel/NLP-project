@@ -1,0 +1,230 @@
+SENTID: 0
+SENT: Make the dough first .
+PREDID: 0
+PRED: make
+  DOBJ: the dough
+  OARG: first
+
+
+SENTID: 1
+SENT: In a large bowl , stir together the flour , salt , sugar and baking powder .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour , salt , sugar, baking powder
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Combine the oil , milk and 3 eggs , pour into the dry ingredients and stir until the dough holds together well .
+PREDID: 0
+PRED: combine
+  DOBJ: the oil , milk, 3 eggs
+
+PREDID: 1
+PRED: pour
+  PARG: the dry ingredients
+    PREP: into
+
+PREDID: 2
+PRED: stir
+  PARG: the dough holds together well
+    PREP: until
+
+
+SENTID: 3
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Divide the dough in half .
+PREDID: 0
+PRED: divide
+  DOBJ: the dough
+  PARG: half
+    PREP: in
+
+
+SENTID: 5
+SENT: Roll out one half of the dough to fit a 14x18 inch baking sheet with sides that come up at least 1/2 inch .
+PREDID: 0
+PRED: roll
+  PARG: one half of the dough
+    PREP: out
+  PARG: fit a 14x18 inch baking sheet
+    PREP: to
+  PARG: sides
+    PREP: with
+  PARG: come
+    PREP: that
+  PARG: least 1/2 inch
+    PREP: at
+  OARG: up
+
+
+SENTID: 6
+SENT: If the dough is too stiff to roll out to that size , let it rest for a few minutes and come back to it .
+PREDID: 0
+PRED: let
+  DOBJ: it rest
+  PARG: the dough is
+    PREP: if
+  PARG: roll
+    PREP: to
+  PARG: to
+    PREP: out
+  PARG: size
+    PREP: that
+  PARG: a few minutes, come
+    PREP: for
+  PARG: it
+    PREP: to
+  OARG: too
+  OARG: stiff
+  OARG: back
+
+
+SENTID: 7
+SENT: Fit the dough into the baking sheet .
+PREDID: 0
+PRED: fit
+  DOBJ: the dough
+  PARG: the baking sheet
+    PREP: into
+
+
+SENTID: 8
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: Place the sausage into a large skillet over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: the sausage
+  PARG: a large skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 10
+SENT: Cook , stirring to crumble , until no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: no longer pink
+    PREP: until
+  OARG: to crumble
+
+
+SENTID: 11
+SENT: Drain off the grease and set aside to cool .
+PREDID: 0
+PRED: drain
+  PARG: the grease
+    PREP: off
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 12
+SENT: Mix together the ricotta cheese , 5 eggs , salt , pepper and hard-cooked eggs in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the ricotta cheese , 5 eggs , salt , pepper, hard-cooked eggs
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 13
+SENT: When the sausage is cool , stir it into the cheese and eggs .
+PREDID: 0
+PRED: stir
+  DOBJ: it
+  PARG: the cheese, eggs
+    PREP: into
+  OARG: when the sausage is cool
+
+
+SENTID: 14
+SENT: Spread this mixture evenly over the crust in the pan .
+PREDID: 0
+PRED: spread
+  DOBJ: this mixture
+  PARG: the crust
+    PREP: over
+  PARG: the pan
+    PREP: in
+  OARG: evenly
+
+
+SENTID: 15
+SENT: Roll out the remaining dough and place on top .
+PREDID: 0
+PRED: roll
+  PARG: the remaining dough
+    PREP: out
+
+PREDID: 1
+PRED: place
+  PARG: top
+    PREP: on
+
+
+SENTID: 16
+SENT: Roll the edges and pinch together to seal .
+PREDID: 0
+PRED: roll
+  DOBJ: the edges
+
+PREDID: 1
+PRED: pinch
+  PARG: seal
+    PREP: to
+  OARG: together
+
+
+SENTID: 17
+SENT: Brush the top crust with the beaten egg .
+PREDID: 0
+PRED: brush
+  DOBJ: the top crust
+  PARG: the beaten egg
+    PREP: with
+
+
+SENTID: 18
+SENT: Bake in the preheated oven until the crust is golden brown and the filling is bubbly , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust is golden brown, the filling is bubbly , about 1 hour
+    PREP: until
+
+
+SENTID: 19
+SENT: Cool for at least 10 minutes before cutting into servings .
+PREDID: 0
+PRED: cool
+  PARG: at least 10 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+  PARG: servings
+    PREP: into
+

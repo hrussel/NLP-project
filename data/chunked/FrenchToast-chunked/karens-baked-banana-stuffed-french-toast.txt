@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly spray a cast iron or other ovenproof skillet with cooking spray and then heat over medium heat .
+PREDID: 0
+PRED: spray
+  DOBJ: a cast iron or other ovenproof skillet
+  PARG: cooking spray
+    PREP: with
+  OARG: lightly
+  OARG: then
+
+PREDID: 1
+PRED: heat
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Spread mashed banana on top of 4 slices of bread .
+PREDID: 0
+PRED: spread
+  DOBJ: mashed banana
+  PARG: top of 4 slices of bread
+    PREP: on
+
+
+SENTID: 3
+SENT: Place remaining four slices on top .
+PREDID: 0
+PRED: place
+  DOBJ: remaining four slices
+  PARG: top
+    PREP: on
+
+
+SENTID: 4
+SENT: In a bowl , whisk together milk , eggs , vanilla and cinnamon .
+PREDID: 0
+PRED: whisk
+  DOBJ: milk , eggs , vanilla, cinnamon
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Dip bread in egg mixture for 45 seconds on each side then place in skillet .
+PREDID: 0
+PRED: dip
+  DOBJ: bread
+  PARG: egg mixture
+    PREP: in
+  PARG: 45 seconds
+    PREP: for
+  PARG: each side
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: place
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 6
+SENT: Cook bread for two minutes on each side .
+PREDID: 0
+PRED: cook
+  DOBJ: bread
+  PARG: two minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+
+
+SENTID: 7
+SENT: Place bread on an ungreased baking sheet and bake in preheated oven for 8 minutes , until golden .
+PREDID: 0
+PRED: place
+  DOBJ: bread
+  PARG: an ungreased baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 8 minutes
+    PREP: for
+  PARG: golden
+    PREP: until
+
+
+SENTID: 8
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

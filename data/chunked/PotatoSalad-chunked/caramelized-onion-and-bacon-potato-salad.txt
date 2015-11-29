@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , 10 to 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 4
+SENT: Cut potatoes in half .
+PREDID: 0
+PRED: cut
+  DOBJ: potatoes
+  PARG: half
+    PREP: in
+
+
+SENTID: 5
+SENT: Heat a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: cook and stir onions until softened and golden brown , about 20 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onions
+
+PREDID: 1
+PRED: stir
+  PARG: softened, golden
+    PREP: until
+
+PREDID: 2
+PRED: brown
+  PARG: 20 minutes
+    PREP: about
+
+
+SENTID: 7
+SENT: Add tarragon ;
+PREDID: 0
+PRED: add
+  DOBJ: tarragon
+
+
+SENTID: 8
+SENT: pour in white wine to deglaze pan .
+PREDID: 0
+PRED: pour
+  PARG: white wine
+    PREP: in
+  OARG: to deglaze pan
+
+
+SENTID: 9
+SENT: Simmer until wine evaporates , 2 to 3 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: wine evaporates , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 11
+SENT: Drain the bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 12
+SENT: Mix potatoes , onion , and bacon together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: potatoes , onion , bacon
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 13
+SENT: Fold tzatziki sauce , chives , salt , and black pepper into potato mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: tzatziki sauce , chives , salt , black pepper
+  PARG: potato mixture
+    PREP: into
+

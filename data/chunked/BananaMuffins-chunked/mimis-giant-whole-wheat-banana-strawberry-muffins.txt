@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 large muffin cups , or line with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 large muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , whisk together the eggs , applesauce , oil , brown sugar , vanilla and bananas .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , applesauce , oil , brown sugar , vanilla, bananas
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Combine the flour , baking soda and cinnamon ;
+PREDID: 0
+PRED: combine
+  DOBJ: the flour , baking soda, cinnamon
+
+
+SENTID: 4
+SENT: Stir into the banana mixture until moistened .
+PREDID: 0
+PRED: stir
+  PARG: the banana mixture
+    PREP: into
+  PARG: moistened
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in the strawberries until evenly distributed .
+PREDID: 0
+PRED: stir
+  PARG: the strawberries
+    PREP: in
+  PARG: evenly distributed
+    PREP: until
+
+
+SENTID: 6
+SENT: Spoon batter into muffin cups until completely filled .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: muffin cups
+    PREP: into
+  PARG: completely filled
+    PREP: until
+
+
+SENTID: 7
+SENT: Bake for 20 minutes in the preheated oven , or until the tops of the muffins spring back when pressed lightly .
+PREDID: 0
+PRED: bake
+  PARG: 20 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the tops of the muffins spring back when pressed lightly
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool before removing from the muffin tins .
+PREDID: 0
+PRED: cool
+  PARG: removing
+    PREP: before
+  PARG: the muffin tins
+    PREP: from
+

@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Combine the tomato sauce , kidney beans , 2 tablespoons chili powder , 1 tablespoon sugar , and cayenne pepper in a large sauce pan ;
+PREDID: 0
+PRED: combine
+  DOBJ: the tomato sauce , kidney beans , 2 tablespoons chili powder , 1 tablespoon sugar , cayenne pepper
+  PARG: a large sauce pan
+    PREP: in
+
+
+SENTID: 1
+SENT: bring to a simmer over low heat .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Place a large skillet over medium-high heat ;
+PREDID: 0
+PRED: place
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: place the ground beef in the skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: season with 2 tablespoons chili powder , 1 tablespoon sugar , and the cayenne pepper ;
+PREDID: 0
+PRED: season
+  PARG: 2 tablespoons chili powder , 1 tablespoon sugar , the cayenne pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: cook until brown ;
+PREDID: 0
+PRED: cook
+  PARG: brown
+    PREP: until
+
+
+SENTID: 6
+SENT: add to the sauce mixture .
+PREDID: 0
+PRED: add
+  PARG: the sauce mixture
+    PREP: to
+
+
+SENTID: 7
+SENT: Heat the oil in a small skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a small skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 8
+SENT: cook the onion in the oil until slightly browned ;
+PREDID: 0
+PRED: cook
+  DOBJ: the onion
+  PARG: the oil
+    PREP: in
+  PARG: slightly browned
+    PREP: until
+
+
+SENTID: 9
+SENT: add to the sauce mixture , along with the apple , peach , and banana pepper .
+PREDID: 0
+PRED: add
+  PARG: the sauce mixture
+    PREP: to
+  PARG: with the apple , peach , banana pepper
+    PREP: along
+
+
+SENTID: 10
+SENT: Allow to simmer another 1 to 2 minutes until hot .
+PREDID: 0
+PRED: allow
+  PARG: simmer another 1 to 2 minutes
+    PREP: to
+  PARG: hot
+    PREP: until
+

@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 30 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool and slice thin .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  OARG: thin
+
+PREDID: 2
+PRED: slice
+
+
+SENTID: 3
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 4
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain , crumble and set aside , reserving drippings .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+  DOBJ: reserving drippings
+
+
+SENTID: 6
+SENT: Saute onions in bacon drippings until they are golden-brown .
+PREDID: 0
+PRED: saute
+  DOBJ: onions
+  PARG: bacon drippings
+    PREP: in
+  PARG: they are golden-brown
+    PREP: until
+
+
+SENTID: 7
+SENT: In a small bowl , whisk together the flour , sugar , salt , celery seed , and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the flour , sugar , salt , celery seed , pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Add to the sauteed onions and cook and stir until bubbly , then remove from heat .
+PREDID: 0
+PRED: add
+  PARG: the sauteed onions, cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: bubbly
+    PREP: until
+
+PREDID: 2
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 9
+SENT: Stir in water and vinegar , then return to the stove and bring to a boil , stirring constantly .
+PREDID: 0
+PRED: stir
+  PARG: water, vinegar
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: return
+  PARG: the stove
+    PREP: to
+
+PREDID: 2
+PRED: bring
+  PARG: a boil , stirring
+    PREP: to
+  OARG: constantly
+
+
+SENTID: 10
+SENT: Boil and stir for one minute .
+PREDID: 0
+PRED: boil
+  PARG: one minute
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 11
+SENT: Carefully stir bacon and sliced potatoes into the vinegar/water mixture , stirring gently until potatoes are heated through .
+PREDID: 0
+PRED: stir
+  DOBJ: bacon, sliced potatoes
+  PARG: the vinegar/water mixture , stirring
+    PREP: into
+  PARG: potatoes are heated through
+    PREP: until
+  OARG: carefully
+  OARG: gently
+

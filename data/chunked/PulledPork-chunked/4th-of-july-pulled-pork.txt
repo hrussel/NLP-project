@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Cut rows of deep slits into both sides of pork butt using a sharp knife ;
+PREDID: 0
+PRED: cut
+  DOBJ: using a sharp knife
+  PARG: both sides of pork butt
+    PREP: into
+  OARG: rows of deep slits
+
+
+SENTID: 1
+SENT: insert a garlic clove into each slit .
+PREDID: 0
+PRED: insert
+  DOBJ: a garlic clove
+  PARG: each slit
+    PREP: into
+
+
+SENTID: 2
+SENT: Rub vegetable oil over pork butt .
+PREDID: 0
+PRED: rub
+  DOBJ: vegetable oil
+  PARG: pork butt
+    PREP: over
+
+
+SENTID: 3
+SENT: Mix Creole seasoning , brown sugar , white sugar , paprika , garlic powder , black pepper , mustard , cumin , and ginger together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: creole seasoning , brown sugar , white sugar , paprika , garlic powder , black pepper , mustard , cumin , ginger
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: coat pork butt with spice mixture .
+PREDID: 0
+PRED: coat
+  DOBJ: pork butt
+  PARG: spice mixture
+    PREP: with
+
+
+SENTID: 5
+SENT: Wrap coated pork butt with aluminum foil and refrigerate for 8 hours to overnight .
+PREDID: 0
+PRED: wrap
+  DOBJ: coated pork butt
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 8 hours
+    PREP: for
+  OARG: to overnight
+
+
+SENTID: 6
+SENT: Heat an infrared turkey fryer or a large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: an infrared turkey fryer or a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: remove aluminum foil from pork butt .
+PREDID: 0
+PRED: remove
+  DOBJ: aluminum foil
+  PARG: pork butt
+    PREP: from
+
+
+SENTID: 8
+SENT: Sear all sides of pork butt in the fryer or hot skillet until an internal temperature of 145 degrees F -LRB- 63 degrees C -RRB- is reached , 1 to 1Ê1/2 hours .
+PREDID: 0
+PRED: sear
+  DOBJ: all sides of pork butt
+  PARG: the fryer or hot skillet
+    PREP: in
+  PARG: an internal temperature of 145 degrees f -lrb- 63 degrees c -rrb- is reached , 1 to 1Ê1/2 hours
+    PREP: until
+
+
+SENTID: 9
+SENT: Wrap the seared pork butt tightly in aluminum foil .
+PREDID: 0
+PRED: wrap
+  DOBJ: the seared pork butt
+  PARG: aluminum foil
+    PREP: in
+  OARG: tightly
+
+
+SENTID: 10
+SENT: Preheat the roaster or oven to 265 degrees F -LRB- 130 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the roaster or oven
+  PARG: 265 degrees f -lrb- 130 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 11
+SENT: Place wrapped pork butt in the preheated roaster or oven until pork is easily shredded , 3 to 4 hours .
+PREDID: 0
+PRED: place
+  DOBJ: wrapped pork butt
+  PARG: the preheated roaster or oven
+    PREP: in
+  PARG: pork is easily shredded , 3 to 4 hours
+    PREP: until
+
+
+SENTID: 12
+SENT: Remove pork butt from aluminum foil and pull meat apart .
+PREDID: 0
+PRED: remove
+  DOBJ: pork butt
+  PARG: aluminum foil
+    PREP: from
+
+PREDID: 1
+PRED: pull
+  DOBJ: meat
+  OARG: apart
+

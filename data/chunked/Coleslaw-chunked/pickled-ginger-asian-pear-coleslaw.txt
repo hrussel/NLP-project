@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: Whisk together mayonnaise , rice vinegar , miso , and chile-garlic sauce in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , rice vinegar , miso , chile-garlic sauce
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir cabbage , pear , and ginger into the mayonnaise mixture until well coated .
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage , pear , ginger
+  PARG: the mayonnaise mixture
+    PREP: into
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in green onions and sesame seeds .
+PREDID: 0
+PRED: stir
+  PARG: green onions, sesame seeds
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with salt to taste .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+  PARG: taste
+    PREP: to
+

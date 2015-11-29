@@ -1,0 +1,191 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place spinach in a microwave safe bowl with a splash of water .
+PREDID: 0
+PRED: place
+  DOBJ: spinach
+  PARG: a microwave safe bowl
+    PREP: in
+  PARG: a splash of water
+    PREP: with
+
+
+SENTID: 2
+SENT: Cover , and microwave until the spinach has wilted , about 5 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: microwave
+  PARG: the spinach has wilted , about 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and allow to cool .
+PREDID: 0
+PRED: drain
+  OARG: to cool
+
+PREDID: 1
+PRED: allow
+
+
+SENTID: 4
+SENT: In a large bowl , mix together beef , pork , eggs , bread crumbs , and Romano cheese .
+PREDID: 0
+PRED: mix
+  DOBJ: beef , pork , eggs , bread crumbs , romano cheese
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Divide into two equal portions , and roll each into balls .
+PREDID: 0
+PRED: divide
+  PARG: two equal portions
+    PREP: into
+
+PREDID: 1
+PRED: roll
+  DOBJ: each into balls
+
+
+SENTID: 7
+SENT: Place a 15-inch long piece of plastic wrap on your work surface and lightly sprinkle with flour .
+PREDID: 0
+PRED: place
+  DOBJ: piece of plastic wrap
+  PARG: your work surface
+    PREP: on
+  OARG: long
+  OARG: a 15-inch
+  OARG: lightly
+
+PREDID: 1
+PRED: sprinkle
+  PARG: flour
+    PREP: with
+
+
+SENTID: 8
+SENT: Place one of the balls onto the plastic wrap and pat into a thin , 8-inch by 10-inch rectangle .
+PREDID: 0
+PRED: place
+  DOBJ: one of the balls
+  PARG: the plastic wrap
+    PREP: onto
+
+PREDID: 1
+PRED: pat
+  PARG: a thin , 8-inch
+    PREP: into
+  PARG: 10-inch rectangle
+    PREP: by
+
+
+SENTID: 9
+SENT: Make a second loaf with remaining ingredients .
+PREDID: 0
+PRED: make
+  DOBJ: a second loaf
+  PARG: remaining ingredients
+    PREP: with
+
+
+SENTID: 10
+SENT: To bake , pour wine into a broiler pan bottom .
+PREDID: 0
+PRED: pour
+  DOBJ: wine
+  PARG: a broiler pan bottom
+    PREP: into
+  OARG: to bake
+
+
+SENTID: 11
+SENT: Oil the slotted top with some of the olive oil before placing the loaves on and brushing them with remaining oil .
+PREDID: 0
+PRED: oil
+  DOBJ: the slotted top
+  PARG: some of the olive oil
+    PREP: with
+  PARG: placing the loaves
+    PREP: before
+  PARG: and brushing them
+    PREP: on
+  PARG: remaining oil
+    PREP: with
+
+
+SENTID: 12
+SENT: Cover loaves with a sheet of aluminum foil and bake in preheated oven for 40 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: loaves
+  PARG: a sheet of aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Remove the foil and pour water into the pan .
+PREDID: 0
+PRED: remove
+  DOBJ: the foil
+
+PREDID: 1
+PRED: pour
+  DOBJ: water
+  PARG: the pan
+    PREP: into
+
+
+SENTID: 14
+SENT: Continue baking for another 35 minutes , until the internal temperature reaches 160 degrees F -LRB- 72 degrees C -RRB- .
+PREDID: 0
+PRED: continue
+  DOBJ: baking
+  PARG: another 35 minutes
+    PREP: for
+  PARG: the internal temperature reaches 160 degrees f -lrb- 72 degrees c -rrb-
+    PREP: until
+
+
+SENTID: 15
+SENT: Allow to rest 10 minutes before slicing into 1-inch thick slices to serve .
+PREDID: 0
+PRED: allow
+  PARG: rest 10 minutes
+    PREP: to
+  PARG: slicing
+    PREP: before
+  PARG: 1-inch thick slices
+    PREP: into
+  PARG: serve
+    PREP: to
+

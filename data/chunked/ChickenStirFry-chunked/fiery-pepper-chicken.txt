@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: Stir together 1 teaspoon cooking wine and 1/2 teaspoon salt in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: 1 teaspoon cooking wine, 1/2 teaspoon salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: add the chicken and stir to coat .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Allow to marinate 2 to 3 minutes .
+PREDID: 0
+PRED: allow
+  OARG: to marinate 2 to 3 minutes
+
+
+SENTID: 3
+SENT: Place the marinated chicken in a large , sealable plastic bag with the cornstarch and shake to coat .
+PREDID: 0
+PRED: place
+  DOBJ: the marinated chicken
+  PARG: a large , sealable plastic bag
+    PREP: in
+  PARG: the cornstarch, shake
+    PREP: with
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Heat the peanut oil in a wok or large skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the peanut oil
+  PARG: a wok or large skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Fry the chicken in the oil until it begins to crisp around the edges , 7 to 10 minutes .
+PREDID: 0
+PRED: fry
+  DOBJ: the chicken
+  PARG: the oil
+    PREP: in
+  PARG: it begins to crisp around the edges , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove the chicken to a paper towel-lined plate to drain .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+  PARG: a paper towel-lined plate
+    PREP: to
+  PARG: drain
+    PREP: to
+
+
+SENTID: 7
+SENT: Reserve 2 tablespoons of the oil , discarding the rest . Reheat the reserved oil in the wok over medium-high heat ;
+PREDID: 0
+PRED: reserve
+  DOBJ: 2 tablespoons of the oil
+
+PREDID: 1
+PRED: reheat
+  DOBJ: the reserved oil
+  PARG: the wok
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 8
+SENT: cook and stir the garlic , ginger , and green onions in the oil until fragrant , about 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: the garlic , ginger , green onions
+
+PREDID: 1
+PRED: stir
+  PARG: the oil
+    PREP: in
+  PARG: fragrant , about 1 minute
+    PREP: until
+
+
+SENTID: 9
+SENT: Add the green chilies , crushed dried chilies , and Szechuan peppercorns ;
+PREDID: 0
+PRED: add
+  DOBJ: the green chilies , crushed dried chilies , szechuan peppercorns
+
+
+SENTID: 10
+SENT: continue frying about 20 seconds more .
+PREDID: 0
+PRED: continue
+  DOBJ: frying
+  PARG: 20 seconds more
+    PREP: about
+
+
+SENTID: 11
+SENT: Return the chicken to the wok ;
+PREDID: 0
+PRED: return
+  DOBJ: the chicken
+  PARG: the wok
+    PREP: to
+
+
+SENTID: 12
+SENT: stir in the soy sauce , 2 teaspoons cooking wine , sugar , and 1/2 teaspoon salt until thoroughly combined .
+PREDID: 0
+PRED: stir
+  PARG: the soy sauce , 2 teaspoons cooking wine , sugar , 1/2 teaspoon salt
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 13
+SENT: Remove from heat and serve immediately .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: serve
+  OARG: immediately
+

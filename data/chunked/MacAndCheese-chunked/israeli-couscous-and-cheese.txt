@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Melt butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir couscous in the melted butter until slightly toasted , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: couscous
+
+PREDID: 1
+PRED: stir
+  PARG: the melted butter
+    PREP: in
+  PARG: slightly toasted , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour in chicken broth and bring to a boil .
+PREDID: 0
+PRED: pour
+  PARG: chicken broth
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Reduce heat to low and simmer until most of the stock is absorbed and the couscous have plumped , 6 to 7 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: most of the stock is absorbed, the couscous have plumped , 6 to 7 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir heavy cream and pimientos into couscous ;
+PREDID: 0
+PRED: stir
+  DOBJ: heavy cream, pimientos
+  PARG: couscous
+    PREP: into
+
+
+SENTID: 5
+SENT: add cayenne pepper and cook until couscous is tender , 2 to 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: cayenne pepper
+
+PREDID: 1
+PRED: cook
+  PARG: couscous is tender , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Add more broth if needed .
+PREDID: 0
+PRED: add
+  DOBJ: more broth
+  PARG: needed
+    PREP: if
+
+
+SENTID: 7
+SENT: Remove from heat and stir in Cheddar cheese until melted ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: cheddar cheese
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 8
+SENT: add chives and stir to combine .
+PREDID: 0
+PRED: add
+  DOBJ: chives
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 9
+SENT: Season with salt , black pepper , and cayenne pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt , black pepper , cayenne pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

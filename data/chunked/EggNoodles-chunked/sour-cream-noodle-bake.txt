@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Cook noodles in boiling salted water .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: boiling salted water
+    PREP: in
+
+
+SENTID: 1
+SENT: Rinse in cold water and drain .
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: in
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 2
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 3
+SENT: Brown meat in butter ;
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: butter
+    PREP: in
+
+
+SENTID: 4
+SENT: add salt , pepper , garlic salt and tomato sauce .
+PREDID: 0
+PRED: add
+  DOBJ: salt , pepper , garlic salt, tomato sauce
+
+
+SENTID: 5
+SENT: Simmer for 5 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Mix cottage cheese , sour cream , onions , meat sauce and noodles .
+PREDID: 0
+PRED: mix
+  DOBJ: cottage cheese , sour cream , onions , meat sauce, noodles
+
+
+SENTID: 7
+SENT: Place in a casserole dish and sprinkle with cheddar cheese Bake , uncovered , at 350 degrees F -LRB- 175 degrees C -RRB- for 20 to 25 minutes .
+PREDID: 0
+PRED: place
+  PARG: a casserole dish
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: cheddar cheese
+    PREP: with
+
+PREDID: 2
+PRED: bake
+  DOBJ: uncovered
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 20 to 25 minutes
+    PREP: for
+

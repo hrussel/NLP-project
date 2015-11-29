@@ -1,0 +1,30 @@
+SENTID: 0
+SENT: Mix mayonnaise , yogurt , paprika , and seasoned salt together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , yogurt , paprika , seasoned salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: fold in cranberries , celery , apple , grapes , and pecans .
+PREDID: 0
+PRED: fold
+  PARG: cranberries , celery , apple , grapes , pecans
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in chicken and season with black pepper .
+PREDID: 0
+PRED: stir
+  PARG: chicken
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: black pepper
+    PREP: with
+

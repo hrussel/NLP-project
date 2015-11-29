@@ -1,0 +1,200 @@
+SENTID: 0
+SENT: Whisk together soy sauce , sesame oil , olive oil , vinegar , peanut butter , cayenne pepper , ginger , garlic , and serrano in a small bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: soy sauce , sesame oil , olive oil , vinegar , peanut butter , cayenne pepper , ginger , garlic , serrano
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Toast spelt kernels in a dry skillet on medium-high heat until the kernels are browned and some have popped .
+PREDID: 0
+PRED: toast
+  DOBJ: spelt kernels
+  PARG: a dry skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: on
+  PARG: the kernels are browned, some have popped
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove , place in a mesh strainer , and rinse well with cold water .
+PREDID: 0
+PRED: remove
+
+PREDID: 1
+PRED: place
+  PARG: a mesh strainer
+    PREP: in
+
+PREDID: 2
+PRED: rinse
+  PARG: cold water
+    PREP: with
+  OARG: well
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Bring 6 cups of water to a boil in a large saucepan ;
+PREDID: 0
+PRED: bring
+  DOBJ: 6 cups of water
+  PARG: a boil
+    PREP: to
+  PARG: a large saucepan
+    PREP: in
+
+
+SENTID: 6
+SENT: add 1/2 teaspoon kosher salt and stir in spelt kernels .
+PREDID: 0
+PRED: add
+  DOBJ: 1/2 teaspoon kosher salt
+
+PREDID: 1
+PRED: stir
+  PARG: spelt kernels
+    PREP: in
+
+
+SENTID: 7
+SENT: Return to a boil then cover , reduce heat to low , and simmer until tender , about 1 hour .
+PREDID: 0
+PRED: return
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 3
+PRED: simmer
+  PARG: tender , about 1 hour
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain well and set aside to cool .
+PREDID: 0
+PRED: drain
+  OARG: well
+  OARG: aside
+
+PREDID: 1
+PRED: set
+  OARG: to cool
+
+
+SENTID: 9
+SENT: While the spelt is simmering , fill a skillet with 1 quart water , 1/2 teaspoon salt , and onion .
+PREDID: 0
+PRED: fill
+  DOBJ: a skillet
+  PARG: the spelt is simmering
+    PREP: while
+  PARG: 1 quart water , 1/2 teaspoon salt , onion
+    PREP: with
+
+
+SENTID: 10
+SENT: Bring to a boil over high heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Add chicken breasts , reduce the heat to medium-low , cover , and simmer until the chicken is cooked through , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: chicken breasts
+
+PREDID: 1
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the chicken is cooked through , about 15 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Remove chicken from liquid and allow to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: liquid
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 13
+SENT: Once chicken is cool enough to handle , shred into bite-sized chunks and place in a large bowl .
+PREDID: 0
+PRED: shred
+  DOBJ: chicken is cool
+  PARG: handle
+    PREP: to
+  PARG: bite-sized chunks
+    PREP: into
+  OARG: once
+  OARG: enough
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 14
+SENT: Stir in spelt , bell pepper , green onions , parsley , cilantro , carrots , and cabbage .
+PREDID: 0
+PRED: stir
+  PARG: spelt , bell pepper , green onions , parsley , cilantro , carrots , cabbage
+    PREP: in
+
+
+SENTID: 15
+SENT: Pour sauce over salad and stir well to combine .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+  OARG: well
+

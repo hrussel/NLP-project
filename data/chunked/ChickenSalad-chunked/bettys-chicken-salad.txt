@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook shell pasta in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: shell pasta
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Rinse in cold water until cool and drain .
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: in
+  PARG: cool
+    PREP: until
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 3
+SENT: Combine pasta , chicken , celery , and almonds in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: pasta , chicken , celery , almonds
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix mayonnaise , lemon juice , salt , and pepper in another bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , lemon juice , salt , pepper
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour mayonnaise mixture into pasta mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: mayonnaise mixture
+  PARG: pasta mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 7
+SENT: Fold eggs into pasta .
+PREDID: 0
+PRED: fold
+  DOBJ: eggs
+  PARG: pasta
+    PREP: into
+
+
+SENTID: 8
+SENT: Cover and refrigerate for 6 hours .
+PREDID: 0
+PRED: cover
+  PARG: 6 hours
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+

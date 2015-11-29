@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Place eggs in a large pot and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice the eggs in half lengthwise and place the yolks into a bowl and mash with a fork .
+PREDID: 0
+PRED: slice
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: place
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: into
+
+PREDID: 2
+PRED: mash
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 5
+SENT: Set aside some of the Parmesan cheese and chives to use as a garnish .
+PREDID: 0
+PRED: set
+  DOBJ: some of the parmesan cheese, chives
+  PARG: use
+    PREP: to
+  PARG: a garnish
+    PREP: as
+  OARG: aside
+
+
+SENTID: 6
+SENT: Mix the remaining into the yolks along with the prosciutto , green olives , red bell pepper , Dijon mustard , sour cream , mayonnaise , hot sauce , garlic powder and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the remaining
+  PARG: the yolks
+    PREP: into
+  PARG: with the prosciutto , green olives , red bell pepper , dijon mustard , sour cream , mayonnaise , hot sauce , garlic powder, pepper
+    PREP: along
+
+
+SENTID: 7
+SENT: Spoon the yolk mixture back into the egg white halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk mixture
+  PARG: the egg white halves
+    PREP: into
+  OARG: back
+
+
+SENTID: 8
+SENT: Garnish with reserved Parmesan cheese and chives .
+PREDID: 0
+PRED: garnish
+  PARG: reserved parmesan cheese, chives
+    PREP: with
+

@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: Toss the cabbage , red bell pepper , red onion , carrots , mango , and cilantro together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , red bell pepper , red onion , carrots , mango , cilantro
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Whisk the yogurt , mayonnaise , mustard , cider vinegar , agave nectar , salt , pepper , and hot sauce together in a small bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the yogurt , mayonnaise , mustard , cider vinegar , agave nectar , salt , pepper , hot sauce
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: pour over the cabbage mixture and toss to coat .
+PREDID: 0
+PRED: pour
+  PARG: the cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Allow the slaw to marinate in the refrigerator for at least 1 hour to allow the flavors to combine .
+PREDID: 0
+PRED: allow
+  DOBJ: the slaw
+  PARG: the refrigerator
+    PREP: in
+  PARG: at least 1 hour
+    PREP: for
+  PARG: combine
+    PREP: to
+  OARG: to marinate
+  OARG: to allow the flavors
+

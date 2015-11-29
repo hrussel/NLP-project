@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Place potatoes in a medium saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a medium saucepan
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Add 2 teaspoons salt .
+PREDID: 0
+PRED: add
+  DOBJ: 2 teaspoons salt
+
+
+SENTID: 2
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: cook until tender , about 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain , and allow to cool until easily handled but still warm .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: allow
+  PARG: easily handled but still warm
+    PREP: until
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Cut potatoes into bite size pieces , and transfer to a medium mixing bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: potatoes
+  PARG: bite size pieces
+    PREP: into
+
+PREDID: 1
+PRED: transfer
+  PARG: a medium mixing bowl
+    PREP: to
+
+
+SENTID: 6
+SENT: Add salad dressing , and gently stir until well coated .
+PREDID: 0
+PRED: add
+  DOBJ: salad dressing
+  OARG: gently
+
+PREDID: 1
+PRED: stir
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 7
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 8
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

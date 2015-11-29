@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Mix shredded cabbage and salt together in a colander ;
+PREDID: 0
+PRED: mix
+  DOBJ: shredded cabbage, salt
+  PARG: a colander
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: drain for 1 hour .
+PREDID: 0
+PRED: drain
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 2
+SENT: Squeeze moisture from cabbage .
+PREDID: 0
+PRED: squeeze
+  DOBJ: moisture
+  PARG: cabbage
+    PREP: from
+
+
+SENTID: 3
+SENT: Stir carrots into cabbage and divide cabbage mixture between pint containers .
+PREDID: 0
+PRED: stir
+  DOBJ: carrots
+  PARG: cabbage
+    PREP: into
+
+PREDID: 1
+PRED: divide
+  DOBJ: cabbage mixture
+  PARG: pint containers
+    PREP: between
+
+
+SENTID: 4
+SENT: Whisk sugar , vinegar , water , celery seed , and dry mustard together in saucepan over medium high heat ;
+PREDID: 0
+PRED: whisk
+  DOBJ: sugar , vinegar , water , celery seed , dry mustard
+  PARG: saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  OARG: together
+
+
+SENTID: 5
+SENT: bring to a boil for 1 minute .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 6
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 7
+SENT: Pour cooled vinegar dressing mixture over cabbage mixture , cover containers , and freeze .
+PREDID: 0
+PRED: pour
+  DOBJ: cooled vinegar dressing mixture
+  PARG: cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: cover
+  DOBJ: containers
+
+PREDID: 2
+PRED: freeze
+
+
+SENTID: 8
+SENT: Thaw before serving .
+PREDID: 0
+PRED: thaw
+  PARG: serving
+    PREP: before
+

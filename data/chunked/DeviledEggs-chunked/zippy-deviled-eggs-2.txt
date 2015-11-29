@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Combine egg yolks , mayonnaise , mustard , and hot sauce in a food processor ;
+PREDID: 0
+PRED: combine
+  DOBJ: egg yolks , mayonnaise , mustard , hot sauce
+  PARG: a food processor
+    PREP: in
+
+
+SENTID: 1
+SENT: puree until smooth .
+PREDID: 0
+PRED: puree
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Spoon egg yolk mixture into a pastry bag with a decorative tip ;
+PREDID: 0
+PRED: spoon
+  DOBJ: egg yolk mixture
+  PARG: a pastry bag
+    PREP: into
+  PARG: a decorative tip
+    PREP: with
+
+
+SENTID: 3
+SENT: pipe filling into the cavity of the egg white halves .
+PREDID: 0
+PRED: pipe
+  DOBJ: filling
+  PARG: the cavity of the egg white halves
+    PREP: into
+

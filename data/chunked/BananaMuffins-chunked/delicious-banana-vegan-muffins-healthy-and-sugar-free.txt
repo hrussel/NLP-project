@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 16 muffin cups or line with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 16 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk flour , bran , rolled oats , flax seeds , baking powder , baking soda , cinnamon , salt , ginger , allspice , and nutmeg together in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour , bran , rolled oats , flax seeds , baking powder , baking soda , cinnamon , salt , ginger , allspice , nutmeg
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Mix bananas and peanut oil together in a separate large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: bananas, peanut oil
+  PARG: a separate large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: stir dry ingredients into banana mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: dry ingredients
+  PARG: banana mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Fold walnuts , chocolate chips , and raisins into batter .
+PREDID: 0
+PRED: fold
+  DOBJ: walnuts , chocolate chips , raisins
+  PARG: batter
+    PREP: into
+
+
+SENTID: 6
+SENT: Spoon batter into prepared muffin cups , filling them about 2/3 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin cups , filling them
+    PREP: into
+  PARG: 2/3 full
+    PREP: about
+
+
+SENTID: 7
+SENT: Bake muffins in the preheated oven until lightly golden brown and a knife inserted into the center of a muffin comes out clean , about 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: muffins
+  PARG: the preheated oven
+    PREP: in
+  PARG: lightly golden brown, a knife inserted into the center of a muffin comes out clean , about 30 minutes
+    PREP: until
+

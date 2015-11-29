@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook egg noodles in boiling water until done , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: boiling water
+    PREP: in
+  PARG: done , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Meanwhile , prepare the sauce .
+PREDID: 0
+PRED: prepare
+  DOBJ: the sauce
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: In a large skillet , cook mushrooms and onions in 2 tablespoons of butter over medium heat until soft ;
+PREDID: 0
+PRED: cook
+  DOBJ: mushrooms, onions
+  PARG: a large skillet
+    PREP: in
+  PARG: 2 tablespoons of butter
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: soft
+    PREP: until
+
+
+SENTID: 5
+SENT: remove from pan .
+PREDID: 0
+PRED: remove
+  PARG: pan
+    PREP: from
+
+
+SENTID: 6
+SENT: Using the same pan , melt remaining butter .
+PREDID: 0
+PRED: melt
+  DOBJ: using the same pan
+
+
+SENTID: 7
+SENT: Cook ground beef in melted butter until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+  PARG: melted butter
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 8
+SENT: Mix in flour .
+PREDID: 0
+PRED: mix
+  PARG: flour
+    PREP: in
+
+
+SENTID: 9
+SENT: Stir in beef broth , and cook until slightly thickened .
+PREDID: 0
+PRED: stir
+  PARG: beef broth
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: slightly thickened
+    PREP: until
+
+
+SENTID: 10
+SENT: Add mushroom and onion mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: mushroom, onion mixture
+
+
+SENTID: 11
+SENT: stir in sour cream .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+
+SENTID: 12
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Serve sauce over egg noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: sauce
+  PARG: egg noodles
+    PREP: over
+

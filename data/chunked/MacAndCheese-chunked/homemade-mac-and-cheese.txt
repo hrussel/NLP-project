@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Cook macaroni according to the package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni according
+  PARG: the package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a saucepan , melt butter or margarine over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter or margarine
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Stir in enough flour to make a roux .
+PREDID: 0
+PRED: stir
+  PARG: enough
+    PREP: in
+
+PREDID: 1
+PRED: flour
+  PARG: make a roux
+    PREP: to
+
+
+SENTID: 4
+SENT: Add milk to roux slowly , stirring constantly .
+PREDID: 0
+PRED: add
+  DOBJ: stirring
+  PARG: roux
+    PREP: to
+  OARG: slowly
+  OARG: milk
+  OARG: constantly
+
+
+SENTID: 5
+SENT: Stir in cheeses , and cook over low heat until cheese is melted and the sauce is a little thick .
+PREDID: 0
+PRED: stir
+  PARG: cheeses
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: cheese is melted, the sauce is a little thick
+    PREP: until
+
+
+SENTID: 6
+SENT: Put macaroni in large casserole dish , and pour sauce over macaroni .
+PREDID: 0
+PRED: put
+  DOBJ: macaroni
+  PARG: large casserole dish
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: sauce
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 7
+SENT: Stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 8
+SENT: Melt butter or margarine in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter or margarine
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Add breadcrumbs and brown .
+PREDID: 0
+PRED: add
+  DOBJ: breadcrumbs, brown
+
+
+SENTID: 10
+SENT: Spread over the macaroni and cheese to cover .
+PREDID: 0
+PRED: spread
+  PARG: the macaroni, cheese
+    PREP: over
+  PARG: cover
+    PREP: to
+
+
+SENTID: 11
+SENT: Sprinkle with a little paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: a little paprika
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

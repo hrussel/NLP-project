@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: In a large bowl , combine shredded cabbage and carrot .
+PREDID: 0
+PRED: combine
+  DOBJ: shredded cabbage, carrot
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In a large empty mayonnaise jar , add the 2 cups mayonnaise , vinegar , sugar and dry onion flakes .
+PREDID: 0
+PRED: add
+  DOBJ: the 2 cups mayonnaise , vinegar , sugar, dry onion flakes
+  PARG: a large empty mayonnaise jar
+    PREP: in
+
+
+SENTID: 2
+SENT: Shake well until blended .
+PREDID: 0
+PRED: shake
+  PARG: blended
+    PREP: until
+  OARG: well
+
+
+SENTID: 3
+SENT: Pour dressing mixture over cabbage and carrots and toss well .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing mixture
+  PARG: cabbage, carrots
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: well
+
+
+SENTID: 4
+SENT: Chill and serve .
+PREDID: 0
+PRED: chill
+
+PREDID: 1
+PRED: serve
+

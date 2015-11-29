@@ -1,0 +1,62 @@
+T1	predicate 20 24	heat
+T2	predicate 30 38	stir-fry
+T3	predicate 70 73	Add
+T4	predicate 150 157	combine
+T5	predicate 224 227	Add
+T6	predicate 240 245	bring
+T7	predicate 311 316	Serve
+T8	arg_location 0 18	In a large skillet
+R1	location Arg1:T1 Arg2:T8	
+T9	arg_object 25 28	oil
+R2	object Arg1:T1 Arg2:T9	
+T10	arg_object 39 49	vegetables
+R3	object Arg1:T2 Arg2:T10	
+T11	arg_duration 50 68	until crisp-tender
+R4	duration Arg1:T2 Arg2:T11	
+R5	co-object Arg1:T2 Arg2:T1	
+R6	co-object Arg1:T3 Arg2:T2	
+T12	predicate 97 110	cook and stir
+T13	arg_object 74 81	sausage
+T14	arg_object 86 95	pineapple
+R7	object Arg1:T3 Arg2:T13	
+R8	object Arg1:T3 Arg2:T14	
+R9	object Arg1:T12 Arg2:T3	
+T15	arg_duration 111 131	until heated through
+R10	duration Arg1:T12 Arg2:T15	
+T16	arg_location 133 148	In a small bowl
+R11	location Arg1:T4 Arg2:T16	
+T17	arg_object 158 163	water
+T18	arg_object 165 175	cornstarch
+T19	arg_object 177 186	soy sauce
+T20	arg_object 188 193	sugar
+T21	arg_object 198 222	reserved pineapple juice
+R12	object Arg1:T4 Arg2:T17	
+R13	object Arg1:T4 Arg2:T18	
+R14	object Arg1:T4 Arg2:T19	
+R15	object Arg1:T4 Arg2:T20	
+R16	object Arg1:T4 Arg2:T21	
+R17	object Arg1:T5 Arg2:T4	
+T22	arg_location 228 238	to skillet
+T24	arg_other 246 255	to a boil
+R19	other Arg1:T6 Arg2:T24	
+T25	arg_other 257 276	stirring constantly
+T26	arg_duration 277 309	until thickened, about 2 minutes
+R20	other Arg1:T6 Arg2:T25	
+R21	duration Arg1:T6 Arg2:T26	
+R22	object Arg1:T6 Arg2:T5	
+R23	object Arg1:T7 Arg2:T6	
+T27	arg_co-object 329 338	over rice
+R24	co-object Arg1:T7 Arg2:T27	
+T28	ingredient 25 28	oil
+T29	ingredient 39 49	vegetables
+T30	ingredient 74 81	sausage
+T31	ingredient 86 95	pineapple
+T32	ingredient 158 163	water
+T33	ingredient 165 175	cornstarch
+T34	ingredient 177 186	soy sauce
+T35	ingredient 188 193	sugar
+T36	ingredient 198 222	reserved pineapple juice
+R18	location Arg1:T5 Arg2:T22	
+R25	co-object Arg1:T5 Arg2:T3	
+R26	same-location Arg1:T22 Arg2:T8	
+T23	ingredient 334 338	rice

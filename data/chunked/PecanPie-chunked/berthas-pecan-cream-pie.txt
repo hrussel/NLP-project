@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- In the top of a double boiler , combine yolks , milk , 2/3 cup sugar , cornstarch and salt .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c. -rrb-
+    PREP: to
+  PARG: the top of a double boiler
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: yolks , milk , 2/3 cup sugar , cornstarch, salt
+
+
+SENTID: 1
+SENT: Cook , stirring constantly , until mixture thickens .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: mixture thickens
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 2
+SENT: Stir in 1/2 teaspoon vanilla and 1 cup pecans .
+PREDID: 0
+PRED: stir
+  PARG: 1/2 teaspoon vanilla, 1 cup pecans
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour filling into baked pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: baked pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: In a large glass or metal mixing bowl , beat egg whites until foamy .
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: a large glass or metal mixing bowl
+    PREP: in
+  PARG: foamy
+    PREP: until
+
+
+SENTID: 5
+SENT: Beat in 1/2 teaspoon vanilla and gradually add 6 tablespoons white sugar , continuing to beat until stiff peaks form .
+PREDID: 0
+PRED: beat
+  PARG: 1/2 teaspoon vanilla
+    PREP: in
+  OARG: gradually
+
+PREDID: 1
+PRED: add
+  DOBJ: 6 tablespoons white sugar , continuing
+  PARG: beat
+    PREP: to
+  PARG: stiff peaks form
+    PREP: until
+
+
+SENTID: 6
+SENT: Spread meringue over pie , covering completely .
+PREDID: 0
+PRED: spread
+  DOBJ: meringue
+  PARG: pie , covering
+    PREP: over
+  OARG: completely
+
+
+SENTID: 7
+SENT: Sprinkle with 1/4 cup ground pecans .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/4 cup ground pecans
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake in the preheated oven for 10 to 15 minutes , or until meringue is delicately browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: meringue is delicately browned
+    PREP: until
+

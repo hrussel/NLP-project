@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Fry the curry paste in the oil in a large skillet or wok over medium heat until fragrant .
+PREDID: 0
+PRED: fry
+  DOBJ: the curry paste
+  PARG: the oil
+    PREP: in
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: fragrant
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir the coconut milk into the curry paste and bring to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the coconut milk
+  PARG: the curry paste
+    PREP: into
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add the chicken ;
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+
+SENTID: 3
+SENT: Stir the palm sugar , fish sauce , and lime leaves into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the palm sugar , fish sauce , lime leaves
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: simmer together for 5 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+  OARG: together
+
+
+SENTID: 5
+SENT: Taste and adjust the saltiness by adding more fish sauce if necessary .
+PREDID: 0
+PRED: taste
+  DOBJ: the saltiness
+
+PREDID: 1
+PRED: adjust
+  PARG: adding more fish sauce
+    PREP: by
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 6
+SENT: Garnish with sliced red chile peppers and Thai basil leaves to serve .
+PREDID: 0
+PRED: garnish
+  PARG: sliced red chile peppers, thai basil leaves
+    PREP: with
+  PARG: serve
+    PREP: to
+

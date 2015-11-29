@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the rotini , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the rotini , return
+    PREP: in
+  PARG: a boil
+    PREP: to
+  OARG: once
+
+
+SENTID: 2
+SENT: Cook uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Stir together the mayonnaise , blue cheese dressing , buffalo wing sauce , salt and pepper in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , blue cheese dressing , buffalo wing sauce , salt, pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Add the chicken , bell peppers , red onion , and cooked pasta and toss to coat with the dressing .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken , bell peppers , red onion , cooked pasta
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  PARG: the dressing
+    PREP: with
+
+
+SENTID: 6
+SENT: Cover and chill at least 1 hour in the refrigerator before serving .
+PREDID: 0
+PRED: cover
+  PARG: least 1 hour
+    PREP: at
+
+PREDID: 1
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: before
+

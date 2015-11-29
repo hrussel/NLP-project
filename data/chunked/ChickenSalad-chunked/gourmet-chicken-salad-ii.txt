@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Place chicken in a skillet , and sprinkle with lemon juice and 1/2 the rosemary .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: a skillet
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: lemon juice, 1/2 the rosemary
+    PREP: with
+
+
+SENTID: 1
+SENT: Pour broth into the skillet .
+PREDID: 0
+PRED: pour
+  DOBJ: broth
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 2
+SENT: Bring to a boil , reduce heat to low , and simmer 25 minutes , or until chicken juices run clear .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: chicken juices run clear
+    PREP: until
+  OARG: 25 minutes
+
+
+SENTID: 3
+SENT: Drain , cool , and dice chicken .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: dice
+  DOBJ: chicken
+
+
+SENTID: 4
+SENT: In a large bowl , toss chicken with lemon zest , remaining rosemary , walnuts , celery , blue cheese , mayonnaise , brown mustard , salt and pepper , and garlic powder .
+PREDID: 0
+PRED: toss
+  DOBJ: chicken
+  PARG: a large bowl
+    PREP: in
+  PARG: lemon zest , remaining rosemary , walnuts , celery , blue cheese , mayonnaise , brown mustard , salt, pepper , garlic powder
+    PREP: with
+
+
+SENTID: 5
+SENT: Chill in the refrigerator at least 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

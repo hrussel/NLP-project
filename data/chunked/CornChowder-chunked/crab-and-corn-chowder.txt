@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: Cook the bacon in a 4-quart saucepan over medium-high heat for 5 minutes or until the bacon is crisp .
+PREDID: 0
+PRED: cook
+  DOBJ: the bacon
+  PARG: a 4-quart saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: 5 minutes
+    PREP: for
+  PARG: the bacon is crisp
+    PREP: until
+
+
+SENTID: 1
+SENT: Remove the bacon with a fork or kitchen tongs and drain on paper towels .
+PREDID: 0
+PRED: remove
+  DOBJ: the bacon
+  PARG: a fork or kitchen tongs
+    PREP: with
+
+PREDID: 1
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 2
+SENT: Crumble and set aside .
+PREDID: 0
+PRED: crumble
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: Pour off all but 2 tablespoons of drippings .
+PREDID: 0
+PRED: pour
+  PARG: all but 2 tablespoons of drippings
+    PREP: off
+
+
+SENTID: 4
+SENT: Reduce the heat to medium .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 5
+SENT: Add the onions and garlic and cook in the hot bacon drippings until tender .
+PREDID: 0
+PRED: add
+  DOBJ: the onions, garlic
+
+PREDID: 1
+PRED: cook
+  PARG: the hot bacon drippings
+    PREP: in
+  PARG: tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the broth , seafood seasoning , potatoes and corn .
+PREDID: 0
+PRED: stir
+  PARG: the broth , seafood seasoning , potatoes, corn
+    PREP: in
+
+
+SENTID: 7
+SENT: Heat to a boil .
+PREDID: 0
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce the heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 9
+SENT: Cook for 15 minutes or until the potatoes are tender .
+PREDID: 0
+PRED: cook
+  PARG: 15 minutes
+    PREP: for
+  PARG: the potatoes are tender
+    PREP: until
+
+
+SENTID: 10
+SENT: Add the crabmeat and cream .
+PREDID: 0
+PRED: add
+  DOBJ: the crabmeat
+
+PREDID: 1
+PRED: cream
+
+
+SENTID: 11
+SENT: Cook for 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Divide the chowder among 6 serving bowls .
+PREDID: 0
+PRED: divide
+  DOBJ: the chowder
+  PARG: 6 serving bowls
+    PREP: among
+
+
+SENTID: 13
+SENT: Top each with about 1 tablespoon of bacon .
+PREDID: 0
+PRED: top
+  DOBJ: each with
+  PARG: 1 tablespoon of bacon
+    PREP: about
+

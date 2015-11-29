@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Place egg noodles in the pot , cook for 8 to 10 minutes , until al dente , and drain .
+PREDID: 0
+PRED: place
+  DOBJ: egg noodles
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 2
+SENT: Heat the oil in a skillet over medium heat , and saute the tofu 5 minutes on each side , until lightly browned .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  PARG: each side
+    PREP: on
+  PARG: lightly browned
+    PREP: until
+  OARG: the tofu 5 minutes
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Place the onions in the skillet , and cook until tender .
+PREDID: 0
+PRED: place
+  DOBJ: the onions
+  PARG: the skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix in mushrooms , garlic , and soy sauce , and cook until heated through .
+PREDID: 0
+PRED: mix
+  PARG: mushrooms , garlic , soy sauce
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 6
+SENT: In a bowl , mix the cottage cheese , sour cream , and dill .
+PREDID: 0
+PRED: mix
+  DOBJ: the cottage cheese , sour cream , dill
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir into the skillet .
+PREDID: 0
+PRED: stir
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 8
+SENT: Return tofu to skillet , and continue cooking just until heated through .
+PREDID: 0
+PRED: return
+  DOBJ: tofu
+  PARG: skillet
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  DOBJ: cooking
+  PARG: heated through
+    PREP: until
+  OARG: just
+
+
+SENTID: 9
+SENT: Serve over the cooked noodles .
+PREDID: 0
+PRED: serve
+  PARG: the cooked noodles
+    PREP: over
+

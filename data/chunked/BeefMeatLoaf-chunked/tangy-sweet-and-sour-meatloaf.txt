@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the ground beef , bread crumbs , salt , ground black pepper , eggs , onion flakes and 1/2 of the can of tomato sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , bread crumbs , salt , ground black pepper , eggs , onion flakes, 1/2 of the can of tomato sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix together well and place into a 5x9 inch loaf pan .
+PREDID: 0
+PRED: mix
+  PARG: a 5x9 inch loaf pan
+    PREP: into
+  OARG: together
+  OARG: well
+
+PREDID: 1
+PRED: place
+
+
+SENTID: 3
+SENT: Push the meatloaf down into the pan forming a well for the sauce around all the edges .
+PREDID: 0
+PRED: push
+  DOBJ: forming a well
+  PARG: the pan
+    PREP: into
+  PARG: the sauce
+    PREP: for
+  PARG: all the edges
+    PREP: around
+  OARG: down
+  OARG: the meatloaf
+
+
+SENTID: 4
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Meanwhile , in a small saucepan over medium heat , combine the remaining tomato sauce , SPLENDA ¨ Brown Sugar Blend , vinegar , SPLENDA ¨ Granulated Sweetener and mustard .
+PREDID: 0
+PRED: combine
+  DOBJ: the remaining tomato sauce , splenda ¨ brown sugar blend , vinegar , splenda ¨ granulated sweetener, mustard
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Bring to a boil and remove from heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 7
+SENT: After meatloaf has cooked for 40 minutes , remove from oven and pour sauce over the top of the meatloaf .
+PREDID: 0
+PRED: remove
+  PARG: meatloaf has cooked
+    PREP: after
+  PARG: 40 minutes
+    PREP: for
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: pour
+  DOBJ: sauce
+  PARG: the top of the meatloaf
+    PREP: over
+
+
+SENTID: 8
+SENT: Return to oven and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 more minutes .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 20 more minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Let sit 5 minutes before removing from pan .
+PREDID: 0
+PRED: let
+  PARG: removing
+    PREP: before
+  PARG: pan
+    PREP: from
+  OARG: sit 5 minutes
+

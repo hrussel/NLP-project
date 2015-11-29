@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Brown beef and onion in a large skillet over medium high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Place browned mixture in a large pot and stir in the tomato sauce , garlic , Worcestershire sauce , cinnamon , vinegar , chili powder , cayenne pepper , salt and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: browned mixture
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the tomato sauce , garlic , worcestershire sauce , cinnamon , vinegar , chili powder , cayenne pepper , salt, pepper
+    PREP: in
+
+
+SENTID: 2
+SENT: Simmer , uncovered , over low heat for 1Ê1/2 hours .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: low heat
+    PREP: over
+  PARG: 1Ê1/2 hours
+    PREP: for
+
+
+SENTID: 3
+SENT: When meat mixture has about 20 minutes cooking time left , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: 20 minutes cooking time left
+    PREP: about
+  PARG: a boil
+    PREP: to
+  OARG: when meat mixture has
+
+
+SENTID: 4
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 6
+SENT: Serve meat mixture over cooked spaghetti topped with cheese , beans , olives and chopped onion .
+PREDID: 0
+PRED: serve
+  DOBJ: meat mixture
+  PARG: cooked spaghetti topped
+    PREP: over
+  PARG: cheese , beans , olives, chopped onion
+    PREP: with
+

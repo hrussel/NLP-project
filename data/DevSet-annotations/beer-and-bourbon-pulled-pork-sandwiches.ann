@@ -1,0 +1,159 @@
+T1	predicate 0 7	Combine
+T2	arg_object 8 15	paprika
+R1	object Arg1:T1 Arg2:T2	
+T5	arg_object 46 53	oregano
+T6	arg_object 55 60	thyme
+T8	arg_location 71 86	in a small bowl
+R4	object Arg1:T1 Arg2:T5	
+R5	object Arg1:T1 Arg2:T6	
+R7	location Arg1:T1 Arg2:T8	
+T9	predicate 88 94	season
+R8	object Arg1:T9 Arg2:T1	
+T11	predicate 114 118	Blot
+T12	arg_object 119 129	pork chops
+T13	arg_duration 130 133	dry
+T14	arg_other 134 151	with paper towels
+T15	predicate 158 161	rub
+T16	arg_co-object 162 182	with paprika mixture
+R9	co-object Arg1:T15 Arg2:T16	
+R11	object Arg1:T11 Arg2:T12	
+R12	duration Arg1:T11 Arg2:T13	
+R13	other Arg1:T11 Arg2:T14	
+R10	object Arg1:T15 Arg2:T11	
+T17	predicate 184 188	Heat
+T18	arg_object 189 219	about 2 tablespoons canola oil
+T19	arg_location 220 242	in a non-stick skillet
+T20	arg_other 243 265	over medium-high heat.
+R14	object Arg1:T17 Arg2:T18	
+R15	location Arg1:T17 Arg2:T19	
+R16	other Arg1:T17 Arg2:T20	
+T21	predicate 266 269	Fry
+T22	arg_object 270 280	pork chops
+T24	Evolution 270 280	pork chops
+E1	Evolution:T24 Cause:T15
+T23	arg_duration 292 331	until browned, about 5 minutes per side
+T25	arg_other 281 291	in batches
+R17	object Arg1:T21 Arg2:T22	
+R18	object Arg1:T21 Arg2:T25	
+R19	duration Arg1:T21 Arg2:T23	
+T26	predicate 333 341	Transfer
+T27	arg_object 342 360	browned pork chops
+T28	Evolution 342 360	browned pork chops
+E2	Evolution:T28 Cause:T21
+T29	arg_location 361 377	to a slow cooker
+R20	object Arg1:T26 Arg2:T27	
+R21	location Arg1:T26 Arg2:T29	
+T30	predicate 379 383	Wipe
+T31	arg_object 384 391	skillet
+T32	arg_duration 392 397	clean
+R22	object Arg1:T30 Arg2:T31	
+R23	duration Arg1:T30 Arg2:T32	
+T34	arg_object 407 442	remaining 1 1/2 teaspoon canola oil
+T35	arg_object 447 453	butter
+T36	arg_other 454 470	over medium heat
+T38	arg_object 486 492	onions
+T39	arg_object 494 509	1/2 bottle beer
+T41	arg_duration 531 591	until onion is tender and slightly browned, about 10 minutes
+T42	predicate 593 596	Add
+T43	arg_object 597 609	liquid smoke
+T44	predicate 611 617	Spread
+T45	arg_object 618 624	onions
+T46	arg_co-object 625 634	over pork
+R33	object Arg1:T44 Arg2:T45	
+R34	co-object Arg1:T44 Arg2:T46	
+T47	Evolution 618 624	onions
+E3	Evolution:T47 Cause:T42
+T49	predicate 636 639	Mix
+T50	arg_object 640 654	barbeque sauce
+T51	arg_object 656 670	remaining beer
+T52	arg_object 672 692	Worcestershire sauce
+T53	arg_object 694 700	garlic
+T54	arg_object 702 709	bourbon
+T55	arg_object 715 724	hot sauce
+R35	object Arg1:T49 Arg2:T50	
+R36	object Arg1:T49 Arg2:T51	
+R37	object Arg1:T49 Arg2:T52	
+R38	object Arg1:T49 Arg2:T53	
+R39	object Arg1:T49 Arg2:T54	
+R40	object Arg1:T49 Arg2:T55	
+T57	predicate 736 740	pour
+T58	arg_co-object 741 750	over pork
+R42	co-object Arg1:T57 Arg2:T58	
+R43	object Arg1:T57 Arg2:T49	
+T59	predicate 752 756	Cook
+T60	arg_object 757 761	pork
+T61	arg_other 762 768	on Low
+T62	arg_duration 769 801	until very tender, about 8 hours
+R44	object Arg1:T59 Arg2:T60	
+R45	other Arg1:T59 Arg2:T61	
+R46	duration Arg1:T59 Arg2:T62	
+T64	Evolution 757 761	pork
+E6	Evolution:T64 Cause:T57
+T65	predicate 803 808	Shred
+T66	predicate 813 819	divide
+T67	arg_object 820 824	pork
+R47	object Arg1:T65 Arg2:T67	
+T69	Evolution 820 824	pork
+E7	Evolution:T69 Cause:T59
+T70	Evolution 167 182	paprika mixture
+E8	Evolution:T70 Cause:T9
+R50	location Arg1:T21 Arg2:T17	
+R53	object Arg1:T42 Arg2:T43	
+T48	Evolution 630 634	pork
+E4	Evolution:T48 Cause:T26
+T63	Evolution 746 750	pork
+E5	Evolution:T63 Cause:T44
+T71	Evolution 384 391	skillet
+E9	Evolution:T71 Cause:T26
+T3	arg_object 17 29	onion powder
+R2	object Arg1:T1 Arg2:T3	
+T10	arg_co-object 95 112	with black pepper
+R31	co-object Arg1:T9 Arg2:T10	
+T72	ingredient 8 15	paprika
+T73	ingredient 17 29	onion powder
+T74	ingredient 31 44	garlic powder
+T75	ingredient 46 53	oregano
+T76	ingredient 55 60	thyme
+T77	ingredient 66 70	salt
+T78	ingredient 100 112	black pepper
+T79	ingredient 119 129	pork chops
+T80	ingredient 189 219	about 2 tablespoons canola oil
+T81	ingredient 407 442	remaining 1 1/2 teaspoon canola oil
+T82	ingredient 447 453	butter
+T83	ingredient 486 492	onions
+T84	ingredient 494 509	1/2 bottle beer
+T40	arg_object 515 530	a pinch of salt
+T85	ingredient 515 530	a pinch of salt
+T86	ingredient 597 609	liquid smoke
+T87	ingredient 640 654	barbeque sauce
+T88	ingredient 656 670	remaining beer
+T89	ingredient 672 692	Worcestershire sauce
+T90	ingredient 694 700	garlic
+T91	ingredient 702 709	bourbon
+T92	ingredient 715 724	hot sauce
+T68	arg_co-object 825 835	over rolls
+R49	co-object Arg1:T66 Arg2:T68	
+T95	ingredient 830 835	rolls
+T4	arg_object 31 44	garlic powder
+R3	object Arg1:T1 Arg2:T4	
+T7	arg_object 66 70	salt
+R6	object Arg1:T1 Arg2:T7	
+T56	arg_location 725 734	in a bowl
+R41	location Arg1:T49 Arg2:T56	
+T33	predicate 402 406	heat
+R24	location Arg1:T33 Arg2:T30	
+R25	object Arg1:T33 Arg2:T34	
+R26	object Arg1:T33 Arg2:T35	
+R51	other Arg1:T33 Arg2:T36	
+R48	object Arg1:T66 Arg2:T65	
+T93	arg_other 836 854	to make sandwiches
+R54	other Arg1:T66 Arg2:T93	
+T37	predicate 472 476	cook
+T94	predicate 481 485	stir
+R27	object Arg1:T37 Arg2:T33	
+R28	co-object Arg1:T94 Arg2:T37	
+R29	object Arg1:T94 Arg2:T38	
+R30	object Arg1:T94 Arg2:T39	
+R32	object Arg1:T94 Arg2:T40	
+R52	duration Arg1:T94 Arg2:T41	
+R55	co-object Arg1:T42 Arg2:T94	

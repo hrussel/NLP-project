@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place bacon in a skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove to paper towels to drain .
+PREDID: 0
+PRED: remove
+  PARG: paper towels
+    PREP: to
+  PARG: drain
+    PREP: to
+
+
+SENTID: 3
+SENT: Spread the pizza crust out on a pizza pan or large baking sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: the pizza crust
+  PARG: on a pizza pan or large baking sheet
+    PREP: out
+
+
+SENTID: 4
+SENT: Top with mozzarella cheese , bacon pieces , asparagus , and tomatoes .
+PREDID: 0
+PRED: top
+  PARG: mozzarella cheese , bacon pieces , asparagus , tomatoes
+    PREP: with
+
+
+SENTID: 5
+SENT: Dot with goat cheese , then season with red pepper flakes and black pepper .
+PREDID: 0
+PRED: dot
+  PARG: goat cheese
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: season
+  PARG: red pepper flakes, black pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Let cool for about 5 minutes before slicing and serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: about 5 minutes
+    PREP: for
+  PARG: slicing, serving
+    PREP: before
+

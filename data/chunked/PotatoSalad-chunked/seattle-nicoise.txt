@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Break the salmon into large but still bite-sized chunks and set aside .
+PREDID: 0
+PRED: break
+  DOBJ: bite-sized chunks
+  PARG: large
+    PREP: into
+  OARG: still
+  OARG: the salmon
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: Drain completely , and then cut into bite-sized chunks .
+PREDID: 0
+PRED: drain
+  OARG: completely
+  OARG: then
+
+PREDID: 1
+PRED: cut
+  PARG: bite-sized chunks
+    PREP: into
+
+
+SENTID: 2
+SENT: Place in a large bowl and pour half of the dressing over them .
+PREDID: 0
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: half of the dressing
+  PARG: them
+    PREP: over
+
+
+SENTID: 3
+SENT: Add the egg wedges , beans , olives , tomatoes and salmon chunks .
+PREDID: 0
+PRED: add
+  DOBJ: the egg wedges , beans , olives , tomatoes, salmon chunks
+
+
+SENTID: 4
+SENT: Drizzle vinaigrette to taste , then salt and pepper as desired .
+PREDID: 0
+PRED: drizzle
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+  PARG: desired
+    PREP: as
+  OARG: then
+  OARG: vinaigrette
+
+
+SENTID: 5
+SENT: Gently stir together and serve warm .
+PREDID: 0
+PRED: stir
+  DOBJ: warm
+  OARG: gently
+  OARG: together
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- Place ground beef and onion in a large , deep skillet .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c. -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: place
+  DOBJ: ground beef, onion
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 4
+SENT: Cook over medium high heat until meat is evenly brown , and onion is tender .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: meat is evenly brown , onion is tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 6
+SENT: Stir in noodles , condensed tomato soup , condensed mushroom soup , sliced mushrooms and 1 cup cheese .
+PREDID: 0
+PRED: stir
+  PARG: noodles , condensed tomato soup , condensed mushroom soup , sliced mushrooms, 1 cup cheese
+    PREP: in
+
+
+SENTID: 7
+SENT: Season with garlic powder , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: garlic powder , salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Pour into a 9x13 inch baking dish .
+PREDID: 0
+PRED: pour
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Sprinkle top with remaining 1/2 cup cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top
+  PARG: remaining 1/2 cup cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+

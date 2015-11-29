@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Place the eggs in a pan of cold water and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a pan of cold water
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Once they boil , remove from the heat , cover and let stand for 10 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: they boil
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: cover
+  DOBJ: stand
+
+PREDID: 2
+PRED: let
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Drain , cool and peel .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 3
+SENT: Place the potato in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potato
+  PARG: a saucepan
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 4
+SENT: Bring to a boil , and cook until tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Cut the eggs in half lengthwise , and remove the yolks ;
+PREDID: 0
+PRED: cut
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: the yolks
+
+
+SENTID: 7
+SENT: reserve for other uses or discard .
+PREDID: 0
+PRED: reserve
+  PARG: other uses
+    PREP: for
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 8
+SENT: Place the potatoes in a medium bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Mash with a whisk until smooth , then mix in the relish , sugar , mayonnaise and mustard .
+PREDID: 0
+PRED: mash
+  PARG: a whisk
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: mix
+  PARG: the relish , sugar , mayonnaise, mustard
+    PREP: in
+
+
+SENTID: 10
+SENT: Spoon into the egg whites , and dust with paprika .
+PREDID: 0
+PRED: spoon
+  PARG: the egg whites
+    PREP: into
+
+PREDID: 1
+PRED: dust
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 11
+SENT: Refrigerate or serve .
+PREDID: 0
+PRED: refrigerate
+
+PREDID: 1
+PRED: serve
+

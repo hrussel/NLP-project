@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: Place the Russet potato pieces into a large saucepan , and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the russet potato pieces
+  PARG: a large saucepan
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , turn the heat down , and simmer for 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: turn
+  DOBJ: the heat
+  OARG: down
+
+PREDID: 2
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Add the sweet potato , and cook about 15 minutes more .
+PREDID: 0
+PRED: add
+  DOBJ: the sweet potato
+
+PREDID: 1
+PRED: cook
+  PARG: 15 minutes more
+    PREP: about
+
+
+SENTID: 3
+SENT: Remove a piece of each potato , and cut it in half to see if it is cooked enough .
+PREDID: 0
+PRED: remove
+  DOBJ: a piece of each potato
+
+PREDID: 1
+PRED: cut
+  DOBJ: it
+  PARG: half
+    PREP: in
+  PARG: see
+    PREP: to
+  PARG: it is cooked
+    PREP: if
+  OARG: enough
+
+
+SENTID: 4
+SENT: Once the potatoes are tender , add corn kernels ;
+PREDID: 0
+PRED: add
+  DOBJ: the potatoes are tender
+  OARG: once
+
+
+SENTID: 5
+SENT: cook another 30 seconds .
+PREDID: 0
+PRED: cook
+  OARG: another 30 seconds
+
+
+SENTID: 6
+SENT: Drain through a colander .
+PREDID: 0
+PRED: drain
+  DOBJ: a colander
+  OARG: through
+
+
+SENTID: 7
+SENT: Fill the saucepan with cold water , and drop vegetables into water .
+PREDID: 0
+PRED: fill
+  DOBJ: the saucepan
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: drop
+  DOBJ: vegetables
+  PARG: water
+    PREP: into
+
+
+SENTID: 8
+SENT: Cool for 5 minutes , and drain .
+PREDID: 0
+PRED: cool
+  PARG: 5 minutes
+    PREP: for
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 9
+SENT: In a large bowl , whisk together mustard , lime juice , cilantro , and garlic .
+PREDID: 0
+PRED: whisk
+  DOBJ: mustard , lime juice , cilantro , garlic
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Slowly whisk in oil .
+PREDID: 0
+PRED: whisk
+  PARG: oil
+    PREP: in
+  OARG: slowly
+
+
+SENTID: 11
+SENT: Mix in salt and black pepper .
+PREDID: 0
+PRED: mix
+  PARG: salt, black pepper
+    PREP: in
+
+
+SENTID: 12
+SENT: Cut cooled potatoes into 1 inch cubes , and add to dressing along with cucumber , and red onion .
+PREDID: 0
+PRED: cut
+  DOBJ: cooled potatoes
+  PARG: 1 inch cubes
+    PREP: into
+
+PREDID: 1
+PRED: add
+  PARG: dressing
+    PREP: to
+  PARG: with cucumber , red onion
+    PREP: along
+
+
+SENTID: 13
+SENT: Toss well .
+PREDID: 0
+PRED: toss
+  OARG: well
+
+
+SENTID: 14
+SENT: Serve at room temperature or chilled .
+PREDID: 0
+PRED: serve
+  PARG: room temperature or chilled
+    PREP: at
+
+
+SENTID: 15
+SENT: Toss the peanuts in just before serving .
+PREDID: 0
+PRED: toss
+  DOBJ: the peanuts
+  PARG: just
+    PREP: in
+  PARG: serving
+    PREP: before
+

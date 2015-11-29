@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Bring a large pot of salted water to a boil , and cook potatoes 10 to 15 minutes , until tender but firm .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender but firm
+    PREP: until
+  OARG: potatoes 10 to 15 minutes
+
+
+SENTID: 2
+SENT: Drain , and transfer to a medium bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a medium bowl
+    PREP: to
+
+
+SENTID: 3
+SENT: In a small bowl , mix canola oil , vinegar , Dijon mustard , celery salt , and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: canola oil , vinegar , dijon mustard , celery salt , pepper
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Toss 1/2 the mixture with the potatoes .
+PREDID: 0
+PRED: toss
+  DOBJ: 1/2 the mixture
+  PARG: the potatoes
+    PREP: with
+
+
+SENTID: 5
+SENT: Arrange potatoes in a single layer on a sheet of foil , and place on the prepared grill .
+PREDID: 0
+PRED: arrange
+  DOBJ: potatoes
+  PARG: a single layer
+    PREP: in
+  PARG: a sheet of foil
+    PREP: on
+
+PREDID: 1
+PRED: place
+  PARG: the prepared grill
+    PREP: on
+
+
+SENTID: 6
+SENT: Turning occasionally , cook 7 to 9 minutes , until lightly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: turning
+  PARG: lightly browned
+    PREP: until
+  OARG: occasionally
+  OARG: 7 to 9 minutes
+
+
+SENTID: 7
+SENT: Remove from heat , and cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 8
+SENT: Toss with remaining oil mixture to serve .
+PREDID: 0
+PRED: toss
+  PARG: remaining oil mixture
+    PREP: with
+  PARG: serve
+    PREP: to
+

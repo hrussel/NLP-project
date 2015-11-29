@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Mix eggs , milk , salt , and nutmeg together with a fork , until the whole mixture is pale yellow .
+PREDID: 0
+PRED: mix
+  DOBJ: eggs , milk , salt , nutmeg
+  PARG: a fork
+    PREP: with
+  PARG: the whole mixture is pale yellow
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour this into a low , flat pan or a large , shallow dish .
+PREDID: 0
+PRED: pour
+  DOBJ: this into a low , flat pan or a large , shallow dish
+
+
+SENTID: 2
+SENT: Let the halves or the slices of bread soak on each side in the egg mixture .
+PREDID: 0
+PRED: let
+  DOBJ: the halves or the slices of bread
+
+PREDID: 1
+PRED: soak
+  PARG: each side
+    PREP: on
+  PARG: the egg mixture
+    PREP: in
+
+
+SENTID: 3
+SENT: Spread a layer of granulated sugar on a plate , and dip both sides of the bread in sugar .
+PREDID: 0
+PRED: spread
+  DOBJ: a layer of granulated sugar
+  PARG: a plate
+    PREP: on
+
+PREDID: 1
+PRED: dip
+  DOBJ: both sides of the bread
+  PARG: sugar
+    PREP: in
+
+
+SENTID: 4
+SENT: Heat a griddle or skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a griddle or skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Put about half a tablespoon of butter in the pan , and let it melt .
+PREDID: 0
+PRED: put
+  PARG: half a tablespoon of butter
+    PREP: about
+  PARG: the pan
+    PREP: in
+
+PREDID: 1
+PRED: let
+  DOBJ: it melt
+
+
+SENTID: 6
+SENT: Place two muffin halves or slices of bread in the pan .
+PREDID: 0
+PRED: place
+  DOBJ: two muffin halves or slices of bread
+  PARG: the pan
+    PREP: in
+
+
+SENTID: 7
+SENT: Cook for 2 to 3 minutes on each side .
+PREDID: 0
+PRED: cook
+  PARG: 2 to 3 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+
+
+SENTID: 8
+SENT: Wipe old butter out of pan , and repeat with remaining slices of bread .
+PREDID: 0
+PRED: wipe
+  DOBJ: old butter
+  PARG: of pan
+    PREP: out
+
+PREDID: 1
+PRED: repeat
+  PARG: remaining slices of bread
+    PREP: with
+

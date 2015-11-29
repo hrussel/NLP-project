@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , place in a large mixing bowl and beat until smooth .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: place
+  PARG: a large mixing bowl
+    PREP: in
+
+PREDID: 2
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water , cool , peel and chop .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chop
+
+
+SENTID: 7
+SENT: In a mixing bowl , combine the potatoes , eggs , onion , celery , relish and pimentos .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , eggs , onion , celery , relish, pimentos
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Blend together the mustard and salad dressing , add to salad and mix well .
+PREDID: 0
+PRED: blend
+  DOBJ: the mustard, salad dressing
+  OARG: together
+
+PREDID: 1
+PRED: add
+  PARG: salad
+    PREP: to
+
+PREDID: 2
+PRED: mix
+  OARG: well
+
+
+SENTID: 9
+SENT: Sprinkle with paprika and refrigerate until chilled .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+

@@ -1,0 +1,225 @@
+SENTID: 0
+SENT: Sprinkle yeast over warm water in a small bowl .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: yeast
+  PARG: warm water
+    PREP: over
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Let stand for 5 minutes until yeast softens and begins to form a creamy foam .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+  PARG: yeast softens, begins to form a creamy foam
+    PREP: until
+
+
+SENTID: 2
+SENT: Sift flour , sugar , 1 tablespoon oregano , and 1 teaspoon salt into a large bowl .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , sugar , 1 tablespoon oregano , 1 teaspoon salt
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 3
+SENT: Mix egg and oil into dry ingredients ;
+PREDID: 0
+PRED: mix
+  DOBJ: egg
+
+PREDID: 1
+PRED: oil
+  PARG: dry ingredients
+    PREP: into
+
+
+SENTID: 4
+SENT: stir in yeast mixture .
+PREDID: 0
+PRED: stir
+  PARG: yeast mixture
+    PREP: in
+
+
+SENTID: 5
+SENT: When dough has pulled together , turn out onto a lightly floured surface and knead until smooth and elastic , about 8 minutes .
+PREDID: 0
+PRED: turn
+  PARG: onto a lightly floured surface
+    PREP: out
+  OARG: when dough has pulled
+  OARG: together
+
+PREDID: 1
+PRED: knead
+  PARG: smooth, elastic , about 8 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Lightly oil a large bowl , then place dough in bowl and turn to coat with oil .
+PREDID: 0
+PRED: oil
+  DOBJ: a large bowl
+  OARG: lightly
+  OARG: then
+
+PREDID: 1
+PRED: place
+  DOBJ: dough
+  PARG: bowl
+    PREP: in
+
+PREDID: 2
+PRED: turn
+  PARG: coat
+    PREP: to
+  PARG: oil
+    PREP: with
+
+
+SENTID: 7
+SENT: Cover with a light cloth and let rise in a warm place -LRB- 80 to 95 degrees F -LRB- 27 to 35 degrees C -RRB- -RRB- until doubled in volume , about 1 hour .
+PREDID: 0
+PRED: cover
+  PARG: a light cloth, let rise
+    PREP: with
+  PARG: a warm
+    PREP: in
+
+PREDID: 1
+PRED: place
+  DOBJ: 80 to 95 degrees f -lrb- 27 to 35 degrees c -rrb- -rrb-
+  PARG: doubled in volume , about 1 hour
+    PREP: until
+
+
+SENTID: 8
+SENT: Preheat oven to 450 degrees F -LRB- 235 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 235 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Lightly grease a baking sheet .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking sheet
+  OARG: lightly
+
+
+SENTID: 10
+SENT: Cook and stir diced tomatoes , tomato paste , onion , 1 tablespoon oregano , garlic , onion powder , 1 teaspoon salt , and pepper in a saucepan over medium heat .
+PREDID: 0
+PRED: cook
+  DOBJ: diced tomatoes , tomato paste , onion , 1 tablespoon oregano , garlic , onion powder , 1 teaspoon salt , pepper
+
+PREDID: 1
+PRED: stir
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Cook until sauce has thickened , 15 to 20 minutes .
+PREDID: 0
+PRED: cook
+  PARG: sauce has thickened , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Punch down dough and turn it out onto a lightly floured surface .
+PREDID: 0
+PRED: punch
+  DOBJ: dough
+  OARG: down
+
+PREDID: 1
+PRED: turn
+  DOBJ: it
+  PARG: onto a lightly floured surface
+    PREP: out
+
+
+SENTID: 13
+SENT: Shape dough into rounds and let rest for 10 minutes .
+PREDID: 0
+PRED: shape
+  DOBJ: dough
+  PARG: rounds, let rest
+    PREP: into
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Form dough into rectangles , and place onto prepared baking sheet .
+PREDID: 0
+PRED: form
+  DOBJ: dough
+  PARG: rectangles
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: prepared baking sheet
+    PREP: onto
+
+
+SENTID: 15
+SENT: Spoon tomato sauce over dough .
+PREDID: 0
+PRED: spoon
+  DOBJ: tomato sauce
+  PARG: dough
+    PREP: over
+
+
+SENTID: 16
+SENT: Sprinkle with 1Ê1/4 cup mozzarella cheese ;
+PREDID: 0
+PRED: sprinkle
+  PARG: 1Ê1/4 cup mozzarella cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: top with bell pepper , onion , and mushroom .
+PREDID: 0
+PRED: top
+  PARG: bell pepper , onion , mushroom
+    PREP: with
+
+
+SENTID: 18
+SENT: Sprinkle 1/4 cup mozzarella cheese over top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/4 cup mozzarella cheese
+  PARG: top
+    PREP: over
+
+
+SENTID: 19
+SENT: Bake in preheated oven until crust is browned and crisp and cheese has melted , 20 to 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: crust is browned, crisp, cheese has melted , 20 to 25 minutes
+    PREP: until
+

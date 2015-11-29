@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: Heat olive oil and butter in a large , heavy pot or Dutch oven over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+
+PREDID: 1
+PRED: butter
+  PARG: a large , heavy pot or dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Combine flour , salt , and black pepper in a bowl and toss beef stew meat in seasoned flour .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , salt , black pepper
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  DOBJ: beef stew meat
+  PARG: seasoned flour
+    PREP: in
+
+
+SENTID: 2
+SENT: Brown the beef in the hot oil and butter , stirring often , and remove meat from pan .
+PREDID: 0
+PRED: brown
+  DOBJ: the beef
+  PARG: the hot oil
+    PREP: in
+
+PREDID: 1
+PRED: butter
+  DOBJ: stirring
+  OARG: often
+
+PREDID: 2
+PRED: remove
+  DOBJ: meat
+  PARG: pan
+    PREP: from
+
+
+SENTID: 3
+SENT: Pour white wine into pan and scrape up and dissolve any small bits of browned food ;
+PREDID: 0
+PRED: pour
+  DOBJ: white wine
+  PARG: pan
+    PREP: into
+
+PREDID: 1
+PRED: scrape
+  DOBJ: any small bits of browned food
+  OARG: up
+
+PREDID: 2
+PRED: dissolve
+
+
+SENTID: 4
+SENT: stir onion and garlic into white wine .
+PREDID: 0
+PRED: stir
+  DOBJ: onion, garlic
+  PARG: white wine
+    PREP: into
+
+
+SENTID: 5
+SENT: Cook until onion is translucent , stirring often , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: onion is translucent , stirring often , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Return browned beef to pan .
+PREDID: 0
+PRED: return
+  DOBJ: browned beef
+  PARG: pan
+    PREP: to
+
+
+SENTID: 7
+SENT: Stir ketchup , Worcestershire sauce , and juice from canned mushrooms with beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: ketchup , worcestershire sauce , juice
+  PARG: canned mushrooms
+    PREP: from
+  PARG: beef mixture
+    PREP: with
+
+
+SENTID: 8
+SENT: Reduce heat to low , cover pan , and simmer until beef is tender , about 3 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  DOBJ: pan
+
+PREDID: 2
+PRED: simmer
+  PARG: beef is tender , about 3 hours
+    PREP: until
+
+
+SENTID: 9
+SENT: Mix button mushrooms and sour cream into beef mixture and heat through , about 5 minutes .
+PREDID: 0
+PRED: mix
+  DOBJ: button mushrooms, sour cream
+  PARG: beef mixture
+    PREP: into
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 10
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 11
+SENT: Cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 12
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 13
+SENT: Serve Stroganoff over cooked egg noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: stroganoff
+  PARG: cooked egg noodles
+    PREP: over
+

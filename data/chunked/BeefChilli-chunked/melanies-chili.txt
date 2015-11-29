@@ -1,0 +1,34 @@
+SENTID: 0
+SENT: In a large saucepan over medium-high heat , cook beef and onion until meat is no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: beef, onion
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: meat is no longer pink
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in tomatoes , tomato sauce , beans , chili powder , cumin , cayenne and garlic .
+PREDID: 0
+PRED: stir
+  PARG: tomatoes , tomato sauce , beans , chili powder , cumin , cayenne, garlic
+    PREP: in
+
+
+SENTID: 2
+SENT: Cover , reduce heat and simmer 20 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  OARG: 20 minutes
+

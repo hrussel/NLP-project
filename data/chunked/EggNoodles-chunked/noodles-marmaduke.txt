@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Melt the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the onions , garlic and mushrooms ;
+PREDID: 0
+PRED: add
+  DOBJ: the onions , garlic, mushrooms
+
+
+SENTID: 2
+SENT: cook and stir until lightly browned .
+PREDID: 0
+PRED: cook
+  PARG: lightly browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Crumble in the ground beef , and cook until no longer pink .
+PREDID: 0
+PRED: crumble
+  PARG: the ground beef
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: no longer pink
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 5
+SENT: Stir in the Burgundy wine , scraping any bits of food from the bottom of the pan to flavor the sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: scraping any bits of food
+  PARG: the burgundy wine
+    PREP: in
+  PARG: the bottom of the pan
+    PREP: from
+  PARG: flavor the sauce
+    PREP: to
+
+
+SENTID: 6
+SENT: Then stir in the lemon juice , beef consomme , salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the lemon juice , beef consomme , salt, pepper
+    PREP: in
+  OARG: then
+
+
+SENTID: 7
+SENT: Simmer uncovered for 15 minutes .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Mix the uncooked noodles into the skillet .
+PREDID: 0
+PRED: mix
+  DOBJ: the uncooked noodles
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 9
+SENT: Cover , and simmer for 10 minutes , or until noodles are tender .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+  PARG: noodles are tender
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove from the heat and stir in the sour cream .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: the sour cream
+    PREP: in
+
+
+SENTID: 11
+SENT: Sprinkle parsley over the top and serve .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: parsley
+  PARG: the top
+    PREP: over
+
+PREDID: 1
+PRED: serve
+

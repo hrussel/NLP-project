@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Melt butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add beef and the onions ;
+PREDID: 0
+PRED: add
+  DOBJ: beef, the onions
+
+
+SENTID: 2
+SENT: cook until the meat is browned and the onion tender .
+PREDID: 0
+PRED: cook
+  PARG: the meat is browned, the onion tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in sour cream , and heat through .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+

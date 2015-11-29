@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Place chicken breasts into a saucepan with enough water to cover them .
+PREDID: 0
+PRED: place
+  DOBJ: chicken breasts
+  PARG: a saucepan
+    PREP: into
+  PARG: enough water
+    PREP: with
+  PARG: cover them
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , then cover , and simmer for about 20 minutes , or until cooked through .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: simmer
+  PARG: about 20 minutes
+    PREP: for
+  PARG: cooked through
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and set aside to cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 3
+SENT: While the chicken is poaching , whisk together egg yolks and garlic until light colored .
+PREDID: 0
+PRED: whisk
+  DOBJ: egg yolks, garlic
+  PARG: the chicken is poaching
+    PREP: while
+  PARG: light colored
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Whisk in olive oil in a thin stream until fully incorporated .
+PREDID: 0
+PRED: whisk
+  PARG: olive oil
+    PREP: in
+  PARG: a thin stream
+    PREP: in
+  PARG: fully incorporated
+    PREP: until
+
+
+SENTID: 5
+SENT: Flavor with lemon juice and salt to taste .
+PREDID: 0
+PRED: flavor
+  PARG: lemon juice, salt
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Shred or cut chicken into small pieces , and place in a salad bowl .
+PREDID: 0
+PRED: shred
+  DOBJ: chicken
+
+PREDID: 1
+PRED: cut
+  PARG: small pieces
+    PREP: into
+
+PREDID: 2
+PRED: place
+  PARG: a salad bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Toss with the olives , sun-dried tomatoes , and thyme .
+PREDID: 0
+PRED: toss
+  PARG: the olives , sun-dried tomatoes , thyme
+    PREP: with
+
+
+SENTID: 8
+SENT: Stir in 3/4 cup of the aioli until everything is evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: 3/4 cup of the aioli
+    PREP: in
+  PARG: everything is evenly coated
+    PREP: until
+
+
+SENTID: 9
+SENT: Taste and adjust seasoning if desired .
+PREDID: 0
+PRED: taste
+  DOBJ: seasoning
+
+PREDID: 1
+PRED: adjust
+  PARG: desired
+    PREP: if
+
+
+SENTID: 10
+SENT: Refrigerate , or serve immediately .
+PREDID: 0
+PRED: refrigerate
+
+PREDID: 1
+PRED: serve
+  OARG: immediately
+

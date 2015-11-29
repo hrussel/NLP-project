@@ -1,0 +1,260 @@
+SENTID: 0
+SENT: Combine brown sugar , garlic powder , 2 tablespoons black pepper , red pepper flakes , 2 tablespoons salt , and paprika in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , garlic powder , 2 tablespoons black pepper , red pepper flakes , 2 tablespoons salt , paprika
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Rub the spice mixture over pork butt , cover , and refrigerate 5 hours or overnight .
+PREDID: 0
+PRED: rub
+  DOBJ: the spice mixture
+  PARG: pork butt
+    PREP: over
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: refrigerate
+  OARG: 5 hours
+  OARG: overnight
+
+
+SENTID: 2
+SENT: Pour beef stock and 1/2 cup hot sauce in a pressure cooker .
+PREDID: 0
+PRED: pour
+  DOBJ: beef stock, 1/2 cup hot sauce
+  PARG: a pressure cooker
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in 3 tablespoons honey , 1 tablespoon molasses , maple syrup , and 4 crushed garlic cloves .
+PREDID: 0
+PRED: stir
+  PARG: 3 tablespoons honey , 1 tablespoon molasses , maple syrup , 4 crushed garlic cloves
+    PREP: in
+
+
+SENTID: 4
+SENT: Place the pork butt in the pressure cooker , seal the lid , and bring up to low pressure over high heat .
+PREDID: 0
+PRED: place
+  DOBJ: the pork butt
+  PARG: the pressure cooker
+    PREP: in
+
+PREDID: 1
+PRED: seal
+  DOBJ: the lid
+
+PREDID: 2
+PRED: bring
+  PARG: low pressure
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: up
+
+
+SENTID: 5
+SENT: Reduce the heat to low , maintaining low pressure , and cook for 2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low , maintaining low pressure , cook
+    PREP: to
+  PARG: 2 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: While the pork is cooking , make the coleslaw .
+PREDID: 0
+PRED: make
+  DOBJ: the coleslaw
+  PARG: the pork is cooking
+    PREP: while
+
+
+SENTID: 7
+SENT: Mix mayonnaise , Dijon mustard , 1 teaspoon hot sauce , white vinegar , 1 teaspoon salt , and 1 teaspoon black pepper in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , dijon mustard , 1 teaspoon hot sauce , white vinegar , 1 teaspoon salt , 1 teaspoon black pepper
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Add the coleslaw mix and toss to coat .
+PREDID: 0
+PRED: add
+  DOBJ: the coleslaw mix
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 9
+SENT: Cover and refrigerate .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 10
+SENT: Turn off the heat and let the pressure reduce naturally ;
+PREDID: 0
+PRED: turn
+  PARG: the heat
+    PREP: off
+
+PREDID: 1
+PRED: let
+  DOBJ: the pressure
+
+PREDID: 2
+PRED: reduce
+  OARG: naturally
+
+
+SENTID: 11
+SENT: remove the lid and let the pork rest for 5 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the lid
+
+PREDID: 1
+PRED: let
+  DOBJ: the pork rest
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: if it does n't fall off the bone , reseal the lid , turn on the heat , return the pressure cooker to low pressure , and cook for another 30 minutes .
+PREDID: 0
+PRED: turn
+  DOBJ: fall
+  PARG: it does
+    PREP: if
+  PARG: the bone , reseal the lid
+    PREP: off
+  PARG: the heat , return the pressure cooker
+    PREP: on
+  PARG: low pressure , cook
+    PREP: to
+  PARG: another 30 minutes
+    PREP: for
+  OARG: n't
+
+
+SENTID: 13
+SENT: Remove meat from the pressure cooker , reserving 1/4 cup cooking liquid .
+PREDID: 0
+PRED: remove
+  DOBJ: reserving 1/4 cup cooking liquid
+  PARG: the pressure cooker
+    PREP: from
+  OARG: meat
+
+
+SENTID: 14
+SENT: Shred the meat using two forks and set aside .
+PREDID: 0
+PRED: shred
+  DOBJ: using two forks
+  OARG: the meat
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 15
+SENT: Heat vegetable oil in a saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 16
+SENT: Stir in 5 cloves of garlic ;
+PREDID: 0
+PRED: stir
+  PARG: 5 cloves of garlic
+    PREP: in
+
+
+SENTID: 17
+SENT: cook and stir until the garlic is fragrant and just starting to turn brown , about 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the garlic is fragrant, just starting to turn
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: brown
+  PARG: 3 minutes
+    PREP: about
+
+
+SENTID: 18
+SENT: Remove from heat and stir in ketchup , 1/2 cup honey , 2 tablespoons hot sauce , 2 tablespoons molasses , cider vinegar , and reserved cooking liquid .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: ketchup , 1/2 cup honey , 2 tablespoons hot sauce , 2 tablespoons molasses , cider vinegar , reserved cooking liquid
+    PREP: in
+
+
+SENTID: 19
+SENT: Season with salt and black pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 20
+SENT: Bring the sauce to a simmer over medium heat .
+PREDID: 0
+PRED: bring
+  DOBJ: the sauce
+  PARG: a simmer
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 21
+SENT: Fill each Kaiser roll with two big forkfuls of pork , two tablespoons of barbeque sauce , and 2 spoonfuls of coleslaw .
+PREDID: 0
+PRED: fill
+  DOBJ: each kaiser roll
+  PARG: two big forkfuls of pork , two tablespoons of barbeque sauce , 2 spoonfuls of coleslaw
+    PREP: with
+

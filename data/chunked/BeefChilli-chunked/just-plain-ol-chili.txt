@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Heat a large skillet over medium heat and add ground beef ;
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: add
+  DOBJ: ground beef
+
+
+SENTID: 1
+SENT: cook and stir until meat is crumbly , evenly browned , and no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: meat is crumbly , evenly browned , no longer pink , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 3
+SENT: Heat olive oil in a soup pot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a soup pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Cook and stir green pepper in the hot oil until it starts to soften , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: green pepper
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: it starts to soften , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Reduce heat to low , stir in garlic , cumin , and chili powder , and season with salt and black pepper to taste .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: garlic , cumin , chili powder
+    PREP: in
+
+PREDID: 2
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Mix cooked ground beef and tomatoes into green bell pepper mixture , breaking up tomatoes with a spatula .
+PREDID: 0
+PRED: mix
+  DOBJ: cooked ground beef, tomatoes
+  PARG: green bell pepper mixture , breaking
+    PREP: into
+  PARG: a spatula
+    PREP: with
+  OARG: up
+
+
+SENTID: 7
+SENT: Add 4 cups of water or enough to cover the ingredients , reduce heat to low , and simmer at least 2 hours to blend flavors .
+PREDID: 0
+PRED: add
+  DOBJ: 4 cups of water
+  PARG: cover the ingredients
+    PREP: to
+  OARG: enough
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: least 2 hours
+    PREP: at
+  PARG: blend flavors
+    PREP: to
+

@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: Mix syrup , sugar substitute and butter in saucepan ;
+PREDID: 0
+PRED: mix
+  DOBJ: syrup , sugar substitute, butter
+  PARG: saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: bring to rolling boil 3-4 minutes .
+PREDID: 0
+PRED: bring
+  PARG: rolling boil 3-4 minutes
+    PREP: to
+
+
+SENTID: 2
+SENT: Beat whole eggs until thick .
+PREDID: 0
+PRED: beat
+  DOBJ: whole eggs
+  PARG: thick
+    PREP: until
+
+
+SENTID: 3
+SENT: Fold in wheat germ and powdered milk .
+PREDID: 0
+PRED: fold
+  PARG: wheat germ, powdered milk
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour hot syrup into egg mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: hot syrup
+  PARG: egg mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Spread pecans in unbaked pie shell .
+PREDID: 0
+PRED: spread
+  DOBJ: pecans
+  PARG: unbaked pie shell
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour syrup mixture over pecans .
+PREDID: 0
+PRED: pour
+  DOBJ: syrup mixture
+  PARG: pecans
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake 25-30 minutes at 400 degrees F -LRB- 205 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: at
+  OARG: 25-30 minutes
+

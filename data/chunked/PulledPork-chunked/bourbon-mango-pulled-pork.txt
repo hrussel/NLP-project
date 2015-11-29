@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: Peel the mangos and remove the pits .
+PREDID: 0
+PRED: peel
+  DOBJ: the mangos
+
+PREDID: 1
+PRED: remove
+  DOBJ: the pits
+
+
+SENTID: 1
+SENT: Place the pits into a slow cooker , then roughly chop the mango and set aside .
+PREDID: 0
+PRED: place
+  DOBJ: the pits
+  PARG: a slow cooker
+    PREP: into
+  OARG: then
+  OARG: roughly
+
+PREDID: 1
+PRED: chop
+  DOBJ: the mango
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Place the pork shoulder into the slow cooker , and season with the black pepper , kosher salt , and 1 teaspoon chipotle powder ;
+PREDID: 0
+PRED: place
+  DOBJ: the pork shoulder
+  PARG: the slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: season
+  PARG: the black pepper , kosher salt , 1 teaspoon chipotle powder
+    PREP: with
+
+
+SENTID: 3
+SENT: pour in the balsamic vinegar and water .
+PREDID: 0
+PRED: pour
+  PARG: the balsamic vinegar, water
+    PREP: in
+
+
+SENTID: 4
+SENT: Cover , and cook on Low 5 to 8 hours until the meat is very tender .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low 5 to 8 hours
+    PREP: on
+  PARG: the meat is very tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Once done , drain the pork , discarding the cooking liquid and mango pits , and shred with two forks .
+PREDID: 0
+PRED: drain
+  DOBJ: discarding the cooking liquid, mango pits
+  OARG: once
+  OARG: done
+  OARG: the pork
+
+PREDID: 1
+PRED: shred
+  PARG: two forks
+    PREP: with
+
+
+SENTID: 6
+SENT: While the pork is cooking , puree the chopped mango in a blender until smooth , then pour into a saucepan along with the honey , 1 teaspoon chipotle powder , and whiskey .
+PREDID: 0
+PRED: puree
+  DOBJ: the chopped mango
+  PARG: the pork is cooking
+    PREP: while
+  PARG: a blender
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: pour
+  PARG: a saucepan
+    PREP: into
+  PARG: with the honey , 1 teaspoon chipotle powder , whiskey
+    PREP: along
+
+
+SENTID: 7
+SENT: Bring to a simmer .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat to medium-low , and simmer , stirring frequently until the mango has reduced and darkened slightly , about 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , simmer , stirring
+    PREP: to
+  PARG: the mango has reduced, darkened slightly , about 10 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 9
+SENT: Stir in the barbeque sauce , and remove from the heat .
+PREDID: 0
+PRED: stir
+  PARG: the barbeque sauce
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 10
+SENT: Return the shredded pork to the slow cooker , and stir in the mango barbeque sauce .
+PREDID: 0
+PRED: return
+  DOBJ: the shredded pork
+  PARG: the slow cooker
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the mango barbeque sauce
+    PREP: in
+
+
+SENTID: 11
+SENT: Cover , and cook on High 1 to 2 hours until the pork absorbs the barbeque sauce .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: high 1 to 2 hours
+    PREP: on
+  PARG: the pork absorbs the barbeque sauce
+    PREP: until
+

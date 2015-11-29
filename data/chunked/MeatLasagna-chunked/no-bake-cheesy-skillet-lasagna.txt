@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: In 12-inch skillet , cook sausage over medium-high heat 5 to 7 minutes , stirring occasionally , until no longer pink ;
+PREDID: 0
+PRED: cook
+  DOBJ: sausage
+  PARG: 12-inch skillet
+    PREP: in
+  PARG: medium-high heat 5 to 7 minutes , stirring
+    PREP: over
+  PARG: no longer pink
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Stir in 1Ê1/2 cups water , cooking sauce and noodles .
+PREDID: 0
+PRED: stir
+  PARG: 1Ê1/2 cups water , cooking sauce, noodles
+    PREP: in
+
+
+SENTID: 3
+SENT: Heat to boiling , stirring occasionally .
+PREDID: 0
+PRED: heat
+  PARG: boiling , stirring
+    PREP: to
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Reduce heat to medium .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 5
+SENT: Simmer uncovered about 10 minutes , stirring occasionally , until pasta is tender .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: 10 minutes , stirring
+    PREP: about
+  PARG: pasta is tender
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 7
+SENT: sprinkle with cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Cover ;
+PREDID: 0
+PRED: cover
+
+
+SENTID: 9
+SENT: let stand 2 to 3 minutes or until cheese is melted .
+PREDID: 0
+PRED: let
+  PARG: cheese is melted
+    PREP: until
+  OARG: stand 2 to 3 minutes
+
+
+SENTID: 10
+SENT: Sprinkle with bell pepper .
+PREDID: 0
+PRED: sprinkle
+  PARG: bell pepper
+    PREP: with
+

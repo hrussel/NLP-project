@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: In a small bowl , mix together the tomato sauce , brown sugar , and mustard ;
+PREDID: 0
+PRED: mix
+  DOBJ: the tomato sauce , brown sugar , mustard
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: stir until the brown sugar has dissolved .
+PREDID: 0
+PRED: stir
+  PARG: the brown sugar has dissolved
+    PREP: until
+
+
+SENTID: 2
+SENT: In a large mixing bowl , mix the eggs , minced onion and green pepper , garlic powder , cracker crumbs , salt , and black pepper ;
+PREDID: 0
+PRED: mix
+  DOBJ: the eggs , minced onion, green pepper , garlic powder , cracker crumbs , salt , black pepper
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: mix in the ground beef and half the tomato sauce mixture , stirring until the meat loaf is thoroughly combined .
+PREDID: 0
+PRED: mix
+  PARG: the ground beef, half the tomato sauce mixture , stirring
+    PREP: in
+  PARG: the meat loaf is thoroughly combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Place the meat mixture into a 2-quart microwave-safe baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: the meat mixture
+  PARG: a 2-quart microwave-safe baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Spread the remaining tomato sauce mixture over the meat loaf .
+PREDID: 0
+PRED: spread
+  DOBJ: the remaining tomato sauce mixture
+  PARG: the meat loaf
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook in microwave oven on High setting until set , the juices run clear , and meat is no longer pink inside , 10 to 15 minutes depending on power of microwave oven .
+PREDID: 0
+PRED: cook
+  PARG: microwave oven
+    PREP: in
+  PARG: high setting
+    PREP: on
+  PARG: set , the juices run clear , meat is no longer pink inside , 10 to 15 minutes depending on power of microwave oven
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain any grease from the dish as soon as loaf is cooked ;
+PREDID: 0
+PRED: drain
+  DOBJ: any grease
+  PARG: the dish
+    PREP: from
+  PARG: soon
+    PREP: as
+  PARG: loaf is cooked
+    PREP: as
+
+
+SENTID: 8
+SENT: allow to stand , uncovered , 10 to 15 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: stand , uncovered , 10 to 15 minutes
+    PREP: to
+  PARG: serving
+    PREP: before
+

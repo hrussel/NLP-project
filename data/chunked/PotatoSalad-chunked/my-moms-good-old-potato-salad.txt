@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Place the potatoes in a large pan of water and boil over medium-low heat until tender , about 12 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pan of water
+    PREP: in
+
+PREDID: 1
+PRED: boil
+  PARG: medium-low heat
+    PREP: over
+  PARG: tender , about 12 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain the potatoes , and place in the refrigerator to cool .
+PREDID: 0
+PRED: drain
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: place
+  PARG: the refrigerator
+    PREP: in
+  OARG: to cool
+
+
+SENTID: 2
+SENT: Place the eggs in a saucepan of cold water over medium heat , and bring to a full boil .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan of cold water
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: bring
+  PARG: a full boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Turn off the heat , cover the pan , and allow the eggs to sit in the hot water for about 15 minutes .
+PREDID: 0
+PRED: turn
+  PARG: the heat
+    PREP: off
+
+PREDID: 1
+PRED: cover
+  DOBJ: the pan
+
+PREDID: 2
+PRED: allow
+  DOBJ: the eggs
+  PARG: the hot water
+    PREP: in
+  PARG: about 15 minutes
+    PREP: for
+  OARG: to sit
+
+
+SENTID: 4
+SENT: Cool the eggs thoroughly under cold running water and shell them .
+PREDID: 0
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water, shell them
+    PREP: under
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Chop the cooled eggs and place them in a large salad bowl .
+PREDID: 0
+PRED: chop
+  DOBJ: the cooled eggs
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir the onion , sweet pickles , and mayonnaise into the eggs , and let the mixture chill in the refrigerator at least l/2 hour to blend the flavors .
+PREDID: 0
+PRED: stir
+  DOBJ: the onion , sweet pickles , mayonnaise
+  PARG: the eggs
+    PREP: into
+
+PREDID: 1
+PRED: let
+  DOBJ: the mixture
+
+PREDID: 2
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: least l/2 hour
+    PREP: at
+  PARG: blend the flavors
+    PREP: to
+
+
+SENTID: 7
+SENT: Mix in the chilled chopped potatoes , and refrigerate for at least 1/2 hour .
+PREDID: 0
+PRED: mix
+  PARG: the chilled chopped potatoes
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  PARG: at least 1/2 hour
+    PREP: for
+
+
+SENTID: 8
+SENT: Serve cold .
+PREDID: 0
+PRED: serve
+  DOBJ: cold
+

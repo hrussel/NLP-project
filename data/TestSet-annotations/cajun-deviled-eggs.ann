@@ -1,0 +1,112 @@
+T1	predicate 0 5	Place
+T2	predicate 36 41	cover
+T3	predicate 59 64	Bring
+T4	predicate 97 103	remove
+T5	predicate 115 120	Cover
+T6	predicate 125 128	let
+T7	predicate 175 181	Remove
+T8	predicate 198 202	cool
+T9	predicate 207 211	peel
+T10	predicate 213 218	Slice
+T11	predicate 244 250	Remove
+T12	predicate 261 266	place
+T13	predicate 285 294	Set aside
+T14	predicate 328 331	mix
+T15	predicate 407 411	Fill
+T16	predicate 465 473	Sprinkle
+T17	predicate 526 531	Cover
+T18	predicate 536 541	chill
+R1	object Arg1:T18 Arg2:T17	
+R2	object Arg1:T17 Arg2:T16	
+R3	object Arg1:T16 Arg2:T15	
+T19	arg_location 542 561	in the refrigerator
+R4	location Arg1:T18 Arg2:T19	
+T20	arg_duration 562 575	until serving
+R5	duration Arg1:T18 Arg2:T20	
+T21	arg_co-object 474 493	with cayenne pepper
+R6	co-object Arg1:T16 Arg2:T21	
+T22	arg_other 495 524	adjusting the amount to taste
+R7	other Arg1:T16 Arg2:T22	
+T23	arg_object 412 441	the hollowed egg white halves
+T24	arg_co-object 442 463	with the yolk mixture
+R8	object Arg1:T15 Arg2:T23	
+R9	co-object Arg1:T15 Arg2:T24	
+T25	Evolution 412 441	the hollowed egg white halves
+E1	Evolution:T25 Cause:T13
+T26	Evolution 447 463	the yolk mixture
+E2	Evolution:T26 Cause:T14
+R10	object Arg1:T12 Arg2:T11	
+T27	arg_object 295 305	egg whites
+T28	Evolution 295 305	egg whites
+E3	Evolution:T28 Cause:T11
+T29	arg_object 251 256	yolks
+R11	object Arg1:T11 Arg2:T29	
+T30	arg_location 267 283	in a medium bowl
+R12	location Arg1:T12 Arg2:T30	
+R13	object Arg1:T13 Arg2:T27	
+T31	arg_object 332 342	mayonnaise
+T32	arg_object 344 363	Dijon-style mustard
+T33	arg_object 365 369	salt
+T34	arg_object 374 386	black pepper
+R14	object Arg1:T14 Arg2:T31	
+R15	object Arg1:T14 Arg2:T32	
+R16	object Arg1:T14 Arg2:T33	
+R17	object Arg1:T14 Arg2:T34	
+T35	arg_co-object 387 405	with the egg yolks
+R18	co-object Arg1:T14 Arg2:T35	
+T36	Evolution 392 405	the egg yolks
+E4	Evolution:T36 Cause:T12
+T37	arg_other 307 326	Mashing with a fork
+R19	other Arg1:T14 Arg2:T37	
+R20	co-object Arg1:T11 Arg2:T10	
+T38	arg_object 219 223	eggs
+T39	arg_other 224 242	in half lengthwise
+R21	object Arg1:T10 Arg2:T38	
+R22	other Arg1:T10 Arg2:T39	
+T40	Evolution 219 223	eggs
+E5	Evolution:T40 Cause:T9
+R23	object Arg1:T9 Arg2:T8	
+R24	object Arg1:T8 Arg2:T7	
+T41	arg_co-object 182 196	from hot water
+R26	object Arg1:T7 Arg2:T6	
+T42	arg_object 129 133	eggs
+R27	object Arg1:T6 Arg2:T42	
+T44	Evolution 129 133	eggs
+E6	Evolution:T44 Cause:T5
+R29	object Arg1:T5 Arg2:T4	
+T45	arg_location 104 113	from heat
+R30	location Arg1:T4 Arg2:T45	
+R31	object Arg1:T4 Arg2:T3	
+T46	arg_object 65 70	water
+T47	arg_other 71 80	to a boil
+R32	object Arg1:T3 Arg2:T46	
+R33	other Arg1:T3 Arg2:T47	
+T48	arg_co-object 42 57	with cold water
+R35	co-object Arg1:T2 Arg2:T48	
+R36	object Arg1:T2 Arg2:T1	
+T49	Evolution 65 70	water
+E7	Evolution:T49 Cause:T2
+T50	arg_object 6 10	eggs
+R34	object Arg1:T1 Arg2:T50	
+T51	arg_location 11 31	in a medium saucepan
+R37	location Arg1:T1 Arg2:T51	
+T52	ingredient 6 10	eggs
+T53	ingredient 47 57	cold water
+T43	arg_duration 153 173	for 10 to 12 minutes
+T54	arg_co-object 140 152	in hot water
+T55	Evolution 143 152	hot water
+E8	Evolution:T55 Cause:T5
+R28	co-object Arg1:T6 Arg2:T54	
+R38	duration Arg1:T6 Arg2:T43	
+T56	arg_other 134 139	stand
+R39	other Arg1:T6 Arg2:T56	
+R25	co-object Arg1:T7 Arg2:T41	
+T57	Evolution 187 196	hot water
+E9	Evolution:T57 Cause:T6
+T58	ingredient 332 342	mayonnaise
+T59	ingredient 344 363	Dijon-style mustard
+T60	ingredient 365 369	salt
+T61	ingredient 374 386	black pepper
+T62	ingredient 479 493	cayenne pepper
+T63	Evolution 251 256	yolks
+E10	Evolution:T63 Cause:T10

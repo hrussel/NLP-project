@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Combine the evaporated milk , ice cream , and pumpkin pie filling in a blender and blend until smooth .
+PREDID: 0
+PRED: combine
+  DOBJ: the evaporated milk , ice cream , pumpkin pie filling
+  PARG: a blender
+    PREP: in
+
+PREDID: 1
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour into a glass ;
+PREDID: 0
+PRED: pour
+  PARG: a glass
+    PREP: into
+
+
+SENTID: 2
+SENT: top with whipped topping and ground cinnamon to serve .
+PREDID: 0
+PRED: top
+  PARG: whipped topping, ground cinnamon
+    PREP: with
+  PARG: serve
+    PREP: to
+

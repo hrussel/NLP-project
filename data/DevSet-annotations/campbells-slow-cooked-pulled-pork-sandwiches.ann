@@ -1,0 +1,89 @@
+T1	predicate 0 4	Heat
+T2	predicate 57 60	Add
+T3	arg_object 5 12	the oil
+R1	object Arg1:T1 Arg2:T3	
+T4	arg_location 13 33	in a 10-inch skillet
+R2	location Arg1:T1 Arg2:T4	
+T5	arg_other 34 56	over medium-high heat.
+R3	other Arg1:T1 Arg2:T5	
+T6	arg_object 61 69	the pork
+R4	object Arg1:T2 Arg2:T6	
+T7	predicate 74 78	cook
+T8	arg_duration 79 115	until it's well browned on all sides
+R6	duration Arg1:T7 Arg2:T8	
+R5	object Arg1:T7 Arg2:T2	
+T9	predicate 117 121	Stir
+T11	arg_location 165 189	in a 5-quart slow cooker
+R8	location Arg1:T9 Arg2:T11	
+T12	predicate 191 194	Add
+T13	arg_object 195 203	the pork
+R9	object Arg1:T12 Arg2:T13	
+T14	predicate 208 212	turn
+T15	predicate 222 227	Cover
+T16	predicate 232 236	cook
+T17	Evolution 195 203	the pork
+E1	Evolution:T17 Cause:T7
+R10	object Arg1:T14 Arg2:T12	
+R11	object Arg1:T15 Arg2:T14	
+T18	arg_other 237 243	on LOW
+R12	other Arg1:T16 Arg2:T18	
+T19	arg_duration 244 261	for 8 to 9 hours*
+R13	duration Arg1:T16 Arg2:T19	
+T20	arg_duration 265 294	until the pork is fork-tender
+R14	duration Arg1:T16 Arg2:T20	
+T21	predicate 296 302	Remove
+T22	arg_object 303 311	the pork
+R15	object Arg1:T21 Arg2:T22	
+T23	Evolution 303 311	the pork
+E2	Evolution:T23 Cause:T16
+T24	arg_location 312 327	from the cooker
+R16	location Arg1:T21 Arg2:T24	
+T25	arg_other 328 346	to a cutting board
+R17	other Arg1:T21 Arg2:T25	
+T26	predicate 351 360	let stand
+R18	object Arg1:T26 Arg2:T21	
+T27	arg_duration 361 375	for 10 minutes
+R19	duration Arg1:T26 Arg2:T27	
+T28	predicate 392 397	shred
+T29	arg_object 398 406	the pork
+R20	object Arg1:T28 Arg2:T29	
+T30	Evolution 398 406	the pork
+E3	Evolution:T30 Cause:T26
+T31	arg_other 377 390	Using 2 forks
+R21	other Arg1:T28 Arg2:T31	
+T32	arg_object 415 423	the pork
+T33	Evolution 415 423	the pork
+E4	Evolution:T33 Cause:T28
+T34	predicate 408 414	Return
+R22	object Arg1:T34 Arg2:T32	
+T35	arg_location 424 438	to the cooker.
+R23	location Arg1:T34 Arg2:T35	
+T36	predicate 439 445	Divide
+T37	arg_object 446 472	the pork and sauce mixture
+T38	Evolution 446 472	the pork and sauce mixture
+E5	Evolution:T38 Cause:T34
+R24	object Arg1:T36 Arg2:T37	
+T39	arg_co-object 473 488	among the rolls
+R25	co-object Arg1:T36 Arg2:T39	
+T10	arg_object 122 130	the soup
+T40	arg_object 132 139	ketchup
+T41	arg_object 141 148	vinegar
+T42	arg_object 153 164	brown sugar
+R7	object Arg1:T9 Arg2:T10	
+R26	object Arg1:T9 Arg2:T40	
+R27	object Arg1:T9 Arg2:T41	
+R28	object Arg1:T9 Arg2:T42	
+R29	location Arg1:T2 Arg2:T1	
+R30	co-object Arg1:T12 Arg2:T9	
+T43	arg_other 213 220	to coat
+R31	other Arg1:T14 Arg2:T43	
+R32	object Arg1:T16 Arg2:T15	
+T44	ingredient 61 69	the pork
+T45	ingredient 122 130	the soup
+T46	ingredient 132 139	ketchup
+T47	ingredient 141 148	vinegar
+T48	ingredient 153 164	brown sugar
+T49	ingredient 5 12	the oil
+R33	same-location Arg1:T24 Arg2:T11	
+R34	same-location Arg1:T35 Arg2:T24	
+T50	ingredient 479 488	the rolls

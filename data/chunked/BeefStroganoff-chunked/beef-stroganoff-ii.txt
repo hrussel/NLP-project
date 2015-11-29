@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Brown the beef strips in a large skillet over medium high heat and drain excess fat .
+PREDID: 0
+PRED: brown
+  DOBJ: the beef strips
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+PREDID: 1
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 1
+SENT: Add the onion and saute for 5 minutes , or until tender .
+PREDID: 0
+PRED: add
+  DOBJ: the onion
+
+PREDID: 1
+PRED: saute
+  PARG: 5 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in the flour , salt , paprika and ground black pepper .
+PREDID: 0
+PRED: stir
+  PARG: the flour , salt , paprika, ground black pepper
+    PREP: in
+
+
+SENTID: 3
+SENT: Add the soup , reduce heat to medium low and let simmer for 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the soup , reduce heat
+  PARG: medium low, let simmer
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Then add the sour cream , stirring well .
+PREDID: 0
+PRED: add
+  DOBJ: the sour cream , stirring
+  OARG: then
+  OARG: well
+
+
+SENTID: 5
+SENT: Prepare egg noodles according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: egg noodles according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 6
+SENT: Serve beef mixture over the egg noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: beef mixture
+  PARG: the egg noodles
+    PREP: over
+

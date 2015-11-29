@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a Dutch oven over medium-high heat , saute the ground beef and the onion together for about 5 minutes , or until the meat is browned and crumbly .
+PREDID: 0
+PRED: saute
+  DOBJ: the ground beef, the onion
+  PARG: a dutch oven
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: about 5 minutes
+    PREP: for
+  PARG: the meat is browned, crumbly
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in the tomato paste , stewed tomatoes with juice , salt and ground black pepper .
+PREDID: 0
+PRED: stir
+  PARG: the tomato paste , stewed tomatoes
+    PREP: in
+  PARG: juice , salt, ground black pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Add the uncooked egg noodles to this mixture and pour in water to cover .
+PREDID: 0
+PRED: add
+  DOBJ: the uncooked egg noodles
+  PARG: this mixture
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  PARG: water
+    PREP: in
+  PARG: cover
+    PREP: to
+
+
+SENTID: 4
+SENT: Bring to a boil , reduce heat to low and let simmer until the noodles are slightly softened , about 5 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low, let simmer
+    PREP: to
+  PARG: the noodles are slightly softened , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain excess water , stir in the corn and transfer mixture to a 9x13-inch baking dish .
+PREDID: 0
+PRED: drain
+  DOBJ: excess water
+
+PREDID: 1
+PRED: stir
+  PARG: the corn
+    PREP: in
+
+PREDID: 2
+PRED: transfer
+  DOBJ: mixture
+  PARG: a 9x13-inch baking dish
+    PREP: to
+
+
+SENTID: 6
+SENT: Top with cheese .
+PREDID: 0
+PRED: top
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+

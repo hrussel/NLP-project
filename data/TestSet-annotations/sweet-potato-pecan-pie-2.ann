@@ -1,0 +1,100 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 54	Prepare
+T3	predicate 81 92	Refrigerate
+T4	predicate 114 119	Blend
+T5	predicate 249 253	Pour
+T6	predicate 277 285	sprinkle
+T7	predicate 307 311	Bake
+T8	predicate 375 378	Set
+T9	predicate 394 398	Beat
+T10	predicate 465 468	Top
+T11	arg_object 8 12	oven
+R1	object Arg1:T1 Arg2:T11	
+R2	location Arg1:T7 Arg2:T1	
+T12	arg_other 13 45	to 375 degrees F (190 degrees C)
+R3	other Arg1:T1 Arg2:T12	
+T13	arg_object 55 60	dough
+T14	ingredient 55 60	dough
+R4	object Arg1:T2 Arg2:T13	
+T15	arg_other 61 79	for one 9 inch pie
+R5	other Arg1:T2 Arg2:T15	
+R6	object Arg1:T3 Arg2:T2	
+T16	arg_duration 93 112	until ready to bake
+R7	duration Arg1:T3 Arg2:T16	
+T17	arg_other 120 128	together
+T18	arg_object 129 139	the butter
+T19	ingredient 129 139	the butter
+T20	arg_object 141 155	sweet potatoes
+T21	ingredient 141 155	sweet potatoes
+T22	arg_object 157 161	eggs
+T23	ingredient 157 161	eggs
+T24	arg_object 163 174	brown sugar
+T25	ingredient 163 174	brown sugar
+T26	arg_object 176 182	ginger
+T27	ingredient 176 182	ginger
+T28	arg_object 184 192	cinnamon
+T29	ingredient 184 192	cinnamon
+T30	arg_object 194 200	nutmeg
+T31	ingredient 194 200	nutmeg
+T32	arg_object 202 209	vanilla
+T33	ingredient 202 209	vanilla
+T34	arg_object 211 215	salt
+T35	ingredient 211 215	salt
+T36	arg_object 217 227	corn syrup
+T37	ingredient 217 227	corn syrup
+T38	arg_object 232 247	evaporated milk
+T39	ingredient 232 247	evaporated milk
+R8	other Arg1:T4 Arg2:T17	
+R9	object Arg1:T4 Arg2:T18	
+R10	object Arg1:T4 Arg2:T20	
+R11	object Arg1:T4 Arg2:T22	
+R12	object Arg1:T4 Arg2:T24	
+R13	object Arg1:T4 Arg2:T26	
+R14	object Arg1:T4 Arg2:T28	
+R15	object Arg1:T4 Arg2:T30	
+R16	object Arg1:T4 Arg2:T32	
+R17	object Arg1:T4 Arg2:T34	
+R18	object Arg1:T4 Arg2:T36	
+R19	object Arg1:T4 Arg2:T38	
+T40	arg_object 254 261	filling
+T41	Evolution 254 261	filling
+E1	Evolution:T41 Cause:T4
+R20	object Arg1:T5 Arg2:T40	
+T42	arg_co-object 262 272	into crust
+T43	Evolution 267 272	crust
+E2	Evolution:T43 Cause:T3
+R21	co-object Arg1:T5 Arg2:T42	
+R22	object Arg1:T6 Arg2:T5	
+T44	arg_co-object 286 305	with chopped pecans
+T45	ingredient 291 305	chopped pecans
+R23	co-object Arg1:T6 Arg2:T44	
+R24	object Arg1:T7 Arg2:T6	
+T46	arg_duration 312 373	for 40 to 45 minutes, or until inserted knife comes out clean
+R25	duration Arg1:T7 Arg2:T46	
+R26	object Arg1:T8 Arg2:T7	
+T47	arg_other 379 384	aside
+T48	arg_other 385 392	to cool
+R27	other Arg1:T8 Arg2:T47	
+R28	other Arg1:T8 Arg2:T48	
+T49	arg_other 399 407	together
+T50	arg_object 408 422	whipping cream
+T51	ingredient 408 422	whipping cream
+T52	arg_object 424 429	sugar
+T53	ingredient 424 429	sugar
+T54	arg_object 434 441	liqueur
+T55	ingredient 434 441	liqueur
+T56	arg_duration 442 463	until soft peaks form
+R29	other Arg1:T9 Arg2:T49	
+R30	object Arg1:T9 Arg2:T50	
+R31	object Arg1:T9 Arg2:T52	
+R32	object Arg1:T9 Arg2:T54	
+R33	duration Arg1:T9 Arg2:T56	
+T57	arg_object 469 472	pie
+T58	Evolution 469 472	pie
+E3	Evolution:T58 Cause:T8
+R34	object Arg1:T10 Arg2:T57	
+T59	arg_co-object 473 508	with whipped cream and pecan halves
+R35	co-object Arg1:T10 Arg2:T59	
+T60	Evolution 478 491	whipped cream
+E4	Evolution:T60 Cause:T9
+T61	ingredient 496 508	pecan halves

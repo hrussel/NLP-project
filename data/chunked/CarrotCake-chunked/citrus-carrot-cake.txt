@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Stir together the flours , baking powder , cinnamon , and salt .
+PREDID: 0
+PRED: stir
+  DOBJ: the flours , baking powder , cinnamon , salt
+  OARG: together
+
+
+SENTID: 1
+SENT: In a large bowl , cream the butter or margarine with the sugars .
+PREDID: 0
+PRED: cream
+  DOBJ: the butter or margarine
+  PARG: a large bowl
+    PREP: in
+  PARG: the sugars
+    PREP: with
+
+
+SENTID: 2
+SENT: Beat in the eggs , and then the citrus peels and juices .
+PREDID: 0
+PRED: beat
+  DOBJ: the citrus peels, juices
+  PARG: the eggs
+    PREP: in
+  OARG: then
+
+
+SENTID: 3
+SENT: Stir in the carrots .
+PREDID: 0
+PRED: stir
+  PARG: the carrots
+    PREP: in
+
+
+SENTID: 4
+SENT: Beat the flour mixture into the carrot mixture .
+PREDID: 0
+PRED: beat
+  DOBJ: the flour mixture
+  PARG: the carrot mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Stir in the walnuts and raisins .
+PREDID: 0
+PRED: stir
+  PARG: the walnuts, raisins
+    PREP: in
+
+
+SENTID: 6
+SENT: Turn the batter into a greased and floured tube pan .
+PREDID: 0
+PRED: turn
+  DOBJ: the batter
+  PARG: a greased, floured tube pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F -LRB- 175 degrees -RRB- for about 90 minutes , or until it tests done with a toothpick .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees -rrb-
+    PREP: at
+  PARG: about 90 minutes
+    PREP: for
+  PARG: it tests done with a toothpick
+    PREP: until
+
+
+SENTID: 8
+SENT: Transfer to a rack to cool .
+PREDID: 0
+PRED: transfer
+  PARG: a rack
+    PREP: to
+  OARG: to cool
+

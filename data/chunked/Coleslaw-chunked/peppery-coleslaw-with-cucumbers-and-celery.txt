@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: Mix cabbage , cucumber , celery , cilantro , and parsley in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cabbage , cucumber , celery , cilantro , parsley
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk mayonnaise , vinegar , onion powder , salt , and black pepper in a separate bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , vinegar , onion powder , salt , black pepper
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: stir dressing into slaw until thoroughly mixed .
+PREDID: 0
+PRED: stir
+  DOBJ: dressing
+  PARG: slaw
+    PREP: into
+  PARG: thoroughly mixed
+    PREP: until
+
+
+SENTID: 3
+SENT: Chill for 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: 1 hour
+    PREP: for
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine ground beef , 1/2 cup ketchup , tomato juice , salt , pepper , red pepper , eggs , bread crumbs , onion and 2 teaspoons mustard until well mixed .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , 1/2 cup ketchup , tomato juice , salt , pepper , red pepper , eggs , bread crumbs , onion, 2 teaspoons mustard
+  PARG: a large bowl
+    PREP: in
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 2
+SENT: Line a 9x5 inch loaf pan with foil .
+PREDID: 0
+PRED: line
+  DOBJ: a 9x5 inch loaf pan
+  PARG: foil
+    PREP: with
+
+
+SENTID: 3
+SENT: Press meat mixture into pan .
+PREDID: 0
+PRED: press
+  DOBJ: meat mixture
+  PARG: pan
+    PREP: into
+
+
+SENTID: 4
+SENT: In a separate bowl , combine 1/2 cup ketchup , 1 teaspoon mustard and brown sugar until smooth .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/2 cup ketchup , 1 teaspoon mustard, brown sugar
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Spread brown sugar mixture over meatloaf .
+PREDID: 0
+PRED: spread
+  DOBJ: brown sugar mixture
+  PARG: meatloaf
+    PREP: over
+
+
+SENTID: 6
+SENT: Bake in preheated oven 35 to 45 minutes , until no longer pink .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 35 to 45 minutes
+    PREP: in
+  PARG: no longer pink
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain off fat .
+PREDID: 0
+PRED: drain
+  PARG: fat
+    PREP: off
+
+
+SENTID: 8
+SENT: Let rest 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: rest 5 minutes
+

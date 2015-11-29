@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: Preheat an oven to 275 degrees F -LRB- 135 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 275 degrees f -lrb- 135 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread the walnuts onto a baking sheet , and toast until the nuts start to turn golden brown and become fragrant , about 30 minutes .
+PREDID: 0
+PRED: spread
+  DOBJ: the walnuts
+  PARG: a baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: toast
+  PARG: the nuts
+    PREP: until
+
+PREDID: 2
+PRED: start
+  PARG: turn golden brown, become fragrant
+    PREP: to
+  PARG: 30 minutes
+    PREP: about
+
+
+SENTID: 2
+SENT: Watch the nuts carefully as they bake , they burn quickly .
+PREDID: 0
+PRED: watch
+  DOBJ: the nuts
+  PARG: they bake , they burn
+    PREP: as
+  OARG: carefully
+  OARG: quickly
+
+
+SENTID: 3
+SENT: Once toasted , set the nuts aside to cool to room temperature .
+PREDID: 0
+PRED: set
+  DOBJ: the nuts
+  PARG: room temperature
+    PREP: to
+  OARG: once
+  OARG: toasted
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Place the potatoes into a large pot , and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 5
+SENT: Bring to a boil over high heat ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: reduce heat to medium-low , cover , and simmer until tender , about 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Rinse under cold water , and place in large bowl .
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: place
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Refrigerate until cold .
+PREDID: 0
+PRED: refrigerate
+  PARG: cold
+    PREP: until
+
+
+SENTID: 9
+SENT: Combine apples , onion , cheese , and walnuts with cooled potatoes .
+PREDID: 0
+PRED: combine
+  DOBJ: apples , onion , cheese , walnuts
+  PARG: cooled potatoes
+    PREP: with
+
+
+SENTID: 10
+SENT: Whisk together the olive oil , vinegar , basil , salt , and pepper in a small bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the olive oil , vinegar , basil , salt , pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Pour the dressing over the salad , and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 12
+SENT: Serve chilled .
+PREDID: 0
+PRED: serve
+  DOBJ: chilled
+

@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Place cauliflower pieces through the feeding tube of the food processor using the grating blade ;
+PREDID: 0
+PRED: place
+  DOBJ: the feeding tube of the food processor
+  OARG: cauliflower pieces
+
+
+SENTID: 1
+SENT: pulse until all the cauliflower is shredded .
+PREDID: 0
+PRED: pulse
+  PARG: all the cauliflower is shredded
+    PREP: until
+
+
+SENTID: 2
+SENT: Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer .
+PREDID: 0
+PRED: place
+  DOBJ: a steamer insert
+  PARG: a saucepan
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: the bottom of the steamer
+    PREP: below
+  OARG: to just
+
+
+SENTID: 3
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Add cauliflower , cover , and steam until tender , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: cauliflower
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: steam
+  PARG: tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Transfer cauliflower to a large bowl and refrigerate , stirring occasionally , until cooled , about 15 minutes .
+PREDID: 0
+PRED: transfer
+  DOBJ: cauliflower
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: stirring
+  PARG: cooled , about 15 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Line a baking sheet with parchment paper or a silicon mat .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: parchment paper or a silicon mat
+    PREP: with
+
+
+SENTID: 8
+SENT: Stir Italian cheese blend , parsley , egg , garlic , salt , and pepper into cauliflower until evenly incorporated .
+PREDID: 0
+PRED: stir
+  DOBJ: italian cheese blend , parsley , egg , garlic , salt , pepper
+  PARG: cauliflower
+    PREP: into
+  PARG: evenly incorporated
+    PREP: until
+
+
+SENTID: 9
+SENT: Pour mixture onto the prepared baking sheet ;
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: the prepared baking sheet
+    PREP: onto
+
+
+SENTID: 10
+SENT: press and shape into a pizza crust .
+PREDID: 0
+PRED: press
+  PARG: a pizza crust
+    PREP: into
+
+PREDID: 1
+PRED: shape
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until lightly browned , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: lightly browned , about 15 minutes
+    PREP: until
+

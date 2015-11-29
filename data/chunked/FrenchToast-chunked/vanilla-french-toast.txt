@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Whisk eggs , milk , sugar , vanilla and cinnamon in a medium bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , milk , sugar , vanilla, cinnamon
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Melt butter in skillet over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Dip bread slices in egg mixture and brown each side in skillet .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: egg mixture
+    PREP: in
+
+PREDID: 1
+PRED: brown
+  DOBJ: each side
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Serve with maple syrup .
+PREDID: 0
+PRED: serve
+  PARG: maple syrup
+    PREP: with
+

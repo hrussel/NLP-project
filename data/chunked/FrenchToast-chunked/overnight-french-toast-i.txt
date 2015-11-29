@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Place half of the bread cubes into a lightly greased 9x13 inch baking pan .
+PREDID: 0
+PRED: place
+  DOBJ: half of the bread cubes
+  PARG: a lightly greased 9x13 inch baking pan
+    PREP: into
+
+
+SENTID: 1
+SENT: Scatter cream cheese over bread ;
+PREDID: 0
+PRED: scatter
+  DOBJ: cream cheese
+  PARG: bread
+    PREP: over
+
+
+SENTID: 2
+SENT: sprinkle with blueberries .
+PREDID: 0
+PRED: sprinkle
+  PARG: blueberries
+    PREP: with
+
+
+SENTID: 3
+SENT: Place remaining bread cubes over the blueberries .
+PREDID: 0
+PRED: place
+  DOBJ: remaining bread cubes
+  PARG: the blueberries
+    PREP: over
+
+
+SENTID: 4
+SENT: In a large bowl , beat together eggs , maple syrup and milk .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , maple syrup, milk
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour egg mixture over bread cubes .
+PREDID: 0
+PRED: pour
+  DOBJ: egg mixture
+  PARG: bread cubes
+    PREP: over
+
+
+SENTID: 6
+SENT: Cover pan with aluminum foil and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 7
+SENT: Bake , covered , for 25 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: covered
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Uncover and bake an additional 15 to 20 minutes , or until puffed and golden brown .
+PREDID: 0
+PRED: uncover
+  OARG: an additional 15 to 20 minutes
+
+PREDID: 1
+PRED: bake
+  PARG: puffed, golden brown
+    PREP: until
+
+
+SENTID: 9
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

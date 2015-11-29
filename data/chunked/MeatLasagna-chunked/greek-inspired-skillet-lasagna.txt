@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: Heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir ground lamb in the hot skillet until browned and crumbly , 5 to 7 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground lamb
+
+PREDID: 1
+PRED: stir
+  PARG: the hot skillet
+    PREP: in
+  PARG: browned, crumbly , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 3
+SENT: Add onion and garlic to lamb ;
+PREDID: 0
+PRED: add
+  DOBJ: onion, garlic
+  PARG: lamb
+    PREP: to
+
+
+SENTID: 4
+SENT: Stir tomato paste , cinnamon , cayenne pepper , salt , and black pepper into lamb mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: tomato paste , cinnamon , cayenne pepper , salt , black pepper
+  PARG: lamb mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: cook until spices are fragrant , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: spices are fragrant , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Add water , lasagna noodles , and balsamic vinegar to lamb mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: water , lasagna noodles , balsamic vinegar
+  PARG: lamb mixture
+    PREP: to
+
+
+SENTID: 7
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Cover skillet , lower heat , and simmer for 5 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: skillet
+
+PREDID: 1
+PRED: lower
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Remove cover and simmer until noodles are tender yet firm to the bite and sauce is thickened , 5 to 7 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: noodles are tender yet firm to the bite, sauce is thickened , 5 to 7 more minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir Greek yogurt , 1 tablespoon mint , and salt together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: greek yogurt , 1 tablespoon mint , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Spoon yogurt mixture , about 2 tablespoons per addition , across top of lasagna mixture .
+PREDID: 0
+PRED: spoon
+  DOBJ: yogurt mixture
+  PARG: 2 tablespoons
+    PREP: about
+  PARG: addition
+    PREP: per
+  PARG: top of lasagna mixture
+    PREP: across
+
+
+SENTID: 12
+SENT: Sprinkle feta cheese over top and garnish with chopped mint leaves .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: feta cheese
+  PARG: top
+    PREP: over
+
+PREDID: 1
+PRED: garnish
+  PARG: chopped mint leaves
+    PREP: with
+

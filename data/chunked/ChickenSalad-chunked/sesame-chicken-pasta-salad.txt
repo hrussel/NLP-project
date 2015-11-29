@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Meanwhile , heat oil in a small skillet over medium-low heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a small skillet
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Stir in sesame seeds and cook until golden brown .
+PREDID: 0
+PRED: stir
+  PARG: sesame seeds
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 6
+SENT: Stir in soy sauce , vinegar , and sugar .
+PREDID: 0
+PRED: stir
+  PARG: soy sauce , vinegar , sugar
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour dressing into a sealable container , and set aside .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: a sealable container
+    PREP: into
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: In a large bowl , mix together pasta , cooked chicken , and 1 cup dressing -LRB- reserve remaining dressing -RRB- .
+PREDID: 0
+PRED: mix
+  DOBJ: pasta , cooked chicken , 1 cup dressing -lrb- reserve remaining dressing -rrb-
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Cover salad , and refrigerate at least 6 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: salad
+
+PREDID: 1
+PRED: refrigerate
+  PARG: least 6 hours
+    PREP: at
+
+
+SENTID: 10
+SENT: Directly before serving , stir in parsley , green onions , and spinach .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+  PARG: parsley , green onions , spinach
+    PREP: in
+  OARG: directly
+
+
+SENTID: 11
+SENT: Toss with remaining dressing , if desired .
+PREDID: 0
+PRED: toss
+  PARG: remaining dressing
+    PREP: with
+  PARG: desired
+    PREP: if
+

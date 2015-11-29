@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Place bacon in a large skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain bacon on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: bacon
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 7
+SENT: crumble bacon when cool enough to handle .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+
+SENTID: 8
+SENT: Cut eggs in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 9
+SENT: place egg yolks in a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: egg yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Mash yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 11
+SENT: stir in crumbled bacon , mayonnaise , tomatoes , and parsley .
+PREDID: 0
+PRED: stir
+  PARG: crumbled bacon , mayonnaise , tomatoes , parsley
+    PREP: in
+
+
+SENTID: 12
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Arrange egg white halves on a serving platter ;
+PREDID: 0
+PRED: arrange
+  DOBJ: egg white halves
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 14
+SENT: spoon yolk mixture into egg whites .
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg whites
+    PREP: into
+
+
+SENTID: 15
+SENT: Refrigerate , covered , until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: covered
+  PARG: ready to serve
+    PREP: until
+

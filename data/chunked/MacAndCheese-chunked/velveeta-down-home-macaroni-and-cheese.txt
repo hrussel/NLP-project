@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt 3 Tbsp butter in medium saucepan on medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 3 tbsp butter
+  PARG: medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: on
+
+
+SENTID: 2
+SENT: Whisk in flour ;
+PREDID: 0
+PRED: whisk
+  PARG: flour
+    PREP: in
+
+
+SENTID: 3
+SENT: cook 2 min. , stirring constantly .
+PREDID: 0
+PRED: cook
+  DOBJ: 2 min. , stirring
+  OARG: constantly
+
+
+SENTID: 4
+SENT: Gradually stir in milk .
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 5
+SENT: Bring to boil ;
+PREDID: 0
+PRED: bring
+  PARG: boil
+    PREP: to
+
+
+SENTID: 6
+SENT: cook and stir 3 to 5 min .
+PREDID: 0
+PRED: cook
+  DOBJ: 3 to 5 min
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Add VELVEETA ;
+PREDID: 0
+PRED: add
+  DOBJ: velveeta
+
+
+SENTID: 8
+SENT: cook 3 min .
+PREDID: 0
+PRED: cook
+  DOBJ: 3 min
+
+
+SENTID: 9
+SENT: Stir in macaroni .
+PREDID: 0
+PRED: stir
+  PARG: macaroni
+    PREP: in
+
+
+SENTID: 10
+SENT: Spoon into 2-qt .
+PREDID: 0
+PRED: spoon
+  PARG: 2-qt
+    PREP: into
+
+
+SENTID: 11
+SENT: casserole sprayed with cooking spray ;
+PREDID: 0
+PRED: spray
+  DOBJ: casserole sprayed
+  PARG: cooking
+    PREP: with
+
+
+SENTID: 12
+SENT: sprinkle with Cheddar .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheddar
+    PREP: with
+
+
+SENTID: 13
+SENT: Melt remaining butter ;
+PREDID: 0
+PRED: melt
+  DOBJ: remaining butter
+
+
+SENTID: 14
+SENT: toss with cracker crumbs .
+PREDID: 0
+PRED: toss
+  PARG: cracker crumbs
+    PREP: with
+
+
+SENTID: 15
+SENT: Sprinkle over casserole .
+PREDID: 0
+PRED: sprinkle
+  PARG: casserole
+    PREP: over
+
+
+SENTID: 16
+SENT: Bake 20 min .
+PREDID: 0
+PRED: bake
+  DOBJ: 20 min
+

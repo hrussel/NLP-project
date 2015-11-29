@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Combine syrup , sugar , salt , and melted butter or margarine .
+PREDID: 0
+PRED: combine
+  DOBJ: syrup , sugar , salt , melted butter or margarine
+
+
+SENTID: 1
+SENT: Slightly beat the eggs , and add to sugar mixture .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  OARG: slightly
+
+PREDID: 1
+PRED: add
+  PARG: sugar mixture
+    PREP: to
+
+
+SENTID: 2
+SENT: Beat well , and pour into uncooked pie shell .
+PREDID: 0
+PRED: beat
+  OARG: well
+
+PREDID: 1
+PRED: pour
+  PARG: uncooked pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Sprinkle pecans on top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pecans
+  PARG: top
+    PREP: on
+
+
+SENTID: 4
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 50 to 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 50 to 60 minutes
+    PREP: for
+

@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Heat the olive oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in the red bell pepper , yellow bell pepper , green bell pepper , orange bell pepper , onion , and celery .
+PREDID: 0
+PRED: stir
+  PARG: the red bell pepper , yellow bell pepper , green bell pepper , orange bell pepper , onion , celery
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook until tender .
+PREDID: 0
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Place pork and beef in the pot , and cook until evenly brown .
+PREDID: 0
+PRED: place
+  DOBJ: pork, beef
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 5
+SENT: Mix serrano chile peppers , diced tomatoes , green chile peppers , tomato paste , kidney beans , garlic , lime juice , tequila , and beer into the pot .
+PREDID: 0
+PRED: mix
+  DOBJ: serrano chile peppers , diced tomatoes , green chile peppers , tomato paste , kidney beans , garlic , lime juice , tequila , beer
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 6
+SENT: Season with chili powder , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: chili powder , salt , pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat to medium-low , and simmer 5 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , simmer 5 hours
+    PREP: to
+

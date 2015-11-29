@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , cook ground beef and onion until meat is evenly brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef, onion
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: meat is evenly brown
+    PREP: until
+
+
+SENTID: 1
+SENT: drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 2
+SENT: Mix in water , tomatoes , kidney beans , tomato sauce , and taco seasoning mix .
+PREDID: 0
+PRED: mix
+  PARG: water , tomatoes , kidney beans , tomato sauce , taco seasoning mix
+    PREP: in
+
+
+SENTID: 3
+SENT: Cover , and simmer for 15 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Remove from heat , and stir in the avocado .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: the avocado
+    PREP: in
+
+
+SENTID: 5
+SENT: Ladle hot soup into serving bowls .
+PREDID: 0
+PRED: ladle
+  DOBJ: hot soup
+  PARG: serving bowls
+    PREP: into
+
+
+SENTID: 6
+SENT: Pass cheese , tortilla chips , and sour cream to top each serving .
+PREDID: 0
+PRED: pass
+  DOBJ: cheese , tortilla chips , sour cream
+  PARG: top each serving
+    PREP: to
+

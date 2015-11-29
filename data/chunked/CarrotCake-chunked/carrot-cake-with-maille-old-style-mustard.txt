@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Carrot cake :
+PREDID: 0
+PRED: cake
+  DOBJ: carrot
+
+
+SENTID: 1
+SENT: Mix the butter and the crushed walnuts in a sauce pan and warm slightly until butter softens .
+PREDID: 0
+PRED: mix
+  DOBJ: the butter, the crushed walnuts
+  PARG: a sauce pan
+    PREP: in
+
+PREDID: 1
+PRED: warm
+  PARG: butter softens
+    PREP: until
+  OARG: slightly
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Beat the sugar and the eggs with a mixer until it starts forming bubbles .
+PREDID: 0
+PRED: beat
+  DOBJ: the sugar, the eggs
+  PARG: a mixer
+    PREP: with
+  PARG: it starts forming bubbles
+    PREP: until
+
+
+SENTID: 4
+SENT: In another bowl , mix the almond flour , baking powder , salt and flour .
+PREDID: 0
+PRED: mix
+  DOBJ: the almond flour , baking powder , salt, flour
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Blend with egg and sugar mixture until no lumps remain .
+PREDID: 0
+PRED: blend
+  PARG: egg, sugar mixture
+    PREP: with
+  PARG: no lumps remain
+    PREP: until
+
+
+SENTID: 6
+SENT: Add the butter mixture , grated carrots , Maille ¨ Old Style mustard , crushed walnuts , raisins , citrus fruit zests , cinnamon , ginger and chopped grains of coriander and mix everything carefully together .
+PREDID: 0
+PRED: add
+  DOBJ: the butter mixture , grated carrots , maille ¨ old style mustard , crushed walnuts , raisins , citrus fruit zests , cinnamon , ginger, chopped grains of coriander, mix everything
+  OARG: carefully
+  OARG: together
+
+
+SENTID: 7
+SENT: Divide mixture into small silicone cooking molds .
+PREDID: 0
+PRED: divide
+  DOBJ: mixture
+  PARG: small silicone cooking molds
+    PREP: into
+
+
+SENTID: 8
+SENT: Cook in a 375 degrees F oven for 15 minutes -LRB- depending on the size of the cake molds -RRB- .
+PREDID: 0
+PRED: cook
+  PARG: a 375 degrees f oven
+    PREP: in
+  PARG: 15 minutes -lrb- depending
+    PREP: for
+  PARG: the size of the cake molds -rrb-
+    PREP: on
+
+
+SENTID: 9
+SENT: Once cooked , remove the cakes from the molds and let them cool down all the way .
+PREDID: 0
+PRED: remove
+  DOBJ: the cakes
+  PARG: the molds, let them
+    PREP: from
+  OARG: once
+  OARG: cooked
+
+PREDID: 1
+PRED: cool
+  DOBJ: all the way
+  OARG: down
+
+
+SENTID: 10
+SENT: Icing :
+PREDID: 0
+PRED: icing
+
+
+SENTID: 11
+SENT: Mix all the ingredients together .
+PREDID: 0
+PRED: mix
+  DOBJ: all the ingredients
+  OARG: together
+
+
+SENTID: 12
+SENT: Cover the mini carrot cakes with icing and let them harden for 2 hours in the open air .
+PREDID: 0
+PRED: cover
+  DOBJ: the mini carrot cakes
+  PARG: icing, let them harden
+    PREP: with
+  PARG: 2 hours
+    PREP: for
+  PARG: the open air
+    PREP: in
+

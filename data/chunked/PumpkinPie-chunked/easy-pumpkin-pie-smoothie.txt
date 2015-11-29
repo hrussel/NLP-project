@@ -1,0 +1,20 @@
+SENTID: 0
+SENT: Blend almond milk , pumpkin , ice cubes , banana , brown sugar , 1/2 the crushed cinnamon graham cracker , wheat germ , vanilla , pumpkin pie spice , and cinnamon together in a blender until smooth .
+PREDID: 0
+PRED: blend
+  DOBJ: almond milk , pumpkin , ice cubes , banana , brown sugar , 1/2 the crushed cinnamon graham cracker , wheat germ , vanilla , pumpkin pie spice , cinnamon
+  PARG: a blender
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Garnish individual servings with remaining graham cracker crumbs .
+PREDID: 0
+PRED: garnish
+  DOBJ: individual servings
+  PARG: remaining graham cracker crumbs
+    PREP: with
+

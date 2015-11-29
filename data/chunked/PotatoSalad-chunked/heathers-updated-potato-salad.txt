@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: cool
+
+PREDID: 1
+PRED: let
+
+
+SENTID: 4
+SENT: Mix mayonnaise , buttermilk , Dijon mustard , dill , red onion , and celery in a large salad bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , buttermilk , dijon mustard , dill , red onion , celery
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: gently fold in the potatoes .
+PREDID: 0
+PRED: fold
+  PARG: the potatoes
+    PREP: in
+  OARG: gently
+
+
+SENTID: 6
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Chill for 4 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: 4 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

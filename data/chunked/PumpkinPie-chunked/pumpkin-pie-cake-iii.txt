@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13-inch cake pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch cake pan
+
+
+SENTID: 2
+SENT: Whisk the pumpkin , evaporated milk , brown sugar , eggs , and pumpkin pie space together in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the pumpkin , evaporated milk , brown sugar , eggs , pumpkin pie space
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Pour into the prepared pan .
+PREDID: 0
+PRED: pour
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 4
+SENT: Scatter the cake mix over the top of the pumpkin mixture ;
+PREDID: 0
+PRED: scatter
+  DOBJ: the cake
+
+PREDID: 1
+PRED: mix
+  PARG: the top of the pumpkin mixture
+    PREP: over
+
+
+SENTID: 5
+SENT: sprinkle the nuts over the cake mix .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the nuts
+  PARG: the cake mix
+    PREP: over
+
+
+SENTID: 6
+SENT: Drizzle the melted butter over the entire cake .
+PREDID: 0
+PRED: drizzle
+  DOBJ: the melted butter
+  PARG: the entire cake
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until set in the center , about 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: set in the center , about 50 minutes
+    PREP: until
+

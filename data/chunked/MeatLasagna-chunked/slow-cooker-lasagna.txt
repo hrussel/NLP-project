@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: In a large skillet over medium heat cook the ground beef , onion , and garlic until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef , onion , garlic
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Add the tomato sauce , tomato paste , salt , and oregano and stir until well incorporated .
+PREDID: 0
+PRED: add
+  DOBJ: the tomato sauce , tomato paste , salt , oregano
+
+PREDID: 1
+PRED: stir
+  PARG: well incorporated
+    PREP: until
+
+
+SENTID: 2
+SENT: Cook until heated through .
+PREDID: 0
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 3
+SENT: In a large bowl mix together the cottage cheese , grated Parmesan cheese , and shredded mozzarella cheese .
+PREDID: 0
+PRED: mix
+  DOBJ: the cottage cheese , grated parmesan cheese , shredded mozzarella cheese
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Spoon a layer of the meat mixture onto the bottom of the slow cooker .
+PREDID: 0
+PRED: spoon
+  DOBJ: a layer of the meat mixture
+  PARG: the bottom of the slow cooker
+    PREP: onto
+
+
+SENTID: 5
+SENT: Add a double layer of the uncooked lasagna noodles .
+PREDID: 0
+PRED: add
+  DOBJ: a double layer of the uncooked lasagna noodles
+
+
+SENTID: 6
+SENT: Break to fit noodles into slow cooker .
+PREDID: 0
+PRED: break
+  PARG: fit noodles
+    PREP: to
+  PARG: slow cooker
+    PREP: into
+
+
+SENTID: 7
+SENT: Top noodles with a portion of the cheese mixture .
+PREDID: 0
+PRED: top
+  DOBJ: noodles
+  PARG: a portion of the cheese mixture
+    PREP: with
+
+
+SENTID: 8
+SENT: Repeat the layering of sauce , noodles , and cheese until all the ingredients are used .
+PREDID: 0
+PRED: repeat
+  DOBJ: the layering of sauce , noodles , cheese
+  PARG: all the ingredients are used
+    PREP: until
+
+
+SENTID: 9
+SENT: Cover , and cook on LOW setting for 4 to 6 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low setting
+    PREP: on
+  PARG: 4 to 6 hours
+    PREP: for
+

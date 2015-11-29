@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease an 8x8 inch casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8x8 inch casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a bowl , mix the soup and milk .
+PREDID: 0
+PRED: mix
+  DOBJ: the soup, milk
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Arrange chicken breast halves in the casserole dish .
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken breast halves
+  PARG: the casserole dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Top each breast half with a slice of cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each breast half
+  PARG: a slice of cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Pour soup and milk over the chicken .
+PREDID: 0
+PRED: pour
+  DOBJ: soup, milk
+  PARG: the chicken
+    PREP: over
+
+
+SENTID: 6
+SENT: Sprinkle with mushrooms .
+PREDID: 0
+PRED: sprinkle
+  PARG: mushrooms
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake 30 minutes in the preheated oven , or until sauce is bubbly and chicken juices run clear .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: sauce is bubbly, chicken juices run clear
+    PREP: until
+  OARG: 30 minutes
+
+
+SENTID: 8
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Add noodles and cook for 8 to 10 minutes , until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 10
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 11
+SENT: Serve chicken and mushroom sauce over the cooked noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: chicken, mushroom sauce
+  PARG: the cooked noodles
+    PREP: over
+

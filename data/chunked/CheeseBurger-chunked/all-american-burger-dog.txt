@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: Place half the ground beef on a sheet of plastic wrap .
+PREDID: 0
+PRED: place
+  DOBJ: half the ground beef
+  PARG: a sheet of plastic wrap
+    PREP: on
+
+
+SENTID: 1
+SENT: Pat it into a rectangular shape , about 1/2 inch thick , 8Ê1/2 inches long , and 4 inches wide .
+PREDID: 0
+PRED: pat
+  DOBJ: and 4 inches
+  PARG: a rectangular shape
+    PREP: into
+  PARG: 1/2 inch thick , 8Ê1/2 inches
+    PREP: about
+  OARG: long
+  OARG: it
+  OARG: wide
+
+
+SENTID: 2
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Roll the beef into a log , using the plastic wrap as a guide .
+PREDID: 0
+PRED: roll
+  DOBJ: using the plastic wrap
+  PARG: a log
+    PREP: into
+  PARG: a guide
+    PREP: as
+  OARG: the beef
+
+
+SENTID: 4
+SENT: Season with more salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: more salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Wrap the plastic tightly around the log and twist both ends tight .
+PREDID: 0
+PRED: wrap
+  DOBJ: the plastic
+  PARG: the log, twist both ends
+    PREP: around
+  OARG: tightly
+  OARG: tight
+
+
+SENTID: 6
+SENT: Pat gently to slightly flatten .
+PREDID: 0
+PRED: pat
+  OARG: gently
+  OARG: to slightly flatten
+
+
+SENTID: 7
+SENT: Repeat with remaining ground beef .
+PREDID: 0
+PRED: repeat
+  PARG: remaining ground beef
+    PREP: with
+
+
+SENTID: 8
+SENT: Preheat an outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 9
+SENT: Remove the burger dogs from the plastic wrap and place on the grill , perpendicular to the grates .
+PREDID: 0
+PRED: remove
+  DOBJ: the burger dogs
+  PARG: the plastic wrap
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: the grill , perpendicular
+    PREP: on
+  PARG: the grates
+    PREP: to
+
+
+SENTID: 10
+SENT: Cook until burgers are browned but still pink inside , 4 to 5 minutes , flip , and cook another 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: burgers are browned but still pink inside , 4 to 5 minutes , flip , cook another 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Place a slice of cheese on each burger dog and grill to medium doneness -LRB- an instant-read thermometer inserted into the center should read at least 140 degrees F/60 degrees C -RRB- .
+PREDID: 0
+PRED: place
+  DOBJ: a slice of cheese
+  PARG: each burger dog
+    PREP: on
+
+PREDID: 1
+PRED: grill
+  PARG: medium doneness -lrb- an instant-read thermometer inserted
+    PREP: to
+  PARG: the center should read
+    PREP: into
+  PARG: least 140 degrees f/60 degrees c -rrb-
+    PREP: at
+
+
+SENTID: 12
+SENT: Remove and rest 3 to 4 minutes .
+PREDID: 0
+PRED: remove
+  OARG: 3 to 4 minutes
+
+PREDID: 1
+PRED: rest
+
+
+SENTID: 13
+SENT: Toast hot dog buns on the grill and spread each with 2 teaspoons mayonnaise .
+PREDID: 0
+PRED: toast
+  DOBJ: hot dog buns
+  PARG: the grill
+    PREP: on
+
+PREDID: 1
+PRED: spread
+  DOBJ: each with 2 teaspoons mayonnaise
+
+
+SENTID: 14
+SENT: Place burger dog on each bun and squirt 1 tablespoon of ketchup on top .
+PREDID: 0
+PRED: place
+  DOBJ: burger dog
+  PARG: each bun, squirt 1 tablespoon of ketchup
+    PREP: on
+  PARG: top
+    PREP: on
+

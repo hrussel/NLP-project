@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix sugar , salt , cinnamon , nutmeg , cloves , and ginger .
+PREDID: 0
+PRED: mix
+  DOBJ: sugar , salt , cinnamon , nutmeg , cloves , ginger
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Add pumpkin , then blend in milk .
+PREDID: 0
+PRED: add
+  DOBJ: pumpkin
+  OARG: then
+
+PREDID: 1
+PRED: blend
+  PARG: milk
+    PREP: in
+
+
+SENTID: 3
+SENT: In a separate bowl , beat the 2 whole eggs and separated egg yolk until light .
+PREDID: 0
+PRED: beat
+  DOBJ: the 2 whole eggs, separated egg yolk
+  PARG: a separate bowl
+    PREP: in
+  PARG: light
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir into pumpkin mixture .
+PREDID: 0
+PRED: stir
+  PARG: pumpkin mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Beat the remaining egg white until soft peaks form , then fold into pumpkin mixture .
+PREDID: 0
+PRED: beat
+  DOBJ: the remaining egg white
+  PARG: soft peaks form
+    PREP: until
+
+PREDID: 1
+PRED: fold
+  PARG: pumpkin mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Sprinkle 1/2 of the pecans onto the unbaked pie shell .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/2 of the pecans
+  PARG: the unbaked pie shell
+    PREP: onto
+
+
+SENTID: 7
+SENT: Pour pumpkin mixture over these , then sprinkle remaining pecans on top .
+PREDID: 0
+PRED: pour
+  DOBJ: sprinkle remaining pecans
+  PARG: these
+    PREP: over
+  PARG: top
+    PREP: on
+  OARG: then
+  OARG: pumpkin mixture
+
+
+SENTID: 8
+SENT: Bake in preheated oven for 15 minutes , then reduce heat to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Bake 20 more minutes , or until a knife inserted in center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: a knife inserted in center comes out clean
+    PREP: until
+  OARG: 20 more minutes
+

@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix together ground beef , bread crumbs , egg , 1/2 a chopped onion , milk , Worcestershire sauce in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , bread crumbs , egg , 1/2 a chopped onion , milk , worcestershire sauce
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: season with garlic , Italian seasoning , dry mustard , salt , and black pepper .
+PREDID: 0
+PRED: season
+  PARG: garlic , italian seasoning , dry mustard , salt , black pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Transfer the meat mixture to a piece of waxed paper or aluminum foil and flatten to a 1/2-inch thick rectangle .
+PREDID: 0
+PRED: transfer
+  DOBJ: the meat mixture
+  PARG: a piece of waxed paper or aluminum foil
+    PREP: to
+
+PREDID: 1
+PRED: flatten
+  PARG: a 1/2-inch thick rectangle
+    PREP: to
+
+
+SENTID: 4
+SENT: Melt butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook and stir yellow onion and mushrooms in melted butter until the onion is translucent and mushrooms soft , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: yellow onion, mushrooms
+
+PREDID: 1
+PRED: stir
+  PARG: melted butter
+    PREP: in
+  PARG: the onion is translucent, mushrooms soft , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove from heat to cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+  OARG: to cool
+
+
+SENTID: 7
+SENT: Spread filling mixture into center of meat rectangle .
+PREDID: 0
+PRED: spread
+  DOBJ: filling mixture
+  PARG: center of meat rectangle
+    PREP: into
+
+
+SENTID: 8
+SENT: Sprinkle Cheddar cheese over filling , leaving a bit of space at one end for easier rolling and sealing .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: leaving a bit of space
+  PARG: filling
+    PREP: over
+  PARG: one end
+    PREP: at
+  PARG: easier rolling, sealing
+    PREP: for
+  OARG: cheddar cheese
+
+
+SENTID: 9
+SENT: Pick up the edge of the waxed paper or foil to roll the flattened meat into a log around the filling .
+PREDID: 0
+PRED: pick
+  DOBJ: the edge of the waxed paper or foil
+  PARG: roll the flattened meat
+    PREP: to
+  PARG: a log
+    PREP: into
+  PARG: the filling
+    PREP: around
+  OARG: up
+
+
+SENTID: 10
+SENT: Seal the ends and seam and place the loaf into a 9x5-inch loaf pan .
+PREDID: 0
+PRED: seal
+  DOBJ: the ends, seam
+
+PREDID: 1
+PRED: place
+  DOBJ: the loaf
+  PARG: a 9x5-inch loaf pan
+    PREP: into
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until oil from the cheese begins to pool , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: oil from the cheese begins to pool , about 30 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Drain oil and continue baking until the meat is no longer pink in the center , about 30 to 60 minutes more .
+PREDID: 0
+PRED: drain
+  DOBJ: oil
+
+PREDID: 1
+PRED: continue
+  DOBJ: baking
+  PARG: the meat is no longer pink in the center , about 30 to 60 minutes more
+    PREP: until
+

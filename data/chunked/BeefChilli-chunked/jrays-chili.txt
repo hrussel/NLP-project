@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: Break ground beef into a large stock pot over medium-high heat ;
+PREDID: 0
+PRED: break
+  DOBJ: ground beef
+  PARG: a large stock pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Drain fat from the beef and return pot to heat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+  PARG: the beef
+    PREP: from
+
+PREDID: 1
+PRED: return
+  DOBJ: pot
+  PARG: heat
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir tomato sauce , light red kidney beans , dark red kidney beans , salsa , celery , onion , bell pepper , jalapeno pepper , chili seasoning , bacon , garlic , oregano , basil , salt , black pepper , and sugar with the ground beef in the pot .
+PREDID: 0
+PRED: stir
+  DOBJ: tomato sauce , light red kidney beans , dark red kidney beans , salsa , celery , onion , bell pepper , jalapeno pepper , chili seasoning , bacon , garlic , oregano , basil , salt , black pepper , sugar
+  PARG: the ground beef
+    PREP: with
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 3
+SENT: Place a cover on the pot and cook the chili until the flavors have blended , at least 1 hour .
+PREDID: 0
+PRED: place
+  DOBJ: a cover
+  PARG: the pot
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  DOBJ: the chili
+  PARG: the flavors have blended , at least 1 hour
+    PREP: until
+

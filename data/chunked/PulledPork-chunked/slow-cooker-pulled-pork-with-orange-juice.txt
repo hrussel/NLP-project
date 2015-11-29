@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: Place pork butt in a slow cooker with the fattier side facing upwards .
+PREDID: 0
+PRED: place
+  DOBJ: pork butt
+  PARG: a slow cooker
+    PREP: in
+  PARG: the fattier side facing upwards
+    PREP: with
+
+
+SENTID: 1
+SENT: Pour water and orange juice into the slow cooker .
+PREDID: 0
+PRED: pour
+  DOBJ: water, orange juice
+  PARG: the slow cooker
+    PREP: into
+
+
+SENTID: 2
+SENT: Season pork and liquid with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: pork, liquid
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Mix garlic and mustard together in a small bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: garlic, mustard
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: spread over the top of the pork butt .
+PREDID: 0
+PRED: spread
+  PARG: the top of the pork butt
+    PREP: over
+
+
+SENTID: 5
+SENT: Sprinkle onion over the pork .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: onion
+  PARG: the pork
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook on Low , turning the butt a few times , until the meat falls apart easily when pulled with a fork , 6 to 8 hours .
+PREDID: 0
+PRED: cook
+  DOBJ: turning the butt a few times
+  PARG: low
+    PREP: on
+  PARG: the meat falls apart easily when pulled with a fork , 6 to 8 hours
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove pork from slow cooker ;
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: slow cooker
+    PREP: from
+
+
+SENTID: 8
+SENT: allow to sit until cool enough to handle .
+PREDID: 0
+PRED: allow
+  PARG: cool enough to handle
+    PREP: until
+  OARG: to sit
+
+
+SENTID: 9
+SENT: Trim away and discard any visible chunks of fat .
+PREDID: 0
+PRED: trim
+  DOBJ: any visible chunks of fat
+  OARG: away
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 10
+SENT: Shred remaining pork into strands .
+PREDID: 0
+PRED: shred
+  DOBJ: remaining pork
+  PARG: strands
+    PREP: into
+
+
+SENTID: 11
+SENT: Return shredded pork to the slow cooker ;
+PREDID: 0
+PRED: return
+  DOBJ: shredded pork
+  PARG: the slow cooker
+    PREP: to
+
+
+SENTID: 12
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 13
+SENT: Remove portions of pork from slow cooker with a slotted spoon to serve .
+PREDID: 0
+PRED: remove
+  DOBJ: portions of pork
+  PARG: slow cooker
+    PREP: from
+  PARG: a slotted spoon
+    PREP: with
+  PARG: serve
+    PREP: to
+

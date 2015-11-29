@@ -1,0 +1,21 @@
+SENTID: 0
+SENT: Combine the pork tenderloin , beer , vinegar , potatoes , carrots , mushrooms , garlic , onion , salt , peppercorns , and sage in a slow cooker .
+PREDID: 0
+PRED: combine
+  DOBJ: the pork tenderloin , beer , vinegar , potatoes , carrots , mushrooms , garlic , onion , salt , peppercorns , sage
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Cover and cook on low for 4 hours .
+PREDID: 0
+PRED: cover
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 4 hours
+    PREP: for
+

@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Place half of the bread cubes in a lightly greased 9x13 inch baking pan .
+PREDID: 0
+PRED: place
+  DOBJ: half of the bread cubes
+  PARG: a lightly greased 9x13 inch baking pan
+    PREP: in
+
+
+SENTID: 1
+SENT: Sprinkle cream cheese on top of bread cubes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: cream cheese
+  PARG: top of bread cubes
+    PREP: on
+
+
+SENTID: 2
+SENT: Top with 1 cup blueberries and remaining bread .
+PREDID: 0
+PRED: top
+  PARG: 1 cup blueberries, remaining bread
+    PREP: with
+
+
+SENTID: 3
+SENT: In a large bowl , beat together eggs , milk and maple syrup .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , milk, maple syrup
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Pour egg mixture over bread .
+PREDID: 0
+PRED: pour
+  DOBJ: egg mixture
+  PARG: bread
+    PREP: over
+
+
+SENTID: 5
+SENT: Cover pan and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Cover pan with aluminum foil and bake in preheated oven for 30 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Uncover pan and bake for an additional 30 minutes , until golden brown and center is set .
+PREDID: 0
+PRED: uncover
+  DOBJ: pan
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 30 minutes
+    PREP: for
+  PARG: golden brown, center is set
+    PREP: until
+
+
+SENTID: 9
+SENT: To make Sauce :
+PREDID: 0
+PRED: sauce
+  PARG: make
+    PREP: to
+
+
+SENTID: 10
+SENT: In a saucepan , combine sugar and cornstarch , add water .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar, cornstarch
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: water
+
+
+SENTID: 11
+SENT: Boil over medium heat for 3 minutes , stirring constantly .
+PREDID: 0
+PRED: boil
+  PARG: medium heat
+    PREP: over
+  PARG: 3 minutes , stirring
+    PREP: for
+  OARG: constantly
+
+
+SENTID: 12
+SENT: Stir in blueberries and reduce heat .
+PREDID: 0
+PRED: stir
+  PARG: blueberries, reduce heat
+    PREP: in
+
+
+SENTID: 13
+SENT: Simmer 8 to 10 minutes , or until the berries have burst .
+PREDID: 0
+PRED: simmer
+  PARG: the berries have burst
+    PREP: until
+  OARG: 8 to 10 minutes
+
+
+SENTID: 14
+SENT: Stir in butter until melted .
+PREDID: 0
+PRED: stir
+  PARG: butter
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 15
+SENT: Serve the sauce over squares of french toast .
+PREDID: 0
+PRED: serve
+  DOBJ: the sauce
+  PARG: squares of french toast
+    PREP: over
+

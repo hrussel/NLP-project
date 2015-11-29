@@ -1,0 +1,383 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in 1 tablespoon of olive oil .
+PREDID: 0
+PRED: stir
+  PARG: 1 tablespoon of olive oil
+    PREP: in
+
+
+SENTID: 2
+SENT: Once the water is boiling , stir in the lasagna noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the lasagna noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 5
+SENT: Drizzle the cooked noodles with about 1Ê1/2 teaspoons of olive oil to prevent them from sticking together .
+PREDID: 0
+PRED: drizzle
+  DOBJ: the cooked noodles
+  PARG: about 1Ê1/2 teaspoons of olive oil
+    PREP: with
+  PARG: sticking
+    PREP: from
+  OARG: to prevent them
+  OARG: together
+
+
+SENTID: 6
+SENT: Place the tomatoes , juice and all , into the work bowl of a food processor and pulse to puree , about 1 minute .
+PREDID: 0
+PRED: place
+  DOBJ: the tomatoes , juice, all
+  PARG: the work bowl of a food processor
+    PREP: into
+
+PREDID: 1
+PRED: pulse
+  PARG: puree
+    PREP: to
+  PARG: 1 minute
+    PREP: about
+
+
+SENTID: 7
+SENT: Set the tomatoes aside .
+PREDID: 0
+PRED: set
+  DOBJ: the tomatoes
+  OARG: aside
+
+
+SENTID: 8
+SENT: Place the onion , carrots , celery , garlic , sage , and rosemary into the food processor , and pulse several times , until the vegetables are minced .
+PREDID: 0
+PRED: place
+  DOBJ: the onion , carrots , celery , garlic , sage , rosemary
+  PARG: the food processor
+    PREP: into
+
+PREDID: 1
+PRED: pulse
+  DOBJ: several times
+  PARG: the vegetables are minced
+    PREP: until
+
+
+SENTID: 9
+SENT: Heat 2 tablespoons of olive oil in a large saucepan over high heat until smoking hot , and add the minced vegetables .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons of olive oil
+  PARG: a large saucepan
+    PREP: in
+  PARG: high heat
+    PREP: over
+  PARG: smoking hot
+    PREP: until
+
+PREDID: 1
+PRED: add
+  DOBJ: the minced vegetables
+
+
+SENTID: 10
+SENT: Reduce heat to medium , and cook and stir until the vegetables have softened and are just beginning to brown , about 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: the vegetables have softened, are just beginning to brown , about 10 minutes
+    PREP: until
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 11
+SENT: Stir in the ground beef and Italian sausage , and brown the meat , breaking it apart into crumbles as it cooks , about 10 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the ground beef, italian sausage
+    PREP: in
+
+PREDID: 1
+PRED: brown
+  DOBJ: the meat , breaking it
+  PARG: crumbles
+    PREP: into
+  PARG: it cooks
+    PREP: as
+  PARG: 10 minutes
+    PREP: about
+  OARG: apart
+
+
+SENTID: 12
+SENT: When the meat is no longer pink , stir in the flour , and cook and stir about 2 more minutes .
+PREDID: 0
+PRED: stir
+  PARG: the flour
+    PREP: in
+  OARG: when the meat is no longer pink
+
+PREDID: 1
+PRED: cook
+  PARG: 2 more minutes
+    PREP: about
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 13
+SENT: Pour in the red wine , bring the mixture to a simmer , and cook , stirring occasionally , until the wine has reduced , about 15 minutes .
+PREDID: 0
+PRED: pour
+  PARG: the red wine
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  DOBJ: the mixture
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  DOBJ: stirring
+  PARG: the wine has reduced , about 15 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 14
+SENT: Pour the pureed tomatoes , cream , Parmesan cheese , and cinnamon into the meat sauce , bring to a boil over medium heat , reduce heat to a simmer , and cover the pan .
+PREDID: 0
+PRED: pour
+  DOBJ: the pureed tomatoes , cream , parmesan cheese , cinnamon
+  PARG: the meat sauce
+    PREP: into
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+PREDID: 2
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+PREDID: 3
+PRED: cover
+  DOBJ: the pan
+
+
+SENTID: 15
+SENT: Cook the sauce , stirring occasionally , for 20 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the sauce , stirring
+  PARG: 20 minutes
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 16
+SENT: Set the sauce aside .
+PREDID: 0
+PRED: set
+  DOBJ: the sauce
+  OARG: aside
+
+
+SENTID: 17
+SENT: In a large bowl , mix together the ricotta cheese , eggs , 3/4 pound of shredded mozzarella cheese , and kosher salt and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the ricotta cheese , eggs , 3/4 pound of shredded mozzarella cheese , kosher salt, pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 18
+SENT: Reserve 1/4 pound of mozzarella for topping .
+PREDID: 0
+PRED: reserve
+  DOBJ: 1/4 pound of mozzarella
+  PARG: topping
+    PREP: for
+
+
+SENTID: 19
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 20
+SENT: Grease a 9x13-inch baking dish with olive oil .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+  PARG: olive oil
+    PREP: with
+
+
+SENTID: 21
+SENT: To make the lasagna , lay about 4 noodles in the bottom of the prepared baking dish , running the long way , and slightly overlap them to cover the bottom completely .
+PREDID: 0
+PRED: lay
+  DOBJ: running the long way
+  PARG: make the lasagna
+    PREP: to
+  PARG: 4 noodles
+    PREP: about
+  PARG: the bottom of the prepared baking dish
+    PREP: in
+  PARG: cover the bottom
+    PREP: to
+  OARG: slightly
+  OARG: completely
+
+
+SENTID: 22
+SENT: Spread 1/3 of the ricotta cheese mixture over the noodles , and top with 1/4 of the meat sauce .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/3 of the ricotta cheese mixture
+  PARG: the noodles
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: 1/4 of the meat sauce
+    PREP: with
+
+
+SENTID: 23
+SENT: Top with a second layer of noodles , running the short way .
+PREDID: 0
+PRED: top
+  DOBJ: running the short way
+  PARG: a second layer of noodles
+    PREP: with
+
+
+SENTID: 24
+SENT: Top the second layer with 1/3 of the ricotta cheese mixture and 1/4 of the meat sauce as before ;
+PREDID: 0
+PRED: top
+  DOBJ: the second layer
+  PARG: 1/3 of the ricotta cheese mixture, 1/4 of the meat sauce
+    PREP: with
+  PARG: before
+    PREP: as
+
+
+SENTID: 25
+SENT: make a 3rd layer of noodles , the last third of the ricotta mixture , and 1/4 of the meat sauce .
+PREDID: 0
+PRED: make
+  DOBJ: a 3rd layer of noodles , the last third of the ricotta mixture , 1/4 of the meat sauce
+
+
+SENTID: 26
+SENT: Place one more layer of noodles , and top with the last 1/4 of the meat sauce .
+PREDID: 0
+PRED: place
+  DOBJ: one more layer of noodles
+
+PREDID: 1
+PRED: top
+  PARG: the last 1/4 of the meat sauce
+    PREP: with
+
+
+SENTID: 27
+SENT: Sprinkle the reserved mozzarella cheese over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the reserved mozzarella cheese
+  PARG: the top
+    PREP: over
+
+
+SENTID: 28
+SENT: Bake in the preheated oven until the lasagna is bubbling and the cheese is melted and lightly browned , 45 to 55 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the lasagna is bubbling, the cheese is melted, lightly browned , 45 to 55 minutes
+    PREP: until
+
+
+SENTID: 29
+SENT: Let the lasagna stand about 5 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: the lasagna stand
+  PARG: 5 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+

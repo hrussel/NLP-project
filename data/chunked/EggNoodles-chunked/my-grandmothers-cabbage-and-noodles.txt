@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Place water and butter in a large , deep skillet and bring to a boil ;
+PREDID: 0
+PRED: place
+  DOBJ: water
+
+PREDID: 1
+PRED: butter
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: stir in bacon and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: bacon
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir cabbage into the bacon mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage
+  PARG: the bacon mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: simmer until the thickest pieces of cabbage are fork-tender and the liquid has almost evaporated , about 20 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: the thickest pieces of cabbage are fork-tender, the liquid has almost evaporated , about 20 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir in egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles uncovered , stirring
+  PARG: tender but still slightly firm , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 9
+SENT: Lightly toss egg noodles with bacon and cabbage ;
+PREDID: 0
+PRED: toss
+  DOBJ: egg noodles
+  PARG: bacon, cabbage
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 10
+SENT: season to taste with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, black pepper
+    PREP: with
+

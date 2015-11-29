@@ -1,0 +1,142 @@
+T1	arg_location 0 21	In a large Dutch oven
+T2	predicate 22 26	heat
+T3	predicate 54 59	brown
+T4	predicate 81 87	Remove
+T5	predicate 115 120	saute
+T6	predicate 205 211	Return
+T7	predicate 246 253	Stir in
+T8	predicate 307 312	Bring
+T9	predicate 329 334	cover
+T10	predicate 339 345	reduce
+T11	predicate 366 372	Simmer
+T12	predicate 424 429	Bring
+T13	predicate 477 480	Add
+T14	predicate 501 505	cook
+T15	predicate 545 550	drain
+T16	predicate 566 570	melt
+T17	predicate 603 608	saute
+T18	predicate 643 646	Add
+T19	predicate 682 687	Bring
+T20	predicate 716 719	Mix
+T21	predicate 763 767	stir
+T22	predicate 812 819	Stir in
+T23	predicate 844 849	serve
+R1	location Arg1:T2 Arg2:T1	
+T24	arg_object 27 34	the oil
+T25	arg_object 60 79	the cubed stew meat
+T26	arg_object 121 130	the bacon
+T27	arg_object 132 137	onion
+T28	arg_object 142 148	celery
+T29	arg_object 212 233	the browned stew meat
+T30	arg_object 254 268	seasoning salt
+T31	arg_object 270 290	Worcestershire sauce
+T32	arg_object 295 305	beef broth
+T33	arg_object 346 354	the heat
+R2	object Arg1:T2 Arg2:T24	
+R3	object Arg1:T3 Arg2:T25	
+T34	arg_other 35 49	over high heat
+R4	other Arg1:T2 Arg2:T34	
+R5	co-object Arg1:T3 Arg2:T2	
+T35	arg_location 88 96	from pan
+R7	location Arg1:T4 Arg2:T35	
+T36	arg_location 98 113	In the same pan
+R8	location Arg1:T5 Arg2:T36	
+R9	object Arg1:T5 Arg2:T26	
+R10	object Arg1:T5 Arg2:T27	
+R11	object Arg1:T5 Arg2:T28	
+T37	arg_duration 149 203	until onions are translucent and bacon is fully cooked
+R12	duration Arg1:T5 Arg2:T37	
+R13	object Arg1:T6 Arg2:T29	
+T38	Evolution 212 233	the browned stew meat
+E1	Evolution:T38 Cause2:T4
+T39	arg_location 234 244	to the pan
+R6	object Arg1:T7 Arg2:T30	
+R15	object Arg1:T7 Arg2:T31	
+R16	object Arg1:T7 Arg2:T32	
+R17	co-object Arg1:T7 Arg2:T6	
+T41	arg_duration 313 322	to a boil
+R18	duration Arg1:T8 Arg2:T41	
+R19	object Arg1:T8 Arg2:T7	
+R20	object Arg1:T9 Arg2:T8	
+R21	co-object Arg1:T10 Arg2:T9	
+R22	object Arg1:T10 Arg2:T33	
+T42	arg_duration 355 364	to medium
+R23	duration Arg1:T10 Arg2:T42	
+T43	arg_duration 373 422	for 1 to 1 1/2 hours or until meat is fork tender
+R24	duration Arg1:T11 Arg2:T43	
+R25	object Arg1:T11 Arg2:T10	
+T44	arg_object 430 465	a large pot of lightly salted water
+T45	arg_duration 466 475	to a boil
+R26	object Arg1:T12 Arg2:T44	
+R27	duration Arg1:T12 Arg2:T45	
+T46	arg_object 481 496	the egg noodles
+R28	object Arg1:T13 Arg2:T46	
+R29	co-object Arg1:T13 Arg2:T12	
+R30	object Arg1:T14 Arg2:T13	
+T47	arg_duration 506 543	for 8 to 10 minutes or until al dente
+R31	duration Arg1:T14 Arg2:T47	
+R32	object Arg1:T15 Arg2:T14	
+T48	arg_object 571 581	the butter
+T49	arg_location 552 564	In a skillet
+T50	arg_duration 582 598	over medium heat
+R33	location Arg1:T16 Arg2:T49	
+R34	object Arg1:T16 Arg2:T48	
+R35	duration Arg1:T16 Arg2:T50	
+T51	arg_object 609 622	the mushrooms
+R36	object Arg1:T17 Arg2:T51	
+R37	co-object Arg1:T17 Arg2:T16	
+T52	arg_duration 623 641	for 3 to 4 minutes
+R38	duration Arg1:T17 Arg2:T52	
+T53	arg_object 647 660	the mushrooms
+T54	Evolution 647 660	the mushrooms
+E3	Evolution:T54 Cause:T17
+T55	arg_co-object 661 680	to the meat mixture
+T56	Evolution 664 680	the meat mixture
+E4	Evolution:T56 Cause:T11
+R39	object Arg1:T18 Arg2:T53	
+R40	co-object Arg1:T18 Arg2:T55	
+T57	arg_object 688 704	the meat mixture
+T58	Evolution 688 704	the meat mixture
+E5	Evolution:T58 Cause:T18
+R41	object Arg1:T19 Arg2:T57	
+T59	arg_duration 705 714	to a boil
+R42	duration Arg1:T19 Arg2:T59	
+T60	arg_object 729 743	the cornstarch
+T61	arg_object 748 757	the water
+R43	object Arg1:T20 Arg2:T60	
+R44	object Arg1:T20 Arg2:T61	
+R45	object Arg1:T21 Arg2:T20	
+T62	arg_co-object 768 789	into the meat mixture
+R46	co-object Arg1:T21 Arg2:T62	
+T63	Evolution 773 789	the meat mixture
+E6	Evolution:T63 Cause:T19
+T64	arg_object 820 830	sour cream
+R47	object Arg1:T22 Arg2:T64	
+R48	co-object Arg1:T22 Arg2:T21	
+T65	arg_duration 831 843	until creamy
+R49	duration Arg1:T22 Arg2:T65	
+R50	object Arg1:T23 Arg2:T22	
+T66	arg_co-object 850 870	over the egg noodles
+R51	co-object Arg1:T23 Arg2:T66	
+T67	Evolution 855 870	the egg noodles
+E7	Evolution:T67 Cause:T15
+T68	ingredient 27 34	the oil
+T69	ingredient 60 79	the cubed stew meat
+R52	same-location Arg1:T35 Arg2:T1	
+R53	object Arg1:T4 Arg2:T3	
+R54	same-location Arg1:T36 Arg2:T35	
+T70	ingredient 121 130	the bacon
+T71	ingredient 132 137	onion
+T72	ingredient 142 148	celery
+R14	co-object Arg1:T6 Arg2:T5	
+R55	same-location Arg1:T39 Arg2:T36	
+T40	ingredient 254 268	seasoning salt
+T73	ingredient 270 290	Worcestershire sauce
+T74	ingredient 295 305	beef broth
+T75	ingredient 481 496	the egg noodles
+R56	co-object Arg1:T15 Arg2:T14	
+T76	ingredient 571 581	the butter
+T77	ingredient 609 622	the mushrooms
+T78	ingredient 729 743	the cornstarch
+T79	ingredient 748 757	the water
+T80	ingredient 820 830	sour cream

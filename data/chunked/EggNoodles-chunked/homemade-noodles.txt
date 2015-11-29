@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Mix all ingredients .
+PREDID: 0
+PRED: mix
+  DOBJ: all ingredients
+
+
+SENTID: 1
+SENT: Roll thin with flour , then roll like a jelly roll .
+PREDID: 0
+PRED: roll
+  PARG: flour
+    PREP: with
+  OARG: thin
+  OARG: then
+
+PREDID: 1
+PRED: roll
+  PARG: a jelly roll
+    PREP: like
+
+
+SENTID: 2
+SENT: Cut into 1/2 inch strips .
+PREDID: 0
+PRED: cut
+  PARG: 1/2 inch strips
+    PREP: into
+
+
+SENTID: 3
+SENT: Let dry .
+PREDID: 0
+PRED: let
+  DOBJ: dry
+
+
+SENTID: 4
+SENT: Drop into hot chicken broth .
+PREDID: 0
+PRED: drop
+  PARG: hot chicken broth
+    PREP: into
+
+
+SENTID: 5
+SENT: Boil for 15 minutes .
+PREDID: 0
+PRED: boil
+  PARG: 15 minutes
+    PREP: for
+

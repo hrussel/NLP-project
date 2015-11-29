@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Place the pork sausage , beef , and onion into a large skillet over medium heat , and cook , stirring frequently , until the meat is browned , about 15 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the pork sausage , beef , onion
+  PARG: a large skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: the meat is browned , about 15 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 1
+SENT: Break the meat up into crumbles as it cooks .
+PREDID: 0
+PRED: break
+  DOBJ: the meat
+  PARG: crumbles
+    PREP: into
+  PARG: it cooks
+    PREP: as
+  OARG: up
+
+
+SENTID: 2
+SENT: Drain off excess fat , then place the meat into a soup pot .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+  OARG: then
+
+PREDID: 1
+PRED: place
+  DOBJ: the meat
+  PARG: a soup pot
+    PREP: into
+
+
+SENTID: 3
+SENT: Mix in the diced tomatoes with green peppers , chili beans , tomato sauce , chili powder , masa harina , cumin , salt , paprika , oregano , garlic powder , and cayenne pepper .
+PREDID: 0
+PRED: mix
+  PARG: the diced tomatoes
+    PREP: in
+  PARG: green peppers , chili beans , tomato sauce , chili powder , masa harina , cumin , salt , paprika , oregano , garlic powder , cayenne pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring the chili to a simmer , reduce heat , and simmer for 1 hour .
+PREDID: 0
+PRED: bring
+  DOBJ: the chili
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: 1 hour
+    PREP: for
+

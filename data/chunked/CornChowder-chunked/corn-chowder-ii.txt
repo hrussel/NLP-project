@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Melt butter slowly .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  OARG: slowly
+
+
+SENTID: 1
+SENT: Add onions and saute 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: onions
+
+PREDID: 1
+PRED: saute
+  OARG: 3 minutes
+
+
+SENTID: 2
+SENT: Add flour , salt , pepper , sherry , cayenne , and parsley , and mix thoroughly .
+PREDID: 0
+PRED: add
+  DOBJ: flour , salt , pepper , sherry , cayenne , parsley
+
+PREDID: 1
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Add milk and cook until thick , raising heat if necessary .
+PREDID: 0
+PRED: add
+  DOBJ: milk
+
+PREDID: 1
+PRED: cook
+  PARG: thick , raising heat if necessary
+    PREP: until
+
+
+SENTID: 4
+SENT: Add cans of corn , peppers , grated cheese .
+PREDID: 0
+PRED: add
+  DOBJ: cans of corn , peppers , grated cheese
+
+
+SENTID: 5
+SENT: Let simmer on low for at least an hour .
+PREDID: 0
+PRED: let
+  DOBJ: simmer
+  PARG: low
+    PREP: on
+  PARG: at least an hour
+    PREP: for
+

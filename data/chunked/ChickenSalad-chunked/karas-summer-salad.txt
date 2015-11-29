@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook edamame in boiling water for 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: edamame
+  PARG: boiling water
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Rinse with cold water ;
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 7
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 8
+SENT: Stir mayonnaise , celery seed , paprika , salt , and black pepper together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , celery seed , paprika , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Toss macaroni , edamame , chicken , eggs , sunflower seed kernels , Cheddar cheese , and green onion in a bowl ;
+PREDID: 0
+PRED: toss
+  DOBJ: macaroni , edamame , chicken , eggs , sunflower seed kernels , cheddar cheese , green onion
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: add mayonnaise mixture and stir to coat .
+PREDID: 0
+PRED: add
+  DOBJ: mayonnaise mixture
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 11
+SENT: Chill in refrigerator until cold , 30 to 60 minutes .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator
+    PREP: in
+  PARG: cold , 30 to 60 minutes
+    PREP: until
+

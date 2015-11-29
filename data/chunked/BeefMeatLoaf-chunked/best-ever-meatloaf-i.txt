@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine meat , tomato juice , oats , egg , chopped onion , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: meat , tomato juice , oats , egg , chopped onion , salt, pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Press into 8x4 inch loaf pan .
+PREDID: 0
+PRED: press
+  PARG: 8x4 inch loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake for 1 hour , or until meat is no longer pink and juices run clear .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: meat is no longer pink, juices run clear
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Let stand 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 5 minutes
+

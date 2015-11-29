@@ -1,0 +1,23 @@
+SENTID: 0
+SENT: Toss together spinach , cucumber , broccoli , feta , onion , chicken , and bacon in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: spinach , cucumber , broccoli , feta , onion , chicken , bacon
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour dressing over salad , and gently toss again .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+  OARG: gently
+
+PREDID: 1
+PRED: toss
+  OARG: again
+

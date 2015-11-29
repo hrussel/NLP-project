@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: Cut the pork roast into large chunks .
+PREDID: 0
+PRED: cut
+  DOBJ: the pork roast
+  PARG: large chunks
+    PREP: into
+
+
+SENTID: 1
+SENT: Season generously with the Cajun seasoning .
+PREDID: 0
+PRED: season
+  PARG: the cajun seasoning
+    PREP: with
+  OARG: generously
+
+
+SENTID: 2
+SENT: Melt butter in a large skillet over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Add pork , and brown on all sides .
+PREDID: 0
+PRED: add
+  DOBJ: pork
+
+PREDID: 1
+PRED: brown
+  PARG: all sides
+    PREP: on
+
+
+SENTID: 4
+SENT: Remove from the skillet , and transfer to a slow cooker .
+PREDID: 0
+PRED: remove
+  PARG: the skillet
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 5
+SENT: Add the onion and garlic to the skillet , and cook for a few minutes until tender .
+PREDID: 0
+PRED: add
+  DOBJ: the onion, garlic
+  PARG: the skillet
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: a few minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the water scraping the bottom to include all of the browned pork bits from the bottom of the pan , then pour the whole mixture into the slow cooker with the pork .
+PREDID: 0
+PRED: stir
+  DOBJ: scraping the bottom
+  PARG: the water
+    PREP: in
+  PARG: the bottom of the pan
+    PREP: from
+  OARG: to include all of the browned pork bits
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: the whole mixture
+  PARG: the slow cooker
+    PREP: into
+  PARG: the pork
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir in liquid smoke flavoring .
+PREDID: 0
+PRED: stir
+  PARG: liquid smoke flavoring
+    PREP: in
+
+
+SENTID: 8
+SENT: Cover , and cook on High for 6 hours , or until meat is falling apart when pierced with a fork .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: 6 hours
+    PREP: for
+  PARG: meat is falling apart when pierced with a fork
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove pieces of pork from the slow cooker , and shred .
+PREDID: 0
+PRED: remove
+  DOBJ: pieces of pork
+  PARG: the slow cooker
+    PREP: from
+
+PREDID: 1
+PRED: shred
+
+
+SENTID: 10
+SENT: Return to the slow cooker to keep warm while serving .
+PREDID: 0
+PRED: return
+  PARG: the slow cooker
+    PREP: to
+  PARG: keep warm
+    PREP: to
+  PARG: serving
+    PREP: while
+

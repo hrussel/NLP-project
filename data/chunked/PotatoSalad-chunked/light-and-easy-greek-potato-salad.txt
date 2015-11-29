@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Place red potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: red potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 25 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 25 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and chill in freezer until cold , about 30 minutes .
+PREDID: 0
+PRED: drain
+  PARG: freezer
+    PREP: in
+
+PREDID: 1
+PRED: chill
+  PARG: cold , about 30 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Slice potatoes and place into a large salad bowl ;
+PREDID: 0
+PRED: slice
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: place
+  PARG: a large salad bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: toss potatoes with green onion .
+PREDID: 0
+PRED: toss
+  DOBJ: potatoes
+  PARG: green onion
+    PREP: with
+
+
+SENTID: 6
+SENT: Whisk olive oil , red wine vinegar , lemon juice , garlic powder , onion powder , salt , black pepper , oregano , sugar , rosemary , and red pepper in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: olive oil , red wine vinegar , lemon juice , garlic powder , onion powder , salt , black pepper , oregano , sugar , rosemary , red pepper
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour the dressing over the potatoes and toss .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potatoes
+    PREP: over
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 8
+SENT: Serve immediately or chill until serving time .
+PREDID: 0
+PRED: serve
+  PARG: serving time
+    PREP: until
+  OARG: immediately
+
+PREDID: 1
+PRED: chill
+

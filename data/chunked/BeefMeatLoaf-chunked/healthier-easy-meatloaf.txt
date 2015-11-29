@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x5-inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5-inch loaf pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Combine beef , egg , onion , milk , bread crumbs , parsley , and carrot in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: beef , egg , onion , milk , bread crumbs , parsley , carrot
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Place beef mixture in loaf pan .
+PREDID: 0
+PRED: place
+  DOBJ: beef mixture
+  PARG: loaf pan
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir together brown sugar , mustard , and ketchup in a small bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: brown sugar , mustard , ketchup
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Pour over meatloaf .
+PREDID: 0
+PRED: pour
+  PARG: meatloaf
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake in preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+

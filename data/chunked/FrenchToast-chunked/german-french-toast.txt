@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Melt butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: In a shallow bowl , beat together eggs and milk .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs, milk
+  PARG: a shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Dip bread slices one at a time in egg mixture , and fry in butter until golden .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices one at a time
+  PARG: egg mixture
+    PREP: in
+
+PREDID: 1
+PRED: fry
+  PARG: butter
+    PREP: in
+  PARG: golden
+    PREP: until
+
+
+SENTID: 3
+SENT: After turning once , top with a slice of muenster cheese , and cover until cheese is melted .
+PREDID: 0
+PRED: top
+  PARG: turning
+    PREP: after
+  PARG: a slice of muenster cheese
+    PREP: with
+  OARG: once
+
+PREDID: 1
+PRED: cover
+  PARG: cheese is melted
+    PREP: until
+

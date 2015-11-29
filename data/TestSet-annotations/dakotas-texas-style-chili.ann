@@ -1,0 +1,76 @@
+T1	predicate 30 34	cook
+T2	predicate 95 104	Drain off
+T3	predicate 166 169	Add
+T4	predicate 189 202	cook and stir
+T5	predicate 232 238	Season
+T6	predicate 302 315	Cook and stir
+T7	predicate 358 365	Stir in
+T8	predicate 421 426	bring
+T9	predicate 438 444	Reduce
+T10	predicate 461 467	simmer
+T11	arg_object 445 449	heat
+R1	object Arg1:T9 Arg2:T11	
+R2	co-object Arg1:T9 Arg2:T8	
+T12	arg_duration 450 456	to low
+R3	duration Arg1:T9 Arg2:T12	
+R4	object Arg1:T10 Arg2:T9	
+T13	arg_other 469 478	uncovered
+R5	other Arg1:T10 Arg2:T13	
+T14	arg_duration 480 518	until beef is tender, 2 1/2 to 3 hours
+R6	duration Arg1:T10 Arg2:T14	
+T15	arg_other 427 436	to a boil
+R7	other Arg1:T8 Arg2:T15	
+R8	object Arg1:T8 Arg2:T7	
+T16	arg_object 366 374	the beef
+T17	arg_object 376 381	water
+T18	arg_object 383 387	beer
+T19	arg_object 389 405	chipotle peppers
+T20	arg_object 411 419	cornmeal
+R9	object Arg1:T7 Arg2:T16	
+R10	object Arg1:T7 Arg2:T17	
+R11	object Arg1:T7 Arg2:T18	
+R12	object Arg1:T7 Arg2:T19	
+R13	object Arg1:T7 Arg2:T20	
+R14	co-object Arg1:T7 Arg2:T6	
+T21	arg_duration 316 336	for about 30 seconds
+T22	arg_other 337 356	to toast the spices
+R15	duration Arg1:T6 Arg2:T21	
+R16	other Arg1:T6 Arg2:T22	
+R17	object Arg1:T6 Arg2:T5	
+R18	object Arg1:T5 Arg2:T4	
+T23	arg_co-object 239 300	with oregano, cayenne pepper, paprika, chili powder and cumin
+R19	co-object Arg1:T5 Arg2:T23	
+R20	object Arg1:T4 Arg2:T3	
+T24	arg_duration 203 230	until the onions are tender
+R21	duration Arg1:T4 Arg2:T24	
+T25	arg_object 170 176	onions
+T26	arg_object 181 187	garlic
+R22	object Arg1:T3 Arg2:T25	
+R23	object Arg1:T3 Arg2:T26	
+R24	co-object Arg1:T3 Arg2:T2	
+T27	arg_object 105 118	excess grease
+R25	object Arg1:T2 Arg2:T27	
+T28	arg_other 120 164	leaving enough to coat the bottom of the pan
+R26	other Arg1:T2 Arg2:T28	
+T29	arg_location 0 28	In a heavy pot or Dutch oven
+R27	location Arg1:T1 Arg2:T29	
+T30	arg_object 35 40	bacon
+R28	object Arg1:T1 Arg2:T30	
+T31	arg_duration 41 57	over medium heat
+T32	arg_duration 58 93	until crispy, stirring occasionally
+R29	duration Arg1:T1 Arg2:T31	
+R30	duration Arg1:T1 Arg2:T32	
+R31	co-object Arg1:T2 Arg2:T1	
+T33	ingredient 35 40	bacon
+T34	ingredient 170 176	onions
+T35	ingredient 181 187	garlic
+T36	ingredient 244 251	oregano
+T37	ingredient 253 267	cayenne pepper
+T38	ingredient 269 276	paprika
+T39	ingredient 278 290	chili powder
+T40	ingredient 295 300	cumin
+T41	ingredient 366 374	the beef
+T42	ingredient 376 381	water
+T43	ingredient 383 387	beer
+T44	ingredient 389 405	chipotle peppers
+T45	ingredient 411 419	cornmeal

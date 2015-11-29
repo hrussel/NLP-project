@@ -1,0 +1,131 @@
+T1	predicate 0 3	Put
+T2	predicate 58 63	bring
+T3	predicate 75 81	Reduce
+T4	predicate 95 100	cover
+T5	predicate 105 111	simmer
+T6	predicate 160 165	Fluff
+T7	predicate 199 203	heat
+T8	predicate 270 273	Add
+T9	predicate 351 359	Transfer
+T10	predicate 380 383	Add
+T11	predicate 420 423	add
+T12	predicate 476 479	Add
+T13	predicate 584 589	whisk
+T14	predicate 661 664	Add
+T15	predicate 718 721	mix
+T16	predicate 723 728	Chill
+T17	predicate 809 816	stir in
+T18	arg_object 4 14	the quinoa
+T19	arg_object 19 32	chicken broth
+T20	arg_location 33 53	in a medium saucepan
+R1	object Arg1:T1 Arg2:T18	
+R2	object Arg1:T1 Arg2:T19	
+R3	location Arg1:T1 Arg2:T20	
+T21	ingredient 4 14	the quinoa
+T22	ingredient 19 32	chicken broth
+R4	object Arg1:T2 Arg2:T1	
+T23	arg_other 64 73	to a boil
+R5	other Arg1:T2 Arg2:T23	
+T24	arg_object 82 86	heat
+R6	object Arg1:T3 Arg2:T24	
+R7	co-object Arg1:T3 Arg2:T2	
+T25	arg_other 87 93	to low
+R8	object Arg1:T4 Arg2:T3	
+R9	other Arg1:T3 Arg2:T25	
+R10	object Arg1:T5 Arg2:T4	
+T26	arg_duration 112 158	until the liquid is absorbed, 12 to 15 minutes
+R11	duration Arg1:T5 Arg2:T26	
+R12	object Arg1:T6 Arg2:T5	
+T27	arg_other 166 177	with a fork
+R13	other Arg1:T6 Arg2:T27	
+T28	arg_object 204 227	1 tablespoon of the oil
+T29	ingredient 204 227	1 tablespoon of the oil
+T30	arg_location 228 246	in a large skillet
+T31	arg_other 247 268	over medium-high heat
+R14	object Arg1:T7 Arg2:T28	
+R15	location Arg1:T7 Arg2:T30	
+R16	other Arg1:T7 Arg2:T31	
+T32	arg_object 274 285	the sausage
+R17	object Arg1:T8 Arg2:T32	
+T33	ingredient 274 285	the sausage
+T34	predicate 290 294	cook
+R18	object Arg1:T34 Arg2:T8	
+R19	co-object Arg1:T8 Arg2:T7	
+T35	arg_other 296 317	stirring occasionally
+T36	arg_duration 319 349	until browned, about 5 minutes
+R20	other Arg1:T34 Arg2:T35	
+R21	duration Arg1:T34 Arg2:T36	
+T37	arg_object 360 367	sausage
+R22	object Arg1:T9 Arg2:T37	
+T38	Evolution 360 367	sausage
+E1	Evolution:T38 Cause:T34
+T39	arg_location 368 378	to a plate
+R23	location Arg1:T9 Arg2:T39	
+T40	arg_object 384 406	another tablespoon oil
+T41	ingredient 384 406	another tablespoon oil
+R24	object Arg1:T10 Arg2:T40	
+T42	arg_location 407 413	to pan
+R25	same-location Arg1:T42 Arg2:T30	
+R26	location Arg1:T10 Arg2:T42	
+R27	co-object Arg1:T11 Arg2:T10	
+T43	arg_object 424 433	the onion
+R28	object Arg1:T11 Arg2:T43	
+T44	predicate 438 442	cook
+R29	object Arg1:T44 Arg2:T11	
+T45	arg_duration 443 474	until softened, about 3 minutes
+R30	duration Arg1:T44 Arg2:T45	
+T46	arg_object 480 490	the squash
+T47	arg_object 495 502	carrots
+R31	object Arg1:T12 Arg2:T46	
+R32	object Arg1:T12 Arg2:T47	
+T48	ingredient 424 433	the onion
+T49	ingredient 480 490	the squash
+T50	ingredient 495 502	carrots
+T51	predicate 507 511	cook
+R33	co-object Arg1:T12 Arg2:T44	
+R34	object Arg1:T51 Arg2:T12	
+T52	arg_duration 512 565	about 5 minutes, until the vegetables are tender-firm
+R35	duration Arg1:T51 Arg2:T52	
+T53	arg_location 567 582	In a large bowl
+R36	location Arg1:T13 Arg2:T53	
+T54	arg_other 590 598	together
+T55	arg_object 599 614	the lemon juice
+T56	ingredient 599 614	the lemon juice
+T57	ingredient 616 629	remaining oil
+T58	arg_object 616 629	remaining oil
+T59	arg_object 631 636	cumin
+T60	ingredient 631 636	cumin
+T61	arg_object 638 642	salt
+T62	ingredient 638 642	salt
+T63	arg_object 647 659	black pepper
+T64	ingredient 647 659	black pepper
+R37	other Arg1:T13 Arg2:T54	
+R38	object Arg1:T13 Arg2:T55	
+R39	object Arg1:T13 Arg2:T58	
+R40	object Arg1:T13 Arg2:T59	
+R41	object Arg1:T13 Arg2:T61	
+R42	object Arg1:T13 Arg2:T63	
+R43	co-object Arg1:T14 Arg2:T13	
+T65	arg_object 665 671	quinoa
+T66	Evolution 665 671	quinoa
+E2	Evolution:T66 Cause:T6
+R44	object Arg1:T14 Arg2:T65	
+T67	arg_object 673 680	sausage
+T68	Evolution 673 680	sausage
+E3	Evolution:T68 Cause:T9
+R45	object Arg1:T14 Arg2:T67	
+T69	arg_object 682 713	squash-carrot and onion mixture
+T70	Evolution 682 713	squash-carrot and onion mixture
+E4	Evolution:T70 Cause:T51
+R46	object Arg1:T15 Arg2:T14	
+R47	object Arg1:T16 Arg2:T15	
+T71	arg_location 729 748	in the refrigerator
+T72	arg_duration 749 786	at least 30 minutes or up to two days
+R48	location Arg1:T16 Arg2:T71	
+R49	duration Arg1:T16 Arg2:T72	
+R50	co-object Arg1:T17 Arg2:T16	
+T73	arg_object 817 828	the parsley
+T74	ingredient 817 828	the parsley
+T75	arg_other 788 807	When ready to serve
+R51	object Arg1:T17 Arg2:T73	
+R52	other Arg1:T17 Arg2:T75	

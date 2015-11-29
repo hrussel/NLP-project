@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Heat a skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook steak , working in batches , until seared and browned on all sides , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: steak , working
+  PARG: batches
+    PREP: in
+  PARG: seared, browned on all sides , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer seared steak to a plate .
+PREDID: 0
+PRED: transfer
+  DOBJ: seared steak
+  PARG: a plate
+    PREP: to
+
+
+SENTID: 3
+SENT: Melt butter in the same skillet over medium heat and saute onion until softened , 5 to 10 minutes .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: the same skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  DOBJ: onion
+  PARG: softened , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add steak to onion and pour beef stock over steak ;
+PREDID: 0
+PRED: add
+  DOBJ: steak
+  PARG: onion
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  DOBJ: beef stock
+  PARG: steak
+    PREP: over
+
+
+SENTID: 5
+SENT: season with bay leaves , thyme , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: bay leaves , thyme , salt , pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Bring to a boil , reduce heat to low , cover skillet with a lid , and simmer until steak is tender , 50 minutes to 1 hour 50 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: cover
+  DOBJ: skillet
+  PARG: a lid
+    PREP: with
+
+PREDID: 3
+PRED: simmer
+  PARG: steak is tender , 50 minutes to 1 hour 50 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir peas and cornstarch into steak mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: peas, cornstarch
+  PARG: steak mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: cook uncovered until liquid thickens , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered
+  PARG: liquid thickens , about 10 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 11
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 12
+SENT: Serve beef mixture over noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: beef mixture
+  PARG: noodles
+    PREP: over
+

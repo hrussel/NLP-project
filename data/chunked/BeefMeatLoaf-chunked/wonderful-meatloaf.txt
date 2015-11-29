@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the beef , rice , brown sugar , onion and 1 tablespoon ketchup .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , rice , brown sugar , onion, 1 tablespoon ketchup
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well and place in a 5x9 inch loaf pan .
+PREDID: 0
+PRED: mix
+  PARG: a 5x9 inch loaf pan
+    PREP: in
+  OARG: well
+
+PREDID: 1
+PRED: place
+
+
+SENTID: 3
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Spread remaining 1/2 cup ketchup over the top of the loaf .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining 1/2 cup ketchup
+  PARG: the top of the loaf
+    PREP: over
+
+
+SENTID: 5
+SENT: Bake for 15 more minutes .
+PREDID: 0
+PRED: bake
+  PARG: 15 more minutes
+    PREP: for
+

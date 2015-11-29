@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Spray a 1-quart baking dish with nonstick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 1-quart baking dish
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 6
+SENT: In a bowl , mix together the eggs with white sugar until thoroughly combined , then stir in the melted butter , whipped cottage cheese , sour cream , salt , and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the eggs
+  PARG: a bowl
+    PREP: in
+  PARG: white sugar
+    PREP: with
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: stir
+  PARG: the melted butter , whipped cottage cheese , sour cream , salt , pepper
+    PREP: in
+
+
+SENTID: 7
+SENT: Lightly mix in the noodles ;
+PREDID: 0
+PRED: mix
+  PARG: the noodles
+    PREP: in
+  OARG: lightly
+
+
+SENTID: 8
+SENT: spoon the kugel into the prepared baking dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: the kugel
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Sprinkle the top with brown sugar .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top
+  PARG: brown sugar
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until the top has browned , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the top has browned , about 40 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Cool for 10 minutes before serving .
+PREDID: 0
+PRED: cool
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

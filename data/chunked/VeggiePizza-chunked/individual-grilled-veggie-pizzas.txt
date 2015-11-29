@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Place the mushrooms , zucchini , squash , broccoli , and onion in a grill pan , and brush with 2 tablespoons olive oil .
+PREDID: 0
+PRED: place
+  DOBJ: the mushrooms , zucchini , squash , broccoli , onion
+  PARG: a grill pan
+    PREP: in
+
+PREDID: 1
+PRED: brush
+  PARG: 2 tablespoons olive oil
+    PREP: with
+
+
+SENTID: 2
+SENT: Cook on preheated , covered grill until tender when pierced with a fork , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: preheated , covered grill
+    PREP: on
+  PARG: tender when pierced with a fork , about 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from grill and set aside .
+PREDID: 0
+PRED: remove
+  PARG: grill
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Roll out pizza dough on a floured surface to make two 8 inch circles 1/4 inch thick .
+PREDID: 0
+PRED: roll
+  PARG: pizza dough
+    PREP: out
+  PARG: a floured surface
+    PREP: on
+  PARG: make two 8 inch circles 1/4 inch thick
+    PREP: to
+
+
+SENTID: 5
+SENT: Place onto pizza pans .
+PREDID: 0
+PRED: place
+  PARG: pizza pans
+    PREP: onto
+
+
+SENTID: 6
+SENT: Brush tops with remaining 1 tablespoon olive oil .
+PREDID: 0
+PRED: brush
+  DOBJ: tops
+  PARG: remaining 1 tablespoon olive oil
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake on preheated , covered grill until browned , turning once , about 3 minutes each side .
+PREDID: 0
+PRED: bake
+  PARG: preheated , covered grill
+    PREP: on
+  PARG: browned , turning once , about 3 minutes each side
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove from grill and spread with pesto .
+PREDID: 0
+PRED: remove
+  PARG: grill
+    PREP: from
+
+PREDID: 1
+PRED: spread
+  PARG: pesto
+    PREP: with
+
+
+SENTID: 9
+SENT: Top with cooked vegetables .
+PREDID: 0
+PRED: top
+  PARG: cooked vegetables
+    PREP: with
+
+
+SENTID: 10
+SENT: Sprinkle with blue and fontina cheeses .
+PREDID: 0
+PRED: sprinkle
+  PARG: blue, fontina cheeses
+    PREP: with
+
+
+SENTID: 11
+SENT: Return to grill , cover , and cook until cheese melts , about 3 minutes .
+PREDID: 0
+PRED: return
+  PARG: grill
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: cook
+  PARG: cheese melts , about 3 minutes
+    PREP: until
+

@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Fill a pot with lightly-salted water and bring to a boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a pot
+  PARG: lightly-salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook the chicken breast in the boiling water until no longer pink in the center and the juices run clear , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken breast
+  PARG: the boiling water
+    PREP: in
+  PARG: no longer pink in the center, the juices run clear , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Cut the breast into cubes and spread in a single layer on a plate ;
+PREDID: 0
+PRED: cut
+  DOBJ: the breast
+  PARG: cubes
+    PREP: into
+
+PREDID: 1
+PRED: spread
+  PARG: a single layer
+    PREP: in
+  PARG: a plate
+    PREP: on
+
+
+SENTID: 3
+SENT: place chicken in refrigerator for 1 hour , or until completely cooled .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: refrigerator
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: completely cooled
+    PREP: until
+
+
+SENTID: 4
+SENT: Fill a pot with lightly-salted water and bring to a boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a pot
+  PARG: lightly-salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir the pasta into the boiling water ;
+PREDID: 0
+PRED: stir
+  DOBJ: the pasta
+  PARG: the boiling water
+    PREP: into
+
+
+SENTID: 6
+SENT: cook until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain , and rinse thoroughly with cold water to cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: with
+  OARG: thoroughly
+  OARG: to cool
+
+
+SENTID: 8
+SENT: Stir the celery , Parmesan cheese , green onions , mayonnaise , sour cream , milk , parsley , basil , and thyme together in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the celery , parmesan cheese , green onions , mayonnaise , sour cream , milk , parsley , basil , thyme
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Fold the chicken , rotini , and peas into the mayonnaise mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: the chicken , rotini , peas
+  PARG: the mayonnaise mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 11
+SENT: Chill in refrigerator for 1 hour .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+

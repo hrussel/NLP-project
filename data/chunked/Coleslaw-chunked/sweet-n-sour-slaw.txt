@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: In a jar with lid , combine SPLENDA ¨ Granulated Sweetener , vinegar , water , salt , mustard seed and celery seed .
+PREDID: 0
+PRED: combine
+  DOBJ: splenda ¨ granulated sweetener , vinegar , water , salt , mustard seed, celery seed
+  PARG: a jar
+    PREP: in
+  PARG: lid
+    PREP: with
+
+
+SENTID: 1
+SENT: Cover tightly and shake vigorously until sugar is dissolved .
+PREDID: 0
+PRED: cover
+  OARG: tightly
+  OARG: vigorously
+
+PREDID: 1
+PRED: shake
+  PARG: sugar is dissolved
+    PREP: until
+
+
+SENTID: 2
+SENT: Chill dressing for several hours or overnight .
+PREDID: 0
+PRED: chill
+  DOBJ: dressing
+  PARG: several hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 3
+SENT: In a large bowl , toss together the cabbage , celery , green peppers , pimento and dressing until evenly coated .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , celery , green peppers , pimento, dressing
+  PARG: a large bowl
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Cover and chill until serving .
+PREDID: 0
+PRED: cover
+  PARG: serving
+    PREP: until
+
+PREDID: 1
+PRED: chill
+

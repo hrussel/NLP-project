@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine the chicken , celery , almonds , bell pepper , onion , pimento , salt , lemon juice , and mayonnaise .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , celery , almonds , bell pepper , onion , pimento , salt , lemon juice , mayonnaise
+
+
+SENTID: 2
+SENT: Mix well and pour into a 1Ê1/2 quart casserole dish .
+PREDID: 0
+PRED: mix
+  PARG: a 1Ê1/2 quart casserole dish
+    PREP: into
+  OARG: well
+
+PREDID: 1
+PRED: pour
+
+
+SENTID: 3
+SENT: Top with grated cheese and the crushed potato chips .
+PREDID: 0
+PRED: top
+  PARG: grated cheese, the crushed potato chips
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake for 25 minutes or until cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: 25 minutes
+    PREP: for
+  PARG: cheese is melted
+    PREP: until
+

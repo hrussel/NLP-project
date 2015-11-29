@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Stir the cream cheese , almonds , brown sugar , and lemon juice together in a bowl until the mixture is soft and thoroughly combined ;
+PREDID: 0
+PRED: stir
+  DOBJ: the cream cheese , almonds , brown sugar , lemon juice
+  PARG: a bowl
+    PREP: in
+  PARG: the mixture is soft, thoroughly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: spread over one side of each bread slice .
+PREDID: 0
+PRED: spread
+  PARG: one side of each bread slice
+    PREP: over
+
+
+SENTID: 2
+SENT: Place 1/4 of the blueberries onto a bread slice ;
+PREDID: 0
+PRED: place
+  DOBJ: 1/4 of the blueberries
+  PARG: a bread slice
+    PREP: onto
+
+
+SENTID: 3
+SENT: press down on the berries to keep them from rolling off .
+PREDID: 0
+PRED: press
+  DOBJ: off
+  PARG: the berries
+    PREP: on
+  PARG: keep them
+    PREP: to
+  PARG: rolling
+    PREP: from
+  OARG: down
+
+
+SENTID: 4
+SENT: Top the blueberries with a cream cheese-spread slice .
+PREDID: 0
+PRED: top
+  DOBJ: the blueberries
+  PARG: a cream cheese-spread slice
+    PREP: with
+
+
+SENTID: 5
+SENT: Repeat 3 more times with remaining berries to make 4 blueberry sandwiches .
+PREDID: 0
+PRED: repeat
+  DOBJ: 3 more times
+  PARG: remaining berries
+    PREP: with
+  PARG: make 4 blueberry sandwiches
+    PREP: to
+
+
+SENTID: 6
+SENT: Beat the eggs , milk , vanilla extract , and cinnamon together in a bowl until blended .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , milk , vanilla extract , cinnamon
+  PARG: a bowl
+    PREP: in
+  PARG: blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: Spray a skillet with cooking spray and heat over medium-low heat .
+PREDID: 0
+PRED: spray
+  DOBJ: a skillet
+  PARG: cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: heat
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Dip each blueberry sandwich into the egg mixture on both sides ;
+PREDID: 0
+PRED: dip
+  DOBJ: each blueberry sandwich
+  PARG: the egg mixture
+    PREP: into
+  PARG: both sides
+    PREP: on
+
+
+SENTID: 9
+SENT: fry in the prepared skillet until golden brown , about 3 minutes per side .
+PREDID: 0
+PRED: fry
+  PARG: the prepared skillet
+    PREP: in
+  PARG: golden brown , about 3 minutes per side
+    PREP: until
+

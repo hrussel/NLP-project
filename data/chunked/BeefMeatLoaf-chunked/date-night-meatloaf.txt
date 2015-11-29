@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Set oven rack about 6 inches from the heat source and preheat the oven 's broiler .
+PREDID: 0
+PRED: set
+  DOBJ: oven rack
+  PARG: 6 inches
+    PREP: about
+  PARG: the heat source
+    PREP: from
+
+PREDID: 1
+PRED: preheat
+  DOBJ: the oven 's broiler
+
+
+SENTID: 1
+SENT: Arrange peppers on a baking sheet .
+PREDID: 0
+PRED: arrange
+  DOBJ: peppers
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: Broil peppers in the preheated oven until bubbling and skin becomes blackened , 5 to 10 minutes per side .
+PREDID: 0
+PRED: broil
+  DOBJ: peppers
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbling, skin becomes blackened , 5 to 10 minutes per side
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from oven and transfer peppers to a bowl of ice water ;
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  DOBJ: peppers
+  PARG: a bowl of ice water
+    PREP: to
+
+
+SENTID: 4
+SENT: set aside for skin to loosen from peppers , about 10 minutes .
+PREDID: 0
+PRED: set
+  PARG: skin
+    PREP: for
+  PARG: peppers
+    PREP: from
+  PARG: 10 minutes
+    PREP: about
+  OARG: aside
+  OARG: to loosen
+
+
+SENTID: 5
+SENT: Remove peppers from water and peel blackened skin from peppers and remove seeds .
+PREDID: 0
+PRED: remove
+  DOBJ: peppers
+  PARG: water, peel blackened skin
+    PREP: from
+  PARG: peppers
+    PREP: from
+
+PREDID: 1
+PRED: remove
+  DOBJ: seeds
+
+
+SENTID: 6
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Spray a 9x5-inch loaf pan with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x5-inch loaf pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 8
+SENT: Place peppers and dates in a food processor ;
+PREDID: 0
+PRED: place
+  DOBJ: peppers, dates
+  PARG: a food processor
+    PREP: in
+
+
+SENTID: 9
+SENT: pulse until evenly combined .
+PREDID: 0
+PRED: pulse
+  PARG: evenly combined
+    PREP: until
+
+
+SENTID: 10
+SENT: Mix pepper-date mixture , ground beef , goat cheese , 1/4 cup barbeque sauce , bread crumbs and egg together in a bowl or in a stand-mixer until evenly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: pepper-date mixture , ground beef , goat cheese , 1/4 cup barbeque sauce , bread crumbs, egg
+  PARG: a bowl
+    PREP: in
+  PARG: a stand-mixer
+    PREP: in
+  PARG: evenly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 11
+SENT: Pour beef mixture into the prepared loaf pan .
+PREDID: 0
+PRED: pour
+  DOBJ: beef mixture
+  PARG: the prepared loaf pan
+    PREP: into
+
+
+SENTID: 12
+SENT: Spread 2 tablespoons barbeque sauce evenly over meat mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: 2 tablespoons barbeque sauce
+  PARG: meat mixture
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 13
+SENT: Bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+

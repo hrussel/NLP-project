@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Whisk together lime juice , red wine vinegar , garlic , honey , salt , and pepper until blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: lime juice , red wine vinegar , garlic , honey , salt , pepper
+  PARG: blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Slowly whisk in olive oil until incorporated .
+PREDID: 0
+PRED: whisk
+  PARG: olive oil
+    PREP: in
+  PARG: incorporated
+    PREP: until
+  OARG: slowly
+
+
+SENTID: 2
+SENT: Mix half of this dressing with the chicken breasts , cover , and refrigerate for 1 hour .
+PREDID: 0
+PRED: mix
+  DOBJ: half of this dressing
+  PARG: the chicken breasts
+    PREP: with
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 3
+SENT: Refrigerate the remaining dressing for later use .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: the remaining dressing
+  PARG: later use
+    PREP: for
+
+
+SENTID: 4
+SENT: Heat an outdoor grill for medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: an outdoor grill
+  PARG: medium-high heat
+    PREP: for
+
+
+SENTID: 5
+SENT: Grill chicken breasts until no longer pink , about 6 minutes per side .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken breasts
+  PARG: no longer pink , about 6 minutes per side
+    PREP: until
+
+
+SENTID: 6
+SENT: Set aside and allow to cool while proceeding with recipe .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+PREDID: 1
+PRED: allow
+  PARG: proceeding
+    PREP: while
+  PARG: recipe
+    PREP: with
+
+
+SENTID: 7
+SENT: Toss together mango , black beans , bell pepper , and jicama in a large bowl with reserved dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: mango , black beans , bell pepper , jicama
+  PARG: a large bowl
+    PREP: in
+  PARG: reserved dressing
+    PREP: with
+  OARG: together
+
+
+SENTID: 8
+SENT: Slice chicken into bite-sized pieces and toss with salad .
+PREDID: 0
+PRED: slice
+  DOBJ: chicken
+  PARG: bite-sized pieces
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  PARG: salad
+    PREP: with
+
+
+SENTID: 9
+SENT: To serve , line a serving bowl with the green leaf lettuce and mound the chicken salad into the middle .
+PREDID: 0
+PRED: line
+  DOBJ: a serving bowl
+  PARG: serve
+    PREP: to
+  PARG: the green leaf lettuce
+    PREP: with
+
+PREDID: 1
+PRED: mound
+  DOBJ: the chicken salad
+  PARG: the middle
+    PREP: into
+

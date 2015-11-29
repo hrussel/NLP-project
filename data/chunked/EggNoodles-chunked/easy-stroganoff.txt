@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: In a large , heavy skillet , brown ground beef with Worcestershire sauce , seasoning salt , and garlic .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a large , heavy skillet
+    PREP: in
+  PARG: worcestershire sauce , seasoning salt , garlic
+    PREP: with
+
+
+SENTID: 1
+SENT: Drain well , set aside .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Cook noodles in a large pot of boiling water until done .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: done
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Return noodles to pot .
+PREDID: 0
+PRED: return
+  DOBJ: noodles
+  PARG: pot
+    PREP: to
+
+
+SENTID: 5
+SENT: Gently stir in ground beef , mushrooms , condensed soup and milk .
+PREDID: 0
+PRED: stir
+  PARG: ground beef , mushrooms , condensed soup, milk
+    PREP: in
+  OARG: gently
+
+
+SENTID: 6
+SENT: Place the pan over low heat , and heat through .
+PREDID: 0
+PRED: place
+  DOBJ: the pan
+  PARG: low heat
+    PREP: over
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 7
+SENT: Stir in sour cream , and serve immediately .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+PREDID: 1
+PRED: serve
+  OARG: immediately
+

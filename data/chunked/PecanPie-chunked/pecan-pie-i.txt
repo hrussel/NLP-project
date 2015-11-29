@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degree F -LRB- 175 degree C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degree f -lrb- 175 degree c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix together the sugar and flour until flour is blended in .
+PREDID: 0
+PRED: mix
+  DOBJ: the sugar
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: flour
+  PARG: flour is blended in
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in the eggs , corn syrup and vanilla .
+PREDID: 0
+PRED: stir
+  PARG: the eggs , corn syrup, vanilla
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix in the pecans and pour the filling into the pie crust .
+PREDID: 0
+PRED: mix
+  PARG: the pecans
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: the filling
+  PARG: the pie crust
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake for 50 to 55 minutes in the preheated oven , until a knife inserted halfway between center and edge comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 50 to 55 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: a knife inserted halfway between center, edge comes out clean
+    PREP: until
+
+
+SENTID: 5
+SENT: Cool .
+PREDID: 0
+PRED: cool
+

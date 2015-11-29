@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 10x15-inch baking sheet with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 10x15-inch baking sheet
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Unroll pizza crust and place on the prepared baking pan .
+PREDID: 0
+PRED: unroll
+  DOBJ: pizza crust
+
+PREDID: 1
+PRED: place
+  PARG: the prepared baking pan
+    PREP: on
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Melt butter in a large saucepan over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook and stir flour with butter until it has a slightly toasted fragrance , about 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: flour
+
+PREDID: 1
+PRED: stir
+  PARG: butter
+    PREP: with
+  PARG: it has a slightly toasted fragrance , about 2 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Whisk in milk and simmer until thickened , whisking constantly , 2 more minutes .
+PREDID: 0
+PRED: whisk
+  PARG: milk
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: thickened , whisking constantly , 2 more minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in processed cheese cubes .
+PREDID: 0
+PRED: stir
+  PARG: processed cheese cubes
+    PREP: in
+
+
+SENTID: 10
+SENT: Let the cheese cubes melt , stirring often , to make a smooth cheese sauce .
+PREDID: 0
+PRED: let
+  DOBJ: the cheese cubes
+
+PREDID: 1
+PRED: melt
+  DOBJ: stirring
+  PARG: make a smooth cheese sauce
+    PREP: to
+  OARG: often
+
+
+SENTID: 11
+SENT: Spread about 3/4 cup of cheese sauce onto the pizza crust .
+PREDID: 0
+PRED: spread
+  PARG: 3/4 cup of cheese sauce
+    PREP: about
+  PARG: the pizza crust
+    PREP: onto
+
+
+SENTID: 12
+SENT: Stir cooked macaroni into remaining cheese sauce in the saucepan and spoon the macaroni and cheese onto the crust in an even layer .
+PREDID: 0
+PRED: stir
+  DOBJ: cooked macaroni
+  PARG: remaining cheese sauce
+    PREP: into
+  PARG: the saucepan
+    PREP: in
+
+PREDID: 1
+PRED: spoon
+  DOBJ: the macaroni, cheese
+  PARG: the crust
+    PREP: onto
+  PARG: an even layer
+    PREP: in
+
+
+SENTID: 13
+SENT: Sprinkle top of pizza with mozzarella cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top of pizza
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in the preheated oven until the crust is lightly browned and the mozzarella cheese is golden brown , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust is lightly browned, the mozzarella cheese is golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 15 minutes
+    PREP: about
+

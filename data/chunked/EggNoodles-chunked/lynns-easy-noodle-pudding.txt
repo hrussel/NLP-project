@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir in egg noodles and cook until al dente , 10 to 12 minutes .
+PREDID: 0
+PRED: stir
+  PARG: egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: al dente , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Lightly grease 13x9 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: 13x9 inch baking dish
+  OARG: lightly
+
+
+SENTID: 5
+SENT: Toss the cooked noodles with the sour cream , cottage cheese , 1/2 cup sugar , eggs , and raisins until well blended .
+PREDID: 0
+PRED: toss
+  DOBJ: the cooked noodles
+  PARG: the sour cream , cottage cheese , 1/2 cup sugar , eggs , raisins
+    PREP: with
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour the noodle mixture into the prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: the noodle mixture
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Dot the top with small pieces of butter .
+PREDID: 0
+PRED: dot
+  DOBJ: the top
+  PARG: small pieces of butter
+    PREP: with
+
+
+SENTID: 8
+SENT: Mix the remaining 1/2 cup sugar with the cinnamon .
+PREDID: 0
+PRED: mix
+  DOBJ: the remaining 1/2 cup sugar
+  PARG: the cinnamon
+    PREP: with
+
+
+SENTID: 9
+SENT: Sprinkle over the noodles .
+PREDID: 0
+PRED: sprinkle
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 10
+SENT: Bake in preheated oven until top is lightly brown , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: top is lightly
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 45 minutes
+    PREP: about
+
+
+SENTID: 11
+SENT: Remove from oven and cool 10 minutes to set pudding before serving .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: set pudding
+    PREP: to
+  PARG: serving
+    PREP: before
+  OARG: 10 minutes
+

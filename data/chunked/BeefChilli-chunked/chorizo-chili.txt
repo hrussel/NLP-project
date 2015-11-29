@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Heat olive oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir onion and garlic in hot oil until tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir ground beef and chorizo sausage into onion mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: ground beef, chorizo sausage
+  PARG: onion mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: cook , breaking meat apart while stirring , until no longer pink , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: breaking meat
+  PARG: stirring
+    PREP: while
+  PARG: no longer pink , 10 to 15 minutes
+    PREP: until
+  OARG: apart
+
+
+SENTID: 4
+SENT: Mix ground beef-chorizo mixture , diced tomatoes , chili , butter beans , tomato sauce , chili powder , chipotle seasoning blend , salt , and black pepper in a slow cooker .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef-chorizo mixture , diced tomatoes , chili , butter beans , tomato sauce , chili powder , chipotle seasoning blend , salt , black pepper
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook on High until flavors have blended , 3 to 4 hours .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: flavors have blended , 3 to 4 hours
+    PREP: until
+

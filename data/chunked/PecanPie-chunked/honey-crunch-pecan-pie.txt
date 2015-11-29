@@ -1,0 +1,227 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: To Make Crust :
+PREDID: 0
+PRED: crust
+  PARG: make
+    PREP: to
+
+
+SENTID: 2
+SENT: In a medium bowl , mix together flour and 1 teaspoon salt .
+PREDID: 0
+PRED: mix
+  DOBJ: flour, 1 teaspoon salt
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Cut in shortening until mixture is crumbly .
+PREDID: 0
+PRED: cut
+  PARG: shortening
+    PREP: in
+  PARG: mixture is crumbly
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually add water and vinegar .
+PREDID: 0
+PRED: add
+  DOBJ: water, vinegar
+  OARG: gradually
+
+
+SENTID: 5
+SENT: Press dough into a ball and flour each side lightly .
+PREDID: 0
+PRED: press
+  DOBJ: dough
+  PARG: a ball
+    PREP: into
+
+PREDID: 1
+PRED: flour
+  DOBJ: each side
+  OARG: lightly
+
+
+SENTID: 6
+SENT: Wrap in plastic and chill for 20 minutes .
+PREDID: 0
+PRED: wrap
+  PARG: plastic
+    PREP: in
+
+PREDID: 1
+PRED: chill
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Roll out between wax paper into a circle 1/8 inch thick and press into 9 inch pie pan .
+PREDID: 0
+PRED: roll
+  PARG: between wax paper
+    PREP: out
+  PARG: a circle 1/8 inch thick
+    PREP: into
+
+PREDID: 1
+PRED: press
+  PARG: 9 inch pie pan
+    PREP: into
+
+
+SENTID: 8
+SENT: In a large bowl , combine eggs , 1/4 cup brown sugar , white sugar , 1/2 teaspoon salt , corn syrup , melted butter , vanilla extract , and chopped pecans .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , 1/4 cup brown sugar , white sugar , 1/2 teaspoon salt , corn syrup , melted butter , vanilla extract , chopped pecans
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Add bourbon if desired .
+PREDID: 0
+PRED: add
+  DOBJ: bourbon
+  PARG: desired
+    PREP: if
+
+
+SENTID: 10
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 11
+SENT: Spoon mixture into unbaked pie shell .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: unbaked pie shell
+    PREP: into
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Remove and cover edges of pastry with aluminum foil .
+PREDID: 0
+PRED: remove
+  DOBJ: edges of pastry
+
+PREDID: 1
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 14
+SENT: Return to oven for 20 minutes .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: Combine 1/3 cup brown sugar , butter or margarine , and honey in a medium saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/3 cup brown sugar , butter or margarine , honey
+  PARG: a medium saucepan
+    PREP: in
+
+
+SENTID: 16
+SENT: Cook over low heat , stirring occasionally , until sugar dissolves - about 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: low heat , stirring
+    PREP: over
+  PARG: sugar dissolves - about 2 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 17
+SENT: Add pecans .
+PREDID: 0
+PRED: add
+  DOBJ: pecans
+
+
+SENTID: 18
+SENT: Stir just until coated .
+PREDID: 0
+PRED: stir
+  PARG: coated
+    PREP: until
+  OARG: just
+
+
+SENTID: 19
+SENT: Spoon topping evenly over pie .
+PREDID: 0
+PRED: spoon
+  DOBJ: topping
+  PARG: pie
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 20
+SENT: Keep foil on edges of pastry and return pie to oven for an additional 10 to 20 minutes , until topping is bubbly and golden brown .
+PREDID: 0
+PRED: keep
+  DOBJ: foil
+  PARG: edges of pastry
+    PREP: on
+
+PREDID: 1
+PRED: return
+  DOBJ: pie
+  PARG: oven
+    PREP: to
+  PARG: an additional 10 to 20 minutes
+    PREP: for
+  PARG: topping is bubbly, golden brown
+    PREP: until
+
+
+SENTID: 21
+SENT: Cool to room temperature before serving .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+  PARG: serving
+    PREP: before
+

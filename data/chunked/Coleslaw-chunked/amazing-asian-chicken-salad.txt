@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Whisk together the rice vinegar , sesame oil , 3 green onions , garlic , sugar , ginger , soy sauce , vegetable oil , coriander , and mustard in a mixing bowl until the sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: the rice vinegar , sesame oil , 3 green onions , garlic , sugar , ginger , soy sauce , vegetable oil , coriander , mustard
+  PARG: a mixing bowl
+    PREP: in
+  PARG: the sugar has dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour half of the dressing into another container , and refrigerate for later .
+PREDID: 0
+PRED: pour
+  DOBJ: half of the dressing
+  PARG: another container
+    PREP: into
+
+PREDID: 1
+PRED: refrigerate
+  PARG: later
+    PREP: for
+
+
+SENTID: 2
+SENT: Place the chicken breasts into the remaining dressing , and coat on all sides .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken breasts
+  PARG: the remaining dressing
+    PREP: into
+
+PREDID: 1
+PRED: coat
+  PARG: all sides
+    PREP: on
+
+
+SENTID: 3
+SENT: Cover , and refrigerate 30 minutes to 1 hour .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: to
+  OARG: 30 minutes
+
+
+SENTID: 4
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Remove the chicken breasts from the marinade , and shake off excess .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken breasts
+  PARG: the marinade
+    PREP: from
+
+PREDID: 1
+PRED: shake
+  PARG: excess
+    PREP: off
+
+
+SENTID: 6
+SENT: Discard the remaining marinade .
+PREDID: 0
+PRED: discard
+  DOBJ: the remaining marinade
+
+
+SENTID: 7
+SENT: Place the chicken into a baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken
+  PARG: a baking dish
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake the chicken breasts in the preheated oven until no longer pink in the center and the juices run clear , about 45 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the chicken breasts
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center, the juices run clear , about 45 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove from the oven , and allow to cool .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 10
+SENT: Shred the chicken using 2 forks and set aside .
+PREDID: 0
+PRED: shred
+  DOBJ: using 2 forks
+  OARG: the chicken
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 11
+SENT: To assemble the salad , combine the green cabbage , red cabbage , carrots , 3 green onions , cilantro , almonds , and cooled chicken in a large mixing bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the green cabbage , red cabbage , carrots , 3 green onions , cilantro , almonds , cooled chicken
+  PARG: a large mixing bowl
+    PREP: in
+  OARG: to assemble the salad
+
+
+SENTID: 12
+SENT: Pour the reserved dressing overtop and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the reserved dressing overtop
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

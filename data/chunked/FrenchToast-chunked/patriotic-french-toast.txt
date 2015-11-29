@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Preheat an oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine the thawed strawberries with their juice and the blueberries in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the thawed strawberries
+  PARG: their juice, the blueberries
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Beat together the softened cream cheese and confectioner 's sugar until smooth ;
+PREDID: 0
+PRED: beat
+  DOBJ: the softened cream cheese, confectioner 's sugar
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Whisk the milk , eggs , vanilla , and cinnamon in a shallow bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the milk , eggs , vanilla , cinnamon
+  PARG: a shallow bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Melt butter over medium heat in a large skillet or griddle .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: medium heat
+    PREP: over
+  PARG: a large skillet or griddle
+    PREP: in
+
+
+SENTID: 7
+SENT: Dip bread into egg mixture , coating thoroughly .
+PREDID: 0
+PRED: dip
+  DOBJ: bread
+  PARG: egg mixture
+    PREP: into
+
+PREDID: 1
+PRED: coating
+  OARG: thoroughly
+
+
+SENTID: 8
+SENT: Cook until well-browned on both sides , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: well-browned on both sides , about 5 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Place cooked slices on baking sheet and place in oven to keep warm until ready to serve .
+PREDID: 0
+PRED: place
+  DOBJ: cooked slices
+  PARG: baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: place
+  PARG: oven
+    PREP: in
+  PARG: keep warm
+    PREP: to
+  PARG: ready to serve
+    PREP: until
+
+
+SENTID: 10
+SENT: Spread the cream cheese mixture over each slice of french toast , then top with 2 tablespoons of the fruit .
+PREDID: 0
+PRED: spread
+  DOBJ: the cream cheese mixture
+  PARG: each slice of french toast
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: 2 tablespoons of the fruit
+    PREP: with
+
+
+SENTID: 11
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

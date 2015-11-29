@@ -1,0 +1,161 @@
+T1	predicate 0 3	Mix
+T2	predicate 150 155	Place
+T3	predicate 200 208	marinate
+T4	predicate 237 241	Heat
+T5	predicate 307 313	Remove
+T6	predicate 337 344	discard
+T7	predicate 360 364	Cook
+T8	predicate 443 447	Stir
+T9	predicate 460 468	Transfer
+T10	predicate 548 553	Whisk
+T11	predicate 589 593	cook
+T12	predicate 647 651	Stir
+T13	predicate 682 688	reduce
+T14	predicate 702 708	Simmer
+T15	predicate 772 777	Bring
+T16	predicate 825 829	Cook
+T17	predicate 946 951	Drain
+T18	predicate 960 964	stir
+T19	arg_object 4 17	cider vinegar
+T20	ingredient 4 17	cider vinegar
+R1	object Arg1:T1 Arg2:T19	
+T21	arg_object 19 40	1/4 cup vegetable oil
+T22	ingredient 19 40	1/4 cup vegetable oil
+R2	object Arg1:T1 Arg2:T21	
+T23	arg_object 42 55	seasoned salt
+T24	ingredient 42 55	seasoned salt
+R3	object Arg1:T1 Arg2:T23	
+T25	arg_object 57 74	red pepper flakes
+T26	ingredient 57 74	red pepper flakes
+R4	object Arg1:T1 Arg2:T25	
+T27	arg_object 76 96	monosodium glutamate
+T28	ingredient 76 96	monosodium glutamate
+R5	object Arg1:T1 Arg2:T27	
+T29	arg_object 98 110	black pepper
+T30	ingredient 98 110	black pepper
+T31	arg_object 116 120	salt
+T32	ingredient 116 120	salt
+R6	object Arg1:T1 Arg2:T29	
+R7	object Arg1:T1 Arg2:T31	
+T33	arg_location 121 148	in a resealable plastic bag
+R8	location Arg1:T1 Arg2:T33	
+T34	arg_object 156 170	chicken pieces
+T35	ingredient 156 170	chicken pieces
+R9	object Arg1:T2 Arg2:T34	
+T36	arg_co-object 171 184	into marinade
+T37	Evolution 176 184	marinade
+E1	Evolution:T37 Cause:T1
+R10	co-object Arg1:T2 Arg2:T36	
+T38	predicate 186 190	seal
+T39	arg_object 191 194	bag
+R11	object Arg1:T38 Arg2:T39	
+T40	Evolution 191 194	bag
+E2	Evolution:T40 Cause:T2
+R12	object Arg1:T3 Arg2:T38	
+T41	arg_location 209 224	in refrigerator
+T42	arg_duration 225 235	for 1 hour
+R13	location Arg1:T3 Arg2:T41	
+R14	duration Arg1:T3 Arg2:T42	
+T43	arg_object 242 269	2 tablespoons vegetable oil
+T44	ingredient 242 269	2 tablespoons vegetable oil
+R15	object Arg1:T4 Arg2:T43	
+T45	arg_location 270 288	in a large skillet
+T46	arg_other 289 305	over medium heat
+R16	location Arg1:T4 Arg2:T45	
+R17	other Arg1:T4 Arg2:T46	
+T47	arg_object 314 321	chicken
+R18	object Arg1:T5 Arg2:T47	
+T48	arg_co-object 322 335	from marinade
+T49	Evolution 327 335	marinade
+E3	Evolution:T49 Cause:T3
+T50	Evolution 314 321	chicken
+E4	Evolution:T50 Cause:T3
+R19	co-object Arg1:T5 Arg2:T48	
+T51	arg_object 345 358	used marinade
+R20	object Arg1:T6 Arg2:T51	
+T52	Evolution 345 358	used marinade
+E5	Evolution:T52 Cause:T5
+T53	arg_object 365 372	chicken
+T54	Evolution 365 372	chicken
+E6	Evolution:T54 Cause:T5
+R21	object Arg1:T7 Arg2:T53	
+T55	arg_co-object 373 383	in hot oil
+T56	Evolution 376 383	hot oil
+E7	Evolution:T56 Cause:T4
+R22	co-object Arg1:T7 Arg2:T55	
+T57	arg_duration 384 441	until browned and no longer pink inside, about 10 minutes
+R23	duration Arg1:T7 Arg2:T57	
+R24	object Arg1:T8 Arg2:T7	
+T58	arg_other 448 458	frequently
+R25	other Arg1:T8 Arg2:T58	
+T59	arg_object 469 476	chicken
+T60	Evolution 469 476	chicken
+E8	Evolution:T60 Cause:T8
+R26	object Arg1:T9 Arg2:T59	
+T61	arg_location 477 486	to a bowl
+R27	location Arg1:T9 Arg2:T61	
+T62	arg_other 487 507	with a slotted spoon
+T63	arg_other 509 546	leaving accumulated juices in skillet
+R28	other Arg1:T9 Arg2:T62	
+R29	other Arg1:T9 Arg2:T63	
+T64	arg_object 554 568	whipping cream
+T65	ingredient 554 568	whipping cream
+R30	object Arg1:T10 Arg2:T64	
+T66	arg_co-object 569 584	into pan juices
+T67	Evolution 574 584	pan juices
+E9	Evolution:T67 Cause:T9
+R31	co-object Arg1:T10 Arg2:T66	
+R32	co-object Arg1:T9 Arg2:T8	
+R33	object Arg1:T11 Arg2:T10	
+T68	arg_duration 594 645	until cream has started to thicken, about 5 minutes
+R34	duration Arg1:T11 Arg2:T68	
+T69	arg_object 652 659	chicken
+T70	Evolution 652 659	chicken
+E10	Evolution:T70 Cause:T9
+R35	object Arg1:T12 Arg2:T69	
+T71	arg_location 660 677	back into skillet
+R36	location Arg1:T12 Arg2:T71	
+R37	co-object Arg1:T12 Arg2:T11	
+R38	same-location Arg1:T71 Arg2:T45	
+R39	co-object Arg1:T13 Arg2:T12	
+T72	arg_object 689 693	heat
+R40	object Arg1:T13 Arg2:T72	
+T73	arg_other 694 700	to low
+R41	other Arg1:T13 Arg2:T73	
+T74	arg_object 709 716	chicken
+T75	Evolution 709 716	chicken
+E11	Evolution:T75 Cause:T13
+T76	arg_co-object 717 731	in cream sauce
+T77	Evolution 720 731	cream sauce
+E12	Evolution:T77 Cause:T13
+R42	object Arg1:T14 Arg2:T74	
+R43	co-object Arg1:T14 Arg2:T76	
+T78	arg_duration 732 770	until sauce is thick, 15 to 20 minutes
+R44	duration Arg1:T14 Arg2:T78	
+T79	arg_object 778 813	a large pot of lightly salted water
+R45	object Arg1:T15 Arg2:T79	
+T80	arg_other 814 823	to a boil
+R46	other Arg1:T15 Arg2:T80	
+T81	arg_object 830 841	egg noodles
+R47	object Arg1:T16 Arg2:T81	
+T82	arg_co-object 842 862	in the boiling water
+T83	Evolution 845 862	the boiling water
+E13	Evolution:T83 Cause:T15
+T84	ingredient 830 841	egg noodles
+R48	co-object Arg1:T16 Arg2:T82	
+T85	arg_other 864 885	stirring occasionally
+T86	arg_duration 886 944	until cooked through but firm to the bite, about 5 minutes
+R49	other Arg1:T16 Arg2:T85	
+R50	duration Arg1:T16 Arg2:T86	
+R51	object Arg1:T17 Arg2:T16	
+R52	co-object Arg1:T17 Arg2:T16	
+T87	arg_object 965 979	cooked noodles
+R53	object Arg1:T18 Arg2:T87	
+T88	Evolution 965 979	cooked noodles
+E14	Evolution:T88 Cause:T17
+T89	arg_location 980 1021	into skillet with chicken and cream sauce
+R54	same-location Arg1:T89 Arg2:T71	
+R55	location Arg1:T18 Arg2:T89	
+R56	co-object Arg1:T18 Arg2:T14	
+T90	arg_other 953 959	Gently
+R57	other Arg1:T18 Arg2:T90	

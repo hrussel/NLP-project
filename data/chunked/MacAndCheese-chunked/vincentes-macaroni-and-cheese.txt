@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the macaroni , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the macaroni
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Melt the butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Stir in the onion ;
+PREDID: 0
+PRED: stir
+  PARG: the onion
+    PREP: in
+
+
+SENTID: 6
+SENT: cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Reduce heat to low , then stir in the flour , mustard , and salt until thoroughly combined .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the flour , mustard , salt
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Gradually stir in the milk , then increase heat to medium-high and simmer until thickened , stirring constantly , about 3 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the milk
+    PREP: in
+  OARG: gradually
+  OARG: then
+
+PREDID: 1
+PRED: increase
+  DOBJ: heat
+  PARG: medium-high, simmer
+    PREP: to
+  PARG: thickened , stirring constantly , about 3 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in the Cheddar cheese and black pepper until cheese is melted and the sauce is smooth , about 3 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the cheddar cheese, black pepper
+    PREP: in
+  PARG: cheese is melted, the sauce is
+    PREP: until
+
+PREDID: 1
+PRED: smooth
+  PARG: 3 minutes
+    PREP: about
+
+
+SENTID: 10
+SENT: Stir in the macaroni until well-coated and heated through .
+PREDID: 0
+PRED: stir
+  PARG: the macaroni
+    PREP: in
+  PARG: well-coated, heated through
+    PREP: until
+

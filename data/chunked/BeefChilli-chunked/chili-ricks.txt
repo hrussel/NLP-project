@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: In a large pot or Dutch oven over medium heat , combine tomato sauce , tomatoes , onion and Italian seasoning .
+PREDID: 0
+PRED: combine
+  DOBJ: tomato sauce , tomatoes , onion, italian seasoning
+  PARG: a large pot or dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: In a large skillet over medium heat , cook bacon until slightly crisp .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: slightly crisp
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and stir into the pot .
+PREDID: 0
+PRED: drain
+  PARG: the pot
+    PREP: into
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: In the same skillet over medium heat , cook sausage until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: sausage
+  PARG: the same skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain and stir into the pot .
+PREDID: 0
+PRED: drain
+  PARG: the pot
+    PREP: into
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: In the same skillet over medium heat , cook the beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the beef
+  PARG: the same skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain and stir into the pot .
+PREDID: 0
+PRED: drain
+  PARG: the pot
+    PREP: into
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Stir the barbeque sauce and chili powder into the pot ;
+PREDID: 0
+PRED: stir
+  DOBJ: the barbeque sauce, chili powder
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 8
+SENT: taste and adjust seasonings .
+PREDID: 0
+PRED: taste
+  DOBJ: seasonings
+
+PREDID: 1
+PRED: adjust
+
+
+SENTID: 9
+SENT: Stir in the kidney beans and chocolate and simmer until flavors are well blended .
+PREDID: 0
+PRED: stir
+  PARG: the kidney beans, chocolate
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: flavors are well blended
+    PREP: until
+
+
+SENTID: 10
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

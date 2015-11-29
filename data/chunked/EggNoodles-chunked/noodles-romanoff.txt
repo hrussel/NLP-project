@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease one 2 quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: one 2 quart casserole dish
+
+
+SENTID: 2
+SENT: Cook noodles according to directions on package .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles according
+  PARG: directions
+    PREP: to
+  PARG: package
+    PREP: on
+
+
+SENTID: 3
+SENT: Rinse in cold water and drain .
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: in
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 4
+SENT: Combine cream cheese , sour cream , onion , Worcestershire sauce , garlic salt and hot pepper sauce in a blender or food processor .
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese , sour cream , onion , worcestershire sauce , garlic salt, hot pepper sauce
+  PARG: a blender or food processor
+    PREP: in
+
+
+SENTID: 5
+SENT: Blend until smooth and stir into cooked noodles .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: stir
+  PARG: cooked noodles
+    PREP: into
+
+
+SENTID: 6
+SENT: Pour into prepared casserole dish .
+PREDID: 0
+PRED: pour
+  PARG: prepared casserole dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Top with bread crumbs and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 minutes .
+PREDID: 0
+PRED: top
+  PARG: bread crumbs
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 25 minutes
+    PREP: for
+

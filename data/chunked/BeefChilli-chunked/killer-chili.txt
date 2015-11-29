@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 1
+SENT: Drain the bacon slices on a paper towel-lined plate .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 2
+SENT: Crumble and set aside .
+PREDID: 0
+PRED: crumble
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: Heat a large stock pot over medium-high heat and cook and stir the ground beef until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: heat
+  DOBJ: a large stock pot
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: the ground beef
+
+PREDID: 2
+PRED: stir
+  PARG: the beef is crumbly , evenly browned , no longer pink
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 5
+SENT: Stir in the bacon and minced garlic .
+PREDID: 0
+PRED: stir
+  PARG: the bacon, minced garlic
+    PREP: in
+
+
+SENTID: 6
+SENT: Reduce heat to medium-low and stir in the red wine , diced tomatoes , and tomato sauce .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, stir
+    PREP: to
+  PARG: the red wine , diced tomatoes , tomato sauce
+    PREP: in
+
+
+SENTID: 7
+SENT: Heat the vegetable oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Stir in the green bell peppers , celery , and chopped onion ;
+PREDID: 0
+PRED: stir
+  PARG: the green bell peppers , celery , chopped onion
+    PREP: in
+
+
+SENTID: 9
+SENT: cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 10
+SENT: Stir onion mixture into the stock pot .
+PREDID: 0
+PRED: stir
+  DOBJ: onion mixture
+  PARG: the stock pot
+    PREP: into
+
+
+SENTID: 11
+SENT: Increase the heat to medium-high and bring to a near boil .
+PREDID: 0
+PRED: increase
+  DOBJ: the heat
+  PARG: medium-high, bring
+    PREP: to
+  PARG: a near boil
+    PREP: to
+
+
+SENTID: 12
+SENT: Mix in the kidney beans , white beans , and black beans .
+PREDID: 0
+PRED: mix
+  PARG: the kidney beans , white beans , black beans
+    PREP: in
+
+
+SENTID: 13
+SENT: Season with chili powder , brown sugar , cumin , paprika , Italian seasoning , vinegar , basil , dried minced onion , parsley , red pepper flakes , oregano , hot pepper sauce , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: chili powder , brown sugar , cumin , paprika , italian seasoning , vinegar , basil , dried minced onion , parsley , red pepper flakes , oregano , hot pepper sauce , salt , pepper
+    PREP: with
+
+
+SENTID: 14
+SENT: Reduce heat to medium-low and simmer for 1 hour 30 minutes , stirring often .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: 1 hour 30 minutes , stirring
+    PREP: for
+  OARG: often
+

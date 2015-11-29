@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix together the pumpkin , egg substitute , brown sugar , pumpkin pie spice and nonfat evaporated milk .
+PREDID: 0
+PRED: mix
+  DOBJ: the pumpkin , egg substitute , brown sugar , pumpkin pie spice, nonfat evaporated milk
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour the pumpkin mixture into the pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: the pumpkin mixture
+  PARG: the pie crust
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven 1 hour , or until a knife inserted in the middle comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 1 hour
+    PREP: in
+  PARG: a knife inserted in the middle comes out clean
+    PREP: until
+

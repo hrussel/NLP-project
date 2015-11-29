@@ -1,0 +1,123 @@
+T1	predicate 0 5	Bring
+T2	predicate 53 56	Add
+T3	predicate 67 71	cook
+T4	predicate 111 116	Drain
+T5	predicate 121 128	reserve
+T6	predicate 152 156	melt
+T7	predicate 209 212	Add
+T8	predicate 258 266	stirring
+T9	predicate 297 300	Add
+T10	predicate 321 325	stir
+T11	predicate 378 385	stir in
+T12	predicate 437 444	Preheat
+T13	predicate 484 488	Pour
+T14	predicate 519 522	Mix
+T15	predicate 532 536	pour
+T16	predicate 583 588	Place
+T17	predicate 633 639	season
+T18	predicate 671 675	Melt
+T19	predicate 714 718	pour
+T20	predicate 731 735	Bake
+T21	predicate 809 814	Serve
+T22	arg_object 6 41	a large pot of lightly salted water
+T23	arg_other 42 51	to a boil
+R1	object Arg1:T1 Arg2:T22	
+R2	other Arg1:T1 Arg2:T23	
+R3	co-object Arg1:T2 Arg2:T1	
+T24	arg_object 57 62	pasta
+R4	object Arg1:T2 Arg2:T24	
+R5	object Arg1:T3 Arg2:T2	
+T25	arg_duration 72 109	for 8 to 10 minutes or until al dente
+R6	duration Arg1:T3 Arg2:T25	
+R7	object Arg1:T4 Arg2:T3	
+R8	co-object Arg1:T4 Arg2:T3	
+R9	object Arg1:T5 Arg2:T4	
+T26	Evolution 509 517	macaroni
+E1	Evolution:T26 Cause:T5
+T27	arg_co-object 504 517	over macaroni
+R10	co-object Arg1:T13 Arg2:T27	
+T28	arg_object 489 503	cheese mixture
+R11	object Arg1:T13 Arg2:T28	
+T29	Evolution 489 503	cheese mixture
+E2	Evolution:T29 Cause:T11
+T30	arg_location 130 150	In a large sauce pan
+R12	location Arg1:T6 Arg2:T30	
+T31	arg_object 157 190	4 tablespoons butter or margarine
+T32	ingredient 157 190	4 tablespoons butter or margarine
+R13	object Arg1:T6 Arg2:T31	
+T33	arg_other 191 207	over medium heat
+R14	other Arg1:T6 Arg2:T33	
+T34	arg_object 213 218	flour
+T35	ingredient 213 218	flour
+R15	object Arg1:T7 Arg2:T34	
+T36	arg_object 223 247	some ground black pepper
+T37	ingredient 223 247	some ground black pepper
+R16	object Arg1:T7 Arg2:T36	
+R17	co-object Arg1:T7 Arg2:T6	
+T38	arg_other 248 256	to taste
+R18	other Arg1:T7 Arg2:T38	
+R19	object Arg1:T8 Arg2:T7	
+T39	arg_duration 267 295	until paste-like consistency
+R20	duration Arg1:T8 Arg2:T39	
+T40	arg_object 301 305	milk
+T41	arg_co-object 306 316	to mixture
+R21	object Arg1:T9 Arg2:T40	
+R22	co-object Arg1:T9 Arg2:T41	
+T42	ingredient 301 305	milk
+T43	Evolution 309 316	mixture
+E3	Evolution:T43 Cause:T8
+R23	object Arg1:T10 Arg2:T9	
+T44	arg_other 326 337	continually
+T45	arg_duration 338 369	until mixture starts to thicken
+R24	other Arg1:T10 Arg2:T44	
+R25	duration Arg1:T10 Arg2:T45	
+T46	arg_other 371 377	slowly
+R26	other Arg1:T11 Arg2:T46	
+T47	arg_object 386 392	cheese
+T48	ingredient 386 392	cheese
+R27	object Arg1:T11 Arg2:T47	
+R28	co-object Arg1:T11 Arg2:T10	
+T49	arg_other 393 408	1 cup at a time
+R29	other Arg1:T11 Arg2:T49	
+T50	arg_duration 409 435	until all cheese is melted
+R30	duration Arg1:T11 Arg2:T50	
+T51	arg_object 445 449	oven
+R31	object Arg1:T12 Arg2:T51	
+T52	arg_other 450 482	to 350 degrees F (175 degrees C)
+R32	other Arg1:T12 Arg2:T52	
+R33	object Arg1:T14 Arg2:T13	
+T53	arg_other 523 527	well
+R34	other Arg1:T14 Arg2:T53	
+R35	object Arg1:T15 Arg2:T14	
+T54	arg_location 537 581	into a lightly greased 9x13 inch baking dish
+R36	location Arg1:T15 Arg2:T54	
+T55	arg_object 589 601	bread pieces
+R37	object Arg1:T16 Arg2:T55	
+T56	ingredient 589 601	bread pieces
+T57	arg_co-object 602 628	on top of macaroni mixture
+T58	Evolution 605 628	top of macaroni mixture
+E4	Evolution:T58 Cause:T15
+R38	co-object Arg1:T16 Arg2:T57	
+R39	object Arg1:T17 Arg2:T16	
+T59	arg_co-object 640 660	with salt and pepper
+R40	co-object Arg1:T17 Arg2:T59	
+T60	ingredient 645 649	salt
+T61	ingredient 654 660	pepper
+T62	arg_other 661 669	to taste
+R41	other Arg1:T17 Arg2:T62	
+T63	arg_object 676 709	4 tablespoons butter or margarine
+T64	ingredient 676 709	4 tablespoons butter or margarine
+R42	object Arg1:T18 Arg2:T63	
+R43	object Arg1:T19 Arg2:T18	
+T65	arg_co-object 719 729	over bread
+R44	co-object Arg1:T19 Arg2:T65	
+T66	Evolution 724 729	bread
+E5	Evolution:T66 Cause:T17
+R45	object Arg1:T20 Arg2:T19	
+T67	arg_location 736 753	in preheated oven
+R46	location Arg1:T20 Arg2:T67	
+T68	Evolution 739 753	preheated oven
+E6	Evolution:T68 Cause:T12
+T69	arg_duration 754 807	for 25 to 30 minutes or until bubbly and golden brown
+R47	duration Arg1:T20 Arg2:T69	
+R48	object Arg1:T21 Arg2:T20	

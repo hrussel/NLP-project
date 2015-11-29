@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and lay noodles on a paper towel .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: lay
+  PARG: a paper towel
+    PREP: on
+
+
+SENTID: 3
+SENT: In a large skillet over medium heat , cook sausage , spicing to taste , until no longer pink , and reserve .
+PREDID: 0
+PRED: reserve
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat , cook sausage , spicing
+    PREP: over
+  PARG: taste
+    PREP: to
+  PARG: no longer pink
+    PREP: until
+
+
+SENTID: 4
+SENT: In a large bowl , mix the ricotta and 2 jars of spaghetti sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: the ricotta, 2 jars of spaghetti sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: In a medium bowl , mix the Parmesan and mozzarella cheeses .
+PREDID: 0
+PRED: mix
+  DOBJ: the parmesan, mozzarella cheeses
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir all but one cup of the cheese mixture into the ricotta mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: all but one cup of the cheese mixture
+  PARG: the ricotta mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: stir in the sausage and chopped spinach .
+PREDID: 0
+PRED: stir
+  PARG: the sausage, chopped spinach
+    PREP: in
+
+
+SENTID: 8
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Coat the bottom of a 9x13 inch baking dish with a thin layer of spaghetti sauce .
+PREDID: 0
+PRED: coat
+  DOBJ: the bottom of a 9x13 inch baking dish
+  PARG: a thin layer of spaghetti sauce
+    PREP: with
+
+
+SENTID: 10
+SENT: Lay 3 to 4 noodles lengthwise and side by side ;
+PREDID: 0
+PRED: lay
+  DOBJ: 3 to 4 noodles lengthwise, side
+  PARG: side
+    PREP: by
+
+
+SENTID: 11
+SENT: then lay 3 to 4 noodles overlapping and in a staggered pattern on top .
+PREDID: 0
+PRED: lay
+  DOBJ: 3 to 4 noodles overlapping
+  PARG: a staggered pattern
+    PREP: in
+  PARG: top
+    PREP: on
+  OARG: then
+
+
+SENTID: 12
+SENT: Add a generous layer of the sausage/cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: a generous layer of the sausage/cheese
+
+
+SENTID: 13
+SENT: repeat layers twice , until they have reach 1/2 inch from the top of the baking dish .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  PARG: they have reach 1/2 inch from the top of the baking dish
+    PREP: until
+  OARG: twice
+
+
+SENTID: 14
+SENT: Layer noodles on top of the lasagna and coat in the last jar of spaghetti sauce .
+PREDID: 0
+PRED: layer
+  DOBJ: noodles
+  PARG: top of the lasagna
+    PREP: on
+
+PREDID: 1
+PRED: coat
+  PARG: the last jar of spaghetti sauce
+    PREP: in
+
+
+SENTID: 15
+SENT: Cover with last cup of cheese mixture and bake in preheated oven for 45 minutes or until golden brown .
+PREDID: 0
+PRED: cover
+  PARG: last cup of cheese mixture
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+

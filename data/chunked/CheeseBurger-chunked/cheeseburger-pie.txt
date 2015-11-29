@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Crumble ground beef into a large skillet .
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: into
+
+
+SENTID: 2
+SENT: Saute over medium heat 1 minute , then add onion and green pepper .
+PREDID: 0
+PRED: saute
+  PARG: medium heat 1 minute
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: onion, green pepper
+
+
+SENTID: 3
+SENT: Continue to saute until onion begins to brown , about 5 minutes .
+PREDID: 0
+PRED: continue
+  PARG: saute
+    PREP: to
+  PARG: onion begins to brown , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix in 1/2 cup tomato sauce , bread crumbs , and seasoning salt .
+PREDID: 0
+PRED: mix
+  PARG: 1/2 cup tomato sauce , bread crumbs , seasoning salt
+    PREP: in
+
+
+SENTID: 5
+SENT: Spoon mixture into pastry shell .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: pastry shell
+    PREP: into
+
+
+SENTID: 6
+SENT: In a medium bowl , mix together cheese , egg , milk , Worcestershire sauce , and white pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: egg , milk , worcestershire sauce , white pepper
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: cheese
+
+
+SENTID: 7
+SENT: Spread mixture over meat filling .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: meat filling
+    PREP: over
+
+
+SENTID: 8
+SENT: Cover edges of crust with strips of aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: edges of crust
+  PARG: strips of aluminum foil
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Remove foil and bake an additional 15 minutes , until topping is puffy and lightly browned .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: topping is puffy, lightly browned
+    PREP: until
+  OARG: an additional 15 minutes
+
+
+SENTID: 11
+SENT: Allow to set 10 to 15 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: set 10 to 15 minutes
+    PREP: to
+  PARG: serving
+    PREP: before
+
+
+SENTID: 12
+SENT: Make garnish sauce by mixing together 1/2 cup tomato sauce and cocktail sauce .
+PREDID: 0
+PRED: make
+  DOBJ: 1/2 cup tomato sauce, cocktail sauce
+  PARG: mixing
+    PREP: by
+  OARG: together
+  OARG: garnish sauce
+
+
+SENTID: 13
+SENT: Garnish each slice of pie with a spoonful of sauce .
+PREDID: 0
+PRED: garnish
+  DOBJ: each slice of pie
+  PARG: a spoonful of sauce
+    PREP: with
+

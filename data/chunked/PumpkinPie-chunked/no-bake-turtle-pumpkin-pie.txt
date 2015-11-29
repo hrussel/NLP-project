@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Pour 1/2 cup caramel topping into bottom of graham cracker crust .
+PREDID: 0
+PRED: pour
+  DOBJ: 1/2 cup caramel topping
+  PARG: bottom of graham cracker crust
+    PREP: into
+
+
+SENTID: 1
+SENT: Sprinkle 1/2 cup chopped pecans over caramel layer .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/2 cup chopped pecans
+  PARG: caramel layer
+    PREP: over
+
+
+SENTID: 2
+SENT: Whisk pumpkin puree , cold milk , pudding mixes , cinnamon , and nutmeg together in a bowl until smooth ;
+PREDID: 0
+PRED: whisk
+  DOBJ: pumpkin puree , cold milk , pudding mixes , cinnamon , nutmeg
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: stir in 1Ê1/2 cups whipped topping .
+PREDID: 0
+PRED: stir
+  PARG: 1Ê1/2 cups whipped topping
+    PREP: in
+
+
+SENTID: 4
+SENT: Spread pumpkin mixture over caramel and pecans in pie crust ;
+PREDID: 0
+PRED: spread
+  DOBJ: pumpkin mixture
+  PARG: caramel, pecans
+    PREP: over
+  PARG: pie crust
+    PREP: in
+
+
+SENTID: 5
+SENT: top with remaining whipped topping .
+PREDID: 0
+PRED: top
+  PARG: remaining whipped topping
+    PREP: with
+
+
+SENTID: 6
+SENT: Refrigerate pie until chilled and set , about 1 hour .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: pie
+  PARG: chilled
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 1 hour
+    PREP: about
+
+
+SENTID: 7
+SENT: Sprinkle 2 tablespoons pecans over pie .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 2 tablespoons pecans
+  PARG: pie
+    PREP: over
+
+
+SENTID: 8
+SENT: Drizzle 2 tablespoons caramel topping over pie using a fork .
+PREDID: 0
+PRED: drizzle
+  DOBJ: 2 tablespoons caramel topping
+  PARG: pie
+    PREP: over
+

@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Wrap cod roe with lightly oiled aluminum foil .
+PREDID: 0
+PRED: wrap
+  DOBJ: cod roe
+  PARG: lightly oiled aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: Bake for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Place eggs in a saucepan , and add enough cold water to cover the eggs .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: cold water
+  PARG: cover the eggs
+    PREP: to
+  OARG: enough
+
+
+SENTID: 4
+SENT: Bring it to boil , cover , and then remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: it
+  PARG: boil
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  OARG: then
+
+PREDID: 2
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Set aside for 12 minutes .
+PREDID: 0
+PRED: set
+  PARG: 12 minutes
+    PREP: for
+  OARG: aside
+
+
+SENTID: 6
+SENT: Drain , and pour cold water over the eggs to cool them .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: pour
+  DOBJ: cold water
+  PARG: the eggs
+    PREP: over
+  OARG: to cool them
+
+
+SENTID: 7
+SENT: Remove eggshells , and slice the eggs in half lengthwise .
+PREDID: 0
+PRED: remove
+  DOBJ: eggshells
+
+PREDID: 1
+PRED: slice
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 8
+SENT: Place yolks in a mixing bowl , and mix with cooked cod roe and butter .
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: cooked cod roe
+    PREP: with
+
+PREDID: 2
+PRED: butter
+
+
+SENTID: 9
+SENT: Season to taste with salt .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt
+    PREP: with
+
+
+SENTID: 10
+SENT: Spoon the yolk mixture onto the egg white halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk mixture
+  PARG: the egg white halves
+    PREP: onto
+
+
+SENTID: 11
+SENT: Sprinkle minced parsley on top , and serve .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: minced parsley
+  PARG: top
+    PREP: on
+
+PREDID: 1
+PRED: serve
+

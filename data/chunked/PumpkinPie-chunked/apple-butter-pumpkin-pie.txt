@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine pumpkin , apple butter , 1/4 cup brown sugar , cinnamon , nutmeg , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , apple butter , 1/4 cup brown sugar , cinnamon , nutmeg , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in eggs and evaporated milk .
+PREDID: 0
+PRED: stir
+  PARG: eggs, evaporated milk
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour into prepared pie shell .
+PREDID: 0
+PRED: pour
+  PARG: prepared pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 50 to 60 minutes , or until a knife inserted 2 inches from the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 to 60 minutes
+    PREP: for
+  PARG: a knife inserted 2 inches from the center comes out clean
+    PREP: until
+
+
+SENTID: 5
+SENT: Sprinkle streusel topping over the pie , and bake for an additional 15 minutes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: streusel topping
+  PARG: the pie
+    PREP: over
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 15 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: In a small bowl , combine butter , flour , and 1/3 cup brown sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: butter , flour , 1/3 cup brown sugar
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir until mixture resembles coarse crumbs .
+PREDID: 0
+PRED: stir
+  PARG: mixture resembles coarse crumbs
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in pecans .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+

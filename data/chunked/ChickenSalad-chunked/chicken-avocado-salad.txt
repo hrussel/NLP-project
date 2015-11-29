@@ -1,0 +1,20 @@
+SENTID: 0
+SENT: In a medium bowl , combine the avocados , chicken , onion and cilantro .
+PREDID: 0
+PRED: combine
+  DOBJ: the avocados , chicken , onion, cilantro
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Pour the balsamic vinaigrette over everything , and toss lightly to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the balsamic vinaigrette
+  PARG: everything , toss
+    PREP: over
+  PARG: coat
+    PREP: to
+  OARG: lightly
+

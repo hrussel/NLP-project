@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Heat the refried beans .
+PREDID: 0
+PRED: heat
+  DOBJ: the refried beans
+
+
+SENTID: 1
+SENT: In a large skillet , brown the ground beef .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in the seasoning packet .
+PREDID: 0
+PRED: stir
+  PARG: the seasoning packet
+    PREP: in
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Place a small amount of vegetable oil in a large skillet .
+PREDID: 0
+PRED: place
+  DOBJ: a small amount of vegetable oil
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: Let the oil heat , then place one corn tortilla in the skillet .
+PREDID: 0
+PRED: let
+  DOBJ: the oil heat
+  OARG: then
+
+PREDID: 1
+PRED: place
+  DOBJ: one corn tortilla
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 6
+SENT: After 15 seconds , flip the tortilla over and let it fry another 15 seconds .
+PREDID: 0
+PRED: flip
+  DOBJ: the tortilla
+  PARG: 15 seconds
+    PREP: after
+  PARG: and let it fry another 15 seconds
+    PREP: over
+
+
+SENTID: 7
+SENT: Repeat this process with the remaining tortillas , letting them drain on paper towels once they have been heated .
+PREDID: 0
+PRED: repeat
+  DOBJ: they have been heated
+  PARG: the remaining tortillas , letting them drain
+    PREP: with
+  PARG: paper towels
+    PREP: on
+  OARG: once
+  OARG: this process
+
+
+SENTID: 8
+SENT: When the tortillas have drained , arrange them on a cookie sheet .
+PREDID: 0
+PRED: arrange
+  DOBJ: them
+  PARG: a cookie sheet
+    PREP: on
+  OARG: when the tortillas have drained
+
+
+SENTID: 9
+SENT: Spread a thin layer of beans on the tortillas , followed by a layer of beef , and cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: a thin layer of beans
+  PARG: the tortillas , followed
+    PREP: on
+  PARG: a layer of beef , cheese
+    PREP: by
+
+
+SENTID: 10
+SENT: Bake the tortillas in the preheated oven for 20 to 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the tortillas
+  PARG: the preheated oven
+    PREP: in
+  PARG: 20 to 30 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Slice the tortillas into wedges and arrange them on plates or a serving platter and garnish them with the sour cream , tomatoes , green onions , chiles , avocado , and olives .
+PREDID: 0
+PRED: slice
+  DOBJ: the tortillas
+  PARG: wedges
+    PREP: into
+
+PREDID: 1
+PRED: arrange
+  DOBJ: them
+  PARG: plates or a serving platter, garnish them
+    PREP: on
+  PARG: the sour cream , tomatoes , green onions , chiles , avocado , olives
+    PREP: with
+

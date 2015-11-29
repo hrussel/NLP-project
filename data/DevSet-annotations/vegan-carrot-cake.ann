@@ -1,0 +1,112 @@
+T1	predicate 0 7	Preheat
+T2	arg_object 8 12	oven
+T3	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T2	
+R2	duration Arg1:T1 Arg2:T3	
+T4	predicate 47 54	Prepare
+T5	arg_object 55 77	a 9x13 inch baking pan
+T6	arg_co-object 78 96	with cooking spray
+R3	object Arg1:T4 Arg2:T5	
+R4	co-object Arg1:T4 Arg2:T6	
+T7	predicate 98 112	Whisk together
+T8	arg_object 113 134	the whole wheat flour
+T9	arg_object 136 145	soy flour
+T10	arg_object 147 155	cinnamon
+T11	arg_object 157 170	ground cloves
+T12	arg_object 172 183	baking soda
+T13	arg_object 185 199	tapioca starch
+T14	arg_object 205 209	salt
+T15	arg_location 210 219	in a bowl
+T16	arg_duration 220 233	until blended
+T17	predicate 235 244	set aside
+R5	object Arg1:T7 Arg2:T8	
+R6	object Arg1:T7 Arg2:T9	
+R7	object Arg1:T7 Arg2:T10	
+R8	object Arg1:T7 Arg2:T11	
+R9	object Arg1:T7 Arg2:T12	
+R10	object Arg1:T7 Arg2:T13	
+R11	object Arg1:T7 Arg2:T14	
+R12	location Arg1:T7 Arg2:T15	
+R13	duration Arg1:T7 Arg2:T16	
+R14	object Arg1:T17 Arg2:T7	
+T18	predicate 246 250	Pour
+T19	arg_object 251 264	the hot water
+T20	arg_location 265 283	into a mixing bowl
+T21	predicate 289 297	sprinkle
+T22	arg_co-object 298 316	with the flax meal
+R15	co-object Arg1:T21 Arg2:T22	
+R16	object Arg1:T21 Arg2:T18	
+R17	object Arg1:T18 Arg2:T19	
+R18	location Arg1:T18 Arg2:T20	
+T23	predicate 318 322	Stir
+T24	arg_duration 323 335	for a minute
+R19	duration Arg1:T23 Arg2:T24	
+R21	object Arg1:T23 Arg2:T21	
+T25	arg_duration 336 412	until the flax begins to absorb the water, and the mixture slightly thickens
+R20	duration Arg1:T23 Arg2:T25	
+T26	predicate 414 421	Stir in
+T27	predicate 526 533	Stir in
+T28	predicate 605 609	Bake
+T29	predicate 710 714	Cool
+T30	predicate 577 581	pour
+T31	predicate 486 489	add
+T32	arg_object 422 437	the brown sugar
+T33	arg_object 442 449	vanilla
+T34	arg_duration 450 479	until the sugar has dissolved
+T35	arg_object 490 502	the currants
+T36	arg_object 504 511	carrots
+T37	arg_object 517 524	almonds
+R22	object Arg1:T31 Arg2:T35	
+R23	object Arg1:T31 Arg2:T36	
+R24	object Arg1:T31 Arg2:T37	
+R25	object Arg1:T26 Arg2:T32	
+R26	object Arg1:T26 Arg2:T33	
+R27	duration Arg1:T26 Arg2:T34	
+R28	co-object Arg1:T26 Arg2:T23	
+R29	co-object Arg1:T31 Arg2:T26	
+T38	arg_object 534 549	the dry mixture
+T39	Evolution 534 549	the dry mixture
+E1	Evolution:T39 Cause:T17
+T40	arg_duration 550 570	until just moistened
+R30	object Arg1:T27 Arg2:T38	
+R31	duration Arg1:T27 Arg2:T40	
+T41	arg_location 582 603	into the prepared pan
+T42	Evolution 587 603	the prepared pan
+E2	Evolution:T42 Cause:T4
+R32	location Arg1:T30 Arg2:T41	
+R33	object Arg1:T30 Arg2:T27	
+T43	arg_location 610 631	in the preheated oven
+T44	Evolution 613 631	the preheated oven
+E3	Evolution:T44 Cause:T1
+T45	arg_duration 632 708	until a toothpick inserted into the center comes out clean, about 30 minutes
+R34	location Arg1:T28 Arg2:T43	
+R35	duration Arg1:T28 Arg2:T45	
+T46	arg_location 715 725	in the pan
+T47	arg_duration 726 740	for 10 minutes
+R36	object Arg1:T29 Arg2:T28	
+R37	location Arg1:T29 Arg2:T46	
+R38	duration Arg1:T29 Arg2:T47	
+T48	predicate 748 756	removing
+T49	arg_duration 757 775	to cool completely
+T50	arg_location 776 790	on a wire rack
+R39	object Arg1:T48 Arg2:T29	
+R40	duration Arg1:T48 Arg2:T49	
+R41	location Arg1:T48 Arg2:T50	
+R42	co-object Arg1:T27 Arg2:T31	
+R43	object Arg1:T28 Arg2:T30	
+T51	ingredient 113 134	the whole wheat flour
+T52	ingredient 136 145	soy flour
+T53	ingredient 147 155	cinnamon
+T54	ingredient 157 170	ground cloves
+T55	ingredient 172 183	baking soda
+T56	ingredient 185 199	tapioca starch
+T57	ingredient 205 209	salt
+T58	ingredient 251 264	the hot water
+T59	ingredient 303 316	the flax meal
+T60	ingredient 422 437	the brown sugar
+T61	ingredient 442 449	vanilla
+T62	ingredient 490 502	the currants
+T63	ingredient 504 511	carrots
+T64	ingredient 517 524	almonds
+T65	ingredient 83 96	cooking spray
+R44	same-location Arg1:T46 Arg2:T41	

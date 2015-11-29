@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Combine light corn syrup , butter and sugar in saucepan ;
+PREDID: 0
+PRED: combine
+  DOBJ: light corn syrup , butter, sugar
+  PARG: saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: simmer until syrup-like .
+PREDID: 0
+PRED: simmer
+  PARG: syrup-like
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour mixture over the bottom of a 9 `` x 13 '' pan .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: the bottom of a 9 `` x 13 '' pan
+    PREP: over
+
+
+SENTID: 3
+SENT: Slice bread into 12-16 slices ;
+PREDID: 0
+PRED: slice
+  DOBJ: bread
+  PARG: 12-16 slices
+    PREP: into
+
+
+SENTID: 4
+SENT: place over the syrup .
+PREDID: 0
+PRED: place
+  PARG: the syrup
+    PREP: over
+
+
+SENTID: 5
+SENT: Layer as needed .
+PREDID: 0
+PRED: layer
+  PARG: needed
+    PREP: as
+
+
+SENTID: 6
+SENT: Beat together the eggs , milk , vanilla , and salt .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , milk , vanilla , salt
+  OARG: together
+
+
+SENTID: 7
+SENT: Pour over bread .
+PREDID: 0
+PRED: pour
+  PARG: bread
+    PREP: over
+
+
+SENTID: 8
+SENT: Cover with saran wrap .
+PREDID: 0
+PRED: cover
+  PARG: saran wrap
+    PREP: with
+
+
+SENTID: 9
+SENT: Refrigerate overnight .
+PREDID: 0
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 10
+SENT: Bake in a preheated oven 350 degree F -LRB- 175 degrees C -RRB- for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven 350 degree f -lrb- 175 degrees c -rrb-
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Cut into squares .
+PREDID: 0
+PRED: cut
+  PARG: squares
+    PREP: into
+
+
+SENTID: 12
+SENT: Invert and serve .
+PREDID: 0
+PRED: invert
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Combine SMUCKER 'S ¨ preserves , vinegar , garlic salt , ginger , soy sauce and crushed red pepper flakes ;
+PREDID: 0
+PRED: combine
+  DOBJ: smucker 's ¨ preserves , vinegar , garlic salt , ginger , soy sauce, crushed red pepper flakes
+
+
+SENTID: 1
+SENT: stir until well blended .
+PREDID: 0
+PRED: stir
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Heat 2 tablespoons oil in wok or large skillet until hot .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons oil
+  PARG: wok or large skillet
+    PREP: in
+  PARG: hot
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir-fry zucchini and mushrooms over medium-high heat until zucchini is crisp-tender .
+PREDID: 0
+PRED: heat
+  DOBJ: stir-fry zucchini, mushrooms
+  PARG: medium-high
+    PREP: over
+  PARG: zucchini is crisp-tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Transfer mixture to a platter .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: a platter
+    PREP: to
+
+
+SENTID: 6
+SENT: Add remaining oil to wok ;
+PREDID: 0
+PRED: add
+  DOBJ: remaining oil
+  PARG: wok
+    PREP: to
+
+
+SENTID: 7
+SENT: cook chicken until tender , stirring often .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+  PARG: tender , stirring often
+    PREP: until
+
+
+SENTID: 8
+SENT: Add pea pods and cooked zucchini and mushrooms ;
+PREDID: 0
+PRED: add
+  DOBJ: pea pods, cooked zucchini, mushrooms
+
+
+SENTID: 9
+SENT: toss gently to mix well and heat through .
+PREDID: 0
+PRED: toss
+  PARG: mix
+    PREP: to
+  OARG: gently
+  OARG: well
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 10
+SENT: Pour apricot sauce over chicken and vegetables ;
+PREDID: 0
+PRED: pour
+  DOBJ: apricot sauce
+  PARG: chicken, vegetables
+    PREP: over
+
+
+SENTID: 11
+SENT: toss gently to mix well and heat through .
+PREDID: 0
+PRED: toss
+  PARG: mix
+    PREP: to
+  OARG: gently
+  OARG: well
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 12
+SENT: Serve with rice , if desired .
+PREDID: 0
+PRED: serve
+  PARG: rice
+    PREP: with
+  PARG: desired
+    PREP: if
+

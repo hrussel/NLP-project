@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: In a large pot over medium high heat , saute the ground beef for 5 to 10 minutes , or until browned .
+PREDID: 0
+PRED: saute
+  DOBJ: the ground beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain the grease , and add the taco seasoning , tomato sauce , diced tomatoes , corn and kidney beans .
+PREDID: 0
+PRED: drain
+  DOBJ: the grease
+
+PREDID: 1
+PRED: add
+  DOBJ: the taco seasoning , tomato sauce , diced tomatoes , corn, kidney beans
+
+
+SENTID: 2
+SENT: Mix well , reduce heat to low and let simmer for 1 to 2 hours to allow the flavors to mesh .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low, let simmer
+    PREP: to
+  PARG: 1 to 2 hours
+    PREP: for
+  PARG: mesh
+    PREP: to
+  OARG: to allow the flavors
+

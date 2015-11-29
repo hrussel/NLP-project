@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Heat a large skillet over medium heat , and place 2 tablespoons of sesame salad dressing in the skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: place
+  DOBJ: 2 tablespoons of sesame salad dressing
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: Add the chicken , and cook and stir until no longer pink in the middle and beginning to brown , 5 to 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: cook
+  PARG: no longer pink in the middle, beginning to brown , 5 to 7 minutes
+    PREP: until
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 2
+SENT: Stir in the orange juice and 2 more tablespoons of sesame dressing , and bring to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the orange juice, 2 more tablespoons of sesame dressing
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in the red bell pepper , zucchini , broccoli , and green onions , and cook and stir until the vegetables are tender and the broccoli is bright green in color , 5 to 8 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the red bell pepper , zucchini , broccoli , green onions
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: the vegetables are tender, the broccoli is bright green in color , 5 to 8 minutes
+    PREP: until
+
+PREDID: 2
+PRED: stir
+

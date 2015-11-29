@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix the ground beef , eggs , onion , bread crumbs , salsa , ketchup , barbeque sauce , salt , pepper , and celery salt together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , eggs , onion , bread crumbs , salsa , ketchup , barbeque sauce , salt , pepper , celery salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: transfer to a loaf pan .
+PREDID: 0
+PRED: transfer
+  PARG: a loaf pan
+    PREP: to
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until golden brown on top , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown on top , about 1 hour
+    PREP: until
+

@@ -1,0 +1,204 @@
+SENTID: 0
+SENT: Cook meat in a large skillet over medium-high heat until brown , stirring occasionally with a wooden spoon and breaking up the meat .
+PREDID: 0
+PRED: cook
+  DOBJ: meat
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: brown , stirring occasionally with a wooden spoon, breaking up the meat
+    PREP: until
+
+
+SENTID: 1
+SENT: Remove skillet from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: skillet
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Place colander over bowl .
+PREDID: 0
+PRED: place
+  DOBJ: colander
+  PARG: bowl
+    PREP: over
+
+
+SENTID: 3
+SENT: Spoon meat into colander and let fat drain into bowl .
+PREDID: 0
+PRED: spoon
+  DOBJ: meat
+  PARG: colander
+    PREP: into
+
+PREDID: 1
+PRED: let
+  DOBJ: fat
+
+PREDID: 2
+PRED: drain
+  PARG: bowl
+    PREP: into
+
+
+SENTID: 4
+SENT: Return meat to skillet .
+PREDID: 0
+PRED: return
+  DOBJ: meat
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 5
+SENT: Discard fat .
+PREDID: 0
+PRED: discard
+  DOBJ: fat
+
+
+SENTID: 6
+SENT: Spoon 1 cup of Classico ¨ Four Cheese pasta sauce in the bottom of a 2-quart rectangular baking dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: 1 cup of classico ¨ four cheese pasta sauce
+  PARG: the bottom of a 2-quart rectangular baking dish
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir remaining Classico ¨ Four Cheese pasta sauce into meat in skillet .
+PREDID: 0
+PRED: stir
+  DOBJ: remaining classico ¨ four cheese pasta sauce
+  PARG: meat
+    PREP: into
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 8
+SENT: Cook over medium heat until hot , stirring occasionally with a wooden spoon .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: hot , stirring occasionally with a wooden spoon
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove meat mixture from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: meat mixture
+  PARG: heat
+    PREP: from
+
+
+SENTID: 10
+SENT: Place 2 uncooked noodles on sauce in bottom of dish .
+PREDID: 0
+PRED: place
+  DOBJ: 2 uncooked noodles
+  PARG: sauce
+    PREP: on
+  PARG: bottom of dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Spread one-third of the meat mixture on top of noodles .
+PREDID: 0
+PRED: spread
+  DOBJ: one-third of the meat mixture
+  PARG: top of noodles
+    PREP: on
+
+
+SENTID: 12
+SENT: Spread 3/4 cup of the cottage cheese over meat .
+PREDID: 0
+PRED: spread
+  DOBJ: 3/4 cup of the cottage cheese
+  PARG: meat
+    PREP: over
+
+
+SENTID: 13
+SENT: Sprinkle 1/2 cup of the mozzarella cheese over cottage cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/2 cup of the mozzarella cheese
+  PARG: cottage cheese
+    PREP: over
+
+
+SENTID: 14
+SENT: Add another layer of 2 uncooked noodles , one-third of the meat mixture , the rest of the cottage cheese , and 1/2 cup of the mozzarella cheese .
+PREDID: 0
+PRED: add
+  DOBJ: another layer of 2 uncooked noodles , one-third of the meat mixture , the rest of the cottage cheese , 1/2 cup of the mozzarella cheese
+
+
+SENTID: 15
+SENT: Layer remaining uncooked noodles , meat mixture , and mozzarella cheese .
+PREDID: 0
+PRED: layer
+  DOBJ: remaining uncooked noodles , meat mixture , mozzarella cheese
+
+
+SENTID: 16
+SENT: Cover baking dish with foil .
+PREDID: 0
+PRED: cover
+  DOBJ: baking dish
+  PARG: foil
+    PREP: with
+
+
+SENTID: 17
+SENT: Bake in a 350 degree F oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: a 350 degree f oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 18
+SENT: Remove from oven and let stand on a cooling rack with foil cover in place for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: a cooling rack
+    PREP: on
+  PARG: foil
+    PREP: with
+
+PREDID: 2
+PRED: cover
+  PARG: place
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 19
+SENT: Makes 6 servings .
+PREDID: 0
+PRED: makes
+  DOBJ: 6 servings
+

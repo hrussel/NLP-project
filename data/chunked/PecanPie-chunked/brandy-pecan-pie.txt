@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , beat eggs together with half-and-half .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large bowl
+    PREP: in
+  PARG: half-and-half
+    PREP: with
+  OARG: together
+
+
+SENTID: 2
+SENT: Mix in sugar , flour , salt , molasses , corn syrup , vanilla , and brandy .
+PREDID: 0
+PRED: mix
+  PARG: sugar , flour , salt , molasses , corn syrup , vanilla , brandy
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in pecans .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour into pie crust .
+PREDID: 0
+PRED: pour
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in preheated oven for 40 to 50 minutes , or until done .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 40 to 50 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+

@@ -1,0 +1,75 @@
+T1	predicate 0 4	Melt
+T3	predicate 187 193	Remove
+T4	predicate 208 216	transfer
+T5	predicate 238 242	Stir
+T6	predicate 336 341	Whisk
+T7	predicate 442 446	pour
+T8	predicate 471 475	toss
+T9	arg_object 5 11	butter
+T10	arg_location 12 30	in a large skillet
+T11	arg_other 31 47	over medium heat
+R1	object Arg1:T1 Arg2:T9	
+R2	location Arg1:T1 Arg2:T10	
+R3	other Arg1:T1 Arg2:T11	
+T12	arg_object 63 80	sunflower kernels
+T13	arg_object 85 98	ramen noodles
+T14	arg_co-object 99 112	in hot butter
+T15	arg_duration 113 185	until sunflower kernels are lightly browned and fragrant, 3 to 5 minutes
+T16	Evolution 102 112	hot butter
+E1	Evolution:T16 Cause:T2
+T17	arg_location 194 203	from heat
+T18	arg_location 217 228	into a bowl
+T19	arg_duration 229 236	to cool
+R8	location Arg1:T3 Arg2:T17	
+R9	object Arg1:T4 Arg2:T3	
+R11	location Arg1:T4 Arg2:T18	
+R12	duration Arg1:T4 Arg2:T19	
+T20	arg_object 243 258	sunflower seeds
+T21	arg_object 263 276	ramen noodles
+T22	arg_co-object 277 312	with napa cabbage and spring onions
+T23	arg_location 313 334	in a large salad bowl
+R13	object Arg1:T5 Arg2:T20	
+R14	object Arg1:T5 Arg2:T21	
+R15	co-object Arg1:T5 Arg2:T22	
+R16	location Arg1:T5 Arg2:T23	
+T24	Evolution 243 258	sunflower seeds
+E2	Evolution:T24 Cause:T4
+T25	Evolution 263 276	ramen noodles
+E3	Evolution:T25 Cause:T4
+T26	arg_object 342 349	vinegar
+T27	arg_object 351 364	vegetable oil
+T28	arg_object 366 371	sugar
+T29	arg_object 377 386	soy sauce
+R17	object Arg1:T6 Arg2:T26	
+R18	object Arg1:T6 Arg2:T27	
+R19	object Arg1:T6 Arg2:T28	
+R20	object Arg1:T6 Arg2:T29	
+T30	arg_location 396 414	in a separate bowl
+T31	arg_duration 415 440	until sugar has dissolved
+R21	location Arg1:T6 Arg2:T30	
+R22	duration Arg1:T6 Arg2:T31	
+T32	arg_object 447 455	dressing
+T33	Evolution 447 455	dressing
+E4	Evolution:T33 Cause:T6
+T34	arg_co-object 456 466	over salad
+T35	Evolution 461 466	salad
+E5	Evolution:T35 Cause:T5
+R23	object Arg1:T7 Arg2:T32	
+R24	co-object Arg1:T7 Arg2:T34	
+R25	object Arg1:T8 Arg2:T7	
+T36	ingredient 5 11	butter
+T37	ingredient 63 80	sunflower kernels
+T38	ingredient 85 98	ramen noodles
+T39	ingredient 282 294	napa cabbage
+T40	ingredient 299 312	spring onions
+T41	ingredient 342 349	vinegar
+T42	ingredient 351 364	vegetable oil
+T43	ingredient 366 371	sugar
+T44	ingredient 377 386	soy sauce
+T2	predicate 49 53	cook
+T45	predicate 58 62	stir
+R4	object Arg1:T2 Arg2:T1	
+R5	object Arg1:T45 Arg2:T12	
+R6	object Arg1:T45 Arg2:T13	
+R7	duration Arg1:T45 Arg2:T15	
+R10	object Arg1:T3 Arg2:T45	

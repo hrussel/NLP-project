@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: Boil chicken breasts and celery in 4 cups of water for about 30 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: chicken breasts, celery
+  PARG: 4 cups of water
+    PREP: in
+  PARG: about 30 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: Remove from heat and remove chicken from water to cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: remove
+  DOBJ: chicken
+  PARG: water
+    PREP: from
+  OARG: to cool
+
+
+SENTID: 2
+SENT: When chicken is cooled , shred and set aside .
+PREDID: 0
+PRED: shred
+  OARG: when chicken is cooled
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: In a large skillet , melt butter or margarine .
+PREDID: 0
+PRED: melt
+  DOBJ: butter or margarine
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: Drain mushrooms , reserving liquid , and add to skillet .
+PREDID: 0
+PRED: drain
+  DOBJ: mushrooms , reserving liquid , add
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 5
+SENT: Heat thoroughly , seasoning with salt and pepper .
+PREDID: 0
+PRED: heat
+  DOBJ: seasoning
+  PARG: salt, pepper
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 6
+SENT: Add evaporated milk , reserved mushroom liquid and sherry , stirring well .
+PREDID: 0
+PRED: add
+  DOBJ: evaporated milk , reserved mushroom liquid, sherry , stirring
+  OARG: well
+
+
+SENTID: 7
+SENT: Add cheese a few slices at a time until thoroughly melted and blended .
+PREDID: 0
+PRED: add
+  DOBJ: cheese a few slices
+  PARG: a time
+    PREP: at
+  PARG: thoroughly melted, blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Add shredded chicken and bring to a slow boil .
+PREDID: 0
+PRED: add
+  DOBJ: shredded chicken
+
+PREDID: 1
+PRED: bring
+  PARG: a slow boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Preheat oven to 350 degrees -LRB- 175 C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees -lrb- 175 c -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: Grease a 9x13x2 glass baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13x2 glass baking dish
+
+
+SENTID: 11
+SENT: Put in noodles at about a 1Ê1/2 inch depth and pour chicken mixture over noodles .
+PREDID: 0
+PRED: put
+  PARG: noodles
+    PREP: in
+  PARG: about a 1Ê1/2 inch depth
+    PREP: at
+
+PREDID: 1
+PRED: pour
+  DOBJ: chicken mixture
+  PARG: noodles
+    PREP: over
+
+
+SENTID: 12
+SENT: Stir to coat .
+PREDID: 0
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 13
+SENT: Top with cornflake crumbs and paprika , cover dish and bake for 25 minutes .
+PREDID: 0
+PRED: top
+  PARG: cornflake crumbs, paprika , cover dish
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Uncover dish and bake for 5 more minutes .
+PREDID: 0
+PRED: uncover
+  DOBJ: dish
+
+PREDID: 1
+PRED: bake
+  PARG: 5 more minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

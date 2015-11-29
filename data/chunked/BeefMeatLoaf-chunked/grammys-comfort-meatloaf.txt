@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , thoroughly mix together the ground beef , half of one can of tomato soup , instant rice , onion , garlic , Italian seasoning , egg , and green bell pepper ;
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , half of one can of tomato soup , instant rice , onion , garlic , italian seasoning , egg , green bell pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: thoroughly
+  OARG: together
+
+
+SENTID: 2
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Reserve remaining tomato soup .
+PREDID: 0
+PRED: reserve
+  DOBJ: remaining tomato soup
+
+
+SENTID: 4
+SENT: Form the meat mixture into a loaf , and place into a 9x13-inch baking dish .
+PREDID: 0
+PRED: form
+  DOBJ: the meat mixture
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake the loaf in the preheated oven until browned and an instant-read meat thermometer reads 160 degrees F -LRB- 70 degrees C -RRB- , about 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the loaf
+  PARG: the preheated oven
+    PREP: in
+  PARG: browned, an instant-read meat thermometer reads 160 degrees f -lrb- 70 degrees c -rrb- , about 30 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove from oven , and cover the loaf with the remaining 1Ê1/2 cans of tomato soup .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: cover
+  DOBJ: the loaf
+  PARG: the remaining 1Ê1/2 cans of tomato soup
+    PREP: with
+
+
+SENTID: 7
+SENT: Return to oven , and bake until the soup is hot and beginning to form a glaze on the meat , about 10 minutes .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the soup is hot, beginning to form a glaze on the meat , about 10 minutes
+    PREP: until
+

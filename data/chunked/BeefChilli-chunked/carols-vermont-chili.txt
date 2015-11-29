@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Heat the olive oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in the garlic , onion , red bell pepper , and jalapeno peppers .
+PREDID: 0
+PRED: stir
+  PARG: the garlic , onion , red bell pepper , jalapeno peppers
+    PREP: in
+
+
+SENTID: 2
+SENT: Add the tomato sauce , crushed tomatoes , maple syrup , and kidney beans .
+PREDID: 0
+PRED: add
+  DOBJ: the tomato sauce , crushed tomatoes , maple syrup , kidney beans
+
+
+SENTID: 3
+SENT: Season with black pepper and chili powder .
+PREDID: 0
+PRED: season
+  PARG: black pepper, chili powder
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring to a boil , then reduce heat to a simmer .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 5
+SENT: Meanwhile , heat a large skillet over medium-high heat and stir in the ground beef .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+  OARG: meanwhile
+
+PREDID: 1
+PRED: stir
+  PARG: the ground beef
+    PREP: in
+
+
+SENTID: 6
+SENT: Sprinkle beef with salt .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: beef
+  PARG: salt
+    PREP: with
+
+
+SENTID: 7
+SENT: Cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: the beef is crumbly , evenly browned , no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 8
+SENT: Drain and discard any excess grease ;
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 9
+SENT: stir into the chili along with 1 beer .
+PREDID: 0
+PRED: stir
+  PARG: the chili
+    PREP: into
+  PARG: with 1 beer
+    PREP: along
+
+
+SENTID: 10
+SENT: Season to taste with salt , and thin to desired consistency with 1 beer before serving .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt
+    PREP: with
+  PARG: desired consistency
+    PREP: to
+  PARG: 1 beer
+    PREP: with
+  PARG: serving
+    PREP: before
+  OARG: thin
+

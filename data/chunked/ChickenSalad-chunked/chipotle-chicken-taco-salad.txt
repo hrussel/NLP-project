@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Mix Dressing ingredients in small bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: dressing ingredients
+  PARG: small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: refrigerate while preparing salad .
+PREDID: 0
+PRED: refrigerate
+  PARG: preparing salad
+    PREP: while
+
+
+SENTID: 2
+SENT: Divide lettuce among 6 dinner plates .
+PREDID: 0
+PRED: divide
+  DOBJ: lettuce
+  PARG: 6 dinner plates
+    PREP: among
+
+
+SENTID: 3
+SENT: Top each with chicken , tomatoes , avocado and corn .
+PREDID: 0
+PRED: top
+  DOBJ: each with chicken , tomatoes , avocado, corn
+
+
+SENTID: 4
+SENT: Drizzle with dressing ;
+PREDID: 0
+PRED: drizzle
+  PARG: dressing
+    PREP: with
+
+
+SENTID: 5
+SENT: sprinkle with red onion .
+PREDID: 0
+PRED: sprinkle
+  PARG: red onion
+    PREP: with
+
+
+SENTID: 6
+SENT: Serve with or sprinkle with broken or crushed taco shells .
+PREDID: 0
+PRED: serve
+  PARG: or
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: broken or crushed taco shells
+    PREP: with
+

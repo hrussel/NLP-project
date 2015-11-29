@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Mix sugar , salt and spice in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: sugar , salt, spice
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Add eggs and beat slightly .
+PREDID: 0
+PRED: add
+  DOBJ: eggs
+
+PREDID: 1
+PRED: beat
+  OARG: slightly
+
+
+SENTID: 2
+SENT: Stir in corn syrup , pumpkin and evaporated milk ;
+PREDID: 0
+PRED: stir
+  PARG: corn syrup , pumpkin, evaporated milk
+    PREP: in
+
+
+SENTID: 3
+SENT: blend well .
+PREDID: 0
+PRED: blend
+  OARG: well
+
+
+SENTID: 4
+SENT: Portion baking cups in muffin pans and place 1 vanilla wafer in each .
+PREDID: 0
+PRED: portion
+  DOBJ: baking cups
+  PARG: muffin pans
+    PREP: in
+
+PREDID: 1
+PRED: place
+  DOBJ: 1 vanilla wafer
+  PARG: each
+    PREP: in
+
+
+SENTID: 5
+SENT: Fill each two-thirds full of pumpkin mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: each two-thirds full of pumpkin mixture
+
+
+SENTID: 6
+SENT: Bake at 300 degrees F for 25 minutes , or until knife inserted in center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 300 degrees f
+    PREP: at
+  PARG: 25 minutes
+    PREP: for
+  PARG: knife inserted in center comes out clean
+    PREP: until
+
+
+SENTID: 7
+SENT: Cool in pans for 5 minutes ;
+PREDID: 0
+PRED: cool
+  PARG: pans
+    PREP: in
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: remove .
+PREDID: 0
+PRED: remove
+
+
+SENTID: 9
+SENT: Cool a minimum of 1 hour before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+  OARG: a minimum of 1 hour
+
+
+SENTID: 10
+SENT: Garnish as desired .
+PREDID: 0
+PRED: garnish
+  PARG: desired
+    PREP: as
+

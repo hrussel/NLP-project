@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare dough for one 9 inch pie .
+PREDID: 0
+PRED: prepare
+  DOBJ: dough
+  PARG: one 9 inch pie
+    PREP: for
+
+
+SENTID: 2
+SENT: Refrigerate until ready to bake .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to bake
+    PREP: until
+
+
+SENTID: 3
+SENT: Blend together the butter , sweet potatoes , eggs , brown sugar , ginger , cinnamon , nutmeg , vanilla , salt , corn syrup and evaporated milk .
+PREDID: 0
+PRED: blend
+  DOBJ: the butter , sweet potatoes , eggs , brown sugar , ginger , cinnamon , nutmeg , vanilla , salt , corn syrup, evaporated milk
+  OARG: together
+
+
+SENTID: 4
+SENT: Pour filling into crust and sprinkle with chopped pecans .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: crust
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: chopped pecans
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake for 40 to 45 minutes , or until inserted knife comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 40 to 45 minutes
+    PREP: for
+  PARG: inserted knife comes out clean
+    PREP: until
+
+
+SENTID: 6
+SENT: Set aside to cool .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 7
+SENT: Beat together whipping cream , sugar and liqueur until soft peaks form .
+PREDID: 0
+PRED: beat
+  DOBJ: whipping cream , sugar, liqueur
+  PARG: soft peaks form
+    PREP: until
+  OARG: together
+
+
+SENTID: 8
+SENT: Top pie with whipped cream and pecan halves .
+PREDID: 0
+PRED: top
+  DOBJ: pie
+  PARG: whipped cream, pecan halves
+    PREP: with
+

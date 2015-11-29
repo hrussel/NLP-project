@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Arrange eggplant rounds on a baking sheet ;
+PREDID: 0
+PRED: arrange
+  DOBJ: eggplant rounds
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: lightly coat with olive oil .
+PREDID: 0
+PRED: coat
+  PARG: olive oil
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 3
+SENT: Bake eggplant rounds in preheated oven until hot , about 5 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: eggplant rounds
+  PARG: preheated oven
+    PREP: in
+  PARG: hot , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Flip the eggplant rounds ;
+PREDID: 0
+PRED: flip
+  DOBJ: the eggplant rounds
+
+
+SENTID: 5
+SENT: top with Parmesan cheese in an even layer to cover .
+PREDID: 0
+PRED: top
+  PARG: parmesan cheese
+    PREP: with
+  PARG: an even layer
+    PREP: in
+  PARG: cover
+    PREP: to
+
+
+SENTID: 6
+SENT: Return eggplant to oven and bake until the cheese is melted , about 5 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: eggplant
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the cheese is melted , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Drop a dollop of tomato sauce into the center of each eggplant round ;
+PREDID: 0
+PRED: drop
+  DOBJ: a dollop of tomato sauce
+  PARG: the center of each eggplant round
+    PREP: into
+
+
+SENTID: 8
+SENT: top with Cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: cheddar cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake until Cheddar cheese is bubbling , about 5 minutes more .
+PREDID: 0
+PRED: bake
+  PARG: cheddar cheese is bubbling , about 5 minutes more
+    PREP: until
+
+
+SENTID: 10
+SENT: Season with salt and pepper to serve .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: serve
+    PREP: to
+

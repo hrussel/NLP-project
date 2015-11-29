@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 24 muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 24 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk together flour , oats , flax , sugar , coconut , cinnamon , baking powder , baking soda , and salt in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: oats , flax , sugar , coconut , cinnamon , baking powder , baking soda , salt
+  OARG: together
+
+PREDID: 1
+PRED: flour
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Whisk together bananas , sour cream , applesauce , melted butter , eggs , and vanilla in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: bananas , sour cream , applesauce , melted butter , eggs , vanilla
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir flour mixture into banana mixture just until all dry ingredients are moistened ;
+PREDID: 0
+PRED: stir
+  DOBJ: flour mixture
+  PARG: banana mixture
+    PREP: into
+  PARG: all dry ingredients are moistened
+    PREP: until
+  OARG: just
+
+
+SENTID: 5
+SENT: fold in blueberries .
+PREDID: 0
+PRED: fold
+  PARG: blueberries
+    PREP: in
+
+
+SENTID: 6
+SENT: Fill muffin cups 2/3 full .
+PREDID: 0
+PRED: fill
+  DOBJ: muffin cups 2/3 full
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until a toothpick inserted near the center comes out clean , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted near the center comes out clean , about 20 minutes
+    PREP: until
+

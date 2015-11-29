@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly oil a 9x5 inch loaf pan with vegetable cooking spray .
+PREDID: 0
+PRED: oil
+  DOBJ: a 9x5 inch loaf pan
+  PARG: vegetable cooking spray
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Whisk together the egg whites , sugar , milk , applesauce , vanilla , and almond extract in a small bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the egg whites , sugar , milk , applesauce , vanilla , almond extract
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: mix until well blended .
+PREDID: 0
+PRED: mix
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 4
+SENT: In a large bowl , sift together the flour , whole wheat flour , flax seed , cinnamon , nutmeg , cloves , and baking soda .
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , whole wheat flour , flax seed , cinnamon , nutmeg , cloves , baking soda
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Mix the egg into the flour ;
+PREDID: 0
+PRED: mix
+  DOBJ: the egg
+  PARG: the flour
+    PREP: into
+
+
+SENTID: 6
+SENT: stir until well blended .
+PREDID: 0
+PRED: stir
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 7
+SENT: Fold in the walnuts , raisins , carrot , and drained pineapple .
+PREDID: 0
+PRED: fold
+  PARG: the walnuts , raisins , carrot , drained pineapple
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour batter into the prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 9
+SENT: Set aside to cool for 10 to 20 minutes before refrigerating overnight .
+PREDID: 0
+PRED: set
+  PARG: 10 to 20 minutes
+    PREP: for
+  PARG: refrigerating
+    PREP: before
+  OARG: aside
+  OARG: to cool
+  OARG: overnight
+

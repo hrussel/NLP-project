@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Crumble the ground beef into a soup pot over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: a soup pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir until browned .
+PREDID: 0
+PRED: cook
+  PARG: browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Drain off the grease , and season with salt to taste .
+PREDID: 0
+PRED: drain
+  PARG: the grease
+    PREP: off
+
+PREDID: 1
+PRED: season
+  PARG: salt
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 3
+SENT: Add the onion , bell pepper , and garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: the onion , bell pepper , garlic
+
+
+SENTID: 4
+SENT: cook and stir for about 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: about 3 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Reduce the heat to medium , and season with Worcestershire sauce , chili powder , cumin and oregano .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: season
+  PARG: worcestershire sauce , chili powder , cumin, oregano
+    PREP: with
+
+
+SENTID: 6
+SENT: Cook and stir for another 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: another 5 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Reduce heat to low , and stir in the chili sauce , beef broth , kidney beans and cannellini beans .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the chili sauce , beef broth , kidney beans, cannellini beans
+    PREP: in
+
+
+SENTID: 8
+SENT: Cover , and simmer for about 35 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: about 35 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Ladle into bowls to serve , and top with shredded Cheddar cheese and jalapeno .
+PREDID: 0
+PRED: ladle
+  PARG: bowls
+    PREP: into
+  PARG: serve
+    PREP: to
+
+PREDID: 1
+PRED: top
+  PARG: shredded cheddar cheese, jalapeno
+    PREP: with
+

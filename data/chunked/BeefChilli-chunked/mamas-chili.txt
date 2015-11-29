@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Place the tomatoes in a large pot and squash them with your hands .
+PREDID: 0
+PRED: place
+  DOBJ: the tomatoes
+  PARG: a large pot, squash them
+    PREP: in
+  PARG: your hands
+    PREP: with
+
+
+SENTID: 1
+SENT: Add the beans , onion , banana chile pepper , sugar , garlic powder and chili powder and simmer for about 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the beans , onion , banana chile pepper , sugar , garlic powder, chili powder
+
+PREDID: 1
+PRED: simmer
+  PARG: about 20 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Meanwhile , in a separate large skillet over medium high heat , saute the ground beef for 5 to 10 minutes , or until browned and crumbly .
+PREDID: 0
+PRED: saute
+  DOBJ: the ground beef
+  PARG: a separate large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: browned, crumbly
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Drain the fat and add the beef to the simmering pot .
+PREDID: 0
+PRED: drain
+  DOBJ: the fat
+
+PREDID: 1
+PRED: add
+  DOBJ: the beef
+  PARG: the simmering pot
+    PREP: to
+
+
+SENTID: 4
+SENT: Stir in the cheese , if desired .
+PREDID: 0
+PRED: stir
+  PARG: the cheese
+    PREP: in
+  PARG: desired
+    PREP: if
+
+
+SENTID: 5
+SENT: Allow to simmer for 1 more hour .
+PREDID: 0
+PRED: allow
+  PARG: simmer
+    PREP: to
+  PARG: 1 more hour
+    PREP: for
+

@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer , and fill with cold water to cover the eggs by at least 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: cold water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: at least 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan , and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove from the heat , and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from water , and cool .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 4
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 5
+SENT: Cut the eggs in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 6
+SENT: Place the egg yolks in a mixing bowl , and set the whites aside .
+PREDID: 0
+PRED: place
+  DOBJ: the egg yolks
+  PARG: a mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  DOBJ: the whites
+  OARG: aside
+
+
+SENTID: 7
+SENT: Mash the yolks with the cream cheese and mayonnaise until thoroughly blended .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: the cream cheese, mayonnaise
+    PREP: with
+  PARG: thoroughly blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Fill the egg white halves with the egg yolk mixture using a spoon .
+PREDID: 0
+PRED: fill
+  DOBJ: the egg white halves
+  PARG: the egg yolk mixture
+    PREP: with
+
+
+SENTID: 9
+SENT: Sprinkle with paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 10
+SENT: Refrigerate until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+

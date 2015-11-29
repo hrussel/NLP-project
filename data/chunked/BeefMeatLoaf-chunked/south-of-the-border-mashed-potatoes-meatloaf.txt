@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare mashed potatoes following package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: mashed potatoes following package directions
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , combine all the ingredients from beef through black pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: all the ingredients
+  PARG: a large bowl
+    PREP: in
+  PARG: beef
+    PREP: from
+
+
+SENTID: 4
+SENT: Shape mixture into a 10x4-inch loaf .
+PREDID: 0
+PRED: shape
+  DOBJ: mixture
+  PARG: a 10x4-inch loaf
+    PREP: into
+
+
+SENTID: 5
+SENT: Place on rack coated with cooking spray on broiler pan .
+PREDID: 0
+PRED: place
+  PARG: rack coated
+    PREP: on
+  PARG: cooking spray
+    PREP: with
+  PARG: broiler pan
+    PREP: on
+
+
+SENTID: 6
+SENT: Bake 1 hour and 20 minutes , or until internal temperature is 160 degrees F.
+PREDID: 0
+PRED: bake
+  PARG: internal temperature is 160 degrees f.
+    PREP: until
+  OARG: 1 hour, 20 minutes
+
+
+SENTID: 7
+SENT: Let stand 5 minutes then frost with the mashed potatoes .
+PREDID: 0
+PRED: let
+  OARG: stand 5 minutes
+  OARG: then
+
+PREDID: 1
+PRED: frost
+  PARG: the mashed potatoes
+    PREP: with
+
+
+SENTID: 8
+SENT: Top with salsa and sliced avocados .
+PREDID: 0
+PRED: top
+  PARG: salsa, sliced avocados
+    PREP: with
+

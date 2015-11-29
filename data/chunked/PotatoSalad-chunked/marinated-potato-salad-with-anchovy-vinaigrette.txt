@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: In a blender , combine the oil , vinegar , parsley , salt , sugar , anchovy fillets and garlic .
+PREDID: 0
+PRED: combine
+  DOBJ: the oil , vinegar , parsley , salt , sugar , anchovy fillets, garlic
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 1
+SENT: Puree until smooth .
+PREDID: 0
+PRED: puree
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain , cool and cut into cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  PARG: cubes
+    PREP: into
+
+PREDID: 2
+PRED: cut
+
+
+SENTID: 5
+SENT: Pour prepared vinaigrette over potatoes and marinate overnight .
+PREDID: 0
+PRED: pour
+  DOBJ: prepared vinaigrette
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: marinate
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Place sausage in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: sausage
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 7
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 9
+SENT: Combine the potatoes and dressing , sausage , green onions , parsley and olives .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes, dressing , sausage , green onions , parsley, olives
+
+
+SENTID: 10
+SENT: Toss together well and season with salt and pepper to taste .
+PREDID: 0
+PRED: toss
+  PARG: salt, pepper
+    PREP: with
+  OARG: together
+  OARG: well
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+

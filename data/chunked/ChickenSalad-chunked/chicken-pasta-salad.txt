@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and pour pasta into a large dish .
+PREDID: 0
+PRED: drain
+  DOBJ: pasta
+
+PREDID: 1
+PRED: pour
+  PARG: a large dish
+    PREP: into
+
+
+SENTID: 3
+SENT: Stir in the corn , mushrooms , celery , onions , olives , bell pepper and cheese .
+PREDID: 0
+PRED: stir
+  PARG: the corn , mushrooms , celery , onions , olives , bell pepper, cheese
+    PREP: in
+
+
+SENTID: 4
+SENT: In a separate bowl , whisk together the salad dressing and mayonnaise , then pour this mixture over the salad and toss again , to coat .
+PREDID: 0
+PRED: whisk
+  DOBJ: the salad dressing, mayonnaise
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: this mixture
+  PARG: the salad
+    PREP: over
+
+PREDID: 2
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: again
+
+
+SENTID: 5
+SENT: Add flaked chicken and toss gently a final time .
+PREDID: 0
+PRED: add
+  DOBJ: flaked chicken
+
+PREDID: 1
+PRED: toss
+  DOBJ: a final time
+  OARG: gently
+

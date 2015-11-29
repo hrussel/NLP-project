@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine graham cracker crumbs , butter , confectioners ' sugar , and 1 teaspoon cinnamon together in an 8-inch pie pan using a fork ;
+PREDID: 0
+PRED: combine
+  DOBJ: graham cracker crumbs
+
+PREDID: 1
+PRED: butter
+  DOBJ: confectioners ' sugar , 1 teaspoon cinnamon
+  PARG: an 8-inch pie pan
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: press lightly into bottom and up sides of pan .
+PREDID: 0
+PRED: press
+  DOBJ: sides of pan
+  PARG: bottom
+    PREP: into
+  OARG: lightly
+  OARG: up
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until crust is set and lightly browned , about 7 minutes ;
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: crust is set, lightly browned , about 7 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: remove from oven and cool .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 5
+SENT: Increase oven temperature to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: increase
+  DOBJ: oven temperature
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 6
+SENT: Whisk pumpkin , sweetened condensed milk , eggs , 1 teaspoon cinnamon , lemon zest , salt , 1/4 teaspoon nutmeg , ginger , and cloves together in a bowl until smooth ;
+PREDID: 0
+PRED: whisk
+  DOBJ: pumpkin , sweetened condensed milk , eggs , 1 teaspoon cinnamon , lemon zest , salt , 1/4 teaspoon nutmeg , ginger , cloves
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: pour over cooled crust .
+PREDID: 0
+PRED: pour
+  PARG: cooled crust
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in the oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Lower oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- and continue baking until filling is set and edges of crust are dark golden brown , 35 to 40 minutes .
+PREDID: 0
+PRED: lower
+  DOBJ: oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  DOBJ: baking
+  PARG: filling is set, edges of crust are dark golden brown , 35 to 40 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool pie completely .
+PREDID: 0
+PRED: cool
+  DOBJ: pie
+  OARG: completely
+
+
+SENTID: 11
+SENT: Beat cream , brown sugar , and vanilla extract together in a bowl using an electric mixer until stiff peaks form .
+PREDID: 0
+PRED: beat
+  DOBJ: cream , brown sugar , vanilla extract
+  PARG: a bowl
+    PREP: in
+  PARG: stiff peaks form
+    PREP: until
+  OARG: together
+
+
+SENTID: 12
+SENT: Lift your beater :
+PREDID: 0
+PRED: lift
+  DOBJ: your beater
+
+
+SENTID: 13
+SENT: whipped cream should form sharp peaks .
+PREDID: 0
+PRED: whipped
+  DOBJ: cream should form sharp peaks
+
+
+SENTID: 14
+SENT: Spread whipped cream over cooled pie and lightly dust with a pinch nutmeg .
+PREDID: 0
+PRED: spread
+  DOBJ: whipped cream
+  PARG: cooled pie
+    PREP: over
+  OARG: lightly
+
+PREDID: 1
+PRED: dust
+  PARG: a pinch nutmeg
+    PREP: with
+

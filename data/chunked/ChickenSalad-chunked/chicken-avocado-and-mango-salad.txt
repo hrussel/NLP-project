@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: In a saucepan over medium-high heat , stir together the brown sugar and water .
+PREDID: 0
+PRED: stir
+  DOBJ: the brown sugar, water
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  OARG: together
+
+
+SENTID: 1
+SENT: Bring to a boil , then pour into a medium bowl .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  PARG: a medium bowl
+    PREP: into
+
+
+SENTID: 2
+SENT: Stir in the garlic chili sauce and lime juice .
+PREDID: 0
+PRED: stir
+  PARG: the garlic chili sauce, lime juice
+    PREP: in
+
+
+SENTID: 3
+SENT: Set the dressing aside .
+PREDID: 0
+PRED: set
+  DOBJ: the dressing
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a large bowl , toss together the chicken , mangos and avocados .
+PREDID: 0
+PRED: toss
+  DOBJ: the chicken , mangos, avocados
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Arrange the spring salad mix on serving plates , then top with a few spoonfuls of the chicken mixture .
+PREDID: 0
+PRED: arrange
+  DOBJ: the spring salad mix
+  PARG: serving plates
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: a few spoonfuls of the chicken mixture
+    PREP: with
+
+
+SENTID: 6
+SENT: Pour dressing over the top .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: the top
+    PREP: over
+

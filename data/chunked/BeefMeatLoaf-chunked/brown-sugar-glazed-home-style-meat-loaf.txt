@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: For the glaze , combine the 1/3 cup ketchup , brown sugar , and the 2 teaspoons mustard in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the 1/3 cup ketchup , brown sugar , the 2 teaspoons mustard
+  PARG: the glaze
+    PREP: for
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Set aside until ready to use .
+PREDID: 0
+PRED: set
+  PARG: ready to use
+    PREP: until
+  OARG: aside
+
+
+SENTID: 3
+SENT: Combine eggs , milk , the 1/3 cup ketchup , and the 1 teaspoon mustard in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , milk , the 1/3 cup ketchup , the 1 teaspoon mustard
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in ground beef , rolled oats , onion , salt , and pepper ;
+PREDID: 0
+PRED: stir
+  PARG: ground beef , rolled oats , onion , salt , pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Gently press mixture in an ungreased 9x5x3-inch loaf pan .
+PREDID: 0
+PRED: press
+  DOBJ: mixture
+  PARG: an ungreased 9x5x3-inch loaf pan
+    PREP: in
+  OARG: gently
+
+
+SENTID: 7
+SENT: Bake for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Drain off fat .
+PREDID: 0
+PRED: drain
+  PARG: fat
+    PREP: off
+
+
+SENTID: 9
+SENT: -LSB- Cleaning tip :
+PREDID: 0
+PRED: tip
+  DOBJ: cleaning
+
+
+SENTID: 10
+SENT: Wipe off any grease or spills on the countertop with Clorox ¨ Disinfecting Wipes.
+PREDID: 0
+PRED: wipe
+  PARG: any grease or spills
+    PREP: off
+  PARG: the countertop
+    PREP: on
+  PARG: clorox ¨ disinfecting wipes.
+    PREP: with
+
+
+SENTID: 11
+SENT: -RSB- After 30 minutes of baking , spoon the glaze evenly over the meatloaf .
+PREDID: 0
+PRED: spoon
+  DOBJ: the glaze
+  PARG: 30 minutes of baking
+    PREP: after
+  PARG: the meatloaf
+    PREP: over
+  OARG: 
+  OARG: evenly
+
+
+SENTID: 12
+SENT: Bake for 30 to 45 minutes more or until a thermometer registers 160 degrees F.
+PREDID: 0
+PRED: bake
+  PARG: 30 to 45 minutes more
+    PREP: for
+  PARG: a thermometer registers 160 degrees f.
+    PREP: until
+
+
+SENTID: 13
+SENT: Let the meat loaf stand for 15 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: the meat loaf stand
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Drain off fat .
+PREDID: 0
+PRED: drain
+  PARG: fat
+    PREP: off
+
+
+SENTID: 15
+SENT: Carefully slice meatloaf and use a spatula to transfer to a serving platter .
+PREDID: 0
+PRED: slice
+  DOBJ: meatloaf
+  OARG: carefully
+
+PREDID: 1
+PRED: use
+  DOBJ: a spatula
+  PARG: transfer
+    PREP: to
+  PARG: a serving platter
+    PREP: to
+

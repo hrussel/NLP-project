@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Heat a large soup pot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large soup pot
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir beef in the pot until browned and crumbly , 5 to 7 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+
+PREDID: 1
+PRED: stir
+  PARG: the pot
+    PREP: in
+  PARG: browned, crumbly , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 3
+SENT: Cook and stir onions , jalapeno peppers , habanero peppers , and garlic with the ground beef until onions are slightly softened , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onions , jalapeno peppers , habanero peppers , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the ground beef
+    PREP: with
+  PARG: onions are slightly softened , about 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add chili beans , tomatoes , water , chili powder , and cumin ;
+PREDID: 0
+PRED: add
+  DOBJ: chili beans , tomatoes , water , chili powder , cumin
+
+
+SENTID: 5
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Reduce heat and simmer until flavors blend , about 1 hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: flavors
+    PREP: until
+
+PREDID: 2
+PRED: blend
+  PARG: 1 hour
+    PREP: about
+

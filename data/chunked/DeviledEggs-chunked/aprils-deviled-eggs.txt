@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and boil eggs for 10 to 15 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: boil
+  DOBJ: eggs
+  PARG: 10 to 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Remove eggs from boiling water and place in a medium saucepan of cold water until cool .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: boiling water
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a medium saucepan of cold water
+    PREP: in
+  PARG: cool
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove the shells and cut the eggs lengthwise to remove the yolks .
+PREDID: 0
+PRED: remove
+  DOBJ: the shells
+
+PREDID: 1
+PRED: cut
+  DOBJ: the eggs lengthwise
+  PARG: remove the yolks
+    PREP: to
+
+
+SENTID: 4
+SENT: Place yolks in a medium sized mixing bowl .
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a medium sized mixing bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix in the mustard , mayonnaise , garlic salt and onion powder with the egg yolks .
+PREDID: 0
+PRED: mix
+  PARG: the mustard , mayonnaise , garlic salt, onion powder
+    PREP: in
+  PARG: the egg yolks
+    PREP: with
+
+
+SENTID: 6
+SENT: Scoop the mixture into the hollowed out areas of the egg whites .
+PREDID: 0
+PRED: scoop
+  DOBJ: the mixture
+  PARG: the hollowed
+    PREP: into
+  PARG: areas of the egg whites
+    PREP: out
+
+
+SENTID: 7
+SENT: Garnish with paprika .
+PREDID: 0
+PRED: garnish
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 8
+SENT: Refrigerate at least one hour before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least one hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

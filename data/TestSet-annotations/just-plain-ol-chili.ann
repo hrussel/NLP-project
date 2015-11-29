@@ -1,0 +1,94 @@
+T1	predicate 0 4	Heat
+T2	predicate 42 45	add
+T3	predicate 59 72	cook and stir
+T4	predicate 150 167	Drain and discard
+T5	predicate 187 191	Heat
+T6	predicate 239 252	Cook and stir
+T7	predicate 324 330	Reduce
+T8	predicate 344 351	stir in
+T9	predicate 389 395	season
+T10	predicate 433 436	Mix
+T11	predicate 538 541	Add
+T12	predicate 594 600	reduce
+T13	predicate 618 624	simmer
+T14	arg_location 5 20	a large skillet
+T15	arg_other 21 37	over medium heat
+R1	location Arg1:T1 Arg2:T14	
+R2	other Arg1:T1 Arg2:T15	
+R3	co-object Arg1:T2 Arg2:T1	
+T16	arg_object 46 57	ground beef
+R4	object Arg1:T2 Arg2:T16	
+R5	object Arg1:T3 Arg2:T2	
+T17	arg_duration 73 148	until meat is crumbly, evenly browned, and no longer pink, about 10 minutes
+R6	duration Arg1:T3 Arg2:T17	
+R7	co-object Arg1:T4 Arg2:T3	
+T18	arg_object 168 185	any excess grease
+R8	object Arg1:T4 Arg2:T18	
+T19	arg_object 192 201	olive oil
+T20	arg_location 202 215	in a soup pot
+T21	arg_other 216 237	over medium-high heat
+R9	object Arg1:T5 Arg2:T19	
+R10	location Arg1:T5 Arg2:T20	
+R11	other Arg1:T5 Arg2:T21	
+T22	arg_object 253 265	green pepper
+R12	object Arg1:T6 Arg2:T22	
+T23	arg_co-object 266 280	in the hot oil
+T24	Evolution 269 280	the hot oil
+E1	Evolution:T24 Cause:T5
+T25	arg_duration 281 322	until it starts to soften, 5 to 7 minutes
+R14	duration Arg1:T6 Arg2:T25	
+R15	co-object Arg1:T7 Arg2:T6	
+T26	arg_object 331 335	heat
+T27	arg_other 336 342	to low
+R16	object Arg1:T7 Arg2:T26	
+R17	other Arg1:T7 Arg2:T27	
+R18	co-object Arg1:T8 Arg2:T7	
+T28	arg_object 352 358	garlic
+T29	arg_object 360 365	cumin
+T30	arg_object 371 383	chili powder
+R19	object Arg1:T8 Arg2:T28	
+R20	object Arg1:T8 Arg2:T29	
+R21	object Arg1:T8 Arg2:T30	
+R22	object Arg1:T9 Arg2:T8	
+T31	arg_co-object 396 422	with salt and black pepper
+T32	arg_other 423 431	to taste
+R23	co-object Arg1:T9 Arg2:T31	
+R24	other Arg1:T9 Arg2:T32	
+T33	arg_object 437 455	cooked ground beef
+T34	Evolution 437 455	cooked ground beef
+E2	Evolution:T34 Cause:T4
+R25	object Arg1:T10 Arg2:T33	
+T35	arg_object 460 468	tomatoes
+R26	object Arg1:T10 Arg2:T35	
+T36	arg_co-object 469 499	into green bell pepper mixture
+T37	Evolution 474 499	green bell pepper mixture
+E3	Evolution:T37 Cause:T9
+R27	co-object Arg1:T10 Arg2:T36	
+T38	arg_other 501 536	breaking up tomatoes with a spatula
+R28	other Arg1:T10 Arg2:T38	
+T39	arg_object 542 592	4 cups of water or enough to cover the ingredients
+R29	object Arg1:T11 Arg2:T39	
+R30	co-object Arg1:T11 Arg2:T10	
+R31	co-object Arg1:T12 Arg2:T11	
+T40	arg_object 601 605	heat
+R32	object Arg1:T12 Arg2:T40	
+T41	arg_other 606 612	to low
+R33	other Arg1:T12 Arg2:T41	
+R34	object Arg1:T13 Arg2:T12	
+T42	arg_duration 625 641	at least 2 hours
+T43	arg_other 642 658	to blend flavors
+R35	duration Arg1:T13 Arg2:T42	
+R36	other Arg1:T13 Arg2:T43	
+T44	ingredient 46 57	ground beef
+T45	Evolution 168 185	any excess grease
+E4	Evolution:T45 Cause:T3
+T46	ingredient 192 201	olive oil
+T47	ingredient 253 265	green pepper
+R13	co-object Arg1:T6 Arg2:T23	
+T48	ingredient 352 358	garlic
+T49	ingredient 360 365	cumin
+T50	ingredient 371 383	chili powder
+T51	ingredient 401 405	salt
+T52	ingredient 410 422	black pepper
+T53	ingredient 460 468	tomatoes
+T54	ingredient 542 592	4 cups of water or enough to cover the ingredients

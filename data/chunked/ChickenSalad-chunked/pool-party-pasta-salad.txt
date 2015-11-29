@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add broccoli florets and asparagus to the boiling water during the last 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: broccoli florets, asparagus
+  PARG: the boiling water
+    PREP: to
+  PARG: the last 5 minutes
+    PREP: during
+
+
+SENTID: 3
+SENT: Drain , and run under cold water to cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: run
+  PARG: cold water
+    PREP: under
+  OARG: to cool
+
+
+SENTID: 4
+SENT: In a large serving bowl , stir together the diced chicken , kidney beans , black olives , green pepper , cherry tomatoes , feta cheese and Italian dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: the diced chicken , kidney beans , black olives , green pepper , cherry tomatoes , feta cheese, italian dressing
+  PARG: a large serving bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir in the pasta , broccoli and asparagus .
+PREDID: 0
+PRED: stir
+  PARG: the pasta , broccoli, asparagus
+    PREP: in
+
+
+SENTID: 6
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

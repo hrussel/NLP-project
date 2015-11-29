@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Crumble beef and garlic into a 2-quart microwave-safe bowl .
+PREDID: 0
+PRED: crumble
+  DOBJ: beef, garlic
+  PARG: a 2-quart microwave-safe bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Heat in microwave on high until beef is no longer pink , about 6 minutes .
+PREDID: 0
+PRED: heat
+  PARG: microwave
+    PREP: in
+  PARG: high
+    PREP: on
+  PARG: beef is no longer pink , about 6 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir and drain beef .
+PREDID: 0
+PRED: stir
+  DOBJ: beef
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 3
+SENT: Add spaghetti sauce and water .
+PREDID: 0
+PRED: add
+  DOBJ: spaghetti sauce, water
+
+
+SENTID: 4
+SENT: Combine cottage cheese , eggs , and black pepper in another bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: cottage cheese , eggs , black pepper
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Spread about 1/2 cup meat mixture in the bottom of a 9x13-inch baking dish .
+PREDID: 0
+PRED: spread
+  PARG: 1/2 cup meat mixture
+    PREP: about
+  PARG: the bottom of a 9x13-inch baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Arrange half the lasagna noodles over sauce and spread with cottage cheese mixture .
+PREDID: 0
+PRED: arrange
+  DOBJ: half the lasagna noodles
+  PARG: sauce
+    PREP: over
+
+PREDID: 1
+PRED: spread
+  PARG: cottage cheese mixture
+    PREP: with
+
+
+SENTID: 7
+SENT: Top cottage cheese mixture with half the spinach , half the meat sauce , and half the mozzarella cheese ;
+PREDID: 0
+PRED: top
+  DOBJ: cottage cheese mixture
+  PARG: half the spinach , half the meat sauce , half the mozzarella cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: repeat each layer .
+PREDID: 0
+PRED: repeat
+  DOBJ: each layer
+
+
+SENTID: 9
+SENT: Cover baking dish with heavy-duty plastic wrap and heat in microwave on high for 8 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: baking dish
+  PARG: heavy-duty plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: heat
+  PARG: microwave
+    PREP: in
+  PARG: high
+    PREP: on
+  PARG: 8 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Continue to heat in microwave on medium until noodles are tender and cheese is melted , 30 to 32 minutes , turning dish occasionally .
+PREDID: 0
+PRED: continue
+  PARG: heat
+    PREP: to
+  PARG: microwave
+    PREP: in
+  PARG: medium
+    PREP: on
+  PARG: noodles are tender, cheese is melted , 30 to 32 minutes , turning dish occasionally
+    PREP: until
+
+
+SENTID: 11
+SENT: Sprinkle with Parmesan cheese and allow lasagna to rest for 15 minutes before slicing and serving .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+PREDID: 1
+PRED: allow
+  DOBJ: lasagna
+  PARG: rest
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+  PARG: slicing, serving
+    PREP: before
+

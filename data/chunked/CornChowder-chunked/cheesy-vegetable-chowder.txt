@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: In a large pot over medium heat , combine water , bouillon , potatoes and garlic .
+PREDID: 0
+PRED: combine
+  DOBJ: water , bouillon , potatoes, garlic
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Bring to a boil , then stir in onion , celery and carrots .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: onion , celery, carrots
+    PREP: in
+
+
+SENTID: 2
+SENT: Reduce heat and simmer 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  OARG: 15 minutes
+
+
+SENTID: 3
+SENT: Stir in corn , peas and green beans and continue to cook on low heat .
+PREDID: 0
+PRED: stir
+  PARG: corn , peas, green beans
+    PREP: in
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: low heat
+    PREP: on
+
+
+SENTID: 4
+SENT: Meanwhile , in a medium saucepan over medium heat , melt butter .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Whisk in flour all at once to form a roux and let cook 10 seconds .
+PREDID: 0
+PRED: whisk
+  PARG: flour all at
+    PREP: in
+  PARG: form a roux, let cook 10 seconds
+    PREP: to
+  OARG: once
+
+
+SENTID: 6
+SENT: Whisk in milk , a little at a time , and cook , stirring , until mixture is thick and bubbly .
+PREDID: 0
+PRED: whisk
+  PARG: milk , a little
+    PREP: in
+  PARG: a time , cook , stirring
+    PREP: at
+  PARG: mixture is thick, bubbly
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in cheese until melted .
+PREDID: 0
+PRED: stir
+  PARG: cheese
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour this mixture into the large soup pot , stir well and heat through .
+PREDID: 0
+PRED: pour
+  DOBJ: this mixture
+  PARG: the large soup pot
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  DOBJ: through
+  OARG: well
+
+PREDID: 2
+PRED: heat
+

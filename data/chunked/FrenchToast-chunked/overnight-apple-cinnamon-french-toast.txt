@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: Grease a 9x13 inch baking pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking pan
+
+
+SENTID: 1
+SENT: In a small bowl , stir together the melted butter , brown sugar and cinnamon .
+PREDID: 0
+PRED: stir
+  DOBJ: the melted butter , brown sugar, cinnamon
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Spread the sugar mixture into the bottom of the prepared pan .
+PREDID: 0
+PRED: spread
+  DOBJ: the sugar mixture
+  PARG: the bottom of the prepared pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Spread the apple pie filling evenly over the sugar mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: the apple pie filling
+  PARG: the sugar mixture
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 4
+SENT: In a medium bowl , beat the eggs with the milk and vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a medium bowl
+    PREP: in
+  PARG: the milk, vanilla
+    PREP: with
+
+
+SENTID: 5
+SENT: Slowly pour this mixture over the bread , making sure that it is completely absorbed .
+PREDID: 0
+PRED: pour
+  DOBJ: this mixture
+  PARG: the bread , making
+    PREP: over
+  PARG: it is
+    PREP: that
+  OARG: slowly
+  OARG: sure
+  OARG: completely
+
+
+SENTID: 6
+SENT: Cover the pan with aluminum foil and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: the pan
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 7
+SENT: In the morning , preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: the morning
+    PREP: in
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Place covered pan into the oven and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 60 to 75 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: covered pan
+  PARG: the oven
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 60 to 75 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: When done remove from oven and turn on broiler .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+  OARG: when done
+
+PREDID: 1
+PRED: turn
+  PARG: broiler
+    PREP: on
+
+
+SENTID: 10
+SENT: Remove foil and drizzle maple syrup on top of the egg topping ;
+PREDID: 0
+PRED: remove
+  DOBJ: foil, drizzle maple syrup
+  PARG: top of the egg topping
+    PREP: on
+
+
+SENTID: 11
+SENT: broil for 2 minutes , or until the syrup begins to caramelize .
+PREDID: 0
+PRED: broil
+  PARG: 2 minutes
+    PREP: for
+  PARG: the syrup begins to caramelize
+    PREP: until
+
+
+SENTID: 12
+SENT: Remove from the oven and let stand for 10 minutes , then cut into squares .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 2
+PRED: cut
+  PARG: squares
+    PREP: into
+
+
+SENTID: 13
+SENT: Invert the pan onto a serving tray or baking sheet so the apple filling is on top .
+PREDID: 0
+PRED: invert
+  DOBJ: the apple filling is
+  PARG: a serving tray or baking sheet
+    PREP: onto
+  PARG: top
+    PREP: on
+  OARG: so
+  OARG: the pan
+
+
+SENTID: 14
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Toss green cabbage , carrot , red cabbage , and onion in a colander and sprinkle with kosher salt .
+PREDID: 0
+PRED: toss
+  DOBJ: green cabbage , carrot , red cabbage , onion
+  PARG: a colander
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: kosher salt
+    PREP: with
+
+
+SENTID: 1
+SENT: Set aside to drip for 30 minutes .
+PREDID: 0
+PRED: set
+  PARG: drip
+    PREP: to
+  PARG: 30 minutes
+    PREP: for
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat cider vinegar , sugar , celery seed , and dry mustard together in a small saucepan over medium-low heat , stirring until sugar has dissolved .
+PREDID: 0
+PRED: heat
+  DOBJ: cider vinegar , sugar , celery seed , dry mustard
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium-low heat , stirring
+    PREP: over
+  PARG: sugar has dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Remove from heat and let cool .
+PREDID: 0
+PRED: remove
+  PARG: heat, let cool
+    PREP: from
+
+
+SENTID: 4
+SENT: Squeeze as much juice as possible from cabbage mixture and transfer vegetables to a serving bowl .
+PREDID: 0
+PRED: squeeze
+  PARG: much juice
+    PREP: as
+  PARG: possible
+    PREP: as
+  PARG: cabbage mixture
+    PREP: from
+
+PREDID: 1
+PRED: transfer
+  DOBJ: vegetables
+  PARG: a serving bowl
+    PREP: to
+
+
+SENTID: 5
+SENT: Pour vinegar mixture to taste over vegetables and drizzle vegetable oil over the top .
+PREDID: 0
+PRED: pour
+  DOBJ: vinegar mixture
+  PARG: taste
+    PREP: to
+  PARG: vegetables
+    PREP: over
+
+PREDID: 1
+PRED: drizzle
+  DOBJ: vegetable oil
+  PARG: the top
+    PREP: over
+
+
+SENTID: 6
+SENT: Sprinkle with black pepper and stir coleslaw to coat with dressing .
+PREDID: 0
+PRED: sprinkle
+  PARG: black pepper
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  DOBJ: coleslaw
+  PARG: coat
+    PREP: to
+  PARG: dressing
+    PREP: with
+
+
+SENTID: 7
+SENT: Refrigerate 2 hours before serving for flavors to blend .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+  PARG: flavors
+    PREP: for
+  PARG: blend
+    PREP: to
+  OARG: 2 hours
+

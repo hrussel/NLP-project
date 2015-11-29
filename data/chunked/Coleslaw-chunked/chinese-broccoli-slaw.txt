@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt butter in a microwave-safe bowl in the microwave .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a microwave-safe bowl
+    PREP: in
+  PARG: the microwave
+    PREP: in
+
+
+SENTID: 2
+SENT: Crush the ramen noodles into small pieces ;
+PREDID: 0
+PRED: crush
+  DOBJ: the ramen noodles
+  PARG: small pieces
+    PREP: into
+
+
+SENTID: 3
+SENT: stir the crushed noodles , almonds , and sesame seeds into the butter .
+PREDID: 0
+PRED: stir
+  DOBJ: the crushed noodles , almonds , sesame seeds
+  PARG: the butter
+    PREP: into
+
+
+SENTID: 4
+SENT: Spread the mixture onto a baking sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until golden brown and crunchy , 8 to 10 minutes ;
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown, crunchy , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: allow to cool completely .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 7
+SENT: Toss together the coleslaw mix and the green onion in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the coleslaw mix, the green onion
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Whisk together the salad oil , vinegar , sugar , soy sauce , and reserved seasoning packets in a separate bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the salad oil , vinegar , sugar , soy sauce , reserved seasoning packets
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: stir the noodle mixture into the dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: the noodle mixture
+  PARG: the dressing
+    PREP: into
+
+
+SENTID: 10
+SENT: Pour the dressing over the coleslaw mix and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the coleslaw mix
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

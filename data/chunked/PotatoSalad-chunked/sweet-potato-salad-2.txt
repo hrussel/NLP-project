@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Place potatoes into a large saucepan , and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large saucepan
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook for about 8 minutes , or until tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 8 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and cool slightly .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 3
+SENT: In a large bowl , stir together the mayonnaise and brown sugar .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise, brown sugar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in the sweet potatoes , walnuts and raisins until evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: the sweet potatoes , walnuts, raisins
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 5
+SENT: Chill for at least 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: at least 1 hour
+    PREP: for
+  PARG: serving
+    PREP: before
+

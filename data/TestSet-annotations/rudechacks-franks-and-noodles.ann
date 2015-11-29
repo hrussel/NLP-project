@@ -1,0 +1,77 @@
+T1	predicate 0 7	Preheat
+T2	predicate 48 53	Bring
+T3	predicate 101 104	Add
+T4	predicate 116 120	cook
+T5	predicate 161 166	drain
+T6	predicate 168 174	Spread
+T7	predicate 210 217	Arrange
+T8	predicate 259 262	mix
+T9	predicate 351 355	pour
+T10	predicate 383 387	Bake
+T11	arg_location 388 405	in preheated oven
+T12	Evolution 391 405	preheated oven
+E1	Evolution:T12 Cause:T1
+R1	location Arg1:T10 Arg2:T11	
+T13	arg_duration 406 420	for 35 minutes
+R2	duration Arg1:T10 Arg2:T13	
+R3	object Arg1:T10 Arg2:T9	
+T14	arg_object 8 12	oven
+T15	arg_other 13 46	to 375  degrees F (190 degrees C)
+R4	object Arg1:T1 Arg2:T14	
+R5	other Arg1:T1 Arg2:T15	
+T16	arg_object 54 89	a large pot of lightly salted water
+T17	arg_other 90 99	to a boil
+R6	object Arg1:T2 Arg2:T16	
+R7	other Arg1:T2 Arg2:T17	
+R8	co-object Arg1:T3 Arg2:T2	
+T18	arg_object 105 110	pasta
+T19	ingredient 105 110	pasta
+R9	object Arg1:T3 Arg2:T18	
+R10	object Arg1:T4 Arg2:T3	
+T20	arg_duration 121 159	for 8 to 10 minutes, or until al dente
+R11	duration Arg1:T4 Arg2:T20	
+R12	object Arg1:T5 Arg2:T4	
+R13	co-object Arg1:T5 Arg2:T4	
+T21	arg_object 175 189	cooked noodles
+T22	Evolution 175 189	cooked noodles
+E2	Evolution:T22 Cause:T5
+R14	object Arg1:T6 Arg2:T21	
+T23	arg_location 190 208	in a 9x13 inch pan
+R15	location Arg1:T6 Arg2:T23	
+T24	arg_object 218 226	hot dogs
+T25	arg_co-object 227 239	over noodles
+T26	ingredient 218 226	hot dogs
+T27	Evolution 232 239	noodles
+E3	Evolution:T27 Cause:T6
+R16	object Arg1:T7 Arg2:T24	
+R17	co-object Arg1:T7 Arg2:T25	
+T28	arg_location 241 257	In a medium bowl
+R18	location Arg1:T8 Arg2:T28	
+T29	arg_other 263 271	together
+T30	arg_object 272 279	ketchup
+T31	ingredient 272 279	ketchup
+T32	arg_object 281 286	water
+T33	ingredient 281 286	water
+T34	arg_object 288 291	oil
+T35	ingredient 288 291	oil
+T36	arg_object 293 304	lemon juice
+T37	ingredient 293 304	lemon juice
+T38	arg_object 306 311	onion
+T39	ingredient 306 311	onion
+T40	arg_object 313 333	Worcestershire sauce
+T41	ingredient 313 333	Worcestershire sauce
+T42	arg_object 338 349	brown sugar
+T43	ingredient 338 349	brown sugar
+R19	other Arg1:T8 Arg2:T29	
+R20	object Arg1:T8 Arg2:T30	
+R21	object Arg1:T8 Arg2:T32	
+R22	object Arg1:T8 Arg2:T34	
+R23	object Arg1:T8 Arg2:T36	
+R24	object Arg1:T8 Arg2:T38	
+R25	object Arg1:T8 Arg2:T40	
+R26	object Arg1:T8 Arg2:T42	
+R27	object Arg1:T9 Arg2:T8	
+T44	arg_co-object 356 381	over noodles and hot dogs
+R28	co-object Arg1:T9 Arg2:T44	
+T45	Evolution 361 381	noodles and hot dogs
+E4	Evolution:T45 Cause:T7

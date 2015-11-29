@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Spray a 9x13-inch casserole dish with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x13-inch casserole dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 1
+SENT: Mix brown sugar , butter , and 1 teaspoon cinnamon in the bottom of the prepared casserole dish .
+PREDID: 0
+PRED: mix
+  DOBJ: brown sugar , butter , 1 teaspoon cinnamon
+  PARG: the bottom of the prepared casserole dish
+    PREP: in
+
+
+SENTID: 2
+SENT: Add apples , cranberries , and pecans ;
+PREDID: 0
+PRED: add
+  DOBJ: apples , cranberries , pecans
+
+
+SENTID: 3
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Evenly spread apple mixture to cover bottom of dish .
+PREDID: 0
+PRED: spread
+  DOBJ: apple mixture
+  PARG: cover bottom of dish
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Arrange bread slices atop apple mixture , overlapping slightly until apple layer is completely covered .
+PREDID: 0
+PRED: arrange
+  DOBJ: bread slices
+  PARG: apple mixture , overlapping
+    PREP: atop
+  PARG: apple layer is completely covered
+    PREP: until
+  OARG: slightly
+
+
+SENTID: 6
+SENT: Whisk egg substitute , skim milk , vanilla extract , and 2 teaspoons cinnamon in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: egg substitute , skim milk , vanilla extract , 2 teaspoons cinnamon
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: evenly pour over bread slices .
+PREDID: 0
+PRED: pour
+  PARG: bread slices
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Cover dish with aluminum foil and refrigerate 4 to 24 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 4 to 24 hours
+
+
+SENTID: 9
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: Bake the covered casserole dish in the preheated oven for 40 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the covered casserole dish
+  PARG: the preheated oven
+    PREP: in
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Remove aluminum foil and continue baking until lightly browned and egg mixture is set , about 5 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: aluminum foil, continue baking
+  PARG: lightly browned, egg mixture is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 5 more minutes
+    PREP: about
+
+
+SENTID: 12
+SENT: Let cool 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: cool 5 minutes
+

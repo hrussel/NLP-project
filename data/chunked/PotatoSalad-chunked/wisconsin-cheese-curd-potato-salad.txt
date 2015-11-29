@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: Let the potatoes cool enough to handle , and peel ;
+PREDID: 0
+PRED: let
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: cool
+  PARG: handle
+    PREP: to
+  OARG: enough
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: allow the potatoes to cool thoroughly .
+PREDID: 0
+PRED: allow
+  DOBJ: the potatoes
+  OARG: to cool
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Cut into bite-size pieces . In a bowl , combine the potatoes , onion , cheese curds , mayonnaise , yellow mustard , and seasoned salt ;
+PREDID: 0
+PRED: cut
+  PARG: bite-size pieces
+    PREP: into
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: the potatoes , onion , cheese curds , mayonnaise , yellow mustard , seasoned salt
+
+
+SENTID: 6
+SENT: mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 7
+SENT: Top the potato salad with hard-boiled egg slices and sprinkle with black pepper .
+PREDID: 0
+PRED: top
+  DOBJ: the potato salad
+  PARG: hard-boiled egg slices
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: black pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Refrigerate at least 2 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

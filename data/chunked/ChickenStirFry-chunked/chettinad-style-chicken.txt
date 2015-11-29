@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Rub the chicken pieces with the turmeric and salt .
+PREDID: 0
+PRED: rub
+  DOBJ: the chicken pieces
+  PARG: the turmeric, salt
+    PREP: with
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat the oil in a large skillet or kadhai over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet or kadhai
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Fry the poppy seeds , peppercorns , fennel seed , coriander seed , and cumin seed in the hot oil until they just begin to change color ;
+PREDID: 0
+PRED: fry
+  DOBJ: the poppy seeds , peppercorns , fennel seed , coriander seed , cumin seed
+  PARG: the hot oil
+    PREP: in
+  PARG: they just begin to change color
+    PREP: until
+
+
+SENTID: 4
+SENT: remove from the skillet , keeping the oil in the skillet .
+PREDID: 0
+PRED: remove
+  DOBJ: keeping the oil
+  PARG: the skillet
+    PREP: from
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: Grind the spice mixture with a mortar and pestle and set aside .
+PREDID: 0
+PRED: grind
+  DOBJ: the spice mixture
+  PARG: a mortar, pestle
+    PREP: with
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Add the onion , green chile peppers , curry leaves , ginger paste , and garlic paste to the remaining oil ;
+PREDID: 0
+PRED: add
+  DOBJ: the onion , green chile peppers , curry leaves , ginger paste , garlic paste
+  PARG: the remaining oil
+    PREP: to
+
+
+SENTID: 7
+SENT: cook until the onions are golden brown , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onions are golden brown , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir the tomatoes and ground spices into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the tomatoes, ground spices
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: cook until the tomatoes are softened .
+PREDID: 0
+PRED: cook
+  PARG: the tomatoes are softened
+    PREP: until
+
+
+SENTID: 10
+SENT: Add the chicken .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+
+SENTID: 11
+SENT: Season with salt and simmer for 5 minutes .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+PREDID: 1
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Pour the water over the mixture , cover , and cook until the chicken is no longer pink in the middle and the juices run clear , about 30 minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: the water
+  PARG: the mixture
+    PREP: over
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: cook
+  PARG: the chicken is no longer pink in the middle, the juices run clear , about 30 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

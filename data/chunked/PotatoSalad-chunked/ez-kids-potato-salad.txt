@@ -1,0 +1,20 @@
+SENTID: 0
+SENT: Whisk together the salad dressing , apple juice , onion flakes , dill , mustard and salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the salad dressing , apple juice , onion flakes , dill , mustard, salt, pepper
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour over potatoes and toss to coat .
+PREDID: 0
+PRED: pour
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Combine potatoes , salt , marjoram , and water in a soup pot .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , salt , marjoram , water
+  PARG: a soup pot
+    PREP: in
+
+
+SENTID: 1
+SENT: Boil until potatoes are just tender .
+PREDID: 0
+PRED: boil
+  PARG: potatoes are just tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Brown sausage and onion in a skillet over medium heat .
+PREDID: 0
+PRED: brown
+  DOBJ: sausage, onion
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Drain off excess fat , and add to the potatoes .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+PREDID: 1
+PRED: add
+  PARG: the potatoes
+    PREP: to
+
+
+SENTID: 4
+SENT: Stir in the cans of corn and the evaporated milk .
+PREDID: 0
+PRED: stir
+  PARG: the cans of corn, the evaporated milk
+    PREP: in
+
+
+SENTID: 5
+SENT: Heat through , and serve .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+
+PREDID: 1
+PRED: serve
+

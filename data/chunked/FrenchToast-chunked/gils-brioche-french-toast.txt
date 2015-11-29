@@ -1,0 +1,197 @@
+SENTID: 0
+SENT: Place a metal mixing bowl and beaters from an electric mixer into the freezer to chill .
+PREDID: 0
+PRED: place
+  DOBJ: a metal mixing bowl, beaters
+  PARG: an electric mixer
+    PREP: from
+  PARG: the freezer
+    PREP: into
+  PARG: chill
+    PREP: to
+
+
+SENTID: 1
+SENT: Trim the end crusts from the brioche bread , and slice the loaf in half ;
+PREDID: 0
+PRED: trim
+  DOBJ: the end crusts
+  PARG: the brioche bread
+    PREP: from
+
+PREDID: 1
+PRED: slice
+  DOBJ: the loaf
+  PARG: half
+    PREP: in
+
+
+SENTID: 2
+SENT: cut each half in half again -LRB- 4 pieces -RRB- , and cut each quarter in half to total 8 pieces of brioche .
+PREDID: 0
+PRED: cut
+  DOBJ: 4 pieces -rrb-
+  PARG: half
+    PREP: in
+  OARG: again
+  OARG: each half
+
+PREDID: 1
+PRED: cut
+  DOBJ: each quarter
+  PARG: half
+    PREP: in
+  PARG: total 8 pieces of brioche
+    PREP: to
+
+
+SENTID: 3
+SENT: Place 2 cups of strawberries and the water into a saucepan over medium-high heat ;
+PREDID: 0
+PRED: place
+  DOBJ: 2 cups of strawberries, the water
+  PARG: a saucepan
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: cover the pan , and bring to a simmer .
+PREDID: 0
+PRED: cover
+  DOBJ: the pan
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 5
+SENT: Gently steam the berries until they release their juice , about 5 minutes .
+PREDID: 0
+PRED: steam
+  DOBJ: the berries
+  PARG: they release their juice , about 5 minutes
+    PREP: until
+  OARG: gently
+
+
+SENTID: 6
+SENT: Beat 1 cup of heavy cream , vanilla extract , and confectioners ' sugar together with electric mixer in chilled metal bowl with the chilled beaters until the cream forms soft peaks ;
+PREDID: 0
+PRED: beat
+  DOBJ: 1 cup of heavy cream , vanilla extract , confectioners ' sugar
+  PARG: electric mixer
+    PREP: with
+  PARG: chilled metal bowl
+    PREP: in
+  PARG: the chilled beaters
+    PREP: with
+  PARG: the cream forms soft peaks
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Whisk the eggs and remaining 1 cup cream together in a large bowl , and place the bread pieces into the mixture , spooning the cream over the bread to coat .
+PREDID: 0
+PRED: whisk
+  DOBJ: remaining 1 cup cream
+  PARG: a large bowl
+    PREP: in
+  OARG: the eggs
+  OARG: together
+
+PREDID: 1
+PRED: place
+  DOBJ: spooning the cream
+  PARG: the mixture
+    PREP: into
+  PARG: the bread
+    PREP: over
+  PARG: coat
+    PREP: to
+  OARG: the bread pieces
+
+
+SENTID: 9
+SENT: Allow to stand for 5 minutes .
+PREDID: 0
+PRED: allow
+  PARG: stand
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Heat the butter in a skillet over medium heat until fragrant , and lay the coated brioche pieces into the skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: the butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: fragrant , lay the coated brioche pieces into the skillet
+    PREP: until
+
+
+SENTID: 11
+SENT: Cook until the French toast is golden brown , about 3 minutes per side .
+PREDID: 0
+PRED: cook
+  PARG: the french toast is golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 3 minutes
+    PREP: about
+  PARG: side
+    PREP: per
+
+
+SENTID: 12
+SENT: To serve , place 2 pieces of French toast onto a plate , overlapping slightly .
+PREDID: 0
+PRED: place
+  DOBJ: 2 pieces of french toast
+  PARG: serve
+    PREP: to
+  PARG: a plate , overlapping
+    PREP: onto
+  OARG: slightly
+
+
+SENTID: 13
+SENT: Ladle cooked strawberries and their juice over the French toast , and top with a generous dollop of whipped cream .
+PREDID: 0
+PRED: ladle
+  DOBJ: cooked strawberries, their juice
+  PARG: the french toast
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: a generous dollop of whipped cream
+    PREP: with
+
+
+SENTID: 14
+SENT: Top the cream with several fresh strawberries .
+PREDID: 0
+PRED: top
+  DOBJ: the cream
+  PARG: several fresh strawberries
+    PREP: with
+

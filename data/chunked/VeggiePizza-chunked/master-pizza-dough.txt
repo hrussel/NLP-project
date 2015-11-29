@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: In a large bowl , combine 2 cups flour , undissolved yeast , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: 2 cups flour , undissolved yeast , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir very warm water and olive oil into flour mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: warm water, olive oil
+  PARG: flour mixture
+    PREP: into
+  OARG: very
+
+
+SENTID: 2
+SENT: Stir in enough remaining flour to make soft dough .
+PREDID: 0
+PRED: stir
+  PARG: enough remaining flour
+    PREP: in
+  PARG: make soft dough
+    PREP: to
+
+
+SENTID: 3
+SENT: Knead on lightly floured surface until smooth and elastic , about 4 to 6 minutes .
+PREDID: 0
+PRED: knead
+  PARG: lightly floured surface
+    PREP: on
+  PARG: smooth, elastic , about 4 to 6 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Cover ;
+PREDID: 0
+PRED: cover
+
+
+SENTID: 5
+SENT: let rest on floured surface 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: rest
+  PARG: floured surface 10 minutes
+    PREP: on
+
+
+SENTID: 6
+SENT: Lightly oil 1 -LRB- 14-inch -RRB- or 2 -LRB- 12-inch -RRB- round pizza pan -LRB- s -RRB- .
+PREDID: 0
+PRED: oil
+  DOBJ: 1 -lrb- 14-inch -rrb- or 2 -lrb- 12-inch -rrb- round pizza pan -lrb- s -rrb-
+  OARG: lightly
+
+
+SENTID: 7
+SENT:  Sprinkle with cornmeal .
+PREDID: 0
+PRED: sprinkle
+  PARG: cornmeal
+    PREP: with
+
+
+SENTID: 8
+SENT: Shape dough into smooth ball .
+PREDID: 0
+PRED: shape
+  DOBJ: dough
+  PARG: smooth ball
+    PREP: into
+
+
+SENTID: 9
+SENT: Divide and roll dough to fit desired pan -LRB- s -RRB- .
+PREDID: 0
+PRED: divide
+  DOBJ: dough
+
+PREDID: 1
+PRED: roll
+  PARG: fit desired pan -lrb- s -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: Top pizza as desired .
+PREDID: 0
+PRED: top
+  DOBJ: pizza
+  PARG: desired
+    PREP: as
+
+
+SENTID: 11
+SENT: Bake at 400 degrees F for 20 to 30 minutes or until done .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f
+    PREP: at
+  PARG: 20 to 30 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+

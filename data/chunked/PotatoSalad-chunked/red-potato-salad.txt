@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Place the potatoes in a pot with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook for about 10 minutes , or until easily pierced with a fork .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 10 minutes
+    PREP: for
+  PARG: easily pierced with a fork
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and transfer to a large bowl to cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 3
+SENT: In a medium bowl , mix the sour cream , mayonnaise , mustard , vinegar , eggs , pickle , celery , green onions , and hot sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: the sour cream , mayonnaise , mustard , vinegar , eggs , pickle , celery , green onions , hot sauce
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Season with dill , garlic powder , onion salt , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: dill , garlic powder , onion salt , salt , pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Pour over the potatoes , and gently toss to coat .
+PREDID: 0
+PRED: pour
+  PARG: the potatoes
+    PREP: over
+  OARG: gently
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Chill at least 3 hours in the refrigerator before serving .
+PREDID: 0
+PRED: chill
+  PARG: least 3 hours
+    PREP: at
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: before
+

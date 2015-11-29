@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Using a saute pan over medium heat , saute onion in butter until tender .
+PREDID: 0
+PRED: saute
+  DOBJ: using a saute pan
+  PARG: medium heat
+    PREP: over
+  PARG: butter
+    PREP: in
+  PARG: tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Add milk and stir until thickened .
+PREDID: 0
+PRED: add
+  DOBJ: milk
+
+PREDID: 1
+PRED: stir
+  PARG: thickened
+    PREP: until
+
+
+SENTID: 2
+SENT: Add corn , cheese and season with salt and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: corn
+
+PREDID: 1
+PRED: cheese
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 2
+PRED: season
+
+
+SENTID: 3
+SENT: Heat through , until the cheese melts and then serve hot .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+  PARG: the cheese melts and
+    PREP: until
+
+PREDID: 1
+PRED: serve
+  DOBJ: hot
+

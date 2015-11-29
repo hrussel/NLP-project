@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Sprinkle salt evenly over both sides of eggplant slices ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: salt
+  PARG: both sides of eggplant slices
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 1
+SENT: set aside for 5 minutes .
+PREDID: 0
+PRED: set
+  PARG: 5 minutes
+    PREP: for
+  OARG: aside
+
+
+SENTID: 2
+SENT: Cut eggplant into cubes .
+PREDID: 0
+PRED: cut
+  DOBJ: eggplant
+  PARG: cubes
+    PREP: into
+
+
+SENTID: 3
+SENT: Cook and stir chicken , garlic , and soy sauce together in a large skillet over medium heat until the chicken is nearly cooked through , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken , garlic , soy sauce
+
+PREDID: 1
+PRED: stir
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the chicken is nearly cooked through , 7 to 10 minutes
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir mushrooms and black pepper into the chicken mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: mushrooms, black pepper
+  PARG: the chicken mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: continue cooking until the mushrooms brown , 2 to 3 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: the mushrooms
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  OARG: 2 to 3 minutes
+
+
+SENTID: 6
+SENT: Heat canola oil in a separate skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: canola oil
+  PARG: a separate skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook eggplant in hot canola oil until lightly browned ;
+PREDID: 0
+PRED: cook
+  DOBJ: eggplant
+  PARG: hot canola oil
+    PREP: in
+  PARG: lightly browned
+    PREP: until
+
+
+SENTID: 8
+SENT: add to skillet with the chicken .
+PREDID: 0
+PRED: add
+  PARG: skillet
+    PREP: to
+  PARG: the chicken
+    PREP: with
+
+
+SENTID: 9
+SENT: Stir spinach through the chicken and eggplant mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken, eggplant mixture
+  OARG: spinach
+

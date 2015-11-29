@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: In a small saucepan , combine 1 cup brown sugar , 1/2 cup butter and 2 tablespoons corn syrup .
+PREDID: 0
+PRED: combine
+  DOBJ: 1 cup brown sugar , 1/2 cup butter, 2 tablespoons corn syrup
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook over medium heat , stirring constantly , until thickened .
+PREDID: 0
+PRED: cook
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: thickened
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 2
+SENT: Pour sauce into a 9x13 inch baking dish and sprinkle with 1/2 cup pecans .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: 1/2 cup pecans
+    PREP: with
+
+
+SENTID: 3
+SENT: Place 6 slices of bread on top of the sauce , sprinkle with the remaining pecans and cover with the remaining 6 slices of bread .
+PREDID: 0
+PRED: place
+  DOBJ: 6 slices of bread
+  PARG: top of the sauce
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the remaining pecans
+    PREP: with
+
+PREDID: 2
+PRED: cover
+  PARG: the remaining 6 slices of bread
+    PREP: with
+
+
+SENTID: 4
+SENT: Combine eggs , milk , vanilla , nutmeg , cinnamon and salt in a blender .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , milk , vanilla , nutmeg , cinnamon, salt
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour egg mixture evenly over bread slices , cover the baking dish , and refrigerate for 8 hours or overnight .
+PREDID: 0
+PRED: pour
+  DOBJ: egg mixture
+  PARG: bread slices
+    PREP: over
+  OARG: evenly
+
+PREDID: 1
+PRED: cover
+  DOBJ: the baking dish
+
+PREDID: 2
+PRED: refrigerate
+  PARG: 8 hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Remove the French toast from the refrigerator 30 minutes prior to baking .
+PREDID: 0
+PRED: remove
+  DOBJ: the french toast
+  PARG: the refrigerator 30 minutes
+    PREP: from
+  PARG: baking
+    PREP: to
+  OARG: prior
+
+
+SENTID: 7
+SENT: Bake in preheated oven for 40 to 45 minutes , until lightly brown .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 40 to 45 minutes
+    PREP: for
+  PARG: lightly brown
+    PREP: until
+
+
+SENTID: 8
+SENT: Drizzle sauce over the toast right before serving .
+PREDID: 0
+PRED: drizzle
+  DOBJ: sauce
+  PARG: the toast
+    PREP: over
+  PARG: serving
+    PREP: before
+  OARG: right
+
+
+SENTID: 9
+SENT: To make the Caramel Sauce :
+PREDID: 0
+PRED: sauce
+  PARG: make the caramel
+    PREP: to
+
+
+SENTID: 10
+SENT: In a small saucepan , combine 1/2 cup brown sugar , 1/4 cup butter and 1 tablespoon corn syrup .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/2 cup brown sugar , 1/4 cup butter, 1 tablespoon corn syrup
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 11
+SENT: Cook until thickened , stirring constantly .
+PREDID: 0
+PRED: cook
+  PARG: thickened , stirring constantly
+    PREP: until
+

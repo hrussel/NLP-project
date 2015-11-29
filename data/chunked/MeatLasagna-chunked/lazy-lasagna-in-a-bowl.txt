@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: Remove sausage meat from casings and crumble into large deep pot .
+PREDID: 0
+PRED: remove
+  DOBJ: sausage meat
+  PARG: casings
+    PREP: from
+
+PREDID: 1
+PRED: crumble
+  DOBJ: pot
+  PARG: large
+    PREP: into
+  OARG: deep
+
+
+SENTID: 1
+SENT: Place pot over medium-high heat and cook breaking up meat with a spoon for about 5 min or until no longer pink .
+PREDID: 0
+PRED: place
+  DOBJ: meat
+  PARG: medium-high heat, cook breaking
+    PREP: over
+  PARG: a spoon
+    PREP: with
+  PARG: about 5 min
+    PREP: for
+  PARG: no longer pink
+    PREP: until
+  OARG: up
+  OARG: pot
+
+
+SENTID: 2
+SENT: With a slotted spoon , transfer meat into a bowl ;
+PREDID: 0
+PRED: transfer
+  DOBJ: meat
+  PARG: a slotted spoon
+    PREP: with
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 3
+SENT: Return pot to medium-high heat and add butter , mushrooms , zucchini and Italian seasoning .
+PREDID: 0
+PRED: return
+  DOBJ: pot
+  PARG: medium-high heat
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: butter , mushrooms , zucchini, italian seasoning
+
+
+SENTID: 4
+SENT: Cook , stirring for about 8 min or until no liquid remains from mushroom mixture .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: about 8 min
+    PREP: for
+  PARG: no liquid remains from mushroom mixture
+    PREP: until
+
+
+SENTID: 5
+SENT: Return meat with any accumulated juices to pot and add tomatoes .
+PREDID: 0
+PRED: return
+  DOBJ: meat
+  PARG: any accumulated juices
+    PREP: with
+  PARG: pot
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: tomatoes
+
+
+SENTID: 6
+SENT: Whisk flour into cream and add to pot along with the water and pasta .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour
+  PARG: cream
+    PREP: into
+
+PREDID: 1
+PRED: add
+  PARG: pot
+    PREP: to
+  PARG: with the water, pasta
+    PREP: along
+
+
+SENTID: 7
+SENT: Increase heat to high and bring to a boil .
+PREDID: 0
+PRED: increase
+  DOBJ: heat
+  PARG: high
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat and simmer , stirring occasionally for about 10 min or until pasta is tender but firm .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  DOBJ: stirring
+  PARG: about 10 min
+    PREP: for
+  PARG: pasta is tender but firm
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: Season to taste with salt -LRB- if using -RRB- .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt -lrb-
+    PREP: with
+  PARG: using -rrb-
+    PREP: if
+
+
+SENTID: 10
+SENT: Divide cheese among soup bowls and ladle soup over top to melt cheese .
+PREDID: 0
+PRED: divide
+  DOBJ: cheese
+  PARG: soup bowls
+    PREP: among
+
+PREDID: 1
+PRED: ladle
+  DOBJ: soup
+  PARG: top
+    PREP: over
+  PARG: melt cheese
+    PREP: to
+

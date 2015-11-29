@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a loaf pan with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a loaf pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk eggs and milk together in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs, milk
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Add pork , bread crumbs , bell pepper , green onion , mustard , and pepper ;
+PREDID: 0
+PRED: add
+  DOBJ: pork , bread crumbs , bell pepper , green onion , mustard , pepper
+
+
+SENTID: 4
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 5
+SENT: Transfer pork mixture to the prepared loaf pan .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork mixture
+  PARG: the prepared loaf pan
+    PREP: to
+
+
+SENTID: 6
+SENT: Press pork tightly into pan and spread barbeque sauce on top .
+PREDID: 0
+PRED: press
+  DOBJ: pork
+  PARG: pan
+    PREP: into
+  OARG: tightly
+
+PREDID: 1
+PRED: spread
+  DOBJ: barbeque sauce
+  PARG: top
+    PREP: on
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until heated through , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: heated through , about 1 hour
+    PREP: until
+
+
+SENTID: 8
+SENT: Let meatloaf cool 5 to 10 minutes before slicing and serving .
+PREDID: 0
+PRED: let
+  PARG: slicing, serving
+    PREP: before
+  OARG: meatloaf cool 5 to 10 minutes
+

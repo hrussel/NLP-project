@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Place the chicken , 1Ê1/2 tablespoons of cilantro , and vegetable oil in a skillet over medium heat , and pan-fry the chicken breasts until lightly golden brown , no longer pink in the middle , and the juices run clear , about 5 minutes per side .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken , 1Ê1/2 tablespoons of cilantro , vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat , pan-fry the chicken breasts
+    PREP: over
+  PARG: lightly golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  DOBJ: no longer pink
+  PARG: the middle , the juices run clear
+    PREP: in
+  PARG: 5 minutes
+    PREP: about
+  PARG: side
+    PREP: per
+
+
+SENTID: 1
+SENT: Remove the chicken and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: When cooled , cut into cubes .
+PREDID: 0
+PRED: cut
+  PARG: cubes
+    PREP: into
+  OARG: when cooled
+
+
+SENTID: 3
+SENT: Place the bacon in the same skillet , and cook over medium-high heat , stirring often , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: the same skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , stirring
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 4
+SENT: Mix the refried beans into the skillet with the bacon , and cook , stirring frequently , until the beans are hot and bubbling , 5 to 10 minutes .
+PREDID: 0
+PRED: mix
+  DOBJ: the refried beans
+  PARG: the skillet
+    PREP: into
+  PARG: the bacon
+    PREP: with
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: the beans are hot, bubbling , 5 to 10 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 5
+SENT: Mix the taco seasoning and sour cream together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the taco seasoning, sour cream
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: To assemble , spread the hot bean and bacon mixture into the bottom of an 8x8-inch glass dish .
+PREDID: 0
+PRED: spread
+  DOBJ: the hot bean, bacon mixture
+  PARG: the bottom of an 8x8-inch glass dish
+    PREP: into
+  OARG: to assemble
+
+
+SENTID: 7
+SENT: Sprinkle the chicken cubes over the bean mixture , then follow with these layers :
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the chicken cubes
+  PARG: the bean mixture
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: follow
+  PARG: these layers
+    PREP: with
+
+
+SENTID: 8
+SENT: 3/4 cup of Cheddar cheese , guacamole , sour cream mixture , and sliced tomatoes .
+PREDID: 0
+PRED: cheese
+  DOBJ: guacamole , sour cream mixture , sliced tomatoes
+  OARG: 3/4 cup of cheddar
+
+
+SENTID: 9
+SENT: Sprinkle the top with 1Ê1/2 tablespoons of cilantro , black olives , green onions , and 1/4 cup of shredded cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top
+  PARG: 1Ê1/2 tablespoons of cilantro , black olives , green onions , 1/4 cup of shredded cheddar cheese
+    PREP: with
+

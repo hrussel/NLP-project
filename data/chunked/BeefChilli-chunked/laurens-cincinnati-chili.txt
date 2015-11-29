@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Cook the beef and onion in a large skillet over medium high heat , breaking up beef into tiny pieces , just until meat is no longer pink .
+PREDID: 0
+PRED: cook
+  DOBJ: the beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat , breaking
+    PREP: over
+  PARG: tiny pieces
+    PREP: into
+  PARG: meat is no longer pink
+    PREP: until
+  OARG: up
+  OARG: just
+
+
+SENTID: 1
+SENT: Drain and place in a large Dutch oven or slow cooker .
+PREDID: 0
+PRED: drain
+  PARG: a large dutch oven or slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: place
+
+
+SENTID: 2
+SENT: Stir in the water , garlic , cumin , cinnamon , allspice , cloves , salt , pepper , cayenne pepper , cider vinegar , Worcestershire sauce , bay leaves , tomato sauce , and chocolate .
+PREDID: 0
+PRED: stir
+  PARG: the water , garlic , cumin , cinnamon , allspice , cloves , salt , pepper , cayenne pepper , cider vinegar , worcestershire sauce , bay leaves , tomato sauce , chocolate
+    PREP: in
+
+
+SENTID: 3
+SENT: Simmer over medium low heat for 3 to 5 hours .
+PREDID: 0
+PRED: simmer
+  PARG: medium low heat
+    PREP: over
+  PARG: 3 to 5 hours
+    PREP: for
+

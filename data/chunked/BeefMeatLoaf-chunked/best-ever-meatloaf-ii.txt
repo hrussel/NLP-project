@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a medium skillet , melt butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add garlic , onion , and green pepper and saute until onions are soft .
+PREDID: 0
+PRED: add
+  DOBJ: garlic , onion , green pepper
+
+PREDID: 1
+PRED: saute
+  PARG: onions are soft
+    PREP: until
+
+
+SENTID: 2
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 3
+SENT: In a large mixing bowl , place ground beef , crushed crackers , Cheddar cheese , taco seasoning , and sauteed onion and green pepper .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef , crushed crackers , cheddar cheese , taco seasoning , sauteed onion, green pepper
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Press beef mixture into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: press
+  DOBJ: beef mixture
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in a preheated oven for 45 to 55 minutes or until done .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: 45 to 55 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+
+
+SENTID: 7
+SENT: Check with a meat thermometer for doneness .
+PREDID: 0
+PRED: check
+  PARG: a meat thermometer
+    PREP: with
+  PARG: doneness
+    PREP: for
+

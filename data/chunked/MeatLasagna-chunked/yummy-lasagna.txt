@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In large skillet over medium-high heat , cook beef until brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: In small saucepan , heat spaghetti sauce .
+PREDID: 0
+PRED: heat
+  DOBJ: spaghetti sauce
+  PARG: small saucepan
+    PREP: in
+
+
+SENTID: 7
+SENT: In a medium bowl , stir together ricotta , Romano , egg , basil and garlic .
+PREDID: 0
+PRED: stir
+  DOBJ: ricotta , romano , egg , basil, garlic
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Coat the bottom of a 9 x 13 baking dish with a thin layer of spaghetti sauce .
+PREDID: 0
+PRED: coat
+  DOBJ: the bottom of a 9 x 13 baking dish
+  PARG: a thin layer of spaghetti sauce
+    PREP: with
+
+
+SENTID: 9
+SENT: Place 3 or 4 noodles , overlapping edges , over sauce .
+PREDID: 0
+PRED: place
+  DOBJ: 3 or 4 noodles , overlapping edges
+  PARG: sauce
+    PREP: over
+
+
+SENTID: 10
+SENT: Spread half of ricotta mixture over noodles .
+PREDID: 0
+PRED: spread
+  DOBJ: half of ricotta mixture
+  PARG: noodles
+    PREP: over
+
+
+SENTID: 11
+SENT: Cover ricotta with half of browned beef , half of pepperoni slices , and 1/4 of mozzarella cheese .
+PREDID: 0
+PRED: cover
+  DOBJ: ricotta
+  PARG: half of browned beef , half of pepperoni slices , 1/4 of mozzarella cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Repeat sauce , noodle , ricotta , meat and cheese layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: sauce , noodle , ricotta , meat, cheese layers
+
+
+SENTID: 13
+SENT: Layer sauce and noodles again , and pour remaining sauce over all , being sure to cover the edges .
+PREDID: 0
+PRED: layer
+  DOBJ: sauce, noodles
+  OARG: again
+
+PREDID: 1
+PRED: pour
+  DOBJ: remaining sauce
+  PARG: all , being
+    PREP: over
+  PARG: cover the edges
+    PREP: to
+  OARG: sure
+
+
+SENTID: 14
+SENT: Top with remaining mozzarella .
+PREDID: 0
+PRED: top
+  PARG: remaining mozzarella
+    PREP: with
+
+
+SENTID: 15
+SENT: Cover pan with foil and pierce foil 3 or 4 times with fork to ventilate .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+  PARG: foil
+    PREP: with
+
+PREDID: 1
+PRED: pierce
+  DOBJ: foil 3 or 4 times
+  PARG: fork
+    PREP: with
+  OARG: to ventilate
+
+
+SENTID: 16
+SENT: Bake 45 minutes , remove foil , and bake 15 minutes more to brown the top .
+PREDID: 0
+PRED: bake
+  OARG: 45 minutes
+
+PREDID: 1
+PRED: remove
+  DOBJ: foil
+
+PREDID: 2
+PRED: bake
+  PARG: brown the top
+    PREP: to
+  OARG: 15 minutes more
+
+
+SENTID: 17
+SENT: Let stand 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 minutes
+

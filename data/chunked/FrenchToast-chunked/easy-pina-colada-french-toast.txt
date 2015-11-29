@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Whisk together the eggs , milk , and pina colada mix in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , pina colada mix
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Heat a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: melt butter in the skillet until the foam disappears .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: the skillet
+    PREP: in
+  PARG: the foam disappears
+    PREP: until
+
+
+SENTID: 3
+SENT: Soak the bread slices in the egg mixture , turning the slices over a couple of times .
+PREDID: 0
+PRED: soak
+  DOBJ: turning the slices
+  PARG: the egg mixture
+    PREP: in
+  PARG: a couple of times
+    PREP: over
+  OARG: the bread slices
+
+
+SENTID: 4
+SENT: Gently lay the soaked bread slices into the hot skillet 2 at a time and pan-fry until the french toast is golden brown , about 2 minutes per side .
+PREDID: 0
+PRED: lay
+  DOBJ: the soaked bread slices
+  PARG: the hot skillet 2 at a time, pan-fry
+    PREP: into
+  PARG: the french toast is golden
+    PREP: until
+  OARG: gently
+
+PREDID: 1
+PRED: brown
+  PARG: 2 minutes
+    PREP: about
+  PARG: side
+    PREP: per
+
+
+SENTID: 5
+SENT: Top each 2-slice serving with several slices of banana to serve .
+PREDID: 0
+PRED: top
+  DOBJ: each 2-slice serving
+  PARG: several slices of banana
+    PREP: with
+  PARG: serve
+    PREP: to
+

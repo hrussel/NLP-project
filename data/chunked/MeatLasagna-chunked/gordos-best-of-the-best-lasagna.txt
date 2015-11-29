@@ -1,0 +1,215 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook lasagna in the boiling water , stirring occasionally until cooked through but firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain and rinse in cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: in
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Cook and stir sausage , beef , onion , and garlic in a large , deep skillet over medium heat until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: sausage , beef , onion , garlic
+
+PREDID: 1
+PRED: stir
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: browned
+    PREP: until
+  OARG: deep
+
+
+SENTID: 4
+SENT: Stir tomato basil sauce , tomato sauce , diced tomatoes , 3/4 cup parsley , Italian seasoning , sugar , sea salt , and pepper into sausage mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: tomato basil sauce , tomato sauce , diced tomatoes , 3/4 cup parsley , italian seasoning , sugar , sea salt , pepper
+  PARG: sausage mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Bring to a simmer ;
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 6
+SENT: reduce heat to low and cook , stirring occasionally , until flavors blend , about 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: flavors
+    PREP: until
+  OARG: occasionally
+
+PREDID: 2
+PRED: blend
+  PARG: 30 minutes
+    PREP: about
+
+
+SENTID: 7
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Spray a 9x13-inch baking dish with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x13-inch baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 9
+SENT: Stir ricotta cheese , Parmesan cheese , Cheddar cheese , eggs , and remaining 1/4 cup parsley together in a large bowl until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: ricotta cheese , parmesan cheese , cheddar cheese , eggs
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 10
+SENT: Spread 1 cup tomato sauce in the bottom of the prepared baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 1 cup tomato sauce
+  PARG: the bottom of the prepared baking dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Cover sauce with a layer of lasagna noodles and spread the ricotta mixture over the noodles .
+PREDID: 0
+PRED: cover
+  DOBJ: sauce
+  PARG: a layer of lasagna noodles
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  DOBJ: the ricotta mixture
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 12
+SENT: Spread a layer of tomato sauce over the ricotta and a layer of noodles over the tomato sauce .
+PREDID: 0
+PRED: spread
+  DOBJ: a layer of tomato sauce
+  PARG: the ricotta, a layer of noodles
+    PREP: over
+  PARG: the tomato sauce
+    PREP: over
+
+
+SENTID: 13
+SENT: Repeat the layering procedure 1 more time .
+PREDID: 0
+PRED: repeat
+  DOBJ: the layering procedure 1 more time
+
+
+SENTID: 14
+SENT: Spread remaining sauce over the final layer of noodles and top with mozzarella cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining sauce
+  PARG: the final layer of noodles
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Cover baking dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: baking dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake lasagna in the preheated oven until hot throughout and bubbling , 30 to 40 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: lasagna
+  PARG: the preheated oven
+    PREP: in
+  PARG: hot throughout, bubbling , 30 to 40 minutes
+    PREP: until
+
+
+SENTID: 17
+SENT: Remove the aluminum foil and bake until cheese is golden , about 10 minutes more .
+PREDID: 0
+PRED: remove
+  DOBJ: the aluminum foil
+
+PREDID: 1
+PRED: bake
+  PARG: cheese is golden , about 10 minutes more
+    PREP: until
+
+
+SENTID: 18
+SENT: Cool for 10 minutes before serving .
+PREDID: 0
+PRED: cool
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

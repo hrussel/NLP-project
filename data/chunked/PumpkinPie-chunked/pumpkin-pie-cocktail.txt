@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Combine the ice cream , ice , pumpkin , half-and-half , rum , and 1/4 teaspoon pumpkin pie spice in a blender ;
+PREDID: 0
+PRED: combine
+  DOBJ: the ice cream , ice , pumpkin , half-and-half , rum , 1/4 teaspoon pumpkin pie spice
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 1
+SENT: blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour into a serving glass ;
+PREDID: 0
+PRED: pour
+  PARG: a serving glass
+    PREP: into
+
+
+SENTID: 3
+SENT: top with whipped topping , sprinkle with pinch of pumpkin pie spice .
+PREDID: 0
+PRED: top
+  PARG: whipped topping
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: pinch of pumpkin pie spice
+    PREP: with
+

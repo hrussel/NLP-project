@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: Combine cabbage , red bell pepper , shallots , ginger , and basil in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: cabbage , red bell pepper , shallots , ginger , basil
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk mayonnaise , lemon juice , olive oil , wasabi paste , and ground pepper in another bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , lemon juice , olive oil , wasabi paste , ground pepper
+  PARG: another bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: stir into cabbage mixture .
+PREDID: 0
+PRED: stir
+  PARG: cabbage mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Top with pine nuts and sunflower kernels .
+PREDID: 0
+PRED: top
+  PARG: pine nuts, sunflower kernels
+    PREP: with
+

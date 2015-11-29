@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Heat butter and chocolate over low heat , stirring constantly , until chocolate is melted ;
+PREDID: 0
+PRED: heat
+  DOBJ: butter, chocolate
+  PARG: low heat , stirring
+    PREP: over
+  PARG: chocolate is melted
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 2
+SENT: cool slightly .
+PREDID: 0
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 3
+SENT: With hand beater , beat eggs , sugar , salt , chocolate mixture and corn syrup .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , sugar , salt , chocolate mixture, corn syrup
+  PARG: hand beater
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir in pecans and pour mixture into pie shell .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake until set , 40 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: set , 40 to 50 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Cool slightly .
+PREDID: 0
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 7
+SENT: Serve warm , or refrigerate and serve with nondairy whipped topping .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+
+PREDID: 1
+PRED: refrigerate
+  PARG: nondairy whipped topping
+    PREP: with
+
+PREDID: 2
+PRED: serve
+

@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Place pistachio in a food processor or blender , and pulse until finely diced .
+PREDID: 0
+PRED: place
+  DOBJ: pistachio
+  PARG: a food processor or blender
+    PREP: in
+
+PREDID: 1
+PRED: pulse
+  PARG: finely diced
+    PREP: until
+
+
+SENTID: 1
+SENT: Sprinkle half of diced pistachios onto a large plate .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: half of diced pistachios
+  PARG: a large plate
+    PREP: onto
+
+
+SENTID: 2
+SENT: Warm oil in a skillet over medium-high heat .
+PREDID: 0
+PRED: warm
+  DOBJ: oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Press chicken breast halves into the pistachio pieces , adding more diced nuts to the plate as needed .
+PREDID: 0
+PRED: press
+  DOBJ: chicken breast halves
+  PARG: the pistachio pieces , adding more diced nuts
+    PREP: into
+  PARG: the plate
+    PREP: to
+  PARG: needed
+    PREP: as
+
+
+SENTID: 4
+SENT: Sprinkle chicken breasts with garlic powder and black pepper .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chicken breasts
+  PARG: garlic powder, black pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Place in the skillet , and cook until golden brown .
+PREDID: 0
+PRED: place
+  PARG: the skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Reduce heat to medium low , and cook for about 3 to 5 minutes on each side , until the chicken is no longer pink inside .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium low
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 3 to 5 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+  PARG: the chicken is no longer pink inside
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove chicken to a cutting board , and slice into thin slices .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: a cutting board
+    PREP: to
+
+PREDID: 1
+PRED: slice
+  PARG: thin slices
+    PREP: into
+
+
+SENTID: 8
+SENT: Into four bowls , place equal amounts of spinach leaves , tomatoes , avocado , bell pepper , and green onions .
+PREDID: 0
+PRED: place
+  DOBJ: equal amounts of spinach leaves , tomatoes , avocado , bell pepper , green onions
+  PARG: four bowls
+    PREP: into
+
+
+SENTID: 9
+SENT: Place chicken slices on top .
+PREDID: 0
+PRED: place
+  DOBJ: chicken slices
+  PARG: top
+    PREP: on
+
+
+SENTID: 10
+SENT: Sprinkle with Parmesan , pour on Balsamic vinegar , and season with black pepper .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan
+    PREP: with
+
+PREDID: 1
+PRED: pour
+  PARG: balsamic vinegar
+    PREP: on
+
+PREDID: 2
+PRED: season
+  PARG: black pepper
+    PREP: with
+

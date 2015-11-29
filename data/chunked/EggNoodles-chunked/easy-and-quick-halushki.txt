@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Snip bacon into small pieces with a scissors and cook in a large skillet over medium heat until crisp , stirring often , about 10 minutes .
+PREDID: 0
+PRED: snip
+  DOBJ: bacon
+  PARG: small pieces
+    PREP: into
+  PARG: a scissors
+    PREP: with
+
+PREDID: 1
+PRED: cook
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crisp , stirring often , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Cook and stir onion with bacon until translucent , about 5 more minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+
+PREDID: 1
+PRED: stir
+  PARG: bacon
+    PREP: with
+  PARG: translucent , about 5 more minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: set bacon and onion aside , leaving drippings in the skillet .
+PREDID: 0
+PRED: set
+  DOBJ: leaving drippings
+  PARG: the skillet
+    PREP: in
+  OARG: aside
+  OARG: bacon, onion
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Transfer bacon and onion mixture with drippings into the pot used to cook the noodles and cook and stir cabbage until coated with drippings .
+PREDID: 0
+PRED: transfer
+  DOBJ: bacon, onion mixture
+  PARG: drippings
+    PREP: with
+  PARG: the pot used
+    PREP: into
+  PARG: cook the noodles
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: cabbage
+
+PREDID: 2
+PRED: stir
+  PARG: coated with drippings
+    PREP: until
+
+
+SENTID: 7
+SENT: Cover pot and cook until cabbage is tender , 10 to 12 minutes , stirring occasionally .
+PREDID: 0
+PRED: cover
+  DOBJ: pot
+
+PREDID: 1
+PRED: cook
+  PARG: cabbage is tender , 10 to 12 minutes , stirring occasionally
+    PREP: until
+
+
+SENTID: 8
+SENT: Gently stir in noodles and season to taste with salt and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: noodles
+    PREP: in
+  OARG: gently
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, black pepper
+    PREP: with
+

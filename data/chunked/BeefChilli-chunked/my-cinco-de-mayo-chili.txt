@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Heat a large stock pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large stock pot
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir beef and pork in the pot until completely browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: beef, pork
+
+PREDID: 1
+PRED: stir
+  PARG: the pot
+    PREP: in
+  PARG: completely browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir sweet onions , green onions , and garlic through the meat mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: sweet onions , green onions , garlic
+
+
+SENTID: 3
+SENT: Stir tomatoes , beer , chili powder , cumin , chile peppers , corn meal , ancho chile pepper , tequila , jalapeno pepper , cocoa powder , and salt into the meat mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: tomatoes , beer , chili powder , cumin , chile peppers , corn meal , ancho chile pepper , tequila , jalapeno pepper , cocoa powder , salt
+  PARG: the meat mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: Bring the mixture to a simmer and cook until the tomatoes are dissolving into the liquid , 1 to 2 hours .
+PREDID: 0
+PRED: bring
+  DOBJ: the mixture
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: the tomatoes are dissolving into the liquid , 1 to 2 hours
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir corn and black beans into the chili ;
+PREDID: 0
+PRED: stir
+  DOBJ: corn, black beans
+  PARG: the chili
+    PREP: into
+
+
+SENTID: 6
+SENT: continue cooking until hot , 10 to 15 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: hot , 10 to 15 minutes
+    PREP: until
+

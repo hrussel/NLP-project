@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: In a large bowl , combine 3 tablespoons soy sauce , 2 tablespoons honey , 2 tablespoons tomato sauce , 2 tablespoons plum sauce , 1 tablespoon Worcestershire sauce , sesame seeds , and basil .
+PREDID: 0
+PRED: combine
+  DOBJ: 3 tablespoons soy sauce , 2 tablespoons honey , 2 tablespoons tomato sauce , 2 tablespoons plum sauce , 1 tablespoon worcestershire sauce , sesame seeds , basil
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Add chicken , and turn to coat .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+PREDID: 1
+PRED: turn
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Marinate in refrigerator for at least 1 hour .
+PREDID: 0
+PRED: marinate
+  PARG: refrigerator
+    PREP: in
+  PARG: at least 1 hour
+    PREP: for
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Add pasta , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: drain and rinse .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 6
+SENT: Heat olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook chicken until no longer pink , and juices run clear .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+  PARG: no longer pink , juices run clear
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain on paper towels .
+PREDID: 0
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 9
+SENT: Allow to cool , then cut into bite-size strips .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: cut
+  PARG: bite-size strips
+    PREP: into
+
+
+SENTID: 10
+SENT: In a large bowl , whisk together mayonnaise , sour cream , mustard , 1 tablespoon honey , 1 tablespoon tomato sauce , and 1 teaspoon Worcestershire sauce .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , sour cream , mustard , 1 tablespoon honey , 1 tablespoon tomato sauce , 1 teaspoon worcestershire sauce
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Mix in cooked pasta , chicken , and Cheddar cheese .
+PREDID: 0
+PRED: mix
+  PARG: cooked pasta , chicken , cheddar cheese
+    PREP: in
+
+
+SENTID: 12
+SENT: Gently stir in sliced avocado and cashews just before serving .
+PREDID: 0
+PRED: stir
+  PARG: sliced avocado, cashews
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: gently
+  OARG: just
+

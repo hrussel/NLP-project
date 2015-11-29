@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: Toss the cabbage and bell pepper together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage, bell pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Season the mixture liberally with salt ;
+PREDID: 0
+PRED: season
+  DOBJ: the mixture
+  PARG: salt
+    PREP: with
+  OARG: liberally
+
+
+SENTID: 2
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 3
+SENT: Allow to sit 45 minutes ;
+PREDID: 0
+PRED: allow
+  OARG: to sit 45 minutes
+
+
+SENTID: 4
+SENT: drain and return to the bowl .
+PREDID: 0
+PRED: drain
+  PARG: the bowl
+    PREP: to
+
+PREDID: 1
+PRED: return
+
+
+SENTID: 5
+SENT: Bring the vinegar and sugar to a boil together in a saucepan .
+PREDID: 0
+PRED: bring
+  DOBJ: the vinegar, sugar
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Immediately remove from heat and stir into the cabbage mixture .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+  OARG: immediately
+
+PREDID: 1
+PRED: stir
+  PARG: the cabbage mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Add the celery seed ;
+PREDID: 0
+PRED: add
+  DOBJ: the celery seed
+
+
+SENTID: 8
+SENT: mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 9
+SENT: Chill completely before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+  OARG: completely
+

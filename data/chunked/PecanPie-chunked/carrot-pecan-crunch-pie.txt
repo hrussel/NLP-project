@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl combine brown sugar , melted butter or margarine , and chopped pecans .
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , melted butter or margarine , chopped pecans
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well and set aside .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: Steam carrots until tender .
+PREDID: 0
+PRED: steam
+  DOBJ: carrots
+  PARG: tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 5
+SENT: Place cooled carrots in a blender or food processor and add eggs , condensed milk , pumpkin pie spice , and salt .
+PREDID: 0
+PRED: place
+  DOBJ: cooled carrots
+  PARG: a blender or food processor
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: eggs , condensed milk , pumpkin pie spice , salt
+
+
+SENTID: 6
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour carrot mixture into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: carrot mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 8
+SENT: Sprinkle with pecan topping .
+PREDID: 0
+PRED: sprinkle
+  PARG: pecan topping
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 45 minutes or until toothpick inserted in center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  PARG: toothpick inserted in center comes out clean
+    PREP: until
+

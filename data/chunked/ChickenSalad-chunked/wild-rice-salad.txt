@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Cook rice according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: rice according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Remove from heat and set aside to cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 2
+SENT: In a medium bowl , whisk together the mayonnaise , vinegar , sugar , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , vinegar , sugar , salt, pepper
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in rice , turkey , onion and grapes until evenly coated with dressing .
+PREDID: 0
+PRED: stir
+  PARG: rice , turkey , onion, grapes
+    PREP: in
+  PARG: evenly coated with dressing
+    PREP: until
+
+
+SENTID: 4
+SENT: Cover and refrigerate for 1 to 2 hours .
+PREDID: 0
+PRED: cover
+  PARG: 1 to 2 hours
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 5
+SENT: Before serving , sprinkle slivered almonds over the top of the salad .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: slivered almonds
+  PARG: serving
+    PREP: before
+  PARG: the top of the salad
+    PREP: over
+

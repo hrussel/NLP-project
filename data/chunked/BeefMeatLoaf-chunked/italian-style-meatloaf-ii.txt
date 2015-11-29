@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium saucepan over medium high heat , saute the carrot and onion for 2 minutes , or until onion is transparent .
+PREDID: 0
+PRED: saute
+  DOBJ: the carrot, onion
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: 2 minutes
+    PREP: for
+  PARG: onion is transparent
+    PREP: until
+
+
+SENTID: 2
+SENT: Add garlic and saute for 2 more minutes .
+PREDID: 0
+PRED: add
+  DOBJ: garlic
+
+PREDID: 1
+PRED: saute
+  PARG: 2 more minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from heat and let cool .
+PREDID: 0
+PRED: remove
+  PARG: heat, let cool
+    PREP: from
+
+
+SENTID: 4
+SENT: In a large bowl , combine the parsley , beef , ketchup , 1/2 cup tomato sauce , bread and eggs , mixing well .
+PREDID: 0
+PRED: combine
+  DOBJ: the parsley , beef , ketchup , 1/2 cup tomato sauce , bread, eggs , mixing
+  PARG: a large bowl
+    PREP: in
+  OARG: well
+
+
+SENTID: 5
+SENT: Transfer mixture to a 9x13 baking dish and form into a loaf .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: a 9x13 baking dish
+    PREP: to
+
+PREDID: 1
+PRED: form
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 30 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 30 to 45 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: While loaf is baking , heat the remaining tomato sauce and sugar in a medium saucepan over medium low heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the remaining tomato sauce, sugar
+  PARG: loaf is baking
+    PREP: while
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium low heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Pour over loaf when done .
+PREDID: 0
+PRED: pour
+  PARG: loaf
+    PREP: over
+  OARG: when done
+

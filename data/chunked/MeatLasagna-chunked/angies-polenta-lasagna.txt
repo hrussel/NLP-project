@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the ground beef in a skillet over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cook and stir the meat until browned and crumbly , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the meat
+
+PREDID: 1
+PRED: stir
+  PARG: browned, crumbly , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain off excess grease .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+
+SENTID: 4
+SENT: Mix in the tomato sauce and pasta sauce until thoroughly combined ;
+PREDID: 0
+PRED: mix
+  PARG: the tomato sauce, pasta sauce
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 5
+SENT: bring to a simmer .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 6
+SENT: Remove the polenta from its package , and cut into 1/2-inch slices .
+PREDID: 0
+PRED: remove
+  DOBJ: the polenta
+  PARG: its package
+    PREP: from
+
+PREDID: 1
+PRED: cut
+  PARG: 1/2-inch slices
+    PREP: into
+
+
+SENTID: 7
+SENT: Lay the slices in a single layer in a 9x12-inch baking dish .
+PREDID: 0
+PRED: lay
+  DOBJ: the slices
+  PARG: a single layer
+    PREP: in
+  PARG: a 9x12-inch baking dish
+    PREP: in
+
+
+SENTID: 8
+SENT: Top each polenta slice with a tablespoon or two of the chive cottage cheese -LRB- use all the cottage cheese -RRB- .
+PREDID: 0
+PRED: top
+  DOBJ: each polenta slice
+  PARG: a tablespoon or two of the chive cottage cheese -lrb- use all the cottage cheese -rrb-
+    PREP: with
+
+
+SENTID: 9
+SENT: Pour the sauce evenly over the cottage cheese , and sprinkle with the mozzarella cheese .
+PREDID: 0
+PRED: pour
+  DOBJ: the sauce
+  PARG: the cottage cheese
+    PREP: over
+  OARG: evenly
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the mozzarella cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until the cheese is lightly browned and bubbling , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the cheese is lightly browned, bubbling , about 20 minutes
+    PREP: until
+

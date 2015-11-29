@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , combine the beef and onion and saute until meat is browned and onion is tender .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef, onion
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  PARG: meat is browned, onion is tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Add the stewed tomatoes with juice , tomato sauce , beans and water .
+PREDID: 0
+PRED: add
+  DOBJ: the stewed tomatoes
+  PARG: juice , tomato sauce , beans, water
+    PREP: with
+
+
+SENTID: 2
+SENT: Season with the chili powder , garlic powder , salt and ground black pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: the chili powder , garlic powder , salt, ground black pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 3
+SENT: Bring to a boil , reduce heat to low , cover and let simmer for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: cover
+  DOBJ: simmer
+
+PREDID: 3
+PRED: let
+  PARG: 15 minutes
+    PREP: for
+

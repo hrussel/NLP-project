@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Mix steak and red wine together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: steak, red wine
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: set aside to marinate for 15 to 30 minutes .
+PREDID: 0
+PRED: set
+  PARG: 15 to 30 minutes
+    PREP: for
+  OARG: aside
+  OARG: to marinate
+
+
+SENTID: 2
+SENT: Combine flour , salt , paprika , and black pepper together in a resealable plastic bag .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , salt , paprika , black pepper
+  PARG: a resealable plastic bag
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Remove steak from marinade , reserving red wine for later use ;
+PREDID: 0
+PRED: remove
+  DOBJ: steak
+  PARG: marinade , reserving red wine
+    PREP: from
+  PARG: later use
+    PREP: for
+
+
+SENTID: 4
+SENT: add steak to flour mixture and shake to coat .
+PREDID: 0
+PRED: add
+  DOBJ: steak
+  PARG: flour mixture
+    PREP: to
+
+PREDID: 1
+PRED: shake
+  PARG: coat
+    PREP: to
+
+
+SENTID: 5
+SENT: Melt butter in a large skillet over medium-high heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: cook and stir steak , onion , and garlic until steak is browned and onion is softened and translucent , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: steak , onion , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: steak is browned, onion is softened, translucent , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir mushrooms , beef broth , water , reserved red wine marinade , Worcestershire sauce , red pepper flakes , and mustard into steak mixture until well mixed ;
+PREDID: 0
+PRED: stir
+  DOBJ: mushrooms , beef broth , water , reserved red wine marinade , worcestershire sauce , red pepper flakes , mustard
+  PARG: steak mixture
+    PREP: into
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 8
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Reduce heat , cover skillet , and simmer until steak is very tender , about 1 hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: cover
+  DOBJ: skillet
+
+PREDID: 2
+PRED: simmer
+  PARG: steak is very tender , about 1 hour
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir cream cheese and sour cream into steak mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: cream cheese, sour cream
+  PARG: steak mixture
+    PREP: into
+
+
+SENTID: 11
+SENT: Serve over cooked noodles .
+PREDID: 0
+PRED: serve
+  PARG: cooked noodles
+    PREP: over
+

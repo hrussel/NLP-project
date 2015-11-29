@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: In a large pot , cook the ground beef over medium heat until evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: evenly browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off grease , and set aside .
+PREDID: 0
+PRED: drain
+  PARG: grease
+    PREP: off
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Melt butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Saute the onions , green pepper and habanero pepper until onions are translucent .
+PREDID: 0
+PRED: saute
+  DOBJ: the onions , green pepper, habanero pepper
+  PARG: onions are translucent
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Transfer the onion mixture to the pot with the ground beef , and set the heat to medium .
+PREDID: 0
+PRED: transfer
+  DOBJ: the onion mixture
+  PARG: the pot
+    PREP: to
+  PARG: the ground beef
+    PREP: with
+
+PREDID: 1
+PRED: set
+  DOBJ: the heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 6
+SENT: Add the kidney beans and tomato sauce to the beef mixture , and season with chili powder , salt , garlic salt and hot pepper sauce .
+PREDID: 0
+PRED: add
+  DOBJ: the kidney beans, tomato sauce
+  PARG: the beef mixture
+    PREP: to
+
+PREDID: 1
+PRED: season
+  PARG: chili powder , salt , garlic salt, hot pepper sauce
+    PREP: with
+
+
+SENTID: 7
+SENT: Bring to a simmer , and adjust seasonings to taste if necessary .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: adjust
+  DOBJ: seasonings
+  PARG: taste
+    PREP: to
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 8
+SENT: Cover , reduce heat to low , and simmer for 1 hour , stirring occasionally .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: 1 hour , stirring
+    PREP: for
+  OARG: occasionally
+

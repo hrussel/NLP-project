@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Stir the condensed soup and water together in a slow cooker until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: the condensed soup, water
+  PARG: a slow cooker
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Add the shell pasta and andouille sausage .
+PREDID: 0
+PRED: add
+  DOBJ: the shell pasta, andouille sausage
+
+
+SENTID: 2
+SENT: Set the slow cooker to High ;
+PREDID: 0
+PRED: set
+  DOBJ: the slow cooker
+  PARG: high
+    PREP: to
+
+
+SENTID: 3
+SENT: cook 2 hours , stirring frequently to prevent sticking .
+PREDID: 0
+PRED: cook
+  OARG: 2 hours , stirring
+  OARG: frequently
+  OARG: to prevent sticking
+
+
+SENTID: 4
+SENT: Once the pasta is tender , stir in the sour cream , Cheddar , and mozzarella until the cheeses melt .
+PREDID: 0
+PRED: stir
+  DOBJ: the pasta is tender
+  PARG: the sour cream , cheddar , mozzarella
+    PREP: in
+  PARG: the cheeses melt
+    PREP: until
+  OARG: once
+
+
+SENTID: 5
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Remove from heat , and allow to rest 15 minutes before serving .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: rest 15 minutes
+    PREP: to
+  PARG: serving
+    PREP: before
+

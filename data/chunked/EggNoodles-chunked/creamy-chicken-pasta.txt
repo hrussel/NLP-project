@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: In a medium pot cook egg noodles in boiling salted water .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: a medium pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: in
+
+
+SENTID: 1
+SENT: When pasta is 3 minutes away from being cooked , add in frozen peas or broccoli .
+PREDID: 0
+PRED: add
+  PARG: being cooked
+    PREP: from
+  PARG: frozen peas or broccoli
+    PREP: in
+  OARG: when pasta is 3 minutes
+  OARG: away
+
+
+SENTID: 2
+SENT: Cook until vegetables and noodles are tender .
+PREDID: 0
+PRED: cook
+  PARG: vegetables, noodles are tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 4
+SENT: Meanwhile , boil the chicken in a medium saucepan until cooked completely .
+PREDID: 0
+PRED: boil
+  DOBJ: the chicken
+  PARG: a medium saucepan
+    PREP: in
+  PARG: cooked completely
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Drain chicken and cut into bit size pieces . In a large saucepan mix cream of mushroom soup and milk until warm and lumps are dissolved .
+PREDID: 0
+PRED: drain
+  DOBJ: chicken
+
+PREDID: 1
+PRED: cut
+  PARG: bit size pieces
+    PREP: into
+  PARG: a large saucepan
+    PREP: in
+
+PREDID: 2
+PRED: mix
+  DOBJ: cream of mushroom soup, milk
+  PARG: warm, lumps are dissolved
+    PREP: until
+
+
+SENTID: 6
+SENT: To the large saucepan add the cooked and chopped chicken , noodles and vegetables .
+PREDID: 0
+PRED: add
+  DOBJ: the cooked, chopped chicken , noodles, vegetables
+  PARG: the large saucepan
+    PREP: to
+
+
+SENTID: 7
+SENT: Blend ingredients with the milk and soup mixture .
+PREDID: 0
+PRED: blend
+  DOBJ: ingredients
+  PARG: the milk, soup mixture
+    PREP: with
+
+
+SENTID: 8
+SENT: Stir in grated mozzarella cheese until melted .
+PREDID: 0
+PRED: stir
+  PARG: grated mozzarella cheese
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 9
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

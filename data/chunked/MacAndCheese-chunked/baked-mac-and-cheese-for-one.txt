@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease an oven-proof soup crock or 1 cup baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: an oven-proof soup crock or 1 cup baking dish
+
+
+SENTID: 2
+SENT: Fill a small saucepan with water , and bring to a boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a small saucepan
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in the macaroni ;
+PREDID: 0
+PRED: stir
+  PARG: the macaroni
+    PREP: in
+
+
+SENTID: 4
+SENT: boil until cooked but still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: boil
+  PARG: cooked but still firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain well , and reserve .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+PREDID: 1
+PRED: reserve
+
+
+SENTID: 6
+SENT: In the same saucepan , melt the butter over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: the same saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Stir in the flour , salt , pepper , onion powder , and milk ;
+PREDID: 0
+PRED: stir
+  PARG: the flour , salt , pepper , onion powder , milk
+    PREP: in
+
+
+SENTID: 8
+SENT: whisk until smooth .
+PREDID: 0
+PRED: whisk
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 9
+SENT: Cook , stirring , for 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Reduce heat to low , and whisk in 1/3 cup cheese , mustard , Worcestershire sauce , and hot sauce .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: whisk
+  PARG: 1/3 cup cheese , mustard , worcestershire sauce , hot sauce
+    PREP: in
+
+
+SENTID: 11
+SENT: Stir in the cooked macaroni .
+PREDID: 0
+PRED: stir
+  PARG: the cooked macaroni
+    PREP: in
+
+
+SENTID: 12
+SENT: Spoon the macaroni and cheese into the prepared dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: the macaroni, cheese
+  PARG: the prepared dish
+    PREP: into
+
+
+SENTID: 13
+SENT: Sprinkle with bread crumbs and 1 tablespoon cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: bread crumbs, 1 tablespoon cheddar cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake , uncovered , until the cheese is melted and the macaroni is heated through , about 10 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: the cheese is melted, the macaroni is heated through , about 10 minutes
+    PREP: until
+

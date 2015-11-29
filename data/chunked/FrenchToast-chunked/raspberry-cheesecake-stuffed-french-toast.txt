@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: In a bowl , whisk milk , vanilla , sugar , and cinnamon into the beaten eggs until well blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: milk , vanilla , sugar , cinnamon
+  PARG: a bowl
+    PREP: in
+  PARG: the beaten eggs
+    PREP: into
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: In a separate bowl , cream together raspberry puree and cream cheese until smooth .
+PREDID: 0
+PRED: cream
+  DOBJ: raspberry puree, cream cheese
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Make ` sandwiches ' by cutting each slice of bread in half and spreading raspberry-cheese mixture in the center , then top with the other half .
+PREDID: 0
+PRED: make
+  DOBJ: sandwiches
+  PARG: cutting each slice of bread
+    PREP: by
+  PARG: half, spreading raspberry-cheese mixture
+    PREP: in
+  PARG: the center
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: the other half
+    PREP: with
+
+
+SENTID: 4
+SENT: Melt butter over medium heat in a large skillet or griddle .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: medium heat
+    PREP: over
+  PARG: a large skillet or griddle
+    PREP: in
+
+
+SENTID: 5
+SENT: Dip bread into egg mixture , coating thoroughly .
+PREDID: 0
+PRED: dip
+  DOBJ: bread
+  PARG: egg mixture
+    PREP: into
+
+PREDID: 1
+PRED: coating
+  OARG: thoroughly
+
+
+SENTID: 6
+SENT: Cook until well-browned on both sides , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: well-browned on both sides , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Dust with confectioners ' sugar and nutmeg .
+PREDID: 0
+PRED: dust
+  PARG: confectioners ' sugar, nutmeg
+    PREP: with
+
+
+SENTID: 8
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour two 10 inch Bundt pans .
+PREDID: 0
+PRED: grease
+  DOBJ: two 10 inch bundt pans
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: Sift together flour , baking soda and salt .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , baking soda, salt
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a large bowl , combine carrots , pineapple , oil and sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: carrots , pineapple , oil, sugar
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Add eggs , cinnamon and nutmeg .
+PREDID: 0
+PRED: add
+  DOBJ: eggs , cinnamon, nutmeg
+
+
+SENTID: 6
+SENT: Add flour mixture and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: flour mixture
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: Stir in raisins .
+PREDID: 0
+PRED: stir
+  PARG: raisins
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour into prepared greased and floured pans .
+PREDID: 0
+PRED: pour
+  PARG: prepared greased, floured pans
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake for 45 minutes , or until a toothpick inserted into the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+  PARG: a toothpick inserted into the cake comes out clean
+    PREP: until
+
+
+SENTID: 10
+SENT: Allow to cool , then frost with cream cheese frosting .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: frost
+  PARG: cream cheese frosting
+    PREP: with
+

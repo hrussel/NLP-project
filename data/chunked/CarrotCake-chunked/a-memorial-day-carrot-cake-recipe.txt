@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Generously grease 2 9-inch round cake pans .
+PREDID: 0
+PRED: grease
+  DOBJ: 2 9-inch round cake pans
+  OARG: generously
+
+
+SENTID: 2
+SENT: Stir almond flour , sea salt , cinnamon , baking soda , and nutmeg together in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: almond flour , sea salt , cinnamon , baking soda , nutmeg
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Beat eggs , agave nectar , and grapeseed oil together in a separate large bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , agave nectar , grapeseed oil
+  PARG: a separate large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir carrots , raisins , and walnuts into the egg mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: carrots , raisins , walnuts
+  PARG: the egg mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Stir carrot mixture into flour mixture to form a batter ;
+PREDID: 0
+PRED: stir
+  DOBJ: carrot mixture
+  PARG: flour mixture
+    PREP: into
+  PARG: form a batter
+    PREP: to
+
+
+SENTID: 6
+SENT: pour into prepared cake pans .
+PREDID: 0
+PRED: pour
+  PARG: prepared cake pans
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until a toothpick inserted into the center comes out clean , about 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , about 35 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pans
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

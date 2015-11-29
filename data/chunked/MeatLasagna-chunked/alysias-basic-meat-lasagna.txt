@@ -1,0 +1,187 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a skillet over medium heat season ground beef with garlic powder and oregano .
+PREDID: 0
+PRED: season
+  DOBJ: ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: garlic powder, oregano
+    PREP: with
+
+
+SENTID: 2
+SENT: Brown the meat and drain .
+PREDID: 0
+PRED: brown
+  DOBJ: the meat
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 3
+SENT: In a large sauce pan add spaghetti sauce , tomato sauce , and oregano ;
+PREDID: 0
+PRED: add
+  DOBJ: spaghetti sauce , tomato sauce , oregano
+  PARG: a large sauce pan
+    PREP: in
+
+
+SENTID: 4
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a skillet heat olive oil .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+
+
+SENTID: 6
+SENT: Saute garlic and onions for about 5 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: garlic, onions
+  PARG: about 5 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Mix sauteed onions and garlic with meat into the sauce and cook for 15 to 20 minutes .
+PREDID: 0
+PRED: mix
+  DOBJ: sauteed onions, garlic
+  PARG: meat
+    PREP: with
+  PARG: the sauce
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: 15 to 20 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Combine mozzarella and provolone cheeses in a medium bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: mozzarella, provolone cheeses
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: In a medium bowl mix ricotta cheese , eggs , milk , and oregano .
+PREDID: 0
+PRED: mix
+  DOBJ: ricotta cheese , eggs , milk , oregano
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Layer a 9x13 inch baking pan with just enough sauce to cover the bottom of the pan .
+PREDID: 0
+PRED: layer
+  DOBJ: a 9x13 inch baking pan
+  PARG: just
+    PREP: with
+  OARG: enough
+
+PREDID: 1
+PRED: sauce
+  PARG: cover the bottom of the pan
+    PREP: to
+
+
+SENTID: 11
+SENT: Lay three lasagna noodles in the pan .
+PREDID: 0
+PRED: lay
+  DOBJ: three lasagna noodles
+  PARG: the pan
+    PREP: in
+
+
+SENTID: 12
+SENT: Cover with sauce , then with ricotta mixture then sprinkle with mozzarella/provolone mixture ;
+PREDID: 0
+PRED: cover
+  PARG: sauce
+    PREP: with
+  PARG: ricotta mixture
+    PREP: with
+  OARG: then
+  OARG: then
+
+PREDID: 1
+PRED: sprinkle
+  PARG: mozzarella/provolone mixture
+    PREP: with
+
+
+SENTID: 13
+SENT: repeat layering .
+PREDID: 0
+PRED: repeat
+  DOBJ: layering
+
+
+SENTID: 14
+SENT: Finish with a layer of noodles and remaining sauce .
+PREDID: 0
+PRED: finish
+  PARG: a layer of noodles, remaining sauce
+    PREP: with
+
+
+SENTID: 15
+SENT: Sprinkle with parmesan cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake covered in a preheated oven at 375 degrees for 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: covered
+  PARG: a preheated oven
+    PREP: in
+  PARG: 375 degrees
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 17
+SENT: Uncover and bake for 15 minutes .
+PREDID: 0
+PRED: uncover
+  PARG: 15 minutes
+    PREP: for
+
+PREDID: 1
+PRED: bake
+

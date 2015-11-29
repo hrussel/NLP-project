@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , combine onion , garlic , and tomato paste .
+PREDID: 0
+PRED: combine
+  DOBJ: onion , garlic , tomato paste
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cover and cook for 5 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 5 minutes
+    PREP: for
+
+PREDID: 1
+PRED: cook
+
+
+SENTID: 2
+SENT: Stir in butter until melted .
+PREDID: 0
+PRED: stir
+  PARG: butter
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in flour , oregano , cumin , chili powder , tomatoes and beef .
+PREDID: 0
+PRED: stir
+  PARG: flour , oregano , cumin , chili powder , tomatoes, beef
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook uncovered for 8 minutes , stirring occasionally .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered
+  PARG: 8 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Stir in the beans and cook for another 4 minutes , stirring occasionally .
+PREDID: 0
+PRED: stir
+  PARG: the beans
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: another 4 minutes , stirring
+    PREP: for
+  OARG: occasionally
+

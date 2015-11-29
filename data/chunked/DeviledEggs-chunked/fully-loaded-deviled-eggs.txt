@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: Place eggs into a large pot and cover with lightly salted water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: lightly salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil and reduce heat to medium ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 2
+SENT: boil eggs for 10 to 12 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: eggs
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain the boiling water and fill pot with cold water .
+PREDID: 0
+PRED: drain
+  DOBJ: the boiling water
+
+PREDID: 1
+PRED: fill
+  DOBJ: pot
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: After 2 to 3 minutes , pour off water and replace with more cold water .
+PREDID: 0
+PRED: pour
+  PARG: 2 to 3 minutes
+    PREP: after
+  PARG: water
+    PREP: off
+
+PREDID: 1
+PRED: replace
+  PARG: more cold water
+    PREP: with
+
+
+SENTID: 5
+SENT: Repeat until eggs are fully chilled , 10 to 15 minutes .
+PREDID: 0
+PRED: repeat
+  PARG: eggs are fully chilled , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Peel eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+
+SENTID: 7
+SENT: Heat vegetable oil in a small skillet over medium heat and cook and stir onion until translucent , about 5 minutes .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a small skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: onion
+
+PREDID: 2
+PRED: stir
+  PARG: translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove from heat and let cool .
+PREDID: 0
+PRED: remove
+  PARG: heat, let cool
+    PREP: from
+
+
+SENTID: 9
+SENT: Slice eggs in half lengthwise and scoop yolks into a bowl ;
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: scoop
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 10
+SENT: transfer egg white halves to a plate .
+PREDID: 0
+PRED: transfer
+  DOBJ: egg white halves
+  PARG: a plate
+    PREP: to
+
+
+SENTID: 11
+SENT: Mash egg yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: egg yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 12
+SENT: stir in sour cream , mayonnaise , ranch dressing , Dijon mustard , garlic powder , onion powder , and lemon pepper seasoning until yolk mixture is smooth .
+PREDID: 0
+PRED: stir
+  PARG: sour cream , mayonnaise , ranch dressing , dijon mustard , garlic powder , onion powder , lemon pepper seasoning
+    PREP: in
+  PARG: yolk mixture is smooth
+    PREP: until
+
+
+SENTID: 13
+SENT: Stir in bacon bits and Cheddar cheese .
+PREDID: 0
+PRED: stir
+  PARG: bacon bits, cheddar cheese
+    PREP: in
+
+
+SENTID: 14
+SENT: Generously fill egg halves with filling and sprinkle each deviled egg with paprika .
+PREDID: 0
+PRED: fill
+  DOBJ: egg halves
+  PARG: filling
+    PREP: with
+  OARG: generously
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: each deviled egg
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 15
+SENT: Refrigerate until chilled before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled before serving
+    PREP: until
+

@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Add whole potatoes to large pot of boiling , salted water .
+PREDID: 0
+PRED: add
+  DOBJ: whole potatoes
+  PARG: large pot of boiling , salted water
+    PREP: to
+
+
+SENTID: 2
+SENT: Boil for 20 minutes , or until tender .
+PREDID: 0
+PRED: boil
+  PARG: 20 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove potatoes from the water and set aside to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: potatoes
+  PARG: the water
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 5
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 7
+SENT: Peel and cube cooled potatoes , and transfer to a large bowl .
+PREDID: 0
+PRED: peel
+  DOBJ: cooled potatoes
+
+PREDID: 1
+PRED: cube
+
+PREDID: 2
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 8
+SENT: Add onion , mayonnaise , cheese , salt and pepper , and mix together with the potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: onion , mayonnaise , cheese , salt, pepper
+
+PREDID: 1
+PRED: mix
+  PARG: the potatoes
+    PREP: with
+  OARG: together
+
+
+SENTID: 9
+SENT: Place mixture in a lightly oiled 9x11 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: mixture
+  PARG: a lightly oiled 9x11 inch baking dish
+    PREP: in
+
+
+SENTID: 10
+SENT: Top with the crumbled bacon and the olives .
+PREDID: 0
+PRED: top
+  PARG: the crumbled bacon, the olives
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake uncovered for 40 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 40 minutes
+    PREP: for
+

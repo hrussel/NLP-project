@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Melt butter in a large pot over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the stew meat , caraway seeds , onion and paprika .
+PREDID: 0
+PRED: add
+  DOBJ: the stew meat , caraway seeds , onion, paprika
+
+
+SENTID: 2
+SENT: Cook and stir until the meat is browned , and the onions are translucent .
+PREDID: 0
+PRED: cook
+  PARG: the meat is browned , the onions are translucent
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Add the garlic and lemon zest , and cook for about a minute , then stir in the tomato paste and beef consomme , adding water if necessary to cover the meat .
+PREDID: 0
+PRED: add
+  DOBJ: the garlic, lemon zest
+
+PREDID: 1
+PRED: cook
+  PARG: about a minute
+    PREP: for
+  OARG: then
+
+PREDID: 2
+PRED: stir
+  PARG: the tomato paste, beef consomme , adding water
+    PREP: in
+  PARG: necessary
+    PREP: if
+  PARG: cover the meat
+    PREP: to
+
+
+SENTID: 4
+SENT: Cover , and simmer over medium-low heat for 1Ê1/2 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: medium-low heat
+    PREP: over
+  PARG: 1Ê1/2 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: Just before the meat is done cooking , bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: the meat is done cooking
+    PREP: before
+  PARG: a boil
+    PREP: to
+  OARG: just
+
+
+SENTID: 6
+SENT: Add egg noodles , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain and serve the goulash spooned over the egg noodles .
+PREDID: 0
+PRED: drain
+  DOBJ: the goulash spooned
+
+PREDID: 1
+PRED: serve
+  PARG: the egg noodles
+    PREP: over
+

@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease or line 10 muffin cups . In a medium bowl , combine eggs and bananas .
+PREDID: 0
+PRED: grease
+  DOBJ: 10 muffin cups
+  OARG: lightly
+
+PREDID: 1
+PRED: line
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 2
+PRED: combine
+  DOBJ: eggs, bananas
+
+
+SENTID: 2
+SENT: In a separate bowl , mix together flour , salt , sugar and baking soda .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , salt , sugar, baking soda
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir banana mixture into flour mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: banana mixture
+  PARG: flour mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: Fold in walnuts if desired .
+PREDID: 0
+PRED: fold
+  PARG: walnuts
+    PREP: in
+  PARG: desired
+    PREP: if
+
+
+SENTID: 5
+SENT: Pour batter into prepared muffin cups . Bake in preheated oven for 20 to 25 minutes , or until a toothpick inserted into center of a muffin comes out clean .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 to 25 minutes
+    PREP: for
+  PARG: a toothpick inserted into center of a muffin comes out clean
+    PREP: until
+

@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a double boiler melt chocolate and butter or margarine .
+PREDID: 0
+PRED: melt
+  DOBJ: chocolate, butter or margarine
+  PARG: a double boiler
+    PREP: in
+
+
+SENTID: 2
+SENT: Combine sugar and corn syrup in a medium saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar, corn syrup
+  PARG: a medium saucepan
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a rapid boil and allow mixture to boil 2 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a rapid boil
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  DOBJ: mixture
+  PARG: boil 2 minutes
+    PREP: to
+
+
+SENTID: 4
+SENT: Add chocolate mixture , stirring well .
+PREDID: 0
+PRED: add
+  DOBJ: chocolate mixture , stirring
+  OARG: well
+
+
+SENTID: 5
+SENT: Place eggs in a medium bowl .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: While whisking constantly , pour chocolate mixture over eggs .
+PREDID: 0
+PRED: pour
+  DOBJ: chocolate mixture
+  PARG: whisking
+    PREP: while
+  PARG: eggs
+    PREP: over
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Whisk in vanilla extract , then stir in pecans .
+PREDID: 0
+PRED: whisk
+  PARG: vanilla extract
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour mixture into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 45 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 to 50 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+
+
+SENTID: 11
+SENT: Top each slice with a spoonful of whipped topping .
+PREDID: 0
+PRED: top
+  DOBJ: each slice
+  PARG: a spoonful of whipped topping
+    PREP: with
+

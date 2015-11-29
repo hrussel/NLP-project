@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: Remove any fat and gristle from the roast and cut into strips 1/2 inch thick by 2 inches long .
+PREDID: 0
+PRED: remove
+  DOBJ: any fat, gristle
+  PARG: the roast
+    PREP: from
+
+PREDID: 1
+PRED: cut
+  PARG: strips 1/2 inch thick
+    PREP: into
+  PARG: 2 inches
+    PREP: by
+  OARG: long
+
+
+SENTID: 1
+SENT: Season with 1/2 teaspoon of both salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: 1/2 teaspoon of both salt, pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large skillet over medium heat , melt the butter and brown the beef strips quickly , then push the beef strips off to one side .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: brown
+  DOBJ: the beef strips
+  OARG: quickly
+  OARG: then
+
+PREDID: 2
+PRED: push
+  DOBJ: the beef strips
+  PARG: to one side
+    PREP: off
+
+
+SENTID: 3
+SENT: Add the onions and cook slowly for 3 to 5 minutes , then push to the side with the beef strips .
+PREDID: 0
+PRED: add
+  DOBJ: the onions
+
+PREDID: 1
+PRED: cook
+  PARG: 3 to 5 minutes
+    PREP: for
+  OARG: slowly
+  OARG: then
+
+PREDID: 2
+PRED: push
+  PARG: the side
+    PREP: to
+  PARG: the beef strips
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir the flour into the juices on the empty side of the pan .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour
+  PARG: the juices
+    PREP: into
+  PARG: the empty side of the pan
+    PREP: on
+
+
+SENTID: 5
+SENT: Pour in beef broth and bring to a boil , stirring constantly .
+PREDID: 0
+PRED: pour
+  PARG: beef broth
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil , stirring
+    PREP: to
+  OARG: constantly
+
+
+SENTID: 6
+SENT: Lower the heat and stir in mustard .
+PREDID: 0
+PRED: lower
+  DOBJ: the heat
+
+PREDID: 1
+PRED: stir
+  PARG: mustard
+    PREP: in
+
+
+SENTID: 7
+SENT: Cover and simmer for 1 hour or until the meat is tender .
+PREDID: 0
+PRED: cover
+  PARG: 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: simmer
+  PARG: the meat is tender
+    PREP: until
+
+
+SENTID: 8
+SENT: Five minutes before serving , stir in the mushrooms , sour cream , and white wine .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+  PARG: the mushrooms , sour cream , white wine
+    PREP: in
+  OARG: five minutes
+
+
+SENTID: 9
+SENT: Heat briefly then salt and pepper to taste .
+PREDID: 0
+PRED: heat
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+  OARG: then
+  OARG: briefly
+

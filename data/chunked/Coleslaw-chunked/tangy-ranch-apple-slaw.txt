@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Whisk sour cream , sweetener , apple cider vinegar , and ranch dressing mix in a bowl until thoroughly combined .
+PREDID: 0
+PRED: whisk
+  DOBJ: sour cream , sweetener , apple cider vinegar , ranch dressing
+
+PREDID: 1
+PRED: mix
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 1
+SENT: Toss green apples , shredded cabbage , and green onions in a salad bowl and pour dressing over the slaw ;
+PREDID: 0
+PRED: toss
+  DOBJ: green apples , shredded cabbage , green onions
+  PARG: a salad bowl
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: dressing
+  PARG: the slaw
+    PREP: over
+
+
+SENTID: 2
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Cover bowl with plastic wrap and chill at least 20 minutes or up to 4 hours before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: chill
+  PARG: least 20 minutes
+    PREP: at
+  PARG: 4 hours
+    PREP: to
+  PARG: serving
+    PREP: before
+  OARG: up
+

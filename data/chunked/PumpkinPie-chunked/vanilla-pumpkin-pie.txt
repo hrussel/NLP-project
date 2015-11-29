@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine pumpkin , evaporated milk , eggs , sugar , flour , salt vanilla and cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin , evaporated milk , eggs , sugar , flour , salt vanilla, cinnamon
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake for 20 minutes at 450 degrees F -LRB- 230 degrees C -RRB- then turn oven temperature down to 350 degrees F -LRB- 175 degrees C -RRB- and continue baking 40 more minutes or until a knife inserted in center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 20 minutes
+    PREP: for
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: at
+  OARG: then
+
+PREDID: 1
+PRED: turn
+  DOBJ: oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+  OARG: down
+
+PREDID: 2
+PRED: continue
+  PARG: a knife inserted in center comes out clean
+    PREP: until
+  OARG: baking 40 more minutes
+
+
+SENTID: 4
+SENT: Cool completely on a wire rack before serving .
+PREDID: 0
+PRED: cool
+  PARG: a wire rack
+    PREP: on
+  PARG: serving
+    PREP: before
+  OARG: completely
+

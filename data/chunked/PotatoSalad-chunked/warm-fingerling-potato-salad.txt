@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil and add potatoes .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: potatoes
+
+
+SENTID: 1
+SENT: Boil until potatoes are tender , 10 to 13 minutes ;
+PREDID: 0
+PRED: boil
+  PARG: potatoes are tender , 10 to 13 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Let cool until potatoes are warm .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: potatoes are warm
+    PREP: until
+
+
+SENTID: 4
+SENT: Whisk yogurt , sour cream , lemon zest , lemon juice , mustard , salt , and black pepper together in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: yogurt , sour cream , lemon zest , lemon juice , mustard , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Gently fold potatoes into dressing .
+PREDID: 0
+PRED: fold
+  DOBJ: potatoes
+  PARG: dressing
+    PREP: into
+  OARG: gently
+
+
+SENTID: 6
+SENT: Stir arugula leaves into potato mixture and serve .
+PREDID: 0
+PRED: stir
+  DOBJ: arugula leaves
+  PARG: potato mixture
+    PREP: into
+
+PREDID: 1
+PRED: serve
+

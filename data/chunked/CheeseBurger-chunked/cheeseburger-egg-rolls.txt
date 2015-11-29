@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: Place the ground beef and onion in a skillet over medium heat , and cook and stir for about 10 minutes , breaking up the beef into crumbles as it cooks .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef, onion
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat , cook
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  DOBJ: the beef
+  PARG: about 10 minutes , breaking
+    PREP: for
+  PARG: crumbles
+    PREP: into
+  PARG: it cooks
+    PREP: as
+  OARG: up
+
+
+SENTID: 1
+SENT: Drain the meat and transfer to a bowl .
+PREDID: 0
+PRED: drain
+  DOBJ: the meat
+
+PREDID: 1
+PRED: transfer
+  PARG: a bowl
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir in the chopped pickles , shredded cheese , and mustard , and mix together well .
+PREDID: 0
+PRED: stir
+  PARG: the chopped pickles , shredded cheese , mustard
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: together
+  OARG: well
+
+
+SENTID: 3
+SENT: Line a baking sheet with parchment paper .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: parchment paper
+    PREP: with
+
+
+SENTID: 4
+SENT: Place a bowl of water next to your work surface .
+PREDID: 0
+PRED: place
+  DOBJ: a bowl of water next
+  PARG: your work surface
+    PREP: to
+
+
+SENTID: 5
+SENT: Remove an egg roll wrapper from the stack , and cover the remaining wrappers with a damp paper towel to prevent them from drying out .
+PREDID: 0
+PRED: remove
+  DOBJ: an egg roll wrapper
+  PARG: the stack
+    PREP: from
+
+PREDID: 1
+PRED: cover
+  DOBJ: the remaining wrappers
+  PARG: a damp paper towel
+    PREP: with
+  PARG: drying
+    PREP: from
+  OARG: to prevent them
+
+
+SENTID: 6
+SENT: Place about 1/4 cup of filling on the wrapper , and fold the top corner down over the filling .
+PREDID: 0
+PRED: place
+  PARG: 1/4 cup of filling
+    PREP: about
+  PARG: the wrapper
+    PREP: on
+
+PREDID: 1
+PRED: fold
+  DOBJ: the top corner
+  PARG: the filling
+    PREP: over
+  OARG: down
+
+
+SENTID: 7
+SENT: Moisten the last corner with a little water , and finish wrapping so the moistened corner tightly seals to the egg roll , and there are no gaps to let the filling leak out .
+PREDID: 0
+PRED: moisten
+  DOBJ: the last corner
+  PARG: a little water
+    PREP: with
+
+PREDID: 1
+PRED: finish
+  DOBJ: the moistened corner
+  PARG: the egg roll
+    PREP: to
+  PARG: let the filling leak
+    PREP: to
+  OARG: so
+  OARG: wrapping
+  OARG: tightly
+  OARG: there
+
+
+SENTID: 8
+SENT: Heat the oil in a deep saucepan or deep fryer until a thermometer registers 365 degrees F -LRB- 185 degrees C -RRB- .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a deep saucepan
+    PREP: in
+  PARG: a thermometer registers 365 degrees f -lrb- 185 degrees c -rrb-
+    PREP: until
+  OARG: deep
+
+
+SENTID: 9
+SENT: Carefully place 2 or 3 egg rolls at a time into the hot oil , and fry for about 4 or 5 minutes , turning the egg rolls over once , until golden brown .
+PREDID: 0
+PRED: place
+  DOBJ: 2 or 3 egg rolls
+  PARG: a time
+    PREP: at
+  PARG: the hot oil
+    PREP: into
+  OARG: carefully
+
+PREDID: 1
+PRED: fry
+  DOBJ: turning the egg rolls
+  PARG: about 4 or 5 minutes
+    PREP: for
+  PARG: once
+    PREP: over
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove the egg rolls with a tongs , and drain on paper towels .
+PREDID: 0
+PRED: remove
+  DOBJ: the egg rolls
+  PARG: a tongs
+    PREP: with
+
+PREDID: 1
+PRED: drain
+  PARG: paper towels
+    PREP: on
+

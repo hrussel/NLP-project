@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Combine the chicken , oyster sauce , and soy sauce in a mixing bowl until the chicken is evenly coated with the sauce ;
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , oyster sauce , soy sauce
+  PARG: a mixing bowl
+    PREP: in
+  PARG: the chicken is evenly coated with the sauce
+    PREP: until
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat the vegetable oil in a wok or large skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the vegetable oil
+  PARG: a wok or large skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Stir in the garlic and onion ;
+PREDID: 0
+PRED: stir
+  PARG: the garlic, onion
+    PREP: in
+
+
+SENTID: 4
+SENT: Add the chicken and marinade .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken, marinade
+
+
+SENTID: 5
+SENT: Cook and stir until the chicken has browned and is no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the chicken has browned, is no longer pink , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Pour in 1/2 cup of water ;
+PREDID: 0
+PRED: pour
+  PARG: 1/2 cup of water
+    PREP: in
+
+
+SENTID: 7
+SENT: season with pepper and sugar .
+PREDID: 0
+PRED: season
+  PARG: pepper, sugar
+    PREP: with
+
+
+SENTID: 8
+SENT: Add the water chestnuts , snow peas , and broccoli .
+PREDID: 0
+PRED: add
+  DOBJ: the water chestnuts , snow peas , broccoli
+
+
+SENTID: 9
+SENT: Cover ;
+PREDID: 0
+PRED: cover
+
+
+SENTID: 10
+SENT: boil until the vegetables are just tender , about 5 minutes .
+PREDID: 0
+PRED: boil
+  PARG: the vegetables are just tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Dissolve the cornstarch in 1/4 cup of water .
+PREDID: 0
+PRED: dissolve
+  DOBJ: the cornstarch
+  PARG: 1/4 cup of water
+    PREP: in
+
+
+SENTID: 12
+SENT: Stir into the boiling mixture ;
+PREDID: 0
+PRED: stir
+  PARG: the boiling mixture
+    PREP: into
+
+
+SENTID: 13
+SENT: cook until thick and no longer cloudy .
+PREDID: 0
+PRED: cook
+  PARG: thick, no longer cloudy
+    PREP: until
+

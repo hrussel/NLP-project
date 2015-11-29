@@ -1,0 +1,67 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 63	Grease and flour
+T3	predicate 93 106	Sift together
+T4	predicate 150 159	Set aside
+T5	predicate 178 182	beat
+T6	predicate 217 223	Mix in
+T7	predicate 243 250	Stir in
+T8	predicate 274 280	Spread
+T9	predicate 322 326	Bake
+T10	predicate 440 453	Allow to cool
+T11	arg_location 327 348	in the preheated oven
+T12	Evolution 330 348	the preheated oven
+E1	Evolution:T12 Cause:T1
+T13	arg_duration 349 438	for 20 minutes, or until a toothpick inserted into the center of the cake comes out clean
+R1	location Arg1:T9 Arg2:T11	
+R2	duration Arg1:T9 Arg2:T13	
+R3	object Arg1:T10 Arg2:T9	
+R4	object Arg1:T9 Arg2:T8	
+T14	arg_object 284 285	t
+R5	object Arg1:T8 Arg2:T14	
+T15	arg_location 288 320	into a 10x15 inch jelly roll pan
+R6	location Arg1:T8 Arg2:T15	
+T16	Evolution 281 287	batter
+E2	Evolution:T16 Cause:T7
+T17	arg_object 251 272	the baby food carrots
+R7	object Arg1:T7 Arg2:T17	
+R8	co-object Arg1:T7 Arg2:T6	
+T18	arg_object 224 241	the flour mixture
+T19	Evolution 224 241	the flour mixture
+E3	Evolution:T19 Cause:T4
+R9	object Arg1:T6 Arg2:T18	
+R10	co-object Arg1:T6 Arg2:T5	
+T20	arg_object 183 188	sugar
+T21	arg_object 190 193	oil
+T22	arg_object 198 202	eggs
+T23	arg_duration 203 215	until smooth
+T24	arg_location 161 176	In a large bowl
+R11	location Arg1:T5 Arg2:T24	
+R12	object Arg1:T5 Arg2:T20	
+R13	object Arg1:T5 Arg2:T21	
+R14	object Arg1:T5 Arg2:T22	
+R15	duration Arg1:T5 Arg2:T23	
+R16	object Arg1:T4 Arg2:T3	
+T25	arg_object 107 116	the flour
+T26	Evolution 293 320	a 10x15 inch jelly roll pan
+E4	Evolution:T26 Cause:T2
+T27	arg_object 118 129	baking soda
+T28	arg_object 131 139	cinnamon
+T29	arg_object 144 148	salt
+R17	object Arg1:T3 Arg2:T25	
+R18	object Arg1:T3 Arg2:T27	
+R19	object Arg1:T3 Arg2:T28	
+R20	object Arg1:T3 Arg2:T29	
+T30	arg_object 64 91	a 10x15 inch jelly roll pan
+R21	object Arg1:T2 Arg2:T30	
+T31	arg_object 8 12	oven
+R22	object Arg1:T1 Arg2:T31	
+T32	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R23	duration Arg1:T1 Arg2:T32	
+T33	ingredient 107 116	the flour
+T34	ingredient 118 129	baking soda
+T35	ingredient 131 139	cinnamon
+T36	ingredient 144 148	salt
+T37	ingredient 183 188	sugar
+T38	ingredient 190 193	oil
+T39	ingredient 198 202	eggs
+T40	ingredient 251 272	the baby food carrots

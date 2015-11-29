@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Cook ground beef , onion and green pepper in large skillet over medium heat 5 minutes or until beef is no longer pink ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onion, green pepper
+  PARG: large skillet
+    PREP: in
+  PARG: medium heat 5 minutes
+    PREP: over
+  PARG: beef is no longer pink
+    PREP: until
+
+
+SENTID: 1
+SENT: pour off drippings .
+PREDID: 0
+PRED: pour
+  PARG: drippings
+    PREP: off
+
+
+SENTID: 2
+SENT: Add tomatoes , water and taco seasoning ;
+PREDID: 0
+PRED: add
+  DOBJ: tomatoes , water, taco seasoning
+
+
+SENTID: 3
+SENT: simmer 5 minutes , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  OARG: 5 minutes , stirring
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Toss pasta with meat mixture .
+PREDID: 0
+PRED: toss
+  DOBJ: pasta
+  PARG: meat mixture
+    PREP: with
+
+
+SENTID: 5
+SENT: Spoon 3 cups of mixture into an 11x7-inch baking dish .
+PREDID: 0
+PRED: spoon
+  DOBJ: 3 cups of mixture
+  PARG: an 11x7-inch baking dish
+    PREP: into
+
+
+SENTID: 6
+SENT: Sprinkle with 1 cup cheese ;
+PREDID: 0
+PRED: sprinkle
+  PARG: 1 cup cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: top with remaining meat mixture .
+PREDID: 0
+PRED: top
+  PARG: remaining meat mixture
+    PREP: with
+
+
+SENTID: 8
+SENT: Cover with foil ;
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+
+
+SENTID: 9
+SENT: bake in preheated 375 degrees F oven 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated 375 degrees f oven 30 minutes
+    PREP: in
+
+
+SENTID: 10
+SENT: Uncover ;
+PREDID: 0
+PRED: uncover
+
+
+SENTID: 11
+SENT: sprinkle with remaining cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: remaining cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Return to oven 5 minutes or until cheese is melted .
+PREDID: 0
+PRED: return
+  PARG: oven 5 minutes
+    PREP: to
+  PARG: cheese is melted
+    PREP: until
+

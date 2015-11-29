@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Whisk together the chicken broth , soy sauce , 1 tablespoon cornstarch , 3/4 teaspoon ground ginger , and brown sugar in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the chicken broth , soy sauce , 1 tablespoon cornstarch , 3/4 teaspoon ground ginger , brown sugar
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Combine 1/4 cup cornstarch , 1Ê1/2 teaspoons ground ginger , and curry powder in a large , sealable plastic bag and shake to mix .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/4 cup cornstarch , 1Ê1/2 teaspoons ground ginger , curry powder
+  PARG: a large , sealable plastic bag, shake
+    PREP: in
+  PARG: mix
+    PREP: to
+
+
+SENTID: 2
+SENT: Add the chicken to the bag and toss until well coated .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+  PARG: the bag
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 3
+SENT: Heat the olive oil and sesame oil in a wok or large skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil, sesame oil
+  PARG: a wok or large skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Cook and stir the chicken in the hot oil until golden brown , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: golden brown , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Add the green onions and bell pepper to the pan , cooking another 2 to 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the green onions, bell pepper
+  PARG: the pan , cooking another 2 to 3 minutes
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir the sauce mixture into the chicken and vegetable mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the sauce mixture
+  PARG: the chicken, vegetable mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: reduce heat to medium .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 8
+SENT: Sprinkle sesame seeds over the dish and bring to a boil ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: sesame seeds
+  PARG: the dish
+    PREP: over
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: allow to boil until the sauce thickens , 3 to 5 minutes .
+PREDID: 0
+PRED: allow
+  PARG: boil
+    PREP: to
+  PARG: the sauce thickens , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove from heat ;
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 11
+SENT: add cashews and toss to serve .
+PREDID: 0
+PRED: add
+  DOBJ: cashews
+
+PREDID: 1
+PRED: toss
+  PARG: serve
+    PREP: to
+

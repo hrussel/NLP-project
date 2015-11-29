@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Place chicken in a large pot of lightly salted water , and bring to a boil ;
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: a large pot of lightly salted water
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: simmer until tender and cooked through , about 25 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: tender, cooked through , about 25 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: When cool enough to handle , chop coarsely , and place into a large bowl .
+PREDID: 0
+PRED: chop
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+  OARG: coarsely
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 4
+SENT: In a separate bowl , stir together mayonnaise , curry powder , lemon juice , and soy sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , curry powder , lemon juice , soy sauce
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir into the chopped chicken 2Ê1/4 cups of the toasted almonds .
+PREDID: 0
+PRED: stir
+  PARG: the chopped chicken 2Ê1/4 cups of the toasted almonds
+    PREP: into
+
+
+SENTID: 6
+SENT: Stir in grapes , celery , water chestnuts , and pineapple .
+PREDID: 0
+PRED: stir
+  PARG: grapes , celery , water chestnuts , pineapple
+    PREP: in
+
+
+SENTID: 7
+SENT: Gently fold in all but 1/2 cup of the dressing .
+PREDID: 0
+PRED: fold
+  PARG: all but 1/2 cup of the dressing
+    PREP: in
+  OARG: gently
+
+
+SENTID: 8
+SENT: Cover , and refrigerate salad and reserved dressing for several hours -LRB- or overnight -RRB- .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: salad, reserved dressing
+  PARG: several hours -lrb-
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 9
+SENT: Before serving , adjust dressing to taste , and garnish with paprika and remaining 1/4 cup almonds .
+PREDID: 0
+PRED: adjust
+  DOBJ: dressing
+  PARG: serving
+    PREP: before
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: garnish
+  DOBJ: remaining 1/4 cup almonds
+  PARG: paprika
+    PREP: with
+

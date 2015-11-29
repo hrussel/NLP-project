@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: Preheat oven to 475 degrees F -LRB- 245 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 475 degrees f -lrb- 245 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Heat 1 teaspoon olive oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: 1 teaspoon olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Transfer pancetta to a paper towel-lined plate .
+PREDID: 0
+PRED: transfer
+  DOBJ: pancetta
+  PARG: a paper towel-lined plate
+    PREP: to
+
+
+SENTID: 3
+SENT: Pour remaining 5 teaspoons olive oil into the same skillet ;
+PREDID: 0
+PRED: pour
+  DOBJ: remaining 5 teaspoons olive oil
+  PARG: the same skillet
+    PREP: into
+
+
+SENTID: 4
+SENT: cook and stir garlic until fragrant , about 20 seconds .
+PREDID: 0
+PRED: cook
+  DOBJ: garlic
+
+PREDID: 1
+PRED: stir
+  PARG: fragrant , about 20 seconds
+    PREP: until
+
+
+SENTID: 5
+SENT: Add Brussels sprouts to garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: brussels sprouts
+  PARG: garlic
+    PREP: to
+
+
+SENTID: 6
+SENT: cook , stirring constantly , until sprouts begin to brown , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: sprouts begin to brown , 5 to 10 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Transfer sprouts and garlic to a bowl and crumble cooled pancetta over the mixture .
+PREDID: 0
+PRED: transfer
+  DOBJ: sprouts, garlic
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: crumble
+  DOBJ: cooled pancetta
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 8
+SENT: Add mozzarella cheese and fennel seed ;
+PREDID: 0
+PRED: add
+  DOBJ: mozzarella cheese, fennel seed
+
+
+SENTID: 9
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 10
+SENT: Place pizza crust onto a baking sheet and spread Brussels sprouts mixture atop pizza crust .
+PREDID: 0
+PRED: place
+  DOBJ: pizza crust
+  PARG: a baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: spread
+  DOBJ: brussels sprouts mixture
+  PARG: pizza crust
+    PREP: atop
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until cheese is melted and bubbling , about 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is melted, bubbling , about 10 minutes
+    PREP: until
+

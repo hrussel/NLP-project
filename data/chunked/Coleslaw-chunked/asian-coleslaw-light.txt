@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Place ramen noodles in colander ;
+PREDID: 0
+PRED: place
+  DOBJ: ramen noodles
+  PARG: colander
+    PREP: in
+
+
+SENTID: 1
+SENT: break into quarters .
+PREDID: 0
+PRED: break
+  PARG: quarters
+    PREP: into
+
+
+SENTID: 2
+SENT: Pour boiling water over noodles to soften slightly .
+PREDID: 0
+PRED: pour
+  DOBJ: boiling water
+  PARG: noodles
+    PREP: over
+  OARG: to soften
+  OARG: slightly
+
+
+SENTID: 3
+SENT: Use a fork to separate noodles .
+PREDID: 0
+PRED: use
+  DOBJ: a fork
+  PARG: separate noodles
+    PREP: to
+
+
+SENTID: 4
+SENT: Rinse quickly with cold water ;
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: with
+  OARG: quickly
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Make a dressing by whisking together the flavor packet from the ramen noodles , olive oil , vinegar , and sweetener in a bowl .
+PREDID: 0
+PRED: make
+  DOBJ: the flavor packet
+  PARG: whisking
+    PREP: by
+  PARG: the ramen noodles , olive oil , vinegar , sweetener
+    PREP: from
+  PARG: a bowl
+    PREP: in
+  OARG: together
+  OARG: a dressing
+
+
+SENTID: 7
+SENT: Place the ramen noodles , coleslaw mix , green onions , and sunflower seeds in a large bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: the ramen noodles , coleslaw mix , green onions , sunflower seeds
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 9
+SENT: Drizzle dressing over the coleslaw mixture and continue to toss until entire mixture is coated with dressing .
+PREDID: 0
+PRED: drizzle
+  DOBJ: dressing
+  PARG: the coleslaw mixture
+    PREP: over
+
+PREDID: 1
+PRED: continue
+  PARG: toss
+    PREP: to
+  PARG: entire mixture is coated with dressing
+    PREP: until
+
+
+SENTID: 10
+SENT: Chill for 2 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: 2 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

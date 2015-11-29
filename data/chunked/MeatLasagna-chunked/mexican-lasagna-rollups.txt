@@ -1,0 +1,199 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the lasagna noodles , about 3 or 4 at a time , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the lasagna noodles
+    PREP: in
+  PARG: 3 or 4 at a time
+    PREP: about
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the noodles uncovered , stirring occasionally , until the pasta has cooked through but is still firm to the bite , about 10 minutes per batch .
+PREDID: 0
+PRED: cook
+  DOBJ: the noodles uncovered , stirring
+  PARG: the pasta has cooked through but is still firm to the bite , about 10 minutes per batch
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Grease a 9x13-inch baking dish , and spread the salsa evenly over the bottom of the dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+
+PREDID: 1
+PRED: spread
+  DOBJ: the salsa
+  PARG: the bottom of the dish
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Place the ground beef in a skillet over medium heat , sprinkle with taco seasoning , and cook and stir the meat , breaking it up as it cooks , until the meat is browned and crumbly , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: taco seasoning , cook
+    PREP: with
+
+PREDID: 2
+PRED: stir
+  DOBJ: the meat , breaking it
+  PARG: it cooks
+    PREP: as
+  PARG: the meat is browned, crumbly , about 10 minutes
+    PREP: until
+  OARG: up
+
+
+SENTID: 6
+SENT: Drain the fat , and place the meat in a large bowl .
+PREDID: 0
+PRED: drain
+  DOBJ: the fat
+
+PREDID: 1
+PRED: place
+  DOBJ: the meat
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix cottage cheese and Parmesan cheese into the meat .
+PREDID: 0
+PRED: mix
+  DOBJ: cottage cheese, parmesan cheese
+  PARG: the meat
+    PREP: into
+
+
+SENTID: 8
+SENT: Place a cooked lasagna noodle out flat , and spread about 1/3 cup of the cheese and meat mixture along the length of the noodle .
+PREDID: 0
+PRED: place
+  DOBJ: a cooked lasagna noodle
+  PARG: flat
+    PREP: out
+
+PREDID: 1
+PRED: spread
+  PARG: 1/3 cup of the cheese, meat mixture
+    PREP: about
+  PARG: the length of the noodle
+    PREP: along
+
+
+SENTID: 9
+SENT: Roll up the noodle , and place the filled rolls , seam sides down , into the prepared baking dish .
+PREDID: 0
+PRED: roll
+  DOBJ: the noodle
+  OARG: up
+
+PREDID: 1
+PRED: place
+  DOBJ: the filled rolls , seam sides
+  PARG: the prepared baking dish
+    PREP: into
+  OARG: down
+
+
+SENTID: 10
+SENT: Spoon about 1Ê1/2 tablespoons of the queso sauce over each roll .
+PREDID: 0
+PRED: spoon
+  PARG: 1Ê1/2 tablespoons of the queso sauce
+    PREP: about
+  PARG: each roll
+    PREP: over
+
+
+SENTID: 11
+SENT: Cover the dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until the sauce is hot and bubbling , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the sauce is hot, bubbling , about 40 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Uncover the dish , and spread the Mexican cheese blend over the rolls .
+PREDID: 0
+PRED: uncover
+  DOBJ: the dish
+
+PREDID: 1
+PRED: spread
+  DOBJ: the mexican cheese
+
+PREDID: 2
+PRED: blend
+  PARG: the rolls
+    PREP: over
+
+
+SENTID: 14
+SENT: Return to the oven , and bake until the cheese is melted , 8 to 10 more minutes .
+PREDID: 0
+PRED: return
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the cheese is melted , 8 to 10 more minutes
+    PREP: until
+

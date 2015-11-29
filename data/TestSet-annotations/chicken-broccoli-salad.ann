@@ -1,0 +1,53 @@
+T1	predicate 0 7	Combine
+T2	predicate 70 75	Whisk
+T3	predicate 146 150	Pour
+T4	predicate 194 198	toss
+T5	predicate 208 213	Cover
+T6	predicate 218 229	refrigerate
+T7	predicate 257 265	Sprinkle
+T8	arg_object 8 16	broccoli
+T9	arg_object 18 25	chicken
+T10	arg_object 27 34	walnuts
+T11	arg_object 40 52	green onions
+T12	arg_location 53 68	in a large bowl
+R1	object Arg1:T1 Arg2:T8	
+R2	object Arg1:T1 Arg2:T9	
+R3	object Arg1:T1 Arg2:T10	
+R4	object Arg1:T1 Arg2:T11	
+R5	location Arg1:T1 Arg2:T12	
+T13	arg_object 76 86	mayonnaise
+T14	arg_object 88 95	vinegar
+T15	arg_object 101 106	sugar
+T16	arg_location 116 125	in a bowl
+T17	arg_duration 126 144	until well blended
+R6	object Arg1:T2 Arg2:T13	
+R7	object Arg1:T2 Arg2:T14	
+R8	object Arg1:T2 Arg2:T15	
+R9	location Arg1:T2 Arg2:T16	
+R10	duration Arg1:T2 Arg2:T17	
+T18	arg_object 151 170	mayonnaise dressing
+T19	arg_co-object 171 192	over broccoli mixture
+R11	object Arg1:T3 Arg2:T18	
+R12	co-object Arg1:T3 Arg2:T19	
+T20	Evolution 151 170	mayonnaise dressing
+E1	Evolution:T20 Cause:T2
+T21	Evolution 176 192	broccoli mixture
+E2	Evolution:T21 Cause:T1
+T22	arg_other 199 206	to coat
+R13	other Arg1:T4 Arg2:T22	
+R14	object Arg1:T4 Arg2:T3	
+R15	object Arg1:T5 Arg2:T4	
+R16	object Arg1:T6 Arg2:T5	
+T23	arg_duration 230 243	until chilled
+R17	duration Arg1:T6 Arg2:T23	
+R18	object Arg1:T7 Arg2:T6	
+T24	arg_co-object 266 285	with crumbled bacon
+R19	co-object Arg1:T7 Arg2:T24	
+T25	ingredient 8 16	broccoli
+T26	ingredient 18 25	chicken
+T27	ingredient 27 34	walnuts
+T28	ingredient 40 52	green onions
+T29	ingredient 76 86	mayonnaise
+T30	ingredient 88 95	vinegar
+T31	ingredient 101 106	sugar
+T32	ingredient 271 285	crumbled bacon

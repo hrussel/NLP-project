@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13-inch casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain and transfer noodles to the prepared casserole dish ;
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: transfer
+  PARG: the prepared casserole dish
+    PREP: to
+
+
+SENTID: 5
+SENT: top with chicken , ham , and Swiss cheese .
+PREDID: 0
+PRED: top
+  PARG: chicken , ham , swiss cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Mix cream of chicken soup , milk , and sour cream together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: cream of chicken soup , milk , sour cream
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: spoon soup mixture over noodle mixture .
+PREDID: 0
+PRED: spoon
+  DOBJ: soup mixture
+  PARG: noodle mixture
+    PREP: over
+
+
+SENTID: 8
+SENT: Melt butter in a skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: cook and stir bread crumbs and Parmesan cheese in the melted butter until crumbs are coated with butter and cheese , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: bread crumbs, parmesan cheese
+
+PREDID: 1
+PRED: stir
+  PARG: the melted butter
+    PREP: in
+  PARG: crumbs are coated with butter, cheese , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Sprinkle bread crumb mixture over casserole .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: bread crumb mixture
+  PARG: casserole
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until casserole is bubbling and lightly browned , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole is bubbling, lightly browned , about 30 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Allow casserole to cool for 10 minutes before serving .
+PREDID: 0
+PRED: allow
+  DOBJ: casserole
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: to cool
+

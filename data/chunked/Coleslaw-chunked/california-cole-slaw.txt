@@ -1,0 +1,28 @@
+SENTID: 0
+SENT: In a large salad bowl , place the cabbage , onion , green bell pepper , red bell pepper and carrot .
+PREDID: 0
+PRED: place
+  DOBJ: the cabbage , onion , green bell pepper , red bell pepper, carrot
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Combine the vinegar , sugar , salt , pepper and vegetable oil in the bowl with the vegetables .
+PREDID: 0
+PRED: combine
+  DOBJ: the vinegar , sugar , salt , pepper, vegetable oil
+  PARG: the bowl
+    PREP: in
+  PARG: the vegetables
+    PREP: with
+
+
+SENTID: 2
+SENT: Toss the mixture until the vegetables are fully coated with the marinade .
+PREDID: 0
+PRED: toss
+  DOBJ: the mixture
+  PARG: the vegetables are fully coated with the marinade
+    PREP: until
+

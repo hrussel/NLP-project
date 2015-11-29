@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: Put all ingredients in the pasta machine .
+PREDID: 0
+PRED: put
+  DOBJ: all ingredients
+  PARG: the pasta machine
+    PREP: in
+
+
+SENTID: 1
+SENT: Let dry an hour or so .
+PREDID: 0
+PRED: let
+  OARG: dry an hour
+  OARG: so
+
+
+SENTID: 2
+SENT: Add noodles to boiling chicken stock .
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+  PARG: boiling chicken stock
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook for ten to fifteen minutes .
+PREDID: 0
+PRED: cook
+  PARG: ten to fifteen minutes
+    PREP: for
+

@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Melt butter in large frying pan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: large frying pan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir the cumin seeds in butter until fragrant , about 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: the cumin seeds
+
+PREDID: 1
+PRED: stir
+  PARG: butter
+    PREP: in
+  PARG: fragrant , about 1 minute
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir chicken into the skillet with cumin seeds , and cook and stir until chicken is no longer pink in the center and juices run clear , 5 to 8 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: chicken
+  PARG: the skillet
+    PREP: into
+  PARG: cumin seeds
+    PREP: with
+
+PREDID: 1
+PRED: cook
+  PARG: chicken is no longer pink in the center, juices run clear , 5 to 8 minutes
+    PREP: until
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 3
+SENT: Drain any excess juices , if any .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess juices
+  PARG: any
+    PREP: if
+
+
+SENTID: 4
+SENT: Pour vegetable oil into skillet with chicken , and heat oil until sizzling .
+PREDID: 0
+PRED: pour
+  DOBJ: vegetable oil
+  PARG: skillet
+    PREP: into
+  PARG: chicken
+    PREP: with
+
+PREDID: 1
+PRED: heat
+  DOBJ: oil
+  PARG: sizzling
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix in onion , carrots , garlic , ginger , red pepper flakes , honey , ground cumin , cinnamon , curry powder , salt , and black pepper to the pan ;
+PREDID: 0
+PRED: mix
+  PARG: onion , carrots , garlic , ginger , red pepper flakes , honey , ground cumin , cinnamon , curry powder , salt , black pepper
+    PREP: in
+  PARG: the pan
+    PREP: to
+
+
+SENTID: 6
+SENT: cook until onions are translucent and carrots done , 5 to 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: onions are translucent, carrots done , 5 to 8 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in coconut milk and simmer until flavors have blended , about 10 minutes .
+PREDID: 0
+PRED: stir
+  PARG: coconut milk
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: flavors have blended , about 10 minutes
+    PREP: until
+

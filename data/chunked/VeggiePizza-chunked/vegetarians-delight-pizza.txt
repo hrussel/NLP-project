@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the pizza crust on a large cookie tray or pizza pan .
+PREDID: 0
+PRED: place
+  DOBJ: the pizza crust
+  PARG: a large cookie tray or pizza pan
+    PREP: on
+
+
+SENTID: 2
+SENT: Brush the crust evenly with olive oil .
+PREDID: 0
+PRED: brush
+  DOBJ: the crust
+  PARG: olive oil
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 3
+SENT: Spread tomato sauce over it with a spatula or back of a spoon .
+PREDID: 0
+PRED: spread
+  DOBJ: tomato sauce
+  PARG: it
+    PREP: over
+  PARG: a spatula
+    PREP: with
+  PARG: a spoon
+    PREP: of
+  OARG: back
+
+
+SENTID: 4
+SENT: Sprinkle vegetables evenly over the sauce , and top with cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: vegetables
+  PARG: the sauce
+    PREP: over
+  OARG: evenly
+
+PREDID: 1
+PRED: top
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake for 10 to 12 minutes , or until cheese has melted and is bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 10 to 12 minutes
+    PREP: for
+  PARG: cheese has melted, is bubbly
+    PREP: until
+
+
+SENTID: 6
+SENT: Let cool for 2 to 3 minutes before cutting .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 2 to 3 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+

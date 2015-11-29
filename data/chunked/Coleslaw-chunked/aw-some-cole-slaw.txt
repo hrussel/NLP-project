@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Whisk together mayonnaise , sugar , milk , lemon juice , vinegar , and salt and pepper in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , sugar , milk , lemon juice , vinegar , salt, pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Toss the cabbage , carrots , and onion into the dressing ;
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , carrots , onion
+  PARG: the dressing
+    PREP: into
+
+
+SENTID: 2
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Refrigerate for at least 3 hours or up to overnight before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: at least 3 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: up
+  OARG: to overnight
+

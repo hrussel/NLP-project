@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: Mix beer , honey , Dijon mustard , olive oil , rosemary , garlic powder , salt , and black pepper in a large resealable plastic bag until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: beer , honey , dijon mustard , olive oil , rosemary , garlic powder , salt , black pepper
+  PARG: a large resealable plastic bag
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 1
+SENT: Add chicken to the marinade , evenly coat , and squeeze air from the bag .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+  PARG: the marinade
+    PREP: to
+  OARG: evenly
+
+PREDID: 1
+PRED: coat
+
+PREDID: 2
+PRED: squeeze
+  DOBJ: air
+  PARG: the bag
+    PREP: from
+
+
+SENTID: 2
+SENT: Seal and refrigerate several hours to overnight , turning bag over occasionally .
+PREDID: 0
+PRED: seal
+  OARG: several hours
+
+PREDID: 1
+PRED: refrigerate
+  PARG: occasionally
+    PREP: over
+  OARG: to overnight , turning bag
+
+
+SENTID: 3
+SENT: Preheat outdoor grill for medium-high heat and lightly oil the grate .
+PREDID: 0
+PRED: preheat
+  DOBJ: outdoor grill
+  PARG: medium-high heat
+    PREP: for
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: the grate
+
+
+SENTID: 4
+SENT: Twist top from pineapple and cut peel off in long vertical strips .
+PREDID: 0
+PRED: twist
+  DOBJ: vertical strips
+  PARG: pineapple, cut peel
+    PREP: from
+  PARG: in
+    PREP: off
+  OARG: long
+  OARG: top
+
+
+SENTID: 5
+SENT: Cut pineapple into wedges vertically and cut the tough core from each wedge .
+PREDID: 0
+PRED: cut
+  DOBJ: pineapple
+  PARG: wedges
+    PREP: into
+  OARG: vertically
+
+PREDID: 1
+PRED: cut
+  DOBJ: the tough core
+  PARG: each wedge
+    PREP: from
+
+
+SENTID: 6
+SENT: Thread marinated chicken tenders onto skewers .
+PREDID: 0
+PRED: thread
+  DOBJ: marinated chicken tenders
+  PARG: skewers
+    PREP: onto
+
+
+SENTID: 7
+SENT: Grill chicken and pineapple wedges on the preheated grill until chicken is no longer pink inside , chicken juices run clear , and pineapple wedges are tender and show light brown grill marks , 10 to 12 minutes .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken, pineapple wedges
+  PARG: the preheated grill
+    PREP: on
+  PARG: chicken is no longer pink inside , chicken juices run clear , pineapple wedges are tender, show light brown grill marks , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Cut chicken and pineapple into bite-sized pieces . Toss spinach with pine nuts and mandarin orange segments in a large bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken, pineapple
+  PARG: bite-sized pieces
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  DOBJ: spinach
+  PARG: pine nuts, mandarin orange segments
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Top salad with chicken and pineapple pieces . Serve on salad plates ;
+PREDID: 0
+PRED: top
+  DOBJ: salad
+  PARG: chicken, pineapple pieces
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  PARG: salad plates
+    PREP: on
+
+
+SENTID: 10
+SENT: drizzle each serving with 2 teaspoons poppy seed dressing .
+PREDID: 0
+PRED: drizzle
+  DOBJ: each serving
+  PARG: 2 teaspoons poppy seed dressing
+    PREP: with
+

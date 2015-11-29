@@ -1,0 +1,190 @@
+SENTID: 0
+SENT: In a Dutch oven , cook sausage , ground beef , onion , and garlic over medium heat until well browned .
+PREDID: 0
+PRED: cook
+  DOBJ: sausage , ground beef , onion , garlic
+  PARG: a dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: well browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in crushed tomatoes , tomato paste , tomato sauce , and water .
+PREDID: 0
+PRED: stir
+  PARG: crushed tomatoes , tomato paste , tomato sauce , water
+    PREP: in
+
+
+SENTID: 2
+SENT: Season with sugar , basil , fennel seeds , Italian seasoning , 1 tablespoon salt , pepper , and 2 tablespoons parsley .
+PREDID: 0
+PRED: season
+  PARG: sugar , basil , fennel seeds , italian seasoning , 1 tablespoon salt , pepper , 2 tablespoons parsley
+    PREP: with
+
+
+SENTID: 3
+SENT: Simmer , covered , for about 1Ê1/2 hours , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  DOBJ: covered
+  PARG: about 1Ê1/2 hours , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook lasagna noodles in boiling water for 8 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna noodles
+  PARG: boiling water
+    PREP: in
+  PARG: 8 to 10 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Drain noodles , and rinse with cold water .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 7
+SENT: In a mixing bowl , combine ricotta cheese with egg , remaining parsley , and 1/2 teaspoon salt .
+PREDID: 0
+PRED: combine
+  DOBJ: ricotta cheese
+  PARG: a mixing bowl
+    PREP: in
+  PARG: egg , remaining parsley , 1/2 teaspoon salt
+    PREP: with
+
+
+SENTID: 8
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: To assemble , spread 1Ê1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 1Ê1/2 cups of meat sauce
+  PARG: the bottom of a 9x13 inch baking dish
+    PREP: in
+  OARG: to assemble
+
+
+SENTID: 10
+SENT: Arrange 6 noodles lengthwise over meat sauce .
+PREDID: 0
+PRED: arrange
+  DOBJ: 6 noodles lengthwise
+  PARG: meat sauce
+    PREP: over
+
+
+SENTID: 11
+SENT: Spread with one half of the ricotta cheese mixture .
+PREDID: 0
+PRED: spread
+  PARG: one half of the ricotta cheese mixture
+    PREP: with
+
+
+SENTID: 12
+SENT: Top with a third of mozzarella cheese slices .
+PREDID: 0
+PRED: top
+  PARG: a third of mozzarella cheese slices
+    PREP: with
+
+
+SENTID: 13
+SENT: Spoon 1Ê1/2 cups meat sauce over mozzarella , and sprinkle with 1/4 cup Parmesan cheese .
+PREDID: 0
+PRED: spoon
+  DOBJ: 1Ê1/2 cups meat sauce
+  PARG: mozzarella
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: 1/4 cup parmesan cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Repeat layers , and top with remaining mozzarella and Parmesan cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+PREDID: 1
+PRED: top
+  PARG: remaining mozzarella, parmesan cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Cover with foil :
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake in preheated oven for 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 17
+SENT: Remove foil , and bake an additional 25 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  OARG: an additional 25 minutes
+
+
+SENTID: 18
+SENT: Cool for 15 minutes before serving .
+PREDID: 0
+PRED: cool
+  PARG: 15 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

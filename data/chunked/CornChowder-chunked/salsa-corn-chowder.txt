@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: In a large pot , heat oil and saute onion , green pepper , and celery until golden brown .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: saute
+  DOBJ: onion , green pepper , celery
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Add flour and stir .
+PREDID: 0
+PRED: add
+  DOBJ: flour
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Stir in vegetable broth , salt , paprika , bay leaf , and 1/2 cup cold milk .
+PREDID: 0
+PRED: stir
+  PARG: vegetable broth , salt , paprika , bay leaf , 1/2 cup cold milk
+    PREP: in
+
+
+SENTID: 3
+SENT: Heat for 5 minutes .
+PREDID: 0
+PRED: heat
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Stir in warm milk , corn , salsa , cream cheese , tomatoes , and chiles .
+PREDID: 0
+PRED: stir
+  PARG: warm milk , corn , salsa , cream cheese , tomatoes , chiles
+    PREP: in
+

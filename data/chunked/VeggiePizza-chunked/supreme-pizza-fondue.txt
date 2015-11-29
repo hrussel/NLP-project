@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: In a large skillet cook the Johnsonville ¨ Mild Italian Ground Sausage , onion , and garlic until meat is brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the johnsonville ¨ mild italian ground sausage , onion , garlic
+  PARG: a large skillet
+    PREP: in
+  PARG: meat is brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off fat .
+PREDID: 0
+PRED: drain
+  PARG: fat
+    PREP: off
+
+
+SENTID: 2
+SENT: In a 3-1/2 - or 4-quart slow cooker combine Classico ¨ Tomato and Basil pasta sauce , mushrooms , pepperoni , and basil .
+PREDID: 0
+PRED: combine
+  DOBJ: classico ¨ tomato, basil pasta sauce , mushrooms , pepperoni , basil
+  PARG: a 3-1/2 - or 4-quart slow cooker
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in the sausage mixture .
+PREDID: 0
+PRED: stir
+  PARG: the sausage mixture
+    PREP: in
+
+
+SENTID: 4
+SENT: Cover and cook on low-heat setting for 3 hours .
+PREDID: 0
+PRED: cover
+  PARG: low-heat setting
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 3 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: If desired , stir in ripe olives and sweet pepper ;
+PREDID: 0
+PRED: stir
+  PARG: desired
+    PREP: if
+  PARG: ripe olives, sweet pepper
+    PREP: in
+
+
+SENTID: 6
+SENT: cover and cook for 15 minutes more .
+PREDID: 0
+PRED: cover
+  PARG: 15 minutes more
+    PREP: for
+
+PREDID: 1
+PRED: cook
+
+
+SENTID: 7
+SENT: To serve , spear the dippers with fondue forks and dip into the fondue .
+PREDID: 0
+PRED: dip
+  PARG: serve , spear the dippers
+    PREP: to
+  PARG: fondue forks
+    PREP: with
+  PARG: the fondue
+    PREP: into
+

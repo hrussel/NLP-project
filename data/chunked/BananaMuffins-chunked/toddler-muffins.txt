@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 24 mini muffin cups or 12 standard muffin cups . In a mixing bowl , cream together the butter and brown sugar until smooth .
+PREDID: 0
+PRED: grease
+  DOBJ: 24 mini muffin cups or 12 standard muffin cups
+  PARG: a mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: cream
+  DOBJ: the butter, brown sugar
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Mix in the mashed bananas , squash , carrots , and eggs .
+PREDID: 0
+PRED: mix
+  PARG: the mashed bananas , squash , carrots , eggs
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in the flour , oat bran , baking soda , pumpkin pie spice , and salt until just combined .
+PREDID: 0
+PRED: stir
+  PARG: the flour , oat bran , baking soda , pumpkin pie spice , salt
+    PREP: in
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Spoon the batter equally into the prepared muffin cups . Bake in the preheated oven until a toothpick inserted into the center comes out clean , 15 to 20 minutes .
+PREDID: 0
+PRED: spoon
+  DOBJ: the batter
+  PARG: the prepared muffin cups
+    PREP: into
+  OARG: equally
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pans
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 6
+SENT: Store at room temperature for up to two days , or freeze .
+PREDID: 0
+PRED: store
+  PARG: room temperature
+    PREP: at
+  PARG: up
+    PREP: for
+  PARG: two days
+    PREP: to
+
+PREDID: 1
+PRED: freeze
+

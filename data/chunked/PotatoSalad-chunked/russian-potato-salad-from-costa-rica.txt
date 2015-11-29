@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: Place the potatoes into a pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: Allow the potatoes to cool .
+PREDID: 0
+PRED: allow
+  DOBJ: the potatoes
+  OARG: to cool
+
+
+SENTID: 4
+SENT: While the potatoes are cooking , place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: the potatoes are cooking
+    PREP: while
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 5
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Pour out the hot water , then cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 8
+SENT: Peel and dice once cold .
+PREDID: 0
+PRED: peel
+  OARG: once
+
+PREDID: 1
+PRED: dice
+  DOBJ: cold
+
+
+SENTID: 9
+SENT: Place the potatoes , beets , eggs , and mayonnaise into a bowl , mix well , and season to taste with salt and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes , beets , eggs , mayonnaise
+  PARG: a bowl
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+PREDID: 2
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+

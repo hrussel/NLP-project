@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Press pie crust into a 9-inch pie dish .
+PREDID: 0
+PRED: press
+  DOBJ: pie crust
+  PARG: a 9-inch pie dish
+    PREP: into
+
+
+SENTID: 2
+SENT: Beat butter , eggs , lemon juice , and vanilla extract together in a bowl ;
+PREDID: 0
+PRED: beat
+  DOBJ: butter , eggs , lemon juice , vanilla extract
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: beat in sugar until smooth .
+PREDID: 0
+PRED: beat
+  PARG: sugar
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Fold coconut and pecans into butter mixture ;
+PREDID: 0
+PRED: fold
+  DOBJ: coconut, pecans
+  PARG: butter mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: pour into pie crust .
+PREDID: 0
+PRED: pour
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until pie is set in the middle , 45 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: pie is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: the middle , 45 to 50 minutes
+    PREP: in
+

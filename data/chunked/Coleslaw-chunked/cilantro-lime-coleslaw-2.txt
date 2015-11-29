@@ -1,0 +1,34 @@
+SENTID: 0
+SENT: Whisk mayonnaise , lime zest , lime juice , rice vinegar , garlic , sweet chili sauce , and sugar in a large bowl , stirring to dissolve sugar .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , lime zest , lime juice , rice vinegar , garlic , sweet chili sauce , sugar
+  PARG: a large bowl , stirring
+    PREP: in
+  PARG: dissolve sugar
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix cilantro and red onion into dressing .
+PREDID: 0
+PRED: mix
+  DOBJ: cilantro, red onion
+  PARG: dressing
+    PREP: into
+
+
+SENTID: 2
+SENT: Stir cabbage into dressing mixture , about 1 cup at a time , until all cabbage is coated .
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage
+  PARG: dressing mixture
+    PREP: into
+  PARG: 1 cup
+    PREP: about
+  PARG: a time
+    PREP: at
+  PARG: all cabbage is coated
+    PREP: until
+

@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a lightly greased 9x13 inch pan or 13 inch round pizza stone , arrange the crescent roll dough in a single layer .
+PREDID: 0
+PRED: arrange
+  DOBJ: the crescent roll dough
+  PARG: a lightly greased 9x13 inch pan or 13 inch round pizza stone
+    PREP: in
+  PARG: a single layer
+    PREP: in
+
+
+SENTID: 2
+SENT: Pinch together the edges of the dough .
+PREDID: 0
+PRED: pinch
+  DOBJ: the edges of the dough
+  OARG: together
+
+
+SENTID: 3
+SENT: Bake for 12 minutes , or until it becomes a golden brown crust .
+PREDID: 0
+PRED: bake
+  PARG: 12 minutes
+    PREP: for
+  PARG: it becomes a golden brown crust
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove the crust from the oven and allow it to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: the crust
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  DOBJ: it
+  OARG: to cool
+
+
+SENTID: 5
+SENT: In a medium bowl , mix together the cream cheese , mayonnaise and dill .
+PREDID: 0
+PRED: mix
+  DOBJ: the cream cheese , mayonnaise, dill
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Evenly spread the cream cheese mixture on the crust .
+PREDID: 0
+PRED: spread
+  DOBJ: the cream cheese mixture
+  PARG: the crust
+    PREP: on
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Sprinkle toppings on top of the cream cheese spread .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: toppings
+  PARG: top of the cream cheese spread
+    PREP: on
+
+
+SENTID: 8
+SENT: Refrigerate for 30 minutes to allow the spread to thicken .
+PREDID: 0
+PRED: refrigerate
+  PARG: 30 minutes
+    PREP: for
+  OARG: to allow the spread
+  OARG: to thicken
+
+
+SENTID: 9
+SENT: Cut the chilled pizza into wedges or squares with a pizza cutter to serve .
+PREDID: 0
+PRED: cut
+  DOBJ: the chilled pizza
+  PARG: wedges or squares
+    PREP: into
+  PARG: a pizza cutter
+    PREP: with
+  PARG: serve
+    PREP: to
+

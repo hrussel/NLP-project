@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Combine 1/3 bottle of balsamic vinaigrette dressing with the chicken tenders in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/3 bottle of balsamic vinaigrette dressing
+  PARG: the chicken tenders
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Toss together sliced mushrooms with 1/3 bottle of dressing in a separate bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: sliced mushrooms
+  PARG: 1/3 bottle of dressing
+    PREP: with
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Reserve the remaining 1/3 bottle .
+PREDID: 0
+PRED: reserve
+  DOBJ: the remaining 1/3 bottle
+
+
+SENTID: 3
+SENT: Allow the chicken tenders and mushrooms to marinate for at least 30 minutes .
+PREDID: 0
+PRED: allow
+  DOBJ: the chicken tenders, mushrooms
+  PARG: at least 30 minutes
+    PREP: for
+  OARG: to marinate
+
+
+SENTID: 4
+SENT: Preheat the oven 's broiler , and set the oven rack about 6 inches from the heat source .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven 's broiler
+
+PREDID: 1
+PRED: set
+  DOBJ: the oven rack
+  PARG: 6 inches
+    PREP: about
+  PARG: the heat source
+    PREP: from
+
+
+SENTID: 5
+SENT: Remove the chicken tenders and mushrooms from the marinade , and drain off the excess .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken tenders, mushrooms
+  PARG: the marinade
+    PREP: from
+
+PREDID: 1
+PRED: drain
+  PARG: the excess
+    PREP: off
+
+
+SENTID: 6
+SENT: Broil the chicken and mushrooms until the chicken is browned and cooked through , 5 to 8 minutes .
+PREDID: 0
+PRED: broil
+  DOBJ: the chicken, mushrooms
+  PARG: the chicken is browned, cooked through , 5 to 8 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove the chicken and mushrooms from the heat , and slice the chicken tenders into bite-sized pieces . To serve , divide the chopped romaine lettuce between four plates , and top each with broiled chicken and mushrooms .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken, mushrooms
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: slice
+  DOBJ: the chicken tenders
+  PARG: bite-sized pieces
+    PREP: into
+  PARG: serve
+    PREP: to
+
+PREDID: 2
+PRED: divide
+  DOBJ: the chopped romaine lettuce
+  PARG: four plates
+    PREP: between
+
+PREDID: 3
+PRED: top
+  DOBJ: each with broiled chicken, mushrooms
+
+
+SENTID: 8
+SENT: Sprinkle each plate with cherry tomatoes , mozzarella cheese , and sliced basil leaves ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: each plate
+  PARG: cherry tomatoes , mozzarella cheese , sliced basil leaves
+    PREP: with
+
+
+SENTID: 9
+SENT: serve with the remaining vinaigrette dressing .
+PREDID: 0
+PRED: serve
+  PARG: the remaining vinaigrette dressing
+    PREP: with
+

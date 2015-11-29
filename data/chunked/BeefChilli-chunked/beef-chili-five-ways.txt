@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Heat large nonstick skillet over medium heat until hot .
+PREDID: 0
+PRED: heat
+  DOBJ: large nonstick skillet
+  PARG: medium heat
+    PREP: over
+  PARG: hot
+    PREP: until
+
+
+SENTID: 1
+SENT: Add ground beef ;
+PREDID: 0
+PRED: add
+  DOBJ: ground beef
+
+
+SENTID: 2
+SENT: cook 8 to 10 minutes , breaking into 3/4-inch crumbles and stirring occasionally .
+PREDID: 0
+PRED: cook
+  PARG: 3/4-inch crumbles, stirring
+    PREP: into
+  OARG: 8 to 10 minutes , breaking
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Pour off drippings .
+PREDID: 0
+PRED: pour
+  PARG: drippings
+    PREP: off
+
+
+SENTID: 4
+SENT: Stir in beans , broth , tomatoes and chili powder ;
+PREDID: 0
+PRED: stir
+  PARG: beans , broth , tomatoes, chili powder
+    PREP: in
+
+
+SENTID: 5
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Reduce heat ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 7
+SENT: cover and simmer 20 minutes to develop flavors , stirring occasionally .
+PREDID: 0
+PRED: cover
+  OARG: 20 minutes
+
+PREDID: 1
+PRED: simmer
+  OARG: to develop flavors , stirring
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Garnish with toppings , as desired .
+PREDID: 0
+PRED: garnish
+  PARG: toppings
+    PREP: with
+  PARG: desired
+    PREP: as
+

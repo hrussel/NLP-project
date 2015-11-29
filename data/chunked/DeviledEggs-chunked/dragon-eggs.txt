@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Drain hot water and fill saucepan with cold water ;
+PREDID: 0
+PRED: drain
+  DOBJ: hot water
+
+PREDID: 1
+PRED: fill
+  DOBJ: saucepan
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 3
+SENT: allow eggs to sit until cooled , 15 to 20 minutes .
+PREDID: 0
+PRED: allow
+  DOBJ: eggs
+  PARG: cooled , 15 to 20 minutes
+    PREP: until
+  OARG: to sit
+
+
+SENTID: 4
+SENT: Drain water .
+PREDID: 0
+PRED: drain
+  DOBJ: water
+
+
+SENTID: 5
+SENT: Gently tap or roll eggs on the counter so the shell is cracked but still intact .
+PREDID: 0
+PRED: tap
+  DOBJ: eggs
+  OARG: gently
+
+PREDID: 1
+PRED: roll
+  DOBJ: the shell is cracked
+  PARG: the counter
+    PREP: on
+  OARG: so
+  OARG: still
+
+
+SENTID: 6
+SENT: Return eggs to saucepan and pour in enough water to cover eggs ;
+PREDID: 0
+PRED: return
+  DOBJ: eggs
+  PARG: saucepan
+    PREP: to
+
+PREDID: 1
+PRED: pour
+  PARG: enough water
+    PREP: in
+  PARG: cover eggs
+    PREP: to
+
+
+SENTID: 7
+SENT: add soy sauce , molasses , salt , and tea bags .
+PREDID: 0
+PRED: add
+  DOBJ: soy sauce , molasses , salt , tea bags
+
+
+SENTID: 8
+SENT: Bring to a boil , reduce heat , and simmer until eggs have absorbed color , about 30 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: eggs have absorbed color , about 30 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove saucepan from heat and leave eggs in water to cool to room temperature .
+PREDID: 0
+PRED: remove
+  DOBJ: saucepan
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: leave
+  DOBJ: eggs
+  PARG: water
+    PREP: in
+  PARG: room temperature
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 10
+SENT: Cut each egg lengthwise and scoop yolks into a bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: each egg lengthwise, scoop yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 11
+SENT: Mix mayonnaise , red bell pepper , salt , and pepper into egg yolks until evenly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , red bell pepper , salt , pepper
+  PARG: egg yolks
+    PREP: into
+  PARG: evenly combined
+    PREP: until
+
+
+SENTID: 12
+SENT: Spoon yolk mixture back into egg whites ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg whites
+    PREP: into
+  OARG: back
+
+
+SENTID: 13
+SENT: smooth filling to be level with egg white .
+PREDID: 0
+PRED: smooth
+  DOBJ: filling
+  PARG: be level
+    PREP: to
+  PARG: egg white
+    PREP: with
+
+
+SENTID: 14
+SENT: Put each egg back together .
+PREDID: 0
+PRED: put
+  DOBJ: each egg
+  OARG: back
+  OARG: together
+
+
+SENTID: 15
+SENT: Pour salsa onto a plate and assemble eggs upright into the salsa .
+PREDID: 0
+PRED: pour
+  DOBJ: salsa
+  PARG: a plate
+    PREP: onto
+
+PREDID: 1
+PRED: assemble
+  DOBJ: eggs upright
+  PARG: the salsa
+    PREP: into
+

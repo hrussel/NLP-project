@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: In a large bowl , whisk together the mayonnaise , lime juice , cumin , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , lime juice , cumin , salt, pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add the cabbage , carrot , green onions and radishes and stir until well-combined .
+PREDID: 0
+PRED: add
+  DOBJ: the cabbage , carrot , green onions, radishes
+
+PREDID: 1
+PRED: stir
+  PARG: well-combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Chill at least an hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: least an hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

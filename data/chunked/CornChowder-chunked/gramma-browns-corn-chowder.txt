@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Fry bacon in pan until almost done .
+PREDID: 0
+PRED: fry
+  DOBJ: bacon
+  PARG: pan
+    PREP: in
+  PARG: almost done
+    PREP: until
+
+
+SENTID: 1
+SENT: Add onions and celery , and saute until lightly browned .
+PREDID: 0
+PRED: add
+  DOBJ: onions, celery
+
+PREDID: 1
+PRED: saute
+  PARG: lightly browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer to a cooking pot .
+PREDID: 0
+PRED: transfer
+  PARG: a cooking pot
+    PREP: to
+
+
+SENTID: 3
+SENT: Add cream-style corn , kernel corn , butter , and broth .
+PREDID: 0
+PRED: add
+  DOBJ: cream-style corn , kernel corn , butter , broth
+
+
+SENTID: 4
+SENT: Add carrots and potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: carrots, potatoes
+
+
+SENTID: 5
+SENT: Cook for about 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: about 15 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Mix together flour and a little water to form a paste .
+PREDID: 0
+PRED: mix
+  DOBJ: flour, a little water
+  PARG: form a paste
+    PREP: to
+  OARG: together
+
+
+SENTID: 7
+SENT: Add milk and flour paste .
+PREDID: 0
+PRED: add
+  DOBJ: milk, flour paste
+
+
+SENTID: 8
+SENT: Add salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: salt, pepper
+  PARG: taste
+    PREP: to
+

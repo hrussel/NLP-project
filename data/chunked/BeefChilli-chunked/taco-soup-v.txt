@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: In a medium sized stock pot , brown ground beef in oil .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a medium sized stock pot
+    PREP: in
+  PARG: oil
+    PREP: in
+
+
+SENTID: 1
+SENT: Add undrained pinto beans , undrained kidney beans , diced tomatoes , tomato sauce , onion , green bell pepper , taco seasoning mix and ranch salad dressing mix .
+PREDID: 0
+PRED: add
+  DOBJ: undrained pinto beans , undrained kidney beans , diced tomatoes , tomato sauce , onion , green bell pepper , taco seasoning mix, ranch salad dressing mix
+
+
+SENTID: 2
+SENT: Bring to a boil and then simmer for 10 to 15 minutes , or until heated through .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: simmer
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+

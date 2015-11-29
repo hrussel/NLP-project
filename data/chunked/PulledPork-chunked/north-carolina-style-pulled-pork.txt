@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: In a small bowl , mix mild paprika , light brown sugar , hot paprika , celery salt , garlic salt , dry mustard , ground black pepper , onion powder , and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: mild paprika , light brown sugar , hot paprika , celery salt , garlic salt , dry mustard , ground black pepper , onion powder , salt
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Rub spice mixture into the roast on all sides .
+PREDID: 0
+PRED: rub
+  DOBJ: spice mixture
+  PARG: the roast
+    PREP: into
+  PARG: all sides
+    PREP: on
+
+
+SENTID: 2
+SENT: Wrap in plastic wrap , and refrigerate 8 hours , or overnight .
+PREDID: 0
+PRED: wrap
+  PARG: plastic wrap
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 8 hours
+  OARG: overnight
+
+
+SENTID: 3
+SENT: Prepare a grill for indirect heat .
+PREDID: 0
+PRED: prepare
+  DOBJ: a grill
+  PARG: indirect heat
+    PREP: for
+
+
+SENTID: 4
+SENT: Sprinkle a handful of soaked wood over coals , or place in the smoker box of a gas grill .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: a handful of soaked wood
+  PARG: coals
+    PREP: over
+
+PREDID: 1
+PRED: place
+  PARG: the smoker box of a gas grill
+    PREP: in
+
+
+SENTID: 5
+SENT: Place pork butt roast on the grate over a drip pan .
+PREDID: 0
+PRED: place
+  DOBJ: pork butt roast
+  PARG: the grate
+    PREP: on
+  PARG: a drip pan
+    PREP: over
+
+
+SENTID: 6
+SENT: Cover grill , and cook pork until pork is tender and shreds easily , about 6 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: grill
+
+PREDID: 1
+PRED: cook
+  DOBJ: pork
+  PARG: pork is tender, shreds easily , about 6 hours
+    PREP: until
+
+
+SENTID: 7
+SENT: Check hourly , adding fresh coals and hickory chips as necessary to maintain heat and smoke .
+PREDID: 0
+PRED: check
+  DOBJ: hourly , adding fresh coals, hickory chips
+  PARG: necessary
+    PREP: as
+  OARG: to maintain heat
+
+PREDID: 1
+PRED: smoke
+
+
+SENTID: 8
+SENT: Remove pork from heat and place on a cutting board .
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a cutting board
+    PREP: on
+
+
+SENTID: 9
+SENT: Allow the meat to cool approximately 15 minutes , then shred into bite-sized pieces using two forks .
+PREDID: 0
+PRED: allow
+  DOBJ: the meat
+  OARG: to cool
+  OARG: approximately
+  OARG: 15 minutes
+  OARG: then
+
+PREDID: 1
+PRED: shred
+  DOBJ: using two forks
+  PARG: bite-sized pieces
+    PREP: into
+
+
+SENTID: 10
+SENT: In a medium bowl , whisk together cider vinegar , water , ketchup , brown sugar , salt , red pepper flakes , black pepper , and white pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: cider vinegar , water , ketchup , brown sugar , salt , red pepper flakes , black pepper , white pepper
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Continue whisking until brown sugar and salt have dissolved .
+PREDID: 0
+PRED: continue
+  DOBJ: whisking
+  PARG: brown sugar, salt have dissolved
+    PREP: until
+
+
+SENTID: 12
+SENT: Place shredded pork and vinegar sauce in a large roasting pan , and stir to coat pork .
+PREDID: 0
+PRED: place
+  DOBJ: shredded pork, vinegar sauce
+  PARG: a large roasting pan
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: coat pork
+    PREP: to
+
+
+SENTID: 13
+SENT: Serve immediately , or cover and keep warm on the grill for up to one hour until serving .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+
+PREDID: 1
+PRED: cover
+  DOBJ: warm
+
+PREDID: 2
+PRED: keep
+  PARG: the grill
+    PREP: on
+  PARG: up
+    PREP: for
+  PARG: one hour
+    PREP: to
+  PARG: serving
+    PREP: until
+

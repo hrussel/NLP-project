@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Place all of the eggs into a large pot so they can rest on the bottom in a single layer .
+PREDID: 0
+PRED: place
+  DOBJ: all of the eggs
+  PARG: a large pot
+    PREP: into
+  PARG: the bottom
+    PREP: on
+  PARG: a single layer
+    PREP: in
+  OARG: so
+
+
+SENTID: 1
+SENT: Fill with just enough cold water to cover the eggs .
+PREDID: 0
+PRED: fill
+  DOBJ: cold water
+  PARG: just
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  OARG: enough
+
+
+SENTID: 2
+SENT: Bring to a boil , then cover , remove from the heat and let stand for about 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 3
+PRED: let
+  DOBJ: stand
+  PARG: about 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Rinse under cold water or add some ice to the water and let the eggs cool completely .
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: add
+  DOBJ: some ice
+  PARG: the water
+    PREP: to
+
+PREDID: 2
+PRED: let
+  DOBJ: the eggs
+
+PREDID: 3
+PRED: cool
+  OARG: completely
+
+
+SENTID: 4
+SENT: Peel and slice in half lengthwise .
+PREDID: 0
+PRED: peel
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: slice
+
+
+SENTID: 5
+SENT: Remove the yolks from the eggs and place them in a bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: the yolks
+  PARG: the eggs
+    PREP: from
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix in the relish , mayonnaise , celery salt , mustard , and food coloring .
+PREDID: 0
+PRED: mix
+  PARG: the relish , mayonnaise , celery salt , mustard , food coloring
+    PREP: in
+
+
+SENTID: 7
+SENT: Spoon this filling into the egg whites and place them on a serving tray .
+PREDID: 0
+PRED: spoon
+  DOBJ: this filling
+  PARG: the egg whites
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a serving tray
+    PREP: on
+
+
+SENTID: 8
+SENT: Round the top of the filling using the spoon .
+PREDID: 0
+PRED: round
+  DOBJ: the top of the filling
+
+
+SENTID: 9
+SENT: Place an olive slice on each yolk to create the center of the eye .
+PREDID: 0
+PRED: place
+  DOBJ: an olive slice
+  PARG: each yolk
+    PREP: on
+  OARG: to create the center of the eye
+
+
+SENTID: 10
+SENT: Dab a tiny bit of mayonnaise in the center of the olive as a finishing touch .
+PREDID: 0
+PRED: dab
+  DOBJ: a tiny bit of mayonnaise
+  PARG: the center of the olive
+    PREP: in
+  PARG: a finishing touch
+    PREP: as
+

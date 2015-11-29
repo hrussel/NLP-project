@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter one side of each slice of bread , and press each slice butter-side down into the cups of a muffin tin .
+PREDID: 0
+PRED: butter
+  DOBJ: one side of each slice of bread
+
+PREDID: 1
+PRED: press
+  DOBJ: each slice butter-side
+  PARG: the cups of a muffin tin
+    PREP: into
+  OARG: down
+
+
+SENTID: 2
+SENT: In a medium bowl , mix together the ground beef , egg , onion , cream of mushroom soup , salt and pepper until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , egg , onion , cream of mushroom soup , salt, pepper
+  PARG: a medium bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Fill each bread cup with the mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: each bread cup
+  PARG: the mixture
+    PREP: with
+
+
+SENTID: 4
+SENT: Sprinkle shredded Cheddar cheese over the tops .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: shredded cheddar cheese
+  PARG: the tops
+    PREP: over
+
+
+SENTID: 5
+SENT: Bake for 30 minutes in the preheated oven , or until meat is cooked through .
+PREDID: 0
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: meat is cooked through
+    PREP: until
+

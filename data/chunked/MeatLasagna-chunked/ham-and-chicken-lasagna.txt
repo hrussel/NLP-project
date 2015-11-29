@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 13x9-inch baking dish with non-stick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 13x9-inch baking dish
+  PARG: non-stick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Heat butter in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Stir in mushrooms , onion , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: mushrooms , onion , pepper
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook until soft and tender .
+PREDID: 0
+PRED: cook
+  PARG: soft, tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Sprinkle flour over vegetables , and stir to coat .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: flour
+  PARG: vegetables
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir in milk and chicken broth .
+PREDID: 0
+PRED: stir
+  PARG: milk, chicken broth
+    PREP: in
+
+
+SENTID: 7
+SENT: Cook until sauce thickens .
+PREDID: 0
+PRED: cook
+  PARG: sauce thickens
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in broccoli , Parmesan , salt , pepper , and nutmeg .
+PREDID: 0
+PRED: stir
+  PARG: broccoli , parmesan , salt , pepper , nutmeg
+    PREP: in
+
+
+SENTID: 9
+SENT: Cook until Parmesan is melted .
+PREDID: 0
+PRED: cook
+  PARG: parmesan is melted
+    PREP: until
+
+
+SENTID: 10
+SENT: Layer baking dish with 1/4 sauce , 1/4 noodles , 1/4 ham , 1/4 chicken , and 1/4 Swiss .
+PREDID: 0
+PRED: layer
+  DOBJ: baking dish
+  PARG: 1/4 sauce , 1/4 noodles , 1/4 ham , 1/4 chicken , 1/4 swiss
+    PREP: with
+
+
+SENTID: 11
+SENT: Repeat layers 3 times .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers 3 times
+
+
+SENTID: 12
+SENT: Cover with foil .
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake in a preheated oven 35 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven 35 to 40 minutes
+    PREP: in
+

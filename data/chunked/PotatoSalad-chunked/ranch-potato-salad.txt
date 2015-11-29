@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Boil the potatoes for 10 to 15 minutes or until tender .
+PREDID: 0
+PRED: boil
+  DOBJ: the potatoes
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 2
+SENT: In a mixing bowl , mix together the mayonnaise , ranch salad dressing , celery , peas , paprika , scallions and salt and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise , ranch salad dressing , celery , peas , paprika , scallions, salt, pepper
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Add the potatoes , toss and refrigerate 1 hour before serving .
+PREDID: 0
+PRED: add
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: toss
+  OARG: 1 hour
+
+PREDID: 2
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+

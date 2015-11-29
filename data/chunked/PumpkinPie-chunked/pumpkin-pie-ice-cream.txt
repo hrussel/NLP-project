@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Mix pumpkin puree , sugar , and pumpkin pie spice together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: pumpkin puree , sugar , pumpkin pie spice
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Slowly whisk in milk , then whipping cream , then vanilla extract .
+PREDID: 0
+PRED: whisk
+  DOBJ: vanilla extract
+  PARG: milk
+    PREP: in
+  OARG: slowly
+  OARG: then
+  OARG: then
+  OARG: whipping cream
+
+
+SENTID: 2
+SENT: Refrigerate to allow flavors to blend , 2 hours to overnight .
+PREDID: 0
+PRED: refrigerate
+  PARG: blend , 2 hours
+    PREP: to
+  OARG: to allow flavors
+  OARG: to overnight
+
+
+SENTID: 3
+SENT: Transfer pumpkin mixture into an ice cream maker ;
+PREDID: 0
+PRED: transfer
+  DOBJ: pumpkin mixture
+  PARG: an ice cream maker
+    PREP: into
+
+
+SENTID: 4
+SENT: churn for 15 to 20 minutes .
+PREDID: 0
+PRED: churn
+  PARG: 15 to 20 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Freeze according to manufacturer 's directions until it reaches ` soft-serve ' consistency .
+PREDID: 0
+PRED: freeze
+  DOBJ: according
+  PARG: manufacturer 's directions
+    PREP: to
+  PARG: it reaches ` soft-serve ' consistency
+    PREP: until
+
+
+SENTID: 6
+SENT: Transfer ice cream to a lidded plastic container ;
+PREDID: 0
+PRED: transfer
+  DOBJ: ice cream
+  PARG: a lidded plastic container
+    PREP: to
+
+
+SENTID: 7
+SENT: cover surface with plastic wrap and seal .
+PREDID: 0
+PRED: cover
+  DOBJ: surface
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: seal
+
+
+SENTID: 8
+SENT: For best results , ice cream should ` bloom ' in the freezer for at least 2 hours or overnight .
+PREDID: 0
+PRED: cream
+  DOBJ: should ` bloom
+  PARG: best results , ice
+    PREP: for
+  PARG: the freezer
+    PREP: in
+  PARG: at least 2 hours
+    PREP: for
+  OARG: overnight
+

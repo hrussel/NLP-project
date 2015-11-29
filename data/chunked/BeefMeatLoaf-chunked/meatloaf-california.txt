@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line a 9x13 inch baking pan with aluminum foil .
+PREDID: 0
+PRED: line
+  DOBJ: a 9x13 inch baking pan
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , mix the beef , onion , green bell pepper , celery , eggs , soy sauce , and ketchup .
+PREDID: 0
+PRED: mix
+  DOBJ: the beef , onion , green bell pepper , celery , eggs , soy sauce , ketchup
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with basil , parsley , oregano , garlic powder , and 2 teaspoons pepper .
+PREDID: 0
+PRED: season
+  PARG: basil , parsley , oregano , garlic powder , 2 teaspoons pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Mix in 1/2 cup oats .
+PREDID: 0
+PRED: mix
+  PARG: 1/2 cup oats
+    PREP: in
+
+
+SENTID: 5
+SENT: Transfer to the prepared baking pan , and form into a loaf shape .
+PREDID: 0
+PRED: transfer
+  PARG: the prepared baking pan
+    PREP: to
+
+PREDID: 1
+PRED: form
+  PARG: a loaf shape
+    PREP: into
+
+
+SENTID: 6
+SENT: In a small bowl , mix the brown sugar , ketchup , brown mustard , mesquite smoke flavoring , 1/2 teaspoon pepper , and paprika .
+PREDID: 0
+PRED: mix
+  DOBJ: the brown sugar , ketchup , brown mustard , mesquite smoke flavoring , 1/2 teaspoon pepper , paprika
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Drizzle evenly over the meat loaf .
+PREDID: 0
+PRED: drizzle
+  PARG: the meat loaf
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Bake meat loaf 1 hour in the preheated oven , or to a minimum temperature of 160 degrees F -LRB- 72 degrees F -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a minimum temperature of 160 degrees f -lrb- 72 degrees f -rrb-
+    PREP: to
+  OARG: meat loaf 1 hour
+

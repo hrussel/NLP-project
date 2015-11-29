@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour one 9x13 inch cake pan .
+PREDID: 0
+PRED: grease
+  DOBJ: one 9x13 inch cake pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: Mix together the flour , baking powder , baking soda , salt , ground cinnamon .
+PREDID: 0
+PRED: mix
+  DOBJ: the flour , baking powder , baking soda , salt , ground cinnamon
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in the white sugar .
+PREDID: 0
+PRED: stir
+  PARG: the white sugar
+    PREP: in
+
+
+SENTID: 4
+SENT: Add the oil and the eggs and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: the oil, the eggs
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Stir in the carrots , pineapple , chopped nuts , and the coconut .
+PREDID: 0
+PRED: stir
+  PARG: the carrots , pineapple , chopped nuts , the coconut
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour batter into the prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 40 minutes or until a toothpick inserted in the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 40 minutes
+    PREP: for
+  PARG: a toothpick inserted in the center comes out clean
+    PREP: until
+

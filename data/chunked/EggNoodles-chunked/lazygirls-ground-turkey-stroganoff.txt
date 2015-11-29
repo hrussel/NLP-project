@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Bring a pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the egg noodles in the pot , cook 6 to 8 minutes , until al dente , and drain .
+PREDID: 0
+PRED: place
+  DOBJ: the egg noodles
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: al dente
+    PREP: until
+  OARG: 6 to 8 minutes
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 2
+SENT: Heat the oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Place the turkey and onion in the skillet and cook until turkey is evenly brown and onion is tender .
+PREDID: 0
+PRED: place
+  DOBJ: the turkey, onion
+  PARG: the skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: turkey is evenly brown, onion is tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix in the bouillon .
+PREDID: 0
+PRED: mix
+  PARG: the bouillon
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir the cream of mushroom soup and water into the skillet .
+PREDID: 0
+PRED: stir
+  DOBJ: the cream of mushroom soup, water
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 6
+SENT: Cook and stir until heated through .
+PREDID: 0
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Season with paprika and salt .
+PREDID: 0
+PRED: season
+  PARG: paprika, salt
+    PREP: with
+
+
+SENTID: 8
+SENT: Serve over the cooked egg noodles .
+PREDID: 0
+PRED: serve
+  PARG: the cooked egg noodles
+    PREP: over
+

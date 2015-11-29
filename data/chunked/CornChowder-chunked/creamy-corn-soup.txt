@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: In a large pot over medium heat , combine the onion , garlic , parsley and butter or margarine .
+PREDID: 0
+PRED: combine
+  DOBJ: the onion , garlic , parsley, butter or margarine
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute for about 5 minutes , or until onions are tender .
+PREDID: 0
+PRED: saute
+  PARG: about 5 minutes
+    PREP: for
+  PARG: onions are tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the flour , stirring well , to make a pasty mixture .
+PREDID: 0
+PRED: add
+  DOBJ: the flour , stirring
+  PARG: make a pasty mixture
+    PREP: to
+  OARG: well
+
+
+SENTID: 3
+SENT: Whisk in the milk and the broth .
+PREDID: 0
+PRED: whisk
+  PARG: the milk, the broth
+    PREP: in
+
+
+SENTID: 4
+SENT: Add the corn and the cream cheese and allow to heat through .
+PREDID: 0
+PRED: add
+  DOBJ: the corn, the cream cheese
+
+PREDID: 1
+PRED: allow
+  DOBJ: through
+  PARG: heat
+    PREP: to
+
+
+SENTID: 5
+SENT: Add the garlic salt , black pepper and cayenne pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: the garlic salt , black pepper, cayenne pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir together and serve .
+PREDID: 0
+PRED: stir
+  OARG: together
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Brown meat in large skillet ;
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: large skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Stir in spaghetti sauce and water .
+PREDID: 0
+PRED: stir
+  PARG: spaghetti sauce, water
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix ricotta , 1-1/2 cups mozzarella , 2 Tbsp . Parmesan , egg and parsley .
+PREDID: 0
+PRED: mix
+  DOBJ: ricotta , 1-1/2 cups mozzarella , 2 tbsp . parmesan , egg, parsley
+
+
+SENTID: 4
+SENT: Spoon 1 cup meat sauce into slow cooker ;
+PREDID: 0
+PRED: spoon
+  DOBJ: 1 cup meat sauce
+  PARG: slow cooker
+    PREP: into
+
+
+SENTID: 5
+SENT: top with layers of half each of the noodles -LRB- broken to fit -RRB- and cheese mixture .
+PREDID: 0
+PRED: top
+  PARG: layers of half each of the noodles -lrb- broken
+    PREP: with
+  PARG: fit -rrb-, cheese mixture
+    PREP: to
+
+
+SENTID: 6
+SENT: Cover with 2 cups meat sauce .
+PREDID: 0
+PRED: cover
+  PARG: 2 cups meat sauce
+    PREP: with
+
+
+SENTID: 7
+SENT: Top with remaining noodles -LRB- broken to fit -RRB- , cheese mixture and meat sauce .
+PREDID: 0
+PRED: top
+  PARG: remaining noodles -lrb- broken
+    PREP: with
+  PARG: fit -rrb- , cheese mixture, meat sauce
+    PREP: to
+
+
+SENTID: 8
+SENT: Cover with lid .
+PREDID: 0
+PRED: cover
+  PARG: lid
+    PREP: with
+
+
+SENTID: 9
+SENT: Cook on LOW 4 to 6 hours or until liquid is absorbed .
+PREDID: 0
+PRED: cook
+  PARG: low 4 to 6 hours
+    PREP: on
+  PARG: liquid is absorbed
+    PREP: until
+
+
+SENTID: 10
+SENT: Sprinkle with remaining cheeses ;
+PREDID: 0
+PRED: sprinkle
+  PARG: remaining cheeses
+    PREP: with
+
+
+SENTID: 11
+SENT: let stand , covered , 10 min .
+PREDID: 0
+PRED: let
+  DOBJ: stand , covered , 10 min
+

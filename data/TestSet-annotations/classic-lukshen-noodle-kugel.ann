@@ -1,0 +1,105 @@
+T1	predicate 0 4	Fill
+T2	predicate 47 52	bring
+T3	predicate 114 121	stir in
+T4	predicate 143 149	return
+T5	predicate 161 165	Cook
+T6	predicate 294 299	Drain
+T7	predicate 336 343	Preheat
+T8	predicate 386 390	Heat
+T9	predicate 456 463	Stir in
+T10	predicate 475 488	cook and stir
+T11	predicate 559 565	Reduce
+T12	predicate 590 619	continue cooking and stirring
+T13	predicate 676 683	Combine
+T14	predicate 769 773	Pour
+T15	predicate 809 813	Bake
+T16	arg_location 814 835	in the preheated oven
+T17	Evolution 817 835	the preheated oven
+E1	Evolution:T17 Cause:T7
+R1	object Arg1:T15 Arg2:T14	
+R2	location Arg1:T15 Arg2:T16	
+T18	arg_duration 836 864	until firm, about 35 minutes
+R3	duration Arg1:T15 Arg2:T18	
+T19	arg_object 774 781	mixture
+R4	object Arg1:T14 Arg2:T19	
+T20	arg_location 782 807	into an 8-inch square pan
+R5	location Arg1:T14 Arg2:T20	
+T21	Evolution 774 781	mixture
+E2	Evolution:T21 Cause:T13
+T22	arg_object 684 695	the noodles
+T23	arg_object 697 702	onion
+T24	arg_object 704 708	eggs
+T25	arg_object 710 733	remaining vegetable oil
+T26	arg_object 735 739	salt
+T27	arg_object 745 751	pepper
+T28	arg_location 752 767	in a large bowl
+R6	object Arg1:T13 Arg2:T22	
+R7	object Arg1:T13 Arg2:T23	
+R8	object Arg1:T13 Arg2:T24	
+R9	object Arg1:T13 Arg2:T25	
+R10	object Arg1:T13 Arg2:T26	
+R11	object Arg1:T13 Arg2:T27	
+R12	location Arg1:T13 Arg2:T28	
+T29	Evolution 684 695	the noodles
+E3	Evolution:T29 Cause:T6
+T30	Evolution 697 702	onion
+E4	Evolution:T30 Cause:T12
+T31	arg_object 566 570	heat
+R13	object Arg1:T11 Arg2:T31	
+R14	co-object Arg1:T11 Arg2:T10	
+T32	arg_duration 571 584	to medium-low
+R15	duration Arg1:T11 Arg2:T32	
+R16	object Arg1:T12 Arg2:T11	
+T33	arg_duration 620 674	until the onion is golden brown, 10 to 15 minutes more
+R17	duration Arg1:T12 Arg2:T33	
+T34	arg_object 464 473	the onion
+R18	object Arg1:T9 Arg2:T34	
+R19	object Arg1:T10 Arg2:T9	
+T35	arg_duration 489 557	until the onion has softened and turned translucent, about 5 minutes
+R20	duration Arg1:T10 Arg2:T35	
+T36	arg_object 391 424	1 tablespoon of the vegetable oil
+R21	object Arg1:T8 Arg2:T36	
+T37	arg_location 425 437	in a skillet
+R22	location Arg1:T8 Arg2:T37	
+T38	arg_duration 438 454	over medium heat
+R23	duration Arg1:T8 Arg2:T38	
+R24	co-object Arg1:T9 Arg2:T8	
+T39	arg_object 344 351	an oven
+T40	arg_duration 352 384	to 350 degrees F (175 degrees C)
+R25	object Arg1:T7 Arg2:T39	
+R26	duration Arg1:T7 Arg2:T40	
+T41	arg_location 305 334	in a colander set in the sink
+R27	location Arg1:T6 Arg2:T41	
+R28	object Arg1:T6 Arg2:T5	
+T42	arg_object 166 175	the pasta
+R29	object Arg1:T5 Arg2:T42	
+T43	Evolution 166 175	the pasta
+E5	Evolution:T43 Cause:T4
+T44	arg_other 176 185	uncovered
+T45	arg_other 187 208	stirring occasionally
+T46	arg_duration 210 292	until the pasta has cooked through, but is still firm to the bite, about 5 minutes
+R30	other Arg1:T5 Arg2:T44	
+R31	other Arg1:T5 Arg2:T45	
+R32	duration Arg1:T5 Arg2:T46	
+T47	arg_object 122 137	the egg noodles
+R33	object Arg1:T3 Arg2:T47	
+R34	object Arg1:T4 Arg2:T3	
+T48	arg_duration 150 159	to a boil
+R35	duration Arg1:T4 Arg2:T48	
+R36	co-object Arg1:T3 Arg2:T2	
+R37	object Arg1:T2 Arg2:T1	
+T49	arg_object 5 16	a large pot
+T50	arg_co-object 17 42	with lightly salted water
+R38	object Arg1:T1 Arg2:T49	
+R39	co-object Arg1:T1 Arg2:T50	
+T51	arg_other 53 70	to a rolling boil
+R40	other Arg1:T2 Arg2:T51	
+T52	ingredient 22 42	lightly salted water
+T53	ingredient 122 137	the egg noodles
+R41	co-object Arg1:T6 Arg2:T5	
+T54	ingredient 391 424	1 tablespoon of the vegetable oil
+T55	ingredient 464 473	the onion
+T56	ingredient 704 708	eggs
+T57	ingredient 710 733	remaining vegetable oil
+T58	ingredient 735 739	salt
+T59	ingredient 745 751	pepper

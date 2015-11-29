@@ -1,0 +1,83 @@
+T1	predicate 0 4	Heat
+T2	arg_object 5 8	oil
+T3	arg_location 9 33	in a large heavy skillet
+T4	arg_other 34 55	over medium-high heat
+R1	object Arg1:T1 Arg2:T2	
+R2	location Arg1:T1 Arg2:T3	
+R3	other Arg1:T1 Arg2:T4	
+T5	arg_other 57 70	One at a time
+T6	predicate 72 76	slip
+T7	arg_object 77 87	a tortilla
+T8	arg_co-object 88 104	into the hot oil
+R4	other Arg1:T6 Arg2:T5	
+R5	object Arg1:T6 Arg2:T7	
+R6	co-object Arg1:T6 Arg2:T8	
+T9	Evolution 93 104	the hot oil
+E1	Evolution:T9 Cause:T1
+T10	arg_duration 168 188	When crisp and brown
+T11	predicate 190 196	remove
+T12	arg_location 197 212	to paper towels
+R7	location Arg1:T11 Arg2:T12	
+R8	duration Arg1:T11 Arg2:T10	
+R9	object Arg1:T11 Arg2:T6	
+T13	predicate 214 220	Repeat
+T14	arg_co-object 221 245	with remaining tortillas
+R10	co-object Arg1:T13 Arg2:T14	
+T15	predicate 247 252	Place
+T16	arg_object 253 264	the chicken
+T17	arg_location 265 274	in a bowl
+R11	object Arg1:T15 Arg2:T16	
+R12	location Arg1:T15 Arg2:T17	
+T18	predicate 280 288	separate
+T19	arg_other 289 300	with a fork
+R13	other Arg1:T18 Arg2:T19	
+R14	object Arg1:T18 Arg2:T15	
+T20	predicate 302 309	Stir in
+T21	arg_object 310 324	the mayonnaise
+R15	co-object Arg1:T20 Arg2:T18	
+R16	object Arg1:T20 Arg2:T21	
+T22	predicate 326 330	Dice
+T23	arg_object 331 344	the jalapenos
+R17	object Arg1:T22 Arg2:T23	
+T24	arg_other 346 366	reserving the liquid
+R18	other Arg1:T22 Arg2:T24	
+T25	predicate 373 377	stir
+T26	arg_object 378 382	them
+T27	Evolution 378 382	them
+E2	Evolution:T27 Cause:T22
+R20	object Arg1:T25 Arg2:T26	
+T28	arg_co-object 383 401	into chicken salad
+T29	Evolution 388 401	chicken salad
+E3	Evolution:T29 Cause:T20
+T30	predicate 403 410	Pour in
+T31	arg_object 411 438	1 tablespoon jalapeno juice
+T32	Evolution 411 438	1 tablespoon jalapeno juice
+E4	Evolution:T32 Cause:T22
+R21	object Arg1:T30 Arg2:T31	
+R22	co-object Arg1:T30 Arg2:T25	
+T33	predicate 440 446	season
+T34	arg_co-object 447 467	with salt and pepper
+R23	co-object Arg1:T33 Arg2:T34	
+R24	object Arg1:T33 Arg2:T30	
+T35	predicate 473 477	stir
+T36	arg_other 478 482	well
+R25	other Arg1:T35 Arg2:T36	
+R26	object Arg1:T35 Arg2:T33	
+T37	predicate 494 500	spread
+T38	arg_object 501 518	the chicken salad
+T39	arg_co-object 519 534	on the tostadas
+T40	Evolution 522 534	the tostadas
+E5	Evolution:T40 Cause:T13
+R27	object Arg1:T37 Arg2:T38	
+R28	co-object Arg1:T37 Arg2:T39	
+T41	Evolution 501 518	the chicken salad
+E6	Evolution:T41 Cause:T35
+R29	other Arg1:T13 Arg2:T11	
+R30	co-object Arg1:T25 Arg2:T28	
+T42	ingredient 5 8	oil
+T43	ingredient 77 87	a tortilla
+T44	ingredient 253 264	the chicken
+T45	ingredient 310 324	the mayonnaise
+T46	ingredient 331 344	the jalapenos
+T47	ingredient 452 456	salt
+T48	ingredient 461 467	pepper

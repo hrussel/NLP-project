@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Sift together the flour , salt and baking powder .
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , salt, baking powder
+  OARG: together
+
+
+SENTID: 1
+SENT: Add egg yolks and mix until dry ingredients are moistened .
+PREDID: 0
+PRED: add
+  DOBJ: egg yolks
+
+PREDID: 1
+PRED: mix
+  PARG: dry ingredients are moistened
+    PREP: until
+
+
+SENTID: 2
+SENT: Press into a ball and cut in quarters .
+PREDID: 0
+PRED: press
+  PARG: a ball
+    PREP: into
+
+PREDID: 1
+PRED: cut
+  PARG: quarters
+    PREP: in
+
+
+SENTID: 3
+SENT: Roll out on floured surface 1/8 to 1/4 inch thick ;
+PREDID: 0
+PRED: roll
+  PARG: on floured surface 1/8 to 1/4 inch thick
+    PREP: out
+
+
+SENTID: 4
+SENT: cut to desired width and length .
+PREDID: 0
+PRED: cut
+  PARG: desired width, length
+    PREP: to
+
+
+SENTID: 5
+SENT: Lay on linen dish towel or wooden dowel to dry .
+PREDID: 0
+PRED: lay
+  PARG: linen dish towel or wooden dowel
+    PREP: on
+  PARG: dry
+    PREP: to
+
+
+SENTID: 6
+SENT: Add to broth such as chicken or turkey and cook until done .
+PREDID: 0
+PRED: add
+  PARG: broth such
+    PREP: to
+  PARG: chicken or turkey
+    PREP: as
+
+PREDID: 1
+PRED: cook
+  PARG: done
+    PREP: until
+

@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a medium bowl , whisk together coleslaw dressing , mayonnaise , and creamy salad dressing .
+PREDID: 0
+PRED: whisk
+  DOBJ: coleslaw dressing , mayonnaise , creamy salad dressing
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: In a large bowl , combine pasta , chicken , green grapes , red grapes , water chestnuts , celery , and green onions .
+PREDID: 0
+PRED: combine
+  DOBJ: pasta , chicken , green grapes , red grapes , water chestnuts , celery , green onions
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in dressing , and mix well .
+PREDID: 0
+PRED: stir
+  PARG: dressing
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Place the salad in the refrigerator to marinate for 2 hours , or overnight .
+PREDID: 0
+PRED: place
+  DOBJ: the salad
+  PARG: the refrigerator
+    PREP: in
+  PARG: 2 hours
+    PREP: for
+  OARG: to marinate
+  OARG: overnight
+
+
+SENTID: 7
+SENT: Mix in cashews and dried cranberries just before serving .
+PREDID: 0
+PRED: mix
+  PARG: cashews, dried cranberries
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: just
+
+
+SENTID: 8
+SENT: Serve cold .
+PREDID: 0
+PRED: serve
+  DOBJ: cold
+

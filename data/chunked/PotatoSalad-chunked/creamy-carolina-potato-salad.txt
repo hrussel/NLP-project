@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , 20 to 25 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , 20 to 25 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , cool , and chop potatoes into 1-inch cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: chop
+  DOBJ: potatoes
+  PARG: 1-inch cubes
+    PREP: into
+
+
+SENTID: 4
+SENT: Combine chopped potatoes and eggs in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: chopped potatoes, eggs
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix sour cream , mayonnaise , pimento peppers , green onions , bacon , mustard , sugar , vinegar , salt , black pepper , celery seed , and garlic powder together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: sour cream , mayonnaise , pimento peppers , green onions , bacon , mustard , sugar , vinegar , salt , black pepper , celery seed , garlic powder
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Pour dressing over potatoes and eggs ;
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: potatoes, eggs
+    PREP: over
+
+
+SENTID: 7
+SENT: toss gently to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 8
+SENT: Sprinkle potato salad with paprika .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: potato salad
+  PARG: paprika
+    PREP: with
+

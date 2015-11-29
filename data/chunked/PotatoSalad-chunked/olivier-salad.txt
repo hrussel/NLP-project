@@ -1,0 +1,241 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: Place the potatoes into the refrigerator to cool .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: the refrigerator
+    PREP: into
+  OARG: to cool
+
+
+SENTID: 4
+SENT: When the potatoes are cool , grate them into a large bowl .
+PREDID: 0
+PRED: grate
+  DOBJ: them
+  PARG: a large bowl
+    PREP: into
+  OARG: when the potatoes are cool
+
+
+SENTID: 5
+SENT: While the potatoes are boiling , place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: the potatoes are boiling
+    PREP: while
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 6
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Pour out the hot water , then cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 9
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 10
+SENT: Dice the cooked eggs and dill pickles .
+PREDID: 0
+PRED: dice
+  DOBJ: the cooked eggs, dill pickles
+
+
+SENTID: 11
+SENT: Place the eggs and 2/3 of the dill pickles into the salad bowl with the potatoes ;
+PREDID: 0
+PRED: place
+  DOBJ: the eggs, 2/3 of the dill pickles
+  PARG: the salad bowl
+    PREP: into
+  PARG: the potatoes
+    PREP: with
+
+
+SENTID: 12
+SENT: reserve the rest of the pickles .
+PREDID: 0
+PRED: reserve
+  DOBJ: the rest of the pickles
+
+
+SENTID: 13
+SENT: Place 3/4 of the peas into the bowl , and reserve the rest . Place the chicken breast meat into the bowl .
+PREDID: 0
+PRED: place
+  DOBJ: 3/4 of the peas
+  PARG: the bowl
+    PREP: into
+
+PREDID: 1
+PRED: reserve
+  DOBJ: the rest
+
+PREDID: 2
+PRED: place
+  DOBJ: the chicken breast meat
+  PARG: the bowl
+    PREP: into
+
+
+SENTID: 14
+SENT: Add 1/2 cup of mayonnaise and black pepper , and very lightly stir the mixture together so that the ingredients are well coated , but the peas stay whole .
+PREDID: 0
+PRED: add
+  DOBJ: 1/2 cup of mayonnaise, black pepper
+  OARG: very
+  OARG: lightly
+
+PREDID: 1
+PRED: stir
+  DOBJ: coated , but the peas stay whole
+  PARG: the ingredients are
+    PREP: that
+  OARG: together
+  OARG: so
+  OARG: well
+  OARG: the mixture
+
+
+SENTID: 15
+SENT: Place the salad in an attractive mound on a platter , and spread 1/2 cup of mayonnaise over the salad in a layer .
+PREDID: 0
+PRED: place
+  DOBJ: the salad
+  PARG: an attractive mound
+    PREP: in
+  PARG: a platter
+    PREP: on
+
+PREDID: 1
+PRED: spread
+  DOBJ: 1/2 cup of mayonnaise
+  PARG: the salad
+    PREP: over
+  PARG: a layer
+    PREP: in
+
+
+SENTID: 16
+SENT: Arrange tomato slices over the salad , and decorate with reserved diced pickle and peas .
+PREDID: 0
+PRED: arrange
+  DOBJ: tomato slices
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: decorate
+  PARG: reserved diced pickle, peas
+    PREP: with
+

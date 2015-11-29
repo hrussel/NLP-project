@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Place the ground beef , onion and garlic in a large saucepan over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef , onion, garlic
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring to crumble the beef , until the beef is no longer pink and the onion is tender .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: the beef is no longer pink, the onion is tender
+    PREP: until
+  OARG: to crumble the beef
+
+
+SENTID: 2
+SENT: Drain off the fat and return the pan to the stove .
+PREDID: 0
+PRED: drain
+  PARG: the fat
+    PREP: off
+
+PREDID: 1
+PRED: return
+  DOBJ: the pan
+  PARG: the stove
+    PREP: to
+
+
+SENTID: 3
+SENT: Combine the chili powder , cumin and basil ;
+PREDID: 0
+PRED: combine
+  DOBJ: the chili powder , cumin, basil
+
+
+SENTID: 4
+SENT: sprinkle over the beef .
+PREDID: 0
+PRED: sprinkle
+  PARG: the beef
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook and stir to coat the meat and toast the spices a little .
+PREDID: 0
+PRED: cook
+  PARG: coat the meat
+    PREP: to
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: toast
+  DOBJ: the spices a little
+
+
+SENTID: 6
+SENT: Pour in the tomatoes , green chilies , tomato sauce , beer and vinegar .
+PREDID: 0
+PRED: pour
+  PARG: the tomatoes , green chilies , tomato sauce , beer, vinegar
+    PREP: in
+
+
+SENTID: 7
+SENT: Bring to a boil and stir to loosen any bits that are stuck to the bottom of the pan .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: are stuck
+    PREP: that
+  PARG: the bottom of the pan
+    PREP: to
+  OARG: to loosen any bits
+
+
+SENTID: 8
+SENT: Mix in the brown sugar , hot pepper sauce , salt and pepper .
+PREDID: 0
+PRED: mix
+  PARG: the brown sugar , hot pepper sauce , salt, pepper
+    PREP: in
+
+
+SENTID: 9
+SENT: Reduce the heat to low , cover and simmer for 3 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: 3 hours
+    PREP: for
+
+PREDID: 2
+PRED: simmer
+
+
+SENTID: 10
+SENT: Remove the lid for the last 30 minutes of cooking .
+PREDID: 0
+PRED: remove
+  DOBJ: the lid
+  PARG: the last 30 minutes of cooking
+    PREP: for
+

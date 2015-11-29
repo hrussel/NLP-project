@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare pie crust by mixing together the flour and salt .
+PREDID: 0
+PRED: prepare
+  DOBJ: the flour, salt
+  PARG: mixing
+    PREP: by
+  OARG: together
+  OARG: pie crust
+
+
+SENTID: 2
+SENT: Cut shortening into flour , add 1 tablespoon water to mixture at a time .
+PREDID: 0
+PRED: cut
+  DOBJ: shortening
+  PARG: flour
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: 1 tablespoon water
+  PARG: mixture
+    PREP: to
+  PARG: a time
+    PREP: at
+
+
+SENTID: 3
+SENT: Mix dough and repeat until dough is moist enough to hold together .
+PREDID: 0
+PRED: mix
+  DOBJ: dough
+
+PREDID: 1
+PRED: repeat
+  PARG: dough is moist enough to hold together
+    PREP: until
+
+
+SENTID: 4
+SENT: With lightly floured hands shape dough into a ball .
+PREDID: 0
+PRED: shape
+  DOBJ: dough
+  PARG: lightly floured hands
+    PREP: with
+  PARG: a ball
+    PREP: into
+
+
+SENTID: 5
+SENT: On a lightly floured board roll dough out to 1/8 inch thickness .
+PREDID: 0
+PRED: roll
+  DOBJ: dough
+  PARG: a lightly floured board
+    PREP: on
+  PARG: to 1/8 inch thickness
+    PREP: out
+
+
+SENTID: 6
+SENT: With a sharp knife , cut dough 1Ê1/2 inch larger than the upside down 8 to 9 inch pie pan .
+PREDID: 0
+PRED: cut
+  DOBJ: dough 1Ê1/2 inch larger
+  PARG: a sharp knife
+    PREP: with
+  PARG: the upside
+    PREP: than
+  OARG: down
+
+
+SENTID: 7
+SENT: Gently roll the dough around the rolling pin and transfer it right side up on to the pie pan .
+PREDID: 0
+PRED: roll
+  DOBJ: the dough
+  PARG: the rolling pin
+    PREP: around
+  OARG: gently
+
+PREDID: 1
+PRED: transfer
+  DOBJ: side
+  PARG: to the pie pan
+    PREP: on
+  OARG: right
+  OARG: it
+  OARG: up
+
+
+SENTID: 8
+SENT: Unroll , ease dough into the bottom of the pie pan .
+PREDID: 0
+PRED: unroll
+  DOBJ: ease dough
+  PARG: the bottom of the pie pan
+    PREP: into
+
+
+SENTID: 9
+SENT: In a large bowl with mixer speed on medium , beat pumpkin with evaporated milk , eggs , brown sugar , cinnamon , ginger , nutmeg and salt .
+PREDID: 0
+PRED: beat
+  DOBJ: pumpkin
+  PARG: a large bowl
+    PREP: in
+  PARG: mixer speed
+    PREP: with
+  PARG: medium
+    PREP: on
+  PARG: evaporated milk , eggs , brown sugar , cinnamon , ginger , nutmeg, salt
+    PREP: with
+
+
+SENTID: 10
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 11
+SENT: Pour into a prepared crust .
+PREDID: 0
+PRED: pour
+  PARG: a prepared crust
+    PREP: into
+
+
+SENTID: 12
+SENT: Bake 40 minutes or until when a knife is inserted 1 inch from the edge comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: when a knife is inserted 1 inch from the edge comes out clean
+    PREP: until
+  OARG: 40 minutes
+

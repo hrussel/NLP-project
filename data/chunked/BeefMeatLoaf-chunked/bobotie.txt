@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: Heat water in a saucepan over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: water
+  PARG: a saucepan
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Bring to a boil and add the onion slices .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: the onion slices
+
+
+SENTID: 2
+SENT: Reduce heat and simmer until the onions appear translucent , 3 to five minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: the onions appear translucent , 3 to five minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove the onions and finely chop them .
+PREDID: 0
+PRED: remove
+  DOBJ: the onions
+  OARG: finely
+
+PREDID: 1
+PRED: chop
+  DOBJ: them
+
+
+SENTID: 4
+SENT: Heat the vegetable oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Stir in the onion ;
+PREDID: 0
+PRED: stir
+  PARG: the onion
+    PREP: in
+
+
+SENTID: 6
+SENT: cook and stir until the onion has browned slightly .
+PREDID: 0
+PRED: cook
+  PARG: the onion has browned slightly
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Grease a 7x11-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 7x11-inch baking dish
+
+
+SENTID: 9
+SENT: Soak the slice of bread in the milk and gently squeeze out the milk ;
+PREDID: 0
+PRED: soak
+  DOBJ: the slice of bread
+  PARG: the milk
+    PREP: in
+  OARG: gently
+
+PREDID: 1
+PRED: squeeze
+  PARG: the milk
+    PREP: out
+
+
+SENTID: 10
+SENT: set the milk aside .
+PREDID: 0
+PRED: set
+  DOBJ: the milk
+  OARG: aside
+
+
+SENTID: 11
+SENT: Crumb the bread into a large mixing bowl .
+PREDID: 0
+PRED: crumb
+  DOBJ: the bread
+  PARG: a large mixing bowl
+    PREP: into
+
+
+SENTID: 12
+SENT: Mix bread together with ground beef , curry powder , 1 egg , sugar , salt , black pepper , turmeric , vinegar , chutney , almonds and raisins .
+PREDID: 0
+PRED: mix
+  DOBJ: bread
+  PARG: ground beef , curry powder , 1 egg , sugar , salt , black pepper , turmeric , vinegar , chutney , almonds, raisins
+    PREP: with
+  OARG: together
+
+
+SENTID: 13
+SENT: Place the mixture the prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: the mixture the prepared baking dish
+
+
+SENTID: 14
+SENT: Insert the bay leaves into the meat .
+PREDID: 0
+PRED: insert
+  DOBJ: the bay leaves
+  PARG: the meat
+    PREP: into
+
+
+SENTID: 15
+SENT: Bake in the preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 16
+SENT: Beat the remaining egg with 3 tablespoons of the drained milk .
+PREDID: 0
+PRED: beat
+  DOBJ: the remaining egg
+  PARG: 3 tablespoons of the drained milk
+    PREP: with
+
+
+SENTID: 17
+SENT: Pour over the meat and bake for another 30 minutes .
+PREDID: 0
+PRED: pour
+  PARG: the meat
+    PREP: over
+
+PREDID: 1
+PRED: bake
+  PARG: another 30 minutes
+    PREP: for
+

@@ -1,0 +1,49 @@
+T1	predicate 0 3	Mix
+T2	predicate 51 55	stir
+T3	predicate 75 82	stir in
+T4	predicate 176 181	Serve
+T5	predicate 198 209	refrigerate
+T6	arg_other 4 12	together
+T7	arg_other 182 193	immediately
+T8	arg_other 56 68	to coat well
+R1	other Arg1:T1 Arg2:T6	
+R2	other Arg1:T2 Arg2:T8	
+R3	other Arg1:T4 Arg2:T7	
+R4	object Arg1:T2 Arg2:T1	
+R5	co-object Arg1:T3 Arg2:T2	
+R6	object Arg1:T4 Arg2:T3	
+R7	object Arg1:T5 Arg2:T3	
+T9	arg_object 13 24	the chicken
+T10	arg_object 29 39	mayonnaise
+T11	ingredient 13 24	the chicken
+T12	ingredient 29 39	mayonnaise
+R8	object Arg1:T1 Arg2:T9	
+R9	object Arg1:T1 Arg2:T10	
+T13	arg_location 40 49	in a bowl
+R10	location Arg1:T1 Arg2:T13	
+T14	arg_object 83 99	the green onions
+T15	arg_object 101 118	dried cranberries
+T16	arg_object 120 125	apple
+T17	arg_object 127 133	pecans
+T18	arg_object 135 145	lime juice
+T19	arg_object 147 151	salt
+T20	arg_object 153 159	pepper
+T21	arg_object 165 174	dill weed
+T22	ingredient 165 174	dill weed
+T23	ingredient 153 159	pepper
+T24	ingredient 147 151	salt
+T25	ingredient 135 145	lime juice
+T26	ingredient 127 133	pecans
+T27	ingredient 120 125	apple
+T28	ingredient 101 118	dried cranberries
+T29	ingredient 83 99	the green onions
+R11	object Arg1:T3 Arg2:T14	
+R12	object Arg1:T3 Arg2:T15	
+R13	object Arg1:T3 Arg2:T16	
+R14	object Arg1:T3 Arg2:T17	
+R15	object Arg1:T3 Arg2:T18	
+R16	object Arg1:T3 Arg2:T19	
+R17	object Arg1:T3 Arg2:T20	
+R18	object Arg1:T3 Arg2:T21	
+T30	arg_duration 210 266	several hours or overnight (the flavor just gets better)
+R19	duration Arg1:T5 Arg2:T30	

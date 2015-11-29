@@ -1,0 +1,142 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Pour out the hot water , then cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 4
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 5
+SENT: Cut eggs in half lengthwise and scoop out yolks .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: scoop
+  PARG: yolks
+    PREP: out
+
+
+SENTID: 6
+SENT: Mash the yolks with a fork in a small mixing bowl .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+  PARG: a small mixing bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix in the smoked salmon , mayonnaise , lemon juice , yellow mustard , 1 teaspoon dried dill , and the salt and pepper , combining well .
+PREDID: 0
+PRED: mix
+  PARG: the smoked salmon , mayonnaise , lemon juice , yellow mustard , 1 teaspoon dried dill , the salt, pepper , combining
+    PREP: in
+  OARG: well
+
+
+SENTID: 8
+SENT: Spoon or pipe the yolk mixture into the egg whites and sprinkle with paprika and a bit of additional dried dill .
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk mixture
+
+PREDID: 1
+PRED: pipe
+  PARG: the egg whites
+    PREP: into
+
+PREDID: 2
+PRED: sprinkle
+  PARG: paprika, a bit of additional dried dill
+    PREP: with
+
+
+SENTID: 9
+SENT: Carefully cover with plastic wrap and refrigerate until serving .
+PREDID: 0
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+  OARG: carefully
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

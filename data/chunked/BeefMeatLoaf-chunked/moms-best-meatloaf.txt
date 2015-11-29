@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the beef , onion , oatmeal , cornmeal , bread crumbs , salt , sugar , egg , tomato juice , water , barbecue sauce , 1/8 teaspoon liquid smoke and vinegar .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , onion , oatmeal , cornmeal , bread crumbs , salt , sugar , egg , tomato juice , water , barbecue sauce , 1/8 teaspoon liquid smoke, vinegar
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix together thoroughly and place mixture into a lightly greased 9x5 inch loaf pan .
+PREDID: 0
+PRED: mix
+  DOBJ: mixture
+  OARG: together
+  OARG: thoroughly
+
+PREDID: 1
+PRED: place
+  PARG: a lightly greased 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: In a separate small bowl , combine the ketchup , brown sugar , mustard and 2 drops liquid smoke and mix thoroughly .
+PREDID: 0
+PRED: combine
+  DOBJ: the ketchup , brown sugar , mustard, 2 drops liquid smoke
+  PARG: a separate small bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Spread over the top of the meatloaf .
+PREDID: 0
+PRED: spread
+  PARG: the top of the meatloaf
+    PREP: over
+
+
+SENTID: 5
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for approximately one hour .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: approximately one hour
+    PREP: for
+

@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Place the cabbage , carrot , jicama , and sesame seeds in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the cabbage , carrot , jicama , sesame seeds
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk together the mayonnaise , vinegar , sesame oil , and honey in a small bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , vinegar , sesame oil , honey
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Drizzle the dressing over the salad ;
+PREDID: 0
+PRED: drizzle
+  DOBJ: the dressing
+  PARG: the salad
+    PREP: over
+
+
+SENTID: 3
+SENT: toss until evenly coated .
+PREDID: 0
+PRED: toss
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 4
+SENT: Chill at least 4 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: least 4 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

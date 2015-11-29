@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread crescent roll dough out into an 11x14-inch jelly roll pan ;
+PREDID: 0
+PRED: spread
+  DOBJ: crescent roll dough
+  PARG: into an 11x14-inch
+    PREP: out
+  OARG: jelly
+
+PREDID: 1
+PRED: roll
+  DOBJ: pan
+
+
+SENTID: 2
+SENT: pinch perforations and seams together to make a crust .
+PREDID: 0
+PRED: pinch
+  DOBJ: perforations, seams
+  PARG: make a crust
+    PREP: to
+  OARG: together
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until crust is lightly golden brown , about 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: crust is lightly golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 4
+SENT: Let cool completely .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  OARG: completely
+
+
+SENTID: 5
+SENT: Mix cream cheese , mayonnaise , and vegetable soup mix together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cream cheese , mayonnaise , vegetable soup
+
+PREDID: 1
+PRED: mix
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Spread cream cheese mixture over the crust .
+PREDID: 0
+PRED: spread
+  DOBJ: cream cheese mixture
+  PARG: the crust
+    PREP: over
+
+
+SENTID: 7
+SENT: Sprinkle pizza with radishes , green , red , and yellow bell pepper , broccoli , cauliflower , carrot , and celery , pressing vegetables into the cream cheese mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pizza
+  PARG: radishes , green , red , yellow bell pepper , broccoli , cauliflower , carrot , celery , pressing vegetables
+    PREP: with
+  PARG: the cream cheese mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: Cut pizza into squares , cover with plastic wrap , and refrigerate overnight to blend flavors .
+PREDID: 0
+PRED: cut
+  DOBJ: pizza
+  PARG: squares
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 2
+PRED: refrigerate
+  PARG: blend flavors
+    PREP: to
+  OARG: overnight
+

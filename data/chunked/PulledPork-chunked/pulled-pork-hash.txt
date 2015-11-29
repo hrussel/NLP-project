@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Melt butter in a skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir onion in melted butter until slightly softened , about 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+
+PREDID: 1
+PRED: stir
+  PARG: melted butter
+    PREP: in
+  PARG: slightly softened , about 2 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add pork and continue to cook for 2 minutes more .
+PREDID: 0
+PRED: add
+  DOBJ: pork
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: 2 minutes more
+    PREP: for
+
+
+SENTID: 3
+SENT: Stir potatoes into pork mixture and toss .
+PREDID: 0
+PRED: stir
+  DOBJ: potatoes
+  PARG: pork mixture
+    PREP: into
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 4
+SENT: Cook until potatoes are browned , stirring occasionally , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: potatoes are browned , stirring occasionally , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Season with salt , black pepper , and cayenne pepper .
+PREDID: 0
+PRED: season
+  PARG: salt , black pepper , cayenne pepper
+    PREP: with
+

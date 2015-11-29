@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Stir the flour , baking soda , baking powder , and sugar together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour , baking soda , baking powder , sugar
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Add the bananas , mayonnaise , and chocolate chips ;
+PREDID: 0
+PRED: add
+  DOBJ: the bananas , mayonnaise , chocolate chips
+
+
+SENTID: 4
+SENT: stir until well combined .
+PREDID: 0
+PRED: stir
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour into prepared muffin cups to about 3/4 full .
+PREDID: 0
+PRED: pour
+  PARG: prepared muffin cups
+    PREP: into
+  PARG: about 3/4 full
+    PREP: to
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until golden and the tops spring back when lightly pressed , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden, the tops spring back when lightly pressed , about 20 minutes
+    PREP: until
+

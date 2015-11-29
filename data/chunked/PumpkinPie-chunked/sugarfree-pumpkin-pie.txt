@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: In a large saucepan , combine gelatin , cornstarch , spices and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: gelatin , cornstarch , spices, salt
+  PARG: a large saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in pumpkin and evaporated milk .
+PREDID: 0
+PRED: stir
+  PARG: pumpkin, evaporated milk
+    PREP: in
+
+
+SENTID: 2
+SENT: Let stand for 5 minutes to soften gelatin .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+  OARG: to soften gelatin
+
+
+SENTID: 3
+SENT: Cook and stir over medium heat until mixture bubbles ;
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: mixture bubbles
+    PREP: until
+
+
+SENTID: 4
+SENT: cook and stir for 2 minutes after bubbling .
+PREDID: 0
+PRED: cook
+  PARG: 2 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+  PARG: bubbling
+    PREP: after
+
+
+SENTID: 5
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 6
+SENT: In a medium bowl , gradually stir about 1 cup of cooked mixture into beaten eggs .
+PREDID: 0
+PRED: stir
+  PARG: a medium bowl
+    PREP: in
+  PARG: 1 cup of cooked mixture
+    PREP: about
+  PARG: beaten eggs
+    PREP: into
+  OARG: gradually
+
+
+SENTID: 7
+SENT: Return to remaining mixture in saucepan and cook over low heat for 2 minutes ;
+PREDID: 0
+PRED: return
+  PARG: remaining mixture
+    PREP: to
+  PARG: saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Remove from heat and stir in artificial sweetener after filing has cooled to 140 degrees F -LRB- 60 degrees C -RRB- .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: artificial sweetener
+    PREP: in
+  PARG: filing has cooled
+    PREP: after
+  PARG: 140 degrees f -lrb- 60 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Pour mixture into pie crust ;
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 10
+SENT: cover and chill for 6 hours or overnight .
+PREDID: 0
+PRED: cover
+  PARG: 6 hours
+    PREP: for
+
+PREDID: 1
+PRED: chill
+  OARG: overnight
+
+
+SENTID: 11
+SENT: Serve with whipped cream if desired .
+PREDID: 0
+PRED: serve
+  PARG: whipped cream
+    PREP: with
+  PARG: desired
+    PREP: if
+

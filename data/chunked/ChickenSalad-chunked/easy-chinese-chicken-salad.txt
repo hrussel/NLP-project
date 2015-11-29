@@ -1,0 +1,32 @@
+SENTID: 0
+SENT: Toss chicken meat , cabbage , onions , ramen noodles , sesame seeds , and almonds together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: chicken meat , cabbage , onions , ramen noodles , sesame seeds , almonds
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Beat olive oil , vinegar , sugar , salt , and pepper together in a small bowl ;
+PREDID: 0
+PRED: beat
+  DOBJ: olive oil , vinegar , sugar , salt , pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: drizzle over the salad and toss to coat .
+PREDID: 0
+PRED: drizzle
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

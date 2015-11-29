@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: Brown sausage and ground beef with onion and garlic in a large Dutch oven or heavy pot over medium heat , cooking and stirring until meat is cooked through , 10 to 15 minutes .
+PREDID: 0
+PRED: brown
+  DOBJ: sausage, ground beef
+  PARG: onion, garlic
+    PREP: with
+  PARG: a large dutch oven or heavy pot
+    PREP: in
+  PARG: medium heat , cooking, stirring
+    PREP: over
+  PARG: meat is cooked through , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 2
+SENT: Stir tomato sauce , crushed tomatoes , Italian-style crushed tomatoes , tomato paste , basil , 2 tablespoons parsley , brown sugar , salt , Italian seasoning , black pepper , fennel seeds , and 1/2 cup Parmesan cheese into meat mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: tomato sauce , crushed tomatoes , italian-style crushed tomatoes , tomato paste , basil , 2 tablespoons parsley , brown sugar , salt , italian seasoning , black pepper , fennel seeds , 1/2 cup parmesan cheese
+  PARG: meat mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Bring to a boil , reduce heat to low , and simmer sauce for at least 1 hour -LRB- up to 6 for best flavor -RRB- .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  DOBJ: sauce
+  PARG: at least 1 hour -lrb-
+    PREP: for
+  PARG: 6 for best flavor -rrb-
+    PREP: to
+  OARG: up
+
+
+SENTID: 4
+SENT: Stir occasionally .
+PREDID: 0
+PRED: stir
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Place lasagna noodles into a deep bowl and cover with very hot tap water ;
+PREDID: 0
+PRED: place
+  DOBJ: lasagna noodles
+  PARG: a deep bowl
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: very hot tap water
+    PREP: with
+
+
+SENTID: 6
+SENT: let soak for 30 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: soak
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Beat egg in a bowl and stir ricotta cheese , 2 tablespoons parsley , 1/2 teaspoon salt , and nutmeg into egg until thoroughly combined .
+PREDID: 0
+PRED: beat
+  DOBJ: egg
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  DOBJ: ricotta cheese , 2 tablespoons parsley , 1/2 teaspoon salt , nutmeg
+  PARG: egg
+    PREP: into
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Cover bottom of a 9x13-inch baking dish with 1 cup sauce .
+PREDID: 0
+PRED: cover
+  DOBJ: bottom of a 9x13-inch baking dish
+  PARG: 1 cup sauce
+    PREP: with
+
+
+SENTID: 10
+SENT: Layer 4 soaked lasagna noodles , 1/3 of the ricotta cheese mixture , 1/3 of the shredded mozzarella cheese , and 1/4 cup Parmesan cheese in the dish .
+PREDID: 0
+PRED: layer
+  DOBJ: 4 soaked lasagna noodles , 1/3 of the ricotta cheese mixture , 1/3 of the shredded mozzarella cheese , 1/4 cup parmesan cheese
+  PARG: the dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Repeat layers twice more , ending with mozzarella and Parmesan cheeses .
+PREDID: 0
+PRED: repeat
+  DOBJ: more , ending
+  PARG: mozzarella, parmesan cheeses
+    PREP: with
+  OARG: twice
+  OARG: layers
+
+
+SENTID: 12
+SENT: Cover dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake until lasagna noodles are tender and casserole is bubbling , about 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: lasagna noodles are tender, casserole is bubbling , about 50 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Remove foil and bake until cheese topping is lightly browned , 15 to 20 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: cheese topping is lightly browned , 15 to 20 more minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Let stand 15 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 15 minutes
+

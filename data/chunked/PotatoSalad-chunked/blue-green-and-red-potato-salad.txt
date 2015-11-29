@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , 15 to 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: Transfer potatoes to a large bowl and allow to cool to room temperature .
+PREDID: 0
+PRED: transfer
+  DOBJ: potatoes
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: room temperature
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Cut potatoes into bite size pieces and return to bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: potatoes
+  PARG: bite size pieces
+    PREP: into
+
+PREDID: 1
+PRED: return
+  PARG: bowl
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir in the blue cheese , apples , green onions , and celery .
+PREDID: 0
+PRED: stir
+  PARG: the blue cheese , apples , green onions , celery
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix in the sour cream and mayonnaise ;
+PREDID: 0
+PRED: mix
+  PARG: the sour cream, mayonnaise
+    PREP: in
+
+
+SENTID: 7
+SENT: season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

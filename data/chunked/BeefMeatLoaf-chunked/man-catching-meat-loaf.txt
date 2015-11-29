@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt the butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cook and stir the onion , bell pepper , and mushrooms in the butter for 2 to 3 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the onion , bell pepper , mushrooms
+
+PREDID: 1
+PRED: stir
+  PARG: the butter
+    PREP: in
+  PARG: 2 to 3 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: stir in the garlic , diced tomatoes , oregano , basil , ground mustard , curry powder , and red pepper ;
+PREDID: 0
+PRED: stir
+  PARG: the garlic , diced tomatoes , oregano , basil , ground mustard , curry powder , red pepper
+    PREP: in
+
+
+SENTID: 4
+SENT: continue to cook until the onions are translucent and the mushrooms are golden brown , about 5 minutes ;
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: the onions are translucent, the mushrooms are golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Combine the beef , veal , sausage , egg , 3 tablespoon Worcestershire sauce , 1/4 cup ketchup , mustard , and teriyaki in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , veal , sausage , egg , 3 tablespoon worcestershire sauce , 1/4 cup ketchup , mustard , teriyaki
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: mix gently with your hands .
+PREDID: 0
+PRED: mix
+  PARG: your hands
+    PREP: with
+  OARG: gently
+
+
+SENTID: 8
+SENT: Fold in the mushroom mixture and breadcrumbs .
+PREDID: 0
+PRED: fold
+  PARG: the mushroom mixture, breadcrumbs
+    PREP: in
+
+
+SENTID: 9
+SENT: Shape the resulting mixture into a loaf and move to a baking dish .
+PREDID: 0
+PRED: shape
+  DOBJ: the resulting mixture
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: move
+  PARG: a baking dish
+    PREP: to
+
+
+SENTID: 10
+SENT: Lay the bacon slices on top of the loaf .
+PREDID: 0
+PRED: lay
+  DOBJ: the bacon slices
+  PARG: top of the loaf
+    PREP: on
+
+
+SENTID: 11
+SENT: Bake in preheated oven for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: While the meat loaf bakes , prepare the glaze by whisking together the 1/3 cup ketchup , 1/4 cup Worcestershire sauce , and yellow mustard in a bowl .
+PREDID: 0
+PRED: prepare
+  DOBJ: the 1/3 cup ketchup , 1/4 cup worcestershire sauce , yellow mustard
+  PARG: the meat loaf bakes
+    PREP: while
+  PARG: whisking
+    PREP: by
+  PARG: a bowl
+    PREP: in
+  OARG: together
+  OARG: the glaze
+
+
+SENTID: 13
+SENT: Pour the glaze over the loaf and return to oven for another 10 minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: the glaze
+  PARG: the loaf
+    PREP: over
+
+PREDID: 1
+PRED: return
+  PARG: oven
+    PREP: to
+  PARG: another 10 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Allow meat loaf to rest for 5 minutes before serving .
+PREDID: 0
+PRED: allow
+  DOBJ: meat loaf
+  PARG: rest
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

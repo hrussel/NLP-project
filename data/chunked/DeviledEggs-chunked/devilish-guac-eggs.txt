@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Cut peeled eggs in half horizontally and scoop egg yolks into a bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: peeled eggs
+  PARG: half
+    PREP: in
+  OARG: horizontally
+
+PREDID: 1
+PRED: scoop
+  DOBJ: egg yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Scoop avocado from peels and mash the flesh into egg yolks .
+PREDID: 0
+PRED: scoop
+  DOBJ: avocado
+  PARG: peels
+    PREP: from
+
+PREDID: 1
+PRED: mash
+  DOBJ: the flesh
+  PARG: egg yolks
+    PREP: into
+
+
+SENTID: 2
+SENT: Stir onion and garlic into yolk mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: onion, garlic
+  PARG: yolk mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: add lime juice , mayonnaise , and salt .
+PREDID: 0
+PRED: add
+  DOBJ: lime juice , mayonnaise , salt
+
+
+SENTID: 4
+SENT: Stir until creamy .
+PREDID: 0
+PRED: stir
+  PARG: creamy
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon about 1 tablespoon avocado filling into hollow of each egg white half .
+PREDID: 0
+PRED: spoon
+  PARG: 1 tablespoon avocado filling
+    PREP: about
+  PARG: hollow of each egg white half
+    PREP: into
+
+
+SENTID: 6
+SENT: Place eggs onto a serving platter and sprinkle each deviled egg with a pinch of chili powder .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a serving platter
+    PREP: onto
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: each deviled egg
+  PARG: a pinch of chili powder
+    PREP: with
+
+
+SENTID: 7
+SENT: Sprinkle Cheddar cheese over each appetizer and top each with 2 slices of olive .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: cheddar cheese
+  PARG: each appetizer
+    PREP: over
+
+PREDID: 1
+PRED: top
+  DOBJ: each with 2 slices of olive
+
+
+SENTID: 8
+SENT: Cover and chill for 1 hour before serving .
+PREDID: 0
+PRED: cover
+  PARG: 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: chill
+  PARG: serving
+    PREP: before
+

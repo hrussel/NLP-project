@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the lasagna noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the lasagna noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 3
+SENT: Cook and stir ground beef in a large skillet over medium-high heat until beef is browned ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+
+PREDID: 1
+PRED: stir
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: beef is browned
+    PREP: until
+
+
+SENTID: 4
+SENT: drain , then stir in sauce .
+PREDID: 0
+PRED: drain
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: sauce
+    PREP: in
+
+
+SENTID: 5
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Combine 2 cups of mozzarella cheese , Parmesan cheese , ricotta cheese , and eggs in a separate bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: 2 cups of mozzarella cheese , parmesan cheese , ricotta cheese , eggs
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour about 1/2 cup of the sauce mixture in the bottom of a slow cooker and cover with a layer of noodles .
+PREDID: 0
+PRED: pour
+  PARG: 1/2 cup of the sauce mixture
+    PREP: about
+  PARG: the bottom of a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: a layer of noodles
+    PREP: with
+
+
+SENTID: 8
+SENT: Sprinkle about 1/4 of the cheese mixture over the noodles , then ladle about 1/4 of the remaining sauce over the cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/4 of the cheese mixture
+    PREP: about
+  PARG: the noodles
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: ladle
+  PARG: 1/4 of the remaining sauce
+    PREP: about
+  PARG: the cheese
+    PREP: over
+
+
+SENTID: 9
+SENT: Repeat layering , ending with a layer of sauce and topping with the remaining 2 cups of mozzarella cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: layering , ending
+  PARG: a layer of sauce, topping
+    PREP: with
+  PARG: the remaining 2 cups of mozzarella cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Cook on High setting for 2 to 3 hours , or on Low setting for 8 to 9 hours .
+PREDID: 0
+PRED: cook
+  PARG: high setting
+    PREP: on
+  PARG: 2 to 3 hours
+    PREP: for
+  PARG: low setting
+    PREP: on
+  PARG: 8 to 9 hours
+    PREP: for
+

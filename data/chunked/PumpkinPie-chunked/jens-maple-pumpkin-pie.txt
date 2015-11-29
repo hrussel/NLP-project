@@ -1,0 +1,254 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line a baking sheet with parchment paper .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: parchment paper
+    PREP: with
+
+
+SENTID: 2
+SENT: Place pumpkin halves , cut-side down , on prepared baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: pumpkin halves , cut-side
+  PARG: prepared baking sheet
+    PREP: on
+  OARG: down
+
+
+SENTID: 3
+SENT: Roast pumpkin in the preheated oven until tender , about 1 hour .
+PREDID: 0
+PRED: roast
+  DOBJ: pumpkin
+  PARG: the preheated oven
+    PREP: in
+  PARG: tender , about 1 hour
+    PREP: until
+
+
+SENTID: 4
+SENT: Set aside until cool enough to handle , at least 15 minutes .
+PREDID: 0
+PRED: set
+  PARG: cool enough to handle , at least 15 minutes
+    PREP: until
+  OARG: aside
+
+
+SENTID: 5
+SENT: Remove seeds from pumpkin and discard .
+PREDID: 0
+PRED: remove
+  DOBJ: seeds
+  PARG: pumpkin
+    PREP: from
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 6
+SENT: Scoop pumpkin flesh into a food processor and blend until smooth .
+PREDID: 0
+PRED: scoop
+  DOBJ: pumpkin flesh
+  PARG: a food processor
+    PREP: into
+
+PREDID: 1
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Reduce oven temperature to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: While pumpkin is roasting , roll out pie dough to fit in a 9-inch pie dish .
+PREDID: 0
+PRED: roll
+  PARG: pumpkin is roasting
+    PREP: while
+  PARG: pie dough
+    PREP: out
+  PARG: fit
+    PREP: to
+  PARG: a 9-inch pie dish
+    PREP: in
+
+
+SENTID: 9
+SENT: Crimp edges to form a border .
+PREDID: 0
+PRED: crimp
+  DOBJ: edges
+  PARG: form a border
+    PREP: to
+
+
+SENTID: 10
+SENT: Refrigerate dough until chilled , at least 45 minutes .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: dough
+  PARG: chilled , at least 45 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Line chilled pie dough with 2 sheets of aluminum foil and pour pie weights into the foil .
+PREDID: 0
+PRED: line
+  DOBJ: chilled pie dough
+  PARG: 2 sheets of aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: pour
+  DOBJ: pie weights
+  PARG: the foil
+    PREP: into
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until crust is set on the sides and lightly golden on the border , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: crust is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  DOBJ: golden
+  PARG: the sides
+    PREP: on
+  PARG: the border
+    PREP: on
+  PARG: 25 minutes
+    PREP: about
+  OARG: lightly
+
+
+SENTID: 13
+SENT: Remove aluminum foil with pie weights .
+PREDID: 0
+PRED: remove
+  DOBJ: aluminum foil
+  PARG: pie weights
+    PREP: with
+
+
+SENTID: 14
+SENT: Whisk egg white and water together in a small bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: egg white, water
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 15
+SENT: Brush border of pie crust with egg white mixture and return to oven .
+PREDID: 0
+PRED: brush
+  DOBJ: border of pie crust
+  PARG: egg white mixture
+    PREP: with
+
+PREDID: 1
+PRED: return
+  PARG: oven
+    PREP: to
+
+
+SENTID: 16
+SENT: Bake until bottom of the pie appears dry and set , about 10 minutes more .
+PREDID: 0
+PRED: bake
+  PARG: bottom of the pie appears dry
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 10 minutes more
+    PREP: about
+
+
+SENTID: 17
+SENT: Remove crust from oven and reduce temperature to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: remove
+  DOBJ: crust
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: reduce
+  DOBJ: temperature
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 18
+SENT: Whisk 2 cups pumpkin puree , cream , eggs , brown sugar , maple syrup , flour , vanilla , cinnamon , nutmeg , cloves , and salt together in a bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: 2 cups pumpkin puree
+
+PREDID: 1
+PRED: cream
+  DOBJ: eggs , brown sugar , maple syrup , flour , vanilla , cinnamon , nutmeg , cloves , salt
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 19
+SENT: Pour pumpkin mixture into baked pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: pumpkin mixture
+  PARG: baked pie crust
+    PREP: into
+
+
+SENTID: 20
+SENT: Bake pie in the preheated oven until just set in the center , about 50 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pie
+  PARG: the preheated oven
+    PREP: in
+  PARG: just
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: the center
+    PREP: in
+  PARG: 50 minutes
+    PREP: about
+

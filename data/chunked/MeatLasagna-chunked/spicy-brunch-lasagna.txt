@@ -1,0 +1,263 @@
+SENTID: 0
+SENT: In a large skillet , cook the Johnsonville ¨ Mild Italian Ground Sausage until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the johnsonville ¨ mild italian ground sausage
+  PARG: a large skillet
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off fat ;
+PREDID: 0
+PRED: drain
+  PARG: fat
+    PREP: off
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Meanwhile , in a medium bowl , combine cottage cheese , chives , green onions and carrots ;
+PREDID: 0
+PRED: combine
+  DOBJ: cottage cheese , chives , green onions, carrots
+  PARG: a medium bowl
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a very large bowl , whisk together eggs , milk , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , milk , salt, pepper
+  PARG: a very large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: In a large skillet , melt butter over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: pour in egg mixture .
+PREDID: 0
+PRED: pour
+  PARG: egg mixture
+    PREP: in
+
+
+SENTID: 8
+SENT: Cook over medium heat , without stirring , until mixture begins to set on the bottom and around the edges .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: stirring
+    PREP: without
+  PARG: mixture begins to set on the bottom, around the edges
+    PREP: until
+
+
+SENTID: 9
+SENT: With a spatula or a large spoon , lift and fold the partially cooked egg mixture so that the uncooked portion flows underneath .
+PREDID: 0
+PRED: lift
+  DOBJ: the partially cooked egg mixture
+  PARG: a spatula or a large spoon
+    PREP: with
+
+PREDID: 1
+PRED: fold
+  DOBJ: underneath
+  PARG: the uncooked portion flows
+    PREP: that
+  OARG: so
+
+
+SENTID: 10
+SENT: Continue cooking over medium heat for 2 to 3 minutes or until egg mixture is cooked through , but is still glossy and moist .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: medium heat
+    PREP: over
+  PARG: 2 to 3 minutes
+    PREP: for
+  PARG: egg mixture is cooked through , but is still glossy, moist
+    PREP: until
+
+
+SENTID: 11
+SENT: Immediately remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+  OARG: immediately
+
+
+SENTID: 12
+SENT: In a small bowl , combine the Classico ¨ Four Cheese Alfredo pasta sauce and Italian seasoning .
+PREDID: 0
+PRED: combine
+  DOBJ: the classico ¨ four cheese alfredo pasta sauce, italian seasoning
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 13
+SENT: Spread about 1/2 cup of the sauce mixture over the bottom of a 3-quart rectangular baking dish .
+PREDID: 0
+PRED: spread
+  PARG: 1/2 cup of the sauce mixture
+    PREP: about
+  PARG: the bottom of a 3-quart rectangular baking dish
+    PREP: over
+
+
+SENTID: 14
+SENT: Layer half of the lasagna noodles in the dish , overlapping as necessary .
+PREDID: 0
+PRED: layer
+  DOBJ: half of the lasagna noodles
+  PARG: the dish , overlapping
+    PREP: in
+  PARG: necessary
+    PREP: as
+
+
+SENTID: 15
+SENT: Top with half of the remaining Classico ¨ Four Cheese Alfredo pasta sauce , half of the cottage cheese mixture , half the hash browns , half of the scrambled egg mixture and half of the sausage mixture .
+PREDID: 0
+PRED: top
+  PARG: half of the remaining classico ¨ four cheese alfredo pasta sauce , half of the cottage cheese mixture , half the hash browns , half of the scrambled egg mixture, half of the sausage mixture
+    PREP: with
+
+
+SENTID: 16
+SENT: Sprinkle with 1 cup of the cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1 cup of the cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: Repeat layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+
+SENTID: 18
+SENT: Cover dish tightly with plastic wrap .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+  PARG: plastic wrap
+    PREP: with
+  OARG: tightly
+
+
+SENTID: 19
+SENT: Refrigerate for 8 hours or overnight .
+PREDID: 0
+PRED: refrigerate
+  PARG: 8 hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 20
+SENT: Remove from refrigerator and let stand at room temperature for 30 minutes before baking .
+PREDID: 0
+PRED: remove
+  PARG: refrigerator
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: room temperature
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+  PARG: baking
+    PREP: before
+
+
+SENTID: 21
+SENT: Remove plastic wrap and cover dish with foil .
+PREDID: 0
+PRED: remove
+  DOBJ: plastic wrap, cover dish
+  PARG: foil
+    PREP: with
+
+
+SENTID: 22
+SENT: Preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 23
+SENT: Bake for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 24
+SENT: Remove foil and bake 15 minutes more or until heated through .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: heated through
+    PREP: until
+  OARG: 15 minutes more
+
+
+SENTID: 25
+SENT: Let stand for 5 minutes before cutting into portions .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+  PARG: portions
+    PREP: into
+

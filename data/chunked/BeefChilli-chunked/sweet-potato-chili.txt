@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Place sweet potatoes , stewed tomatoes , tomato sauce , onion , celery , water , chili powder , cumin , cinnamon , salt , black pepper , cayenne pepper , garlic powder , and onion powder in a slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: sweet potatoes , stewed tomatoes , tomato sauce , onion , celery , water , chili powder , cumin , cinnamon , salt , black pepper , cayenne pepper , garlic powder , onion powder
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook on high , stirring occasionally , for 5 hours .
+PREDID: 0
+PRED: cook
+  PARG: high , stirring
+    PREP: on
+  PARG: 5 hours
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Heat a large skillet over medium-high heat and stir in ground turkey and ground beef .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: ground turkey, ground beef
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook and stir until meat is crumbly , evenly browned , and no longer pink , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: meat is crumbly , evenly browned , no longer pink , 10 to 15 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 5
+SENT: Add cooked ground turkey , cooked ground beef , black beans , and corn to sweet potato mixture in the slow cooker ;
+PREDID: 0
+PRED: add
+  DOBJ: cooked ground turkey , cooked ground beef , black beans , corn
+  PARG: sweet potato mixture
+    PREP: to
+  PARG: the slow cooker
+    PREP: in
+
+
+SENTID: 6
+SENT: cook until flavors have blended , 1 to 2 more hours .
+PREDID: 0
+PRED: cook
+  PARG: flavors have blended , 1 to 2 more hours
+    PREP: until
+
+
+SENTID: 7
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

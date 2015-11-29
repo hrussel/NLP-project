@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook the noodles according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: the noodles according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 2
+SENT: Brown the ground beef in a large skillet over medium high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Stir in the tomato soup , Worcestershire sauce and garlic , bring to a boil , reduce heat to low and let simmer .
+PREDID: 0
+PRED: stir
+  PARG: the tomato soup , worcestershire sauce, garlic
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil , reduce heat
+    PREP: to
+  PARG: low, let simmer
+    PREP: to
+
+
+SENTID: 4
+SENT: When noodles are done , stir them and the cheese into the simmering sauce until cheese is melted .
+PREDID: 0
+PRED: sauce
+  PARG: the simmering
+    PREP: into
+  PARG: cheese is melted
+    PREP: until
+  OARG: when noodles are done , stir them, the cheese
+
+
+SENTID: 5
+SENT: Stir the sherry into the sauce and stir for 1 minute , then place in a 2 quart casserole dish and sprinkle with the Parmesan cheese to taste .
+PREDID: 0
+PRED: stir
+  DOBJ: the sherry
+  PARG: the sauce
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: 1 minute
+    PREP: for
+  OARG: then
+
+PREDID: 2
+PRED: place
+  PARG: a 2 quart casserole dish
+    PREP: in
+
+PREDID: 3
+PRED: sprinkle
+  PARG: the parmesan cheese
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+

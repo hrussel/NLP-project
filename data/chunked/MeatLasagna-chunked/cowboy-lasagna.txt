@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees -RRB- C. Spray a 9x13 pan with cooking spray .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees -rrb- c.
+    PREP: to
+
+PREDID: 1
+PRED: spray
+  DOBJ: a 9x13 pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 1
+SENT: Brown beef in a skillet over medium heat and drain excess grease .
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 2
+SENT: Add the olives , mushrooms , and onion .
+PREDID: 0
+PRED: add
+  DOBJ: the olives , mushrooms , onion
+
+
+SENTID: 3
+SENT: Stir and cook until the onions are soft .
+PREDID: 0
+PRED: stir
+  PARG: the onions are soft
+    PREP: until
+
+PREDID: 1
+PRED: cook
+
+
+SENTID: 4
+SENT: Stir in the spaghetti sauce , pepper , oregano , and Italian seasoning .
+PREDID: 0
+PRED: stir
+  PARG: the spaghetti sauce , pepper , oregano , italian seasoning
+    PREP: in
+
+
+SENTID: 5
+SENT: In a small bowl combine the peas and corn .
+PREDID: 0
+PRED: combine
+  DOBJ: the peas, corn
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: To assemble , lay 3 noodles on bottom of prepared pan , then one half of the beef mixture , half of the corn and pea mixture .
+PREDID: 0
+PRED: lay
+  DOBJ: one half of the beef mixture , half of the corn, pea mixture
+  PARG: bottom of prepared pan
+    PREP: on
+  OARG: to assemble
+  OARG: then
+  OARG: 3 noodles
+
+
+SENTID: 7
+SENT: Repeat .
+PREDID: 0
+PRED: repeat
+
+
+SENTID: 8
+SENT: End the layers with the remaining noodles .
+PREDID: 0
+PRED: end
+  DOBJ: the layers
+  PARG: the remaining noodles
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in the preheated oven for 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Sprinkle the top with cheese and bake for an additional 5 minutes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top
+  PARG: cheese
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 5 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Let stand 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 minutes
+

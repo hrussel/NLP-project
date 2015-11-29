@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a pie dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a pie dish
+
+
+SENTID: 2
+SENT: Beat pumpkin puree , milk , sweetener , egg substitute , vanilla extract , cinnamon , ginger , and nutmeg in a bowl until smooth ;
+PREDID: 0
+PRED: beat
+  DOBJ: pumpkin puree , milk , sweetener , egg substitute , vanilla extract , cinnamon , ginger , nutmeg
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: pour into prepared pie dish .
+PREDID: 0
+PRED: pour
+  PARG: prepared pie dish
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in preheated oven until set , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: set , about 30 minutes
+    PREP: until
+

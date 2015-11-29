@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Place cooking wine and chicken in large saucepan .
+PREDID: 0
+PRED: place
+  DOBJ: cooking wine, chicken
+  PARG: large saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Add enough water to cover .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: cover
+    PREP: to
+  OARG: enough
+
+
+SENTID: 2
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: reduce heat .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 4
+SENT: Simmer 10 minutes or until chicken is tender and no longer pink .
+PREDID: 0
+PRED: simmer
+  PARG: chicken is tender, no longer pink
+    PREP: until
+  OARG: 10 minutes
+
+
+SENTID: 5
+SENT: Let chicken cool in liquid 45 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: chicken
+
+PREDID: 1
+PRED: cool
+  PARG: liquid 45 minutes
+    PREP: in
+
+
+SENTID: 6
+SENT: Drain ;
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: cut chicken into bite-sized pieces . In large bowl , combine chicken , pea pods , celery , onions , mayonnaise , lemon peel and pepper ;
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: bite-sized pieces
+    PREP: into
+  PARG: large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: chicken , pea pods , celery , onions , mayonnaise , lemon peel, pepper
+
+
+SENTID: 8
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 9
+SENT: Cover ;
+PREDID: 0
+PRED: cover
+
+
+SENTID: 10
+SENT: refrigerate 1 to 2 hours to blend flavors .
+PREDID: 0
+PRED: refrigerate
+  PARG: blend flavors
+    PREP: to
+  OARG: 1 to 2 hours
+
+
+SENTID: 11
+SENT: Just before serving , stir in almonds .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+  PARG: almonds
+    PREP: in
+  OARG: just
+
+
+SENTID: 12
+SENT: To serve , spoon chicken salad onto lettuce-lined plates .
+PREDID: 0
+PRED: spoon
+  DOBJ: chicken salad
+  PARG: serve
+    PREP: to
+  PARG: lettuce-lined plates
+    PREP: onto
+

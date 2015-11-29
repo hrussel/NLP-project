@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Cook the beef in a 12-inch skillet over medium-high heat until it 's well browned , stirring often .
+PREDID: 0
+PRED: cook
+  DOBJ: the beef
+  PARG: a 12-inch skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: it 's well browned , stirring often
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour off any fat .
+PREDID: 0
+PRED: pour
+  PARG: any fat
+    PREP: off
+
+
+SENTID: 2
+SENT: Stir the beef , onion , garlic , soup , tomatoes , water , beans , chili powder and cumin in a 3Ê1/2 - quart slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: the beef , onion , garlic , soup , tomatoes , water , beans , chili powder, cumin
+  PARG: a 3Ê1/2 - quart slow cooker
+    PREP: in
+
+
+SENTID: 3
+SENT: Cover and cook on LOW for 8 to 9 hours .
+PREDID: 0
+PRED: cover
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 9 hours
+    PREP: for
+

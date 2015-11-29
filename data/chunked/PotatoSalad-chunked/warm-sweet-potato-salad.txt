@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Place the diced sweet potatoes and potatoes in a Dutch oven , cover with water , and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: the diced sweet potatoes, potatoes
+  PARG: a dutch oven
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Drain and cool the cooked potatoes slightly .
+PREDID: 0
+PRED: drain
+  DOBJ: the cooked potatoes
+
+PREDID: 1
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 2
+SENT: Meanwhile , mix together the mayonnaise , mustard , balsamic vinegar , turmeric , chives , salt and pepper in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise , mustard , balsamic vinegar , turmeric , chives , salt, pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 3
+SENT: Add the bacon , green onions , red onion and cooked potatoes and toss to coat .
+PREDID: 0
+PRED: add
+  DOBJ: the bacon , green onions , red onion, cooked potatoes
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Serve garnished with extra chives or green onion .
+PREDID: 0
+PRED: serve
+  DOBJ: garnished
+  PARG: extra chives or green onion
+    PREP: with
+

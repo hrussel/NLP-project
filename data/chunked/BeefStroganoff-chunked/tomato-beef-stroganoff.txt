@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Spray inside of large slow cooker with cooking spray .
+PREDID: 0
+PRED: spray
+  PARG: of large slow cooker
+    PREP: inside
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 1
+SENT: Combine roast , tomatoes , tomato sauce , tomato paste , mushrooms and seasoning mix in slow cooker .
+PREDID: 0
+PRED: combine
+  DOBJ: roast , tomatoes , tomato sauce , tomato paste , mushrooms, seasoning mix
+  PARG: slow cooker
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook on LOW 8 hours or on HIGH 4 hours or until meat is tender .
+PREDID: 0
+PRED: cook
+  PARG: low 8 hours
+    PREP: on
+  PARG: high 4 hours
+    PREP: on
+  PARG: meat is tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in noodles the last 20 minutes of cook time and cook for remainder of time on HIGH .
+PREDID: 0
+PRED: stir
+  PARG: noodles the last 20 minutes of cook time
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: remainder of time
+    PREP: for
+  PARG: high
+    PREP: on
+
+
+SENTID: 4
+SENT: Stir in sour cream just before serving .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: just
+

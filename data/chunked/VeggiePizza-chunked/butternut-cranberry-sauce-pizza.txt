@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Roll out the pizza dough and shape into a round circle to fit a 10 inch pizza pan .
+PREDID: 0
+PRED: roll
+  PARG: the pizza dough
+    PREP: out
+
+PREDID: 1
+PRED: shape
+  PARG: a round circle
+    PREP: into
+  PARG: fit a 10 inch pizza pan
+    PREP: to
+
+
+SENTID: 2
+SENT: Slide the dough onto the pan .
+PREDID: 0
+PRED: slide
+  DOBJ: the dough
+  PARG: the pan
+    PREP: onto
+
+
+SENTID: 3
+SENT: Stir the squash and cranberry sauce together in a bowl until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: the squash, cranberry sauce
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Sprinkle the sauce with the Cheddar and Parmesan cheeses .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the sauce
+  PARG: the cheddar, parmesan cheeses
+    PREP: with
+
+
+SENTID: 5
+SENT: Sprinkle the pecans over the cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the pecans
+  PARG: the cheese
+    PREP: over
+
+
+SENTID: 6
+SENT: Bake in preheated oven until cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove pizza from the oven , slide onto a serving plate , and cut into wedges .
+PREDID: 0
+PRED: remove
+  DOBJ: pizza
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: slide
+  PARG: a serving plate
+    PREP: onto
+
+PREDID: 2
+PRED: cut
+  PARG: wedges
+    PREP: into
+
+
+SENTID: 8
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

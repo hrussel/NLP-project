@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Pour about 1/4 cup of spaghetti sauce into the bottom of a 9x13-inch baking dish .
+PREDID: 0
+PRED: pour
+  PARG: 1/4 cup of spaghetti sauce
+    PREP: about
+  PARG: the bottom of a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 2
+SENT: Heat vegetable oil in a large skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: cook and stir the sausage and zucchini until the meat is no longer pink and the zucchini pieces are tender , 10 to 12 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the sausage, zucchini
+
+PREDID: 1
+PRED: stir
+  PARG: the meat is no longer pink, the zucchini pieces are tender , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain excess fat from the skillet , and set the sausage mixture aside .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+  PARG: the skillet
+    PREP: from
+
+PREDID: 1
+PRED: set
+  DOBJ: the sausage mixture
+  OARG: aside
+
+
+SENTID: 5
+SENT: While the sausage and zucchinis are cooking , mix together the ricotta cheese , egg white , mozzarella cheese , and 1/4 cup of Parmesan cheese in a bowl until well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the ricotta cheese , egg white , mozzarella cheese , 1/4 cup of parmesan cheese
+  PARG: the sausage, zucchinis are cooking
+    PREP: while
+  PARG: a bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 6
+SENT: Place 3 lasagna noodles into the bottom of the baking dish on top of the spaghetti sauce , overlapping noodles slightly if necessary .
+PREDID: 0
+PRED: place
+  DOBJ: 3 lasagna noodles
+  PARG: the bottom of the baking dish
+    PREP: into
+  PARG: top of the spaghetti sauce , overlapping noodles
+    PREP: on
+  PARG: necessary
+    PREP: if
+  OARG: slightly
+
+
+SENTID: 7
+SENT: Spread half the sausage-zucchini mixture on top of the noodles .
+PREDID: 0
+PRED: spread
+  DOBJ: half the sausage-zucchini mixture
+  PARG: top of the noodles
+    PREP: on
+
+
+SENTID: 8
+SENT: Spread half the cheese mixture over the meat and zucchini , and pour 1 cup of spaghetti sauce evenly over the cheese mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: half the cheese mixture
+  PARG: the meat, zucchini
+    PREP: over
+
+PREDID: 1
+PRED: pour
+  DOBJ: 1 cup of spaghetti sauce
+  PARG: the cheese mixture
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 9
+SENT: Spread the sauce over the cheese mixture with a spoon or spatula .
+PREDID: 0
+PRED: spread
+  DOBJ: the sauce
+  PARG: the cheese mixture
+    PREP: over
+  PARG: a spoon or spatula
+    PREP: with
+
+
+SENTID: 10
+SENT: Repeat layers , starting with 3 more noodles , the rest of the sausage mixture , the rest of the cheese mixture , and 1 more cup of spaghetti sauce .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers , starting
+  PARG: 3 more noodles , the rest of the sausage mixture , the rest of the cheese mixture , 1 more cup of spaghetti sauce
+    PREP: with
+
+
+SENTID: 11
+SENT: Sprinkle the top with 1/2 cup of Parmesan cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top
+  PARG: 1/2 cup of parmesan cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until the lasagna is bubbling and the Parmesan cheese has browned , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the lasagna is bubbling, the parmesan cheese has browned , about 45 minutes
+    PREP: until
+

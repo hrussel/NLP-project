@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl combine the beef , pork , soup mix , eggs , bread crumbs , pepper and water .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , pork , soup mix , eggs , bread crumbs , pepper, water
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in 1/2 cup of the cheese .
+PREDID: 0
+PRED: stir
+  PARG: 1/2 cup of the cheese
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix well and spread half of mixture into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: mix
+  DOBJ: half of mixture
+  OARG: well
+
+PREDID: 1
+PRED: spread
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 4
+SENT: Spread remaining 1Ê1/2 cups cheese over meat loaf mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining 1Ê1/2 cups cheese
+  PARG: meat loaf mixture
+    PREP: over
+
+
+SENTID: 5
+SENT: Top with remaining half of meat loaf mixture .
+PREDID: 0
+PRED: top
+  PARG: remaining half of meat loaf mixture
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 60 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Let cool 10 to 15 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: cool 10 to 15 minutes
+

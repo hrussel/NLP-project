@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Rub garlic , seasoning salt , pepper and cayenne pepper to taste onto roast .
+PREDID: 0
+PRED: rub
+  DOBJ: garlic , seasoning salt , pepper, cayenne pepper
+  PARG: taste
+    PREP: to
+  PARG: roast
+    PREP: onto
+
+
+SENTID: 1
+SENT: Place roast in a large Dutch oven and fill half way with water ;
+PREDID: 0
+PRED: place
+  DOBJ: roast
+  PARG: a large dutch oven
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  DOBJ: half way
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: add onion .
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+
+SENTID: 3
+SENT: Bring to a rolling boil over high heat .
+PREDID: 0
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Reduce heat simmer and let cook until meat falls off the bone .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  DOBJ: cook
+
+PREDID: 2
+PRED: let
+  PARG: meat falls off the bone
+    PREP: until
+
+
+SENTID: 5
+SENT: Place hot roast in a serving bowl and pour on your favorite barbecue sauce .
+PREDID: 0
+PRED: place
+  DOBJ: hot roast
+  PARG: a serving bowl
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: your favorite barbecue sauce
+    PREP: on
+
+
+SENTID: 6
+SENT: Stir until well blended .
+PREDID: 0
+PRED: stir
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 7
+SENT: Serve on your favorite buns .
+PREDID: 0
+PRED: serve
+  PARG: your favorite buns
+    PREP: on
+

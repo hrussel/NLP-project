@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: Heat the oven to 400 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: the oven
+  PARG: 400 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray both sides of the tortillas with the cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: both sides of the tortillas
+  PARG: the cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Line 4 -LRB- 7-inch -RRB- oven-safe bowls with 1 tortilla each .
+PREDID: 0
+PRED: line
+  DOBJ: 4 -lrb- 7-inch -rrb- oven-safe bowls
+  PARG: 1 tortilla each
+    PREP: with
+
+
+SENTID: 3
+SENT: Place the bowls onto a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: the bowls
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 4
+SENT: Bake for 10 minutes or until the tortillas are golden brown and crisp .
+PREDID: 0
+PRED: bake
+  PARG: 10 minutes
+    PREP: for
+  PARG: the tortillas are golden brown, crisp
+    PREP: until
+
+
+SENTID: 5
+SENT: Let the tortillas cool in the bowls on a wire rack for 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: the tortillas cool
+  PARG: the bowls
+    PREP: in
+  PARG: a wire rack
+    PREP: on
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove the tortillas from the bowls and let cool completely on a wire rack .
+PREDID: 0
+PRED: remove
+  DOBJ: the tortillas
+  PARG: the bowls, let cool
+    PREP: from
+  PARG: a wire rack
+    PREP: on
+  OARG: completely
+
+
+SENTID: 7
+SENT: Stir the salsa and vegetable oil in a small bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the salsa, vegetable oil
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Stir the chicken and half the salsa mixture in a medium bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken, half the salsa mixture
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Cover and refrigerate for 20 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 20 minutes
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 10
+SENT: Stir in the grapefruit , avocado and pecans .
+PREDID: 0
+PRED: stir
+  PARG: the grapefruit , avocado, pecans
+    PREP: in
+
+
+SENTID: 11
+SENT: Divide the greens among the tortillas .
+PREDID: 0
+PRED: divide
+  DOBJ: the greens
+  PARG: the tortillas
+    PREP: among
+
+
+SENTID: 12
+SENT: Top with the chicken mixture .
+PREDID: 0
+PRED: top
+  PARG: the chicken mixture
+    PREP: with
+
+
+SENTID: 13
+SENT: Drizzle with the remaining salsa mixture .
+PREDID: 0
+PRED: drizzle
+  PARG: the remaining salsa mixture
+    PREP: with
+

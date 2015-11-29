@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Place pork tenderloin into a slow cooker , sprinkle meat generously with Greek seasoning , and pour the jar of peperoncini peppers with their juice over the pork .
+PREDID: 0
+PRED: place
+  DOBJ: pork tenderloin
+  PARG: a slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: meat
+  PARG: greek seasoning
+    PREP: with
+  OARG: generously
+
+PREDID: 2
+PRED: pour
+  DOBJ: the jar of peperoncini peppers
+  PARG: their juice
+    PREP: with
+  PARG: the pork
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook 4 hours on High .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  OARG: 4 hours
+
+
+SENTID: 2
+SENT: Shred the pork using 2 forks and allow to cook 10 to 15 more minutes .
+PREDID: 0
+PRED: shred
+  DOBJ: using 2 forks
+  OARG: the pork
+
+PREDID: 1
+PRED: allow
+  PARG: cook 10 to 15 more minutes
+    PREP: to
+

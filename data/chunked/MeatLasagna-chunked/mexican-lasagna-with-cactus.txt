@@ -1,0 +1,199 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a large disposable aluminum roasting pan with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a large disposable aluminum roasting pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Brown ground beef in a large skillet over medium heat , breaking the meat into crumbles as it browns , 10 to 12 minutes .
+PREDID: 0
+PRED: brown
+  DOBJ: breaking the meat
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crumbles
+    PREP: into
+  PARG: it browns , 10 to 12 minutes
+    PREP: as
+  OARG: ground beef
+
+
+SENTID: 3
+SENT: Drain excess grease and stir in taco seasoning and half the enchilada sauce .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+PREDID: 1
+PRED: stir
+  PARG: taco seasoning, half the enchilada sauce
+    PREP: in
+
+
+SENTID: 4
+SENT: Reserve remaining enchilada sauce for later use .
+PREDID: 0
+PRED: reserve
+  DOBJ: remaining enchilada sauce
+  PARG: later use
+    PREP: for
+
+
+SENTID: 5
+SENT: Bring beef mixture to a boil , reduce heat to low , and simmer until thickened , about 5 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: beef mixture
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: thickened , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Set meat aside .
+PREDID: 0
+PRED: set
+  DOBJ: meat
+  OARG: aside
+
+
+SENTID: 7
+SENT: Layer one package of tortillas into the bottom of the prepared aluminum roasting pan and spread refried beans evenly in a layer over the tortillas .
+PREDID: 0
+PRED: layer
+  DOBJ: one package of tortillas
+  PARG: the bottom of the prepared aluminum roasting pan
+    PREP: into
+
+PREDID: 1
+PRED: spread
+  DOBJ: refried beans
+  PARG: a layer
+    PREP: in
+  PARG: the tortillas
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Arrange 1 more package of halved tortillas over the beans , and top with slices of queso fresco .
+PREDID: 0
+PRED: arrange
+  DOBJ: 1 more package of halved tortillas
+  PARG: the beans
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: slices of queso fresco
+    PREP: with
+
+
+SENTID: 9
+SENT: Spread 1 package of reduced-fat Mexican cheese blend over queso fresco slices .
+PREDID: 0
+PRED: spread
+  DOBJ: 1 package of reduced-fat mexican cheese
+
+PREDID: 1
+PRED: blend
+  PARG: queso fresco slices
+    PREP: over
+
+
+SENTID: 10
+SENT: Lay half the sliced nopalitos in a criss-cross pattern over the shredded cheese .
+PREDID: 0
+PRED: lay
+  DOBJ: half the sliced nopalitos
+  PARG: a criss-cross pattern
+    PREP: in
+  PARG: the shredded cheese
+    PREP: over
+
+
+SENTID: 11
+SENT: Top nopalito layer with 1 more package of tortillas and spread beef mixture over the tortillas ;
+PREDID: 0
+PRED: top
+  DOBJ: nopalito layer
+  PARG: 1 more package of tortillas
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  DOBJ: beef mixture
+  PARG: the tortillas
+    PREP: over
+
+
+SENTID: 12
+SENT: top with remaining package of tortillas .
+PREDID: 0
+PRED: top
+  PARG: remaining package of tortillas
+    PREP: with
+
+
+SENTID: 13
+SENT: Finish casserole with remaining enchilada sauce and remaining 1 package cheese blend .
+PREDID: 0
+PRED: finish
+  DOBJ: remaining 1 package cheese blend
+  PARG: remaining enchilada sauce
+    PREP: with
+  OARG: casserole
+
+
+SENTID: 14
+SENT: Top the cheese with remaining nopalito slices arranged in a criss-cross pattern .
+PREDID: 0
+PRED: top
+  DOBJ: the cheese
+  PARG: remaining nopalito slices arranged
+    PREP: with
+  PARG: a criss-cross pattern
+    PREP: in
+
+
+SENTID: 15
+SENT: Bake in the preheated oven until casserole is bubbling and the cheese topping is melted and starting to brown , 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole is bubbling, the cheese topping is melted, starting to brown , 25 to 30 minutes
+    PREP: until
+
+
+SENTID: 16
+SENT: Serve in squares .
+PREDID: 0
+PRED: serve
+  PARG: squares
+    PREP: in
+

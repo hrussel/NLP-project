@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Crumble the ground beef into a stock pot or large Dutch oven over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: a stock pot or large dutch oven
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the onion and garlic , and cook stirring frequently until beef is evenly browned .
+PREDID: 0
+PRED: add
+  DOBJ: the onion, garlic
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: beef is evenly browned
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Drain off excess grease .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+
+SENTID: 3
+SENT: Season with chili powder , oregano , cumin and hot sauce .
+PREDID: 0
+PRED: season
+  PARG: chili powder , oregano , cumin, hot sauce
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir in the tomatoes and vinegar .
+PREDID: 0
+PRED: stir
+  PARG: the tomatoes, vinegar
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir occasionally to prevent burning on the bottom .
+PREDID: 0
+PRED: stir
+  PARG: the bottom
+    PREP: on
+  OARG: occasionally
+  OARG: to prevent burning
+

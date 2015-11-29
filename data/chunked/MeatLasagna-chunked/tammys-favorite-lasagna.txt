@@ -1,0 +1,222 @@
+SENTID: 0
+SENT: Heat oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute onions until soft .
+PREDID: 0
+PRED: saute
+  DOBJ: onions
+  PARG: soft
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in ground beef , and cook until evenly brown .
+PREDID: 0
+PRED: stir
+  PARG: ground beef
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 4
+SENT: Season with Italian seasoning , rosemary , garlic salt , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: italian seasoning , rosemary , garlic salt , salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir in tomatoes , tomato paste and water .
+PREDID: 0
+PRED: stir
+  PARG: tomatoes , tomato paste, water
+    PREP: in
+
+
+SENTID: 6
+SENT: Simmer 1 hour , or until sauce has thickened .
+PREDID: 0
+PRED: simmer
+  PARG: sauce has thickened
+    PREP: until
+  OARG: 1 hour
+
+
+SENTID: 7
+SENT: Melt butter in a saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Cook onion until soft and translucent .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+  PARG: soft, translucent
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in flour until smooth .
+PREDID: 0
+PRED: stir
+  PARG: flour
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir in Parmesan cheese , then milk .
+PREDID: 0
+PRED: stir
+  DOBJ: milk
+  PARG: parmesan cheese
+    PREP: in
+  OARG: then
+
+
+SENTID: 11
+SENT: Cook , stirring , until thick .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: thick
+    PREP: until
+
+
+SENTID: 12
+SENT: Allow to cool , then stir in egg .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: egg
+    PREP: in
+
+
+SENTID: 13
+SENT: -RRB- Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+  OARG: 
+
+
+SENTID: 14
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 15
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 16
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 17
+SENT: Lightly grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+  OARG: lightly
+
+
+SENTID: 18
+SENT: In prepared baking dish , place a layer of noodles , meat sauce , cheese sauce , ricotta , and mozzarella .
+PREDID: 0
+PRED: place
+  DOBJ: a layer of noodles , meat sauce , cheese sauce , ricotta , mozzarella
+  PARG: prepared baking dish
+    PREP: in
+
+
+SENTID: 19
+SENT: Repeat layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+
+SENTID: 20
+SENT: Build to your desired thickness , or make another smaller pan for freezing .
+PREDID: 0
+PRED: build
+  PARG: your desired thickness
+    PREP: to
+
+PREDID: 1
+PRED: make
+  DOBJ: another smaller pan
+  PARG: freezing
+    PREP: for
+
+
+SENTID: 21
+SENT: Bake in preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 22
+SENT: Let cool 15 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: cool 15 minutes
+

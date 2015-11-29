@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine ground beef , bread crumbs , chili sauce , egg , salt , and freshly ground black pepper ;
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , bread crumbs , chili sauce , egg , salt
+  PARG: a large bowl
+    PREP: in
+  OARG: freshly
+
+
+SENTID: 2
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Shape into an 8x4 inch loaf pan .
+PREDID: 0
+PRED: shape
+  PARG: an 8x4 inch loaf pan
+    PREP: into
+
+
+SENTID: 4
+SENT: Place loaf pan on a rack in an oven-roasting pan .
+PREDID: 0
+PRED: place
+  DOBJ: loaf pan
+  PARG: a rack
+    PREP: on
+  PARG: an oven-roasting pan
+    PREP: in
+
+
+SENTID: 5
+SENT: Bake for 1 hour , or until done .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: done
+    PREP: until
+
+
+SENTID: 6
+SENT: Cook until internal temperature measures 160 degrees F -LRB- 70 degrees C -RRB- ;
+PREDID: 0
+PRED: cook
+  PARG: internal temperature measures 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove from oven , and allow to rest for 10 minutes before serving .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: rest
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+
+
+SENTID: 8
+SENT: While the meatloaf is resting , prepare the gravy .
+PREDID: 0
+PRED: prepare
+  DOBJ: the gravy
+  PARG: the meatloaf is resting
+    PREP: while
+
+
+SENTID: 9
+SENT: In a medium saucepan , melt butter or margarine over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter or margarine
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 10
+SENT: Add mushrooms and onions ;
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms, onions
+
+
+SENTID: 11
+SENT: cook and stir until tender .
+PREDID: 0
+PRED: cook
+  PARG: tender
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 12
+SENT: Add beef broth ;
+PREDID: 0
+PRED: add
+  DOBJ: beef broth
+
+
+SENTID: 13
+SENT: simmer for 5 minutes , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  PARG: 5 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 14
+SENT: Combine water and cornstarch in a small cup ;
+PREDID: 0
+PRED: combine
+  DOBJ: water, cornstarch
+  PARG: a small cup
+    PREP: in
+
+
+SENTID: 15
+SENT: stir into broth .
+PREDID: 0
+PRED: stir
+  PARG: broth
+    PREP: into
+
+
+SENTID: 16
+SENT: Cook and stir for 1 minute , or until thickened .
+PREDID: 0
+PRED: cook
+  PARG: 1 minute
+    PREP: for
+
+PREDID: 1
+PRED: stir
+  PARG: thickened
+    PREP: until
+

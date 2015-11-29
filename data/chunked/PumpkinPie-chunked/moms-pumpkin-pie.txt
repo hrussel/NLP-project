@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C. -RRB- In a large bowl , combine eggs , egg yolk , white sugar and brown sugar .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: eggs , egg yolk , white sugar, brown sugar
+
+
+SENTID: 1
+SENT: Add salt , cinnamon , nutmeg , ginger and cloves .
+PREDID: 0
+PRED: add
+  DOBJ: salt , cinnamon , nutmeg , ginger, cloves
+
+
+SENTID: 2
+SENT: Gradually stir in milk and cream .
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+  OARG: gradually
+
+PREDID: 1
+PRED: cream
+
+
+SENTID: 3
+SENT: Stir in pumpkin .
+PREDID: 0
+PRED: stir
+  PARG: pumpkin
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake for ten minutes in preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: ten minutes
+    PREP: for
+  PARG: preheated oven
+    PREP: in
+
+
+SENTID: 6
+SENT: Reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- , and bake for an additional 40 to 45 minutes , or until filling is set .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 40 to 45 minutes
+    PREP: for
+  PARG: filling is set
+    PREP: until
+

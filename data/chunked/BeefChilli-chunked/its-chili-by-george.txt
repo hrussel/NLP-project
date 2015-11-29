@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 1
+SENT: Cook over medium-high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and crumble .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+
+
+SENTID: 3
+SENT: In a large pot over high heat combine the ground beef , tomato juice , tomato sauce , kidney beans , pinto beans , onions , bell pepper , cayenne pepper , sugar , oregano , ground black pepper , salt , cumin and chili powder .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , tomato juice , tomato sauce , kidney beans , pinto beans , onions , bell pepper , cayenne pepper , sugar , oregano , ground black pepper , salt , cumin, chili powder
+  PARG: a large pot
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Bring to a boil , then reduce heat to low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 5
+SENT: Simmer for 1Ê1/2 hours .
+PREDID: 0
+PRED: simmer
+  PARG: 1Ê1/2 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: -LRB- Note :
+PREDID: 0
+PRED: note
+  OARG: 
+
+
+SENTID: 7
+SENT: If using a slow cooker , set on low , add ingredients , and cook for 8 to 10 hours .
+PREDID: 0
+PRED: set
+  PARG: using a slow cooker
+    PREP: if
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: add
+  DOBJ: ingredients
+
+PREDID: 2
+PRED: cook
+  PARG: 8 to 10 hours
+    PREP: for
+

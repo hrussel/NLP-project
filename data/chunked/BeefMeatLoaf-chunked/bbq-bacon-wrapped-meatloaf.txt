@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x11-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x11-inch baking dish
+
+
+SENTID: 2
+SENT: Place bacon in a large skillet and cook over medium-high heat until edges just start to curl , 1 to 2 minutes per side .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: edges just
+    PREP: until
+
+PREDID: 2
+PRED: start
+  PARG: curl , 1 to 2 minutes
+    PREP: to
+  PARG: side
+    PREP: per
+
+
+SENTID: 3
+SENT: Drain the bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 4
+SENT: Reserve about 1 tablespoon bacon drippings in the skillet .
+PREDID: 0
+PRED: reserve
+  PARG: 1 tablespoon bacon drippings
+    PREP: about
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook and stir onion and garlic in the bacon drippings until onion is softened , 6 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the bacon drippings
+    PREP: in
+  PARG: onion is softened , 6 to 7 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove from heat and cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 7
+SENT: Mix cooled onion and garlic , ground beef , 1/2 cup barbeque sauce , bread crumbs , eggs , Worcestershire sauce , Dijon mustard , oregano , and chili powder together with your hands in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cooled onion, garlic , ground beef , 1/2 cup barbeque sauce , bread crumbs , eggs , worcestershire sauce , dijon mustard , oregano , chili powder
+  PARG: your hands
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Form beef mixture into a log-shaped meatloaf ;
+PREDID: 0
+PRED: form
+  DOBJ: beef mixture
+  PARG: a log-shaped meatloaf
+    PREP: into
+
+
+SENTID: 9
+SENT: place in the prepared baking dish .
+PREDID: 0
+PRED: place
+  PARG: the prepared baking dish
+    PREP: in
+
+
+SENTID: 10
+SENT: Wrap partially-cooked bacon slices around the meatloaf , tucking the ends of bacon underneath the loaf .
+PREDID: 0
+PRED: wrap
+  DOBJ: partially-cooked bacon slices
+  PARG: the meatloaf
+    PREP: around
+  PARG: the loaf
+    PREP: underneath
+
+
+SENTID: 11
+SENT: Bake in the preheated oven for 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 35 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Brush bacon-wrapped meatloaf with 3 tablespoons barbeque sauce .
+PREDID: 0
+PRED: brush
+  DOBJ: bacon-wrapped meatloaf
+  PARG: 3 tablespoons barbeque sauce
+    PREP: with
+
+
+SENTID: 13
+SENT: Continue baking until no longer pink in the center , about 10 more minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: baking
+  PARG: no longer pink in the center , about 10 more minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Let stand for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

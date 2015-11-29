@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: Spray a 10-inch skillet with the cooking spray and heat over medium-high heat for 1 minute .
+PREDID: 0
+PRED: spray
+  DOBJ: a 10-inch skillet
+  PARG: the cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: heat
+  PARG: medium-high heat
+    PREP: over
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 1
+SENT: Add the chicken and cook for 10 minutes or until it 's well browned on both sides .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: cook
+  PARG: 10 minutes
+    PREP: for
+  PARG: it 's well browned on both sides
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the stock , garlic and broccoli to the skillet and heat to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: the stock , garlic, broccoli
+  PARG: the skillet
+    PREP: to
+
+PREDID: 1
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Reduce the heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 4
+SENT: Cover and cook for 5 minutes or until the chicken is cooked through .
+PREDID: 0
+PRED: cover
+  PARG: 5 minutes
+    PREP: for
+
+PREDID: 1
+PRED: cook
+  PARG: the chicken is cooked through
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove the chicken from the skillet and keep warm .
+PREDID: 0
+PRED: remove
+  DOBJ: the chicken
+  PARG: the skillet
+    PREP: from
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 6
+SENT: Stir the flour , milk , mustard and black pepper in a small bowl until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour , milk , mustard, black pepper
+  PARG: a small bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Gradually stir the flour mixture into the skillet .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour mixture
+  PARG: the skillet
+    PREP: into
+  OARG: gradually
+
+
+SENTID: 8
+SENT: Increase the heat to medium-high .
+PREDID: 0
+PRED: increase
+  DOBJ: the heat
+  PARG: medium-high
+    PREP: to
+
+
+SENTID: 9
+SENT: Cook and stir until the mixture boils and thickens .
+PREDID: 0
+PRED: cook
+  PARG: the mixture boils, thickens
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 10
+SENT: Serve with the chicken and noodles .
+PREDID: 0
+PRED: serve
+  PARG: the chicken, noodles
+    PREP: with
+

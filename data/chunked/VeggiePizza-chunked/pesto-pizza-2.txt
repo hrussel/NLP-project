@@ -1,0 +1,35 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread pesto on pizza crust .
+PREDID: 0
+PRED: spread
+  DOBJ: pesto
+  PARG: pizza crust
+    PREP: on
+
+
+SENTID: 2
+SENT: Top with tomatoes , bell peppers , olives , red onions , artichoke hearts and feta cheese .
+PREDID: 0
+PRED: top
+  PARG: tomatoes , bell peppers , olives , red onions , artichoke hearts, feta cheese
+    PREP: with
+
+
+SENTID: 3
+SENT: Bake for 8 to 10 minutes , or until cheese is melted and browned .
+PREDID: 0
+PRED: bake
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: cheese is melted, browned
+    PREP: until
+

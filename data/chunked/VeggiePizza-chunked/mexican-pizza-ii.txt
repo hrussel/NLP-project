@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 2
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and stir in taco seasoning mix and water .
+PREDID: 0
+PRED: drain
+  PARG: taco seasoning mix, water
+    PREP: in
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Mix in the refried beans ;
+PREDID: 0
+PRED: mix
+  PARG: the refried beans
+    PREP: in
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Spread the beef mixture evenly on two tortillas .
+PREDID: 0
+PRED: spread
+  DOBJ: the beef mixture
+  PARG: two tortillas
+    PREP: on
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Top each tortilla with a second tortilla .
+PREDID: 0
+PRED: top
+  DOBJ: each tortilla
+  PARG: a second tortilla
+    PREP: with
+
+
+SENTID: 8
+SENT: Place even amounts of Monterey Jack cheese and Cheddar cheese on top of the second tortillas .
+PREDID: 0
+PRED: place
+  DOBJ: amounts of monterey jack cheese, cheddar cheese
+  PARG: top of the second tortillas
+    PREP: on
+  OARG: even
+
+
+SENTID: 9
+SENT: Place the tortillas onto a large baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: the tortillas
+  PARG: a large baking sheet
+    PREP: onto
+
+
+SENTID: 10
+SENT: Bake in the preheated oven 10 minutes , or until cheeses are melted .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 10 minutes
+    PREP: in
+  PARG: cheeses are melted
+    PREP: until
+
+
+SENTID: 11
+SENT: Remove from oven and top with sour cream , tomato , avocado , black olives and green onions .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: top
+  PARG: sour cream , tomato , avocado , black olives, green onions
+    PREP: with
+
+
+SENTID: 12
+SENT: Cut each pizza into 8 wedges and serve warm .
+PREDID: 0
+PRED: cut
+  DOBJ: each pizza
+  PARG: 8 wedges
+    PREP: into
+
+PREDID: 1
+PRED: serve
+  DOBJ: warm
+

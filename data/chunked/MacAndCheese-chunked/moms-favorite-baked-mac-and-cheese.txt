@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt butter in a medium saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Saute onion for 2 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Stir in flour and cook 1 minute , stirring constantly .
+PREDID: 0
+PRED: stir
+  PARG: flour
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 1 minute , stirring
+  OARG: constantly
+
+
+SENTID: 4
+SENT: Stir in milk , salt , mustard and pepper ;
+PREDID: 0
+PRED: stir
+  PARG: milk , salt , mustard, pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: cook , stirring frequently , until mixture boils and thickens .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: mixture boils, thickens
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 6
+SENT: Meanwhile , bring a pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 7
+SENT: Add macaroni and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: macaroni
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 8
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 9
+SENT: To the milk mixture add the Cheddar and American cheeses ;
+PREDID: 0
+PRED: add
+  DOBJ: the cheddar, american cheeses
+  PARG: the milk mixture
+    PREP: to
+
+
+SENTID: 10
+SENT: stir until cheese melts .
+PREDID: 0
+PRED: stir
+  PARG: cheese melts
+    PREP: until
+
+
+SENTID: 11
+SENT: Combine macaroni and cheese sauce in a 2 quart baking dish ;
+PREDID: 0
+PRED: combine
+  DOBJ: macaroni, cheese sauce
+  PARG: a 2 quart baking dish
+    PREP: in
+
+
+SENTID: 12
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 13
+SENT: Bake in preheated oven for 30 minutes , or until hot and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: hot, bubbly
+    PREP: until
+
+
+SENTID: 14
+SENT: Let cool 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: cool 10 minutes
+

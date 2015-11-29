@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the beef , eggs , tomato sauce , bread crumbs , cheese , garlic , parsley and oregano .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , eggs , tomato sauce , bread crumbs , cheese , garlic , parsley, oregano
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well and form into an 8x10 inch rectangle .
+PREDID: 0
+PRED: mix
+  PARG: an 8x10 inch rectangle
+    PREP: into
+  OARG: well
+
+PREDID: 1
+PRED: form
+
+
+SENTID: 3
+SENT: Place the ham over the rectangle mixture , and then the cheese over the ham .
+PREDID: 0
+PRED: place
+  DOBJ: the cheese
+  PARG: the rectangle mixture
+    PREP: over
+  PARG: the ham
+    PREP: over
+  OARG: then
+  OARG: the ham
+
+
+SENTID: 4
+SENT: Place roll seam side down into a 5x9 inch loaf pan and bake at 350 degrees F -LRB- 175 degrees C -RRB- for 75 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: roll seam side
+  PARG: a 5x9 inch loaf pan
+    PREP: into
+  OARG: down
+
+PREDID: 1
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 75 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+

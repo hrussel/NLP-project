@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: Place a large colander into the sink .
+PREDID: 0
+PRED: place
+  DOBJ: a large colander
+  PARG: the sink
+    PREP: into
+
+
+SENTID: 1
+SENT: Place the coleslaw mix and red cabbage into the colander .
+PREDID: 0
+PRED: place
+  DOBJ: the coleslaw mix, red cabbage
+  PARG: the colander
+    PREP: into
+
+
+SENTID: 2
+SENT: Sprinkle lightly with salt , toss , and allow to stand 15 minutes .
+PREDID: 0
+PRED: sprinkle
+  PARG: salt
+    PREP: with
+  OARG: lightly
+
+PREDID: 1
+PRED: toss
+
+PREDID: 2
+PRED: allow
+  PARG: stand 15 minutes
+    PREP: to
+
+
+SENTID: 3
+SENT: Pour the vinegar into a large bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: the vinegar
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 4
+SENT: Grate apples into the bowl and toss with vinegar to keep from turning brown .
+PREDID: 0
+PRED: grate
+  DOBJ: apples
+  PARG: the bowl
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  PARG: vinegar
+    PREP: with
+  PARG: keep
+    PREP: to
+  PARG: turning brown
+    PREP: from
+
+
+SENTID: 5
+SENT: Stir in the grated carrots , mayonnaise , sour cream , and celery seed until evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: the grated carrots , mayonnaise , sour cream , celery seed
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 6
+SENT: Season with black pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: black pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 7
+SENT: Rinse the coleslaw mix and cabbage with very cold water ;
+PREDID: 0
+PRED: rinse
+  DOBJ: the coleslaw mix, cabbage
+  PARG: very cold water
+    PREP: with
+
+
+SENTID: 8
+SENT: drain , pressing out as much water as possible .
+PREDID: 0
+PRED: drain
+  DOBJ: pressing
+  PARG: as
+    PREP: out
+  PARG: possible
+    PREP: as
+  OARG: much
+
+
+SENTID: 9
+SENT: Pat dry with paper towels .
+PREDID: 0
+PRED: pat
+  DOBJ: dry
+  PARG: paper towels
+    PREP: with
+
+
+SENTID: 10
+SENT: Stir coleslaw and cabbage into apple mixture , and toss to coat evenly with dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: coleslaw, cabbage
+  PARG: apple mixture
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  PARG: dressing
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 11
+SENT: Chill until ready to serve ;
+PREDID: 0
+PRED: chill
+  PARG: ready to serve
+    PREP: until
+
+
+SENTID: 12
+SENT: stir before serving .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+

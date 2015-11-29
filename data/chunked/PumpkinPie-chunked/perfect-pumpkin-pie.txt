@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk pumpkin , sweetened condensed milk , eggs , spices and salt in medium bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: pumpkin , sweetened condensed milk , eggs , spices, salt
+  PARG: medium bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour into crust .
+PREDID: 0
+PRED: pour
+  PARG: crust
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake 15 minutes .
+PREDID: 0
+PRED: bake
+  OARG: 15 minutes
+
+
+SENTID: 4
+SENT: Reduce oven temperature to 350 degrees F and continue baking 35 to 40 minutes or until knife inserted 1 inch from crust comes out clean .
+PREDID: 0
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 350 degrees f
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  PARG: knife inserted 1 inch from crust comes out clean
+    PREP: until
+  OARG: baking 35 to 40 minutes
+
+
+SENTID: 5
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 6
+SENT: Garnish as desired .
+PREDID: 0
+PRED: garnish
+  PARG: desired
+    PREP: as
+
+
+SENTID: 7
+SENT: Store leftovers covered in refrigerator .
+PREDID: 0
+PRED: store
+  DOBJ: leftovers covered
+  PARG: refrigerator
+    PREP: in
+

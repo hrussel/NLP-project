@@ -1,0 +1,22 @@
+SENTID: 0
+SENT: In a mixing bowl , combine the chicken , celery , mango , water chestnuts , pineapple , mandarin oranges , mayonnaise , sour cream and coconut extract .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , celery , mango , water chestnuts , pineapple , mandarin oranges , mayonnaise , sour cream, coconut extract
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix together well and refrigerate 1 to 2 hours before serving .
+PREDID: 0
+PRED: mix
+  OARG: together
+  OARG: well
+  OARG: 1 to 2 hours
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+

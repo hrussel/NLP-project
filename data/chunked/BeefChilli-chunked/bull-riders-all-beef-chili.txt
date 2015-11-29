@@ -1,0 +1,194 @@
+SENTID: 0
+SENT: Heat a large cast-iron skillet over medium-high heat until it begins to smoke slightly .
+PREDID: 0
+PRED: heat
+  DOBJ: a large cast-iron skillet
+  PARG: medium-high heat
+    PREP: over
+  PARG: it begins to smoke slightly
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour in the olive oil , and tip the pan to coat .
+PREDID: 0
+PRED: pour
+  PARG: the olive oil
+    PREP: in
+
+PREDID: 1
+PRED: tip
+  DOBJ: the pan
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Add beef cubes ;
+PREDID: 0
+PRED: add
+  DOBJ: beef cubes
+
+
+SENTID: 3
+SENT: cook and stir to brown on all sides .
+PREDID: 0
+PRED: cook
+  PARG: brown
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: all sides
+    PREP: on
+
+
+SENTID: 4
+SENT: When the meat is pretty much browned , season with chili powder , oregano , paprika and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: browned
+  PARG: chili powder , oregano , paprika, pepper
+    PREP: with
+  OARG: when the meat is
+  OARG: pretty
+  OARG: much
+
+
+SENTID: 5
+SENT: Stir the beef to coat with all of the spices , and continue browning until spices become fragrant .
+PREDID: 0
+PRED: stir
+  DOBJ: the beef
+  PARG: coat
+    PREP: to
+  PARG: all of the spices , continue browning
+    PREP: with
+  PARG: spices become fragrant
+    PREP: until
+
+
+SENTID: 6
+SENT: Scrape all of the beef out of the pan , and into a 3Ê1/2 quart slow cooker .
+PREDID: 0
+PRED: scrape
+  DOBJ: all of the beef
+  PARG: of the pan
+    PREP: out
+  PARG: a 3Ê1/2 quart slow cooker
+    PREP: into
+
+
+SENTID: 7
+SENT: Pour the water into the skillet , and watch out !
+PREDID: 0
+PRED: pour
+  DOBJ: the water
+  PARG: the skillet
+    PREP: into
+
+PREDID: 1
+PRED: watch
+  DOBJ: out
+
+
+SENTID: 8
+SENT: Stir in the beef bouillon , and scrape all of the bits of beef and spice off of the bottom of the pan .
+PREDID: 0
+PRED: stir
+  PARG: the beef bouillon
+    PREP: in
+
+PREDID: 1
+PRED: scrape
+  DOBJ: all of the bits of beef, spice
+  PARG: of the bottom of the pan
+    PREP: off
+
+
+SENTID: 9
+SENT: When the bouillon is dissolved , and the bottom of the pan is clear , pour the liquid into the slow cooker .
+PREDID: 0
+PRED: pour
+  DOBJ: the liquid
+  PARG: the slow cooker
+    PREP: into
+  OARG: when the bouillon is dissolved , the bottom of the pan is clear
+
+
+SENTID: 10
+SENT: Mix the eggplant and tomato paste into the chili .
+PREDID: 0
+PRED: mix
+  DOBJ: the eggplant, tomato paste
+  PARG: the chili
+    PREP: into
+
+
+SENTID: 11
+SENT: Adjust the amount of liquid in the slow cooker if necessary by adding water until it is within 1/2 inch of the top .
+PREDID: 0
+PRED: adjust
+  DOBJ: the amount of liquid
+  PARG: the slow cooker
+    PREP: in
+  PARG: necessary
+    PREP: if
+  PARG: adding water
+    PREP: by
+  PARG: it is within 1/2 inch of the top
+    PREP: until
+
+
+SENTID: 12
+SENT: Cover , and cook on Low for 6 to 8 hours , or on High for 3 to 4 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 6 to 8 hours
+    PREP: for
+  PARG: high
+    PREP: on
+  PARG: 3 to 4 hours
+    PREP: for
+
+
+SENTID: 13
+SENT: Twenty minutes before serving , sift in the flour , and stir in along with the salt .
+PREDID: 0
+PRED: sift
+  PARG: serving
+    PREP: before
+  PARG: the flour
+    PREP: in
+  OARG: twenty minutes
+
+PREDID: 1
+PRED: stir
+  PARG: along
+    PREP: in
+  PARG: the salt
+    PREP: with
+
+
+SENTID: 14
+SENT: Allow to cook until thickened .
+PREDID: 0
+PRED: allow
+  PARG: cook
+    PREP: to
+  PARG: thickened
+    PREP: until
+
+
+SENTID: 15
+SENT: Serve with your favorite chili toppings .
+PREDID: 0
+PRED: serve
+  PARG: your favorite chili toppings
+    PREP: with
+

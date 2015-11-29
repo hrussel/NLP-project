@@ -1,0 +1,16 @@
+SENTID: 0
+SENT: Mix chicken , pineapple chunks , walnuts , cucumber , mayonnaise , salt , and black pepper in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: chicken , pineapple chunks , walnuts , cucumber , mayonnaise , salt , black pepper
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Serve in taco bowls .
+PREDID: 0
+PRED: serve
+  PARG: taco bowls
+    PREP: in
+

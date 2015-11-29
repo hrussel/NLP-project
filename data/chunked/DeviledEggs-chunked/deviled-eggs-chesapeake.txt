@@ -1,0 +1,149 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut each egg in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: Place yolks in a bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: mash yolks with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir crab meat , oil , 1Ê1/2 teaspoons seafood seasoning , and dry mustard into yolks ;
+PREDID: 0
+PRED: stir
+  DOBJ: crab meat
+
+PREDID: 1
+PRED: oil
+  DOBJ: 1Ê1/2 teaspoons seafood seasoning , dry mustard
+  PARG: yolks
+    PREP: into
+
+
+SENTID: 8
+SENT: beat with an electric mixer on low speed to combine .
+PREDID: 0
+PRED: beat
+  PARG: an electric mixer
+    PREP: with
+  PARG: low speed
+    PREP: on
+  PARG: combine
+    PREP: to
+
+
+SENTID: 9
+SENT: Add water gradually to egg yolk mixture and increase mixer speed slowly , beating until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: egg yolk mixture
+    PREP: to
+  OARG: gradually
+
+PREDID: 1
+PRED: increase
+  DOBJ: mixer speed
+  PARG: smooth
+    PREP: until
+  OARG: slowly
+
+
+SENTID: 10
+SENT: Place egg whites on a serving platter .
+PREDID: 0
+PRED: place
+  DOBJ: egg whites
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 11
+SENT: Spoon yolk mixture into egg whites ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg whites
+    PREP: into
+
+
+SENTID: 12
+SENT: sprinkle with seafood seasoning .
+PREDID: 0
+PRED: sprinkle
+  PARG: seafood seasoning
+    PREP: with
+

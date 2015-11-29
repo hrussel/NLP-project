@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Several hours before serving make the dressing .
+PREDID: 0
+PRED: make
+  DOBJ: the dressing
+  PARG: serving
+    PREP: before
+  OARG: several hours
+
+
+SENTID: 1
+SENT: Combine mayonnaise , sesame oil , sugar and ginger .
+PREDID: 0
+PRED: combine
+  DOBJ: mayonnaise , sesame oil , sugar, ginger
+
+
+SENTID: 2
+SENT: Cover and refrigerate .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 3
+SENT: Thinly slice the cabbage and place in large bowl along with the cubed chicken .
+PREDID: 0
+PRED: slice
+  DOBJ: the cabbage
+  OARG: thinly
+
+PREDID: 1
+PRED: place
+  PARG: large bowl
+    PREP: in
+  PARG: with the cubed chicken
+    PREP: along
+
+
+SENTID: 4
+SENT: Add the green onions , toasted sesame seeds and shredded carrot .
+PREDID: 0
+PRED: add
+  DOBJ: the green onions , toasted sesame seeds, shredded carrot
+
+
+SENTID: 5
+SENT: Toss then mix in the dressing .
+PREDID: 0
+PRED: toss
+  PARG: the dressing
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: mix
+
+
+SENTID: 6
+SENT: Divide salad onto serving plates and top with additional green onion and crispy rice noodles .
+PREDID: 0
+PRED: divide
+  DOBJ: salad
+  PARG: serving plates
+    PREP: onto
+
+PREDID: 1
+PRED: top
+  PARG: additional green onion, crispy rice noodles
+    PREP: with
+

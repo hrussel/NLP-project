@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook the egg noodles in the boiling water until the pasta is tender yet firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the egg noodles
+  PARG: the boiling water
+    PREP: in
+  PARG: the pasta is tender yet firm to the bite , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: While the noodles cook , melt the butter in a large skillet over low heat .
+PREDID: 0
+PRED: cook
+  PARG: the noodles
+    PREP: while
+
+PREDID: 1
+PRED: melt
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add the cabbage to the melted butter ;
+PREDID: 0
+PRED: add
+  DOBJ: the cabbage
+  PARG: the melted butter
+    PREP: to
+
+
+SENTID: 5
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Stir the drained noodles into the cabbage ;
+PREDID: 0
+PRED: stir
+  DOBJ: the drained noodles
+  PARG: the cabbage
+    PREP: into
+
+
+SENTID: 7
+SENT: cook and stir until the noodles begin to brown , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the noodles
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: begin
+  PARG: brown
+    PREP: to
+  PARG: 5 minutes
+    PREP: about
+

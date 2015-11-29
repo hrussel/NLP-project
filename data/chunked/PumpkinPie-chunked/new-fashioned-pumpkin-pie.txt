@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Heat oven to 425 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Place pie crust in 9-inch glass pie pan as directed on box for One-Crust Filled Pie .
+PREDID: 0
+PRED: place
+  DOBJ: pie crust
+  PARG: 9-inch glass pie pan
+    PREP: in
+  PARG: directed
+    PREP: as
+  PARG: box
+    PREP: on
+  PARG: one-crust filled pie
+    PREP: for
+
+
+SENTID: 2
+SENT: In large bowl , beat eggs with wire whisk .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: large bowl
+    PREP: in
+  PARG: wire whisk
+    PREP: with
+
+
+SENTID: 3
+SENT: Stir in remaining ingredients until well blended .
+PREDID: 0
+PRED: stir
+  PARG: remaining ingredients
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour into crust-lined pan .
+PREDID: 0
+PRED: pour
+  PARG: crust-lined pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake 15 minutes .
+PREDID: 0
+PRED: bake
+  OARG: 15 minutes
+
+
+SENTID: 6
+SENT: Reduce oven temperature to 350 degrees F ;
+PREDID: 0
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 350 degrees f
+    PREP: to
+
+
+SENTID: 7
+SENT: bake 40 to 50 minutes longer or until knife inserted near center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: knife inserted near center comes out clean
+    PREP: until
+  OARG: 40 to 50 minutes
+  OARG: longer
+
+
+SENTID: 8
+SENT: Cool completely , about 2 hours .
+PREDID: 0
+PRED: cool
+  PARG: 2 hours
+    PREP: about
+  OARG: completely
+
+
+SENTID: 9
+SENT: Store in refrigerator .
+PREDID: 0
+PRED: store
+  PARG: refrigerator
+    PREP: in
+

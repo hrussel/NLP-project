@@ -1,0 +1,6 @@
+SENTID: 0
+SENT: Combine the chicken meat , celery , mayonnaise , onion powder and sweet pickles .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken meat , celery , mayonnaise , onion powder, sweet pickles
+

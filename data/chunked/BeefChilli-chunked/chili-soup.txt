@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a large pot over medium heat , combine the ground beef and onions .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef, onions
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute for 5 minutes , or until meat is browned .
+PREDID: 0
+PRED: saute
+  PARG: 5 minutes
+    PREP: for
+  PARG: meat is browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain excess fat and add the potatoes , beans , tomato soup , tomato juice , chili powder , water and salt to taste .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+PREDID: 1
+PRED: add
+  DOBJ: the potatoes , beans , tomato soup , tomato juice , chili powder , water, salt
+  PARG: taste
+    PREP: to
+
+
+SENTID: 3
+SENT: Bring just to a boil and reduce heat to low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: just
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 4
+SENT: Simmer for 1 hour and serve .
+PREDID: 0
+PRED: simmer
+  PARG: 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

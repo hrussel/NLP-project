@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Grease an 8-inch square microwave-safe glass baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8-inch square microwave-safe glass baking dish
+
+
+SENTID: 5
+SENT: Beat the eggs together in a mixing bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Stir in the cooked noodles , white sugar , chopped apples , sour cream , cottage cheese , cinnamon , salt , and raisins ;
+PREDID: 0
+PRED: stir
+  PARG: the cooked noodles , white sugar , chopped apples , sour cream , cottage cheese , cinnamon , salt , raisins
+    PREP: in
+
+
+SENTID: 7
+SENT: mix until combined .
+PREDID: 0
+PRED: mix
+  PARG: combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour the mixture into the prepared dish .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the prepared dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Microwave on medium high -LRB- 70 % power -RRB- for 7 minutes .
+PREDID: 0
+PRED: microwave
+  PARG: medium high -lrb- 70 % power -rrb-
+    PREP: on
+  PARG: 7 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Combine the brown sugar and chopped walnuts in a bowl , and cut in the butter to form a crumbly topping .
+PREDID: 0
+PRED: combine
+  DOBJ: the brown sugar, chopped walnuts
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: cut
+  PARG: the butter
+    PREP: in
+  PARG: form a crumbly topping
+    PREP: to
+
+
+SENTID: 11
+SENT: Sprinkle the topping over the pudding .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the topping
+  PARG: the pudding
+    PREP: over
+
+
+SENTID: 12
+SENT: Return the pudding to the microwave and cook on medium high -LRB- 70 % power -RRB- until the pudding is firm in the center , 7 to 9 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: the pudding
+  PARG: the microwave
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: medium high -lrb- 70 % power -rrb-
+    PREP: on
+  PARG: the pudding is firm in the center , 7 to 9 minutes
+    PREP: until
+

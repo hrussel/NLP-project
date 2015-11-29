@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix brown sugar , ground ginger , salt , cinnamon , nutmeg , allspice , and cloves together in a large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: brown sugar , ground ginger , salt , cinnamon , nutmeg , allspice , cloves
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: add pumpkin and eggs .
+PREDID: 0
+PRED: add
+  DOBJ: pumpkin, eggs
+
+
+SENTID: 3
+SENT: Beat the pumpkin mixture until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: the pumpkin mixture
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir evaporated milk into the pumpkin mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: evaporated milk
+  PARG: the pumpkin mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: pour into the pie crust .
+PREDID: 0
+PRED: pour
+  PARG: the pie crust
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in preheated oven until the pie is set in the middle , 35 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the pie is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: the middle , 35 to 40 minutes
+    PREP: in
+
+
+SENTID: 7
+SENT: Cool to room temperature before serving .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+  PARG: serving
+    PREP: before
+

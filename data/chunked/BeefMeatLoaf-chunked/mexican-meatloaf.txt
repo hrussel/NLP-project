@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix thoroughly the ground beef and taco seasoning ;
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef, taco seasoning
+  PARG: a medium bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 2
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a medium saucepan , heat the refried beans over medium low heat until they are completely heated through .
+PREDID: 0
+PRED: heat
+  DOBJ: the refried beans
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium low heat
+    PREP: over
+  PARG: they are completely heated through
+    PREP: until
+
+
+SENTID: 4
+SENT: Place the ground beef mixture on a large piece of foil .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef mixture
+  PARG: a large piece of foil
+    PREP: on
+
+
+SENTID: 5
+SENT: Press the mixture into an approximately 1 inch thick square shape .
+PREDID: 0
+PRED: press
+  DOBJ: the mixture
+  PARG: an approximately 1 inch thick square shape
+    PREP: into
+
+
+SENTID: 6
+SENT: Spread the refried beans evenly over the top of the flattened beef .
+PREDID: 0
+PRED: spread
+  DOBJ: the refried beans
+  PARG: the top of the flattened beef
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Layer the flour tortillas on top of the refried beans , trimming the edges to fit the square .
+PREDID: 0
+PRED: layer
+  DOBJ: the flour tortillas
+  PARG: top of the refried beans
+    PREP: on
+  PARG: fit the square
+    PREP: to
+
+
+SENTID: 8
+SENT: Layer tortillas with salsa and Cheddar cheese , staying 1/2 to 1 inch away from edges of the square .
+PREDID: 0
+PRED: layer
+  DOBJ: staying 1/2 to 1 inch
+  PARG: salsa, cheddar cheese
+    PREP: with
+  PARG: edges of the square
+    PREP: from
+  OARG: tortillas
+  OARG: away
+
+
+SENTID: 9
+SENT: Pinch and seal the edges .
+PREDID: 0
+PRED: pinch
+  DOBJ: the edges
+
+PREDID: 1
+PRED: seal
+
+
+SENTID: 10
+SENT: Wrap in the foil and seal .
+PREDID: 0
+PRED: wrap
+  PARG: the foil
+    PREP: in
+
+PREDID: 1
+PRED: seal
+
+
+SENTID: 11
+SENT: Bake in preheated oven 40 to 45 minutes , or until no longer pink in the center .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 40 to 45 minutes
+    PREP: in
+  PARG: no longer pink in the center
+    PREP: until
+
+
+SENTID: 12
+SENT: Cut loaf in half to test for doneness , if necessary .
+PREDID: 0
+PRED: cut
+  DOBJ: loaf
+  PARG: half
+    PREP: in
+  PARG: test
+    PREP: to
+  PARG: doneness
+    PREP: for
+  PARG: necessary
+    PREP: if
+

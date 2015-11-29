@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease cookie sheets .
+PREDID: 0
+PRED: grease
+  DOBJ: cookie sheets
+
+
+SENTID: 2
+SENT: In a very large bowl , cream together the butter , brown sugar and white sugar until smooth .
+PREDID: 0
+PRED: cream
+  DOBJ: the butter , brown sugar, white sugar
+  PARG: a very large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Beat in the eggs one at a time , then stir in the vanilla .
+PREDID: 0
+PRED: beat
+  PARG: the eggs one at a time
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the vanilla
+    PREP: in
+
+
+SENTID: 4
+SENT: Combine the flour , salt and baking soda ;
+PREDID: 0
+PRED: combine
+  DOBJ: the flour , salt, baking soda
+
+
+SENTID: 5
+SENT: stir into the sugar mixture until well incorporated .
+PREDID: 0
+PRED: stir
+  PARG: the sugar mixture
+    PREP: into
+  PARG: well incorporated
+    PREP: until
+
+
+SENTID: 6
+SENT: Mix in oats , then stir in the chocolate chips , nuts , coconut and raisins .
+PREDID: 0
+PRED: mix
+  PARG: oats
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the chocolate chips , nuts , coconut, raisins
+    PREP: in
+
+
+SENTID: 7
+SENT: Drop by heaping teaspoonfuls onto the prepared cookie sheets .
+PREDID: 0
+PRED: drop
+  PARG: heaping teaspoonfuls
+    PREP: by
+  PARG: the prepared cookie sheets
+    PREP: onto
+
+
+SENTID: 8
+SENT: Bake for 10 to 12 minutes in the preheated oven , or until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 10 to 12 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 9
+SENT: Let cookies cool for a few minutes on the cookie sheets before removing to wire racks to cool completely .
+PREDID: 0
+PRED: let
+  DOBJ: cookies cool
+  PARG: a few minutes
+    PREP: for
+  PARG: the cookie sheets
+    PREP: on
+  PARG: removing
+    PREP: before
+  PARG: wire racks
+    PREP: to
+  OARG: to cool
+  OARG: completely
+

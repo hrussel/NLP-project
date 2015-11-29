@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: Combine eggs , sugars , flour , spices and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , sugars , flour , spices, salt
+
+
+SENTID: 1
+SENT: Blend in pumpkin .
+PREDID: 0
+PRED: blend
+  PARG: pumpkin
+    PREP: in
+
+
+SENTID: 2
+SENT: Gradually add milk ;
+PREDID: 0
+PRED: add
+  DOBJ: milk
+  OARG: gradually
+
+
+SENTID: 3
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 4
+SENT: Pour into 9-inch pie shell .
+PREDID: 0
+PRED: pour
+  PARG: 9-inch pie shell
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in 450 degree F -LRB- 230 degrees C -RRB- oven 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 450 degree f -lrb- 230 degrees c -rrb- oven 10 minutes
+    PREP: in
+
+
+SENTID: 6
+SENT: Reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- and bake 40 to 50 minutes longer .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  OARG: 40 to 50 minutes
+  OARG: longer
+
+
+SENTID: 7
+SENT: Sprinkle pecan mixture over pie the last 10 minutes before removing from the oven .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pecan mixture
+  PARG: pie the last 10 minutes
+    PREP: over
+  PARG: removing
+    PREP: before
+  PARG: the oven
+    PREP: from
+
+
+SENTID: 8
+SENT: Combine 2 tablespoons butter , 1 tablespoon grated orange rind , 1/4 cup brown sugar and 3/4 cup whole pecans .
+PREDID: 0
+PRED: combine
+  DOBJ: 2 tablespoons butter , 1 tablespoon grated orange rind , 1/4 cup brown sugar, 3/4 cup whole pecans
+

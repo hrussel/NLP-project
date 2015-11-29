@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: In a medium bowl , mix together flour and 1/2 teaspoon salt .
+PREDID: 0
+PRED: mix
+  DOBJ: flour, 1/2 teaspoon salt
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Using a pastry blender or two knives , cut half of the shortening into flour mixture , until fine crumbs form .
+PREDID: 0
+PRED: cut
+  DOBJ: using a pastry blender or two knives
+  PARG: flour mixture
+    PREP: into
+  PARG: fine crumbs form
+    PREP: until
+
+
+SENTID: 2
+SENT: Cut in remaining shortening until coarse crumbs form .
+PREDID: 0
+PRED: cut
+  PARG: remaining shortening
+    PREP: in
+  PARG: coarse crumbs form
+    PREP: until
+
+
+SENTID: 3
+SENT: Add water , 1 tablespoon at a time , tossing with fork until a dough forms .
+PREDID: 0
+PRED: add
+  DOBJ: water , 1 tablespoon
+  PARG: a time , tossing
+    PREP: at
+  PARG: fork
+    PREP: with
+  PARG: a dough forms
+    PREP: until
+
+
+SENTID: 4
+SENT: Shape dough into a disk and wrap in plastic wrap ;
+PREDID: 0
+PRED: shape
+  DOBJ: dough
+  PARG: a disk
+    PREP: into
+
+PREDID: 1
+PRED: wrap
+  PARG: plastic wrap
+    PREP: in
+
+
+SENTID: 5
+SENT: chill for 30 minutes .
+PREDID: 0
+PRED: chill
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: On a floured surface , using a floured rolling pin , roll dough into an 11-inch circle .
+PREDID: 0
+PRED: roll
+  DOBJ: using a floured rolling pin
+  PARG: a floured surface
+    PREP: on
+  PARG: an 11-inch circle
+    PREP: into
+
+
+SENTID: 8
+SENT: Fit dough into a 9-in quiche dish .
+PREDID: 0
+PRED: fit
+  DOBJ: dough
+  PARG: a 9-in quiche dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Trim edges In a heavy skillet , melt 2 tablespoons butter over low heat .
+PREDID: 0
+PRED: trim
+  DOBJ: edges
+  PARG: a heavy skillet
+    PREP: in
+
+PREDID: 1
+PRED: melt
+  DOBJ: 2 tablespoons butter
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 10
+SENT: Add nuts and stir for about 5 minutes , or until nuts begin to color .
+PREDID: 0
+PRED: add
+  DOBJ: nuts
+
+PREDID: 1
+PRED: stir
+  PARG: about 5 minutes
+    PREP: for
+  PARG: nuts begin to color
+    PREP: until
+
+
+SENTID: 11
+SENT: Let cool for 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Mix together beaten egg , maple syrup , sugar , 1/3 cup melted butter , vanilla , and 1/2 teaspoon salt .
+PREDID: 0
+PRED: mix
+  DOBJ: beaten egg , maple syrup , sugar , 1/3 cup melted butter , vanilla , 1/2 teaspoon salt
+  OARG: together
+
+
+SENTID: 13
+SENT: Stir in nuts .
+PREDID: 0
+PRED: stir
+  PARG: nuts
+    PREP: in
+
+
+SENTID: 14
+SENT: Pour filling into crust .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: crust
+    PREP: into
+
+
+SENTID: 15
+SENT: Bake for 45 to 50 minutes , or until filling is set .
+PREDID: 0
+PRED: bake
+  PARG: 45 to 50 minutes
+    PREP: for
+  PARG: filling is set
+    PREP: until
+
+
+SENTID: 16
+SENT: Transfer pan to wire rack and cool .
+PREDID: 0
+PRED: transfer
+  DOBJ: pan
+  PARG: wire rack
+    PREP: to
+
+PREDID: 1
+PRED: cool
+

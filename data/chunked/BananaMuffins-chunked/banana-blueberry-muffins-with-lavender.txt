@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 12-cup muffin tin with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 12-cup muffin tin
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Combine all-purpose flour , whole-wheat flour , sugar , baking powder , lavender , and salt together in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: all-purpose flour , whole-wheat flour , sugar , baking powder , lavender , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Mix bananas , milk , canola oil , and egg together in a separate bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: bananas , milk , canola oil , egg
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Add banana mixture to flour mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: banana mixture
+  PARG: flour mixture
+    PREP: to
+
+
+SENTID: 5
+SENT: stir until just combined .
+PREDID: 0
+PRED: stir
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Fold in blueberries .
+PREDID: 0
+PRED: fold
+  PARG: blueberries
+    PREP: in
+
+
+SENTID: 7
+SENT: Spoon batter into prepared muffin tin .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin tin
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until golden and a toothpick inserted in the center comes out clean , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden, a toothpick inserted in the center comes out clean , about 20 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool muffins in tin for 5 minutes before transferring to a wire rack .
+PREDID: 0
+PRED: cool
+  DOBJ: muffins
+  PARG: tin
+    PREP: in
+  PARG: 5 minutes
+    PREP: for
+  PARG: transferring
+    PREP: before
+  PARG: a wire rack
+    PREP: to
+

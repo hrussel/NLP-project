@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Unroll 1 pie crust on a work surface ;
+PREDID: 0
+PRED: unroll
+  DOBJ: 1 pie crust
+  PARG: a work surface
+    PREP: on
+
+
+SENTID: 2
+SENT: brush with water .
+PREDID: 0
+PRED: brush
+  PARG: water
+    PREP: with
+
+
+SENTID: 3
+SENT: Place second pie crust atop the first pie crust ;
+PREDID: 0
+PRED: place
+  DOBJ: second pie crust
+  PARG: the first pie crust
+    PREP: atop
+
+
+SENTID: 4
+SENT: press gently together .
+PREDID: 0
+PRED: press
+  OARG: gently
+  OARG: together
+
+
+SENTID: 5
+SENT: Place the double crust in a 9-inch pie pan .
+PREDID: 0
+PRED: place
+  DOBJ: the double crust
+  PARG: a 9-inch pie pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Beat cream cheese , 1/2 cup sugar , 1 egg , vanilla , and salt together in a bowl until smooth and creamy .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese , 1/2 cup sugar , 1 egg , vanilla , salt
+  PARG: a bowl
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: Pour into pie crust ;
+PREDID: 0
+PRED: pour
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 8
+SENT: sprinkle cheesecake filling with pecans .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: cheesecake filling
+  PARG: pecans
+    PREP: with
+
+
+SENTID: 9
+SENT: Mix corn syrup , butter , 1/4 cup sugar , 3 eggs , and rum extract together in a bowl until smooth ;
+PREDID: 0
+PRED: mix
+  DOBJ: corn syrup
+
+PREDID: 1
+PRED: butter
+  DOBJ: 1/4 cup sugar , 3 eggs , rum extract
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 10
+SENT: pour over pecan layer .
+PREDID: 0
+PRED: pour
+  PARG: pecan layer
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until a knife inserted in the center of the pie comes out clean , 45 to 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a knife inserted in the center of the pie comes out clean , 45 to 50 minutes
+    PREP: until
+

@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix flour , soda , baking powder , cinnamon , nutmeg , cloves and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , soda , baking powder , cinnamon , nutmeg , cloves, salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , cream brown sugar and 1/2 cup margarine .
+PREDID: 0
+PRED: cream
+  DOBJ: brown sugar, 1/2 cup margarine
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Add eggs and mix in .
+PREDID: 0
+PRED: add
+  DOBJ: eggs
+
+PREDID: 1
+PRED: mix
+  DOBJ: in
+
+
+SENTID: 5
+SENT: Add shredded carrots , raisins and orange juice .
+PREDID: 0
+PRED: add
+  DOBJ: shredded carrots , raisins, orange juice
+
+
+SENTID: 6
+SENT: Stir in flour mixture , and beat until well combined .
+PREDID: 0
+PRED: stir
+  PARG: flour mixture
+    PREP: in
+
+PREDID: 1
+PRED: beat
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour into ungreased 8x8 inch pan .
+PREDID: 0
+PRED: pour
+  PARG: ungreased 8x8 inch pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake at 325 degrees F -LRB- 165 degrees C -RRB- for 35 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: at
+  PARG: 35 to 40 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Butter sauce :
+PREDID: 0
+PRED: butter
+  DOBJ: sauce
+
+
+SENTID: 10
+SENT: In a saucepan over low heat , combine 1/2 cup butter or margarine , sugar , cornstarch , water and vanilla .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/2 cup butter or margarine , sugar , cornstarch , water, vanilla
+  PARG: a saucepan
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Cook and stir .
+PREDID: 0
+PRED: cook
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 12
+SENT: When mixture comes to a boil , continue to boil for 1 minute .
+PREDID: 0
+PRED: continue
+  PARG: a boil
+    PREP: to
+  PARG: boil
+    PREP: to
+  PARG: 1 minute
+    PREP: for
+  OARG: when mixture comes
+
+
+SENTID: 13
+SENT: Serve warm over carrot cake squares -LRB- can be reheated in microwave -RRB- .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+  PARG: carrot cake squares -lrb- can be reheated
+    PREP: over
+  PARG: microwave -rrb-
+    PREP: in
+

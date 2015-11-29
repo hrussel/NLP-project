@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Cook noodles in a large pot of boiling water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Meanwhile prepare the sauce .
+PREDID: 0
+PRED: prepare
+  DOBJ: the sauce
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Heat oil in a medium saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add onions , and ham if desired .
+PREDID: 0
+PRED: add
+  DOBJ: onions , ham
+  PARG: desired
+    PREP: if
+
+
+SENTID: 5
+SENT: Cook until onion is transparent , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: onion is transparent , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Add garlic , and cook for 30 seconds .
+PREDID: 0
+PRED: add
+  DOBJ: garlic
+
+PREDID: 1
+PRED: cook
+  PARG: 30 seconds
+    PREP: for
+
+
+SENTID: 7
+SENT: Stir in thawed spinach .
+PREDID: 0
+PRED: stir
+  PARG: thawed spinach
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix in sour cream , cream of celery soup , and Parmesan cheese .
+PREDID: 0
+PRED: mix
+  PARG: sour cream , cream of celery soup , parmesan cheese
+    PREP: in
+
+
+SENTID: 9
+SENT: Reduce heat to low , and heat through .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 10
+SENT: Serve spinach sauce over spaghetti or egg noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: spinach sauce
+  PARG: spaghetti or egg noodles
+    PREP: over
+

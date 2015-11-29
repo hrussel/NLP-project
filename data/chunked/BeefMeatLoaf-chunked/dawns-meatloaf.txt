@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground beef , egg , oats , onion , milk , mustard , Worcestershire sauce , salt , and pepper together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , egg , oats , onion , milk , mustard , worcestershire sauce , salt , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: transfer into a loaf pan .
+PREDID: 0
+PRED: transfer
+  PARG: a loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until no longer pink in the center , 50 to 60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , 50 to 60 minutes
+    PREP: until
+

@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Beat eggs and sugar , add Ricotta , milk , and vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs, sugar
+
+PREDID: 1
+PRED: add
+  DOBJ: ricotta , milk , vanilla
+
+
+SENTID: 1
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 2
+SENT: Cook macaroni , drain , put in large mixing bowl and melt butter over top .
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: put
+  PARG: large mixing bowl
+    PREP: in
+
+PREDID: 3
+PRED: melt
+  DOBJ: butter
+  PARG: top
+    PREP: over
+
+
+SENTID: 3
+SENT: Add egg/Ricotta mixture , stirring in thoroughly .
+PREDID: 0
+PRED: add
+  DOBJ: egg/ricotta mixture , stirring
+  PARG: thoroughly
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour into thoroughly buttered 6x10 inch pan .
+PREDID: 0
+PRED: pour
+  PARG: thoroughly buttered 6x10 inch pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake for 1 hour at 350 degrees F -LRB- 175 degrees C -RRB- , let cool , then refrigerate before serving .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+  OARG: then
+
+PREDID: 2
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+

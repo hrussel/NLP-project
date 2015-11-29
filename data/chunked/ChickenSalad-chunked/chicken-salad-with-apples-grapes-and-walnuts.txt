@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Toss shredded chicken , apple chunks , walnuts , red onion , celery , and lemon juice together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: shredded chicken , apple chunks , walnuts , red onion , celery , lemon juice
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Whisk vanilla yogurt , salad dressing , and mayonnaise together in a separate bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: vanilla yogurt , salad dressing , mayonnaise
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: pour over the chicken mixture and stir to coat .
+PREDID: 0
+PRED: pour
+  PARG: the chicken mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Gently fold the grapes into the salad .
+PREDID: 0
+PRED: fold
+  DOBJ: the grapes
+  PARG: the salad
+    PREP: into
+  OARG: gently
+

@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: In a medium bowl , mix buttermilk with wheat bran .
+PREDID: 0
+PRED: mix
+  DOBJ: buttermilk
+  PARG: a medium bowl
+    PREP: in
+  PARG: wheat bran
+    PREP: with
+
+
+SENTID: 3
+SENT: In another bowl , beat together egg , sugar , oil , banana , and vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: egg , sugar , oil , banana , vanilla
+  PARG: another bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: In a large bowl , stir together flour , oat bran , baking soda , and baking powder .
+PREDID: 0
+PRED: stir
+  DOBJ: flour , oat bran , baking soda , baking powder
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir buttermilk mixture and egg mixture into flour mixture until flour is just moistened .
+PREDID: 0
+PRED: stir
+  DOBJ: buttermilk mixture, egg mixture
+  PARG: flour mixture
+    PREP: into
+  PARG: flour is just moistened
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in berries and walnuts .
+PREDID: 0
+PRED: stir
+  PARG: berries, walnuts
+    PREP: in
+
+
+SENTID: 7
+SENT: Spoon batter into muffin cups . Bake in preheated oven for 20 minutes , or until done .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+

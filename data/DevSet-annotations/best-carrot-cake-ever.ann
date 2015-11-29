@@ -1,0 +1,118 @@
+T1	arg_location 0 16	In a medium bowl
+T2	predicate 18 25	combine
+T3	predicate 58 67	Set aside
+T4	predicate 89 96	stir in
+T5	predicate 106 113	Preheat
+T7	predicate 210 214	beat
+T6	predicate 153 159	Grease
+T8	predicate 164 169	flour
+T10	predicate 285 292	Stir in
+T11	predicate 308 315	Combine
+T12	predicate 359 363	stir
+T13	predicate 409 416	stir in
+T14	predicate 453 457	Pour
+T15	predicate 489 493	Bake
+T16	predicate 578 582	Cool
+T17	predicate 648 653	frost
+T18	arg_object 26 40	grated carrots
+T19	arg_object 45 56	brown sugar
+T20	arg_object 97 104	raisins
+T21	arg_object 114 118	oven
+T22	arg_object 170 191	two 10 inch cake pans
+T23	arg_object 215 219	eggs
+T9	predicate 243 250	beat in
+T24	arg_object 251 266	the white sugar
+T25	arg_object 268 271	oil
+T26	arg_object 276 283	vanilla
+T27	arg_object 293 306	the pineapple
+T28	arg_object 316 325	the flour
+T29	arg_object 327 338	baking soda
+T30	arg_object 340 344	salt
+T31	arg_object 349 357	cinnamon
+T32	arg_object 417 435	the carrot mixture
+T33	arg_object 440 451	the walnuts
+T34	arg_duration 68 82	for 60 minutes
+T35	arg_duration 119 151	to 350 degrees F (175 degrees C)
+T36	arg_duration 220 231	until light
+T37	arg_duration 385 399	until absorbed
+T38	arg_duration 538 576	until cake tests done with a toothpick
+R1	location Arg1:T2 Arg2:T1	
+R2	object Arg1:T2 Arg2:T18	
+R3	object Arg1:T2 Arg2:T19	
+R4	object Arg1:T3 Arg2:T2	
+R5	duration Arg1:T3 Arg2:T34	
+R6	object Arg1:T4 Arg2:T20	
+R7	co-object Arg1:T4 Arg2:T3	
+R8	object Arg1:T5 Arg2:T21	
+R9	duration Arg1:T5 Arg2:T35	
+R10	object Arg1:T6 Arg2:T22	
+R11	object Arg1:T8 Arg2:T6	
+T40	arg_location 193 208	In a large bowl
+R12	location Arg1:T7 Arg2:T40	
+R13	object Arg1:T7 Arg2:T23	
+R14	duration Arg1:T7 Arg2:T36	
+R15	object Arg1:T9 Arg2:T24	
+R16	object Arg1:T9 Arg2:T25	
+R17	object Arg1:T9 Arg2:T26	
+R18	co-object Arg1:T9 Arg2:T7	
+R19	object Arg1:T10 Arg2:T27	
+R20	co-object Arg1:T10 Arg2:T9	
+R21	object Arg1:T11 Arg2:T28	
+R22	object Arg1:T11 Arg2:T29	
+R23	object Arg1:T11 Arg2:T30	
+R24	object Arg1:T11 Arg2:T31	
+T41	arg_co-object 364 384	into the wet mixture
+T42	Evolution 369 384	the wet mixture
+E1	Evolution:T42 Cause:T10
+R25	co-object Arg1:T12 Arg2:T41	
+R26	duration Arg1:T12 Arg2:T37	
+R27	object Arg1:T12 Arg2:T11	
+T43	arg_other 458 464	evenly
+T44	arg_location 465 487	into the prepared pans
+T45	Evolution 470 487	the prepared pans
+E2	Evolution:T45 Cause:T8
+R28	other Arg1:T14 Arg2:T43	
+R29	location Arg1:T14 Arg2:T44	
+R30	object Arg1:T14 Arg2:T13	
+R31	co-object Arg1:T13 Arg2:T12	
+R32	object Arg1:T13 Arg2:T32	
+R33	object Arg1:T13 Arg2:T33	
+T46	Evolution 417 435	the carrot mixture
+E3	Evolution:T46 Cause:T4
+T47	arg_duration 494 514	for 45 to 50 minutes
+T48	arg_location 515 536	in the preheated oven
+T49	Evolution 518 536	the preheated oven
+E4	Evolution:T49 Cause:T5
+R34	duration Arg1:T15 Arg2:T47	
+R35	location Arg1:T15 Arg2:T48	
+R36	duration Arg1:T15 Arg2:T38	
+T52	arg_duration 624 646	When completely cooled
+T53	arg_co-object 654 680	with cream cheese frosting
+R41	duration Arg1:T17 Arg2:T52	
+R42	co-object Arg1:T17 Arg2:T53	
+T54	arg_other 233 242	Gradually
+R43	other Arg1:T9 Arg2:T54	
+R44	object Arg1:T16 Arg2:T15	
+T55	ingredient 26 40	grated carrots
+T56	ingredient 45 56	brown sugar
+T57	ingredient 97 104	raisins
+T58	ingredient 215 219	eggs
+T59	ingredient 251 266	the white sugar
+T60	ingredient 268 271	oil
+T61	ingredient 276 283	vanilla
+T62	ingredient 293 306	the pineapple
+T63	ingredient 316 325	the flour
+T64	ingredient 327 338	baking soda
+T65	ingredient 340 344	salt
+T66	ingredient 349 357	cinnamon
+T67	ingredient 440 451	the walnuts
+T68	ingredient 659 680	cream cheese frosting
+R45	object Arg1:T15 Arg2:T14	
+T39	arg_duration 583 597	for 10 minutes
+R37	duration Arg1:T16 Arg2:T39	
+T50	predicate 605 613	removing
+R39	object Arg1:T50 Arg2:T16	
+T51	arg_location 614 622	from pan
+R38	location Arg1:T50 Arg2:T51	
+R40	object Arg1:T17 Arg2:T50	
+R46	same-location Arg1:T51 Arg2:T44	

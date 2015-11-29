@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Cook and stir the beef , onion , and bell pepper in a large pot over medium heat until the beef is brown and onion and pepper are tender , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the beef , onion , bell pepper
+
+PREDID: 1
+PRED: stir
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the beef is brown, onion, pepper are tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain grease from beef .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+  PARG: beef
+    PREP: from
+
+
+SENTID: 2
+SENT: Stir in beans , tomatoes , tomato sauce , jalapenos -LRB- if using -RRB- , chili powder , red pepper flakes , black pepper , salt , and garlic powder .
+PREDID: 0
+PRED: stir
+  PARG: beans , tomatoes , tomato sauce , jalapenos -lrb-
+    PREP: in
+  PARG: using -rrb- , chili powder , red pepper flakes , black pepper , salt , garlic powder
+    PREP: if
+
+
+SENTID: 3
+SENT: Bring mixture to a slow boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: mixture
+  PARG: a slow boil
+    PREP: to
+
+
+SENTID: 4
+SENT: cover and reduce heat .
+PREDID: 0
+PRED: cover
+  DOBJ: heat
+
+PREDID: 1
+PRED: reduce
+

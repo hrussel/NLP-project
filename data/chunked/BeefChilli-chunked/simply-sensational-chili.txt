@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Heat oil in medium , heavy-bottomed pot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: medium , heavy-bottomed pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add onions , peppers and garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: onions , peppers, garlic
+
+
+SENTID: 2
+SENT: cook until vegetables are soft , stirring occasionally , about 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: vegetables are soft , stirring occasionally , about 8 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Season meat with Adobo .
+PREDID: 0
+PRED: season
+  DOBJ: meat
+  PARG: adobo
+    PREP: with
+
+
+SENTID: 4
+SENT: Add meat to the pot , breaking into small pieces with a wooden spoon .
+PREDID: 0
+PRED: add
+  DOBJ: meat
+  PARG: the pot , breaking
+    PREP: to
+  PARG: small pieces
+    PREP: into
+  PARG: a wooden spoon
+    PREP: with
+
+
+SENTID: 5
+SENT: Cook until browned , stirring occasionally , about 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: browned , stirring occasionally , about 8 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in chili powder , cilantro and cumin , cook until fragrant , about 1 minute more .
+PREDID: 0
+PRED: stir
+  PARG: chili powder , cilantro, cumin
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: fragrant , about 1 minute more
+    PREP: until
+
+
+SENTID: 7
+SENT: Add 1 cup water , chopped tomatoes -LRB- with liquid -RRB- , beef bouillon and Sazon to pot .
+PREDID: 0
+PRED: add
+  DOBJ: 1 cup water , chopped tomatoes -lrb-
+  PARG: liquid -rrb- , beef bouillon, sazon
+    PREP: with
+  PARG: pot
+    PREP: to
+
+
+SENTID: 8
+SENT: Bring tomato mixture to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: tomato mixture
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Lower heat to medium-low and simmer , uncovered , until mixture thickens and flavors come together , stirring occasionally , about 1 hour .
+PREDID: 0
+PRED: lower
+  DOBJ: heat
+  PARG: medium-low, simmer , uncovered
+    PREP: to
+  PARG: mixture thickens, flavors come together , stirring occasionally , about 1 hour
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir in beans .
+PREDID: 0
+PRED: stir
+  PARG: beans
+    PREP: in
+
+
+SENTID: 11
+SENT: Cook until heated through , about 15 minutes more .
+PREDID: 0
+PRED: cook
+  PARG: heated through , about 15 minutes more
+    PREP: until
+
+
+SENTID: 12
+SENT: Divide chili among serving bowls .
+PREDID: 0
+PRED: divide
+  DOBJ: chili
+  PARG: serving bowls
+    PREP: among
+
+
+SENTID: 13
+SENT: Garnish with cheese , sour cream and onions , if desired .
+PREDID: 0
+PRED: garnish
+  PARG: cheese , sour cream, onions
+    PREP: with
+  PARG: desired
+    PREP: if
+

@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Cool the eggs under cold running water .
+PREDID: 0
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+
+
+SENTID: 5
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 6
+SENT: Halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 0
+PRED: halve
+  DOBJ: the eggs lengthwise
+
+PREDID: 1
+PRED: scoop
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Mash the yolks together with pressed garlic with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: pressed garlic
+    PREP: with
+  PARG: a fork
+    PREP: with
+  OARG: together
+
+
+SENTID: 8
+SENT: Cook the bacon in a large , deep skillet over medium-high heat until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: deep
+
+
+SENTID: 9
+SENT: Drain on a paper towel-lined plate ;
+PREDID: 0
+PRED: drain
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 10
+SENT: chop once cool .
+PREDID: 0
+PRED: chop
+  OARG: once
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 11
+SENT: Add to the mashed egg yolks .
+PREDID: 0
+PRED: add
+  PARG: the mashed egg yolks
+    PREP: to
+
+
+SENTID: 12
+SENT: Stir the basil , mayonnaise , red pepper flakes , salt , and pepper into the mixture until evenly mixed .
+PREDID: 0
+PRED: stir
+  DOBJ: the basil , mayonnaise , red pepper flakes , salt , pepper
+  PARG: the mixture
+    PREP: into
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 13
+SENT: Fill the egg white halves with the mixture ;
+PREDID: 0
+PRED: fill
+  DOBJ: the egg white halves
+  PARG: the mixture
+    PREP: with
+
+
+SENTID: 14
+SENT: sprinkle each stuffed egg with a bit of paprika .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: each stuffed egg
+  PARG: a bit of paprika
+    PREP: with
+

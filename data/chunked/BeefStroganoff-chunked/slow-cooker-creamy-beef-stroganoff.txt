@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Stir the soup , water , Worcestershire sauce , mushrooms , onions , garlic and black pepper in a 6-quart slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: the soup , water , worcestershire sauce , mushrooms , onions , garlic, black pepper
+  PARG: a 6-quart slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Add the beef and stir to coat .
+PREDID: 0
+PRED: add
+  DOBJ: the beef
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Cover and cook on LOW for 8 to 9 hours or until the beef is fork-tender .
+PREDID: 0
+PRED: cover
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 9 hours
+    PREP: for
+  PARG: the beef is fork-tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir the sour cream in the cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: the sour cream
+  PARG: the cooker
+    PREP: in
+
+
+SENTID: 4
+SENT: Serve the beef mixture with the noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: the beef mixture
+  PARG: the noodles
+    PREP: with
+
+
+SENTID: 5
+SENT: Sprinkle with the parsley , if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: the parsley
+    PREP: with
+  PARG: desired
+    PREP: if
+

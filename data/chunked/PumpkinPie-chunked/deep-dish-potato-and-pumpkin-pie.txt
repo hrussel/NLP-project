@@ -1,0 +1,363 @@
+SENTID: 0
+SENT: Preheat the oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Split the pumpkin in half , spoon out the seeds and place the pumpkin halves face down on a baking sheet .
+PREDID: 0
+PRED: split
+  DOBJ: the pumpkin
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: spoon
+  PARG: the seeds
+    PREP: out
+
+PREDID: 2
+PRED: place
+  DOBJ: the pumpkin halves face
+  PARG: a baking sheet
+    PREP: on
+  OARG: down
+
+
+SENTID: 2
+SENT: Split the potatoes lengthwise and place on the pan with the pumpkin .
+PREDID: 0
+PRED: split
+  DOBJ: the potatoes lengthwise
+
+PREDID: 1
+PRED: place
+  PARG: the pan
+    PREP: on
+  PARG: the pumpkin
+    PREP: with
+
+
+SENTID: 3
+SENT: Bake the pumpkin and potatoes for 1 hour .
+PREDID: 0
+PRED: bake
+  DOBJ: the pumpkin, potatoes
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 4
+SENT: Remove them from the oven and let them cool .
+PREDID: 0
+PRED: remove
+  DOBJ: them
+  PARG: the oven, let them cool
+    PREP: from
+
+
+SENTID: 5
+SENT: When the pumpkin has cooled , spoon out the flesh and put it into a large bowl .
+PREDID: 0
+PRED: spoon
+  PARG: the flesh
+    PREP: out
+  OARG: when the pumpkin has cooled
+
+PREDID: 1
+PRED: put
+  DOBJ: it
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 6
+SENT: Cut the potato into 1/2 inch cubes .
+PREDID: 0
+PRED: cut
+  DOBJ: the potato
+  PARG: 1/2 inch cubes
+    PREP: into
+
+
+SENTID: 7
+SENT: To make the dough in a food processor fitted with a steel blade , put the flour and salt into the processor .
+PREDID: 0
+PRED: put
+  DOBJ: the flour, salt
+  PARG: make the dough
+    PREP: to
+  PARG: a food processor fitted
+    PREP: in
+  PARG: a steel blade
+    PREP: with
+  PARG: the processor
+    PREP: into
+
+
+SENTID: 8
+SENT: Add the butter .
+PREDID: 0
+PRED: add
+  DOBJ: the butter
+
+
+SENTID: 9
+SENT: Run the machine in spurts until the butter is in bits no bigger than pea-size .
+PREDID: 0
+PRED: run
+  DOBJ: the machine
+  PARG: spurts
+    PREP: in
+  PARG: the butter is in bits no bigger than pea-size
+    PREP: until
+
+
+SENTID: 10
+SENT: Add 4 tablespoons ice water , and run the machine in spurts again just enough to bring the dough together .
+PREDID: 0
+PRED: add
+  DOBJ: 4 tablespoons ice water
+
+PREDID: 1
+PRED: run
+  DOBJ: the machine
+  PARG: spurts
+    PREP: in
+  OARG: again
+  OARG: just
+  OARG: enough
+  OARG: to bring the dough
+  OARG: together
+
+
+SENTID: 11
+SENT: Turn the dough onto a work surface and knead it with your hands until the dough is soft and smooth , handling the dough as little as possible .
+PREDID: 0
+PRED: turn
+  DOBJ: the dough
+  PARG: a work surface
+    PREP: onto
+
+PREDID: 1
+PRED: knead
+  DOBJ: it
+  PARG: your hands
+    PREP: with
+  PARG: the dough is soft, smooth , handling the dough as little as possible
+    PREP: until
+
+
+SENTID: 12
+SENT: Form it into a flattened ball .
+PREDID: 0
+PRED: form
+  DOBJ: it
+  PARG: a flattened ball
+    PREP: into
+
+
+SENTID: 13
+SENT: Chill the dough for at least 30 minutes .
+PREDID: 0
+PRED: chill
+  DOBJ: the dough
+  PARG: at least 30 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 15
+SENT: On a floured surface , roll out the dough , and use it to line the bottom and sides of either a 9 inch square baking pan or a large deep dish pie pan .
+PREDID: 0
+PRED: roll
+  PARG: a floured surface
+    PREP: on
+  PARG: the dough
+    PREP: out
+
+PREDID: 1
+PRED: use
+  DOBJ: dish pie pan
+  PARG: line the bottom, sides of either a 9 inch square baking pan or a large
+    PREP: to
+  OARG: deep
+  OARG: it
+
+
+SENTID: 16
+SENT: Pierce the dough with a fork in three places .
+PREDID: 0
+PRED: pierce
+  DOBJ: the dough
+  PARG: a fork
+    PREP: with
+  PARG: three places
+    PREP: in
+
+
+SENTID: 17
+SENT: Line the sides of the pan with aluminum foil , and crimp the foil gently to hold the dough in place .
+PREDID: 0
+PRED: line
+  DOBJ: the sides of the pan
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: crimp
+  DOBJ: the foil
+  PARG: hold the dough
+    PREP: to
+  PARG: place
+    PREP: in
+  OARG: gently
+
+
+SENTID: 18
+SENT: Bake the crust for 15 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the crust
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 19
+SENT: Remove the pan from the oven .
+PREDID: 0
+PRED: remove
+  DOBJ: the pan
+  PARG: the oven
+    PREP: from
+
+
+SENTID: 20
+SENT: Reduce the heat to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 21
+SENT: While the crust bakes , make the filling .
+PREDID: 0
+PRED: make
+  DOBJ: the filling
+  PARG: the crust bakes
+    PREP: while
+
+
+SENTID: 22
+SENT: Heat the oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 23
+SENT: Add the onions , and cook them , stirring frequently , until they soften , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the onions
+
+PREDID: 1
+PRED: cook
+  DOBJ: them , stirring
+  PARG: they soften , about 5 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 24
+SENT: Add the garlic , and cook for 3 to 4 minutes more , stirring frequently .
+PREDID: 0
+PRED: add
+  DOBJ: the garlic
+
+PREDID: 1
+PRED: cook
+  PARG: 3 to 4 minutes more , stirring
+    PREP: for
+  OARG: frequently
+
+
+SENTID: 25
+SENT: Add the corn and cook for 2 more minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the corn
+
+PREDID: 1
+PRED: cook
+  PARG: 2 more minutes
+    PREP: for
+
+
+SENTID: 26
+SENT: Remove the skillet from the heat .
+PREDID: 0
+PRED: remove
+  DOBJ: the skillet
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 27
+SENT: Stir in the pumpkin , potato , cheese , thyme , allspice , salt , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the pumpkin , potato , cheese , thyme , allspice , salt , pepper
+    PREP: in
+
+
+SENTID: 28
+SENT: Mix well , then spoon into pre-baked pie shell .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: spoon
+  PARG: pre-baked pie shell
+    PREP: into
+
+
+SENTID: 29
+SENT: Bake the pie at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes or until veggies and cheese are piping hot .
+PREDID: 0
+PRED: bake
+  DOBJ: the pie
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+  PARG: veggies, cheese are piping hot
+    PREP: until
+
+
+SENTID: 30
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

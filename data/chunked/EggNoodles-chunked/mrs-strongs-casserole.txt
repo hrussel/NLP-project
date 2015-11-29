@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in crushed garlic , salt , sugar and tomato sauce ;
+PREDID: 0
+PRED: stir
+  PARG: crushed garlic , salt , sugar, tomato sauce
+    PREP: in
+
+
+SENTID: 3
+SENT: cover and simmer for 15 to 20 minutes Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: cover
+  PARG: 15 to 20 minutes
+    PREP: for
+
+PREDID: 1
+PRED: simmer
+
+PREDID: 2
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Add noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 6
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: In a small bowl combine green onions , cream cheese and sour cream .
+PREDID: 0
+PRED: combine
+  DOBJ: green onions , cream cheese, sour cream
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: In a 9x13 inch baking dish , place 1/3 of the noodles , cheese mixture , and tomato sauce ;
+PREDID: 0
+PRED: place
+  DOBJ: 1/3 of the noodles , cheese mixture , tomato sauce
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 9
+SENT: repeat twice .
+PREDID: 0
+PRED: repeat
+  OARG: twice
+
+
+SENTID: 10
+SENT: Sprinkle Cheddar cheese on top of the casserole .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: cheddar cheese
+  PARG: top of the casserole
+    PREP: on
+
+
+SENTID: 11
+SENT: Bake in preheated oven for 20 minutes or until bubbly ;
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 12
+SENT: serve .
+PREDID: 0
+PRED: serve
+

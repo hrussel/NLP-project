@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook pasta until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Meanwhile , season chicken strips with lemon pepper and garlic powder .
+PREDID: 0
+PRED: season
+  DOBJ: chicken strips
+  PARG: lemon pepper, garlic powder
+    PREP: with
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Broil in oven for 5 to 7 minutes , or until juices run clear .
+PREDID: 0
+PRED: broil
+  PARG: oven
+    PREP: in
+  PARG: 5 to 7 minutes
+    PREP: for
+  PARG: juices run clear
+    PREP: until
+
+
+SENTID: 4
+SENT: Cool chicken .
+PREDID: 0
+PRED: cool
+  DOBJ: chicken
+
+
+SENTID: 5
+SENT: Cut into bite size pieces . In a large bowl , mix together the cooked pasta , chicken , quartered tomatoes , and feta cheese .
+PREDID: 0
+PRED: cut
+  PARG: bite size pieces
+    PREP: into
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: the cooked pasta , chicken , quartered tomatoes , feta cheese
+  OARG: together
+
+
+SENTID: 6
+SENT: Serve with Italian dressing poured over top of pasta .
+PREDID: 0
+PRED: serve
+  PARG: italian dressing poured
+    PREP: with
+  PARG: top of pasta
+    PREP: over
+

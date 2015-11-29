@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta in boiling water until al dente , adding peas for the final 3 minutes of cooking ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: boiling water
+    PREP: in
+  PARG: al dente , adding peas for the final 3 minutes of cooking
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Melt the butter in the same pot over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: the same pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add the mushroom soup , tuna , milk , and Cheddar cheese .
+PREDID: 0
+PRED: add
+  DOBJ: the mushroom soup , tuna , milk , cheddar cheese
+
+
+SENTID: 5
+SENT: Stir until cheese is melted , and the mixture is smooth .
+PREDID: 0
+PRED: stir
+  PARG: cheese is melted , the mixture is smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the pasta and peas until evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: the pasta, peas
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+

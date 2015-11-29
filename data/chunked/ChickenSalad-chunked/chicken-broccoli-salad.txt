@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: Combine broccoli , chicken , walnuts , and green onions in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: broccoli , chicken , walnuts , green onions
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk mayonnaise , vinegar , and sugar together in a bowl until well blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , vinegar , sugar
+  PARG: a bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour mayonnaise dressing over broccoli mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: mayonnaise dressing
+  PARG: broccoli mixture
+    PREP: over
+
+
+SENTID: 3
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Sprinkle with crumbled bacon to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: crumbled bacon
+    PREP: with
+  PARG: serve
+    PREP: to
+

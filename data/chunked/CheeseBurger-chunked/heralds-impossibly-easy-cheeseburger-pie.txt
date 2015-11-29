@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 10 inch deep dish pie plate .
+PREDID: 0
+PRED: grease
+  DOBJ: dish pie plate
+  OARG: deep
+  OARG: a 10 inch
+
+
+SENTID: 2
+SENT: Heat a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Add ground beef , onion , and garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: ground beef , onion , garlic
+
+
+SENTID: 4
+SENT: cook and stir until beef is brown .
+PREDID: 0
+PRED: cook
+  PARG: beef is brown
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Drain off fat .
+PREDID: 0
+PRED: drain
+  PARG: fat
+    PREP: off
+
+
+SENTID: 6
+SENT: Spread into prepared pie plate .
+PREDID: 0
+PRED: spread
+  PARG: prepared pie plate
+    PREP: into
+
+
+SENTID: 7
+SENT: Sprinkle meat with salt , black pepper , and oregano .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: meat
+  PARG: salt , black pepper , oregano
+    PREP: with
+
+
+SENTID: 8
+SENT: Arrange tomato slices over meat , spread shredded cheese on top .
+PREDID: 0
+PRED: arrange
+  DOBJ: tomato slices
+  PARG: meat
+    PREP: over
+
+PREDID: 1
+PRED: spread
+  DOBJ: shredded cheese
+  PARG: top
+    PREP: on
+
+
+SENTID: 9
+SENT: In a small bowl , mix together baking mix , milk and eggs .
+PREDID: 0
+PRED: mix
+  DOBJ: baking
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: mix
+  DOBJ: milk, eggs
+
+
+SENTID: 10
+SENT: Pour over cheese .
+PREDID: 0
+PRED: pour
+  PARG: cheese
+    PREP: over
+
+
+SENTID: 11
+SENT: Bake for about 25 minutes , or until knife inserted in center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: about 25 minutes
+    PREP: for
+  PARG: knife inserted in center comes out clean
+    PREP: until
+
+
+SENTID: 12
+SENT: Cool for 5 minutes before serving .
+PREDID: 0
+PRED: cool
+  PARG: 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

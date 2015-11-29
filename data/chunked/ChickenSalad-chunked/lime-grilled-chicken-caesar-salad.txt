@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: In a shallow baking pan , arrange chicken and pour mesquite-lime marinade over all .
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken
+  PARG: a shallow baking pan
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: mesquite-lime marinade
+  PARG: all
+    PREP: over
+
+
+SENTID: 1
+SENT: Cover and place in the refrigerator to marinate for 1/2 hour before grilling .
+PREDID: 0
+PRED: cover
+  PARG: the refrigerator
+    PREP: in
+
+PREDID: 1
+PRED: place
+  PARG: 1/2 hour
+    PREP: for
+  PARG: grilling
+    PREP: before
+  OARG: to marinate
+
+
+SENTID: 2
+SENT: Preheat a charcoal or gas grill to medium high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: a charcoal or gas grill
+  PARG: medium high heat
+    PREP: to
+
+
+SENTID: 3
+SENT: Grill chicken breasts for approximately 15 minutes on each side , or until meat is cooked through and is no longer pink inside .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken breasts
+  PARG: approximately 15 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+  PARG: meat is cooked through, is no longer pink inside
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove from heat , cool and slice into strips .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: strips
+    PREP: into
+
+PREDID: 2
+PRED: slice
+
+
+SENTID: 5
+SENT: In a large bowl , toss together the lettuce , tomato , onion , pepper , cheese , croutons , dressing and chicken until evenly coated .
+PREDID: 0
+PRED: toss
+  DOBJ: the lettuce , tomato , onion , pepper , cheese , croutons , dressing, chicken
+  PARG: a large bowl
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+  OARG: together
+
+
+SENTID: 6
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

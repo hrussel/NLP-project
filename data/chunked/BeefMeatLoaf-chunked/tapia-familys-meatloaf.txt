@@ -1,0 +1,43 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground beef , Mexican-style tomato sauce , eggs , onion soup mix , bread crumbs , green chiles , garlic and herb seasoning , and garlic powder in a large bowl until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , mexican-style tomato sauce , eggs , onion soup mix , bread crumbs , green chiles , garlic, herb seasoning , garlic powder
+  PARG: a large bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Place mixture into a large loaf pan and shape into a loaf .
+PREDID: 0
+PRED: place
+  DOBJ: mixture
+  PARG: a large loaf pan
+    PREP: into
+
+PREDID: 1
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until meatloaf is no longer pink inside and an instant-read meat thermometer inserted into the middle of the loaf shows at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: meatloaf is no longer pink inside, an instant-read meat thermometer inserted into the middle of the loaf shows at least 160 degrees f -lrb- 70 degrees c -rrb- , about 1 hour
+    PREP: until
+

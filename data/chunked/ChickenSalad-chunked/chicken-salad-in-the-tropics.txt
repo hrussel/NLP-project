@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: To prepare the dressing , whisk together in a small bowl the orange juice , pineapple juice , parsley , lime juice , soy sauce , olive oil , sesame oil , honey and pepper .
+PREDID: 0
+PRED: whisk
+  PARG: a small bowl the orange juice , pineapple juice , parsley , lime juice , soy sauce , olive oil , sesame oil , honey, pepper
+    PREP: in
+  OARG: to prepare the dressing
+  OARG: together
+
+
+SENTID: 1
+SENT: Prepare the salad in a large bowl by tossing the mixed greens with the dressing .
+PREDID: 0
+PRED: prepare
+  DOBJ: the salad
+  PARG: a large bowl
+    PREP: in
+  PARG: tossing the mixed greens
+    PREP: by
+  PARG: the dressing
+    PREP: with
+
+
+SENTID: 2
+SENT: Divide dressed greens on four different plates .
+PREDID: 0
+PRED: divide
+  DOBJ: dressed greens
+  PARG: four different plates
+    PREP: on
+
+
+SENTID: 3
+SENT: Arrange chicken in the middle of the plate .
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken
+  PARG: the middle of the plate
+    PREP: in
+
+
+SENTID: 4
+SENT: Arrange papaya -LRB- or mango -RRB- , pineapple , avocado , bell , pepper , avocado , black beans , and cheese in `` triangles '' surrounding chicken .
+PREDID: 0
+PRED: arrange
+  DOBJ: papaya -lrb- or mango -rrb- , pineapple , avocado , bell , pepper , avocado , black beans , cheese
+  PARG: `` triangles '' surrounding chicken
+    PREP: in
+

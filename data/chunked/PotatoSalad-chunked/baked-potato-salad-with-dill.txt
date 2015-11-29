@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat over to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  PARG: to 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: over
+
+
+SENTID: 1
+SENT: Pierce the potatoes with a fork , and bake in the preheated over for about an hour , or until tender .
+PREDID: 0
+PRED: pierce
+  DOBJ: the potatoes
+  PARG: a fork
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated
+    PREP: in
+  PARG: for
+    PREP: over
+  PARG: an hour
+    PREP: about
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from oven , let cool , and then chill until cold .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+  OARG: then
+
+PREDID: 2
+PRED: chill
+  PARG: cold
+    PREP: until
+
+
+SENTID: 3
+SENT: Peel and cube the potatoes , and then add to a large bowl along with the bean sprouts , walnuts , celery , radishes , dill weed and parsley .
+PREDID: 0
+PRED: peel
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: cube
+  OARG: then
+
+PREDID: 2
+PRED: add
+  PARG: a large bowl
+    PREP: to
+  PARG: with the bean sprouts , walnuts , celery , radishes , dill weed, parsley
+    PREP: along
+
+
+SENTID: 4
+SENT: Whisk together the mayonnaise , lemon juice , mustard and curry powder .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , lemon juice , mustard, curry powder
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour dressing over potato mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: potato mixture
+    PREP: over
+
+
+SENTID: 6
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 7
+SENT: Cover and refrigerate until ready to serve .
+PREDID: 0
+PRED: cover
+  PARG: ready to serve
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+

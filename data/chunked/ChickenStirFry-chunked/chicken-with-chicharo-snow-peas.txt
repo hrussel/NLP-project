@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Heat the oil in a large skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir the onion and garlic in the olive oil until fragrant , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the olive oil
+    PREP: in
+  PARG: fragrant , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir the oyster sauce into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the oyster sauce
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Add the chicken and mix ;
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: mix
+
+
+SENTID: 5
+SENT: cover and cook for 10 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 10 minutes
+    PREP: for
+
+PREDID: 1
+PRED: cook
+
+
+SENTID: 6
+SENT: Add the tomato , carrot , and celery ;
+PREDID: 0
+PRED: add
+  DOBJ: the tomato , carrot , celery
+
+
+SENTID: 7
+SENT: cover again and cook another 5 minutes .
+PREDID: 0
+PRED: cover
+  OARG: again
+  OARG: another 5 minutes
+
+PREDID: 1
+PRED: cook
+
+
+SENTID: 8
+SENT: Cook the chicken pieces until no longer pink at the bone and the juices run clear , an instant-read thermometer inserted near the bone should read 165 degrees F -LRB- 74 degrees C -RRB- .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken pieces
+  PARG: no longer pink at the bone, the juices run clear , an instant-read thermometer inserted near the bone should read 165 degrees f -lrb- 74 degrees c -rrb-
+    PREP: until
+
+
+SENTID: 9
+SENT: Fold the snow peas into the mixture .
+PREDID: 0
+PRED: fold
+  DOBJ: the snow peas
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: Whisk the cornstarch and water together in a small bowl until no lumps remain ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the cornstarch, water
+  PARG: a small bowl
+    PREP: in
+  PARG: no lumps remain
+    PREP: until
+  OARG: together
+
+
+SENTID: 11
+SENT: stir into the liquid in the skillet .
+PREDID: 0
+PRED: stir
+  PARG: the liquid
+    PREP: into
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 12
+SENT: Allow the mixture to simmer until the sauce has thickened , about 5 minutes .
+PREDID: 0
+PRED: allow
+  DOBJ: the mixture
+  PARG: simmer
+    PREP: to
+  PARG: the sauce has thickened , about 5 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: In a large bowl , toss together the cabbage , carrot , onion , red pepper , jalapeno and cilantro .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , carrot , onion , red pepper , jalapeno, cilantro
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: In a small bowl , whisk together the oil , vinegar , sugar , cayenne pepper , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the oil , vinegar , sugar , cayenne pepper , salt, pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Pour over vegetable mixture and toss to combine .
+PREDID: 0
+PRED: pour
+  PARG: vegetable mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 4
+SENT: Cover and refrigerate for at least one hour .
+PREDID: 0
+PRED: cover
+  PARG: at least one hour
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+

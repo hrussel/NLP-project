@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: In a large skillet , heat olive oil over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add chopped chicken and cook until chicken is cooked through .
+PREDID: 0
+PRED: add
+  DOBJ: chopped chicken
+
+PREDID: 1
+PRED: cook
+  PARG: chicken is cooked through
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from heat and set aside to cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 3
+SENT: In a large bowl , stir together the celery , walnuts , cranberries , onion , mayonnaise , vinegar , salt and pepper and lemon juice .
+PREDID: 0
+PRED: stir
+  DOBJ: the celery , walnuts , cranberries , onion , mayonnaise , vinegar , salt, pepper, lemon juice
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Add cooled chicken , and stir until well combined .
+PREDID: 0
+PRED: add
+  DOBJ: cooled chicken
+
+PREDID: 1
+PRED: stir
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Cover and chill about 6 hours and serve on top of spinach leaves , if desired .
+PREDID: 0
+PRED: cover
+  PARG: 6 hours
+    PREP: about
+
+PREDID: 1
+PRED: chill
+
+PREDID: 2
+PRED: serve
+  PARG: top of spinach leaves
+    PREP: on
+  PARG: desired
+    PREP: if
+

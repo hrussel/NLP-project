@@ -1,0 +1,51 @@
+T1	predicate 0 4	Stir
+T2	predicate 184 190	Season
+T3	predicate 219 224	Cover
+T4	predicate 229 233	cook
+R1	object Arg1:T4 Arg2:T3	
+R2	object Arg1:T3 Arg2:T2	
+R3	object Arg1:T2 Arg2:T1	
+T5	arg_object 5 9	milk
+T6	arg_object 11 27	cream-style corn
+T7	arg_object 29 51	cream of mushroom soup
+T8	arg_object 53 73	chopped green chiles
+T9	arg_object 75 86	frozen corn
+T10	arg_object 88 107	hash brown potatoes
+T11	arg_object 109 112	ham
+T12	arg_object 114 119	onion
+T13	arg_object 121 127	butter
+T14	arg_object 129 138	hot sauce
+T15	arg_object 140 147	parsley
+T16	arg_object 153 165	chili powder
+T17	arg_location 166 182	in a slow cooker
+R4	object Arg1:T1 Arg2:T5	
+R5	object Arg1:T1 Arg2:T6	
+R6	object Arg1:T1 Arg2:T7	
+R7	object Arg1:T1 Arg2:T8	
+R8	object Arg1:T1 Arg2:T9	
+R9	object Arg1:T1 Arg2:T10	
+R10	object Arg1:T1 Arg2:T11	
+R11	object Arg1:T1 Arg2:T12	
+R12	object Arg1:T1 Arg2:T13	
+R13	object Arg1:T1 Arg2:T14	
+R14	object Arg1:T1 Arg2:T15	
+R15	object Arg1:T1 Arg2:T16	
+R16	location Arg1:T1 Arg2:T17	
+T18	arg_co-object 191 217	with salt and black pepper
+R17	co-object Arg1:T2 Arg2:T18	
+T19	arg_duration 234 279	on High for 4 hours or on Low and for 6 hours
+R18	duration Arg1:T4 Arg2:T19	
+T20	ingredient 5 9	milk
+T21	ingredient 11 27	cream-style corn
+T22	ingredient 29 51	cream of mushroom soup
+T23	ingredient 53 73	chopped green chiles
+T24	ingredient 75 86	frozen corn
+T25	ingredient 88 107	hash brown potatoes
+T26	ingredient 109 112	ham
+T27	ingredient 114 119	onion
+T28	ingredient 121 127	butter
+T29	ingredient 129 138	hot sauce
+T30	ingredient 140 147	parsley
+T31	ingredient 153 165	chili powder
+T32	ingredient 196 200	salt
+T33	ingredient 205 217	black pepper

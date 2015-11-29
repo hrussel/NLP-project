@@ -1,0 +1,32 @@
+SENTID: 0
+SENT: In a medium bowl , whisk together sour cream , mayonnaise , vinegar and jam .
+PREDID: 0
+PRED: whisk
+  DOBJ: sour cream , mayonnaise , vinegar, jam
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add green onion , apricots , celery and chicken and toss until evenly coated .
+PREDID: 0
+PRED: add
+  DOBJ: green onion , apricots , celery, chicken
+
+PREDID: 1
+PRED: toss
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Chill and serve over lettuce leaves .
+PREDID: 0
+PRED: chill
+  PARG: lettuce leaves
+    PREP: over
+
+PREDID: 1
+PRED: serve
+

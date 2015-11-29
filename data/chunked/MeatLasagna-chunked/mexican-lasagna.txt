@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: In a large skillet , cook the ground beef over medium-high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off excess fat .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+
+SENTID: 2
+SENT: In a large bowl , combine the cooked beef , refried beans , oregano , cumin and garlic powder .
+PREDID: 0
+PRED: combine
+  DOBJ: the cooked beef , refried beans , oregano , cumin, garlic powder
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Place four of the uncooked lasagna noodles in the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: four of the uncooked lasagna noodles
+  PARG: the bottom of a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Spread half of the beef mixture over the noodles .
+PREDID: 0
+PRED: spread
+  DOBJ: half of the beef mixture
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 5
+SENT: Top with 4 more uncooked noodles and the remaining half of the beef mixture .
+PREDID: 0
+PRED: top
+  PARG: 4 more uncooked noodles, the remaining half of the beef mixture
+    PREP: with
+
+
+SENTID: 6
+SENT: Cover with remaining noodles .
+PREDID: 0
+PRED: cover
+  PARG: remaining noodles
+    PREP: with
+
+
+SENTID: 7
+SENT: Combine the water and the salsa in a medium bowl , and pour over all .
+PREDID: 0
+PRED: combine
+  DOBJ: the water, the salsa
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: all
+    PREP: over
+
+
+SENTID: 8
+SENT: Cover tightly with foil .
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+  OARG: tightly
+
+
+SENTID: 9
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1Ê1/2 hours , or until noodles are tender .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 1Ê1/2 hours
+    PREP: for
+  PARG: noodles are tender
+    PREP: until
+
+
+SENTID: 10
+SENT: In a medium bowl , combine the sour cream , green onions and olives .
+PREDID: 0
+PRED: combine
+  DOBJ: the sour cream , green onions, olives
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: Spoon over casserole , and top with shredded cheese .
+PREDID: 0
+PRED: spoon
+  PARG: casserole
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: shredded cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Return to the oven , and bake for an additional 5 to 10 minutes , or until cheese is melted .
+PREDID: 0
+PRED: return
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 5 to 10 minutes
+    PREP: for
+  PARG: cheese is melted
+    PREP: until
+

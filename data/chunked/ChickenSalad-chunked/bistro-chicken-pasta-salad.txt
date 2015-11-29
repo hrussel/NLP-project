@@ -1,0 +1,16 @@
+SENTID: 0
+SENT: Combine all ingredients except chicken .
+PREDID: 0
+PRED: combine
+  DOBJ: all ingredients
+  PARG: chicken
+    PREP: except
+
+
+SENTID: 1
+SENT: Top with chicken .
+PREDID: 0
+PRED: top
+  PARG: chicken
+    PREP: with
+

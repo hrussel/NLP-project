@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Stir salt into water in a large pot and add potatoes ;
+PREDID: 0
+PRED: stir
+  DOBJ: salt
+  PARG: water
+    PREP: into
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: potatoes
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 4
+SENT: Slice potatoes and place in a large bowl .
+PREDID: 0
+PRED: slice
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook and stir yellow onion , bacon , celery , and pepper rings in a skillet until bacon is browned and celery begins to soften , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: yellow onion , bacon , celery , pepper rings
+
+PREDID: 1
+PRED: stir
+  PARG: a skillet
+    PREP: in
+  PARG: bacon is browned, celery begins to soften , about 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Mix mayonnaise , Dijon mustard , horseradish , pepper juice , lemon juice , and Creole seasoning together in a bowl until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , dijon mustard , horseradish , pepper juice , lemon juice , creole seasoning
+  PARG: a bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: Add bacon mixture and dressing to potatoes ;
+PREDID: 0
+PRED: add
+  DOBJ: bacon mixture, dressing
+  PARG: potatoes
+    PREP: to
+
+
+SENTID: 8
+SENT: stir to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 9
+SENT: Refrigerate for 30 minutes before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: 30 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

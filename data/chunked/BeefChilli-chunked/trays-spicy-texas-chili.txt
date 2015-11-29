@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: Heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir beef , half the onion , habanero pepper , jalapeno pepper , and garlic in the hot skillet until meat is browned and crumbly , 5 to 7 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef , half the onion , habanero pepper , jalapeno pepper , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot skillet
+    PREP: in
+  PARG: meat is browned, crumbly , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 3
+SENT: Transfer beef mixture to a large pot and add tomato sauce , kidney beans , diced tomatoes with green chiles , 2 tablespoons chili powder , 1 tablespoon cumin , cayenne pepper , salt , white pepper , and black pepper .
+PREDID: 0
+PRED: transfer
+  DOBJ: beef mixture
+  PARG: a large pot
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: tomato sauce , kidney beans , diced tomatoes
+  PARG: green chiles , 2 tablespoons chili powder , 1 tablespoon cumin , cayenne pepper , salt , white pepper , black pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring beef mixture to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: beef mixture
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: reduce heat to medium-low and simmer for 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Stir in beer , Worcestershire sauce , 1/2 teaspoon chili powder , and 1/2 teaspoon cumin .
+PREDID: 0
+PRED: stir
+  PARG: beer , worcestershire sauce , 1/2 teaspoon chili powder , 1/2 teaspoon cumin
+    PREP: in
+
+
+SENTID: 7
+SENT: Continue to simmer chili until flavors blend , about 2 hours .
+PREDID: 0
+PRED: continue
+  PARG: simmer chili
+    PREP: to
+  PARG: flavors
+    PREP: until
+
+PREDID: 1
+PRED: blend
+  PARG: 2 hours
+    PREP: about
+
+
+SENTID: 8
+SENT: Spoon chili into bowls and top with Cheddar cheese , crackers , and remaining half onion .
+PREDID: 0
+PRED: spoon
+  DOBJ: chili
+  PARG: bowls
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: cheddar cheese , crackers , remaining half onion
+    PREP: with
+

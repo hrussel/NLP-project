@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add noodles and cook for 7 to 8 minutes or until almost al dente -LRB- until ALMOST cooked -RRB- ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 7 to 8 minutes
+    PREP: for
+  PARG: almost al dente -lrb- until almost cooked -rrb-
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Add the chicken , peas , soup , whipped topping , American cheese , milk , parsley , salt and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken , peas , soup , whipped topping , american cheese , milk , parsley , salt, pepper
+
+
+SENTID: 5
+SENT: Mix together and transfer mixture to a 9x13 inch baking dish .
+PREDID: 0
+PRED: mix
+  DOBJ: mixture
+  OARG: together
+
+PREDID: 1
+PRED: transfer
+  PARG: a 9x13 inch baking dish
+    PREP: to
+
+
+SENTID: 6
+SENT: Sprinkle with Parmesan cheese and cover with aluminum foil .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+PREDID: 1
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake in preheated oven for 45 minutes , then remove cover and bake for another 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  DOBJ: cover
+
+PREDID: 2
+PRED: bake
+  PARG: another 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Let cool for 4 to 5 minutes , allowing cheese to thicken slightly .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 4 to 5 minutes , allowing cheese
+    PREP: for
+  OARG: to thicken
+  OARG: slightly
+

@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta according to package directions ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 2
+SENT: rinse and drain .
+PREDID: 0
+PRED: rinse
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Melt 1 tablespoon butter in large saucepan on medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon butter
+  PARG: large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: on
+
+
+SENTID: 5
+SENT: Cook and stir sausage and onions 3 to 5 minutes or until onions are tender .
+PREDID: 0
+PRED: cook
+  OARG: sausage, onions 3 to 5 minutes
+
+PREDID: 1
+PRED: stir
+  PARG: onions are tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in Alfredo sauce , and half and half .
+PREDID: 0
+PRED: stir
+  PARG: alfredo sauce , half, half
+    PREP: in
+
+
+SENTID: 7
+SENT: Bring to boiling , stirring constantly ;
+PREDID: 0
+PRED: bring
+  PARG: boiling , stirring
+    PREP: to
+  OARG: constantly
+
+
+SENTID: 8
+SENT: reduce heat .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 9
+SENT: Simmer 1 minute .
+PREDID: 0
+PRED: simmer
+  OARG: 1 minute
+
+
+SENTID: 10
+SENT: Remove saucepan from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: saucepan
+  PARG: heat
+    PREP: from
+
+
+SENTID: 11
+SENT: Stir in cheese and black pepper until cheese is melted .
+PREDID: 0
+PRED: stir
+  PARG: cheese, black pepper
+    PREP: in
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 12
+SENT: Stir in pasta and sausage mixture .
+PREDID: 0
+PRED: stir
+  PARG: pasta, sausage mixture
+    PREP: in
+
+
+SENTID: 13
+SENT: Pour mixture into lightly sprayed 139-inch baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: lightly sprayed 139-inch baking dish
+    PREP: into
+
+
+SENTID: 14
+SENT: Sprinkle evenly with combined bread crumbs and 1/4 cup melted butter .
+PREDID: 0
+PRED: sprinkle
+  PARG: combined bread crumbs, 1/4 cup melted butter
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 15
+SENT: Bake 20 to 25 minutes or until crumbs are golden brown and pasta mixture is hot and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: crumbs are golden brown, pasta mixture is hot, bubbly
+    PREP: until
+  OARG: 20 to 25 minutes
+

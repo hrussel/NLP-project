@@ -1,0 +1,167 @@
+SENTID: 0
+SENT: Cut the cabbages in half lengthwise and trim the ends .
+PREDID: 0
+PRED: cut
+  DOBJ: the cabbages
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: trim
+  DOBJ: the ends
+
+
+SENTID: 1
+SENT: Rinse and cut into pieces about 2 inch square .
+PREDID: 0
+PRED: rinse
+  PARG: pieces
+    PREP: into
+
+PREDID: 1
+PRED: cut
+  PARG: 2 inch square
+    PREP: about
+
+
+SENTID: 2
+SENT: Place the cabbage into large resealable bags and sprinkle salt on the leaves so they are evenly coated .
+PREDID: 0
+PRED: place
+  DOBJ: the cabbage
+  PARG: large resealable bags, sprinkle salt
+    PREP: into
+  PARG: the leaves
+    PREP: on
+  OARG: so
+  OARG: evenly
+
+
+SENTID: 3
+SENT: Use your hands to rub the salt in to the leaves .
+PREDID: 0
+PRED: use
+  DOBJ: your hands
+  PARG: rub the salt
+    PREP: to
+  PARG: to the leaves
+    PREP: in
+
+
+SENTID: 4
+SENT: Seal the bags and leave at room temperature for 6 hours .
+PREDID: 0
+PRED: seal
+  DOBJ: the bags
+
+PREDID: 1
+PRED: leave
+  PARG: room temperature
+    PREP: at
+  PARG: 6 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: Rinse the salt from the cabbage leaves and then drain and squeeze out any excess liquid .
+PREDID: 0
+PRED: rinse
+  DOBJ: the salt
+  PARG: the cabbage leaves
+    PREP: from
+  OARG: then
+
+PREDID: 1
+PRED: drain
+  PARG: any excess liquid
+    PREP: out
+
+PREDID: 2
+PRED: squeeze
+
+
+SENTID: 6
+SENT: Place the cabbage in a large container with a tight fitting lid .
+PREDID: 0
+PRED: place
+  DOBJ: the cabbage
+  PARG: a large container
+    PREP: in
+  PARG: a tight fitting lid
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir in the fish sauce , green onions , white onion , garlic , sugar and ginger .
+PREDID: 0
+PRED: stir
+  PARG: the fish sauce , green onions , white onion , garlic , sugar, ginger
+    PREP: in
+
+
+SENTID: 8
+SENT: Sprinkle the Korean chile powder over the mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the korean chile powder
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 9
+SENT: Wear plastic gloves to protect your hands and rub the chile powder into the cabbage leaves until evenly coated .
+PREDID: 0
+PRED: wear
+  DOBJ: plastic gloves
+  OARG: to protect your hands
+
+PREDID: 1
+PRED: rub
+  DOBJ: the chile powder
+  PARG: the cabbage leaves
+    PREP: into
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 10
+SENT: Seal the container and set in a cool dry place .
+PREDID: 0
+PRED: seal
+  DOBJ: the container
+
+PREDID: 1
+PRED: set
+  PARG: a cool dry place
+    PREP: in
+
+
+SENTID: 11
+SENT: Leave undisturbed for 4 days .
+PREDID: 0
+PRED: leave
+  DOBJ: undisturbed
+  PARG: 4 days
+    PREP: for
+
+
+SENTID: 12
+SENT: Refrigerate before serving , and store in the refrigerator for up to 1 month -LRB- if it lasts that long ! -RRB-
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+
+PREDID: 1
+PRED: store
+  PARG: the refrigerator
+    PREP: in
+  PARG: up
+    PREP: for
+  PARG: 1 month -lrb-
+    PREP: to
+  PARG: it lasts
+    PREP: if
+  PARG: long ! -rrb-
+    PREP: that
+

@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat a 9x13 inch baking dish with cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a 9x13 inch baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook noodles in boiling water for 8 to 10 minutes , or until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: boiling water
+    PREP: in
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: In a large bowl , mix together margarine , sour cream , egg substitute , sugar , lemon juice , vanilla extract , and applesauce .
+PREDID: 0
+PRED: mix
+  DOBJ: margarine , sour cream , egg substitute , sugar , lemon juice , vanilla extract , applesauce
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Stir in noodles and raisins .
+PREDID: 0
+PRED: stir
+  PARG: noodles, raisins
+    PREP: in
+
+
+SENTID: 7
+SENT: Spread graham cracker crumbs on the bottom of the prepared dish .
+PREDID: 0
+PRED: spread
+  DOBJ: graham cracker crumbs
+  PARG: the bottom of the prepared dish
+    PREP: on
+
+
+SENTID: 8
+SENT: Pour the noodle mixture over the crumbs .
+PREDID: 0
+PRED: pour
+  DOBJ: the noodle mixture
+  PARG: the crumbs
+    PREP: over
+
+
+SENTID: 9
+SENT: Sprinkle top with cinnamon .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top
+  PARG: cinnamon
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake 45 to 60 minutes in the preheated oven , or until set .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: set
+    PREP: until
+  OARG: 45 to 60 minutes
+
+
+SENTID: 11
+SENT: Cover with foil if it browns too quickly .
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+  PARG: it browns
+    PREP: if
+  OARG: too
+  OARG: quickly
+

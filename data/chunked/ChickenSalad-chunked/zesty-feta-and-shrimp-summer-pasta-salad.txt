@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the chicken in a baking dish , and roast 25 minutes in the preheated oven , or until juices run clear .
+PREDID: 0
+PRED: place
+  DOBJ: the chicken
+  PARG: a baking dish
+    PREP: in
+
+PREDID: 1
+PRED: roast
+  PARG: the preheated oven
+    PREP: in
+  PARG: juices run clear
+    PREP: until
+  OARG: 25 minutes
+
+
+SENTID: 2
+SENT: Remove from heat , cool , and cut into bite-size pieces . Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  PARG: bite-size pieces
+    PREP: into
+
+PREDID: 3
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add farfalle pasta , cook 8 to 10 minutes , until al dente , and drain .
+PREDID: 0
+PRED: add
+  DOBJ: farfalle pasta
+
+PREDID: 1
+PRED: cook
+  PARG: al dente
+    PREP: until
+  OARG: 8 to 10 minutes
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 4
+SENT: Cool to room temperature .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 5
+SENT: In a large bowl , mix the chicken , pasta , shrimp , olives , tomatoes , carrots , and cucumber .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , pasta , shrimp , olives , tomatoes , carrots , cucumber
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Toss with balsamic vinegar and feta cheese , and season with salt-free seasoning blend .
+PREDID: 0
+PRED: toss
+  PARG: balsamic vinegar, feta cheese
+    PREP: with
+
+PREDID: 1
+PRED: season
+  PARG: salt-free seasoning blend
+    PREP: with
+

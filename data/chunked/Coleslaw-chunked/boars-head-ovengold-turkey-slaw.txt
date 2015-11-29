@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Julienne turkey into 1/4 '' x 1/4 '' x 2 '' long strips .
+PREDID: 0
+PRED: julienne
+  DOBJ: turkey
+  PARG: 1/4 '' x 1/4 '' x 2
+    PREP: into
+  OARG: long
+
+
+SENTID: 1
+SENT: Core and shred cabbage coarsely .
+PREDID: 0
+PRED: core
+  DOBJ: cabbage
+
+PREDID: 1
+PRED: shred
+  OARG: coarsely
+
+
+SENTID: 2
+SENT: Toss in large mixing bowl with green onions and toasted almonds .
+PREDID: 0
+PRED: toss
+  PARG: large mixing bowl
+    PREP: in
+  PARG: green onions, toasted almonds
+    PREP: with
+
+
+SENTID: 3
+SENT: In a separate bowl , add sugar to rice wine vinegar and whisk until sugar is completely dissolved .
+PREDID: 0
+PRED: add
+  DOBJ: sugar
+  PARG: a separate bowl
+    PREP: in
+  PARG: rice wine vinegar
+    PREP: to
+
+PREDID: 1
+PRED: whisk
+  PARG: sugar is completely dissolved
+    PREP: until
+
+
+SENTID: 4
+SENT: Whisk in canola and sesame oil .
+PREDID: 0
+PRED: whisk
+  PARG: canola, sesame oil
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour evenly over turkey and cabbage mixture and toss evenly to coat .
+PREDID: 0
+PRED: pour
+  PARG: turkey, cabbage mixture
+    PREP: over
+  OARG: evenly
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Garnish with sesame seeds .
+PREDID: 0
+PRED: garnish
+  PARG: sesame seeds
+    PREP: with
+

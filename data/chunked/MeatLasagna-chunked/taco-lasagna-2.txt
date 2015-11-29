@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , then season with taco seasoning , garlic , cayenne pepper , chili powder and water .
+PREDID: 0
+PRED: drain
+  OARG: then
+
+PREDID: 1
+PRED: season
+  PARG: taco seasoning , garlic , cayenne pepper , chili powder, water
+    PREP: with
+
+
+SENTID: 3
+SENT: Simmer for 10 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Grease the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: the bottom of a 9x13 inch baking dish
+
+
+SENTID: 6
+SENT: Place 6 tortillas into the prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: 6 tortillas
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Spread 1/3 of the salsa on top of the tortillas .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/3 of the salsa
+  PARG: top of the tortillas
+    PREP: on
+
+
+SENTID: 8
+SENT: Spread 1/2 of the meat mixture evenly over the salsa .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/2 of the meat mixture
+  PARG: the salsa
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 9
+SENT: Sprinkle with 1/2 of the green onions .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/2 of the green onions
+    PREP: with
+
+
+SENTID: 10
+SENT: Drop 1/2 of the sour cream randomly over the green onions .
+PREDID: 0
+PRED: drop
+  DOBJ: 1/2 of the sour cream
+  PARG: the green onions
+    PREP: over
+  OARG: randomly
+
+
+SENTID: 11
+SENT: Top with 1/2 cup Cheddar and 1/2 cup Monterey Jack cheese .
+PREDID: 0
+PRED: top
+  PARG: 1/2 cup cheddar, 1/2 cup monterey jack cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Repeat layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+
+SENTID: 13
+SENT: Top with 6 tortillas , spread with remaining salsa , and sprinkle with remaining cheese .
+PREDID: 0
+PRED: top
+  PARG: 6 tortillas
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  PARG: remaining salsa
+    PREP: with
+
+PREDID: 2
+PRED: sprinkle
+  PARG: remaining cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in a preheated oven for 30 to 45 minutes or until cheeses are melted .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: 30 to 45 minutes
+    PREP: for
+  PARG: cheeses are melted
+    PREP: until
+

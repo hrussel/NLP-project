@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: Heat the olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Fry the zucchini in the oil until golden brown , 5 to 8 minutes on each side .
+PREDID: 0
+PRED: fry
+  DOBJ: the zucchini
+  PARG: the oil
+    PREP: in
+  PARG: golden brown , 5 to 8 minutes on each side
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from heat and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Spray an 8-inch pizza pan with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: an 8-inch pizza pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 5
+SENT: Combine the flour , yeast , sugar , and salt in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the flour , yeast , sugar , salt
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Slowly stir in the vegetable oil and warm water .
+PREDID: 0
+PRED: stir
+  PARG: the vegetable oil
+    PREP: in
+  OARG: slowly
+
+PREDID: 1
+PRED: warm
+  DOBJ: water
+
+
+SENTID: 7
+SENT: Knead the dough until well blended .
+PREDID: 0
+PRED: knead
+  DOBJ: the dough
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 8
+SENT: On a floured surface , roll the dough out with a rolling pin to fit the prepared pizza pan .
+PREDID: 0
+PRED: roll
+  DOBJ: the dough
+  PARG: a floured surface
+    PREP: on
+  PARG: with a rolling pin
+    PREP: out
+  PARG: fit the prepared pizza pan
+    PREP: to
+
+
+SENTID: 9
+SENT: Roll the crust thin , and fold over the edges to form a rim .
+PREDID: 0
+PRED: roll
+  DOBJ: the crust
+  OARG: thin
+
+PREDID: 1
+PRED: fold
+  PARG: the edges
+    PREP: over
+  PARG: form a rim
+    PREP: to
+
+
+SENTID: 10
+SENT: Spread the pizza sauce over the dough , and sprinkle the mozzarella cheese on top .
+PREDID: 0
+PRED: spread
+  DOBJ: the pizza sauce
+  PARG: the dough
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: the mozzarella cheese
+  PARG: top
+    PREP: on
+
+
+SENTID: 11
+SENT: Arrange the zucchini slices over the cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: the zucchini slices
+  PARG: the cheese
+    PREP: over
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until the cheese is melted and the crust is browned , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the cheese is melted, the crust is browned , about 15 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Spoon dollops of mascarpone cheese over the pizza .
+PREDID: 0
+PRED: spoon
+  DOBJ: dollops of mascarpone cheese
+  PARG: the pizza
+    PREP: over
+
+
+SENTID: 14
+SENT: Allow the pizza to cool for 5 to 10 minutes before slicing and serving .
+PREDID: 0
+PRED: allow
+  DOBJ: the pizza
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: slicing, serving
+    PREP: before
+  OARG: to cool
+

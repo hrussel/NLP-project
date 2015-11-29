@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: Bring a small pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a small pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+
+SENTID: 2
+SENT: cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 4
+SENT: Place eggs in a saucepan , and cover completely with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+  OARG: completely
+
+
+SENTID: 5
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove from hot water , and cool .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 8
+SENT: Peel the eggs and cut around the egg white ;
+PREDID: 0
+PRED: peel
+  DOBJ: the eggs
+
+PREDID: 1
+PRED: cut
+  PARG: the egg white
+    PREP: around
+
+
+SENTID: 9
+SENT: keep the yolk whole .
+PREDID: 0
+PRED: keep
+  DOBJ: the yolk whole
+
+
+SENTID: 10
+SENT: Dice the egg whites and potatoes .
+PREDID: 0
+PRED: dice
+  DOBJ: the egg whites, potatoes
+
+
+SENTID: 11
+SENT: Combine in a mixing bowl and add the salad dressing .
+PREDID: 0
+PRED: combine
+  PARG: a mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: the salad dressing
+
+
+SENTID: 12
+SENT: Toss the potatoes and egg ;
+PREDID: 0
+PRED: toss
+  DOBJ: the potatoes, egg
+
+
+SENTID: 13
+SENT: crumble the egg yolk on top and serve chilled .
+PREDID: 0
+PRED: crumble
+  DOBJ: the egg yolk
+  PARG: top
+    PREP: on
+
+PREDID: 1
+PRED: serve
+  DOBJ: chilled
+

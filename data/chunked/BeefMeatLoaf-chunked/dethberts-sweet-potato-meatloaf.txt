@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: Mix ground beef , sweet potato , onion , and oats in a large mixing bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , sweet potato , onion , oats
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Beat eggs , salt , thyme , and pepper together in a small bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , salt , thyme , pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add 3/4 cup ketchup , vegetable juice , Worcestershire sauce , 1 tablespoon prepared mustard , and mustard powder to the egg mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: 3/4 cup ketchup , vegetable juice , worcestershire sauce , 1 tablespoon prepared mustard , mustard powder
+  PARG: the egg mixture
+    PREP: to
+
+
+SENTID: 3
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 4
+SENT: Pour the egg mixture into the large mixing bowl ;
+PREDID: 0
+PRED: pour
+  DOBJ: the egg mixture
+  PARG: the large mixing bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: use your hands to mix together .
+PREDID: 0
+PRED: use
+  DOBJ: your hands
+  PARG: mix
+    PREP: to
+  OARG: together
+
+
+SENTID: 6
+SENT: Cover bowl with plastic wrap and refrigerate 8 hours to overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 8 hours
+  OARG: to overnight
+
+
+SENTID: 7
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Grease 2 8Ê1/2 x4x3-inch glass bread pans .
+PREDID: 0
+PRED: grease
+  DOBJ: 2 8Ê1/2 x4x3-inch glass bread pans
+
+
+SENTID: 9
+SENT: Divide meatloaf mixture into prepared bread pans .
+PREDID: 0
+PRED: divide
+  DOBJ: meatloaf mixture
+  PARG: prepared bread pans
+    PREP: into
+
+
+SENTID: 10
+SENT: Bake meat loaves on center rack in preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  DOBJ: meat loaves
+  PARG: center rack
+    PREP: on
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 11
+SENT: Stir 3/4 cup ketchup , brown sugar , and 1 teaspoon prepared mustard together in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: 3/4 cup ketchup , brown sugar , 1 teaspoon prepared mustard
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 12
+SENT: spread over the meatloaf .
+PREDID: 0
+PRED: spread
+  PARG: the meatloaf
+    PREP: over
+
+
+SENTID: 13
+SENT: Divide ketchup mixture and spread over the loaves ;
+PREDID: 0
+PRED: divide
+  DOBJ: ketchup mixture
+
+PREDID: 1
+PRED: spread
+  PARG: the loaves
+    PREP: over
+
+
+SENTID: 14
+SENT: continue baking for 15 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: baking
+  PARG: 15 minutes
+    PREP: for
+

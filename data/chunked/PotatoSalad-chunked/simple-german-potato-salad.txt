@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Place the potatoes into a pot and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , then reduce the heat to medium and simmer until tender , about 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: In a large bowl , stir together the salad dressing , pickles , eggs , hot dogs and salad dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: the salad dressing , pickles , eggs , hot dogs, salad dressing
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Season with onion , salt , pepper and garlic powder .
+PREDID: 0
+PRED: season
+  PARG: onion , salt , pepper, garlic powder
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir in the cooled potatoes until coated .
+PREDID: 0
+PRED: stir
+  PARG: the cooled potatoes
+    PREP: in
+  PARG: coated
+    PREP: until
+
+
+SENTID: 6
+SENT: Cover and chill until serving .
+PREDID: 0
+PRED: cover
+  PARG: serving
+    PREP: until
+
+PREDID: 1
+PRED: chill
+

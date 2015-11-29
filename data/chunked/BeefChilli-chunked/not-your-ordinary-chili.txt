@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: Combine chocolate syrup , tomatoes , French onion soup , kidney beans , beef broth , chili powder , molasses and raisins in a large stock pot and simmer .
+PREDID: 0
+PRED: combine
+  DOBJ: chocolate syrup , tomatoes , french onion soup , kidney beans , beef broth , chili powder , molasses, raisins
+  PARG: a large stock pot
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+
+
+SENTID: 1
+SENT: Meanwhile brown the ground beef , in a medium saute pan , over medium-high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a medium saute pan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 2
+SENT: Once browned , drain grease and add salt and pepper .
+PREDID: 0
+PRED: drain
+  DOBJ: browned
+  OARG: once
+
+PREDID: 1
+PRED: add
+  DOBJ: salt, pepper
+
+
+SENTID: 3
+SENT: Add browned beef , tomato juice and cola flavored carbonated beverage to soup mixture and simmer for an hour .
+PREDID: 0
+PRED: add
+  DOBJ: browned beef , tomato juice, cola flavored carbonated beverage
+  PARG: soup mixture
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: an hour
+    PREP: for
+

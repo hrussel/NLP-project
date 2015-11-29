@@ -1,0 +1,82 @@
+T1	predicate 0 7	Preheat
+T2	predicate 56 62	grease
+T3	predicate 78 83	Place
+T4	predicate 126 129	Mix
+T5	predicate 190 194	pour
+T6	predicate 219 223	Bake
+T7	predicate 307 313	Divide
+T8	predicate 342 347	Place
+T9	predicate 392 397	spoon
+T10	predicate 436 442	Divide
+T11	arg_location 224 241	in preheated oven
+T12	Evolution 227 241	preheated oven
+E1	Evolution:T12 Cause:T1
+R1	location Arg1:T6 Arg2:T11	
+R2	object Arg1:T6 Arg2:T5	
+T13	arg_duration 242 305	until chicken is no longer pink in the center, about 30 minutes
+R3	duration Arg1:T6 Arg2:T13	
+T14	arg_object 8 12	oven
+T15	arg_other 13 46	to 375  degrees F (190 degrees C)
+R4	object Arg1:T1 Arg2:T14	
+R5	other Arg1:T1 Arg2:T15	
+T16	arg_object 63 76	a baking dish
+R6	object Arg1:T2 Arg2:T16	
+T17	arg_location 104 124	in the prepared dish
+T18	Evolution 107 124	the prepared dish
+E2	Evolution:T18 Cause:T2
+R7	location Arg1:T3 Arg2:T17	
+T19	arg_object 84 103	the chicken breasts
+R8	object Arg1:T3 Arg2:T19	
+T20	arg_object 130 146	the tomato sauce
+T21	arg_object 148 153	water
+T22	arg_object 158 172	taco seasoning
+T23	arg_location 173 188	in a small bowl
+R9	object Arg1:T4 Arg2:T20	
+R10	object Arg1:T4 Arg2:T21	
+R11	object Arg1:T4 Arg2:T22	
+R12	location Arg1:T4 Arg2:T23	
+T24	arg_object 195 200	sauce
+T25	Evolution 195 200	sauce
+E3	Evolution:T25 Cause:T4
+R13	object Arg1:T5 Arg2:T24	
+T26	arg_co-object 201 217	over the chicken
+R14	co-object Arg1:T5 Arg2:T26	
+T27	Evolution 206 217	the chicken
+E4	Evolution:T27 Cause:T3
+T28	arg_object 314 321	spinach
+R15	object Arg1:T7 Arg2:T28	
+T29	arg_location 322 340	between two plates
+R16	location Arg1:T7 Arg2:T29	
+T30	arg_object 348 367	the chicken breasts
+T31	Evolution 348 367	the chicken breasts
+E5	Evolution:T31 Cause:T6
+R17	object Arg1:T8 Arg2:T30	
+T32	arg_co-object 368 387	on the spinach beds
+T33	Evolution 371 387	the spinach beds
+E6	Evolution:T33 Cause:T7
+R18	co-object Arg1:T8 Arg2:T32	
+T34	arg_object 398 418	half the black beans
+T35	arg_co-object 419 434	over each piece
+T36	Evolution 424 434	each piece
+E7	Evolution:T36 Cause:T8
+R19	object Arg1:T9 Arg2:T34	
+R20	co-object Arg1:T9 Arg2:T35	
+T37	arg_object 443 453	sour cream
+T38	arg_object 455 470	shredded cheese
+T39	arg_object 475 480	salsa
+T40	arg_co-object 481 498	to top each salad
+R21	object Arg1:T10 Arg2:T37	
+R22	object Arg1:T10 Arg2:T38	
+R23	object Arg1:T10 Arg2:T39	
+T41	Evolution 488 498	each salad
+E8	Evolution:T41 Cause:T9
+R24	co-object Arg1:T10 Arg2:T40	
+T42	ingredient 84 103	the chicken breasts
+T43	ingredient 130 146	the tomato sauce
+T44	ingredient 148 153	water
+T45	ingredient 158 172	taco seasoning
+T46	ingredient 314 321	spinach
+T47	ingredient 398 418	half the black beans
+T48	ingredient 443 453	sour cream
+T49	ingredient 455 470	shredded cheese
+T50	ingredient 475 480	salsa

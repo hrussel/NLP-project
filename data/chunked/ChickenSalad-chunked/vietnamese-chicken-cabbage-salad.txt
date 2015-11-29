@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: In a large bowl , toss together the cabbage , onions , and chicken .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage , onions , chicken
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Toss with olive oil until everything is lightly coated .
+PREDID: 0
+PRED: toss
+  PARG: olive oil
+    PREP: with
+  PARG: everything is lightly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Season with salt and pepper and continue to toss while adding lemon juice .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: continue
+  PARG: toss
+    PREP: to
+  PARG: adding lemon juice
+    PREP: while
+
+
+SENTID: 3
+SENT: Cover and refrigerate for at least 4 hours before serving .
+PREDID: 0
+PRED: cover
+  PARG: at least 4 hours
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+

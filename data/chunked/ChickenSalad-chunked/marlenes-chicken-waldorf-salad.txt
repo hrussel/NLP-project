@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Combine chicken , pineapple , Red Delicious apple , Golden Delicious apple , celery , red grapes , green grapes , and walnuts in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , pineapple , red delicious apple , golden delicious apple , celery , red grapes , green grapes , walnuts
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk milk , mayonnaise , and ranch dressing mix together in a separate bowl until well blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: milk , mayonnaise , ranch dressing
+
+PREDID: 1
+PRED: mix
+  PARG: a separate bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour ranch dressing over chicken mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: ranch dressing
+  PARG: chicken mixture
+    PREP: over
+
+
+SENTID: 3
+SENT: toss gently to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 4
+SENT: Serve salad on a bed of lettuce leaves .
+PREDID: 0
+PRED: serve
+  DOBJ: salad
+  PARG: a bed of lettuce leaves
+    PREP: on
+

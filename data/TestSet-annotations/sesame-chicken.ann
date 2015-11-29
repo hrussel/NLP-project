@@ -1,0 +1,170 @@
+T1	arg_location 18 45	In a nonporous dish or bowl
+T2	predicate 46 51	blend
+T3	predicate 89 96	stir in
+T4	predicate 158 163	Blend
+T5	predicate 177 184	stir in
+T6	predicate 201 206	Cover
+T7	predicate 216 227	refrigerate
+T8	predicate 285 290	place
+T9	predicate 308 315	dry-fry
+T10	predicate 393 399	Remove
+T11	predicate 410 413	set
+T12	predicate 444 447	add
+T13	predicate 481 485	heat
+T14	predicate 494 499	Drain
+T15	predicate 533 541	stir-fry
+T16	predicate 588 594	Remove
+T17	predicate 628 631	set
+T18	predicate 639 642	Add
+T19	predicate 702 710	stir-fry
+T20	predicate 731 734	Add
+T21	predicate 753 761	stir-fry
+T22	predicate 777 783	Return
+T23	predicate 837 841	stir
+T24	predicate 951 959	Sprinkle
+T25	predicate 992 997	serve
+T26	arg_object 52 62	cornstarch
+T27	ingredient 52 62	cornstarch
+T28	arg_co-object 63 82	with wine or sherry
+T29	ingredient 68 82	wine or sherry
+R1	object Arg1:T2 Arg2:T26	
+R2	location Arg1:T2 Arg2:T1	
+R3	co-object Arg1:T2 Arg2:T28	
+R4	co-object Arg1:T3 Arg2:T2	
+T30	arg_object 97 108	lemon juice
+T31	arg_object 110 119	soy sauce
+T32	arg_object 121 137	hot pepper sauce
+T33	arg_object 139 145	ginger
+T34	arg_object 150 156	garlic
+T35	ingredient 150 156	garlic
+T36	ingredient 139 145	ginger
+T37	ingredient 121 137	hot pepper sauce
+T38	ingredient 110 119	soy sauce
+T39	ingredient 97 108	lemon juice
+R5	object Arg1:T3 Arg2:T30	
+R6	object Arg1:T3 Arg2:T31	
+R7	object Arg1:T3 Arg2:T32	
+R8	object Arg1:T3 Arg2:T33	
+R9	object Arg1:T3 Arg2:T34	
+R10	object Arg1:T4 Arg2:T3	
+T40	arg_other 164 172	together
+R11	other Arg1:T4 Arg2:T40	
+R12	co-object Arg1:T5 Arg2:T4	
+T41	arg_object 185 199	chicken strips
+T42	ingredient 185 199	chicken strips
+R13	object Arg1:T5 Arg2:T41	
+T43	arg_object 207 211	dish
+T44	Evolution 207 211	dish
+E1	Evolution:T44 Cause:T5
+R14	object Arg1:T6 Arg2:T43	
+R15	object Arg1:T7 Arg2:T6	
+T45	arg_other 228 239	to marinate
+T46	arg_duration 240 256	for 3 to 4 hours
+R16	other Arg1:T7 Arg2:T45	
+R17	duration Arg1:T7 Arg2:T46	
+T47	arg_location 258 283	In a wok or large skillet
+R18	location Arg1:T8 Arg2:T47	
+T48	arg_object 291 303	sesame seeds
+T49	ingredient 291 303	sesame seeds
+R19	object Arg1:T8 Arg2:T48	
+R20	object Arg1:T9 Arg2:T8	
+T50	arg_other 316 332	over medium heat
+T51	arg_other 334 349	shaking the wok
+T52	arg_duration 351 390	until the seeds are a golden brown colo
+R21	other Arg1:T9 Arg2:T50	
+R22	other Arg1:T9 Arg2:T51	
+R23	duration Arg1:T9 Arg2:T52	
+T53	arg_object 400 405	seeds
+T54	Evolution 400 405	seeds
+E2	Evolution:T54 Cause:T9
+R24	object Arg1:T10 Arg2:T53	
+R26	object Arg1:T11 Arg2:T10	
+T55	arg_other 414 419	aside
+R27	other Arg1:T11 Arg2:T55	
+T56	arg_location 421 443	To same wok or skillet
+R28	same-location Arg1:T56 Arg2:T47	
+R29	location Arg1:T12 Arg2:T56	
+T57	arg_object 448 458	sesame oil
+T58	ingredient 448 458	sesame oil
+R30	object Arg1:T12 Arg2:T57	
+T59	arg_object 463 476	vegetable oil
+T60	ingredient 463 476	vegetable oil
+R31	object Arg1:T12 Arg2:T59	
+R32	object Arg1:T13 Arg2:T12	
+T61	arg_other 486 492	slowly
+R33	other Arg1:T13 Arg2:T61	
+T62	arg_object 500 507	chicken
+T63	Evolution 500 507	chicken
+E3	Evolution:T63 Cause:T7
+R34	object Arg1:T14 Arg2:T62	
+T64	arg_other 509 527	reserving marinade
+R35	other Arg1:T14 Arg2:T64	
+R36	co-object Arg1:T14 Arg2:T7	
+R37	object Arg1:T15 Arg2:T14	
+T65	arg_location 542 548	in wok
+R38	same-location Arg1:T65 Arg2:T56	
+R39	location Arg1:T15 Arg2:T65	
+R40	co-object Arg1:T15 Arg2:T12	
+T66	arg_other 549 571	a few pieces at a time
+T67	arg_duration 573 586	until browned
+R41	other Arg1:T15 Arg2:T66	
+R42	duration Arg1:T15 Arg2:T67	
+T68	arg_object 595 602	chicken
+R43	object Arg1:T16 Arg2:T68	
+T69	Evolution 595 602	chicken
+E4	Evolution:T69 Cause:T15
+T70	arg_other 603 623	with a slotted spoon
+R45	other Arg1:T16 Arg2:T70	
+R25	object Arg1:T17 Arg2:T16	
+T71	arg_other 632 637	aside
+R44	other Arg1:T17 Arg2:T71	
+T72	arg_object 643 652	mushrooms
+T73	ingredient 643 652	mushrooms
+T74	arg_object 657 674	green bell pepper
+T75	ingredient 657 674	green bell pepper
+R46	object Arg1:T18 Arg2:T72	
+R47	object Arg1:T18 Arg2:T74	
+T76	arg_location 675 697	to same wok or skillet
+R48	same-location Arg1:T76 Arg2:T65	
+R49	location Arg1:T18 Arg2:T76	
+R50	object Arg1:T19 Arg2:T18	
+T77	arg_duration 711 729	for 2 to 3 minutes
+R51	duration Arg1:T19 Arg2:T77	
+R52	co-object Arg1:T20 Arg2:T19	
+T78	arg_object 735 748	the scallions
+T79	ingredient 735 748	the scallions
+R53	object Arg1:T20 Arg2:T78	
+R54	object Arg1:T21 Arg2:T20	
+T80	arg_duration 762 775	1 minute more
+R55	duration Arg1:T21 Arg2:T80	
+T81	arg_object 784 791	chicken
+T82	Evolution 784 791	chicken
+E5	Evolution:T82 Cause:T17
+R56	object Arg1:T22 Arg2:T81	
+T83	arg_location 792 798	to wok
+R57	same-location Arg1:T83 Arg2:T76	
+R58	location Arg1:T22 Arg2:T83	
+T84	arg_other 800 808	together
+T85	arg_co-object 809 831	with reserved marinade
+T86	Evolution 814 831	reserved marinade
+E6	Evolution:T86 Cause:T14
+R59	other Arg1:T22 Arg2:T84	
+R60	co-object Arg1:T22 Arg2:T85	
+R61	object Arg1:T23 Arg2:T22	
+R62	co-object Arg1:T22 Arg2:T21	
+T87	arg_other 842 863	over medium high heat
+T88	arg_duration 864 949	for another 2 to 3 minutes, or until the ingredients are evenly coated with the glaze
+R63	other Arg1:T23 Arg2:T87	
+R64	duration Arg1:T23 Arg2:T88	
+T89	arg_object 960 980	toasted sesame seeds
+T90	Evolution 960 980	toasted sesame seeds
+E7	Evolution:T90 Cause:T11
+T91	arg_co-object 981 987	on top
+T92	Evolution 984 987	top
+E8	Evolution:T92 Cause:T23
+R65	object Arg1:T24 Arg2:T89	
+R66	co-object Arg1:T24 Arg2:T91	
+R67	object Arg1:T25 Arg2:T24	
+T93	arg_other 998 1009	immediately
+R68	other Arg1:T25 Arg2:T93	
+R69	co-object Arg1:T16 Arg2:T15	

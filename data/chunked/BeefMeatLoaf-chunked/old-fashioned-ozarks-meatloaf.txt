@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix together the ground beef , sausage , eggs , 1/2 cup of ketchup and bread crumbs until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , sausage , eggs , 1/2 cup of ketchup, bread crumbs
+  PARG: a large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pat into a 9x5 inch loaf pan .
+PREDID: 0
+PRED: pat
+  PARG: a 9x5 inch loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake for 1 hour and 30 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour, 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 4
+SENT: Drain off some of the fat once in a while to keep spattering to a minimum .
+PREDID: 0
+PRED: drain
+  PARG: some of the fat
+    PREP: off
+  PARG: a while
+    PREP: in
+  PARG: keep spattering
+    PREP: to
+  PARG: a minimum
+    PREP: to
+  OARG: once
+
+
+SENTID: 5
+SENT: Enjoy !
+PREDID: 0
+PRED: enjoy
+

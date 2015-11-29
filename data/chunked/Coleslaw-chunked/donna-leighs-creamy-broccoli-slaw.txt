@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Mix mayonnaise , vinegar , sugar , celery seed , and ramen noodle seasoning packet in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , vinegar , sugar , celery seed , ramen noodle seasoning packet
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: chill in refrigerator .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator
+    PREP: in
+
+
+SENTID: 2
+SENT: Heat olive oil and sesame oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil, sesame oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: cook and stir ramen noodles and almonds until toasted , stirring frequently , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ramen noodles, almonds
+
+PREDID: 1
+PRED: stir
+  PARG: toasted , stirring frequently , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove from heat and cool .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 5
+SENT: Combine ramen noodles , almonds , broccoli coleslaw mix , onion , sunflower seeds , and dressing in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: ramen noodles , almonds , broccoli coleslaw mix , onion , sunflower seeds , dressing
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: stir to coat .
+PREDID: 0
+PRED: stir
+  PARG: coat
+    PREP: to
+

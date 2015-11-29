@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Once the water is boiling , stir in the shell pasta , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the shell pasta
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 13 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 13 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 6
+SENT: Heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook and stir ground beef , onion , and green pepper until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onion , green pepper
+
+PREDID: 1
+PRED: stir
+  PARG: browned
+    PREP: until
+
+
+SENTID: 8
+SENT: Drain off excess grease .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+
+SENTID: 9
+SENT: Stir in pepperoni , tomato sauce , tomato juice , oregano , celery salt , onion powder , garlic salt , basil , red pepper flakes , and cooked pasta .
+PREDID: 0
+PRED: stir
+  PARG: pepperoni , tomato sauce , tomato juice , oregano , celery salt , onion powder , garlic salt , basil , red pepper flakes , cooked pasta
+    PREP: in
+
+
+SENTID: 10
+SENT: Pour into the prepared baking dish and cover with aluminum foil .
+PREDID: 0
+PRED: pour
+  PARG: the prepared baking dish
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in the preheated oven for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Remove casserole from oven and sprinkle with mozzarella cheese .
+PREDID: 0
+PRED: remove
+  DOBJ: casserole
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: sprinkle
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 13
+SENT: Return to the oven and bake until the cheese melts , about 5 minutes .
+PREDID: 0
+PRED: return
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the cheese melts , about 5 minutes
+    PREP: until
+

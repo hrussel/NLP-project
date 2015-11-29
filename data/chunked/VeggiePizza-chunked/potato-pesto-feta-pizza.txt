@@ -1,0 +1,144 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Scrub and dry potatoes , then prick several times with a fork and place onto a baking sheet .
+PREDID: 0
+PRED: scrub
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: dry
+  DOBJ: prick several times
+  PARG: a fork
+    PREP: with
+  OARG: then
+
+PREDID: 2
+PRED: place
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 2
+SENT: Bake in the preheated oven until the potatoes are easily pierced with a fork , 50 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the potatoes are easily pierced with a fork , 50 minutes to 1 hour
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove , cool , and cut into slices about 1/4-inch thick .
+PREDID: 0
+PRED: remove
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  PARG: slices
+    PREP: into
+  PARG: 1/4-inch thick
+    PREP: about
+
+
+SENTID: 4
+SENT: Sprinkle cornmeal over a half sheet pan .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: cornmeal
+  PARG: a half sheet pan
+    PREP: over
+
+
+SENTID: 5
+SENT: Stretch pizza dough over cornmeal to fit the pan ;
+PREDID: 0
+PRED: stretch
+  DOBJ: pizza dough
+  PARG: cornmeal
+    PREP: over
+  PARG: fit the pan
+    PREP: to
+
+
+SENTID: 6
+SENT: spread pesto sauce over dough .
+PREDID: 0
+PRED: spread
+  DOBJ: pesto sauce
+  PARG: dough
+    PREP: over
+
+
+SENTID: 7
+SENT: Lay potatoes over the pesto in a single layer ;
+PREDID: 0
+PRED: lay
+  DOBJ: potatoes
+  PARG: the pesto
+    PREP: over
+  PARG: a single layer
+    PREP: in
+
+
+SENTID: 8
+SENT: season with salt and pepper to taste and sprinkle Parmigiano-Reggiano cheese over potatoes .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: parmigiano-reggiano cheese
+  PARG: potatoes
+    PREP: over
+
+
+SENTID: 9
+SENT: Sprinkle Fontina cheese , red onion slices , and feta cheese on top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: fontina cheese , red onion slices , feta cheese
+  PARG: top
+    PREP: on
+
+
+SENTID: 10
+SENT: Bake in the preheated oven on the bottom rack for 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the bottom rack
+    PREP: on
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Transfer pan to the middle rack and bake until crust is light golden and crisp , 5 to 7 minutes .
+PREDID: 0
+PRED: transfer
+  DOBJ: pan
+  PARG: the middle rack
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: crust is light golden, crisp , 5 to 7 minutes
+    PREP: until
+

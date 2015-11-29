@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the beef , eggs , onion , barbecue sauce , cracker crumbs , potato chips , liquid smoke , ground black pepper , salt , garlic powder and cayenne pepper and mix well .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , eggs , onion , barbecue sauce , cracker crumbs , potato chips , liquid smoke , ground black pepper , salt , garlic powder, cayenne pepper
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: On a lightly greased cookie sheet , shape the mixture into a loaf .
+PREDID: 0
+PRED: shape
+  DOBJ: the mixture
+  PARG: a lightly greased cookie sheet
+    PREP: on
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 3
+SENT: Lay the bacon slices across the width of the loaf so that the entire surface is covered .
+PREDID: 0
+PRED: lay
+  DOBJ: the bacon slices
+  PARG: the width of the loaf
+    PREP: across
+  PARG: the entire surface is covered
+    PREP: that
+  OARG: so
+
+
+SENTID: 4
+SENT: Cover the loaf loosely with foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the loaf
+  PARG: foil
+    PREP: with
+  OARG: loosely
+
+
+SENTID: 5
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 1Ê1/2 hours .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 1Ê1/2 hours
+    PREP: for
+

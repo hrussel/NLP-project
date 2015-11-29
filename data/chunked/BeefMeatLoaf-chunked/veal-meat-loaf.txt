@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a bowl , mix the ground veal , eggs , dry bread crumbs , water , soup mix , carrots , and shiitake mushrooms .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground veal , eggs , dry bread crumbs , water , soup mix , carrots , shiitake mushrooms
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Transfer to a 9x5 inch loaf pan .
+PREDID: 0
+PRED: transfer
+  PARG: a 9x5 inch loaf pan
+    PREP: to
+
+
+SENTID: 3
+SENT: Bake 1 hour in the preheated oven , or to a minimum internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a minimum internal temperature of 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: to
+  OARG: 1 hour
+

@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Fit the pie crust into a 9-inch pie dish .
+PREDID: 0
+PRED: fit
+  DOBJ: the pie crust
+  PARG: a 9-inch pie dish
+    PREP: into
+
+
+SENTID: 2
+SENT: In a bowl , whisk the egg substitute , sucralose sweetener , sweetener with brown sugar , and pumpkin pie spice until well combined .
+PREDID: 0
+PRED: whisk
+  DOBJ: the egg substitute , sucralose sweetener , sweetener
+  PARG: a bowl
+    PREP: in
+  PARG: brown sugar , pumpkin pie spice
+    PREP: with
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 3
+SENT: Whisk in the pumpkin puree and evaporated milk until smooth .
+PREDID: 0
+PRED: whisk
+  PARG: the pumpkin puree, evaporated milk
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour the filling into the pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: the filling
+  PARG: the pie shell
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until the pie filling is set in the center , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the pie filling is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: the center
+    PREP: in
+  PARG: 40 minutes
+    PREP: about
+

@@ -1,0 +1,27 @@
+SENTID: 0
+SENT: In a large bowl , mix the onion , cabbage , carrots , Greek yogurt , and pineapple .
+PREDID: 0
+PRED: mix
+  DOBJ: the onion , cabbage , carrots , greek yogurt , pineapple
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Season with salt and pepper , paprika , and garlic powder .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper , paprika , garlic powder
+    PREP: with
+
+
+SENTID: 2
+SENT: Chill 30 minutes in the refrigerator before serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: 30 minutes
+

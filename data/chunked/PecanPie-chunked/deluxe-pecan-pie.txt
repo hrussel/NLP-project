@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small bowl , mix together the eggs , sugar , butter , corn syrup , whipped cream , brandy , vanilla and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: the eggs , sugar , butter , corn syrup , whipped cream , brandy , vanilla, salt
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in chopped pecans and pour into pie shell .
+PREDID: 0
+PRED: stir
+  PARG: chopped pecans
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Arrange pecan halves on top and bake for 40 to 45 minutes .
+PREDID: 0
+PRED: arrange
+  DOBJ: pecan halves
+  PARG: top
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: 40 to 45 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Remove from oven , cool and serve .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: serve
+

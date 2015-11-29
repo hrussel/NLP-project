@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Thoroughly mix beef , pork , lamb , mushrooms , bread crumbs , eggs , garlic , thyme , soy sauce , soup base , parsley , and sage in a large bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: beef , pork , lamb , mushrooms , bread crumbs , eggs , garlic , thyme , soy sauce , soup base , parsley , sage
+  PARG: a large bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 2
+SENT: shape into 2 loaves .
+PREDID: 0
+PRED: shape
+  PARG: 2 loaves
+    PREP: into
+
+
+SENTID: 3
+SENT: Wrap bacon strips around the loaves to cover completely .
+PREDID: 0
+PRED: wrap
+  DOBJ: bacon strips
+  PARG: the loaves
+    PREP: around
+  PARG: cover
+    PREP: to
+  OARG: completely
+
+
+SENTID: 4
+SENT: Place loaves on a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: loaves
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until the loaves are no longer pink in the center , 90 minutes to 2 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the loaves are no longer pink in the center , 90 minutes to 2 hours
+    PREP: until
+

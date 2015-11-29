@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat sucralose sweetener and eggs in a large bowl with an electric mixer until creamy ;
+PREDID: 0
+PRED: beat
+  DOBJ: sucralose sweetener, eggs
+  PARG: a large bowl
+    PREP: in
+  PARG: an electric mixer
+    PREP: with
+  PARG: creamy
+    PREP: until
+
+
+SENTID: 2
+SENT: add oil and continue beating until well mixed .
+PREDID: 0
+PRED: add
+  DOBJ: oil, continue beating
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 3
+SENT: Beat flour , raisins , walnuts , and salt into egg mixture until thick .
+PREDID: 0
+PRED: beat
+  DOBJ: flour , raisins , walnuts , salt
+  PARG: egg mixture
+    PREP: into
+  PARG: thick
+    PREP: until
+
+
+SENTID: 4
+SENT: Beat in carrots .
+PREDID: 0
+PRED: beat
+  PARG: carrots
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in baking powder and baking soda into batter until evenly mixed .
+PREDID: 0
+PRED: stir
+  PARG: baking powder, baking soda
+    PREP: in
+  PARG: batter
+    PREP: into
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour batter into a 9x13-inch baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until a toothpick inserted into the center comes out clean , 40 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , 40 to 45 minutes
+    PREP: until
+

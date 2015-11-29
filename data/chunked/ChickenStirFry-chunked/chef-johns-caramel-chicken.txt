@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Whisk brown sugar , water , fish sauce , rice vinegar , soy sauce , garlic , and ginger in a bowl until brown sugar is completely dissolved , about 1 minute .
+PREDID: 0
+PRED: whisk
+  DOBJ: brown sugar , water , fish sauce , rice vinegar , soy sauce , garlic , ginger
+  PARG: a bowl
+    PREP: in
+  PARG: brown sugar is completely dissolved , about 1 minute
+    PREP: until
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat oil over high heat in a skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: high heat
+    PREP: over
+  PARG: a skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in chicken .
+PREDID: 0
+PRED: stir
+  PARG: chicken
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour 1/3 cup of the brown sugar mixture over chicken ;
+PREDID: 0
+PRED: pour
+  DOBJ: 1/3 cup of the brown sugar mixture
+  PARG: chicken
+    PREP: over
+
+
+SENTID: 5
+SENT: Pour in the remaining brown sugar mixture ;
+PREDID: 0
+PRED: pour
+  PARG: the remaining brown sugar mixture
+    PREP: in
+
+
+SENTID: 6
+SENT: cook until chicken is tender and no longer pink inside , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: chicken is tender, no longer pink inside , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in in peanuts , jalapenos and green onion ;
+PREDID: 0
+PRED: stir
+  PARG: in peanuts , jalapenos, green onion
+    PREP: in
+
+
+SENTID: 8
+SENT: cook until warmed through , 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: warmed through , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Garnish with cilantro and serve .
+PREDID: 0
+PRED: garnish
+  PARG: cilantro
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

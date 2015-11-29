@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Combine first 4 ingredients .
+PREDID: 0
+PRED: combine
+  DOBJ: 4 ingredients
+  OARG: first
+
+
+SENTID: 1
+SENT: Dip bread into mixture and fry in melted butter until golden on both sides .
+PREDID: 0
+PRED: dip
+  DOBJ: bread
+  PARG: mixture
+    PREP: into
+
+PREDID: 1
+PRED: fry
+  PARG: melted butter
+    PREP: in
+  PARG: golden on both sides
+    PREP: until
+
+
+SENTID: 2
+SENT: Cut into strips and thread strips on skewers alternating with the fruit of your choice .
+PREDID: 0
+PRED: cut
+  PARG: strips, thread strips
+    PREP: into
+  PARG: skewers alternating
+    PREP: on
+  PARG: the fruit of your choice
+    PREP: with
+
+
+SENTID: 3
+SENT: Dip :
+PREDID: 0
+PRED: dip
+
+
+SENTID: 4
+SENT: Combine all ingredients and serve with kabobs .
+PREDID: 0
+PRED: combine
+  DOBJ: all ingredients
+
+PREDID: 1
+PRED: serve
+  PARG: kabobs
+    PREP: with
+

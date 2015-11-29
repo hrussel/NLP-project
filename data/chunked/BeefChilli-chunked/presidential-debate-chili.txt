@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Crumble beef into a large pot over medium-high heat ;
+PREDID: 0
+PRED: crumble
+  DOBJ: beef
+  PARG: a large pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: add onion and garlic .
+PREDID: 0
+PRED: add
+  DOBJ: onion, garlic
+
+
+SENTID: 2
+SENT: Cook and stir beef until completely browned , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+
+PREDID: 1
+PRED: stir
+  PARG: completely browned , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and discard excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 4
+SENT: Return pot to medium-high heat .
+PREDID: 0
+PRED: return
+  DOBJ: pot
+  PARG: medium-high heat
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir diced tomatoes , beef broth , diced green chilies , chili powder , brown sugar , oregano , cumin , and salt through the beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: diced tomatoes , beef broth , diced green chilies , chili powder , brown sugar , oregano , cumin , salt
+
+
+SENTID: 6
+SENT: Add beans and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: beans
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Reduce heat to medium-low , place a cover on the pot , and simmer for 1 hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , place a cover
+    PREP: to
+  PARG: the pot , simmer
+    PREP: on
+  PARG: 1 hour
+    PREP: for
+

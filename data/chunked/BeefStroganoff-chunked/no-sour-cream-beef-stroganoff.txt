@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Brown ground beef in a large skillet over medium heat .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Season with salt .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+
+SENTID: 2
+SENT: Stir in butter , mushrooms , onion , and garlic ;
+PREDID: 0
+PRED: stir
+  PARG: butter , mushrooms , onion , garlic
+    PREP: in
+
+
+SENTID: 3
+SENT: cook until the onions are soft .
+PREDID: 0
+PRED: cook
+  PARG: the onions are soft
+    PREP: until
+
+
+SENTID: 4
+SENT: In a small bowl , stir together white wine and flour .
+PREDID: 0
+PRED: stir
+  DOBJ: white wine
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 5
+SENT: Stir into meat , along with mushroom soup and beef broth .
+PREDID: 0
+PRED: stir
+  PARG: meat
+    PREP: into
+  PARG: with mushroom soup, beef broth
+    PREP: along
+
+
+SENTID: 6
+SENT: Simmer for 10 to 15 minutes , allowing to thicken .
+PREDID: 0
+PRED: simmer
+  PARG: 10 to 15 minutes , allowing
+    PREP: for
+  OARG: to thicken
+
+
+SENTID: 7
+SENT: -RRB- Serve seasoned with a dash of Worcestershire sauce .
+PREDID: 0
+PRED: sauce
+  DOBJ: serve seasoned
+  PARG: a dash of worcestershire
+    PREP: with
+

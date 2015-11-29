@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups with butter or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+  PARG: butter
+    PREP: with
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Stir sugar , oil , mayonnaise , and eggs together until creamy and light yellow .
+PREDID: 0
+PRED: stir
+  DOBJ: sugar , oil , mayonnaise , eggs
+  PARG: creamy, light yellow
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Mix in bananas until incorporated .
+PREDID: 0
+PRED: mix
+  PARG: bananas
+    PREP: in
+  PARG: incorporated
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir flour , oats , flax , wheat germ , baking soda , baking powder , and salt into banana mixture until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: flour , oats , flax , wheat germ , baking soda , baking powder , salt
+  PARG: banana mixture
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix in chocolate chips and walnuts .
+PREDID: 0
+PRED: mix
+  PARG: chocolate chips, walnuts
+    PREP: in
+
+
+SENTID: 6
+SENT: Spoon batter into prepared pans .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared pans
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until golden and the tops spring back when lightly pressed , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden, the tops spring back when lightly pressed , about 25 minutes
+    PREP: until
+

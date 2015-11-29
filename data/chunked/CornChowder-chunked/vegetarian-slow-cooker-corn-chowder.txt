@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Pour cream-style corn and whole-kernel corn in a slow cooker set to Low ;
+PREDID: 0
+PRED: pour
+  DOBJ: cream-style corn, whole-kernel corn
+  PARG: a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: set
+  PARG: low
+    PREP: to
+
+
+SENTID: 1
+SENT: add hash browns and stir .
+PREDID: 0
+PRED: add
+  DOBJ: hash browns
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 2
+SENT: Heat butter in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: cook and stir red onion , white onion , bell peppers , celery , carrots , jalapeno peppers , cherry peppers , and poblano peppers in the melted butter until onions are slightly translucent , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: red onion , white onion , bell peppers , celery , carrots , jalapeno peppers , cherry peppers , poblano peppers
+
+PREDID: 1
+PRED: stir
+  PARG: the melted butter
+    PREP: in
+  PARG: onions are slightly translucent , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir vegetable mixture into slow cooker ;
+PREDID: 0
+PRED: stir
+  DOBJ: vegetable mixture
+  PARG: slow cooker
+    PREP: into
+
+
+SENTID: 5
+SENT: top with half-and-half .
+PREDID: 0
+PRED: top
+  PARG: half-and-half
+    PREP: with
+
+
+SENTID: 6
+SENT: Cook , stirring occasionally , for about 3 hours .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: about 3 hours
+    PREP: for
+  OARG: occasionally
+

@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Place cabbage in a steamer over 1 inch of boiling water , and cover .
+PREDID: 0
+PRED: place
+  DOBJ: cabbage
+  PARG: a steamer
+    PREP: in
+  PARG: 1 inch of boiling water
+    PREP: over
+
+PREDID: 1
+PRED: cover
+
+
+SENTID: 4
+SENT: Cook until tender but still firm , about 6 to 8 minutes .
+PREDID: 0
+PRED: cook
+  PARG: tender but still firm , about 6 to 8 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Heat butter in a deep skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: butter
+  PARG: a deep skillet
+    PREP: in
+
+
+SENTID: 6
+SENT: Saute the onion until tender .
+PREDID: 0
+PRED: saute
+  DOBJ: the onion
+  PARG: tender
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in cabbage and noodles .
+PREDID: 0
+PRED: stir
+  PARG: cabbage, noodles
+    PREP: in
+
+
+SENTID: 8
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+

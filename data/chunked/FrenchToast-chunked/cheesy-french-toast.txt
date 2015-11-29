@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: In a shallow bowl , whisk together the eggs , milk , Swiss cheese and chives .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , swiss cheese, chives
+  PARG: a shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Melt the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Dip slices of bread into the egg mixture , then place them in the skillet .
+PREDID: 0
+PRED: dip
+  DOBJ: slices of bread
+  PARG: the egg mixture
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook for 3 to 5 minutes per side , or until golden and crispy .
+PREDID: 0
+PRED: cook
+  PARG: 3 to 5 minutes
+    PREP: for
+  PARG: side
+    PREP: per
+  PARG: golden, crispy
+    PREP: until
+
+
+SENTID: 4
+SENT: Serve with sliced ham and tomato chutney .
+PREDID: 0
+PRED: serve
+  PARG: sliced ham, tomato chutney
+    PREP: with
+

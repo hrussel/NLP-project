@@ -1,0 +1,120 @@
+T1	predicate 0 5	Place
+T2	predicate 73 81	Sprinkle
+T3	predicate 118 125	arrange
+T4	predicate 162 167	close
+T5	predicate 205 208	Use
+T6	predicate 269 273	Pour
+T7	predicate 372 377	Cover
+T8	predicate 382 386	cook
+T9	predicate 421 427	Remove
+T10	predicate 465 470	place
+T11	predicate 534 539	Shred
+T12	predicate 586 590	Stir
+T13	predicate 658 663	Bring
+T14	predicate 695 701	reduce
+T15	predicate 719 724	Cover
+T16	predicate 729 735	simmer
+T17	arg_object 6 20	the pork roast
+T18	ingredient 6 20	the pork roast
+R1	object Arg1:T1 Arg2:T17	
+T19	arg_location 21 71	into an oven roasting bag set inside a slow cooker
+R2	location Arg1:T1 Arg2:T19	
+T20	arg_object 82 98	the chili powder
+T21	ingredient 82 98	the chili powder
+R3	object Arg1:T2 Arg2:T20	
+T22	arg_co-object 99 113	over the roast
+T23	Evolution 104 113	the roast
+E1	Evolution:T23 Cause:T1
+R4	co-object Arg1:T2 Arg2:T22	
+T24	arg_object 126 132	onions
+T25	arg_co-object 133 152	on top of the roast
+R5	object Arg1:T3 Arg2:T24	
+R6	co-object Arg1:T3 Arg2:T25	
+T26	Evolution 143 152	the roast
+E2	Evolution:T26 Cause:T2
+T27	arg_other 154 161	Loosely
+T29	arg_other 187 203	with a nylon tie
+R7	other Arg1:T4 Arg2:T27	
+R8	other Arg1:T4 Arg2:T29	
+T31	arg_object 209 217	scissors
+T32	arg_other 218 245	to cut 3 vents, 1-inch long
+R10	object Arg1:T5 Arg2:T31	
+R11	other Arg1:T5 Arg2:T32	
+T33	arg_co-object 246 267	in the top of the bag
+T28	arg_object 168 186	the top of the bag
+T30	Evolution 168 186	the top of the bag
+E3	Evolution:T30 Cause:T3
+R9	object Arg1:T4 Arg2:T28	
+R12	co-object Arg1:T5 Arg2:T33	
+T34	Evolution 249 267	the top of the bag
+E4	Evolution:T34 Cause:T4
+T35	arg_object 274 283	the water
+R13	object Arg1:T6 Arg2:T35	
+T36	arg_location 284 370	into the bottom of the slow cooker, around the bag, so that it is at least 1 inch deep
+R14	same-location Arg1:T36 Arg2:T19	
+R15	location Arg1:T6 Arg2:T36	
+R16	object Arg1:T7 Arg2:T6	
+T37	arg_object 387 395	the pork
+T38	Evolution 387 395	the pork
+E5	Evolution:T38 Cause:T7
+R17	object Arg1:T8 Arg2:T37	
+T39	arg_other 396 402	on Low
+R18	other Arg1:T8 Arg2:T39	
+T40	arg_duration 403 419	for 6 to 8 hours
+R19	duration Arg1:T8 Arg2:T40	
+T41	arg_object 428 447	the pork and onions
+T42	arg_location 448 460	from the bag
+R20	object Arg1:T9 Arg2:T41	
+R21	location Arg1:T9 Arg2:T42	
+T43	Evolution 428 447	the pork and onions
+E6	Evolution:T43 Cause:T8
+R22	same-location Arg1:T42 Arg2:T36	
+R23	object Arg1:T10 Arg2:T9	
+T44	arg_location 471 492	in a large Dutch oven
+R24	location Arg1:T10 Arg2:T44	
+T45	predicate 494 501	reserve
+T46	arg_object 502 519	3/4 cup of liquid
+T47	Evolution 502 519	3/4 cup of liquid
+E7	Evolution:T47 Cause:T9
+R25	object Arg1:T45 Arg2:T46	
+T48	arg_location 520 532	from the bag
+R26	same-location Arg1:T48 Arg2:T42	
+R27	location Arg1:T45 Arg2:T48	
+T49	arg_object 540 548	the pork
+T50	Evolution 540 548	the pork
+E8	Evolution:T50 Cause:T10
+R28	object Arg1:T11 Arg2:T49	
+T51	arg_other 549 584	by pulling it apart using two forks
+R29	other Arg1:T11 Arg2:T51	
+T52	arg_co-object 631 656	in with the shredded pork
+T53	Evolution 639 656	the shredded pork
+E9	Evolution:T53 Cause:T11
+T54	arg_object 591 600	the salsa
+T55	ingredient 126 132	onions
+T56	ingredient 274 283	the water
+T57	ingredient 591 600	the salsa
+T58	ingredient 602 610	tomatoes
+T59	arg_object 602 610	tomatoes
+T60	arg_object 616 630	cooking liquid
+R30	object Arg1:T12 Arg2:T54	
+R31	object Arg1:T12 Arg2:T59	
+R32	object Arg1:T12 Arg2:T60	
+T61	Evolution 616 630	cooking liquid
+E10	Evolution:T61 Cause:T45
+R33	co-object Arg1:T12 Arg2:T52	
+R34	object Arg1:T13 Arg2:T12	
+T62	arg_other 664 673	to a boil
+T63	arg_other 674 688	over high heat
+R35	other Arg1:T13 Arg2:T62	
+R36	other Arg1:T13 Arg2:T63	
+R37	co-object Arg1:T14 Arg2:T13	
+T64	arg_object 702 710	the heat
+R38	object Arg1:T14 Arg2:T64	
+T65	arg_other 711 717	to low
+R39	other Arg1:T14 Arg2:T65	
+R40	object Arg1:T15 Arg2:T14	
+R41	object Arg1:T16 Arg2:T15	
+T66	arg_duration 736 746	for 1 hour
+T67	arg_other 748 769	stirring occasionally
+R42	duration Arg1:T16 Arg2:T66	
+R43	other Arg1:T16 Arg2:T67	

@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Cook noodles in a large pot of boiling water until done .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: done
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Brown meat in a large skillet .
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Add onions , pepper , mushrooms , and celery ;
+PREDID: 0
+PRED: add
+  DOBJ: onions , pepper , mushrooms , celery
+
+
+SENTID: 4
+SENT: cook until soft .
+PREDID: 0
+PRED: cook
+  PARG: soft
+    PREP: until
+
+
+SENTID: 5
+SENT: Combine hamburger mixture with tomatoes , beans , and cooked noodles in a 3 - 4 quart baking dish .
+PREDID: 0
+PRED: combine
+  DOBJ: hamburger mixture
+  PARG: tomatoes , beans , cooked noodles
+    PREP: with
+  PARG: a 3 - 4 quart baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Top with cheddar cheese , and bake 30 minutes longer .
+PREDID: 0
+PRED: top
+  PARG: cheddar cheese
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  OARG: 30 minutes
+  OARG: longer
+

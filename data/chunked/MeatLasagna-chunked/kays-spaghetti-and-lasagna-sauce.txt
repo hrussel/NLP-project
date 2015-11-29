@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: Blend the stewed tomatoes and crushed tomatoes in a blender .
+PREDID: 0
+PRED: blend
+  DOBJ: the stewed tomatoes, crushed tomatoes
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 1
+SENT: In a stock pot or large kettle , brown the ground beef with the onions , peppers , garlic .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a stock pot or large kettle
+    PREP: in
+  PARG: the onions , peppers , garlic
+    PREP: with
+
+
+SENTID: 2
+SENT: Pour in tomatoes , and reduce heat .
+PREDID: 0
+PRED: pour
+  PARG: tomatoes , reduce heat
+    PREP: in
+
+
+SENTID: 3
+SENT: Add sugar , basil and oregano , and simmer about 40 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: sugar , basil, oregano
+
+PREDID: 1
+PRED: simmer
+  PARG: 40 minutes
+    PREP: about
+
+
+SENTID: 4
+SENT: Season with salt and pepper before serving .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: serving
+    PREP: before
+

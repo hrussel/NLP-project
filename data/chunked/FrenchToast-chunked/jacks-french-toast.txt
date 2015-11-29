@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: In a medium bowl , mix together egg , milk and vanilla .
+PREDID: 0
+PRED: mix
+  DOBJ: egg , milk, vanilla
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: In a large skillet , heat oil over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Dip bread into egg mixture and slide into hot oil .
+PREDID: 0
+PRED: dip
+  DOBJ: bread
+  PARG: egg mixture
+    PREP: into
+
+PREDID: 1
+PRED: slide
+  PARG: hot oil
+    PREP: into
+
+
+SENTID: 3
+SENT: Cook until golden brown , drain and serve .
+PREDID: 0
+PRED: cook
+  PARG: golden brown
+    PREP: until
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: serve
+

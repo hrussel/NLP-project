@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups , or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk the flour , baking soda , and salt together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the flour , baking soda , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Beat the bananas , butter , and sugar with an electric mixer in a large bowl until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: the bananas , butter , sugar
+  PARG: an electric mixer
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Beat in the egg , vanilla extract , and whiskey .
+PREDID: 0
+PRED: beat
+  PARG: the egg , vanilla extract , whiskey
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix in the flour mixture until just incorporated .
+PREDID: 0
+PRED: mix
+  PARG: the flour mixture
+    PREP: in
+  PARG: just incorporated
+    PREP: until
+
+
+SENTID: 7
+SENT: Fold in the coconut and chocolate chips , mixing just enough to evenly combine .
+PREDID: 0
+PRED: fold
+  PARG: the coconut, chocolate chips , mixing
+    PREP: in
+  OARG: just
+  OARG: enough
+  OARG: to evenly combine
+
+
+SENTID: 8
+SENT: Pour into muffin pan .
+PREDID: 0
+PRED: pour
+  PARG: muffin pan
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until a toothpick inserted into the center comes out clean , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , about 25 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pans
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

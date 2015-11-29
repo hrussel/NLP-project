@@ -1,0 +1,88 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 53	Grease
+T3	predicate 79 83	Fill
+T4	predicate 123 128	bring
+T5	predicate 163 170	Stir in
+T6	predicate 192 198	return
+T7	predicate 210 214	Cook
+T8	predicate 295 300	Drain
+T9	predicate 337 344	Combine
+T10	predicate 420 427	Stir in
+T11	predicate 469 474	Spoon
+T12	predicate 502 506	Bake
+T13	predicate 571 576	Cover
+T14	arg_object 8 12	oven
+T15	arg_location 507 524	in preheated oven
+R1	location Arg1:T12 Arg2:T15	
+T16	Evolution 510 524	preheated oven
+E1	Evolution:T16 Cause:T1
+R2	object Arg1:T1 Arg2:T14	
+T17	arg_other 13 45	to 350 degrees F (175 degrees C)
+R3	other Arg1:T1 Arg2:T17	
+T18	arg_object 54 77	a 9x13 inch baking dish
+R4	object Arg1:T2 Arg2:T18	
+T19	arg_duration 525 569	until hot and golden brown, about 60 minutes
+R5	duration Arg1:T12 Arg2:T19	
+T20	arg_object 84 121	a large pot with lightly salted water
+R6	object Arg1:T3 Arg2:T20	
+R7	object Arg1:T4 Arg2:T3	
+T21	arg_other 129 146	to a rolling boil
+T22	arg_other 147 161	over high heat
+R8	other Arg1:T4 Arg2:T21	
+R9	other Arg1:T4 Arg2:T22	
+T23	arg_object 171 186	the egg noodles
+R10	object Arg1:T5 Arg2:T23	
+T24	ingredient 171 186	the egg noodles
+R11	co-object Arg1:T5 Arg2:T4	
+R12	object Arg1:T6 Arg2:T5	
+T25	arg_other 199 208	to a boil
+R13	other Arg1:T6 Arg2:T25	
+T26	arg_object 215 224	the pasta
+T27	Evolution 215 224	the pasta
+E2	Evolution:T27 Cause:T6
+R14	object Arg1:T7 Arg2:T26	
+T28	arg_duration 225 293	until cooked through, but is still firm to the bite, about 5 minutes
+R15	duration Arg1:T7 Arg2:T28	
+R16	object Arg1:T8 Arg2:T7	
+R17	co-object Arg1:T8 Arg2:T7	
+T29	arg_other 301 305	well
+T30	arg_location 306 335	in a colander set in the sink
+R18	other Arg1:T8 Arg2:T29	
+R19	location Arg1:T8 Arg2:T30	
+T31	arg_object 345 353	the eggs
+T32	ingredient 345 353	the eggs
+T33	arg_object 355 368	melted butter
+T34	ingredient 355 368	melted butter
+T35	arg_object 370 380	sour cream
+T36	ingredient 370 380	sour cream
+T37	arg_object 382 390	soup mix
+T38	ingredient 382 390	soup mix
+R20	object Arg1:T9 Arg2:T31	
+R21	object Arg1:T9 Arg2:T33	
+R22	object Arg1:T9 Arg2:T35	
+R23	object Arg1:T9 Arg2:T37	
+T39	arg_object 396 402	pepper
+T40	ingredient 396 402	pepper
+R24	object Arg1:T9 Arg2:T39	
+T41	arg_location 403 418	in a large bowl
+R25	location Arg1:T9 Arg2:T41	
+T42	arg_object 428 446	the cooked noodles
+T43	arg_object 452 467	drained spinach
+T44	Evolution 428 446	the cooked noodles
+E3	Evolution:T44 Cause:T8
+R26	object Arg1:T10 Arg2:T42	
+R27	object Arg1:T10 Arg2:T43	
+T45	ingredient 452 467	drained spinach
+R28	object Arg1:T11 Arg2:T10	
+T46	arg_location 475 500	into prepared baking dish
+T47	Evolution 480 500	prepared baking dish
+E4	Evolution:T47 Cause:T2
+T48	arg_object 577 581	dish
+R29	object Arg1:T13 Arg2:T48	
+T49	Evolution 577 581	dish
+E5	Evolution:T49 Cause:T12
+T50	arg_co-object 582 600	with aluminum foil
+T51	arg_other 601 637	if kugel begins to brown too quickly
+R30	co-object Arg1:T13 Arg2:T50	
+R31	other Arg1:T13 Arg2:T51	
+R32	location Arg1:T11 Arg2:T46	

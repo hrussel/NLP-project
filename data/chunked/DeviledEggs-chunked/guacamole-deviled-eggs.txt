@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool , and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs in half , and remove yolks to a mixing bowl .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: yolks
+  PARG: a mixing bowl
+    PREP: to
+
+
+SENTID: 5
+SENT: In the bowl with the yolks , combine the avocado , cilantro , green onion , and jalapeno .
+PREDID: 0
+PRED: combine
+  DOBJ: the avocado , cilantro , green onion , jalapeno
+  PARG: the bowl
+    PREP: in
+  PARG: the yolks
+    PREP: with
+
+
+SENTID: 6
+SENT: Stir in the lime juice , and season with salt , hot sauce , Worcestershire sauce , and mustard .
+PREDID: 0
+PRED: stir
+  PARG: the lime juice
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: salt , hot sauce , worcestershire sauce , mustard
+    PREP: with
+
+
+SENTID: 7
+SENT: Mix well , and fill empty egg white halves .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: fill
+  DOBJ: empty egg white halves
+
+
+SENTID: 8
+SENT: Chill until serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: until
+
+
+SENTID: 9
+SENT: Sprinkle with paprika just before serving .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+  PARG: serving
+    PREP: before
+  OARG: just
+

@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: Prepare both boxes of macaroni and cheese according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: both boxes of macaroni, cheese according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Meanwhile , in a large bowl mix together the chopped bell green pepper , onion , tomato , and crumbled bacon .
+PREDID: 0
+PRED: mix
+  DOBJ: the chopped bell green pepper , onion , tomato , crumbled bacon
+  PARG: a large bowl
+    PREP: in
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 2
+SENT: Mix in prepared macaroni and cheese to large bowl with vegetables and bacon .
+PREDID: 0
+PRED: mix
+  PARG: prepared macaroni
+    PREP: in
+
+PREDID: 1
+PRED: cheese
+  PARG: large bowl
+    PREP: to
+  PARG: vegetables, bacon
+    PREP: with
+
+
+SENTID: 3
+SENT: Stir to incorporate ingredients evenly .
+PREDID: 0
+PRED: stir
+  OARG: to incorporate ingredients
+  OARG: evenly
+
+
+SENTID: 4
+SENT: Pour into a 9x13 inch baking dish .
+PREDID: 0
+PRED: pour
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in a preheated 350 degree F -LRB- 175 degree C -RRB- oven for 45 to 60 minutes , or until crispy on top .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degree f -lrb- 175 degree c -rrb- oven
+    PREP: in
+  PARG: 45 to 60 minutes
+    PREP: for
+  PARG: crispy on top
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large mixing bowl , stir together white sugar , brown sugar , salt , and cinnamon .
+PREDID: 0
+PRED: stir
+  DOBJ: white sugar , brown sugar , salt , cinnamon
+  PARG: a large mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: When these ingredients are well mixed , stir in the eggs followed by the pumpkin and milk .
+PREDID: 0
+PRED: stir
+  DOBJ: mixed
+  PARG: the eggs followed
+    PREP: in
+  PARG: the pumpkin, milk
+    PREP: by
+  OARG: when these ingredients are
+  OARG: well
+
+
+SENTID: 3
+SENT: Transfer mixture to the pie crust .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: the pie crust
+    PREP: to
+
+
+SENTID: 4
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1Ê1/2 hours , or until a toothpick inserted into the pie comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 1Ê1/2 hours
+    PREP: for
+  PARG: a toothpick inserted into the pie comes out clean
+    PREP: until
+
+
+SENTID: 5
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+

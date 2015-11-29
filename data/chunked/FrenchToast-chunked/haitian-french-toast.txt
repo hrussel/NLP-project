@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Cut loaf ends off and reserve for another use .
+PREDID: 0
+PRED: cut
+  DOBJ: loaf ends
+  PARG: and reserve
+    PREP: off
+  PARG: another use
+    PREP: for
+
+
+SENTID: 1
+SENT: Cut remaining loaf into 1Ê1/2 inch slices ;
+PREDID: 0
+PRED: cut
+  DOBJ: remaining loaf
+  PARG: 1Ê1/2 inch slices
+    PREP: into
+
+
+SENTID: 2
+SENT: let stand 4 hours or overnight .
+PREDID: 0
+PRED: let
+  OARG: stand 4 hours
+  OARG: overnight
+
+
+SENTID: 3
+SENT: In a 9x13 inch baking pan , combine orange juice , cream , eggs ground cinnamon and white sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: orange juice , cream , eggs ground cinnamon, white sugar
+  PARG: a 9x13 inch baking pan
+    PREP: in
+
+
+SENTID: 4
+SENT: Place bread slices in pan and turn until liquid is absorbed , about 5 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bread slices
+  PARG: pan
+    PREP: in
+
+PREDID: 1
+PRED: turn
+  PARG: liquid is absorbed , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: In a large skillet , melt butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Add bread slices and cook until browned on both sides , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: bread slices
+
+PREDID: 1
+PRED: cook
+  PARG: browned on both sides , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Dust generously with confectioners ' sugar and serve warm .
+PREDID: 0
+PRED: dust
+  PARG: confectioners ' sugar
+    PREP: with
+  OARG: generously
+
+PREDID: 1
+PRED: serve
+  DOBJ: warm
+

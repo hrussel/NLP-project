@@ -1,0 +1,81 @@
+T1	arg_location 0 35	In a deep skillet or large saucepan
+T2	predicate 37 41	cook
+T3	arg_object 42 46	beef
+R1	object Arg1:T2 Arg2:T3	
+R4	location Arg1:T2 Arg2:T1	
+T6	arg_duration 82 93	until brown
+R5	duration Arg1:T2 Arg2:T6	
+T7	arg_location 65 81	over medium heat
+R6	location Arg1:T2 Arg2:T7	
+T8	predicate 106 111	puree
+T9	arg_object 112 129	French onion soup
+R7	object Arg1:T8 Arg2:T9	
+T10	arg_location 130 142	in a blender
+R8	location Arg1:T8 Arg2:T10	
+T11	arg_duration 143 155	until smooth
+R9	duration Arg1:T8 Arg2:T11	
+T12	predicate 157 162	Drain
+T13	arg_object 163 167	meat
+R10	object Arg1:T12 Arg2:T13	
+T14	Evolution 163 167	meat
+E1	Evolution:T14 Cause:T2
+T15	predicate 169 173	Stir
+T16	arg_object 174 185	pureed soup
+R11	object Arg1:T15 Arg2:T16	
+T18	arg_location 186 195	into meat
+R12	location Arg1:T15 Arg2:T18	
+T20	predicate 197 203	reduce
+T21	arg_object 204 208	heat
+R13	object Arg1:T20 Arg2:T21	
+T23	predicate 213 219	simmer
+T24	arg_duration 220 229	5 minutes
+R14	duration Arg1:T23 Arg2:T24	
+T25	predicate 231 238	Stir in
+T26	arg_object 239 251	chili powder
+T27	arg_object 253 258	cumin
+T28	arg_object 260 266	pepper
+T29	arg_object 268 280	tomato paste
+T30	arg_object 282 294	tomato sauce
+T31	arg_object 300 305	beans
+T32	arg_duration 306 325	until well combined
+R16	object Arg1:T25 Arg2:T26	
+R17	object Arg1:T25 Arg2:T27	
+R18	object Arg1:T25 Arg2:T28	
+R19	object Arg1:T25 Arg2:T29	
+R20	object Arg1:T25 Arg2:T30	
+R21	object Arg1:T25 Arg2:T31	
+R22	duration Arg1:T25 Arg2:T32	
+R23	co-object Arg1:T25 Arg2:T23	
+T33	predicate 327 334	Stir in
+R24	co-object Arg1:T33 Arg2:T25	
+T34	arg_object 335 340	cocoa
+T35	arg_object 345 349	cola
+R25	object Arg1:T33 Arg2:T34	
+R26	object Arg1:T33 Arg2:T35	
+T36	predicate 351 355	Heat
+T37	arg_duration 356 363	through
+R27	duration Arg1:T36 Arg2:T37	
+T38	predicate 368 373	serve
+R28	object Arg1:T38 Arg2:T36	
+R29	object Arg1:T36 Arg2:T33	
+T4	arg_co-object 47 64	with oil and salt
+R2	co-object Arg1:T2 Arg2:T4	
+T5	Evolution 174 185	pureed soup
+E2	Evolution:T5 Cause:T8
+T17	Evolution 191 195	meat
+E3	Evolution:T17 Cause:T12
+R3	co-object Arg1:T20 Arg2:T15	
+R15	object Arg1:T23 Arg2:T20	
+T19	ingredient 42 46	beef
+T22	ingredient 52 55	oil
+T39	ingredient 60 64	salt
+T40	ingredient 112 129	French onion soup
+T41	ingredient 239 251	chili powder
+T42	ingredient 253 258	cumin
+T43	ingredient 260 266	pepper
+T44	ingredient 268 280	tomato paste
+T45	ingredient 282 294	tomato sauce
+T46	ingredient 300 305	beans
+T47	ingredient 335 340	cocoa
+T48	ingredient 345 349	cola
+R30	co-object Arg1:T12 Arg2:T2	

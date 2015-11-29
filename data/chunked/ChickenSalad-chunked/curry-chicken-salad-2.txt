@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Place eggs in a saucepan and cover completely with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+  OARG: completely
+
+
+SENTID: 1
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool , peel and chop .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chop
+
+
+SENTID: 4
+SENT: In a large bowl , combine the chicken , celery , eggs , green onions , dill relish , curry and mayonnaise .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , celery , eggs , green onions , dill relish , curry, mayonnaise
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir together until mixed well .
+PREDID: 0
+PRED: stir
+  PARG: mixed well
+    PREP: until
+  OARG: together
+
+
+SENTID: 6
+SENT: Refrigerate until chilled .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+

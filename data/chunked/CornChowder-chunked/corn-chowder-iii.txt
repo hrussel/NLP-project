@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook bacon until crisp .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crisp
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain , reserving 1 tablespoon of bacon grease .
+PREDID: 0
+PRED: drain
+  DOBJ: reserving 1 tablespoon of bacon
+
+PREDID: 1
+PRED: grease
+
+
+SENTID: 2
+SENT: Place bacon grease in a large stock pot over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: bacon grease
+  PARG: a large stock pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook bell pepper , onion and celery leaves in grease until just tender .
+PREDID: 0
+PRED: cook
+  DOBJ: bell pepper , onion, celery leaves
+  PARG: grease
+    PREP: in
+  PARG: just tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in bacon , corn and water and bring slowly to a boil , stirring frequently .
+PREDID: 0
+PRED: stir
+  PARG: bacon , corn, water
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil , stirring
+    PREP: to
+  OARG: slowly
+  OARG: frequently
+
+
+SENTID: 5
+SENT: Stir in milk and heat gently , without boiling .
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  PARG: boiling
+    PREP: without
+  OARG: gently
+
+
+SENTID: 6
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lay a 24-inch long sheet of parchment paper down on a work surface .
+PREDID: 0
+PRED: lay
+  DOBJ: sheet of parchment paper
+  PARG: a work surface
+    PREP: on
+  OARG: long
+  OARG: a 24-inch
+  OARG: down
+
+
+SENTID: 2
+SENT: Mix together the ground beef , bread crumbs , onion soup mix , barbecue sauce , garlic , egg , flour , and black pepper in a bowl until well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , bread crumbs , onion soup mix , barbecue sauce , garlic , egg , flour , black pepper
+  PARG: a bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Place the meat mixture down on the piece of parchment paper , and pat it into a rectangle shape about 10x16 inches .
+PREDID: 0
+PRED: place
+  DOBJ: the meat mixture
+  PARG: the piece of parchment paper
+    PREP: on
+  OARG: down
+
+PREDID: 1
+PRED: pat
+  DOBJ: it
+  PARG: a rectangle
+    PREP: into
+
+PREDID: 2
+PRED: shape
+  PARG: 10x16 inches
+    PREP: about
+
+
+SENTID: 4
+SENT: Lay deli ham slices down on the meat , keeping a 1-inch margin around all sides of the rectangle .
+PREDID: 0
+PRED: lay
+  DOBJ: keeping a 1-inch margin
+  PARG: the meat
+    PREP: on
+  PARG: all sides of the rectangle
+    PREP: around
+  OARG: down
+  OARG: deli ham slices
+
+
+SENTID: 5
+SENT: Sprinkle Swiss cheese over the ham .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: swiss cheese
+  PARG: the ham
+    PREP: over
+
+
+SENTID: 6
+SENT: Carefully lift up the short edge of the meat square with the parchment paper , and gently nudge and roll up the meat .
+PREDID: 0
+PRED: lift
+  DOBJ: the short edge of the meat square
+  PARG: the parchment paper
+    PREP: with
+  OARG: carefully
+  OARG: up
+  OARG: gently
+
+PREDID: 1
+PRED: roll
+  DOBJ: the meat
+  OARG: up
+
+
+SENTID: 7
+SENT: Seal the edges and ends well .
+PREDID: 0
+PRED: seal
+  DOBJ: the edges, ends
+  OARG: well
+
+
+SENTID: 8
+SENT: Place the meat roll into a 9x13-inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: the meat roll
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in the preheated oven for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: While the roll is cooking , mix together ketchup , mustard , brown sugar , and soy sauce , stirring until sugar has dissolved .
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup , mustard , brown sugar , soy sauce , stirring
+  PARG: the roll is cooking
+    PREP: while
+  PARG: sugar has dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 11
+SENT: Remove the roll from the oven , and spread the ketchup mixture over the roll .
+PREDID: 0
+PRED: remove
+  DOBJ: the roll
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: spread
+  DOBJ: the ketchup mixture
+  PARG: the roll
+    PREP: over
+
+
+SENTID: 12
+SENT: Return to the oven for 15 more minutes .
+PREDID: 0
+PRED: return
+  PARG: the oven
+    PREP: to
+  PARG: 15 more minutes
+    PREP: for
+

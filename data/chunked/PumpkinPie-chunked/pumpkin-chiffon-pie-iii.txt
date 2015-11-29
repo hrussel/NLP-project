@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- In a large bowl , combine oats , 1/3 cup brown sugar , 3/4 teaspoon cinnamon and butter .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: oats , 1/3 cup brown sugar , 3/4 teaspoon cinnamon, butter
+
+
+SENTID: 1
+SENT: Press into 9 inch pie plate .
+PREDID: 0
+PRED: press
+  PARG: 9 inch pie plate
+    PREP: into
+
+
+SENTID: 2
+SENT: Place 8 inch pie plate on top and bake 8 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: 8 inch pie plate
+  PARG: top
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  OARG: 8 minutes
+
+
+SENTID: 3
+SENT: Remove top plate and set aside to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: top plate
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 4
+SENT: In a saucepan , combine gelatin , 2/3 cup brown sugar , salt , 1/2 teaspoon cinnamon , ginger and mace .
+PREDID: 0
+PRED: combine
+  DOBJ: gelatin , 2/3 cup brown sugar , salt , 1/2 teaspoon cinnamon , ginger, mace
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in egg yolks and milk .
+PREDID: 0
+PRED: stir
+  PARG: egg yolks, milk
+    PREP: in
+
+
+SENTID: 6
+SENT: Bring to a boil and cook , stirring constantly , for 1 minute .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: 1 minute
+    PREP: for
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Remove from heat and stir in pumpkin puree .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: pumpkin puree
+    PREP: in
+
+
+SENTID: 8
+SENT: Chill until firm .
+PREDID: 0
+PRED: chill
+  PARG: firm
+    PREP: until
+
+
+SENTID: 9
+SENT: In a large glass or metal mixing bowl , beat egg whites until foamy .
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: a large glass or metal mixing bowl
+    PREP: in
+  PARG: foamy
+    PREP: until
+
+
+SENTID: 10
+SENT: Gradually add cream of tartar and 1/3 cup white sugar , continuing to beat until stiff peaks form .
+PREDID: 0
+PRED: add
+  DOBJ: cream of tartar, 1/3 cup white sugar , continuing
+  PARG: beat
+    PREP: to
+  PARG: stiff peaks form
+    PREP: until
+  OARG: gradually
+
+
+SENTID: 11
+SENT: Fold into pumpkin mixture .
+PREDID: 0
+PRED: fold
+  PARG: pumpkin mixture
+    PREP: into
+
+
+SENTID: 12
+SENT: Pour filling into pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 13
+SENT: Chill in refrigerator until ready to serve .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator
+    PREP: in
+  PARG: ready to serve
+    PREP: until
+

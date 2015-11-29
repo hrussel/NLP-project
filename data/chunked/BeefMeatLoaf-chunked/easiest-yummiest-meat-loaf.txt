@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease an 8-inch square baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8-inch square baking dish
+
+
+SENTID: 2
+SENT: Combine ground beef , rolled oats , French onion soup , and eggs in a bowl until thoroughly combined ;
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , rolled oats , french onion soup , eggs
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 3
+SENT: transfer to prepared baking dish .
+PREDID: 0
+PRED: transfer
+  PARG: prepared baking dish
+    PREP: to
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until the meat loaf is no longer pink in the middle and an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , 60 to 75 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the meat loaf is no longer pink in the middle, an instant-read meat thermometer inserted into the center of the loaf reads at least 160 degrees f -lrb- 70 degrees c -rrb- , 60 to 75 minutes
+    PREP: until
+

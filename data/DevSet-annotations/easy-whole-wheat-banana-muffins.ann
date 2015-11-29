@@ -1,0 +1,52 @@
+T1	predicate 0 7	Preheat
+T2	arg_object 8 12	oven
+R1	object Arg1:T1 Arg2:T2	
+T3	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R2	duration Arg1:T1 Arg2:T3	
+T4	predicate 47 50	Mix
+T5	arg_object 51 58	bananas
+T6	arg_object 60 74	salad dressing
+T7	arg_object 80 85	sugar
+R3	object Arg1:T4 Arg2:T5	
+R4	object Arg1:T4 Arg2:T6	
+R5	object Arg1:T4 Arg2:T7	
+T8	arg_location 86 101	in a large bowl
+T9	arg_duration 102 114	until smooth
+R6	location Arg1:T4 Arg2:T8	
+R7	duration Arg1:T4 Arg2:T9	
+T10	predicate 116 120	Stir
+T11	arg_object 121 126	flour
+T12	arg_object 128 139	baking soda
+T13	arg_object 145 149	salt
+T14	arg_co-object 150 169	into banana mixture
+T15	arg_duration 170 200	until batter is just moistened
+R8	object Arg1:T10 Arg2:T11	
+R9	object Arg1:T10 Arg2:T12	
+R10	object Arg1:T10 Arg2:T13	
+R11	co-object Arg1:T10 Arg2:T14	
+R12	duration Arg1:T10 Arg2:T15	
+T16	Evolution 155 169	banana mixture
+E1	Evolution:T16 Cause:T4
+T17	predicate 202 208	Divide
+T18	arg_object 209 215	batter
+T19	Evolution 209 215	batter
+E2	Evolution:T19 Cause:T10
+T20	arg_location 223 242	into 24 muffin cups
+R13	object Arg1:T17 Arg2:T18	
+R14	location Arg1:T17 Arg2:T20	
+T21	predicate 244 248	Bake
+T22	arg_location 249 270	in the preheated oven
+T23	Evolution 252 270	the preheated oven
+E3	Evolution:T23 Cause:T1
+T24	arg_duration 271 329	until a toothpick inserted into the center comes out clean
+T25	arg_duration 331 347	about 17 minutes
+R15	location Arg1:T21 Arg2:T22	
+R16	duration Arg1:T21 Arg2:T24	
+R17	duration Arg1:T21 Arg2:T25	
+R18	object Arg1:T21 Arg2:T17	
+T26	ingredient 51 58	bananas
+T27	ingredient 60 74	salad dressing
+T28	ingredient 80 85	sugar
+T29	ingredient 121 126	flour
+T30	ingredient 128 139	baking soda
+T31	ingredient 145 149	salt

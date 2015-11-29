@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large skillet over medium high heat , saute the beef and onion for 5 to 10 minutes , or until meat is browned and onion is tender ;
+PREDID: 0
+PRED: saute
+  DOBJ: the beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: meat is browned, onion is tender
+    PREP: until
+
+
+SENTID: 2
+SENT: drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 3
+SENT: Add the celery , chili , tomatoes , taco sauce and corn .
+PREDID: 0
+PRED: add
+  DOBJ: the celery , chili , tomatoes , taco sauce, corn
+
+
+SENTID: 4
+SENT: Heat thoroughly , reduce heat to low and allow to simmer .
+PREDID: 0
+PRED: heat
+  DOBJ: reduce heat
+  PARG: low
+    PREP: to
+  OARG: thoroughly
+
+PREDID: 1
+PRED: allow
+  PARG: simmer
+    PREP: to
+
+
+SENTID: 5
+SENT: Meanwhile , prepare the noodles according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: the noodles according
+  PARG: package directions
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: When cooked , place them in a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: them
+  PARG: a 9x13 inch baking dish
+    PREP: in
+  OARG: when cooked
+
+
+SENTID: 7
+SENT: Pour the meat mixture over the noodles , stirring well .
+PREDID: 0
+PRED: pour
+  DOBJ: the meat mixture
+  PARG: the noodles , stirring
+    PREP: over
+  OARG: well
+
+
+SENTID: 8
+SENT: Top with the cheese .
+PREDID: 0
+PRED: top
+  PARG: the cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 20 minutes , or until cheese is completely melted and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 20 minutes
+    PREP: for
+  PARG: cheese is completely melted, bubbly
+    PREP: until
+

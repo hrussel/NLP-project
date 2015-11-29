@@ -1,0 +1,211 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Wrap the garlic head in foil , and bake 30 minutes , until cloves are soft .
+PREDID: 0
+PRED: wrap
+  DOBJ: the garlic head
+  PARG: foil
+    PREP: in
+
+PREDID: 1
+PRED: bake
+  PARG: cloves are soft
+    PREP: until
+  OARG: 30 minutes
+
+
+SENTID: 2
+SENT: Remove from heat , and cool enough to handle .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: handle
+    PREP: to
+  OARG: enough
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Add egg noodles and cook for 6 to 8 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Slice off the top of the garlic head , and squeeze the softened cloves into a medium bowl .
+PREDID: 0
+PRED: slice
+  PARG: the top of the garlic head
+    PREP: off
+
+PREDID: 1
+PRED: squeeze
+  DOBJ: the softened cloves
+  PARG: a medium bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Mix in the chicken broth , lemon zest , lemon juice , salt , and pepper .
+PREDID: 0
+PRED: mix
+  PARG: the chicken broth , lemon zest , lemon juice , salt , pepper
+    PREP: in
+
+
+SENTID: 8
+SENT: Heat the olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Lightly coat the chicken breast halves with flour , and cook in the skillet about 10 minutes on each side , until lightly browned .
+PREDID: 0
+PRED: coat
+  DOBJ: the chicken breast halves
+  PARG: flour
+    PREP: with
+  OARG: lightly
+
+PREDID: 1
+PRED: cook
+  PARG: the skillet
+    PREP: in
+  PARG: 10 minutes
+    PREP: about
+  PARG: each side
+    PREP: on
+  PARG: lightly browned
+    PREP: until
+
+
+SENTID: 10
+SENT: Set chicken aside , retaining skillet juices .
+PREDID: 0
+PRED: set
+  DOBJ: retaining skillet juices
+  OARG: aside
+  OARG: chicken
+
+
+SENTID: 11
+SENT: Stir in the garlic mixture , and bring to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the garlic mixture
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 12
+SENT: Reduce heat , and return chicken to the skillet .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: return
+  DOBJ: chicken
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 13
+SENT: Continue cooking the chicken about 5 minutes on each side , until no longer pink and juices run clear .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking the chicken
+  PARG: 5 minutes
+    PREP: about
+  PARG: each side
+    PREP: on
+  PARG: no longer pink, juices run clear
+    PREP: until
+
+
+SENTID: 14
+SENT: Remove chicken , and arrange on plates over the egg noodles .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+
+PREDID: 1
+PRED: arrange
+  PARG: plates
+    PREP: on
+  PARG: the egg noodles
+    PREP: over
+
+
+SENTID: 15
+SENT: Mix the butter into the garlic sauce mixture in the skillet until melted , and stir in the chives .
+PREDID: 0
+PRED: mix
+  DOBJ: the butter
+  PARG: the garlic sauce mixture
+    PREP: into
+  PARG: the skillet
+    PREP: in
+  PARG: melted
+    PREP: until
+
+PREDID: 1
+PRED: stir
+  PARG: the chives
+    PREP: in
+
+
+SENTID: 16
+SENT: Spoon the sauce over the chicken and egg noodles to serve .
+PREDID: 0
+PRED: spoon
+  DOBJ: the sauce
+  PARG: the chicken, egg noodles
+    PREP: over
+  PARG: serve
+    PREP: to
+

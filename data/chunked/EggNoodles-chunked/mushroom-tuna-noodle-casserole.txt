@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a mixing bowl combine soup , milk , and water .
+PREDID: 0
+PRED: combine
+  DOBJ: soup , milk , water
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour a small amount of the mixture into a 9x13 inch baking dish ;
+PREDID: 0
+PRED: pour
+  DOBJ: a small amount of the mixture
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 6
+SENT: enough to just cover the bottom .
+PREDID: 0
+PRED: cover
+  DOBJ: the bottom
+  OARG: enough
+  OARG: to just
+
+
+SENTID: 7
+SENT: Layer the cooked noodles , flaked tuna , peas , carrots , and potatoes until all used up .
+PREDID: 0
+PRED: layer
+  DOBJ: the cooked noodles , flaked tuna , peas , carrots , potatoes
+  PARG: all used up
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour the remaining soup mixture over the layers .
+PREDID: 0
+PRED: pour
+  DOBJ: the remaining soup mixture
+  PARG: the layers
+    PREP: over
+
+
+SENTID: 9
+SENT: Sprinkle with salt , pepper , and paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: salt , pepper , paprika
+    PREP: with
+
+
+SENTID: 10
+SENT: Lightly coat the entire casserole with bread crumbs .
+PREDID: 0
+PRED: coat
+  DOBJ: the entire casserole
+  PARG: bread crumbs
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 11
+SENT: Cover and bake in preheated oven for 45 minutes .
+PREDID: 0
+PRED: cover
+  PARG: preheated oven
+    PREP: in
+
+PREDID: 1
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+

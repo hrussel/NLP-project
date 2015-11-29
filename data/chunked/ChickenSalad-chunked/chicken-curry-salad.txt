@@ -1,0 +1,27 @@
+SENTID: 0
+SENT: In a medium bowl , stir together the mayonnaise , curry powder , salt , pepper , and chili oil .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , curry powder , salt , pepper , chili oil
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Mix in the chunk chicken until well blended .
+PREDID: 0
+PRED: mix
+  PARG: the chunk chicken
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 2
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place asparagus on a baking sheet ;
+PREDID: 0
+PRED: place
+  DOBJ: asparagus
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: drizzle with olive oil and sprinkle with salt and pepper .
+PREDID: 0
+PRED: drizzle
+  PARG: olive oil
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Bake the asparagus in the preheated oven for 10 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: the asparagus
+  PARG: the preheated oven
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: While asparagus is baking , spread the pizza sauce over the pizza crust .
+PREDID: 0
+PRED: spread
+  DOBJ: the pizza sauce
+  PARG: asparagus is baking
+    PREP: while
+  PARG: the pizza crust
+    PREP: over
+
+
+SENTID: 5
+SENT: Distribute asparagus pieces and crumbles of blue cheese evenly over the pizza .
+PREDID: 0
+PRED: distribute
+  DOBJ: asparagus pieces, crumbles of blue cheese
+  PARG: the pizza
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Return pizza to center rack of preheated oven ;
+PREDID: 0
+PRED: return
+  DOBJ: pizza
+  PARG: center rack of preheated oven
+    PREP: to
+
+
+SENTID: 7
+SENT: bake until the cheese is melted and bubbling , 8 to 10 more minutes .
+PREDID: 0
+PRED: bake
+  PARG: the cheese is melted, bubbling , 8 to 10 more minutes
+    PREP: until
+

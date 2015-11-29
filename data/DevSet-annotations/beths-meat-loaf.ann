@@ -1,0 +1,107 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 53	Grease
+T3	predicate 171 179;94 97	together mix
+T4	predicate 214 221	work in
+T5	arg_other 86 93	lightly
+T6	arg_other 207 213	Gently
+T7	predicate 302 306	Bake
+T8	predicate 560 563	mix
+T9	predicate 682 686	pull
+T10	predicate 706 712	spread
+T11	predicate 736 742	Return
+T12	predicate 756 760	bake
+T13	arg_object 8 12	oven
+T14	arg_other 13 45	to 350 degrees F (175 degrees C)
+T16	arg_location 75 84	In a bowl
+R1	object Arg1:T1 Arg2:T13	
+R2	other Arg1:T1 Arg2:T14	
+R4	location Arg1:T3 Arg2:T16	
+R5	other Arg1:T3 Arg2:T5	
+T19	arg_object 115 119	milk
+T18	arg_object 121 133	bread crumbs
+T20	arg_object 135 140	onion
+T21	arg_object 142 146	salt
+T22	arg_object 148 160	black pepper
+T23	arg_object 166 170	sage
+T24	arg_other 180 205	until thoroughly combined
+R6	other Arg1:T3 Arg2:T24	
+R7	object Arg1:T3 Arg2:T19	
+R9	object Arg1:T3 Arg2:T18	
+R10	object Arg1:T3 Arg2:T20	
+R11	object Arg1:T3 Arg2:T22	
+R12	object Arg1:T3 Arg2:T23	
+T25	arg_co-object 222 237	the ground beef
+T26	arg_other 238 249	until mixed
+R13	other Arg1:T4 Arg2:T6	
+R14	other Arg1:T4 Arg2:T26	
+R15	co-object Arg1:T4 Arg2:T25	
+R16	object Arg1:T4 Arg2:T3	
+T27	predicate 251 256	press
+T28	arg_object 257 273	the meat mixture
+R17	object Arg1:T27 Arg2:T28	
+T30	Evolution 279 300	the prepared loaf pan
+E1	Evolution:T30 Cause:T2
+T31	Evolution 257 273	the meat mixture
+E2	Evolution:T31 Cause:T4
+T33	Evolution 310 328	the preheated oven
+E3	Evolution:T33 Cause:T1
+R20	object Arg1:T7 Arg2:T27	
+T34	arg_duration 395 411	about 50 minutes
+T36	arg_object 586 597	brown sugar
+T37	arg_object 603 621	dry mustard powder
+T39	arg_other 632 661	until the sugar has dissolved
+R22	object Arg1:T8 Arg2:T36	
+R23	object Arg1:T8 Arg2:T37	
+R25	other Arg1:T8 Arg2:T39	
+T40	arg_duration 329 393	until the loaf is no longer pink inside and the juices run clear
+T43	arg_duration 663 680	When loaf is done
+T44	arg_other 564 572	together
+T45	arg_location 687 700	from the oven
+R28	location Arg1:T9 Arg2:T45	
+T49	Evolution 713 720	topping
+E5	Evolution:T49 Cause:T8
+T50	Evolution 726 734	the loaf
+E6	Evolution:T50 Cause:T9
+T51	arg_location 743 750	to oven
+R33	location Arg1:T11 Arg2:T51	
+T52	arg_duration 761 785	until the topping is set
+T53	arg_duration 787 808	about 10 more minutes
+R34	duration Arg1:T12 Arg2:T52	
+R35	duration Arg1:T12 Arg2:T53	
+R36	object Arg1:T12 Arg2:T11	
+R37	object Arg1:T11 Arg2:T10	
+T54	arg_object 54 73	a 9x5-inch loaf pan
+R3	object Arg1:T2 Arg2:T54	
+T15	arg_location 307 328	in the preheated oven
+R18	location Arg1:T7 Arg2:T15	
+T32	arg_other 529 558	While the meat loaf is baking
+R29	other Arg1:T8 Arg2:T32	
+R38	object Arg1:T9 Arg2:T7	
+T29	arg_location 274 300	into the prepared loaf pan
+R19	location Arg1:T27 Arg2:T29	
+R27	other Arg1:T8 Arg2:T44	
+R26	duration Arg1:T9 Arg2:T43	
+T17	arg_object 98 113	the beaten eggs
+R8	object Arg1:T3 Arg2:T17	
+T41	ingredient 98 113	the beaten eggs
+T42	ingredient 115 119	milk
+T55	ingredient 121 133	bread crumbs
+T56	ingredient 135 140	onion
+T57	ingredient 142 146	salt
+T58	ingredient 148 160	black pepper
+T59	ingredient 166 170	sage
+T60	ingredient 222 237	the ground beef
+T35	arg_object 573 584	the ketchup
+R21	object Arg1:T8 Arg2:T35	
+T61	ingredient 573 584	the ketchup
+T62	ingredient 586 597	brown sugar
+T63	ingredient 603 621	dry mustard powder
+R39	same-location Arg1:T45 Arg2:T15	
+R40	same-location Arg1:T51 Arg2:T45	
+T46	arg_object 713 720	topping
+R30	object Arg1:T10 Arg2:T46	
+T47	arg_co-object 721 734	over the loaf
+R31	co-object Arg1:T10 Arg2:T47	
+T38	arg_location 622 631	in a bowl
+R24	location Arg1:T8 Arg2:T38	
+R32	object Arg1:T3 Arg2:T21	

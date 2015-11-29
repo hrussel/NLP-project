@@ -1,0 +1,138 @@
+T1	arg_location 0 29	In the top of a double boiler
+T2	predicate 31 38	combine
+T3	arg_object 39 50	brown sugar
+R1	location Arg1:T2 Arg2:T1	
+R2	object Arg1:T2 Arg2:T3	
+T4	arg_object 52 62	cornstarch
+T5	arg_object 68 81;82 87	1/4 teaspoon. salt.
+T6	predicate 88 95	Stir in
+T7	arg_object 96 100	milk
+T8	arg_object 105 115	corn syrup
+R3	co-object Arg1:T6 Arg2:T2	
+T9	predicate 117 121	Cook
+T10	arg_duration 163 173	20 minutes
+T11	arg_duration 177 192	until thickened
+R6	duration Arg1:T9 Arg2:T10	
+R7	object Arg1:T9 Arg2:T6	
+R8	duration Arg1:T9 Arg2:T11	
+T13	arg_location 194 210	In a medium bowl
+T14	predicate 212 216	beat
+T15	arg_object 217 226	egg yolks
+T16	arg_duration 227 257	until thick and lemon colored.
+R10	duration Arg1:T14 Arg2:T16	
+R11	object Arg1:T14 Arg2:T15	
+R12	location Arg1:T14 Arg2:T13	
+T17	predicate 268 272	stir
+T18	arg_object 273 295	1/2 cup of hot mixture
+T20	arg_co-object 296 306	into yolks
+R15	object Arg1:T17 Arg2:T18	
+T21	predicate 308 317	Pour back
+R16	object Arg1:T21 Arg2:T17	
+T24	predicate 368 372	Cook
+T25	arg_duration 373 382	5 minutes
+T26	arg_location 383 401	over boiling water
+R17	duration Arg1:T24 Arg2:T25	
+R18	location Arg1:T24 Arg2:T26	
+R19	object Arg1:T24 Arg2:T21	
+T27	predicate 424 430	Remove
+T28	arg_location 431 440	from heat
+T29	predicate 442 449	stir in
+T30	arg_object 450 456	butter
+T31	arg_object 458 465	vanilla
+T32	arg_object 470 484	3/4 cup pecans
+R21	object Arg1:T27 Arg2:T24	
+R22	location Arg1:T27 Arg2:T28	
+T33	predicate 486 490	Pour
+R28	object Arg1:T33 Arg2:T29	
+T35	predicate 510 517	Preheat
+T36	arg_object 518 522	oven
+T37	arg_duration 526 556	350 degrees F (175 degrees C.)
+R29	duration Arg1:T35 Arg2:T37	
+R30	object Arg1:T35 Arg2:T36	
+T38	predicate 557 561	Beat
+T39	arg_object 562 572	egg whites
+T40	arg_object 573 588	cream of tartar
+T41	arg_object 594 607	pinch of salt
+T42	arg_duration 608 619	until foamy
+R31	object Arg1:T38 Arg2:T39	
+R32	object Arg1:T38 Arg2:T40	
+R33	object Arg1:T38 Arg2:T41	
+R34	duration Arg1:T38 Arg2:T42	
+T43	predicate 631 634	add
+T44	arg_object 635 640	sugar
+T45	predicate 642 649	beating
+T46	arg_duration 650 672	until stiff peaks form
+T47	predicate 674 680	Spread
+T48	arg_object 681 689	meringue
+T51	predicate 731 739	Sprinkle
+T53	predicate 771 775	Bake
+T54	arg_location 776 797	in the preheated oven
+T57	predicate 837 841	Cool
+T58	arg_duration 842 861	to room temperature
+T59	predicate 863 868	Chill
+R35	co-object Arg1:T43 Arg2:T38	
+R37	object Arg1:T45 Arg2:T43	
+R38	duration Arg1:T45 Arg2:T46	
+R39	object Arg1:T47 Arg2:T48	
+T60	Evolution 695 702	filling
+E3	Evolution:T60 Cause:T33
+T61	Evolution 681 689	meringue
+E4	Evolution:T61 Cause:T45
+R43	object Arg1:T51 Arg2:T47	
+R44	object Arg1:T53 Arg2:T51	
+R45	location Arg1:T53 Arg2:T54	
+R48	object Arg1:T57 Arg2:T53	
+R49	duration Arg1:T57 Arg2:T58	
+R50	object Arg1:T59 Arg2:T57	
+T62	Evolution 779 797	the preheated oven
+E5	Evolution:T62 Cause:T35
+T63	arg_other 258 267	Gradually
+R13	other Arg1:T17 Arg2:T63	
+T64	Evolution 301 306	yolks
+E6	Evolution:T64 Cause:T14
+T65	ingredient 39 50	brown sugar
+T66	ingredient 52 62	cornstarch
+T67	ingredient 68 80;82 86	1/4 teaspoon salt
+T68	ingredient 96 100	milk
+T69	ingredient 105 115	corn syrup
+T70	ingredient 217 226	egg yolks
+R23	co-object Arg1:T29 Arg2:T27	
+R24	object Arg1:T29 Arg2:T30	
+R25	object Arg1:T29 Arg2:T31	
+R26	object Arg1:T29 Arg2:T32	
+R14	co-object Arg1:T17 Arg2:T20	
+R4	object Arg1:T6 Arg2:T7	
+R5	object Arg1:T6 Arg2:T8	
+T22	arg_co-object 318 345	into remaining milk mixture
+R20	co-object Arg1:T21 Arg2:T22	
+T71	ingredient 450 456	butter
+T72	ingredient 458 465	vanilla
+T73	ingredient 470 484	3/4 cup pecans
+T74	ingredient 562 572	egg whites
+T75	ingredient 573 588	cream of tartar
+T76	ingredient 594 607	pinch of salt
+T77	ingredient 635 640	sugar
+R36	object Arg1:T43 Arg2:T44	
+T34	arg_co-object 491 508	into pastry shell
+R27	co-object Arg1:T33 Arg2:T34	
+T78	ingredient 496 508	pastry shell
+T49	arg_co-object 690 702	over filling
+R40	co-object Arg1:T47 Arg2:T49	
+T50	arg_other 704 729	sealing to edge of pastry
+R41	other Arg1:T47 Arg2:T50	
+T52	arg_co-object 740 769	with remaining 1/4 cup pecans
+R42	co-object Arg1:T51 Arg2:T52	
+T79	ingredient 745 769	remaining 1/4 cup pecans
+T55	arg_duration 798 835	for 12 minutes, or until golden brown
+R46	duration Arg1:T53 Arg2:T55	
+R47	object Arg1:T2 Arg2:T4	
+R51	object Arg1:T2 Arg2:T5	
+T12	arg_location 122 140	over boiling water
+R9	location Arg1:T9 Arg2:T12	
+T19	Evolution 273 295	1/2 cup of hot mixture
+E1	Evolution:T19 Cause:T9
+T23	Evolution 323 345	remaining milk mixture
+E2	Evolution:T23 Cause:T9
+R52	same-location Arg1:T12 Arg2:T1	
+T56	ingredient 127 140	boiling water
+R53	same-location Arg1:T26 Arg2:T12	

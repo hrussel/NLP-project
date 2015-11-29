@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine beef , bread crumbs , Parmesan cheese , eggs , Worcestershire sauce , garlic , and Italian seasoning in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: beef , bread crumbs , parmesan cheese , eggs , worcestershire sauce , garlic , italian seasoning
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Transfer mixture to a 9x5-inch loaf pan .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: a 9x5-inch loaf pan
+    PREP: to
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until no longer pink in the center , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 30 minutes
+    PREP: until
+

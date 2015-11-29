@@ -1,0 +1,21 @@
+SENTID: 0
+SENT: In a large bowl , whisk together the brown sugar , apple cider vinegar , mayonnaise , and celery seed .
+PREDID: 0
+PRED: whisk
+  DOBJ: the brown sugar , apple cider vinegar , mayonnaise , celery seed
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add cabbage and toss to coat .
+PREDID: 0
+PRED: add
+  DOBJ: cabbage
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+

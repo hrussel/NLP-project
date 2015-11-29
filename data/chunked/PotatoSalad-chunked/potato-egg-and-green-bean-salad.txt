@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: In a large saucepan , cover potatoes with cold salted water and bring to a boil .
+PREDID: 0
+PRED: cover
+  DOBJ: potatoes
+  PARG: a large saucepan
+    PREP: in
+  PARG: cold salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook until tender , about 10 minutes , adding beans in the last 4 or 5 minutes of cooking .
+PREDID: 0
+PRED: cook
+  PARG: tender , about 10 minutes , adding beans in the last 4 or 5 minutes of cooking
+    PREP: until
+
+
+SENTID: 2
+SENT: When vegetables are tender , drain .
+PREDID: 0
+PRED: drain
+  OARG: when vegetables are tender
+
+
+SENTID: 3
+SENT: Place in a large bowl ;
+PREDID: 0
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: toss with 2 tbsp olive oil .
+PREDID: 0
+PRED: toss
+  PARG: 2 tbsp olive oil
+    PREP: with
+
+
+SENTID: 5
+SENT: Add eggs .
+PREDID: 0
+PRED: add
+  DOBJ: eggs
+
+
+SENTID: 6
+SENT: Combine remaining 3 tbsp olive oil , vinegar , mustard , garlic , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: remaining 3 tbsp olive oil , vinegar , mustard , garlic , salt, pepper
+
+
+SENTID: 7
+SENT: Drizzle vinaigrette over vegetables and eggs ;
+PREDID: 0
+PRED: drizzle
+  DOBJ: vinaigrette
+  PARG: vegetables, eggs
+    PREP: over
+
+
+SENTID: 8
+SENT: toss gently to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+  OARG: gently
+
+
+SENTID: 9
+SENT: Adjust seasonings , if necessary .
+PREDID: 0
+PRED: adjust
+  DOBJ: seasonings
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 10
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

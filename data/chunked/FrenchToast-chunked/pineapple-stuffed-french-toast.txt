@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Mix pineapple and 1 teaspoon cinnamon in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: pineapple, 1 teaspoon cinnamon
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Spread each slice of bread with 1Ê1/2 teaspoon cream cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: each slice of bread
+  PARG: 1Ê1/2 teaspoon cream cheese
+    PREP: with
+
+
+SENTID: 2
+SENT: Top 2 slices with 1/4 cup pineapple mixture apiece ;
+PREDID: 0
+PRED: top
+  DOBJ: 2 slices
+  PARG: 1/4 cup pineapple mixture
+    PREP: with
+  OARG: apiece
+
+
+SENTID: 3
+SENT: reserve remaining pineapple mixture .
+PREDID: 0
+PRED: reserve
+  DOBJ: remaining pineapple mixture
+
+
+SENTID: 4
+SENT: Place remaining slices of bread atop pineapple mixture and press lightly to make 2 sandwiches .
+PREDID: 0
+PRED: place
+  DOBJ: remaining slices of bread
+  PARG: pineapple mixture
+    PREP: atop
+
+PREDID: 1
+PRED: press
+  PARG: make 2 sandwiches
+    PREP: to
+  OARG: lightly
+
+
+SENTID: 5
+SENT: Whisk remaining 1/2 teaspoon cinnamon , milk , egg , sugar , and vanilla extract in a shallow bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: remaining 1/2 teaspoon cinnamon , milk , egg , sugar , vanilla extract
+  PARG: a shallow bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Lay each sandwich in milk mixture and let bread absorb mixture for a few seconds ;
+PREDID: 0
+PRED: lay
+  DOBJ: each sandwich
+  PARG: milk mixture
+    PREP: in
+
+PREDID: 1
+PRED: let
+  DOBJ: bread absorb mixture
+  PARG: a few seconds
+    PREP: for
+
+
+SENTID: 7
+SENT: flip and repeat .
+PREDID: 0
+PRED: flip
+
+PREDID: 1
+PRED: repeat
+
+
+SENTID: 8
+SENT: Heat a nonstick skillet over medium heat , melt butter in the hot skillet , and fry sandwiches on both sides in butter until golden brown , 2 to 3 minutes per side .
+PREDID: 0
+PRED: heat
+  DOBJ: a nonstick skillet
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: melt
+  DOBJ: butter
+  PARG: the hot skillet
+    PREP: in
+
+PREDID: 2
+PRED: fry
+  DOBJ: sandwiches
+  PARG: both sides
+    PREP: on
+  PARG: butter
+    PREP: in
+  PARG: golden brown , 2 to 3 minutes per side
+    PREP: until
+
+
+SENTID: 9
+SENT: Top each sandwich with half the remaining pineapple mixture and drizzle 1 tablespoon hot fudge sauce over pineapple .
+PREDID: 0
+PRED: top
+  DOBJ: each sandwich
+  PARG: half the remaining pineapple mixture
+    PREP: with
+
+PREDID: 1
+PRED: drizzle
+  DOBJ: 1 tablespoon hot fudge sauce
+  PARG: pineapple
+    PREP: over
+

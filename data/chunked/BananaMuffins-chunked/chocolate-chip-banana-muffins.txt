@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 12-cup muffin tin .
+PREDID: 0
+PRED: grease
+  DOBJ: a 12-cup muffin tin
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a medium bowl blend the banana , oil , egg and vanilla together .
+PREDID: 0
+PRED: blend
+  DOBJ: the banana
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: oil
+  DOBJ: egg, vanilla
+  OARG: together
+
+
+SENTID: 3
+SENT: In a large bowl , combine the flour , sugar , cocoa , baking powder and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: the flour , sugar , cocoa , baking powder, salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in the banana mixture until just blended .
+PREDID: 0
+PRED: stir
+  PARG: the banana mixture
+    PREP: in
+  PARG: just blended
+    PREP: until
+
+
+SENTID: 5
+SENT: Fold in the chocolate chips .
+PREDID: 0
+PRED: fold
+  PARG: the chocolate chips
+    PREP: in
+
+
+SENTID: 6
+SENT: Spoon the batter into the prepared muffin tin , filling 3/4 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: filling 3/4 full
+  PARG: the prepared muffin tin
+    PREP: into
+  OARG: the batter
+
+
+SENTID: 7
+SENT: Bake in the preheated oven for 15 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Remove muffins to a wire rack to cool completely .
+PREDID: 0
+PRED: remove
+  DOBJ: muffins
+  PARG: a wire rack
+    PREP: to
+  OARG: to cool
+  OARG: completely
+

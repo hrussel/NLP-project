@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , combine pie filling , raisins , lemon juice , one teaspoon of the vanilla , 1/2 teaspoon of the cinnamon and the salt .
+PREDID: 0
+PRED: combine
+  DOBJ: pie filling , raisins , lemon juice , one teaspoon of the vanilla , 1/2 teaspoon of the cinnamon, the salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Spread mixture evenly in the bottom of a 3-quart rectangular baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: the bottom of a 3-quart rectangular baking dish
+    PREP: in
+  OARG: evenly
+
+
+SENTID: 3
+SENT: In a shallow dish whisk together eggs , milk , sugar , remaining 1/2 teaspoon of vanilla and remaining 1/4 teaspoon of cinnamon .
+PREDID: 0
+PRED: whisk
+  DOBJ: remaining 1/4 teaspoon of cinnamon
+  PARG: a shallow dish
+    PREP: in
+  OARG: together
+  OARG: eggs , milk , sugar
+  OARG: remaining 1/2 teaspoon of vanilla
+
+
+SENTID: 4
+SENT: Dip bread slices in egg mixture , turning to coat both sides .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: egg mixture , turning
+    PREP: in
+  PARG: coat both sides
+    PREP: to
+
+
+SENTID: 5
+SENT: In a very large skillet , melt butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a very large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Add bread slices , half at a time , to hot skillet .
+PREDID: 0
+PRED: add
+  DOBJ: bread slices , half
+  PARG: a time
+    PREP: at
+  PARG: hot skillet
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook for 3 to 5 minutes or until bread is lightly browned , turning once to brown both sides .
+PREDID: 0
+PRED: cook
+  PARG: 3 to 5 minutes
+    PREP: for
+  PARG: bread is lightly browned , turning once to brown both sides
+    PREP: until
+
+
+SENTID: 8
+SENT: Arrange bread slices in a single layer atop apple mixture in dish .
+PREDID: 0
+PRED: arrange
+  DOBJ: bread slices
+  PARG: a single layer
+    PREP: in
+  PARG: apple mixture
+    PREP: atop
+  PARG: dish
+    PREP: in
+
+
+SENTID: 9
+SENT: Bake , uncovered , for 20 to 25 minutes or until heated through .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 20 to 25 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool slightly .
+PREDID: 0
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 11
+SENT: Serve bread slices on serving plates and top with apple mixture .
+PREDID: 0
+PRED: serve
+  DOBJ: bread slices
+  PARG: serving plates
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: apple mixture
+    PREP: with
+

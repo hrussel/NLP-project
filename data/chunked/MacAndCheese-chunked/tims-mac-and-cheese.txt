@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente .
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and reserve .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: reserve
+
+
+SENTID: 3
+SENT: In a large sauce pan , melt 4 tablespoons butter or margarine over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 4 tablespoons butter or margarine
+  PARG: a large sauce pan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add flour and some ground black pepper to taste ;
+PREDID: 0
+PRED: add
+  DOBJ: flour, some ground black pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Add milk to mixture and stir continually until mixture starts to thicken ;
+PREDID: 0
+PRED: add
+  DOBJ: milk
+  PARG: mixture
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: mixture starts to thicken
+    PREP: until
+  OARG: continually
+
+
+SENTID: 6
+SENT: slowly stir in cheese 1 cup at a time until all cheese is melted .
+PREDID: 0
+PRED: stir
+  PARG: cheese 1 cup
+    PREP: in
+  PARG: a time
+    PREP: at
+  PARG: all cheese is melted
+    PREP: until
+  OARG: slowly
+
+
+SENTID: 7
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Pour cheese mixture over macaroni .
+PREDID: 0
+PRED: pour
+  DOBJ: cheese mixture
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 9
+SENT: Mix well and pour into a lightly greased 9x13 inch baking dish .
+PREDID: 0
+PRED: mix
+  PARG: a lightly greased 9x13 inch baking dish
+    PREP: into
+  OARG: well
+
+PREDID: 1
+PRED: pour
+
+
+SENTID: 10
+SENT: Place bread pieces on top of macaroni mixture and season with salt and pepper to taste .
+PREDID: 0
+PRED: place
+  DOBJ: bread pieces
+  PARG: top of macaroni mixture
+    PREP: on
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 11
+SENT: Melt 4 tablespoons butter or margarine and pour over bread .
+PREDID: 0
+PRED: melt
+  DOBJ: 4 tablespoons butter or margarine
+
+PREDID: 1
+PRED: pour
+  PARG: bread
+    PREP: over
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 25 to 30 minutes or until bubbly and golden brown .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 to 30 minutes
+    PREP: for
+  PARG: bubbly, golden brown
+    PREP: until
+
+
+SENTID: 13
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

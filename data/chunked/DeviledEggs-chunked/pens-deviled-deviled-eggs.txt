@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Place egg in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: egg
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool , and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut eggs in half lengthwise , place the yolks into a mixing bowl , and set the whites aside .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: place
+  DOBJ: the yolks
+  PARG: a mixing bowl
+    PREP: into
+
+PREDID: 2
+PRED: set
+  DOBJ: the whites
+  OARG: aside
+
+
+SENTID: 5
+SENT: Mash the yolks with the deviled ham , mustard , mayonnaise , and black pepper .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: the deviled ham , mustard , mayonnaise , black pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Spoon or pipe filling into egg white halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: filling
+
+PREDID: 1
+PRED: pipe
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 7
+SENT: Garnish each deviled egg with an olive slice , then sprinkle with paprika .
+PREDID: 0
+PRED: garnish
+  DOBJ: each deviled egg
+  PARG: an olive slice
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+

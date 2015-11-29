@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread chopped walnuts onto a baking sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: chopped walnuts
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 2
+SENT: Roast walnuts in the preheated oven until they are fragrant and browned , 3 to 5 minutes .
+PREDID: 0
+PRED: roast
+  DOBJ: walnuts
+  PARG: the preheated oven
+    PREP: in
+  PARG: they are fragrant, browned , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove and let cool .
+PREDID: 0
+PRED: remove
+  DOBJ: cool
+
+PREDID: 1
+PRED: let
+
+
+SENTID: 4
+SENT: Lightly toss chicken with grape halves , cranberries , apple , walnuts , and onion in a salad bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: chicken
+  PARG: grape halves , cranberries , apple , walnuts , onion
+    PREP: with
+  PARG: a salad bowl
+    PREP: in
+  OARG: lightly
+
+
+SENTID: 5
+SENT: Whisk mayonnaise , vanilla yogurt , and lemon juice in a separate bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , vanilla yogurt , lemon juice
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour dressing over salad and toss again to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: again
+

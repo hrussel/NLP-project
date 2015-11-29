@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Heat oven to 225 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 225 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray griddle with no-stick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: griddle
+  PARG: no-stick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Blend together filling ingredients in small bowl until light and fluffy .
+PREDID: 0
+PRED: blend
+  DOBJ: filling ingredients
+  PARG: small bowl
+    PREP: in
+  PARG: light, fluffy
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Cut bread into 10 to 12 slices , approximately 1-1/2 inch thick .
+PREDID: 0
+PRED: cut
+  DOBJ: 1-1/2 inch thick
+  PARG: 10 to 12 slices
+    PREP: into
+  OARG: approximately
+  OARG: bread
+
+
+SENTID: 5
+SENT: Cut a small slice along the top of each piece , creating a pocket in the middle .
+PREDID: 0
+PRED: cut
+  DOBJ: creating a pocket
+  PARG: the top of each piece
+    PREP: along
+  PARG: the middle
+    PREP: in
+  OARG: a small slice
+
+
+SENTID: 6
+SENT: Fill with a heaping tablespoon of filling .
+PREDID: 0
+PRED: fill
+  PARG: a heaping tablespoon of filling
+    PREP: with
+
+
+SENTID: 7
+SENT: Mix together the eggs , half-and-half , vanilla and nutmeg .
+PREDID: 0
+PRED: mix
+  DOBJ: the eggs , half-and-half , vanilla, nutmeg
+  OARG: together
+
+
+SENTID: 8
+SENT: Dip bread in egg mixture and cook on prepared griddle until both sides are golden brown , being careful to keep filling in bread pocket .
+PREDID: 0
+PRED: dip
+  DOBJ: bread
+  PARG: egg mixture
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: prepared griddle
+    PREP: on
+  PARG: both sides are golden brown , being careful to keep filling in bread pocket
+    PREP: until
+
+
+SENTID: 9
+SENT: Place cooked slices on baking sheet and place in oven to keep warm .
+PREDID: 0
+PRED: place
+  DOBJ: cooked slices
+  PARG: baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: place
+  PARG: oven
+    PREP: in
+  PARG: keep warm
+    PREP: to
+
+
+SENTID: 10
+SENT: Heat preserves in small saucepan until melted .
+PREDID: 0
+PRED: heat
+  DOBJ: preserves
+  PARG: small saucepan
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir in orange juice and almond extract .
+PREDID: 0
+PRED: stir
+  PARG: orange juice, almond extract
+    PREP: in
+
+
+SENTID: 12
+SENT: To serve , drizzle over French toast .
+PREDID: 0
+PRED: drizzle
+  PARG: serve
+    PREP: to
+  PARG: french toast
+    PREP: over
+

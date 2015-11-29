@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter a 9x13 inch baking dish .
+PREDID: 0
+PRED: butter
+  DOBJ: a 9x13 inch baking dish
+
+
+SENTID: 2
+SENT: Put sliced potatoes into a large pot , and fill with enough water to cover .
+PREDID: 0
+PRED: put
+  DOBJ: sliced potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 3
+SENT: Bring to a boil , and cook until tender but still firm , about 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: At the same time , place bacon in a large deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: the same time
+    PREP: at
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 6
+SENT: Cook over medium-high heat until evenly browned .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly browned
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove to paper towels to drain .
+PREDID: 0
+PRED: remove
+  PARG: paper towels
+    PREP: to
+  PARG: drain
+    PREP: to
+
+
+SENTID: 8
+SENT: In a large bowl , stir together the potatoes , cheese , onion , mayonnaise , salt , and pepper .
+PREDID: 0
+PRED: stir
+  DOBJ: the potatoes , cheese , onion , mayonnaise , salt , pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Spoon into prepared baking dish .
+PREDID: 0
+PRED: spoon
+  PARG: prepared baking dish
+    PREP: into
+
+
+SENTID: 10
+SENT: Crumble bacon over the top , and sprinkle with olives .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+  PARG: the top
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: olives
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake for 1 hour in the preheated oven , until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown
+    PREP: until
+

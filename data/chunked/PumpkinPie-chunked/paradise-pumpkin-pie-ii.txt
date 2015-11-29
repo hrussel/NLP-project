@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a small mixing bowl , beat softened cream cheese until fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: softened cream cheese
+  PARG: a small mixing bowl
+    PREP: in
+  PARG: fluffy
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix in 1/4 cup white sugar .
+PREDID: 0
+PRED: mix
+  PARG: 1/4 cup white sugar
+    PREP: in
+
+
+SENTID: 3
+SENT: Add 1 egg and vanilla extract .
+PREDID: 0
+PRED: add
+  DOBJ: 1 egg, vanilla extract
+
+
+SENTID: 4
+SENT: Stir until mixture is smooth .
+PREDID: 0
+PRED: stir
+  PARG: mixture is smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour mixture into pastry shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pastry shell
+    PREP: into
+
+
+SENTID: 6
+SENT: In a medium bowl , combine pumpkin puree , 1/2 cup white sugar , cinnamon , ginger , nutmeg , salt , evaporated milk , and 2 beaten eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin puree , 1/2 cup white sugar , cinnamon , ginger , nutmeg , salt , evaporated milk , 2 beaten eggs
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix thoroughly , then pour mixture over cheesecake layer .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: mixture
+  PARG: cheesecake layer
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in preheated oven for 65 minutes , until set in center .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 65 minutes
+    PREP: for
+  PARG: set in center
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove pie and turn oven to broiler setting .
+PREDID: 0
+PRED: remove
+  DOBJ: pie
+
+PREDID: 1
+PRED: turn
+  DOBJ: oven
+  PARG: broiler setting
+    PREP: to
+
+
+SENTID: 10
+SENT: In a small bowl , mix together softened butter or margarine , brown sugar , and chopped pecans .
+PREDID: 0
+PRED: mix
+  DOBJ: softened butter or margarine , brown sugar , chopped pecans
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Gently drop mixture by teaspoonfuls over pie , covering top evenly .
+PREDID: 0
+PRED: drop
+  DOBJ: mixture
+  PARG: teaspoonfuls
+    PREP: by
+  PARG: pie , covering top
+    PREP: over
+  OARG: gently
+  OARG: evenly
+
+
+SENTID: 12
+SENT: Broil 5 inches below oven coils until mixture begins to bubble , about 3 minutes .
+PREDID: 0
+PRED: broil
+  DOBJ: 5 inches
+  PARG: oven coils
+    PREP: below
+  PARG: mixture begins to bubble , about 3 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+

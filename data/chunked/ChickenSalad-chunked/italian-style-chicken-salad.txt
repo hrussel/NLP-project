@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Heat olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir garlic until softened and golden brown , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: garlic
+
+PREDID: 1
+PRED: stir
+  PARG: softened, golden brown , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in lemon juice ;
+PREDID: 0
+PRED: stir
+  PARG: lemon juice
+    PREP: in
+
+
+SENTID: 3
+SENT: set aside to cool .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Toss chicken , fennel , celery , red onion , and parsley together in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: chicken , fennel , celery , red onion , parsley
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir in the cooled garlic and olive oil , mayonnaise , lemon zest , salt , and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: the cooled garlic, olive oil , mayonnaise , lemon zest , salt , black pepper
+    PREP: in
+
+
+SENTID: 6
+SENT: Arrange arugula on a serving platter ;
+PREDID: 0
+PRED: arrange
+  DOBJ: arugula
+  PARG: a serving platter
+    PREP: on
+
+
+SENTID: 7
+SENT: serve chicken salad on arugula .
+PREDID: 0
+PRED: serve
+  DOBJ: chicken salad
+  PARG: arugula
+    PREP: on
+

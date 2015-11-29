@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Cook ground beef in a skillet over medium-high heat ;
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Put beef in slow cooker with remaining ingredients .
+PREDID: 0
+PRED: put
+  DOBJ: beef
+  PARG: slow cooker
+    PREP: in
+  PARG: remaining ingredients
+    PREP: with
+
+
+SENTID: 3
+SENT: Stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 4
+SENT: Cook covered on low 8 to 10 hours .
+PREDID: 0
+PRED: cook
+  DOBJ: covered
+  PARG: low 8 to 10 hours
+    PREP: on
+
+
+SENTID: 5
+SENT: Garnish with cheese , sour cream , and/or cilantro .
+PREDID: 0
+PRED: garnish
+  PARG: cheese , sour cream , and/or cilantro
+    PREP: with
+

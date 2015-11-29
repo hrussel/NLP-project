@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 9x13 inch pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: In a large bowl , sift together the flour , baking powder , baking soda , cinnamon and salt .
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , baking powder , baking soda , cinnamon, salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir in the wheat germ .
+PREDID: 0
+PRED: stir
+  PARG: the wheat germ
+    PREP: in
+
+
+SENTID: 4
+SENT: Make a well in the center and add sugar , oil , eggs and vanilla .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the center
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: sugar
+
+PREDID: 2
+PRED: oil
+  DOBJ: eggs, vanilla
+
+
+SENTID: 5
+SENT: Mix well , then stir in shredded carrots , chopped nuts , coconut and pineapple .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: shredded carrots , chopped nuts , coconut, pineapple
+    PREP: in
+
+
+SENTID: 6
+SENT: Spread batter into a 9x13 inch pan .
+PREDID: 0
+PRED: spread
+  DOBJ: batter
+  PARG: a 9x13 inch pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in preheated oven for 45 minutes , or until the center springs back when lightly tapped .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  PARG: the center springs back when lightly tapped
+    PREP: until
+

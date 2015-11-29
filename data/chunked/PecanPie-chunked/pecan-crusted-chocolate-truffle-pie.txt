@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix together the pecans , 1/3 cup sugar , 1/4 cup butter and miniature chocolate chips .
+PREDID: 0
+PRED: mix
+  DOBJ: the pecans , 1/3 cup sugar , 1/4 cup butter, miniature chocolate chips
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Press into the bottom and up the sides of a 9 inch pie plate .
+PREDID: 0
+PRED: press
+  DOBJ: the sides of a 9 inch pie plate
+  PARG: the bottom
+    PREP: into
+  OARG: up
+
+
+SENTID: 3
+SENT: Bake for 8 to 10 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 4
+SENT: Cool completely .
+PREDID: 0
+PRED: cool
+  OARG: completely
+
+
+SENTID: 5
+SENT: In a metal bowl set over a pan of simmering water , combine 1Ê1/3 cups chocolate chips and 1/2 cup butter .
+PREDID: 0
+PRED: set
+  PARG: a metal bowl
+    PREP: in
+  PARG: a pan of simmering water
+    PREP: over
+
+PREDID: 1
+PRED: combine
+  DOBJ: 1Ê1/3 cups chocolate chips, 1/2 cup butter
+
+
+SENTID: 6
+SENT: Stir occasionally until melted and smooth .
+PREDID: 0
+PRED: stir
+  PARG: melted
+    PREP: until
+  OARG: occasionally
+
+PREDID: 1
+PRED: smooth
+
+
+SENTID: 7
+SENT: Remove from the heat and stir in the vanilla .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: the vanilla
+    PREP: in
+
+
+SENTID: 8
+SENT: In a separate bowl , beat egg yolks with 1/4 cup sugar until thick and pale using an electric mixer , at least 3 minutes .
+PREDID: 0
+PRED: beat
+  DOBJ: egg yolks
+  PARG: a separate bowl
+    PREP: in
+  PARG: 1/4 cup sugar
+    PREP: with
+  PARG: thick, pale using an electric mixer , at least 3 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir into the melted chocolate and set it back over the pan of simmering water .
+PREDID: 0
+PRED: stir
+  PARG: the melted chocolate, set it
+    PREP: into
+  PARG: the pan of simmering water
+    PREP: over
+  OARG: back
+
+
+SENTID: 10
+SENT: Whisk constantly until thick , 3 to 4 minutes .
+PREDID: 0
+PRED: whisk
+  PARG: thick , 3 to 4 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 11
+SENT: Pour into the cooled crust and smooth the top .
+PREDID: 0
+PRED: pour
+  PARG: the cooled crust
+    PREP: into
+
+PREDID: 1
+PRED: smooth
+  DOBJ: the top
+
+
+SENTID: 12
+SENT: Heat the heavy cream in a small saucepan .
+PREDID: 0
+PRED: heat
+  DOBJ: the heavy cream
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 13
+SENT: When warm , stir in the remaining chocolate chips until melted .
+PREDID: 0
+PRED: stir
+  PARG: the remaining chocolate chips
+    PREP: in
+  PARG: melted
+    PREP: until
+  OARG: when warm
+
+
+SENTID: 14
+SENT: Remove from the heat and stir in the brandy .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: the brandy
+    PREP: in
+
+
+SENTID: 15
+SENT: Pour over the truffle filling .
+PREDID: 0
+PRED: pour
+  PARG: the truffle filling
+    PREP: over
+
+
+SENTID: 16
+SENT: Refrigerate for several hours to set before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: several hours
+    PREP: for
+  PARG: set
+    PREP: to
+  PARG: serving
+    PREP: before
+

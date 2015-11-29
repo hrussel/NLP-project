@@ -1,0 +1,41 @@
+SENTID: 0
+SENT: Combine the jicama , cilantro , lime juice , lemon juice , and mandarin orange segments with a small amount of the syrup from the can in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the jicama , cilantro , lime juice , lemon juice , mandarin orange segments
+  PARG: a small amount of the syrup
+    PREP: with
+  PARG: the can
+    PREP: from
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: mix to evenly coat .
+PREDID: 0
+PRED: mix
+  OARG: to evenly coat
+
+
+SENTID: 2
+SENT: Allow mixture to sit 10 minutes .
+PREDID: 0
+PRED: allow
+  DOBJ: mixture
+  OARG: to sit 10 minutes
+
+
+SENTID: 3
+SENT: Season with salt and stir just before serving .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: serving
+    PREP: before
+  OARG: just
+

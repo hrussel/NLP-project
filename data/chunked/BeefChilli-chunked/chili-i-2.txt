@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Heat oil in a large saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook onions , garlic , ground beef and cubed sirloin in oil for 10 minutes , or until the meat is well browned and the onions are tender .
+PREDID: 0
+PRED: cook
+  DOBJ: onions , garlic , ground beef, cubed sirloin
+  PARG: oil
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: the meat is well browned, the onions are tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix in the diced tomatoes with juice , dark beer , coffee , tomato paste and beef broth .
+PREDID: 0
+PRED: mix
+  PARG: the diced tomatoes
+    PREP: in
+  PARG: juice , dark beer , coffee , tomato paste, beef broth
+    PREP: with
+
+
+SENTID: 3
+SENT: Season with brown sugar , chili powder , cumin , cocoa powder , oregano , cayenne pepper , coriander and salt .
+PREDID: 0
+PRED: season
+  PARG: brown sugar , chili powder , cumin , cocoa powder , oregano , cayenne pepper , coriander, salt
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir in 2 cans of the beans and hot chile peppers .
+PREDID: 0
+PRED: stir
+  PARG: 2 cans of the beans, hot chile peppers
+    PREP: in
+
+
+SENTID: 5
+SENT: Reduce heat to low , and simmer for 1Ê1/2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 1Ê1/2 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: Stir in the 2 remaining cans of beans , and simmer for another 30 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the 2 remaining cans of beans
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: another 30 minutes
+    PREP: for
+

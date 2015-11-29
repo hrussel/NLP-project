@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , combine water , potatoes , carrots , onion , bell pepper , jalapeno and garlic .
+PREDID: 0
+PRED: combine
+  DOBJ: water , potatoes , carrots , onion , bell pepper , jalapeno, garlic
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Sprinkle salt and bouillon over the mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: salt, bouillon
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 2
+SENT: Bring to a boil , then reduce heat , cover and simmer 15 to 20 minutes , until potatoes are tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: cover
+  OARG: 15 to 20 minutes
+
+PREDID: 3
+PRED: simmer
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Meanwhile , in a large skillet over medium heat , cook beef until brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Stir cooked beef and 2 cups milk into the soup and heat through .
+PREDID: 0
+PRED: stir
+  DOBJ: cooked beef, 2 cups milk
+  PARG: the soup
+    PREP: into
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 6
+SENT: Combine remaining 1/2 cup milk with flour , stirring until smooth ;
+PREDID: 0
+PRED: combine
+  DOBJ: remaining 1/2 cup milk
+  PARG: flour , stirring
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: stir into soup .
+PREDID: 0
+PRED: stir
+  PARG: soup
+    PREP: into
+
+
+SENTID: 8
+SENT: Bring to a low boil and cook , stirring , until thickened , 3 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a low boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: thickened , 3 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Reduce heat to low and stir in cheese until melted .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: cheese
+    PREP: in
+  PARG: melted
+    PREP: until
+
+
+SENTID: 10
+SENT: Season with cayenne .
+PREDID: 0
+PRED: season
+  PARG: cayenne
+    PREP: with
+

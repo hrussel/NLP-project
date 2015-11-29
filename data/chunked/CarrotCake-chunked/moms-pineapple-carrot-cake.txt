@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 10 inch Bundt pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 10 inch bundt pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: Drain pineapple and reserve the juice , set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: pineapple
+
+PREDID: 1
+PRED: reserve
+  DOBJ: the juice
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , mix flour , sugar , baking soda , cinnamon and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , sugar , baking soda , cinnamon, salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Make a well in the center of flour mixture and add oil , eggs and vanilla .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the center of flour mixture
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: oil , eggs, vanilla
+
+
+SENTID: 5
+SENT: Beat until combined .
+PREDID: 0
+PRED: beat
+  PARG: combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Fold in carrots , coconut , walnuts and pineapple .
+PREDID: 0
+PRED: fold
+  PARG: carrots , coconut , walnuts, pineapple
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour into a 10 inch Bundt pan .
+PREDID: 0
+PRED: pour
+  PARG: a 10 inch bundt pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 45 to 50 minutes , or until cake pulls away from pan .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 45 to 50 minutes
+    PREP: for
+  PARG: cake pulls away from pan
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool in pan 15 minutes , then turn out onto a wire rack and cool completely .
+PREDID: 0
+PRED: cool
+  PARG: pan 15 minutes
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: turn
+  PARG: onto a wire rack
+    PREP: out
+
+PREDID: 2
+PRED: cool
+  OARG: completely
+
+
+SENTID: 10
+SENT: In a medium bowl , combine confectioners sugar and 2 tablespoons pineapple juice .
+PREDID: 0
+PRED: combine
+  DOBJ: confectioners sugar, 2 tablespoons pineapple juice
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: Beat until smooth , then drizzle over cake .
+PREDID: 0
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: drizzle
+  PARG: cake
+    PREP: over
+

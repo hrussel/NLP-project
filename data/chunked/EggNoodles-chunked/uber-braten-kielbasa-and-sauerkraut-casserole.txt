@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook kluski noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: kluski noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 4
+SENT: Melt butter in a large pot over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Whisk in flour , dry mustard , and black pepper ;
+PREDID: 0
+PRED: whisk
+  PARG: flour , dry mustard , black pepper
+    PREP: in
+
+
+SENTID: 6
+SENT: cook until smooth , about 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: smooth , about 2 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Whisk in milk , a little at a time , and bring white sauce to a boil .
+PREDID: 0
+PRED: whisk
+  PARG: milk , a little
+    PREP: in
+  PARG: a time , bring white sauce
+    PREP: at
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Cook for 1 minute , whisking constantly , to make a smooth , thick sauce .
+PREDID: 0
+PRED: cook
+  PARG: 1 minute , whisking
+    PREP: for
+  PARG: make a smooth , thick sauce
+    PREP: to
+  OARG: constantly
+
+
+SENTID: 9
+SENT: Whisk 3/4 cup Cheddar cheese into sauce until melted .
+PREDID: 0
+PRED: whisk
+  DOBJ: 3/4 cup cheddar cheese
+  PARG: sauce
+    PREP: into
+  PARG: melted
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir kluski noodles , sauerkraut , and kielbasa sausage into the sauce and transfer to a 3-quart casserole dish .
+PREDID: 0
+PRED: stir
+  DOBJ: kluski noodles , sauerkraut , kielbasa sausage
+  PARG: the sauce
+    PREP: into
+
+PREDID: 1
+PRED: transfer
+  PARG: a 3-quart casserole dish
+    PREP: to
+
+
+SENTID: 11
+SENT: Mix bread crumbs with 1/4 cup Cheddar cheese in a bowl and sprinkle over the casserole .
+PREDID: 0
+PRED: mix
+  DOBJ: bread crumbs
+  PARG: 1/4 cup cheddar cheese
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until casserole is heated through , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole is heated through , about 20 minutes
+    PREP: until
+

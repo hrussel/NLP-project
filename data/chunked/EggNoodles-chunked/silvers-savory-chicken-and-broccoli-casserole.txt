@@ -1,0 +1,190 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 6 to 8 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C. -RRB- Grease a 9x13 inch casserole dish .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c. -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: grease
+  DOBJ: a 9x13 inch casserole dish
+
+
+SENTID: 4
+SENT: Melt butter in a large saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Saute onion until tender , about 3 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: tender , about 3 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Mix in flour .
+PREDID: 0
+PRED: mix
+  PARG: flour
+    PREP: in
+
+
+SENTID: 7
+SENT: Gradually stir in chicken broth .
+PREDID: 0
+PRED: stir
+  PARG: chicken broth
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 8
+SENT: Slowly stir in milk , and cook , stirring , until sauce begins to thicken .
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+  OARG: slowly
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: sauce begins to thicken
+    PREP: until
+
+
+SENTID: 9
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 10
+SENT: Place cooked noodles in the bottom of casserole dish .
+PREDID: 0
+PRED: place
+  DOBJ: cooked noodles
+  PARG: the bottom of casserole dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Arrange cooked chicken in an even layer over noodles .
+PREDID: 0
+PRED: arrange
+  DOBJ: cooked chicken
+  PARG: an even layer
+    PREP: in
+  PARG: noodles
+    PREP: over
+
+
+SENTID: 12
+SENT: Place broccoli over the chicken .
+PREDID: 0
+PRED: place
+  DOBJ: broccoli
+  PARG: the chicken
+    PREP: over
+
+
+SENTID: 13
+SENT: Pour sauce evenly over the broccoli .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: the broccoli
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 14
+SENT: Combine cheeses , and sprinkle half over the casserole .
+PREDID: 0
+PRED: combine
+  DOBJ: cheeses
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: half
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 15
+SENT: Bake in preheated oven for 20 minutes , or until the cheese melts .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  PARG: the cheese melts
+    PREP: until
+
+
+SENTID: 16
+SENT: Remove from oven , and sprinkle with remaining cheese .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: Allow to set for 5 minutes , until cheese melts .
+PREDID: 0
+PRED: allow
+  PARG: set
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+  PARG: cheese melts
+    PREP: until
+

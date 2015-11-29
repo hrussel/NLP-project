@@ -1,0 +1,136 @@
+SENTID: 0
+SENT: Bring a pot of lightly salted water to a rolling boil over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: a pot of lightly salted water
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook , uncovered , stirring occasionally , until the pasta is cooked through , but still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered , stirring
+  PARG: the pasta is cooked through , but still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Meanwhile , heat a large skillet over medium-high heat and stir in the sausage , green pepper , and onion .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+  OARG: meanwhile
+
+PREDID: 1
+PRED: stir
+  PARG: the sausage , green pepper , onion
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook and stir until the sausage is crumbly , evenly browned , and no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the sausage is crumbly , evenly browned , no longer pink , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 7
+SENT: Bring the 4 cups of water to a boil in a large pot .
+PREDID: 0
+PRED: bring
+  DOBJ: the 4 cups of water
+  PARG: a boil
+    PREP: to
+  PARG: a large pot
+    PREP: in
+
+
+SENTID: 8
+SENT: Stir in the cabbage , the sausage mixture , and the noodles .
+PREDID: 0
+PRED: stir
+  PARG: the cabbage , the sausage mixture , the noodles
+    PREP: in
+
+
+SENTID: 9
+SENT: Simmer over medium-low heat , stirring occasionally , until the cabbage is tender , about 30 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: medium-low heat , stirring
+    PREP: over
+  PARG: the cabbage is tender , about 30 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 10
+SENT: Add water while cooking if needed ;
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: cooking
+    PREP: while
+  PARG: needed
+    PREP: if
+
+
+SENTID: 11
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Garnish with sour cream if desired .
+PREDID: 0
+PRED: garnish
+  PARG: sour cream
+    PREP: with
+  PARG: desired
+    PREP: if
+

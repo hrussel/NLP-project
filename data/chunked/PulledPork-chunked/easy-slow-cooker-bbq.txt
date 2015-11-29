@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Place pork roast in a slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: pork roast
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Pour vinegar over pork , coating all sides ;
+PREDID: 0
+PRED: pour
+  DOBJ: vinegar
+  PARG: pork
+    PREP: over
+
+PREDID: 1
+PRED: coating
+  DOBJ: all sides
+
+
+SENTID: 2
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Cook on Low for 10 to 12 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 10 to 12 hours
+    PREP: for
+
+
+SENTID: 4
+SENT: Transfer pork to a platter .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a platter
+    PREP: to
+
+
+SENTID: 5
+SENT: Drain and discard juices from the slow cooker .
+PREDID: 0
+PRED: drain
+  DOBJ: juices
+
+PREDID: 1
+PRED: discard
+  PARG: the slow cooker
+    PREP: from
+
+
+SENTID: 6
+SENT: Chop pork and return to the slow cooker .
+PREDID: 0
+PRED: chop
+  DOBJ: pork
+
+PREDID: 1
+PRED: return
+  PARG: the slow cooker
+    PREP: to
+
+
+SENTID: 7
+SENT: Add barbeque sauce and continue to cook for 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: barbeque sauce
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: 30 minutes
+    PREP: for
+

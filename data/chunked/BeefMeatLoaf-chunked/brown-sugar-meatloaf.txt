@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 5x9 inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 5x9 inch loaf pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Press the brown sugar in the bottom of the prepared loaf pan and spread the ketchup over the sugar .
+PREDID: 0
+PRED: press
+  DOBJ: the brown sugar
+  PARG: the bottom of the prepared loaf pan
+    PREP: in
+
+PREDID: 1
+PRED: spread
+  DOBJ: the ketchup
+  PARG: the sugar
+    PREP: over
+
+
+SENTID: 3
+SENT: In a mixing bowl , mix thoroughly all remaining ingredients and shape into a loaf .
+PREDID: 0
+PRED: mix
+  DOBJ: all remaining ingredients
+  PARG: a mixing bowl
+    PREP: in
+  OARG: thoroughly
+
+PREDID: 1
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 4
+SENT: Place on top of the ketchup .
+PREDID: 0
+PRED: place
+  PARG: top of the ketchup
+    PREP: on
+
+
+SENTID: 5
+SENT: Bake in preheated oven for 1 hour or until juices are clear .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: juices are clear
+    PREP: until
+

@@ -1,0 +1,230 @@
+SENTID: 0
+SENT: Hard boil the eggs by placing them into a saucepan in a single layer .
+PREDID: 0
+PRED: boil
+  DOBJ: the eggs
+  PARG: placing them
+    PREP: by
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+  OARG: hard
+
+
+SENTID: 1
+SENT: Fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 2
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Pour out the hot water , then cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 5
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 6
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Once the water is boiling , stir in the bow tie pasta and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the bow tie pasta
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 12 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 12 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: Drain well in a colander set in the sink , and rinse with cold water .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 10
+SENT: Simmer the chicken tenders in about 1/4 cup of water in a saucepan over medium-low heat , until no longer pink inside .
+PREDID: 0
+PRED: simmer
+  DOBJ: the chicken tenders
+  PARG: about 1/4 cup of water
+    PREP: in
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+  PARG: no longer pink inside
+    PREP: until
+
+
+SENTID: 11
+SENT: Remove the tenders from the water , and set aside to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: the tenders
+  PARG: the water
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 12
+SENT: Cut the tenders into bite-size pieces . Slice the eggs .
+PREDID: 0
+PRED: cut
+  DOBJ: the tenders
+  PARG: bite-size pieces
+    PREP: into
+
+PREDID: 1
+PRED: slice
+  DOBJ: the eggs
+
+
+SENTID: 13
+SENT: Combine the cooked pasta , chicken , eggs , cucumber , radishes , carrots , green onions , and red onion in a salad bowl , and pour the Italian dressing over .
+PREDID: 0
+PRED: combine
+  DOBJ: the cooked pasta , chicken , eggs , cucumber , radishes , carrots , green onions , red onion
+  PARG: a salad bowl
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: the italian dressing
+
+
+SENTID: 14
+SENT: Toss lightly to mix , and refrigerate the salad for at least 1 hour , or until cold .
+PREDID: 0
+PRED: toss
+  PARG: mix
+    PREP: to
+  OARG: lightly
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: the salad
+  PARG: at least 1 hour
+    PREP: for
+  PARG: cold
+    PREP: until
+
+
+SENTID: 15
+SENT: Place about 3/4 cup of sliced romaine hearts on each plate , then top with about 1 cup of pasta-chicken salad to serve .
+PREDID: 0
+PRED: place
+  PARG: 3/4 cup of sliced romaine hearts
+    PREP: about
+  PARG: each plate
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: about 1 cup of pasta-chicken salad
+    PREP: with
+  PARG: serve
+    PREP: to
+

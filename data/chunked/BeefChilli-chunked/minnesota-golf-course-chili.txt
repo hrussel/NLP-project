@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: In a large pot over medium heat , cook beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in celery , bell pepper , onion , garlic , tomatoes , tomato paste , sugar , water and beans .
+PREDID: 0
+PRED: stir
+  PARG: celery , bell pepper , onion , garlic , tomatoes , tomato paste , sugar , water, beans
+    PREP: in
+
+
+SENTID: 2
+SENT: Season with chili powder , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: chili powder , salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Reduce heat and simmer 1 hour .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  OARG: 1 hour
+

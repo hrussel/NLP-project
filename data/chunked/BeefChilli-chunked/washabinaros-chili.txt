@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Place 2 tablespoons of oil in a large pot and place the pot over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: 2 tablespoons of oil
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: place
+  DOBJ: the pot
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir the onions , garlic , beef and sausage until meats are browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the onions , garlic , beef, sausage
+
+PREDID: 1
+PRED: stir
+  PARG: meats are browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour in the tomatoes , beer , coffee , tomato paste and broth .
+PREDID: 0
+PRED: pour
+  PARG: the tomatoes , beer , coffee , tomato paste, broth
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with chili powder , cumin , sugar , oregano , cayenne , coriander , salt and wasabi .
+PREDID: 0
+PRED: season
+  PARG: chili powder , cumin , sugar , oregano , cayenne , coriander , salt, wasabi
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir in one can of beans , bring to a boil , then reduce heat , cover and simmer .
+PREDID: 0
+PRED: stir
+  PARG: one can of beans
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 2
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 3
+PRED: cover
+
+PREDID: 4
+PRED: simmer
+
+
+SENTID: 5
+SENT: In a large skillet over medium heat , heat remaining oil .
+PREDID: 0
+PRED: heat
+  DOBJ: remaining oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook Anaheim , serrano and habanero peppers in oil until just tender , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: anaheim , serrano, habanero peppers
+  PARG: oil
+    PREP: in
+  PARG: just tender , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir into the pot and simmer 2 hours .
+PREDID: 0
+PRED: stir
+  PARG: the pot
+    PREP: into
+
+PREDID: 1
+PRED: simmer
+  OARG: 2 hours
+
+
+SENTID: 8
+SENT: Stir in remaining 2 cans of beans and cook 45 minutes more .
+PREDID: 0
+PRED: stir
+  PARG: remaining 2 cans of beans
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 45 minutes more
+

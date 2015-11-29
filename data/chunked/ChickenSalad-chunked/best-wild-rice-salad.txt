@@ -1,0 +1,140 @@
+SENTID: 0
+SENT: In a medium saucepan , cover wild rice with three inches -LRB- 7.5 cm -RRB- of salted water .
+PREDID: 0
+PRED: cover
+  DOBJ: rice
+  PARG: a medium saucepan
+    PREP: in
+  PARG: three inches -lrb- 7.5 cm -rrb- of salted water
+    PREP: with
+  OARG: wild
+
+
+SENTID: 1
+SENT: Bring to a boil and boil , uncovered , for 30 minutes , or until tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: boil
+  DOBJ: uncovered
+  PARG: 30 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain the excess water , turn heat to lowest setting , cover rice and let steam for 15-20 minutes , or until the grains split open .
+PREDID: 0
+PRED: drain
+  DOBJ: the excess water
+
+PREDID: 1
+PRED: turn
+  DOBJ: heat
+  PARG: lowest setting
+    PREP: to
+
+PREDID: 2
+PRED: cover
+  DOBJ: rice, let steam
+  PARG: 15-20 minutes
+    PREP: for
+  PARG: the grains split open
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from heat and let cool .
+PREDID: 0
+PRED: remove
+  PARG: heat, let cool
+    PREP: from
+
+
+SENTID: 4
+SENT: In a medium skillet over medium heat , saute the chicken lightly in the butter and oil , cooking gently and thoroughly .
+PREDID: 0
+PRED: saute
+  DOBJ: the chicken
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the butter
+    PREP: in
+  OARG: lightly
+
+PREDID: 1
+PRED: oil
+  DOBJ: cooking
+  OARG: gently
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Cool and shred the chicken into bite-size pieces . In a medium bowl , mix together the rice , chicken and water chestnuts .
+PREDID: 0
+PRED: cool
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: shred
+  PARG: bite-size pieces
+    PREP: into
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 2
+PRED: mix
+  DOBJ: the rice , chicken, water chestnuts
+  OARG: together
+
+
+SENTID: 6
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: For the dressing , whisk together the walnut oil , vinegar , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the walnut oil , vinegar , salt, pepper
+  PARG: the dressing
+    PREP: for
+  OARG: together
+
+
+SENTID: 8
+SENT: Pour over the wild rice mixture and combine .
+PREDID: 0
+PRED: pour
+  PARG: the wild rice mixture
+    PREP: over
+
+PREDID: 1
+PRED: combine
+
+
+SENTID: 9
+SENT: To serve , place 2-3 romaine leaves on each plate and spoon the wild rice mixture onto the leaves .
+PREDID: 0
+PRED: place
+  DOBJ: 2-3 romaine leaves
+  PARG: serve
+    PREP: to
+  PARG: each plate
+    PREP: on
+
+PREDID: 1
+PRED: spoon
+  DOBJ: the wild rice mixture
+  PARG: the leaves
+    PREP: onto
+

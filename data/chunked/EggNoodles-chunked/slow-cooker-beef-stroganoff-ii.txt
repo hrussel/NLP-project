@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Heat oil in a large skillet over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Roll the beef in flour and saute in the hot oil until well browned , about 5 minutes .
+PREDID: 0
+PRED: roll
+  DOBJ: the beef
+  PARG: flour
+    PREP: in
+
+PREDID: 1
+PRED: saute
+  PARG: the hot oil
+    PREP: in
+  PARG: well browned , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer the meat to the slow cooker and top with the soup , water and bouillon .
+PREDID: 0
+PRED: transfer
+  DOBJ: the meat
+  PARG: the slow cooker
+    PREP: to
+
+PREDID: 1
+PRED: top
+  PARG: the soup , water, bouillon
+    PREP: with
+
+
+SENTID: 3
+SENT: Cook on high setting for 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: high setting
+    PREP: on
+  PARG: 8 hours
+    PREP: for
+
+
+SENTID: 4
+SENT: Stir in the sour cream during the last 30 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the sour cream
+    PREP: in
+  PARG: the last 30 minutes
+    PREP: during
+
+
+SENTID: 5
+SENT: Cook the egg noodles according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: the egg noodles according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 6
+SENT: Serve the meat over the noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: the meat
+  PARG: the noodles
+    PREP: over
+

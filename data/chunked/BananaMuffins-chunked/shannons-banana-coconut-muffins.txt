@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour 12 muffins cups or line with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffins cups or line
+
+PREDID: 1
+PRED: flour
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Beat sugar and margarine together in a bowl using an electric mixer until smooth and creamy ;
+PREDID: 0
+PRED: beat
+  DOBJ: using an electric mixer
+  PARG: a bowl
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+  OARG: together
+  OARG: sugar, margarine
+
+
+SENTID: 3
+SENT: stir in eggs .
+PREDID: 0
+PRED: stir
+  PARG: eggs
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir bananas into margarine mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: bananas
+  PARG: margarine mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: stir in vanilla extract .
+PREDID: 0
+PRED: stir
+  PARG: vanilla extract
+    PREP: in
+
+
+SENTID: 6
+SENT: Whisk flour , baking powder , and salt together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: flour , baking powder , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: stir into margarine mixture until just combined .
+PREDID: 0
+PRED: stir
+  PARG: margarine mixture
+    PREP: into
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Fold oranges and coconut into batter .
+PREDID: 0
+PRED: fold
+  DOBJ: oranges, coconut
+  PARG: batter
+    PREP: into
+
+
+SENTID: 9
+SENT: Spoon batter into muffin tins .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: muffin tins
+    PREP: into
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean , 20 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the center of a muffin comes out clean , 20 to 30 minutes
+    PREP: until
+

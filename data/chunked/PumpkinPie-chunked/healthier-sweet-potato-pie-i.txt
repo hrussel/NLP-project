@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Boil sweet potato whole in skin in a small pot until done , 40 to 50 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: sweet potato whole
+  PARG: skin
+    PREP: in
+  PARG: a small pot
+    PREP: in
+  PARG: done , 40 to 50 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain , cool sweet potato with cold water , and remove skin .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  DOBJ: sweet potato
+  PARG: cold water
+    PREP: with
+
+PREDID: 2
+PRED: remove
+  DOBJ: skin
+
+
+SENTID: 2
+SENT: Break sweet potato apart in a large bowl .
+PREDID: 0
+PRED: break
+  DOBJ: sweet potato
+  PARG: a large bowl
+    PREP: in
+  OARG: apart
+
+
+SENTID: 3
+SENT: Mix in butter and beat well with an electric mixer .
+PREDID: 0
+PRED: mix
+  PARG: butter
+    PREP: in
+
+PREDID: 1
+PRED: beat
+  PARG: an electric mixer
+    PREP: with
+  OARG: well
+
+
+SENTID: 4
+SENT: Beat in sugar , milk , eggs , nutmeg , cinnamon , and vanilla extract on medium speed until mixture is smooth .
+PREDID: 0
+PRED: beat
+  PARG: sugar , milk , eggs , nutmeg , cinnamon , vanilla extract
+    PREP: in
+  PARG: medium speed
+    PREP: on
+  PARG: mixture is smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour filling into unbaked pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: unbaked pie crust
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in preheated oven until knife inserted in center comes out clean , 45 to 55 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: knife inserted in center comes out clean , 45 to 55 minutes
+    PREP: until
+

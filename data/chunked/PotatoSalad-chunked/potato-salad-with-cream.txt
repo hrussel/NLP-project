@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Peel the potatoes and add to a large pot of boiling salted water .
+PREDID: 0
+PRED: peel
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: add
+  PARG: a large pot of boiling salted water
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool and cube .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cube
+
+
+SENTID: 3
+SENT: Place into a large bowl and set aside .
+PREDID: 0
+PRED: place
+  PARG: a large bowl
+    PREP: into
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a double boiler , bring vinegar to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: vinegar
+  PARG: a double boiler
+    PREP: in
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Gradually beat in eggs and cook over simmering water until thickened .
+PREDID: 0
+PRED: beat
+  PARG: eggs
+    PREP: in
+  OARG: gradually
+
+PREDID: 1
+PRED: cook
+  PARG: simmering water
+    PREP: over
+  PARG: thickened
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in butter and cook 1 minute .
+PREDID: 0
+PRED: stir
+  PARG: butter
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 1 minute
+
+
+SENTID: 7
+SENT: Whisk in cream , parsley , onion , mustard , salt , pepper and cayenne .
+PREDID: 0
+PRED: whisk
+  PARG: cream , parsley , onion , mustard , salt , pepper, cayenne
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour over hot potatoes and combine .
+PREDID: 0
+PRED: pour
+  PARG: hot potatoes
+    PREP: over
+
+PREDID: 1
+PRED: combine
+
+
+SENTID: 9
+SENT: Cool , sprinkle with parsley and refrigerate until serving time .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: sprinkle
+  PARG: parsley
+    PREP: with
+
+PREDID: 2
+PRED: refrigerate
+  PARG: serving time
+    PREP: until
+

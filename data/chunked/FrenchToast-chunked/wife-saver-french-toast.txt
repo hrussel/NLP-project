@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+
+
+SENTID: 1
+SENT: Stir the brown sugar , corn syrup , and butter together in a saucepan over medium-high heat until bubbly .
+PREDID: 0
+PRED: stir
+  DOBJ: the brown sugar , corn syrup , butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: bubbly
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour into the prepared baking dish , then arrange the sliced French bread evenly over the syrup .
+PREDID: 0
+PRED: pour
+  PARG: the prepared baking dish
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: arrange
+  DOBJ: the sliced french bread
+  PARG: the syrup
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 3
+SENT: Whisk together the eggs , milk , vanilla extract , flour , and salt until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , vanilla extract , flour , salt
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Pour over the French bread .
+PREDID: 0
+PRED: pour
+  PARG: the french bread
+    PREP: over
+
+
+SENTID: 5
+SENT: Cover , and refrigerate overnight .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Stir together the white sugar and ground cinnamon ;
+PREDID: 0
+PRED: stir
+  DOBJ: the white sugar, ground cinnamon
+  OARG: together
+
+
+SENTID: 8
+SENT: sprinkle over the french toast .
+PREDID: 0
+PRED: sprinkle
+  PARG: the french toast
+    PREP: over
+
+
+SENTID: 9
+SENT: Bake in preheated oven until golden brown on top , about 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: golden brown on top , about 50 minutes
+    PREP: until
+

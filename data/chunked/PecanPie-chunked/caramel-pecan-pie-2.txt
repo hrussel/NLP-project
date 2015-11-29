@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat eggs slightly with fork in mixing bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: fork
+    PREP: with
+  PARG: mixing bowl
+    PREP: in
+  OARG: slightly
+
+
+SENTID: 2
+SENT: Add sugar , stirring until dissolved .
+PREDID: 0
+PRED: add
+  DOBJ: sugar , stirring
+  PARG: dissolved
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in topping and butter ;
+PREDID: 0
+PRED: stir
+  PARG: topping
+    PREP: in
+
+PREDID: 1
+PRED: butter
+
+
+SENTID: 4
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Stir in pecan halves .
+PREDID: 0
+PRED: stir
+  PARG: pecan halves
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F for 45 minutes or until knife inserted off-center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f
+    PREP: at
+  PARG: 45 minutes
+    PREP: for
+  PARG: knife inserted off-center comes out clean
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool thoroughly on rack before serving .
+PREDID: 0
+PRED: cool
+  PARG: rack
+    PREP: on
+  PARG: serving
+    PREP: before
+  OARG: thoroughly
+
+
+SENTID: 9
+SENT: Cover ;
+PREDID: 0
+PRED: cover
+
+
+SENTID: 10
+SENT: chill to store .
+PREDID: 0
+PRED: chill
+  PARG: store
+    PREP: to
+

@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Heat peanut oil in a large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: peanut oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: fry almonds in hot oil until golden , about 2 minutes .
+PREDID: 0
+PRED: fry
+  DOBJ: almonds
+  PARG: hot oil
+    PREP: in
+  PARG: golden , about 2 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove almonds from skillet with a slotted spoon .
+PREDID: 0
+PRED: remove
+  DOBJ: almonds
+  PARG: skillet
+    PREP: from
+  PARG: a slotted spoon
+    PREP: with
+
+
+SENTID: 3
+SENT: Stir fry chicken in remaining peanut oil until lightly browned , 2 to 3 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: fry chicken
+  PARG: remaining peanut oil
+    PREP: in
+  PARG: lightly browned , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in soy sauce , ginger , salt , and black pepper until fragrant , about 1 minutes .
+PREDID: 0
+PRED: stir
+  PARG: soy sauce , ginger , salt , black pepper
+    PREP: in
+  PARG: fragrant , about 1 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Add mushrooms , onion , celery , and bok choy ;
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms , onion , celery , bok choy
+
+
+SENTID: 6
+SENT: continue to cook and stir until vegetables begin to soften , about 2 minutes .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: vegetables
+    PREP: until
+
+PREDID: 2
+PRED: begin
+  PARG: 2 minutes
+    PREP: about
+  OARG: to soften
+
+
+SENTID: 7
+SENT: Pour chicken broth into skillet , cover , and simmer until chicken is no longer pink in the center , about 3 more minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: chicken broth
+  PARG: skillet
+    PREP: into
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: simmer
+  PARG: chicken is no longer pink in the center , about 3 more minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Mix water and cornstarch in a small bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: water, cornstarch
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: stir into chicken mixture and cook until sauce is thickened , about 3 minutes .
+PREDID: 0
+PRED: stir
+  PARG: chicken mixture
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: sauce is thickened , about 3 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Sprinkle with almonds to serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: almonds
+    PREP: with
+  PARG: serve
+    PREP: to
+

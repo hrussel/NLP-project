@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: In a large pot , add the potatoes and enough water to cover .
+PREDID: 0
+PRED: add
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: in
+  PARG: cover
+    PREP: to
+  OARG: enough
+
+
+SENTID: 1
+SENT: Add the salt and bring the water to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: the salt
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the potatoes for 10 to 15 minutes or until tender when pierced with a fork .
+PREDID: 0
+PRED: cook
+  DOBJ: the potatoes
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: tender when pierced with a fork
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and set aside to cool slightly .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+  OARG: to cool
+  OARG: slightly
+
+
+SENTID: 4
+SENT: In a large bowl , mix the potatoes , green onion , and dressing together until well coated .
+PREDID: 0
+PRED: mix
+  DOBJ: the potatoes , green onion , dressing
+  PARG: a large bowl
+    PREP: in
+  PARG: well coated
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Chill covered for at least 1 hour .
+PREDID: 0
+PRED: chill
+  DOBJ: covered
+  PARG: at least 1 hour
+    PREP: for
+
+
+SENTID: 6
+SENT: Season with salt to taste and serve garnished with chives and freshly ground pepper .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: serve
+  DOBJ: ground pepper
+  PARG: chives
+    PREP: with
+  OARG: freshly
+  OARG: garnished
+

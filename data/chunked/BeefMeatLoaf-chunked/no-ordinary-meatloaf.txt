@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 9x5 inch loaf pan with nonstick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x5 inch loaf pan
+  PARG: nonstick cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In food processor or blender , pulse stuffing mix to fine crumbs ;
+PREDID: 0
+PRED: pulse
+  DOBJ: stuffing mix
+  PARG: food processor or blender
+    PREP: in
+  PARG: fine crumbs
+    PREP: to
+
+
+SENTID: 3
+SENT: place in large bowl .
+PREDID: 0
+PRED: place
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in ground beef , ground pork , onion , green pepper , tomatoes , eggs , seasoned salt , seasoning blend , and pepper .
+PREDID: 0
+PRED: stir
+  PARG: ground beef , ground pork , onion , green pepper , tomatoes , eggs , seasoned salt , seasoning blend , pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: Use your hands to mix very well ;
+PREDID: 0
+PRED: use
+  DOBJ: your hands
+  PARG: mix
+    PREP: to
+  OARG: very
+  OARG: well
+
+
+SENTID: 6
+SENT: pat into prepared pan .
+PREDID: 0
+PRED: pat
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in preheated oven until no longer pink in the center , 45 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: no longer pink in the center , 45 minutes to 1 hour
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool for 5 to 10 minutes before slicing .
+PREDID: 0
+PRED: cool
+  PARG: 5 to 10 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+

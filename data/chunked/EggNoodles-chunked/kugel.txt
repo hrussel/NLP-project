@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add egg noodles and cook for 10 to 12 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 10 to 12 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Mix together in a bowl , cooked egg noodles , butter and eggs .
+PREDID: 0
+PRED: mix
+  PARG: a bowl , cooked egg noodles , butter, eggs
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir until all is blended ;
+PREDID: 0
+PRED: stir
+  PARG: all is blended
+    PREP: until
+
+
+SENTID: 6
+SENT: season as desired .
+PREDID: 0
+PRED: season
+  PARG: desired
+    PREP: as
+
+
+SENTID: 7
+SENT: Pour in 2 9x9 inch baking pans .
+PREDID: 0
+PRED: pour
+  PARG: 2 9x9 inch baking pans
+    PREP: in
+
+
+SENTID: 8
+SENT: Bake for one hour .
+PREDID: 0
+PRED: bake
+  PARG: one hour
+    PREP: for
+

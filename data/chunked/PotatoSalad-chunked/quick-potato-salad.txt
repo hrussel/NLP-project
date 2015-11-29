@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until soft , 5 to 7 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: soft , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and rinse with cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Combine the potatoes , eggs , cucumber , tomato , celery , onion , green onion , mayonnaise , and mustard in a large bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , eggs , cucumber , tomato , celery , onion , green onion , mayonnaise , mustard
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: stir until evenly combined .
+PREDID: 0
+PRED: stir
+  PARG: evenly combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+

@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place saltine crackers into a large , heavy plastic zipper bag , and gently crush into crumbs by rolling the bag with a rolling pin ;
+PREDID: 0
+PRED: place
+  DOBJ: saltine crackers
+  PARG: a large , heavy plastic zipper bag
+    PREP: into
+  PARG: crumbs
+    PREP: into
+  PARG: rolling the bag
+    PREP: by
+  PARG: a rolling pin
+    PREP: with
+  OARG: gently
+
+
+SENTID: 2
+SENT: alternately , place crackers into the work bowl of a food processor and pulse briefly just to break into crumbs .
+PREDID: 0
+PRED: place
+  DOBJ: crackers
+  PARG: the work bowl of a food processor, pulse briefly
+    PREP: into
+  PARG: break
+    PREP: to
+  PARG: crumbs
+    PREP: into
+  OARG: alternately
+  OARG: just
+
+
+SENTID: 3
+SENT: Two sleeves of crackers should make about 3 cups of crumbs .
+PREDID: 0
+PRED: make
+  DOBJ: two sleeves of crackers should
+  PARG: 3 cups of crumbs
+    PREP: about
+
+
+SENTID: 4
+SENT: Reserve 3/4 cup of crumbs ;
+PREDID: 0
+PRED: reserve
+  DOBJ: 3/4 cup of crumbs
+
+
+SENTID: 5
+SENT: place 2Ê1/4 cup of crumbs into a large mixing bowl .
+PREDID: 0
+PRED: place
+  DOBJ: 2Ê1/4 cup of crumbs
+  PARG: a large mixing bowl
+    PREP: into
+
+
+SENTID: 6
+SENT: Mix the 2Ê1/4 cups of cracker crumbs in the mixing bowl with ground beef , Worcestershire sauce , steak sauce , mustard , black pepper , soda , rosemary , cayenne pepper , cinnamon , garlic powder , dill relish , sweet relish , egg , self-rising flour , tomato sauce , and onion until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the 2Ê1/4 cups of cracker crumbs
+  PARG: the mixing bowl
+    PREP: in
+  PARG: ground beef , worcestershire sauce , steak sauce , mustard , black pepper , soda , rosemary , cayenne pepper , cinnamon , garlic powder , dill relish , sweet relish , egg , self-rising flour , tomato sauce , onion
+    PREP: with
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 7
+SENT: Form into a loaf , and place into a 9x12-inch baking dish .
+PREDID: 0
+PRED: form
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a 9x12-inch baking dish
+    PREP: into
+
+
+SENTID: 8
+SENT: Top the loaf with the reserved cracker crumbs .
+PREDID: 0
+PRED: top
+  DOBJ: the loaf
+  PARG: the reserved cracker crumbs
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until the loaf is browned , no longer pink inside , and the juices run clear , about 45 minutes to 1 hour , checking after 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the loaf is browned , no longer pink inside , the juices run clear , about 45 minutes to 1 hour , checking after 45 minutes
+    PREP: until
+

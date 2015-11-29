@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Place eggs in a large saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a large saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Slice eggs in half lengthwise and remove yolks .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: yolks
+
+
+SENTID: 5
+SENT: Place yolks in a medium bowl .
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mash together with ranch-style salad dressing .
+PREDID: 0
+PRED: mash
+  PARG: ranch-style salad dressing
+    PREP: with
+  OARG: together
+
+
+SENTID: 7
+SENT: Mix in the cream cheese , then the onion and dill pickle .
+PREDID: 0
+PRED: mix
+  DOBJ: the onion, dill pickle
+  PARG: the cream cheese
+    PREP: in
+  OARG: then
+
+
+SENTID: 8
+SENT: Fill the hollowed egg whites generously with the egg yolk mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: the hollowed egg whites
+  PARG: the egg yolk mixture
+    PREP: with
+  OARG: generously
+
+
+SENTID: 9
+SENT: Chill in the refrigerator until serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: serving
+    PREP: until
+

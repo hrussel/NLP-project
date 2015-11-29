@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Mix together balsamic vinegar , olive oil , white sugar , and water .
+PREDID: 0
+PRED: mix
+  DOBJ: balsamic vinegar , olive oil , white sugar , water
+  OARG: together
+
+
+SENTID: 1
+SENT: Combine marinade with chicken pieces in a plastic bag .
+PREDID: 0
+PRED: combine
+  DOBJ: marinade
+  PARG: chicken pieces
+    PREP: with
+  PARG: a plastic bag
+    PREP: in
+
+
+SENTID: 2
+SENT: Leave in bag for 1 hour .
+PREDID: 0
+PRED: leave
+  PARG: bag
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 3
+SENT: Cook drained chicken in a skillet until done , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: drained chicken
+  PARG: a skillet
+    PREP: in
+  PARG: done , about 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Assemble greens , egg , olives , radishes , and crumbled bacon on a dinner plate .
+PREDID: 0
+PRED: assemble
+  DOBJ: greens , egg , olives , radishes , crumbled bacon
+  PARG: a dinner plate
+    PREP: on
+
+
+SENTID: 5
+SENT: Top with chicken .
+PREDID: 0
+PRED: top
+  PARG: chicken
+    PREP: with
+

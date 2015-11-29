@@ -1,0 +1,224 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 3-quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 3-quart casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Fill a large pot with water , and bring to a boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Stir in the shrimp , reduce heat to a simmer , and cook the shrimp until opaque and bright pink , about 3 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the shrimp
+    PREP: in
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  DOBJ: the shrimp
+  PARG: opaque, bright pink , about 3 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove the shrimp to a bowl with a slotted spoon .
+PREDID: 0
+PRED: remove
+  DOBJ: the shrimp
+  PARG: a bowl
+    PREP: to
+  PARG: a slotted spoon
+    PREP: with
+
+
+SENTID: 5
+SENT: Return the water to a full rolling boil over high heat , and stir in the noodles .
+PREDID: 0
+PRED: return
+  DOBJ: the water
+  PARG: a full rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the noodles
+    PREP: in
+
+
+SENTID: 6
+SENT: Cook until the noodles are tender , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  PARG: the noodles are tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: drain in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 8
+SENT: Melt 2 tablespoons of butter in a saucepan over medium heat , and stir the flour into the butter to make a paste .
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons of butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  DOBJ: the flour
+  PARG: the butter
+    PREP: into
+  PARG: make a paste
+    PREP: to
+
+
+SENTID: 9
+SENT: Remove the pan from the heat ;
+PREDID: 0
+PRED: remove
+  DOBJ: the pan
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 10
+SENT: slowly whisk in the milk and cream until smooth .
+PREDID: 0
+PRED: whisk
+  PARG: the milk
+    PREP: in
+  OARG: slowly
+
+PREDID: 1
+PRED: cream
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: Season to taste with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Return the sauce to the heat , lower heat to a simmer , and whisk constantly until the sauce thickens , about 5 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: the sauce
+  PARG: the heat
+    PREP: to
+
+PREDID: 1
+PRED: lower
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: whisk
+  PARG: the sauce thickens , about 5 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 13
+SENT: Place noodles into the prepared casserole dish , and top with peas , mushrooms , and cooked shrimp .
+PREDID: 0
+PRED: place
+  DOBJ: noodles
+  PARG: the prepared casserole dish
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: peas , mushrooms , cooked shrimp
+    PREP: with
+
+
+SENTID: 14
+SENT: Pour the sauce over the casserole , and sprinkle the crushed cracker crumbs evenly over the top .
+PREDID: 0
+PRED: pour
+  DOBJ: the sauce
+  PARG: the casserole
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: the crushed cracker crumbs
+  PARG: the top
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 15
+SENT: Dot the top of the casserole with about 6 thin slices of butter .
+PREDID: 0
+PRED: dot
+  DOBJ: the top of the casserole
+  PARG: about 6 thin slices of butter
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake in the preheated oven until the cracker topping is crisp and golden brown , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the cracker topping is crisp, golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 1 hour
+    PREP: about
+

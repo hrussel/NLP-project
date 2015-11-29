@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add penne pasta and cook for 8 to 10 minutes , add broccoli a few minutes before pasta is done ;
+PREDID: 0
+PRED: add
+  DOBJ: penne pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+
+PREDID: 2
+PRED: add
+  PARG: pasta is done
+    PREP: before
+  OARG: broccoli a few minutes
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Cook the chicken in a pan , seasoning with lemon pepper as it cooks .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+  PARG: a pan , seasoning
+    PREP: in
+  PARG: lemon pepper
+    PREP: with
+  PARG: it cooks
+    PREP: as
+
+
+SENTID: 4
+SENT: When the chicken is no longer pink inside , cut into small pieces . Combine chicken to pasta-broccoli mixture .
+PREDID: 0
+PRED: cut
+  DOBJ: inside
+  PARG: small pieces . combine chicken
+    PREP: into
+  PARG: pasta-broccoli mixture
+    PREP: to
+  OARG: when the chicken is no longer pink
+
+
+SENTID: 5
+SENT: Stir in oil and sliced green onion and add lemon pepper to taste .
+PREDID: 0
+PRED: stir
+  PARG: oil, sliced green onion
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: lemon pepper
+  PARG: taste
+    PREP: to
+

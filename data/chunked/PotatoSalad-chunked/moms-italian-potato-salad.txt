@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Place potatoes in a large saucepan , cover with water , and bring to a boil over high heat .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Reduce the heat to medium-low , and simmer until the potatoes are tender , about 15 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium-low , simmer
+    PREP: to
+  PARG: the potatoes are tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and cool , then cut into 1-inch cubes .
+PREDID: 0
+PRED: drain
+  OARG: then
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  PARG: 1-inch cubes
+    PREP: into
+
+
+SENTID: 3
+SENT: Combine the potatoes , cucumber , celery , onion , and olives in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , cucumber , celery , onion , olives
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Whisk together the olive oil , red wine vinegar , and garlic powder in a small bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the olive oil , red wine vinegar , garlic powder
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour the dressing over the potatoes and vegetables ;
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potatoes, vegetables
+    PREP: over
+
+
+SENTID: 6
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: Season with salt and pepper , then chill .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 8
+SENT: Stir the potato salad again before serving .
+PREDID: 0
+PRED: stir
+  DOBJ: the potato salad
+  PARG: serving
+    PREP: before
+  OARG: again
+

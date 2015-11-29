@@ -1,0 +1,69 @@
+SENTID: 0
+SENT: Toss cabbage and chopped green onions together in a large bowl ;
+PREDID: 0
+PRED: toss
+  DOBJ: cabbage, chopped green onions
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: In a separate bowl , slowly whisk oil into vinegar .
+PREDID: 0
+PRED: whisk
+  DOBJ: oil
+  PARG: a separate bowl
+    PREP: in
+  PARG: vinegar
+    PREP: into
+  OARG: slowly
+
+
+SENTID: 3
+SENT: Add water , garlic , salt , pepper , and Italian seasoning , and whisk until well-blended .
+PREDID: 0
+PRED: add
+  DOBJ: water , garlic , salt , pepper , italian seasoning
+
+PREDID: 1
+PRED: whisk
+  PARG: well-blended
+    PREP: until
+
+
+SENTID: 4
+SENT: Toss cabbage with dressing and feta cheese .
+PREDID: 0
+PRED: toss
+  DOBJ: cabbage
+  PARG: dressing, feta cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Cover , and refrigerate 15 minutes or longer to allow flavors to develop .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 15 minutes
+  OARG: longer
+  OARG: to allow flavors
+  OARG: to develop
+
+
+SENTID: 6
+SENT: Serve chilled .
+PREDID: 0
+PRED: serve
+  DOBJ: chilled
+

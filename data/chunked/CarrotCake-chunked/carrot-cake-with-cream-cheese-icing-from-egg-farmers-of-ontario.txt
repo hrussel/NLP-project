@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Cake :
+PREDID: 0
+PRED: cake
+
+
+SENTID: 1
+SENT: Combine sugar , eggs , oil and vanilla in a large bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: sugar , eggs , oil, vanilla
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: beat with an electric mixer until combined .
+PREDID: 0
+PRED: beat
+  PARG: an electric mixer
+    PREP: with
+  PARG: combined
+    PREP: until
+
+
+SENTID: 3
+SENT: Combine flour , baking soda , cinnamon and salt in a medium bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , baking soda , cinnamon, salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Add to liquid ingredients ;
+PREDID: 0
+PRED: add
+  PARG: liquid ingredients
+    PREP: to
+
+
+SENTID: 5
+SENT: beat until combined .
+PREDID: 0
+PRED: beat
+  PARG: combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in pineapple , carrots , walnuts and raisins .
+PREDID: 0
+PRED: stir
+  PARG: pineapple , carrots , walnuts, raisins
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour batter into a greased 12-cup -LRB- 3 L -RRB- Bundt pan or 13 x 9-inch -LRB- 33 x 23 cm -RRB- baking pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: a greased 12-cup -lrb- 3 l -rrb- bundt pan or 13 x 9-inch -lrb- 33 x 23 cm -rrb- baking pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake in a preheated 350 degrees F -LRB- 180 degrees C -RRB- oven until a cake tester inserted in the centre comes out clean -LRB- about 60 to 65 minutes for Bundt pan or 45 to 50 minutes for 13 x 9-inch -LRB- 33 x 23 cm -RRB- baking pan -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degrees f -lrb- 180 degrees c -rrb- oven
+    PREP: in
+  PARG: a cake tester inserted in the centre comes out clean -lrb- about 60 to 65 minutes for bundt pan or 45 to 50 minutes for 13 x 9-inch -lrb- 33 x 23 cm -rrb- baking pan -rrb-
+    PREP: until
+
+
+SENTID: 9
+SENT: Let cake cool before icing .
+PREDID: 0
+PRED: let
+  DOBJ: cake cool
+  PARG: icing
+    PREP: before
+
+
+SENTID: 10
+SENT: Icing :
+PREDID: 0
+PRED: icing
+
+
+SENTID: 11
+SENT: Combine cream cheese , butter , vanilla and icing sugar in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: cream cheese , butter , vanilla, icing sugar
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: Beat with an electric mixer until smooth .
+PREDID: 0
+PRED: beat
+  PARG: an electric mixer
+    PREP: with
+  PARG: smooth
+    PREP: until
+

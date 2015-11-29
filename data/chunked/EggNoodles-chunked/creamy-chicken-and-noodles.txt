@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain and transfer to a large serving bowl .
+PREDID: 0
+PRED: drain
+  PARG: a large serving bowl
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 3
+SENT: Melt butter in a large pot over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: cook and stir onion and garlic in the hot butter until onion is translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the hot butter
+    PREP: in
+  PARG: onion is translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Place flour , milk , and half-and-half in a jar with a lid and shake until flour has smoothly mixed with milk and half-and-half .
+PREDID: 0
+PRED: place
+  DOBJ: flour , milk , half-and-half
+  PARG: a jar
+    PREP: in
+  PARG: a lid
+    PREP: with
+
+PREDID: 1
+PRED: shake
+  PARG: flour has smoothly mixed with milk, half-and-half
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour mixture into skillet and whisk until smooth and thick , about 5 minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: skillet
+    PREP: into
+
+PREDID: 1
+PRED: whisk
+  PARG: smooth, thick , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Gradually whisk chicken broth into sauce and bring to a simmer , whisking constantly .
+PREDID: 0
+PRED: whisk
+  DOBJ: chicken broth
+  PARG: sauce
+    PREP: into
+  OARG: gradually
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer , whisking
+    PREP: to
+  OARG: constantly
+
+
+SENTID: 8
+SENT: Stir cooked chicken and sour cream into sauce , season with salt and black pepper , and mix with cooked noodles to serve .
+PREDID: 0
+PRED: stir
+  DOBJ: cooked chicken, sour cream
+  PARG: sauce
+    PREP: into
+
+PREDID: 1
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+PREDID: 2
+PRED: mix
+  PARG: cooked noodles
+    PREP: with
+  PARG: serve
+    PREP: to
+

@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 9x13-inch baking dish with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x13-inch baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally , until cooked through but firm to the bite , 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Reserve 1/2 cup shredded mild Cheddar cheese for later use Mix mild Cheddar cheese , sharp Cheddar cheese , sour cream , cottage cheese , and egg together in a bowl ;
+PREDID: 0
+PRED: reserve
+  DOBJ: 1/2 cup shredded mild cheddar cheese
+  PARG: later use mix mild cheddar cheese , sharp cheddar cheese , sour cream , cottage cheese , egg
+    PREP: for
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir cooked macaroni into cheese mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: cooked macaroni
+  PARG: cheese mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: Pour macaroni mixture evenly into the prepared baking dish ;
+PREDID: 0
+PRED: pour
+  DOBJ: macaroni mixture
+  PARG: the prepared baking dish
+    PREP: into
+  OARG: evenly
+
+
+SENTID: 9
+SENT: sprinkle with the reserved 1/2 cup Cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: the reserved 1/2 cup cheddar cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until cheese is melted and bubbling , 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is melted, bubbling , 40 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Let cool for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

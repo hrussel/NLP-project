@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil , then reduce heat to medium-low , cover , and simmer until tender enough to pierce with a fork , about 30 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender enough to pierce with a fork , about 30 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow cool , then peel and dice .
+PREDID: 0
+PRED: drain
+  DOBJ: cool
+
+PREDID: 1
+PRED: allow
+  OARG: then
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: dice
+
+
+SENTID: 3
+SENT: Place the diced potatoes into a large mixing bowl and refrigerate until cold .
+PREDID: 0
+PRED: place
+  DOBJ: the diced potatoes
+  PARG: a large mixing bowl
+    PREP: into
+
+PREDID: 1
+PRED: refrigerate
+  PARG: cold
+    PREP: until
+
+
+SENTID: 4
+SENT: Once cold , fold in the mayonnaise , celery , eggs , chicken , mustard , olives , salt , and pickles .
+PREDID: 0
+PRED: fold
+  DOBJ: cold
+  PARG: the mayonnaise , celery , eggs , chicken , mustard , olives , salt , pickles
+    PREP: in
+  OARG: once
+
+
+SENTID: 5
+SENT: Refrigerate 2 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+  OARG: 2 hours
+

@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Heat oil in a large , heavy skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large , heavy skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook the shredded potatoes until golden brown on both sides .
+PREDID: 0
+PRED: cook
+  DOBJ: the shredded potatoes
+  PARG: golden brown on both sides
+    PREP: until
+
+
+SENTID: 2
+SENT: In a small bowl combine the melted processed cheese with the diced tomatoes with chiles .
+PREDID: 0
+PRED: combine
+  DOBJ: the melted processed cheese
+  PARG: a small bowl
+    PREP: in
+  PARG: the diced tomatoes
+    PREP: with
+  PARG: chiles
+    PREP: with
+
+
+SENTID: 3
+SENT: Stir in half of the peas and half of the corn , and mash them into the hash browns .
+PREDID: 0
+PRED: stir
+  PARG: half of the peas, half of the corn
+    PREP: in
+
+PREDID: 1
+PRED: mash
+  DOBJ: them
+  PARG: the hash browns
+    PREP: into
+
+
+SENTID: 4
+SENT: When well combined , add the remaining peas and corn ;
+PREDID: 0
+PRED: add
+  DOBJ: the remaining peas, corn
+  OARG: when well combined
+
+
+SENTID: 5
+SENT: continue mashing to combine .
+PREDID: 0
+PRED: continue
+  DOBJ: mashing
+  PARG: combine
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir in about 1 cup of the cheese and tomato mixture and mix well .
+PREDID: 0
+PRED: stir
+  PARG: about 1 cup of the cheese, tomato mixture
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: Cook for 10 minutes , or until heated through .
+PREDID: 0
+PRED: cook
+  PARG: 10 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 8
+SENT: Spoon the potato mixture into the tortillas and roll like a burrito .
+PREDID: 0
+PRED: spoon
+  DOBJ: the potato mixture
+  PARG: the tortillas
+    PREP: into
+
+PREDID: 1
+PRED: roll
+  PARG: a burrito
+    PREP: like
+
+
+SENTID: 9
+SENT: Smother with cheese/tomato mixture .
+PREDID: 0
+PRED: smother
+  PARG: cheese/tomato mixture
+    PREP: with
+

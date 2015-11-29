@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: In a small bowl , combine the bay leaves , salt , cayenne pepper , ground black pepper , ground white pepper , cumin , and nutmeg ;
+PREDID: 0
+PRED: combine
+  DOBJ: the bay leaves , salt , cayenne pepper , ground black pepper , ground white pepper , cumin , nutmeg
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Melt the butter or margarine in a saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter or margarine
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Add the onion , bell pepper , green onions , garlic , hot pepper sauce , Worcestershire sauce , and reserved seasoning mix .
+PREDID: 0
+PRED: add
+  DOBJ: the onion , bell pepper , green onions , garlic , hot pepper sauce , worcestershire sauce , reserved seasoning mix
+
+
+SENTID: 4
+SENT: Saute until mixture starts sticking to the bottom of the pan , about 6 minutes .
+PREDID: 0
+PRED: saute
+  PARG: mixture starts sticking to the bottom of the pan , about 6 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in the milk and ketchup ;
+PREDID: 0
+PRED: stir
+  PARG: the milk, ketchup
+    PREP: in
+
+
+SENTID: 6
+SENT: continue cooking for 2 more minutes , stirring occasionally .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: 2 more minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Remove vegetable mixture from heat , and allow to cool to room temperature .
+PREDID: 0
+PRED: remove
+  DOBJ: vegetable mixture
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: room temperature
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 8
+SENT: Place the beef and sausage in an ungreased 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: the beef, sausage
+  PARG: an ungreased 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 9
+SENT: Add the eggs , the vegetable mixture , and the bread crumbs .
+PREDID: 0
+PRED: add
+  DOBJ: the eggs , the vegetable mixture , the bread crumbs
+
+
+SENTID: 10
+SENT: Remove the bay leaves .
+PREDID: 0
+PRED: remove
+  DOBJ: the bay leaves
+
+
+SENTID: 11
+SENT: Mix well by hand , and form into a loaf about 1Ê1/2 inches high .
+PREDID: 0
+PRED: mix
+  PARG: hand
+    PREP: by
+  OARG: well
+
+PREDID: 1
+PRED: form
+  PARG: a loaf
+    PREP: into
+  PARG: 1Ê1/2 inches high
+    PREP: about
+
+
+SENTID: 12
+SENT: Bake uncovered at 350 degrees F -LRB- 175 degrees C -RRB- for 25 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Then raise heat to 400 degrees F -LRB- 200 degrees C -RRB- and bake for another 35 minutes .
+PREDID: 0
+PRED: raise
+  DOBJ: heat
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: bake
+  PARG: another 35 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Let stand for 5 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

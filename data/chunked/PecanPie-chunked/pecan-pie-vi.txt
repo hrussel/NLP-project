@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C. -RRB- In a large bowl , cream the butter and brown sugar .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: cream
+  DOBJ: the butter, brown sugar
+
+
+SENTID: 1
+SENT: Beat in the corn syrup , eggs , salt and vanilla .
+PREDID: 0
+PRED: beat
+  PARG: the corn syrup , eggs , salt, vanilla
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in the chopped pecans .
+PREDID: 0
+PRED: stir
+  PARG: the chopped pecans
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in the preheated oven for 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Reduce temperature to 325 degrees F -LRB- 165 degrees C -RRB- and bake for 30 to 40 minutes , or until golden brown .
+PREDID: 0
+PRED: reduce
+  DOBJ: temperature
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: 30 to 40 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+

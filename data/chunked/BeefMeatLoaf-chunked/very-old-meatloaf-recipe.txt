@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground beef with water and milk in a large bowl using your hands until beef is evenly moistened .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef
+  PARG: water, milk
+    PREP: with
+  PARG: a large bowl using your hands
+    PREP: in
+  PARG: beef is evenly moistened
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix bread crumbs , onion , carrot , apple , and egg into the beef mixture until evenly integrated .
+PREDID: 0
+PRED: mix
+  DOBJ: bread crumbs , onion , carrot , apple , egg
+  PARG: the beef mixture
+    PREP: into
+  PARG: evenly integrated
+    PREP: until
+
+
+SENTID: 3
+SENT: Form the beef mixture into a loaf .
+PREDID: 0
+PRED: form
+  DOBJ: the beef mixture
+  PARG: a loaf
+    PREP: into
+
+
+SENTID: 4
+SENT: Transfer the meatloaf to a deep baking dish ;
+PREDID: 0
+PRED: transfer
+  DOBJ: the meatloaf
+  PARG: a deep baking dish
+    PREP: to
+
+
+SENTID: 5
+SENT: tent with a sheet of aluminum foil .
+PREDID: 0
+PRED: tent
+  PARG: a sheet of aluminum foil
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake in preheated oven for 1 hour ;
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 7
+SENT: remove foil tent and bake until no longer pink the center , about 30 minutes more .
+PREDID: 0
+PRED: remove
+  DOBJ: foil tent
+
+PREDID: 1
+PRED: bake
+  PARG: no longer pink the center , about 30 minutes more
+    PREP: until
+

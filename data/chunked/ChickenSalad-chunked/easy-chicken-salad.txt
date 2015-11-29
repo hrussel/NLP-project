@@ -1,0 +1,21 @@
+SENTID: 0
+SENT: Combine the chicken , vegetables , corn , scallions , mayonnaise , mustard , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , vegetables , corn , scallions , mayonnaise , mustard , salt, pepper
+
+
+SENTID: 1
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Ready to serve !
+PREDID: 0
+PRED: ready
+  PARG: serve
+    PREP: to
+

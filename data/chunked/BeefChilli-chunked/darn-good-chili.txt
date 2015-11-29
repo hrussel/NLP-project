@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: In a large saucepan or stockpot , cook ground beef , onion and red pepper until beef is browned .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onion, red pepper
+  PARG: a large saucepan or stockpot
+    PREP: in
+  PARG: beef is browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off excess fat .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+
+SENTID: 2
+SENT: Stir in the chili powder , garlic , bay leaf , diced tomatoes , spaghetti sauce , salsa and taco sauce .
+PREDID: 0
+PRED: stir
+  PARG: the chili powder , garlic , bay leaf , diced tomatoes , spaghetti sauce , salsa, taco sauce
+    PREP: in
+
+
+SENTID: 3
+SENT: Lower heat and simmer for 1Ê1/2 hours , stirring occasionally .
+PREDID: 0
+PRED: lower
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: 1Ê1/2 hours , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Stir in beans just before serving and heat through .
+PREDID: 0
+PRED: stir
+  PARG: beans
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: just
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+

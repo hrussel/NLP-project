@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Sprinkle chicken breast evenly with Montreal steak seasoning .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chicken breast
+  PARG: montreal steak seasoning
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 1
+SENT: Melt butter in a frying pan over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a frying pan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: cook chicken until no longer pink in the center and juices run clear , 5 to 10 minutes per side .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+  PARG: no longer pink in the center, juices run clear , 5 to 10 minutes per side
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove chicken from pan and cut into small pieces . Mix lettuce , chicken , tomato , green bell pepper , jalapeno peppers , green chile peppers , corn , black olives , black beans , and Cheddar-Monterey Jack cheese blend in a large bowl ;
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: cut
+  PARG: small pieces
+    PREP: into
+
+PREDID: 2
+PRED: mix
+  DOBJ: lettuce , chicken , tomato , green bell pepper , jalapeno peppers , green chile peppers , corn , black olives , black beans , cheddar-monterey jack cheese
+
+PREDID: 3
+PRED: blend
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: gently toss .
+PREDID: 0
+PRED: toss
+  OARG: gently
+
+
+SENTID: 5
+SENT: Whisk ranch dressing , reserved 3 tablespoons jalapeno juice , black pepper , and garlic powder together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: ranch dressing , reserved 3 tablespoons jalapeno juice , black pepper , garlic powder
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: drizzle over salad .
+PREDID: 0
+PRED: drizzle
+  PARG: salad
+    PREP: over
+
+
+SENTID: 7
+SENT: Toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+

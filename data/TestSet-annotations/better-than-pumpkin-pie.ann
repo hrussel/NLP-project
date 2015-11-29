@@ -1,0 +1,78 @@
+T1	predicate 0 5	Place
+T2	predicate 55 60	Bring
+T3	predicate 76 82	simmer
+T4	predicate 132 137	Drain
+T5	predicate 143 147	cool
+T6	predicate 149 156	Preheat
+T7	predicate 228 235	combine
+T8	predicate 338 345	Process
+T9	predicate 360 364	Pour
+T10	predicate 393 397	Bake
+T11	arg_duration 416 498	for 50 minutes, or until a table knife comes out clean when inserted in the center
+T12	arg_location 398 415	in preheated oven
+R2	duration Arg1:T10 Arg2:T11	
+T13	Evolution 401 415	preheated oven
+E1	Evolution:T13 Cause:T6
+R1	location Arg1:T10 Arg2:T12	
+T14	arg_object 6 12	squash
+T15	arg_location 13 26	in a saucepan
+T16	arg_other 27 53	with enough water to cover
+R3	object Arg1:T1 Arg2:T14	
+R4	location Arg1:T1 Arg2:T15	
+R5	other Arg1:T1 Arg2:T16	
+R6	object Arg1:T2 Arg2:T1	
+T17	arg_other 61 70	to a boil
+R7	other Arg1:T2 Arg2:T17	
+R8	object Arg1:T3 Arg2:T2	
+T18	arg_duration 83 130	over medium heat until tender, about 15 minutes
+R9	duration Arg1:T3 Arg2:T18	
+R10	object Arg1:T4 Arg2:T3	
+R11	object Arg1:T5 Arg2:T4	
+T19	arg_object 157 161	oven
+T20	arg_duration 162 194	to 350 degrees F (175 degrees C)
+R12	object Arg1:T6 Arg2:T19	
+R13	duration Arg1:T6 Arg2:T20	
+T21	arg_location 196 226	In a blender or food processor
+R14	location Arg1:T7 Arg2:T21	
+T22	arg_object 236 252	butternut squash
+T23	arg_object 254 265	brown sugar
+T24	arg_object 267 277	cornstarch
+T25	arg_object 279 282	egg
+T26	arg_object 284 288	milk
+T27	arg_object 290 298	cinnamon
+T28	arg_object 300 308	allspice
+T29	arg_object 310 316	cloves
+T30	arg_object 318 324	ginger
+T31	arg_object 330 336	nutmeg
+R15	object Arg1:T7 Arg2:T22	
+R16	object Arg1:T7 Arg2:T23	
+R17	object Arg1:T7 Arg2:T24	
+R18	object Arg1:T7 Arg2:T25	
+R19	object Arg1:T7 Arg2:T26	
+R20	object Arg1:T7 Arg2:T27	
+R21	object Arg1:T7 Arg2:T28	
+R22	object Arg1:T7 Arg2:T29	
+R23	object Arg1:T7 Arg2:T30	
+R24	object Arg1:T7 Arg2:T31	
+T32	Evolution 236 252	butternut squash
+E2	Evolution:T32 Cause:T5
+R25	object Arg1:T8 Arg2:T7	
+T33	arg_duration 346 358	until smooth
+R26	duration Arg1:T8 Arg2:T33	
+R27	object Arg1:T9 Arg2:T8	
+T34	arg_co-object 365 391	into the unbaked pie shell
+R28	co-object Arg1:T9 Arg2:T34	
+R29	object Arg1:T10 Arg2:T9	
+T35	ingredient 6 12	squash
+R30	co-object Arg1:T4 Arg2:T3	
+T36	ingredient 32 53	enough water to cover
+T37	ingredient 254 265	brown sugar
+T38	ingredient 267 277	cornstarch
+T39	ingredient 279 282	egg
+T40	ingredient 284 288	milk
+T41	ingredient 290 298	cinnamon
+T42	ingredient 300 308	allspice
+T43	ingredient 310 316	cloves
+T44	ingredient 318 324	ginger
+T45	ingredient 330 336	nutmeg
+T46	ingredient 370 391	the unbaked pie shell

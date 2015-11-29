@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: Sift together flour , 1 teaspoon salt and 1 teaspoon sugar into mixing bowl .
+PREDID: 0
+PRED: sift
+  DOBJ: 1 teaspoon salt, 1 teaspoon sugar
+  OARG: together
+
+PREDID: 1
+PRED: flour
+  PARG: mixing bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Cut in shortening with a pastry blender until mixture resembles cornmeal .
+PREDID: 0
+PRED: cut
+  PARG: shortening
+    PREP: in
+  PARG: a pastry blender
+    PREP: with
+  PARG: mixture resembles cornmeal
+    PREP: until
+
+
+SENTID: 2
+SENT: Combine water , vinegar and 1 egg ;
+PREDID: 0
+PRED: combine
+  DOBJ: water , vinegar, 1 egg
+
+
+SENTID: 3
+SENT: add liquid one tablespoon at a time , sprinkling over flour mixture and tossing with a fork to form soft dough .
+PREDID: 0
+PRED: add
+  DOBJ: liquid one tablespoon
+  PARG: a time , sprinkling
+    PREP: at
+  PARG: flour mixture, tossing
+    PREP: over
+  PARG: a fork
+    PREP: with
+  PARG: form soft dough
+    PREP: to
+
+
+SENTID: 4
+SENT: Shape into three discs .
+PREDID: 0
+PRED: shape
+  PARG: three discs
+    PREP: into
+
+
+SENTID: 5
+SENT: Wrap with plastic wrap .
+PREDID: 0
+PRED: wrap
+  PARG: plastic wrap
+    PREP: with
+
+
+SENTID: 6
+SENT: Refrigerate 3 to 24 hours .
+PREDID: 0
+PRED: refrigerate
+  OARG: 3 to 24 hours
+
+
+SENTID: 7
+SENT: Extra pastry may be frozen for later use .
+PREDID: 0
+PRED: use
+  DOBJ: extra pastry may be frozen
+  PARG: later
+    PREP: for
+
+
+SENTID: 8
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Line a 9 inch pie plate with pastry .
+PREDID: 0
+PRED: line
+  DOBJ: a 9 inch pie plate
+  PARG: pastry
+    PREP: with
+
+
+SENTID: 10
+SENT: Brush inside of unbaked pie shell with slightly beaten egg white .
+PREDID: 0
+PRED: brush
+  PARG: of unbaked pie shell
+    PREP: inside
+  PARG: slightly beaten egg white
+    PREP: with
+
+
+SENTID: 11
+SENT: Mix 3/4 cup sugar , syrups , vanilla and salt with 4 beaten eggs until blended .
+PREDID: 0
+PRED: mix
+  DOBJ: 3/4 cup sugar , syrups , vanilla, salt
+  PARG: 4 beaten eggs
+    PREP: with
+  PARG: blended
+    PREP: until
+
+
+SENTID: 12
+SENT: Stir in pecans and melted butter .
+PREDID: 0
+PRED: stir
+  PARG: pecans, melted butter
+    PREP: in
+
+
+SENTID: 13
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 14
+SENT: Bake for 45 to 55 minutes or until center is set .
+PREDID: 0
+PRED: bake
+  PARG: 45 to 55 minutes
+    PREP: for
+  PARG: center is set
+    PREP: until
+
+
+SENTID: 15
+SENT: Remove from oven and brush hot pie top with maple syrup .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: brush
+  DOBJ: hot pie
+
+PREDID: 2
+PRED: top
+  PARG: maple syrup
+    PREP: with
+
+
+SENTID: 16
+SENT: Cool and store in refrigerator .
+PREDID: 0
+PRED: cool
+  PARG: refrigerator
+    PREP: in
+
+PREDID: 1
+PRED: store
+

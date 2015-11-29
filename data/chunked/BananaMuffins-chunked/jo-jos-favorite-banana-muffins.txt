@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: In a medium bowl mix flour , baking powder , baking soda , salt , and cinnamon and set aside .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , baking powder , baking soda , salt , cinnamon
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: In a separate bowl cream margarine and sugar , add eggs and mix until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: eggs
+  PARG: a separate bowl cream margarine, sugar
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in milk and mashed banana and mix well .
+PREDID: 0
+PRED: stir
+  PARG: milk, mashed banana
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Fold in flour mixture into the liquid ingredients until combined .
+PREDID: 0
+PRED: fold
+  PARG: flour mixture
+    PREP: in
+  PARG: the liquid ingredients
+    PREP: into
+  PARG: combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Fill greased muffin tins two-thirds of the way full .
+PREDID: 0
+PRED: fill
+  DOBJ: greased muffin tins two-thirds of the way full
+
+
+SENTID: 5
+SENT: Bake in a preheated 350 degree F -LRB- 175 degrees C -RRB- oven for 25 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 350 degree f -lrb- 175 degrees c -rrb- oven
+    PREP: in
+  PARG: 25 to 30 minutes
+    PREP: for
+

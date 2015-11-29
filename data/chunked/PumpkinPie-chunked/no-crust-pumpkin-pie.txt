@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 10 inch fluted pie pan ;
+PREDID: 0
+PRED: grease
+  DOBJ: a 10 inch fluted pie pan
+
+
+SENTID: 2
+SENT: dust with baking mix .
+PREDID: 0
+PRED: dust
+  PARG: baking mix
+    PREP: with
+
+
+SENTID: 3
+SENT: In a large bowl , mix pumpkin , evaporated milk , milk and eggs together .
+PREDID: 0
+PRED: mix
+  DOBJ: pumpkin , evaporated milk , milk, eggs
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in baking mix , pie spice , vanilla and salt .
+PREDID: 0
+PRED: stir
+  PARG: baking
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: pie spice , vanilla, salt
+
+
+SENTID: 5
+SENT: Continue stirring while gradually adding the brown sugar and white sugar .
+PREDID: 0
+PRED: continue
+  DOBJ: adding the brown sugar, white sugar
+  PARG: gradually
+    PREP: while
+  OARG: stirring
+
+
+SENTID: 6
+SENT: When the mixture is thoroughly blended , pour into the prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: blended
+  PARG: the prepared pan
+    PREP: into
+  OARG: when the mixture is
+  OARG: thoroughly
+
+
+SENTID: 7
+SENT: Bake in preheated oven for 10 minutes , then reduce oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Bake for an additional 35 minutes or until knife inserted in center of pie comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: an additional 35 minutes
+    PREP: for
+  PARG: knife inserted in center of pie comes out clean
+    PREP: until
+

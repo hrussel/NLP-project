@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Mix mayonnaise , blue cheese , sugar , olive oil , mustard , vinegar , red pepper flakes , onion powder , and celery salt together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , blue cheese , sugar , olive oil , mustard , vinegar , red pepper flakes , onion powder , celery salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add cabbage , carrots , broccoli , and raisins ;
+PREDID: 0
+PRED: add
+  DOBJ: cabbage , carrots , broccoli , raisins
+
+
+SENTID: 2
+SENT: stir to coat .
+PREDID: 0
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Chill in refrigerator at least 2 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: refrigerator
+    PREP: in
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

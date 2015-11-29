@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine elbow macaroni and water in the bottom of a 9x11-inch baking dish .
+PREDID: 0
+PRED: combine
+  DOBJ: elbow macaroni, water
+  PARG: the bottom of a 9x11-inch baking dish
+    PREP: in
+
+
+SENTID: 2
+SENT: Melt butter in a large saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Whisk flour into melted butter until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour
+  PARG: melted butter
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually whisk milk into flour mixture ;
+PREDID: 0
+PRED: whisk
+  DOBJ: milk
+  PARG: flour mixture
+    PREP: into
+  OARG: gradually
+
+
+SENTID: 5
+SENT: bring to a boil and cook , stirring constantly , until smooth and thick , about 2 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: smooth, thick , about 2 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 6
+SENT: Stir Cheddar cheese , American cheese , and Parmesan cheese into milk mixture until cheeses are melted and mixture is smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: cheddar cheese , american cheese , parmesan cheese
+  PARG: milk mixture
+    PREP: into
+  PARG: cheeses are melted, mixture is smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Gradually stir butternut squash soup into cheese mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: butternut squash soup
+  PARG: cheese mixture
+    PREP: into
+  OARG: gradually
+
+
+SENTID: 8
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 9
+SENT: Pour cheese mixture over elbow macaroni and stir to combine .
+PREDID: 0
+PRED: pour
+  DOBJ: cheese mixture
+  PARG: elbow macaroni
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until top begins to brown , about 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: top begins to brown , about 50 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Let cool for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

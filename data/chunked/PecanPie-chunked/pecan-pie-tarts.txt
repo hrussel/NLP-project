@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 30 tart tins or muffin cups and set aside .
+PREDID: 0
+PRED: grease
+  DOBJ: 30 tart tins or muffin cups
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: To Make Crust :
+PREDID: 0
+PRED: crust
+  PARG: make
+    PREP: to
+
+
+SENTID: 3
+SENT: In a medium mixing bowl cream together cream cheese and 1 cup butter until light and fluffy .
+PREDID: 0
+PRED: cream
+  DOBJ: cream cheese, 1 cup butter
+  PARG: a medium mixing bowl
+    PREP: in
+  PARG: light, fluffy
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Blend in flour , 1/2 cup at a time , forming a smooth dough .
+PREDID: 0
+PRED: blend
+  DOBJ: forming a smooth dough
+  PARG: flour , 1/2 cup
+    PREP: in
+  PARG: a time
+    PREP: at
+
+
+SENTID: 5
+SENT: Roll into 30 equal balls and press one into each greased tin so it lines the bottom and sides , like a pie crust .
+PREDID: 0
+PRED: roll
+  PARG: 30 equal balls
+    PREP: into
+
+PREDID: 1
+PRED: press
+  DOBJ: it lines the bottom, sides
+  PARG: a pie crust
+    PREP: like
+  OARG: so
+  OARG: one into each greased tin
+
+
+SENTID: 6
+SENT: In a medium mixing bowl cream together 1/4 cup butter and sugar until light and fluffy .
+PREDID: 0
+PRED: cream
+  DOBJ: 1/4 cup butter, sugar
+  PARG: a medium mixing bowl
+    PREP: in
+  PARG: light, fluffy
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: Beat in eggs and vanilla until thoroughly blended .
+PREDID: 0
+PRED: beat
+  PARG: eggs, vanilla
+    PREP: in
+  PARG: thoroughly blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in pecans .
+PREDID: 0
+PRED: stir
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 9
+SENT: Fill each lined tin half full .
+PREDID: 0
+PRED: fill
+  DOBJ: each lined tin half full
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 25 minutes , or until lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 minutes
+    PREP: for
+  PARG: lightly browned
+    PREP: until
+
+
+SENTID: 11
+SENT: Let cool in tins , then use the end of a table knife to flip each tart out of its tin .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: tins
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: use
+  DOBJ: the end of a table knife
+  PARG: flip each tart
+    PREP: to
+  PARG: of its tin
+    PREP: out
+

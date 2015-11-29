@@ -1,0 +1,70 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 50	Mix
+T3	predicate 206 213	Stir in
+T4	predicate 297 303	Divide
+T5	predicate 329 334	spoon
+T6	predicate 362 367	Place
+T7	predicate 415 419	Bake
+T8	arg_object 8 12	oven
+T9	arg_object 51 66	the ground beef
+T10	arg_object 68 75	sausage
+T11	arg_object 77 82	onion
+T12	arg_object 84 91	carrots
+T13	arg_object 93 107	onion soup mix
+T14	arg_object 109 120	brown sugar
+T15	arg_object 122 126	eggs
+T16	arg_object 132 146	barbeque sauce
+T17	arg_location 156 178	in a large mixing bowl
+T18	arg_duration 179 204	until thoroughly combined
+T19	arg_duration 13 45	to 375 degrees F (190 degrees C)
+R1	object Arg1:T1 Arg2:T8	
+R2	duration Arg1:T1 Arg2:T19	
+R3	object Arg1:T2 Arg2:T9	
+R4	object Arg1:T2 Arg2:T10	
+R5	object Arg1:T2 Arg2:T11	
+R6	object Arg1:T2 Arg2:T12	
+R7	object Arg1:T2 Arg2:T13	
+R8	object Arg1:T2 Arg2:T14	
+R9	object Arg1:T2 Arg2:T15	
+R10	object Arg1:T2 Arg2:T16	
+R11	location Arg1:T2 Arg2:T17	
+R12	duration Arg1:T2 Arg2:T18	
+T20	arg_object 214 225	enough oats
+T21	arg_other 226 259	to make the mixture hold together
+R13	object Arg1:T3 Arg2:T20	
+R14	other Arg1:T3 Arg2:T21	
+R15	co-object Arg1:T3 Arg2:T2	
+T22	arg_object 304 315	the mixture
+T23	arg_other 316 323	in half
+R16	object Arg1:T4 Arg2:T22	
+R17	other Arg1:T4 Arg2:T23	
+T24	Evolution 304 315	the mixture
+E1	Evolution:T24 Cause:T3
+T25	arg_location 335 360	into 2 9x5-inch loaf pans
+R18	location Arg1:T5 Arg2:T25	
+R19	object Arg1:T5 Arg2:T4	
+T26	arg_object 368 385	3 strips of bacon
+T27	arg_other 386 398	the long way
+T28	arg_co-object 399 413	onto each loaf
+R20	object Arg1:T6 Arg2:T26	
+R21	other Arg1:T6 Arg2:T27	
+R22	co-object Arg1:T6 Arg2:T28	
+T29	Evolution 404 413	each loaf
+E2	Evolution:T29 Cause:T5
+T31	Evolution 423 441	the preheated oven
+E3	Evolution:T31 Cause:T1
+T32	arg_duration 442 531	until the meatloaf is no longer pink in the middle and the juices run clear, about 1 hour
+R24	duration Arg1:T7 Arg2:T32	
+R25	object Arg1:T7 Arg2:T6	
+T30	arg_location 420 441	in the preheated oven
+R23	location Arg1:T7 Arg2:T30	
+T33	ingredient 51 66	the ground beef
+T34	ingredient 68 75	sausage
+T35	ingredient 77 82	onion
+T36	ingredient 84 91	carrots
+T37	ingredient 93 107	onion soup mix
+T38	ingredient 109 120	brown sugar
+T39	ingredient 122 126	eggs
+T40	ingredient 132 146	barbeque sauce
+T41	ingredient 214 225	enough oats
+T42	ingredient 368 385	3 strips of bacon

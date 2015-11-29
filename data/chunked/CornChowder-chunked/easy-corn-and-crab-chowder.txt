@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: Wrap potato cubes in plastic wrap , and microwave for 30 seconds .
+PREDID: 0
+PRED: wrap
+  DOBJ: potato cubes
+  PARG: plastic wrap
+    PREP: in
+
+PREDID: 1
+PRED: microwave
+  PARG: 30 seconds
+    PREP: for
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: In a saute pan , cook bacon over medium heat until heated through , and add chopped onions .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a saute pan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: heated through
+    PREP: until
+
+PREDID: 1
+PRED: add
+  DOBJ: chopped onions
+
+
+SENTID: 3
+SENT: Cook and stir until onions are clear .
+PREDID: 0
+PRED: cook
+  PARG: onions are clear
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Stir in crab meat and parsley flakes .
+PREDID: 0
+PRED: stir
+  PARG: crab meat, parsley flakes
+    PREP: in
+
+
+SENTID: 5
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Meanwhile , melt butter in a large stock pot over low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large stock pot
+    PREP: in
+  PARG: low heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 7
+SENT: Whisk in flour until mixture becomes creamy and takes on a eggshell color .
+PREDID: 0
+PRED: whisk
+  PARG: flour
+    PREP: in
+  PARG: mixture becomes creamy, takes on a eggshell color
+    PREP: until
+
+
+SENTID: 8
+SENT: Continue to cook for a few more minutes , stirring occasionally .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+  PARG: a few more minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: Stir in wine .
+PREDID: 0
+PRED: stir
+  PARG: wine
+    PREP: in
+
+
+SENTID: 10
+SENT: Dissolve chicken bouillon in milk ;
+PREDID: 0
+PRED: dissolve
+  DOBJ: chicken bouillon
+  PARG: milk
+    PREP: in
+
+
+SENTID: 11
+SENT: when the flour mixture is crumbly , slowly whisk in the milk .
+PREDID: 0
+PRED: whisk
+  PARG: the milk
+    PREP: in
+  OARG: when the flour mixture is
+  OARG: crumbly
+  OARG: slowly
+
+
+SENTID: 12
+SENT: Mix well in order to eliminate all lumps .
+PREDID: 0
+PRED: mix
+  PARG: order
+    PREP: in
+  OARG: well
+  OARG: to eliminate all lumps
+
+
+SENTID: 13
+SENT: When the mixture is creamy and hot , stir in bacon mixture , cubed potatoes , and creamed corn .
+PREDID: 0
+PRED: stir
+  PARG: bacon mixture , cubed potatoes , creamed corn
+    PREP: in
+  OARG: when the mixture is creamy, hot
+
+
+SENTID: 14
+SENT: Season with salt and pepper to taste , and simmer for 10 minutes .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: For a creamy curry variation add 2 tablespoons curry powder after adding the wine to the flour mixture , and substitute cooked , cubed chicken for the bacon .
+PREDID: 0
+PRED: add
+  DOBJ: 2 tablespoons curry powder
+  PARG: a creamy curry variation
+    PREP: for
+  PARG: adding the wine
+    PREP: after
+  PARG: the flour mixture , substitute cooked , cubed chicken
+    PREP: to
+  PARG: the bacon
+    PREP: for
+

@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat the grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: the grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Lightly oil the grill grate .
+PREDID: 0
+PRED: oil
+  DOBJ: the grill grate
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Place chicken on the grill , and cook 6 minutes per side , or until juices run clear .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: the grill
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: side
+    PREP: per
+  PARG: juices run clear
+    PREP: until
+  OARG: 6 minutes
+
+
+SENTID: 3
+SENT: Remove from heat , cool , and slice .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: slice
+
+
+SENTID: 4
+SENT: In a large bowl , mix the red leaf lettuce , green leaf lettuce , tomato , cilantro , corn , and black beans .
+PREDID: 0
+PRED: mix
+  DOBJ: the red leaf lettuce , green leaf lettuce , tomato , cilantro , corn , black beans
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Top with the grilled chicken slices and French fried onions .
+PREDID: 0
+PRED: top
+  PARG: the grilled chicken slices, french fried onions
+    PREP: with
+
+
+SENTID: 6
+SENT: In a small bowl , mix the Ranch dressing and barbeque sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: the ranch dressing, barbeque sauce
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Serve on the side as a dipping sauce , or toss with the salad to coat .
+PREDID: 0
+PRED: serve
+  PARG: the side
+    PREP: on
+  PARG: a dipping sauce
+    PREP: as
+
+PREDID: 1
+PRED: toss
+  PARG: the salad
+    PREP: with
+  PARG: coat
+    PREP: to
+

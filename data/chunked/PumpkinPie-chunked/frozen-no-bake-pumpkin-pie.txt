@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: In a medium bowl , combine pudding , pumpkin , milk , nutmeg , ginger , and cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: pudding , pumpkin , milk , nutmeg , ginger , cinnamon
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix slowly for about 1 minute .
+PREDID: 0
+PRED: mix
+  PARG: about 1 minute
+    PREP: for
+  OARG: slowly
+
+
+SENTID: 2
+SENT: Fold whipped topping into the mixture then spoon entire mixture into pie shell .
+PREDID: 0
+PRED: fold
+  DOBJ: whipped topping
+  PARG: the mixture
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: spoon
+  DOBJ: entire mixture
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Freeze until firm -LRB- about 4 hours -RRB- .
+PREDID: 0
+PRED: freeze
+  PARG: firm -lrb- about 4 hours -rrb-
+    PREP: until
+
+
+SENTID: 4
+SENT: Let stand at room temperature for about 10 minutes before slicing .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: room temperature
+    PREP: at
+  PARG: about 10 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+

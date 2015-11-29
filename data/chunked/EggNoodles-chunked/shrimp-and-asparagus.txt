@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: In a small saucepan , boil or steam asparagus in enough water to cover until tender ;
+PREDID: 0
+PRED: boil
+  DOBJ: asparagus
+  PARG: a small saucepan
+    PREP: in
+
+PREDID: 1
+PRED: steam
+  PARG: enough water
+    PREP: in
+  PARG: cover
+    PREP: to
+  PARG: tender
+    PREP: until
+
+
+SENTID: 1
+SENT: chop and set aside .
+PREDID: 0
+PRED: chop
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 2
+SENT: Bring a large pot of salted water to full boil , place the pasta in the pot and return to a rolling boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: full boil
+    PREP: to
+
+PREDID: 1
+PRED: place
+  DOBJ: the pasta
+  PARG: the pot
+    PREP: in
+
+PREDID: 2
+PRED: return
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 3
+SENT: cook until al dente .
+PREDID: 0
+PRED: cook
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 5
+SENT: In a large saucepan , saute garlic in the olive oil over medium-low heat until the garlic is golden brown .
+PREDID: 0
+PRED: saute
+  DOBJ: garlic
+  PARG: a large saucepan
+    PREP: in
+  PARG: the olive oil
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+  PARG: the garlic is golden brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Place butter and lemon juice in the saucepan .
+PREDID: 0
+PRED: place
+  DOBJ: butter, lemon juice
+  PARG: the saucepan
+    PREP: in
+
+
+SENTID: 7
+SENT: Heat until the butter has melted .
+PREDID: 0
+PRED: heat
+  PARG: the butter has melted
+    PREP: until
+
+
+SENTID: 8
+SENT: Place the shrimp in the saucepan and cook until the shrimp turns pink .
+PREDID: 0
+PRED: place
+  DOBJ: the shrimp
+  PARG: the saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: the shrimp turns pink
+    PREP: until
+
+
+SENTID: 9
+SENT: Place the mushrooms and asparagus into the saucepan , cook until mushrooms are tender .
+PREDID: 0
+PRED: place
+  DOBJ: the mushrooms, asparagus
+  PARG: the saucepan
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: mushrooms are tender
+    PREP: until
+
+
+SENTID: 10
+SENT: Toss the shrimp and vegetable mixture with the egg noodles and sprinkle with Parmesan cheese .
+PREDID: 0
+PRED: toss
+  DOBJ: the shrimp, vegetable mixture
+  PARG: the egg noodles
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

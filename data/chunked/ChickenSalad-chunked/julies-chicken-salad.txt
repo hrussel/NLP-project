@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: In a large bowl toss together the chicken , raisins , celery and grapes .
+PREDID: 0
+PRED: toss
+  DOBJ: the chicken , raisins , celery, grapes
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Fold in the avocado and the apple .
+PREDID: 0
+PRED: fold
+  PARG: the avocado, the apple
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix in the mayonnaise and lemon juice .
+PREDID: 0
+PRED: mix
+  PARG: the mayonnaise, lemon juice
+    PREP: in
+
+
+SENTID: 3
+SENT: Chill .
+PREDID: 0
+PRED: chill
+

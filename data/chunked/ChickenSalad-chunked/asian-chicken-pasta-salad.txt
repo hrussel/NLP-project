@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Place in large bowl with chicken .
+PREDID: 0
+PRED: place
+  PARG: large bowl
+    PREP: in
+  PARG: chicken
+    PREP: with
+
+
+SENTID: 4
+SENT: In large skillet or wok , heat 1 tablespoon oil .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon oil
+  PARG: large skillet or wok
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook carrots with 1/4 teaspoon salt until tender-crisp , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: carrots
+  PARG: 1/4 teaspoon salt
+    PREP: with
+  PARG: tender-crisp , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove carrots , place in bowl with chicken and pasta .
+PREDID: 0
+PRED: remove
+  DOBJ: carrots
+
+PREDID: 1
+PRED: place
+  PARG: bowl
+    PREP: in
+  PARG: chicken, pasta
+    PREP: with
+
+
+SENTID: 7
+SENT: Add 2 tablespoons oil to wok and cook mushrooms with 1/4 teaspoon salt until tender , 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: 2 tablespoons oil
+  PARG: wok
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: mushrooms
+  PARG: 1/4 teaspoon salt
+    PREP: with
+  PARG: tender , 5 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove mushrooms and place in bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: mushrooms
+
+PREDID: 1
+PRED: place
+  PARG: bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Add 2 more tablespoons oil to wok , stir-fry broccoli , cauliflower and onion until coated with oil .
+PREDID: 0
+PRED: add
+  DOBJ: 2 more tablespoons oil
+  PARG: wok , stir-fry broccoli , cauliflower, onion
+    PREP: to
+  PARG: coated with oil
+    PREP: until
+
+
+SENTID: 10
+SENT: Add 1/2 teaspoon salt and 1/4 cup water , cover and cook 5 to 10 minutes , until tender-crisp , stirring occasionally .
+PREDID: 0
+PRED: add
+  DOBJ: 1/2 teaspoon salt, 1/4 cup water
+
+PREDID: 1
+PRED: cover
+  OARG: 5 to 10 minutes
+
+PREDID: 2
+PRED: cook
+  PARG: tender-crisp , stirring occasionally
+    PREP: until
+
+
+SENTID: 11
+SENT: Remove vegetables with slotted spoon and toss with pasta and chicken .
+PREDID: 0
+PRED: remove
+  DOBJ: vegetables
+  PARG: slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: toss
+  PARG: pasta, chicken
+    PREP: with
+
+
+SENTID: 12
+SENT: Mix in green onions , soy sauce and sesame oil , adjusting soy and sesame to taste .
+PREDID: 0
+PRED: mix
+  PARG: green onions , soy sauce, sesame oil , adjusting soy, sesame
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 13
+SENT: Serve warm or cold .
+PREDID: 0
+PRED: serve
+  DOBJ: warm or cold
+

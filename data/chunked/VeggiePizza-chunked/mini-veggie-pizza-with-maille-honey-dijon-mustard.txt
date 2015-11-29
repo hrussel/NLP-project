@@ -1,0 +1,211 @@
+SENTID: 0
+SENT: Mix all the ingredients together in a large bowl and knead the dough for 5 minutes .
+PREDID: 0
+PRED: mix
+  DOBJ: all the ingredients
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: knead
+  DOBJ: the dough
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: Let it rest for 1 hour .
+PREDID: 0
+PRED: let
+  DOBJ: it rest
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 2
+SENT: Divide the dough into 4 equally sized balls .
+PREDID: 0
+PRED: divide
+  DOBJ: the dough
+  PARG: 4 equally sized balls
+    PREP: into
+
+
+SENTID: 3
+SENT: Let balls rest for 30 minutes , then flatten each with a rolling pin and place on an oven tray .
+PREDID: 0
+PRED: let
+  DOBJ: balls rest
+  PARG: 30 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: flatten
+  DOBJ: each with a rolling pin
+
+PREDID: 2
+PRED: place
+  PARG: an oven tray
+    PREP: on
+
+
+SENTID: 4
+SENT: Slice the leek as thinly as possible and wash it .
+PREDID: 0
+PRED: slice
+  DOBJ: the leek
+  PARG: thinly
+    PREP: as
+  PARG: possible
+    PREP: as
+
+PREDID: 1
+PRED: wash
+  DOBJ: it
+
+
+SENTID: 5
+SENT: Melt the butter in a sauce pan then add the sliced leek .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a sauce pan
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the sliced leek
+
+
+SENTID: 6
+SENT: Cook the leek gently for 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the leek
+  PARG: 10 minutes
+    PREP: for
+  OARG: gently
+
+
+SENTID: 7
+SENT: Add the whipping cream and the Maille ¨ Honey Dijon mustard .
+PREDID: 0
+PRED: add
+  DOBJ: the whipping cream, the maille ¨ honey dijon mustard
+
+
+SENTID: 8
+SENT: Cook gently for 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes
+    PREP: for
+  OARG: gently
+
+
+SENTID: 9
+SENT: Once cooked add the whisky .
+PREDID: 0
+PRED: add
+  DOBJ: the whisky
+  OARG: once
+  OARG: cooked
+
+
+SENTID: 10
+SENT: Season with salt and freshly ground pepper , then chill .
+PREDID: 0
+PRED: season
+  DOBJ: ground pepper
+  PARG: salt
+    PREP: with
+  OARG: freshly
+  OARG: then
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 11
+SENT: Boil potatoes until tender .
+PREDID: 0
+PRED: boil
+  DOBJ: potatoes
+  PARG: tender
+    PREP: until
+
+
+SENTID: 12
+SENT: Peel and cut the potatoes in thin slices .
+PREDID: 0
+PRED: peel
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: cut
+  PARG: thin slices
+    PREP: in
+
+
+SENTID: 13
+SENT: Sprinkle on Parmesan cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: on
+
+
+SENTID: 14
+SENT: Slice the cherry tomatoes in half .
+PREDID: 0
+PRED: slice
+  DOBJ: the cherry tomatoes
+  PARG: half
+    PREP: in
+
+
+SENTID: 15
+SENT: Cover the flattened pizza dough with the Maille ¨ Honey Dijon mustard leek fondue .
+PREDID: 0
+PRED: cover
+  DOBJ: the flattened pizza dough
+  PARG: the maille ¨ honey dijon mustard leek fondue
+    PREP: with
+
+
+SENTID: 16
+SENT: Top with the slices of potatoes and sliced cherry tomatoes .
+PREDID: 0
+PRED: top
+  PARG: the slices of potatoes, sliced cherry tomatoes
+    PREP: with
+
+
+SENTID: 17
+SENT: Cook the pizzas at 430 degrees F for 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pizzas
+  PARG: 430 degrees f
+    PREP: at
+  PARG: 8 minutes
+    PREP: for
+
+
+SENTID: 18
+SENT: Top with a few leaves of arugula and a splash of balsamic vinegar .
+PREDID: 0
+PRED: top
+  PARG: a few leaves of arugula, a splash of balsamic vinegar
+    PREP: with
+
+
+SENTID: 19
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

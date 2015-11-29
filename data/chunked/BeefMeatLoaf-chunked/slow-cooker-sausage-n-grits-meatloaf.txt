@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Fold each sheet of aluminum foil in half lengthwise , then fold in half lengthwise again , to make 2 strips of foil 4 inches wide by 16 inches long .
+PREDID: 0
+PRED: fold
+  DOBJ: each sheet of aluminum foil
+  PARG: half lengthwise
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: fold
+  PARG: half lengthwise
+    PREP: in
+  PARG: make 2 strips of foil 4 inches
+    PREP: to
+  PARG: 16 inches
+    PREP: by
+  OARG: again
+  OARG: wide
+  OARG: long
+
+
+SENTID: 1
+SENT: Place the strips into the bottom of a slow cooker in a cross , so that the long ends of the strips come partway up the inside of the cooker -LRB- to make lifting handles -RRB- .
+PREDID: 0
+PRED: place
+  DOBJ: the inside of the cooker -lrb-
+  PARG: the bottom of a slow cooker
+    PREP: into
+  PARG: a cross
+    PREP: in
+  PARG: the long ends of the strips come partway
+    PREP: that
+  PARG: make lifting handles -rrb-
+    PREP: to
+  OARG: so
+  OARG: up
+  OARG: the strips
+
+
+SENTID: 2
+SENT: Spray the inside of the slow cooker and the foil strips with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: the inside of the slow cooker, the foil strips
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 3
+SENT: Mix together the ground beef , pork sausage , egg whites , grits , onion powder , garlic powder , ketchup , and liquid smoke flavoring until thoroughly combined , and form into a rounded loaf .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , pork sausage , egg whites , grits , onion powder , garlic powder , ketchup , liquid smoke flavoring
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+PREDID: 1
+PRED: form
+  PARG: a rounded loaf
+    PREP: into
+
+
+SENTID: 4
+SENT: Gently place the loaf into the slow cooker on top of the crossed foil strips .
+PREDID: 0
+PRED: place
+  DOBJ: the loaf
+  PARG: the slow cooker
+    PREP: into
+  PARG: top of the crossed foil strips
+    PREP: on
+  OARG: gently
+
+
+SENTID: 5
+SENT: Cover the cooker , set on Low , and cook for 5 to 6 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: the cooker
+
+PREDID: 1
+PRED: set
+  PARG: low
+    PREP: on
+
+PREDID: 2
+PRED: cook
+  PARG: 5 to 6 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: To serve , carefully hold the ends of the foil strips , and gently lift the meat loaf from the cooker by the foil handles to place on a serving platter for slicing .
+PREDID: 0
+PRED: hold
+  DOBJ: the ends of the foil strips
+  PARG: serve
+    PREP: to
+  OARG: carefully
+  OARG: gently
+
+PREDID: 1
+PRED: lift
+  DOBJ: the meat loaf
+  PARG: the cooker
+    PREP: from
+  PARG: the foil handles
+    PREP: by
+  PARG: place
+    PREP: to
+  PARG: a serving platter
+    PREP: on
+  PARG: slicing
+    PREP: for
+

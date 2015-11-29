@@ -1,0 +1,186 @@
+SENTID: 0
+SENT: Place the bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 1
+SENT: Drain the bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 2
+SENT: Chop bacon when cool enough to handle .
+PREDID: 0
+PRED: chop
+  DOBJ: bacon
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+
+SENTID: 3
+SENT: Bring a saucepan of water to a boil , reduce heat to medium , and gently lower eggs into the boiling water using a spoon .
+PREDID: 0
+PRED: bring
+  DOBJ: a saucepan of water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+  OARG: gently
+
+PREDID: 2
+PRED: lower
+  DOBJ: using a spoon
+  PARG: the boiling water
+    PREP: into
+  OARG: eggs
+
+
+SENTID: 4
+SENT: Boil for 8 minutes .
+PREDID: 0
+PRED: boil
+  PARG: 8 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Remove immediately from heat , drain , and cover eggs with cold water .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+  OARG: immediately
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: cover
+  DOBJ: eggs
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 6
+SENT: Heat vegetable oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook and stir chicken cubes , onion , and mushrooms in the hot oil until the meat is no longer pink inside and mushrooms are softened , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken cubes , onion , mushrooms
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: the meat is no longer pink inside, mushrooms are softened , about 10 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Place iceberg lettuce into a salad bowl .
+PREDID: 0
+PRED: place
+  DOBJ: iceberg lettuce
+  PARG: a salad bowl
+    PREP: into
+
+
+SENTID: 9
+SENT: Add chicken-mushroom mixture and bacon .
+PREDID: 0
+PRED: add
+  DOBJ: chicken-mushroom mixture, bacon
+
+
+SENTID: 10
+SENT: Top with red bell pepper , cherry tomatoes , and white Cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: red bell pepper , cherry tomatoes , white cheddar cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Stir mayonnaise into salad , tossing gently to coat .
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise
+  PARG: salad , tossing
+    PREP: into
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 12
+SENT: Peel eggs and cut each egg in half ;
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+PREDID: 1
+PRED: cut
+  DOBJ: each egg
+  PARG: half
+    PREP: in
+
+
+SENTID: 13
+SENT: cut halves horizontally into 3 wedges apiece .
+PREDID: 0
+PRED: cut
+  DOBJ: halves
+  PARG: 3 wedges
+    PREP: into
+  OARG: horizontally
+  OARG: apiece
+
+
+SENTID: 14
+SENT: Arrange eggs on top of salad ;
+PREDID: 0
+PRED: arrange
+  DOBJ: eggs
+  PARG: top of salad
+    PREP: on
+
+
+SENTID: 15
+SENT: serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

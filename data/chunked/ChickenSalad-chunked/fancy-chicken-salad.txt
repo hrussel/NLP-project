@@ -1,0 +1,34 @@
+SENTID: 0
+SENT: Blend mayonnaise , vinegar , garlic and dill .
+PREDID: 0
+PRED: blend
+  DOBJ: mayonnaise , vinegar , garlic, dill
+
+
+SENTID: 1
+SENT: Refrigerate for several hours or overnight .
+PREDID: 0
+PRED: refrigerate
+  PARG: several hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 2
+SENT: Stir together chicken , peppers and cheese and blend with the chilled dressing .
+PREDID: 0
+PRED: stir
+  DOBJ: chicken , peppers, cheese
+  OARG: together
+
+PREDID: 1
+PRED: blend
+  PARG: the chilled dressing
+    PREP: with
+
+
+SENTID: 3
+SENT: Serve !
+PREDID: 0
+PRED: serve
+

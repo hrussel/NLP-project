@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer .
+PREDID: 0
+PRED: place
+  DOBJ: a steamer insert
+  PARG: a saucepan
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: the bottom of the steamer
+    PREP: below
+  OARG: to just
+
+
+SENTID: 2
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add cauliflower , cover , and steam until tender , about 25 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: cauliflower
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: steam
+  PARG: tender , about 25 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain and transfer to a 9x13-inch casserole dish .
+PREDID: 0
+PRED: drain
+  PARG: a 9x13-inch casserole dish
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 7
+SENT: Blend cauliflower , yogurt , chicken broth , and olive oil in a blender until smooth ;
+PREDID: 0
+PRED: blend
+  DOBJ: cauliflower , yogurt , chicken broth , olive oil
+  PARG: a blender
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: pour cauliflower mixture into a saucepan over medium heat .
+PREDID: 0
+PRED: pour
+  DOBJ: cauliflower mixture
+  PARG: a saucepan
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Stir Cheddar cheese , nutritional yeast , mustard powder , garlic powder , cayenne pepper , and nutmeg into cauliflower mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: cheddar cheese , nutritional yeast , mustard powder , garlic powder , cayenne pepper , nutmeg
+  PARG: cauliflower mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: cook and stir until cheese sauce is smooth , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: cheese sauce is
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: smooth
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 11
+SENT: Pour cheese sauce over macaroni ;
+PREDID: 0
+PRED: pour
+  DOBJ: cheese sauce
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 12
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 13
+SENT: Bake in the preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Mix Parmesan cheese and panko crumbs together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: parmesan cheese, panko crumbs
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 15
+SENT: sprinkle over macaroni .
+PREDID: 0
+PRED: sprinkle
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 16
+SENT: Bake until Parmesan cheese is melted , 3 to 5 minutes .
+PREDID: 0
+PRED: bake
+  PARG: parmesan cheese is melted , 3 to 5 minutes
+    PREP: until
+

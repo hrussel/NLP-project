@@ -1,0 +1,195 @@
+SENTID: 0
+SENT: Add warm water to combined yeast and sugar in large bowl ;
+PREDID: 0
+PRED: add
+  DOBJ: warm water
+  PARG: combined yeast, sugar
+    PREP: to
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 2
+SENT: Let stand 5 min .
+PREDID: 0
+PRED: let
+  DOBJ: stand 5 min
+
+
+SENTID: 3
+SENT: Stir in 3 cups flour and 3 Tbsp . oil until mixture is well blended and mixture forms soft dough .
+PREDID: 0
+PRED: stir
+  PARG: 3 cups flour, 3 tbsp
+    PREP: in
+
+PREDID: 1
+PRED: oil
+  PARG: mixture is well blended, mixture forms soft dough
+    PREP: until
+
+
+SENTID: 4
+SENT: Place on work surface sprinkled with remaining flour .
+PREDID: 0
+PRED: place
+  PARG: work surface sprinkled
+    PREP: on
+  PARG: remaining flour
+    PREP: with
+
+
+SENTID: 5
+SENT: Knead dough until smooth and elastic ;
+PREDID: 0
+PRED: knead
+  DOBJ: dough
+  PARG: smooth, elastic
+    PREP: until
+
+
+SENTID: 6
+SENT: shape into ball .
+PREDID: 0
+PRED: shape
+  PARG: ball
+    PREP: into
+
+
+SENTID: 7
+SENT: Place in separate large bowl brushed with remaining oil ;
+PREDID: 0
+PRED: place
+  PARG: separate large bowl brushed
+    PREP: in
+  PARG: remaining oil
+    PREP: with
+
+
+SENTID: 8
+SENT: turn dough over .
+PREDID: 0
+PRED: turn
+  DOBJ: dough
+
+
+SENTID: 9
+SENT: Cover with plastic wrap .
+PREDID: 0
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+
+SENTID: 10
+SENT: Let rise in warm place 1 hour or until doubled in volume .
+PREDID: 0
+PRED: let
+  DOBJ: rise
+  PARG: warm
+    PREP: in
+
+PREDID: 1
+PRED: place
+  PARG: doubled in volume
+    PREP: until
+  OARG: 1 hour
+
+
+SENTID: 11
+SENT: Heat oven to 450 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 450 degrees f.
+    PREP: to
+
+
+SENTID: 12
+SENT: Spray baking sheet with cooking spray ;
+PREDID: 0
+PRED: spray
+  DOBJ: baking sheet
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 13
+SENT: sprinkle with cornmeal .
+PREDID: 0
+PRED: sprinkle
+  PARG: cornmeal
+    PREP: with
+
+
+SENTID: 14
+SENT: Place dough on prepared baking sheet ;
+PREDID: 0
+PRED: place
+  DOBJ: dough
+  PARG: prepared baking sheet
+    PREP: on
+
+
+SENTID: 15
+SENT: pat into 13x9-inch rectangle .
+PREDID: 0
+PRED: pat
+  PARG: 13x9-inch rectangle
+    PREP: into
+
+
+SENTID: 16
+SENT: Bake 5 min .
+PREDID: 0
+PRED: bake
+  DOBJ: 5 min
+
+
+SENTID: 17
+SENT: Spread with barbecue sauce ;
+PREDID: 0
+PRED: spread
+  PARG: barbecue sauce
+    PREP: with
+
+
+SENTID: 18
+SENT: top with all remaining ingredients except cilantro .
+PREDID: 0
+PRED: top
+  PARG: all remaining ingredients
+    PREP: with
+  PARG: cilantro
+    PREP: except
+
+
+SENTID: 19
+SENT: Bake 10 to 12 min .
+PREDID: 0
+PRED: bake
+  DOBJ: 10 to 12 min
+
+
+SENTID: 20
+SENT: or until crust is golden brown and cheese is melted .
+PREDID: 0
+PRED: cheese
+  DOBJ: is melted
+  PARG: crust is golden brown
+    PREP: until
+
+
+SENTID: 21
+SENT: Top with cilantro .
+PREDID: 0
+PRED: top
+  PARG: cilantro
+    PREP: with
+

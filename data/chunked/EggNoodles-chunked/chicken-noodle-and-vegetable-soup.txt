@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: Mix broth , onion powder , basil , garlic powder and vegetables in saucepan .
+PREDID: 0
+PRED: mix
+  DOBJ: broth , onion powder , basil , garlic powder, vegetables
+  PARG: saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Heat to a boil .
+PREDID: 0
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir in noodles .
+PREDID: 0
+PRED: stir
+  PARG: noodles
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook 5 minutes or until noodles are done .
+PREDID: 0
+PRED: cook
+  PARG: noodles are done
+    PREP: until
+  OARG: 5 minutes
+

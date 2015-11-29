@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Brown meat in large skillet ;
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: large skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Add pepper and onions ;
+PREDID: 0
+PRED: add
+  DOBJ: pepper, onions
+
+
+SENTID: 3
+SENT: cook 5 min. , stirring frequently .
+PREDID: 0
+PRED: cook
+  DOBJ: 5 min. , stirring
+  OARG: frequently
+
+
+SENTID: 4
+SENT: Add beans , tomatoes , seasonings and 1/4 cup cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: beans , tomatoes , seasonings, 1/4 cup cheese
+
+
+SENTID: 5
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 6
+SENT: Simmer 1 hour , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  OARG: 1 hour , stirring
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Served topped with remaining cheese .
+PREDID: 0
+PRED: served
+  DOBJ: topped
+  PARG: remaining cheese
+    PREP: with
+

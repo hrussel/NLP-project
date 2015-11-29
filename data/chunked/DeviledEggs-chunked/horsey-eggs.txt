@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Remove yolks from egg halves and place yolks into a bowl ;
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+  PARG: egg halves
+    PREP: from
+
+PREDID: 1
+PRED: place
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: mash yolks with horseradish sauce , using a fork , until mixture is smooth .
+PREDID: 0
+PRED: mash
+  DOBJ: using a fork
+  PARG: horseradish sauce
+    PREP: with
+  PARG: mixture is smooth
+    PREP: until
+  OARG: yolks
+
+
+SENTID: 2
+SENT: Spoon egg yolk mixture back into the cavities in egg whites ;
+PREDID: 0
+PRED: spoon
+  DOBJ: egg yolk mixture
+  PARG: the cavities
+    PREP: into
+  PARG: egg whites
+    PREP: in
+  OARG: back
+
+
+SENTID: 3
+SENT: refrigerate until serving time .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving time
+    PREP: until
+

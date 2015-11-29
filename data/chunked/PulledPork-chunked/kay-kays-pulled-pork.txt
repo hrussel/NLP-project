@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Combine brown sugar , salt , paprika , black pepper , cayenne pepper , white sugar , garlic powder , and onion powder in a bowl until evenly mixed .
+PREDID: 0
+PRED: combine
+  DOBJ: brown sugar , salt , paprika , black pepper , cayenne pepper , white sugar , garlic powder , onion powder
+  PARG: a bowl
+    PREP: in
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 1
+SENT: Rub spice mixture over pork .
+PREDID: 0
+PRED: rub
+  DOBJ: spice mixture
+  PARG: pork
+    PREP: over
+
+
+SENTID: 2
+SENT: Cover pork with plastic wrap and refrigerate at least 1 hour , preferably overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: pork
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  OARG: preferably
+  OARG: overnight
+
+
+SENTID: 3
+SENT: Place the pork into a slow cooker and add enough water to just cover the pork .
+PREDID: 0
+PRED: place
+  DOBJ: the pork
+  PARG: a slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: water
+  OARG: enough
+  OARG: to just cover the pork
+
+
+SENTID: 4
+SENT: Cover and cook on High for 4 hours or on Low for 6 to 8 hours .
+PREDID: 0
+PRED: cover
+  PARG: high
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 4 hours
+    PREP: for
+  PARG: low
+    PREP: on
+  PARG: 6 to 8 hours
+    PREP: for
+
+
+SENTID: 5
+SENT: Transfer pork to a large bowl and shred with 2 forks ;
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 1
+PRED: shred
+  PARG: 2 forks
+    PREP: with
+
+
+SENTID: 6
+SENT: discard any bone , skin , and excess fat .
+PREDID: 0
+PRED: discard
+  DOBJ: any bone , skin , excess fat
+
+
+SENTID: 7
+SENT: Drain and reserve cooking liquid from the slow cooker .
+PREDID: 0
+PRED: drain
+  DOBJ: cooking liquid
+
+PREDID: 1
+PRED: reserve
+  PARG: the slow cooker
+    PREP: from
+
+
+SENTID: 8
+SENT: Return shredded pork to the slow cooker and stir in barbeque sauce .
+PREDID: 0
+PRED: return
+  DOBJ: shredded pork
+  PARG: the slow cooker
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: barbeque sauce
+    PREP: in
+
+
+SENTID: 9
+SENT: Reduce heat to Low and cook for 2 more hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: 2 more hours
+    PREP: for
+
+
+SENTID: 10
+SENT: Add enough reserved cooking liquid to moisten the pork to taste .
+PREDID: 0
+PRED: add
+  DOBJ: reserved cooking liquid
+  PARG: taste
+    PREP: to
+  OARG: enough
+  OARG: to moisten the pork
+

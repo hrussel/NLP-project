@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: Prepare rice mix as directed on package and chill .
+PREDID: 0
+PRED: prepare
+  DOBJ: rice
+
+PREDID: 1
+PRED: mix
+  PARG: directed
+    PREP: as
+  PARG: package
+    PREP: on
+
+PREDID: 2
+PRED: chill
+
+
+SENTID: 1
+SENT: To the cooked rice , add the green onions , water chestnuts , celery , chicken , mayonnaise , Worcestershire sauce and salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: the green onions , water chestnuts , celery , chicken , mayonnaise , worcestershire sauce, salt, pepper
+  PARG: the cooked rice
+    PREP: to
+  PARG: taste
+    PREP: to
+
+
+SENTID: 2
+SENT: Mix well , chill and serve .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+PREDID: 1
+PRED: chill
+
+PREDID: 2
+PRED: serve
+

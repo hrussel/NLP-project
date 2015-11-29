@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Cook egg noodles in a large pot with boiling salted water .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 2
+SENT: In a large bowl dissolve chicken bouillon cube in boiling water .
+PREDID: 0
+PRED: dissolve
+  DOBJ: chicken bouillon cube
+  PARG: a large bowl
+    PREP: in
+  PARG: boiling water
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix in the cream of mushroom soup , chopped onion , Worcestershire sauce , poppy seeds , garlic powder , and hot pepper sauce .
+PREDID: 0
+PRED: mix
+  PARG: the cream of mushroom soup , chopped onion , worcestershire sauce , poppy seeds , garlic powder , hot pepper sauce
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in cottage cheese , sour cream , and cooked egg noodles .
+PREDID: 0
+PRED: stir
+  PARG: cottage cheese , sour cream , cooked egg noodles
+    PREP: in
+
+
+SENTID: 5
+SENT: Transfer to lightly greased slow cooker and sprinkle the top with parmesan cheese and paprika .
+PREDID: 0
+PRED: transfer
+  OARG: to lightly greased slow cooker
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: the top
+  PARG: parmesan cheese, paprika
+    PREP: with
+
+
+SENTID: 6
+SENT: Cover and cook on high for 3 to 4 hours .
+PREDID: 0
+PRED: cover
+  PARG: high
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 3 to 4 hours
+    PREP: for
+
+
+SENTID: 7
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

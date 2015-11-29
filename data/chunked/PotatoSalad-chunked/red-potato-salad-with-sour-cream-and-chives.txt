@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Scrub potatoes -LRB- do n't peel -RRB- .
+PREDID: 0
+PRED: scrub
+  DOBJ: potatoes -lrb- do
+  OARG: n't
+
+PREDID: 1
+PRED: peel
+
+
+SENTID: 1
+SENT: If large , cut in half or in quarters .
+PREDID: 0
+PRED: cut
+  PARG: large
+    PREP: if
+  PARG: half
+    PREP: in
+  PARG: quarters
+    PREP: in
+
+
+SENTID: 2
+SENT: Boil potatoes in their skins until fork-tender .
+PREDID: 0
+PRED: boil
+  DOBJ: potatoes
+  PARG: their skins
+    PREP: in
+  PARG: fork-tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , dry and cut into 1/2 inch cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: dry
+  PARG: 1/2 inch cubes
+    PREP: into
+
+PREDID: 2
+PRED: cut
+
+
+SENTID: 4
+SENT: In a salad bowl , combine the potatoes , sour cream , yogurt , and chives ;
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , sour cream , yogurt , chives
+  PARG: a salad bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: toss gently to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: gently
+
+
+SENTID: 6
+SENT: Add salt , and pepper to taste ;
+PREDID: 0
+PRED: add
+  DOBJ: salt , pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 7
+SENT: refrigerate until chilled .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+

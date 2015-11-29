@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: To make tomato sauce , heat olive oil in a saucepan over medium-low heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: make tomato sauce
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir the onion , green pepper , and celery in the hot oil until the onion is soft , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onion , green pepper , celery
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: the onion is soft , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour the undrained whole tomatoes , tomato sauce , 1Ê1/2 teaspoons Italian seasoning , sugar , oregano , 3/4 teaspoon garlic powder , Worcestershire sauce , and water into a blender and blend until smooth .
+PREDID: 0
+PRED: pour
+  DOBJ: the undrained whole tomatoes , tomato sauce , 1Ê1/2 teaspoons italian seasoning , sugar , oregano , 3/4 teaspoon garlic powder , worcestershire sauce , water
+  PARG: a blender
+    PREP: into
+
+PREDID: 1
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour the tomato mixture into the saucepan and simmer over low heat for 1Ê1/2 hours , stirring occasionally .
+PREDID: 0
+PRED: pour
+  DOBJ: the tomato mixture
+  PARG: the saucepan
+    PREP: into
+
+PREDID: 1
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: 1Ê1/2 hours , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Stir in 1/4 cup parsley .
+PREDID: 0
+PRED: stir
+  PARG: 1/4 cup parsley
+    PREP: in
+
+
+SENTID: 5
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+
+
+SENTID: 8
+SENT: In a bowl , mix together the ground beef , bread crumbs , 1 teaspoon garlic powder , Creole seasoning , cayenne pepper , and salt until the mixture is thoroughly combined ;
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , bread crumbs , 1 teaspoon garlic powder , creole seasoning , cayenne pepper , salt
+  PARG: a bowl
+    PREP: in
+  PARG: the mixture is thoroughly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 9
+SENT: spread into the bottom of the prepared baking dish .
+PREDID: 0
+PRED: spread
+  PARG: the bottom of the prepared baking dish
+    PREP: into
+
+
+SENTID: 10
+SENT: Scatter the mozzarella cheese over the meat ;
+PREDID: 0
+PRED: scatter
+  DOBJ: the mozzarella cheese
+  PARG: the meat
+    PREP: over
+
+
+SENTID: 11
+SENT: spread 1/4 cup of the sauce over the cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 cup of the sauce
+  PARG: the cheese
+    PREP: over
+
+
+SENTID: 12
+SENT: Sprinkle the sauce with 1/4 cup chopped parsley and 2 teaspoons of Italian seasoning .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the sauce
+  PARG: 1/4 cup chopped parsley, 2 teaspoons of italian seasoning
+    PREP: with
+
+
+SENTID: 13
+SENT: Pick up one end of the meat layer -LRB- short side -RRB- , and gently roll the meat around the filling .
+PREDID: 0
+PRED: pick
+  DOBJ: one end of the meat
+  OARG: up
+
+PREDID: 1
+PRED: layer
+  DOBJ: short side -rrb-
+  OARG: gently
+
+PREDID: 2
+PRED: roll
+  DOBJ: the meat
+  PARG: the filling
+    PREP: around
+
+
+SENTID: 14
+SENT: Reposition the meat roll in the center of the dish , and pour the remaining tomato sauce over the roll .
+PREDID: 0
+PRED: reposition
+  DOBJ: the meat
+
+PREDID: 1
+PRED: roll
+  PARG: the center of the dish
+    PREP: in
+
+PREDID: 2
+PRED: pour
+  DOBJ: the remaining tomato sauce
+  PARG: the roll
+    PREP: over
+
+
+SENTID: 15
+SENT: Bake in the preheated oven until the roll is no longer pink in the center , 45 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the roll is no longer pink in the center , 45 minutes to 1 hour
+    PREP: until
+

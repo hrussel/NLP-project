@@ -1,0 +1,229 @@
+SENTID: 0
+SENT: Soak eggplant slices in a large bowl of lightly salted water for 30 minutes .
+PREDID: 0
+PRED: soak
+  DOBJ: eggplant slices
+  PARG: a large bowl of lightly salted water
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 1
+SENT: Drain and pat dry with paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: dry
+
+PREDID: 1
+PRED: pat
+  PARG: paper towels
+    PREP: with
+
+
+SENTID: 2
+SENT: Cook and stir ground beef in a skillet over medium heat until browned , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+
+PREDID: 1
+PRED: stir
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: browned , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 4
+SENT: Preheat the oven 's broiler and set the oven rack about 6 inches from the heat source .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven 's broiler
+
+PREDID: 1
+PRED: set
+  DOBJ: the oven rack
+  PARG: 6 inches
+    PREP: about
+  PARG: the heat source
+    PREP: from
+
+
+SENTID: 5
+SENT: Whisk olive oil and Italian seasoning together in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: olive oil, italian seasoning
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Brush both sides of eggplant slices with the seasoned olive oil .
+PREDID: 0
+PRED: brush
+  DOBJ: both sides of eggplant slices
+  PARG: the seasoned olive oil
+    PREP: with
+
+
+SENTID: 7
+SENT: Arrange eggplant slices on a baking sheet and place in preheated oven ;
+PREDID: 0
+PRED: arrange
+  DOBJ: eggplant slices
+  PARG: a baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: place
+  PARG: preheated oven
+    PREP: in
+
+
+SENTID: 8
+SENT: broil until browned , 2 to 4 minutes on each side .
+PREDID: 0
+PRED: broil
+  PARG: browned , 2 to 4 minutes on each side
+    PREP: until
+
+
+SENTID: 9
+SENT: Set oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: set
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 10
+SENT: Measure 1 cup of Parmesan cheese and set aside .
+PREDID: 0
+PRED: measure
+  DOBJ: 1 cup of parmesan cheese
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 11
+SENT: Stir ricotta cheese , egg , and remaining Parmesan cheese together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: ricotta cheese , egg , remaining parmesan cheese
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 12
+SENT: Stir spaghetti sauce , diced tomatoes , and ketchup together in a separate bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: spaghetti sauce , diced tomatoes , ketchup
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 13
+SENT: Spread a small amount of spaghetti sauce mixture in the bottom of a casserole dish .
+PREDID: 0
+PRED: spread
+  DOBJ: a small amount of spaghetti sauce mixture
+  PARG: the bottom of a casserole dish
+    PREP: in
+
+
+SENTID: 14
+SENT: Top spaghetti sauce mixture with a layer of broiled eggplant slices .
+PREDID: 0
+PRED: top
+  DOBJ: spaghetti sauce mixture
+  PARG: a layer of broiled eggplant slices
+    PREP: with
+
+
+SENTID: 15
+SENT: Cover eggplant layer with a layer of the ricotta mixture .
+PREDID: 0
+PRED: cover
+  DOBJ: eggplant layer
+  PARG: a layer of the ricotta mixture
+    PREP: with
+
+
+SENTID: 16
+SENT: Sprinkle a layer of feta on top of the ricotta mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: a layer of feta
+  PARG: top of the ricotta mixture
+    PREP: on
+
+
+SENTID: 17
+SENT: Cover feta layer with ground beef layer .
+PREDID: 0
+PRED: cover
+  DOBJ: feta layer
+  PARG: ground beef layer
+    PREP: with
+
+
+SENTID: 18
+SENT: Sprinkle a layer of spinach on top of ground beef .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: a layer of spinach
+  PARG: top of ground beef
+    PREP: on
+
+
+SENTID: 19
+SENT: Repeat with remaining ingredients , ending with a final layer of eggplant topped with the reserved 1 cup Parmesan cheese .
+PREDID: 0
+PRED: repeat
+  PARG: remaining ingredients , ending
+    PREP: with
+  PARG: a final layer of eggplant topped
+    PREP: with
+  PARG: the reserved 1 cup parmesan cheese
+    PREP: with
+
+
+SENTID: 20
+SENT: Bake in the preheated oven until sauce is bubbling and cheese is browned , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: sauce is bubbling, cheese is browned , about 40 minutes
+    PREP: until
+
+
+SENTID: 21
+SENT: Let cool for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

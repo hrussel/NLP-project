@@ -1,0 +1,153 @@
+T1	predicate 0 7	Preheat
+T2	predicate 48 53	Bring
+T3	predicate 101 104	Add
+T4	predicate 161 166	drain
+T5	predicate 171 180	set aside
+T6	predicate 182 187	Place
+T7	predicate 228 232	Cook
+T8	predicate 275 282	Stir in
+T9	predicate 371 377	Simmer
+T10	predicate 455 462	combine
+T11	predicate 556 561	place
+T12	predicate 689 695	repeat
+T13	predicate 704 709	Cover
+T14	predicate 733 737	bake
+T15	predicate 778 784	Remove
+T16	predicate 794 798	bake
+T17	predicate 828 837	let stand
+T18	predicate 869 874	serve
+T19	arg_object 8 12	oven
+T20	arg_object 54 89	a large pot of lightly salted water
+T21	arg_object 105 112	noodles
+T22	predicate 117 121	cook
+T23	arg_object 188 192	pork
+T24	arg_object 197 201	beef
+R1	object Arg1:T6 Arg2:T23	
+R2	object Arg1:T6 Arg2:T24	
+T25	arg_location 202 226	in a large, deep skillet
+R3	location Arg1:T6 Arg2:T25	
+T26	arg_duration 13 46	to 375  degrees F (190 degrees C)
+R4	object Arg1:T1 Arg2:T19	
+R5	duration Arg1:T1 Arg2:T26	
+R6	object Arg1:T2 Arg2:T20	
+T27	arg_duration 90 99	to a boil
+R7	duration Arg1:T2 Arg2:T27	
+T28	arg_duration 122 159	for 8 to 10 minutes or until al dente
+R8	object Arg1:T3 Arg2:T21	
+R9	location Arg1:T3 Arg2:T2	
+R10	object Arg1:T22 Arg2:T3	
+R11	duration Arg1:T22 Arg2:T28	
+R12	object Arg1:T4 Arg2:T22	
+R13	object Arg1:T5 Arg2:T4	
+T29	arg_other 233 254	over medium high heat
+T30	arg_duration 255 273	until evenly brown
+R14	other Arg1:T7 Arg2:T29	
+R15	duration Arg1:T7 Arg2:T30	
+R16	object Arg1:T7 Arg2:T6	
+T31	arg_object 283 295	tomato sauce
+T32	arg_object 297 313	crushed tomatoes
+T33	arg_object 315 322	parsley
+T34	arg_object 324 330	garlic
+T35	arg_object 332 339	oregano
+T36	arg_object 341 346	onion
+T37	arg_object 348 353	sugar
+T38	arg_object 355 360	basil
+T39	arg_object 365 369	salt
+R17	object Arg1:T8 Arg2:T31	
+R18	object Arg1:T8 Arg2:T32	
+R19	object Arg1:T8 Arg2:T33	
+R20	object Arg1:T8 Arg2:T34	
+R21	object Arg1:T8 Arg2:T35	
+R22	object Arg1:T8 Arg2:T36	
+R23	object Arg1:T8 Arg2:T37	
+R24	object Arg1:T8 Arg2:T38	
+R25	object Arg1:T8 Arg2:T39	
+R26	co-object Arg1:T8 Arg2:T7	
+T40	arg_other 378 398	over medium-low heat
+T41	arg_duration 399 413	for 30 minutes
+T42	arg_other 415 436	stirring occasionally
+R27	other Arg1:T9 Arg2:T40	
+R28	duration Arg1:T9 Arg2:T41	
+R29	other Arg1:T9 Arg2:T42	
+R30	object Arg1:T9 Arg2:T8	
+T43	arg_location 438 453	In a large bowl
+T44	arg_object 463 477	cottage cheese
+T45	arg_object 479 483	eggs
+T46	arg_object 485 500	Parmesan cheese
+T47	arg_object 502 509	parsley
+T48	arg_object 511 515	salt
+T49	arg_object 520 526	pepper
+R31	location Arg1:T10 Arg2:T43	
+R32	object Arg1:T10 Arg2:T44	
+R33	object Arg1:T10 Arg2:T45	
+R34	object Arg1:T10 Arg2:T46	
+R35	object Arg1:T10 Arg2:T47	
+R36	object Arg1:T10 Arg2:T48	
+R37	object Arg1:T10 Arg2:T49	
+T50	arg_location 528 554	In a 9x13 inch baking dish
+T51	arg_object 562 581	2 layers of noodles
+T53	arg_location 582 603	on the bottom of dish
+T54	predicate 605 610	layer
+T55	arg_object 611 636	1/2 of the cheese mixture
+T56	arg_object 638 666	1/2 of the mozzarella cheese
+T57	arg_object 671 687	1/2 of the sauce
+R38	location Arg1:T11 Arg2:T50	
+R39	object Arg1:T11 Arg2:T51	
+R40	location Arg1:T11 Arg2:T53	
+R41	co-object Arg1:T54 Arg2:T11	
+R42	object Arg1:T54 Arg2:T55	
+R43	object Arg1:T54 Arg2:T56	
+R44	object Arg1:T54 Arg2:T57	
+T60	arg_other 696 702	layers
+R45	other Arg1:T12 Arg2:T54	
+T61	arg_object 785 789	foil
+R46	object Arg1:T15 Arg2:T61	
+T62	arg_co-object 710 728	with aluminum foil
+R48	co-object Arg1:T13 Arg2:T62	
+R49	object Arg1:T14 Arg2:T13	
+T63	arg_location 738 755	in preheated oven
+T64	arg_duration 756 776	for 30 to 40 minutes
+R50	location Arg1:T14 Arg2:T63	
+R51	duration Arg1:T14 Arg2:T64	
+T65	Evolution 741 755	preheated oven
+E4	Evolution:T65 Cause:T1
+R52	object Arg1:T16 Arg2:T15	
+T66	arg_duration 799 826	for another 5 to 10 minutes
+R53	duration Arg1:T16 Arg2:T66	
+R55	object Arg1:T17 Arg2:T16	
+R58	co-object Arg1:T15 Arg2:T14	
+R59	other Arg1:T12 Arg2:T60	
+R47	object Arg1:T13 Arg2:T12	
+T69	ingredient 105 112	noodles
+T70	ingredient 188 192	pork
+T71	ingredient 197 201	beef
+T72	ingredient 283 295	tomato sauce
+T73	ingredient 297 313	crushed tomatoes
+T74	ingredient 315 322	parsley
+T75	ingredient 324 330	garlic
+T76	ingredient 332 339	oregano
+T77	ingredient 341 346	onion
+T78	ingredient 348 353	sugar
+T79	ingredient 355 360	basil
+T80	ingredient 365 369	salt
+T81	ingredient 463 477	cottage cheese
+T82	ingredient 479 483	eggs
+T83	ingredient 485 500	Parmesan cheese
+T84	ingredient 502 509	parsley
+T85	ingredient 511 515	salt
+T86	ingredient 520 526	pepper
+T87	ingredient 54 89	a large pot of lightly salted water
+R60	co-object Arg1:T4 Arg2:T22	
+T52	Evolution 562 581	2 layers of noodles
+E1	Evolution:T52 Cause:T5
+T58	Evolution 611 636	1/2 of the cheese mixture
+E2	Evolution:T58 Cause:T10
+T59	Evolution 671 687	1/2 of the sauce
+E3	Evolution:T59 Cause:T9
+T67	arg_duration 838 852	for 10 minutes
+T68	predicate 860 867	cutting
+R54	duration Arg1:T17 Arg2:T67	
+R56	object Arg1:T68 Arg2:T17	
+R57	object Arg1:T18 Arg2:T68	
+R61	same-location Arg1:T53 Arg2:T50	
+T88	ingredient 638 666	1/2 of the mozzarella cheese

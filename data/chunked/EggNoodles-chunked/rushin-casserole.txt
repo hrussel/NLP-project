@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add noodles and cook for 8 to 10 minutes or until al dente .
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and transfer to a serving dish .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a serving dish
+    PREP: to
+
+
+SENTID: 3
+SENT: While the pasta is cooking , mix together the yogurt and garlic in a medium bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the yogurt, garlic
+  PARG: the pasta is cooking
+    PREP: while
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Cover , and refrigerate until serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+
+
+SENTID: 5
+SENT: In a large skillet over medium heat , brown the ground beef with the onion .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the onion
+    PREP: with
+
+
+SENTID: 6
+SENT: Season with cinnamon while cooking .
+PREDID: 0
+PRED: season
+  PARG: cinnamon
+    PREP: with
+  PARG: cooking
+    PREP: while
+
+
+SENTID: 7
+SENT: Drain off excess grease , and stir in lemon juice and salt .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+PREDID: 1
+PRED: stir
+  PARG: lemon juice, salt
+    PREP: in
+
+
+SENTID: 8
+SENT: Adjust seasoning to taste .
+PREDID: 0
+PRED: adjust
+  DOBJ: seasoning
+  PARG: taste
+    PREP: to
+
+
+SENTID: 9
+SENT: Toss the meat mixture with noodles , and serve hot with cold yogurt sauce spooned over .
+PREDID: 0
+PRED: toss
+  DOBJ: the meat mixture
+  PARG: noodles
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  DOBJ: over
+  PARG: cold yogurt sauce spooned
+    PREP: with
+  OARG: hot
+

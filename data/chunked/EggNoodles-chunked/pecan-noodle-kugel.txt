@@ -1,0 +1,186 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Preheat an oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Beat eggs in a large bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Beat in half of the melted butter , then stir in half of the brown sugar and a pinch of salt .
+PREDID: 0
+PRED: beat
+  PARG: half of the melted butter
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: half of the brown sugar, a pinch of salt
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir in the noodles , making sure the noodles are evenly coated .
+PREDID: 0
+PRED: stir
+  DOBJ: the noodles are
+  PARG: the noodles , making
+    PREP: in
+  OARG: sure
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Spread the remaining butter on the bottom of a deep baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: the remaining butter
+  PARG: the bottom of a deep baking dish
+    PREP: on
+
+
+SENTID: 9
+SENT: Sprinkle the remaining brown sugar in the baking dish , patting the sugar up the sides .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the remaining brown sugar
+  PARG: the baking dish
+    PREP: in
+  OARG: up
+
+
+SENTID: 10
+SENT: Spread pecans over the brown sugar .
+PREDID: 0
+PRED: spread
+  DOBJ: pecans
+  PARG: the brown sugar
+    PREP: over
+
+
+SENTID: 11
+SENT: Pour noodle mixture over the sugar .
+PREDID: 0
+PRED: pour
+  DOBJ: noodle mixture
+  PARG: the sugar
+    PREP: over
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until firm , about 1 hour and 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: firm , about 1 hour, 15 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Run a paring knife between the kugel and the edge of the baking dish .
+PREDID: 0
+PRED: run
+  DOBJ: a paring knife
+  PARG: the kugel, the edge of the baking dish
+    PREP: between
+
+
+SENTID: 14
+SENT: Hold the pan on its side and gently tap the sides of the pan against the counter to loosen it .
+PREDID: 0
+PRED: hold
+  DOBJ: the pan
+  PARG: its side
+    PREP: on
+  OARG: gently
+
+PREDID: 1
+PRED: tap
+  DOBJ: the sides of the pan
+  PARG: the counter
+    PREP: against
+  OARG: to loosen it
+
+
+SENTID: 15
+SENT: Cover the baking dish with a large platter and invert it to tip the kugel out of the baking dish and onto the plate .
+PREDID: 0
+PRED: cover
+  DOBJ: the baking dish
+  PARG: a large platter
+    PREP: with
+
+PREDID: 1
+PRED: invert
+  DOBJ: it
+  PARG: tip the kugel
+    PREP: to
+  PARG: of the baking dish
+    PREP: out
+  PARG: the plate
+    PREP: onto
+

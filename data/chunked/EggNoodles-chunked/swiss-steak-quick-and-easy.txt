@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Heat oil in a Dutch oven over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Dredge steak strips in flour .
+PREDID: 0
+PRED: dredge
+  DOBJ: steak strips
+  PARG: flour
+    PREP: in
+
+
+SENTID: 2
+SENT: Working in batches , place strips in hot oil .
+PREDID: 0
+PRED: place
+  DOBJ: working
+  PARG: batches
+    PREP: in
+  PARG: hot oil
+    PREP: in
+
+
+SENTID: 3
+SENT: Fry until browned on both sides .
+PREDID: 0
+PRED: fry
+  PARG: browned on both sides
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove to a warm platter .
+PREDID: 0
+PRED: remove
+  PARG: a warm platter
+    PREP: to
+
+
+SENTID: 5
+SENT: When all meat is browned , return meat to Dutch oven , and stir in onions , mushrooms , salt , pepper , gravy mix , and stewed tomatoes .
+PREDID: 0
+PRED: return
+  DOBJ: meat
+  PARG: dutch oven
+    PREP: to
+  OARG: when all meat is browned
+
+PREDID: 1
+PRED: stir
+  PARG: onions , mushrooms , salt , pepper , gravy mix , stewed tomatoes
+    PREP: in
+
+
+SENTID: 6
+SENT: Bring to a boil , then simmer about 30 to 45 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: simmer
+  PARG: 30 to 45 minutes
+    PREP: about
+
+
+SENTID: 7
+SENT: About 20 minutes before steak is finished , fill a large pot with water and bring to a boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: 20 minutes
+    PREP: about
+  PARG: steak is finished
+    PREP: before
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Add pasta , and cook until al dente , about 8 to 10 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: al dente , about 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 10
+SENT: Serve Swiss steak over noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: swiss steak
+  PARG: noodles
+    PREP: over
+

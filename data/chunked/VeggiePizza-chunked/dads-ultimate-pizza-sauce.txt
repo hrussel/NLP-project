@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Melt butter with olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: olive oil
+    PREP: with
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir onion , celery , and garlic in the butter mixture until the onion is soft and translucent , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion , celery , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the butter mixture
+    PREP: in
+  PARG: the onion is soft, translucent , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir tomato sauce and tomato paste into the onion mixture until smooth ;
+PREDID: 0
+PRED: stir
+  DOBJ: tomato sauce, tomato paste
+  PARG: the onion mixture
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: add Parmesan cheese , fennel seeds , basil , oregano , salt , sugar , pepper , and bay leaf .
+PREDID: 0
+PRED: add
+  DOBJ: parmesan cheese , fennel seeds , basil , oregano , salt , sugar , pepper , bay leaf
+
+
+SENTID: 4
+SENT: Stir the sauce and bring to a slow simmer ;
+PREDID: 0
+PRED: stir
+  DOBJ: the sauce
+
+PREDID: 1
+PRED: bring
+  PARG: a slow simmer
+    PREP: to
+
+
+SENTID: 5
+SENT: cook at a slow simmer for 1 hour .
+PREDID: 0
+PRED: cook
+  PARG: a slow simmer
+    PREP: at
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove and discard bay leaf before use .
+PREDID: 0
+PRED: remove
+  DOBJ: bay leaf
+
+PREDID: 1
+PRED: discard
+  PARG: use
+    PREP: before
+

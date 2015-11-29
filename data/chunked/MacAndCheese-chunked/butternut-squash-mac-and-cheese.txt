@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place butternut squash , cut-side down , on a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: butternut squash , cut-side
+  PARG: a baking sheet
+    PREP: on
+  OARG: down
+
+
+SENTID: 2
+SENT: Roast squash in the preheated oven until soft , 40 to 50 minutes .
+PREDID: 0
+PRED: roast
+  DOBJ: squash
+  PARG: the preheated oven
+    PREP: in
+  PARG: soft , 40 to 50 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove squash flesh from skin and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: squash flesh
+  PARG: skin
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Reduce oven temperature to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: cook the rotini at a boil until tender yet firm to the bite , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the rotini
+  PARG: a boil
+    PREP: at
+  PARG: tender yet firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 8
+SENT: Melt butter in a large saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Whisk flour and mustard into melted butter until smooth , about 1 minute .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour, mustard
+  PARG: melted butter
+    PREP: into
+  PARG: smooth , about 1 minute
+    PREP: until
+
+
+SENTID: 10
+SENT: Gradually whisk milk into flour mixture until the mixture has the texture of heavy cream , 5 to 7 minutes .
+PREDID: 0
+PRED: whisk
+  DOBJ: milk
+  PARG: flour mixture
+    PREP: into
+  PARG: the mixture has the texture of heavy cream , 5 to 7 minutes
+    PREP: until
+  OARG: gradually
+
+
+SENTID: 11
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 12
+SENT: Stir butternut squash , white Cheddar cheese , and Cheddar cheese into milk mixture until cheese is melted .
+PREDID: 0
+PRED: stir
+  DOBJ: butternut squash , white cheddar cheese , cheddar cheese
+  PARG: milk mixture
+    PREP: into
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 13
+SENT: Stir rotini into cheese mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: rotini
+  PARG: cheese mixture
+    PREP: into
+
+
+SENTID: 14
+SENT: Pour cheese mixture into a 9x13-inch baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: cheese mixture
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+
+SENTID: 15
+SENT: Top with bread crumbs .
+PREDID: 0
+PRED: top
+  PARG: bread crumbs
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake in the preheated oven until bread crumbs are golden , about 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bread crumbs are golden , about 10 minutes
+    PREP: until
+

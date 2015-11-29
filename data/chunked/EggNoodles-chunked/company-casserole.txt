@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a skillet over medium heat , brown the ground beef with the onion until no pink shows ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the onion
+    PREP: with
+  PARG: no pink shows
+    PREP: until
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Mix in 1 of the cans of tomato sauce , salt , pepper and cinnamon .
+PREDID: 0
+PRED: mix
+  PARG: 1 of the cans of tomato sauce , salt , pepper, cinnamon
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour into shallow 3 quart casserole baking dish .
+PREDID: 0
+PRED: pour
+  PARG: shallow 3 quart casserole baking dish
+    PREP: into
+
+
+SENTID: 8
+SENT: Pour in noodles in an even layer .
+PREDID: 0
+PRED: pour
+  PARG: noodles
+    PREP: in
+  PARG: an even layer
+    PREP: in
+
+
+SENTID: 9
+SENT: Top with cottage cheese ;
+PREDID: 0
+PRED: top
+  PARG: cottage cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: sprinkle with onions and Cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: onions, cheddar cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Pour on remaining can of tomato sauce .
+PREDID: 0
+PRED: pour
+  PARG: remaining can of tomato sauce
+    PREP: on
+
+
+SENTID: 12
+SENT: Bake in a preheated over for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated
+    PREP: in
+  PARG: for 30 minutes
+    PREP: over
+

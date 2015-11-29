@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Melt the bacon drippings in a large heavy pot over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the bacon drippings
+  PARG: a large heavy pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the onions and cook until they are translucent .
+PREDID: 0
+PRED: add
+  DOBJ: the onions
+
+PREDID: 1
+PRED: cook
+  PARG: they are translucent
+    PREP: until
+
+
+SENTID: 2
+SENT: Combine the beef with the garlic , ground chile , chili powder and cumin .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef
+  PARG: the garlic , ground chile , chili powder, cumin
+    PREP: with
+
+
+SENTID: 3
+SENT: Add this meat-and-spices to the onions in the pot .
+PREDID: 0
+PRED: add
+  DOBJ: this meat-and-spices
+  PARG: the onions
+    PREP: to
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 4
+SENT: Sprinkle in Hungarian paprika and oregano .
+PREDID: 0
+PRED: sprinkle
+  PARG: hungarian paprika, oregano
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour in the tomato sauce , tomato paste , water , salt , parsley and jalapeno .
+PREDID: 0
+PRED: pour
+  PARG: the tomato sauce , tomato paste , water , salt , parsley, jalapeno
+    PREP: in
+
+
+SENTID: 6
+SENT: Bring to a boil , then lower the heat and simmer , uncovered , for 1 hour .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: lower
+  DOBJ: the heat
+
+PREDID: 2
+PRED: simmer
+  DOBJ: uncovered
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 7
+SENT: NOTE :
+PREDID: 0
+PRED: note
+
+
+SENTID: 8
+SENT: Mix in the masa harina , and cook while stirring for 30 minutes longer , or until desired consistency is achieved .
+PREDID: 0
+PRED: mix
+  PARG: the masa harina
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: stirring
+    PREP: while
+  PARG: 30 minutes
+    PREP: for
+  PARG: desired consistency is achieved
+    PREP: until
+  OARG: longer
+
+
+SENTID: 9
+SENT: Taste and adjust seasonings .
+PREDID: 0
+PRED: taste
+  DOBJ: seasonings
+
+PREDID: 1
+PRED: adjust
+

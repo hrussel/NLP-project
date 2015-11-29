@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Place ground round in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground round
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: Coat a large Dutch oven with cooking spray , and place over medium-high heat .
+PREDID: 0
+PRED: coat
+  DOBJ: a large dutch oven
+  PARG: cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: When pan is hot , cook the onion and garlic in olive oil until the onion is tender .
+PREDID: 0
+PRED: cook
+  DOBJ: the onion, garlic
+  PARG: olive oil
+    PREP: in
+  PARG: the onion is tender
+    PREP: until
+  OARG: when pan is hot
+
+
+SENTID: 5
+SENT: Add the yellow pepper , and cook until tender .
+PREDID: 0
+PRED: add
+  DOBJ: the yellow pepper
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 6
+SENT: Season with cumin , paprika , chile powder , sugar , salt , and cloves .
+PREDID: 0
+PRED: season
+  PARG: cumin , paprika , chile powder , sugar , salt , cloves
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir in the stewed tomatoes , kidney beans , black beans , and cannellini beans .
+PREDID: 0
+PRED: stir
+  PARG: the stewed tomatoes , kidney beans , black beans , cannellini beans
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour in water to cover .
+PREDID: 0
+PRED: pour
+  PARG: water
+    PREP: in
+  PARG: cover
+    PREP: to
+
+
+SENTID: 9
+SENT: Bring to a boil , then stir in the meat and tomato paste .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the meat, tomato paste
+    PREP: in
+
+
+SENTID: 10
+SENT: Bring to a boil , and simmer for 30 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Remove from heat , stir in the vinegar and serve hot topped with fresh cilantro .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: the vinegar
+    PREP: in
+
+PREDID: 2
+PRED: serve
+  DOBJ: hot topped
+  PARG: fresh cilantro
+    PREP: with
+

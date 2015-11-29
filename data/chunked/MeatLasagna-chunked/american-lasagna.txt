@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: In a skillet over medium heat , brown ground beef , onion and garlic ;
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef , onion, garlic
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 2
+SENT: Mix in basil , oregano , brown sugar , 1Ê1/2 teaspoons salt , diced tomatoes and tomato paste .
+PREDID: 0
+PRED: mix
+  PARG: basil , oregano , brown sugar , 1Ê1/2 teaspoons salt , diced tomatoes, tomato paste
+    PREP: in
+
+
+SENTID: 3
+SENT: Simmer for 30 to 45 minutes , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  PARG: 30 to 45 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Add lasagna noodles , and cook for 5 to 8 minutes , or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: lasagna noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 5 to 8 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 7
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 8
+SENT: Lay noodles flat on towels , and blot dry .
+PREDID: 0
+PRED: lay
+  DOBJ: noodles flat
+  PARG: towels , blot dry
+    PREP: on
+
+
+SENTID: 9
+SENT: In a medium bowl , mix together eggs , ricotta , Parmesan cheese , parsley and 1 teaspoon salt .
+PREDID: 0
+PRED: mix
+  DOBJ: eggs , ricotta , parmesan cheese , parsley, 1 teaspoon salt
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Layer 1/3 of the lasagna noodles in the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: layer
+  DOBJ: 1/3 of the lasagna noodles
+  PARG: the bottom of a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Cover noodles with 1/2 ricotta mixture , 1/2 of the mozzarella cheese and 1/3 of the sauce .
+PREDID: 0
+PRED: cover
+  DOBJ: noodles
+  PARG: 1/2 ricotta mixture , 1/2 of the mozzarella cheese, 1/3 of the sauce
+    PREP: with
+
+
+SENTID: 12
+SENT: Repeat .
+PREDID: 0
+PRED: repeat
+
+
+SENTID: 13
+SENT: Top with remaining noodles and sauce .
+PREDID: 0
+PRED: top
+  PARG: remaining noodles
+    PREP: with
+
+PREDID: 1
+PRED: sauce
+
+
+SENTID: 14
+SENT: Sprinkle additional Parmesan cheese over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: additional parmesan cheese
+  PARG: the top
+    PREP: over
+
+
+SENTID: 15
+SENT: Bake in the preheated oven 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 30 minutes
+    PREP: in
+
+
+SENTID: 16
+SENT: Let stand 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 minutes
+

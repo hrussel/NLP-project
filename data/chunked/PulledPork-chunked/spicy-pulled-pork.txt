@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Mix flour , chili powder , paprika , cumin , adobo seasoning , and cayenne pepper in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , chili powder , paprika , cumin , adobo seasoning , cayenne pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Add pork and toss until coated .
+PREDID: 0
+PRED: add
+  DOBJ: pork
+
+PREDID: 1
+PRED: toss
+  PARG: coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Melt butter in a large skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: fry pork in batches until browned on all sides , about 10 minutes .
+PREDID: 0
+PRED: fry
+  DOBJ: pork
+  PARG: batches
+    PREP: in
+  PARG: browned on all sides , about 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Transfer browned pork to a slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: browned pork
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 5
+SENT: Cook and stir onion and garlic in the same skillet until vegetables are fragrant , about 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the same skillet
+    PREP: in
+  PARG: vegetables are fragrant , about 1 minute
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir tomatoes , barbeque sauce , brown sugar , and hot sauce into onion mixture and simmer for 5 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: tomatoes , barbeque sauce , brown sugar , hot sauce
+  PARG: onion mixture
+    PREP: into
+
+PREDID: 1
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Pour sauce over pork .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: pork
+    PREP: over
+
+
+SENTID: 8
+SENT: Cook on low for 5 to 6 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 5 to 6 hours
+    PREP: for
+
+
+SENTID: 9
+SENT: Transfer pork to a plate and shred with 2 forks .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a plate
+    PREP: to
+
+PREDID: 1
+PRED: shred
+  PARG: 2 forks
+    PREP: with
+
+
+SENTID: 10
+SENT: Return pork to slow cooker and stir .
+PREDID: 0
+PRED: return
+  DOBJ: pork
+  OARG: to slow cooker
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 11
+SENT: Continue to cook , uncovered , until thickened , 10 to 15 minutes .
+PREDID: 0
+PRED: continue
+  PARG: cook , uncovered
+    PREP: to
+  PARG: thickened , 10 to 15 minutes
+    PREP: until
+

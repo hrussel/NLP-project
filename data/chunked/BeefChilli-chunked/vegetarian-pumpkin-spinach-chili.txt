@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Combine the tomatoes , pumpkin , vegetable juice , okra , broccoli , carrot , zucchini , onion , pumpkin pie spice , sugar , vinegar , chili powder , salt , and pepper in a slow cooker ;
+PREDID: 0
+PRED: combine
+  DOBJ: the tomatoes , pumpkin , vegetable juice , okra , broccoli , carrot , zucchini , onion , pumpkin pie spice , sugar , vinegar , chili powder , salt , pepper
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: cook on High until the vegetables are tender , 3 to 4 hours .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: the vegetables are tender , 3 to 4 hours
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir the vegetarian ground beef crumbles , fava beans , and spinach into the tomato mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the vegetarian ground beef crumbles , fava beans , spinach
+  PARG: the tomato mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: continue cooking until completely warmed , 20 to 30 minutes more .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: completely warmed , 20 to 30 minutes more
+    PREP: until
+

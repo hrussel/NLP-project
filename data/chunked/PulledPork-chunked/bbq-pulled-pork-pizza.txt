@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the pizza crust onto a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: the pizza crust
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 2
+SENT: In a bowl , mix the barbeque sauce with chipotle chili powder ;
+PREDID: 0
+PRED: mix
+  DOBJ: the barbeque sauce
+  PARG: a bowl
+    PREP: in
+  PARG: chipotle chili powder
+    PREP: with
+
+
+SENTID: 3
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Spread the sauce over the pizza crust .
+PREDID: 0
+PRED: spread
+  DOBJ: the sauce
+  PARG: the pizza crust
+    PREP: over
+
+
+SENTID: 5
+SENT: Arrange pulled pork , sliced onion , and red bell pepper slices evenly over the pizza .
+PREDID: 0
+PRED: arrange
+  DOBJ: pulled pork , sliced onion , red bell pepper slices
+  PARG: the pizza
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until the toppings are hot and the pizza crust is crisp on the bottom , 12 to 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the toppings are hot, the pizza crust is crisp on the bottom , 12 to 15 minutes
+    PREP: until
+

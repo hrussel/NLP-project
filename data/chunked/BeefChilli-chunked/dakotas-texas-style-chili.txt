@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: In a heavy pot or Dutch oven , cook bacon over medium heat until crispy , stirring occasionally .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a heavy pot or dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crispy , stirring occasionally
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off excess grease , leaving enough to coat the bottom of the pan .
+PREDID: 0
+PRED: drain
+  PARG: excess grease , leaving
+    PREP: off
+  PARG: coat the bottom of the pan
+    PREP: to
+  OARG: enough
+
+
+SENTID: 2
+SENT: Add onions and garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: onions, garlic
+
+
+SENTID: 3
+SENT: cook and stir until the onions are tender .
+PREDID: 0
+PRED: cook
+  PARG: the onions are tender
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Season with oregano , cayenne pepper , paprika , chili powder and cumin .
+PREDID: 0
+PRED: season
+  PARG: oregano , cayenne pepper , paprika , chili powder, cumin
+    PREP: with
+
+
+SENTID: 5
+SENT: Cook and stir for about 30 seconds to toast the spices .
+PREDID: 0
+PRED: cook
+  PARG: about 30 seconds
+    PREP: for
+
+PREDID: 1
+PRED: stir
+  PARG: toast the spices
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir in the beef , water , beer , chipotle peppers , and cornmeal ;
+PREDID: 0
+PRED: stir
+  PARG: the beef , water , beer , chipotle peppers , cornmeal
+    PREP: in
+
+
+SENTID: 7
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat to low and simmer , uncovered , until beef is tender , 2Ê1/2 to 3 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  DOBJ: uncovered
+  PARG: beef is tender , 2Ê1/2 to 3 hours
+    PREP: until
+

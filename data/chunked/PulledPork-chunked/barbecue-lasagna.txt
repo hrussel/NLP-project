@@ -1,0 +1,191 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: cook the lasagna noodles in the boiling water until cooked through but still firm to the bite , about 12 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the lasagna noodles
+  PARG: the boiling water
+    PREP: in
+  PARG: cooked through but still firm to the bite , about 12 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Bring the pork in barbeque sauce to a simmer in a large pot over medium heat ;
+PREDID: 0
+PRED: bring
+  DOBJ: the pork
+  PARG: barbeque sauce
+    PREP: in
+  PARG: a simmer
+    PREP: to
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: keep warm at a slow simmer .
+PREDID: 0
+PRED: keep
+  DOBJ: warm
+  PARG: a slow simmer
+    PREP: at
+
+
+SENTID: 6
+SENT: Toss the mozzarella cheese and Cheddar cheese together in a bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the mozzarella cheese, cheddar cheese
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Beat the ricotta cheese , egg , salt , and pepper together in a separate bowl until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: the ricotta cheese , egg , salt , pepper
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 8
+SENT: Spread a layer of the barbeque sauce into the bottom of a large , deep baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: a layer of the barbeque sauce
+  PARG: the bottom of a large
+    PREP: into
+  OARG: deep
+
+
+SENTID: 9
+SENT: Lay enough lasagna noodles over the sauce to cover the bottom of the dish .
+PREDID: 0
+PRED: lay
+  DOBJ: lasagna noodles
+  PARG: the sauce
+    PREP: over
+  PARG: cover the bottom of the dish
+    PREP: to
+  OARG: enough
+
+
+SENTID: 10
+SENT: Spread an even layer of the pulled pork in barbeque sauce over the noodles ;
+PREDID: 0
+PRED: spread
+  DOBJ: an even layer of the pulled pork
+  PARG: barbeque sauce
+    PREP: in
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 11
+SENT: top with a layer of the ricotta mixture and the mozzarella and Cheddar cheese mixture .
+PREDID: 0
+PRED: top
+  PARG: a layer of the ricotta mixture, the mozzarella, cheddar cheese mixture
+    PREP: with
+
+
+SENTID: 12
+SENT: Repeat layering .
+PREDID: 0
+PRED: repeat
+  DOBJ: layering
+
+
+SENTID: 13
+SENT: Finish the assembly by topping with a layer of the ricotta mixture , a thin layer of the pork , and a light sprinkling of the cheese mixture .
+PREDID: 0
+PRED: finish
+  DOBJ: the assembly
+  PARG: topping
+    PREP: by
+  PARG: a layer of the ricotta mixture , a thin layer of the pork , a light sprinkling of the cheese mixture
+    PREP: with
+
+
+SENTID: 14
+SENT: Reserve a small portion of the cheese mixture for later .
+PREDID: 0
+PRED: reserve
+  DOBJ: a small portion of the cheese mixture
+  PARG: later
+    PREP: for
+
+
+SENTID: 15
+SENT: Bake in the preheated oven for 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 16
+SENT: Top the lasagna with the reserved cheese mixture and return to over until the cheese is bubbly , about 5 minutes .
+PREDID: 0
+PRED: top
+  DOBJ: the lasagna
+  PARG: the reserved cheese mixture
+    PREP: with
+
+PREDID: 1
+PRED: return
+  PARG: over
+    PREP: to
+  PARG: the cheese is bubbly , about 5 minutes
+    PREP: until
+
+
+SENTID: 17
+SENT: Remove from oven and allow to rest for 15 minutes before serving .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: rest
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

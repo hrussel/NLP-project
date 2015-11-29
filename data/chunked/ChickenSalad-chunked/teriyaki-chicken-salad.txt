@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Marinate chicken in the orange juice , soy sauce and lemon-lime carbonated beverage for several hours or overnight .
+PREDID: 0
+PRED: marinate
+  DOBJ: chicken
+  PARG: the orange juice , soy sauce, lemon-lime carbonated beverage
+    PREP: in
+  PARG: several hours
+    PREP: for
+  OARG: overnight
+
+
+SENTID: 1
+SENT: Preheat grill to medium-high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: grill
+  PARG: medium-high heat
+    PREP: to
+
+
+SENTID: 2
+SENT: Remove chicken from marinade and drain .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: marinade
+    PREP: from
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 3
+SENT: Place chicken on hot grill and cook for 6 to 8 minutes on each side , or until juices run clear .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: hot grill
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove , cool , and cut into strips .
+PREDID: 0
+PRED: remove
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  PARG: strips
+    PREP: into
+
+
+SENTID: 5
+SENT: Whisk together the lemon juice , vegetable oil , salt , pepper and garlic cloves .
+PREDID: 0
+PRED: whisk
+  DOBJ: the lemon juice , vegetable oil , salt , pepper, garlic cloves
+  OARG: together
+
+
+SENTID: 6
+SENT: Allow garlic cloves to sit in dressing for a few hours and remove before pouring on the salad .
+PREDID: 0
+PRED: allow
+  DOBJ: garlic cloves
+  PARG: dressing
+    PREP: in
+  PARG: a few hours
+    PREP: for
+  OARG: to sit
+
+PREDID: 1
+PRED: remove
+  PARG: pouring
+    PREP: before
+  PARG: the salad
+    PREP: on
+
+
+SENTID: 7
+SENT: In a salad bowl , combine the lettuce , tomatoes , mozzarella , Parmesan and marinated chicken strips .
+PREDID: 0
+PRED: combine
+  DOBJ: the lettuce , tomatoes , mozzarella , parmesan, marinated chicken strips
+  PARG: a salad bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour dressing over salad ;
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+
+SENTID: 9
+SENT: toss and serve .
+PREDID: 0
+PRED: toss
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Heat the olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in the garlic and onion ;
+PREDID: 0
+PRED: stir
+  PARG: the garlic, onion
+    PREP: in
+
+
+SENTID: 2
+SENT: cook and stir until the onion has softened and begun to brown slightly , about 7 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, begun to brown slightly , about 7 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Remove from heat and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Combine the vegetable broth , potatoes , carrots , corn , 1Ê1/2 cups soy milk , garlic powder salt , and pepper in a large pot .
+PREDID: 0
+PRED: combine
+  DOBJ: the vegetable broth , potatoes , carrots , corn , 1Ê1/2 cups soy milk , garlic powder salt , pepper
+  PARG: a large pot
+    PREP: in
+
+
+SENTID: 5
+SENT: Bring to a boil over medium-high heat , then stir in the onion mixture .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the onion mixture
+    PREP: in
+
+
+SENTID: 6
+SENT: Reduce heat to medium-low and simmer , uncovered , until the potatoes and carrots are tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer , uncovered
+    PREP: to
+  PARG: the potatoes, carrots are tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Whisk together the flour and remaining 1/2 cup soy milk in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: remaining 1/2 cup soy milk
+  PARG: a bowl
+    PREP: in
+  OARG: together
+  OARG: the flour
+
+
+SENTID: 8
+SENT: Stir the mixture into the soup , and continue to simmer until the soup has thickened , about 10 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: the mixture
+  PARG: the soup
+    PREP: into
+
+PREDID: 1
+PRED: continue
+  PARG: simmer
+    PREP: to
+  PARG: the soup has thickened , about 10 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in the parsley before serving .
+PREDID: 0
+PRED: stir
+  PARG: the parsley
+    PREP: in
+  PARG: serving
+    PREP: before
+

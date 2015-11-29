@@ -1,0 +1,218 @@
+SENTID: 0
+SENT: Bring a large pot of water to a rapid boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a rapid boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Boil lasagna noodles 6 to 8 minutes until al dente .
+PREDID: 0
+PRED: boil
+  PARG: al dente
+    PREP: until
+  OARG: lasagna noodles 6 to 8 minutes
+
+
+SENTID: 2
+SENT: Drain and rinse with cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Lay noodles flat and remove excess water with a paper towel .
+PREDID: 0
+PRED: lay
+  DOBJ: noodles flat
+
+PREDID: 1
+PRED: remove
+  DOBJ: excess water
+  PARG: a paper towel
+    PREP: with
+
+
+SENTID: 4
+SENT: In a skillet , brown the ground beef over medium-high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Add onion , salt , pepper , and Italian seasoning .
+PREDID: 0
+PRED: add
+  DOBJ: onion , salt , pepper , italian seasoning
+
+
+SENTID: 6
+SENT: Cook until there is no remaining pink color in beef .
+PREDID: 0
+PRED: cook
+  PARG: there is no remaining pink color in beef
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain any liquids and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: any liquids
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: In a large bowl , mix together ricotta cheese , Romano cheese , 2 cups of the spaghetti sauce and the seasoned ground beef .
+PREDID: 0
+PRED: mix
+  DOBJ: ricotta cheese , romano cheese , 2 cups of the spaghetti sauce, the seasoned ground beef
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Mix until well blended .
+PREDID: 0
+PRED: mix
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 10
+SENT: Meanwhile , preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 11
+SENT: Add a thin layer of spaghetti sauce in the bottom of a 9x13 inch baking dish .
+PREDID: 0
+PRED: add
+  DOBJ: a thin layer of spaghetti sauce
+  PARG: the bottom of a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 12
+SENT: Add a layer of noodles lengthwise and a few noodles in the opposite direction .
+PREDID: 0
+PRED: add
+  DOBJ: a layer of noodles lengthwise, a few noodles
+  PARG: the opposite direction
+    PREP: in
+
+
+SENTID: 13
+SENT: Pour in a generous layer of ricotta mixture on top of noodles .
+PREDID: 0
+PRED: pour
+  PARG: a generous layer of ricotta mixture
+    PREP: in
+  PARG: top of noodles
+    PREP: on
+
+
+SENTID: 14
+SENT: Top ricotta layer with several basil leaves .
+PREDID: 0
+PRED: top
+  DOBJ: ricotta layer
+  PARG: several basil leaves
+    PREP: with
+
+
+SENTID: 15
+SENT: Add another layer of noodles lengthwise .
+PREDID: 0
+PRED: add
+  DOBJ: another layer of noodles lengthwise
+
+
+SENTID: 16
+SENT: Spread on 1 cup of the mozzarella cheese .
+PREDID: 0
+PRED: spread
+  PARG: 1 cup of the mozzarella cheese
+    PREP: on
+
+
+SENTID: 17
+SENT: Line up the zucchini slices on top of the mozzarella cheese .
+PREDID: 0
+PRED: line
+  DOBJ: the zucchini slices
+  PARG: top of the mozzarella cheese
+    PREP: on
+  OARG: up
+
+
+SENTID: 18
+SENT: Add another thin layer of ricotta cheese .
+PREDID: 0
+PRED: add
+  DOBJ: another thin layer of ricotta cheese
+
+
+SENTID: 19
+SENT: Add the last layer of noodles lengthwise .
+PREDID: 0
+PRED: add
+  DOBJ: the last layer of noodles lengthwise
+
+
+SENTID: 20
+SENT: Top the noodles with the remaining spaghetti sauce , several more basil leaves in an eye catching arrangement and top with the remaining 1/2 cup mozzarella cheese .
+PREDID: 0
+PRED: top
+  DOBJ: the noodles
+  PARG: the remaining spaghetti sauce , several more basil leaves
+    PREP: with
+  PARG: an eye catching arrangement, top
+    PREP: in
+  PARG: the remaining 1/2 cup mozzarella cheese
+    PREP: with
+
+
+SENTID: 21
+SENT: Bake in a preheated oven for 50 to 55 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated oven
+    PREP: in
+  PARG: 50 to 55 minutes
+    PREP: for
+
+
+SENTID: 22
+SENT: If Mozzarella cheese becomes too browned , loosely cover with a piece of foil .
+PREDID: 0
+PRED: cover
+  DOBJ: browned
+  PARG: mozzarella cheese becomes
+    PREP: if
+  PARG: a piece of foil
+    PREP: with
+  OARG: too
+  OARG: loosely
+

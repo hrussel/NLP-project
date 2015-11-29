@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Heat olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the garlic , and cook until transparent .
+PREDID: 0
+PRED: add
+  DOBJ: the garlic
+
+PREDID: 1
+PRED: cook
+  PARG: transparent
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the cubed lamb , and cook until browned on all sides .
+PREDID: 0
+PRED: add
+  DOBJ: the cubed lamb
+
+PREDID: 1
+PRED: cook
+  PARG: browned on all sides
+    PREP: until
+
+
+SENTID: 3
+SENT: Season with cumin , mint , turmeric and rosemary .
+PREDID: 0
+PRED: season
+  PARG: cumin , mint , turmeric, rosemary
+    PREP: with
+
+
+SENTID: 4
+SENT: Cook for another 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: another 5 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Add the diced tomatoes , tomato paste and okra .
+PREDID: 0
+PRED: add
+  DOBJ: the diced tomatoes , tomato paste, okra
+
+
+SENTID: 6
+SENT: Combine the lemon juice and water , and stir into the skillet .
+PREDID: 0
+PRED: combine
+  DOBJ: the lemon juice, water
+
+PREDID: 1
+PRED: stir
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 7
+SENT: Cover , and simmer over low heat for 45 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Meanwhile , melt the butter in a saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 9
+SENT: Add the egg noodles , and saute until toasted .
+PREDID: 0
+PRED: add
+  DOBJ: the egg noodles
+
+PREDID: 1
+PRED: saute
+  PARG: toasted
+    PREP: until
+
+
+SENTID: 10
+SENT: Pour in the chicken broth and water , and bring to a boil .
+PREDID: 0
+PRED: pour
+  PARG: the chicken broth, water
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 11
+SENT: Stir in rice , cover and simmer over low heat until the rice is tender , about 15 minutes .
+PREDID: 0
+PRED: stir
+  PARG: rice
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: low heat
+    PREP: over
+
+PREDID: 2
+PRED: simmer
+  PARG: the rice is tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Season with salt and pepper and stir in olive oil before serving .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: olive oil
+    PREP: in
+  PARG: serving
+    PREP: before
+
+
+SENTID: 13
+SENT: Serve the lamb stew over the rice pilaf .
+PREDID: 0
+PRED: serve
+  DOBJ: the lamb stew
+  PARG: the rice pilaf
+    PREP: over
+

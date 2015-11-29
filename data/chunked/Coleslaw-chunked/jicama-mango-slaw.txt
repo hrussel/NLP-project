@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Combine the mangos , carrot , red bell pepper , and jicama in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the mangos , carrot , red bell pepper , jicama
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk the vinegar , lime juice , agave nectar , and olive oil together in a separate bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the vinegar , lime juice , agave nectar , olive oil
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: pour over the mango mixture .
+PREDID: 0
+PRED: pour
+  PARG: the mango mixture
+    PREP: over
+
+
+SENTID: 3
+SENT: Sprinkle the mint and lime zest over the mixture ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the mint, lime zest
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 4
+SENT: toss to mix .
+PREDID: 0
+PRED: toss
+  PARG: mix
+    PREP: to
+
+
+SENTID: 5
+SENT: Chill at least 30 minutes before serving .
+PREDID: 0
+PRED: chill
+  PARG: least 30 minutes
+    PREP: at
+  PARG: serving
+    PREP: before
+

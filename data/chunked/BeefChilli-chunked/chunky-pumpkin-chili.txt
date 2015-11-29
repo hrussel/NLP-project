@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: In a large pot over medium heat , cook beef until brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Stir in onion and bell pepper and cook 5 minutes .
+PREDID: 0
+PRED: stir
+  PARG: onion, bell pepper
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 5 minutes
+
+
+SENTID: 3
+SENT: Stir in beans , tomato juice , diced tomatoes and pumpkin puree .
+PREDID: 0
+PRED: stir
+  PARG: beans , tomato juice , diced tomatoes, pumpkin puree
+    PREP: in
+
+
+SENTID: 4
+SENT: Season with pumpkin pie spice , chili powder and SPLENDA ¨ Granulated Sweetener .
+PREDID: 0
+PRED: season
+  PARG: pumpkin pie spice , chili powder, splenda ¨ granulated sweetener
+    PREP: with
+
+
+SENTID: 5
+SENT: Simmer 1 hour .
+PREDID: 0
+PRED: simmer
+  OARG: 1 hour
+

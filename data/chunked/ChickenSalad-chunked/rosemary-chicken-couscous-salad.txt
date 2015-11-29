@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: Place chicken stock in a saucepan and bring to a boil over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: chicken stock
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Stir in couscous .
+PREDID: 0
+PRED: stir
+  PARG: couscous
+    PREP: in
+
+
+SENTID: 2
+SENT: Remove pan from the heat ;
+PREDID: 0
+PRED: remove
+  DOBJ: pan
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 3
+SENT: cover , and let stand for 5 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Fluff couscous with a fork .
+PREDID: 0
+PRED: fluff
+  DOBJ: couscous
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 5
+SENT: Cool for 10 minutes .
+PREDID: 0
+PRED: cool
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Meanwhile , make the dressing by combining the olive oil , lemon juice , and vinegar in the bowl of a blender or food processor ;
+PREDID: 0
+PRED: make
+  DOBJ: the dressing
+  PARG: combining the olive oil , lemon juice , vinegar
+    PREP: by
+  PARG: the bowl of a blender or food processor
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 7
+SENT: mix on low until mixture thickens .
+PREDID: 0
+PRED: mix
+  PARG: low
+    PREP: on
+  PARG: mixture thickens
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in rosemary .
+PREDID: 0
+PRED: stir
+  PARG: rosemary
+    PREP: in
+
+
+SENTID: 9
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 10
+SENT: Combine the chicken , cucumber , sun-dried tomatoes , and olives in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , cucumber , sun-dried tomatoes , olives
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: Stir in the couscous , Feta cheese , and parsley .
+PREDID: 0
+PRED: stir
+  PARG: the couscous , feta cheese , parsley
+    PREP: in
+
+
+SENTID: 12
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: Toss the salad with half the dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: the salad
+  PARG: half the dressing
+    PREP: with
+
+
+SENTID: 14
+SENT: Taste , and add more dressing as desired , or , if making the salad in advance , add additional dressing just before serving .
+PREDID: 0
+PRED: taste
+
+PREDID: 1
+PRED: add
+  DOBJ: more dressing
+  PARG: desired , or
+    PREP: as
+  PARG: making the salad
+    PREP: if
+  PARG: advance , add additional dressing
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: just
+

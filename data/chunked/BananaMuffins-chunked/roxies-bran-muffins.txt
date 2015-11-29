@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups , or line with paper cupcake liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper cupcake liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Cover raisins with water in a microwave-safe bowl , and microwave on High for 1 minute to plump .
+PREDID: 0
+PRED: cover
+  DOBJ: raisins
+  PARG: water
+    PREP: with
+  PARG: a microwave-safe bowl
+    PREP: in
+
+PREDID: 1
+PRED: microwave
+  PARG: high
+    PREP: on
+  PARG: 1 minute
+    PREP: for
+  OARG: to plump
+
+
+SENTID: 3
+SENT: Drain the raisins , and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: the raisins
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Beat the egg with milk in a bowl , and mix in the bran cereal .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg
+  PARG: milk
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: the bran cereal
+    PREP: in
+
+
+SENTID: 5
+SENT: Let the mixture stand until the cereal absorbs the liquid , about 5 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: the mixture stand
+  PARG: the cereal absorbs the liquid , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Gently mix in the plumped raisins , flour , baking soda , cinnamon , melted butter , shredded apple , mashed banana , and honey , and stir a few times to mix .
+PREDID: 0
+PRED: mix
+  PARG: the plumped raisins
+    PREP: in
+  OARG: gently
+
+PREDID: 1
+PRED: flour
+  DOBJ: baking soda , cinnamon , melted butter , shredded apple , mashed banana , honey
+
+PREDID: 2
+PRED: stir
+  DOBJ: a few times
+  PARG: mix
+    PREP: to
+
+
+SENTID: 7
+SENT: Spoon the batter into the prepared muffin cups , and bake in the preheated oven for about 20 minutes , or until a toothpick inserted into the center of a muffin comes out clean .
+PREDID: 0
+PRED: spoon
+  DOBJ: the batter
+  PARG: the prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: about 20 minutes
+    PREP: for
+  PARG: a toothpick inserted into the center of a muffin comes out clean
+    PREP: until
+

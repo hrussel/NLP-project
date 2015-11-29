@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: reduce heat to medium-low , cover , and simmer until just tender , about 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: just tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and allow to steam dry for a minute or two ;
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 4
+SENT: cut into 1/2-inch pieces and place into a large mixing bowl .
+PREDID: 0
+PRED: cut
+  PARG: 1/2-inch pieces
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a large mixing bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Stir in the flour , sugar , and salt ;
+PREDID: 0
+PRED: stir
+  PARG: the flour , sugar , salt
+    PREP: in
+
+
+SENTID: 6
+SENT: cook for 1 minute .
+PREDID: 0
+PRED: cook
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 7
+SENT: Pour in the vinegar ;
+PREDID: 0
+PRED: pour
+  PARG: the vinegar
+    PREP: in
+
+
+SENTID: 8
+SENT: bring to a simmer and cook until slightly thickened , about 5 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: slightly thickened , about 5 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Pour the dressing over the potatoes and sprinkle with celery seed and parsley .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potatoes
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: celery seed, parsley
+    PREP: with
+
+
+SENTID: 10
+SENT: Stir gently to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+  OARG: gently
+
+
+SENTID: 11
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

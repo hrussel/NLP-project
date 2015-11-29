@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Put coleslaw mix in a large bowl ;
+PREDID: 0
+PRED: put
+  DOBJ: coleslaw mix
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: add crushed ramen noodles , almonds , sunflower seeds , and green onions .
+PREDID: 0
+PRED: add
+  DOBJ: crushed ramen noodles , almonds , sunflower seeds , green onions
+
+
+SENTID: 2
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 3
+SENT: Pour vinegar into a jar and add seasoning packets from ramen noodles ;
+PREDID: 0
+PRED: pour
+  DOBJ: vinegar
+  PARG: a jar
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: seasoning packets
+  PARG: ramen noodles
+    PREP: from
+
+
+SENTID: 4
+SENT: cover jar and shake until seasoning is mixed into vinegar .
+PREDID: 0
+PRED: cover
+  DOBJ: jar
+
+PREDID: 1
+PRED: shake
+  PARG: seasoning is mixed into vinegar
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour dressing over coleslaw mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: coleslaw mixture
+    PREP: over
+
+
+SENTID: 6
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 7
+SENT: Refrigerate for flavors to blend , about 1 hour .
+PREDID: 0
+PRED: refrigerate
+  PARG: flavors
+    PREP: for
+  PARG: blend
+    PREP: to
+  PARG: 1 hour
+    PREP: about
+

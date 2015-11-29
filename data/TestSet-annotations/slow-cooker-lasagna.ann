@@ -1,0 +1,91 @@
+T1	predicate 36 40	cook
+T2	predicate 89 92	Add
+T3	predicate 147 151	stir
+T4	predicate 177 181	Cook
+T5	predicate 220 223	mix
+T6	predicate 309 314	Spoon
+T7	predicate 379 382	Add
+T8	predicate 431 436	Break
+T9	predicate 470 473	Top
+T10	predicate 520 526	Repeat
+T11	predicate 606 611	Cover
+T12	predicate 617 621	cook
+T13	arg_location 0 18	In a large skillet
+T14	arg_other 19 35	over medium heat
+R1	other Arg1:T1 Arg2:T14	
+R2	location Arg1:T1 Arg2:T13	
+T15	arg_object 41 56	the ground beef
+T16	arg_object 58 63	onion
+T17	arg_object 69 75	garlic
+T18	ingredient 41 56	the ground beef
+T19	ingredient 58 63	onion
+T20	ingredient 69 75	garlic
+T21	arg_duration 76 87	until brown
+R3	object Arg1:T1 Arg2:T15	
+R4	object Arg1:T1 Arg2:T16	
+R5	object Arg1:T1 Arg2:T17	
+R6	duration Arg1:T1 Arg2:T21	
+T22	arg_object 93 109	the tomato sauce
+T23	ingredient 93 109	the tomato sauce
+T24	arg_object 111 123	tomato paste
+T25	ingredient 111 123	tomato paste
+T26	arg_object 125 129	salt
+T27	ingredient 125 129	salt
+T28	arg_object 135 142	oregano
+T29	ingredient 135 142	oregano
+R7	object Arg1:T2 Arg2:T22	
+R8	object Arg1:T2 Arg2:T24	
+R9	object Arg1:T2 Arg2:T26	
+R10	object Arg1:T2 Arg2:T28	
+R11	co-object Arg1:T2 Arg2:T1	
+R12	object Arg1:T3 Arg2:T2	
+T30	arg_duration 152 175	until well incorporated
+R13	duration Arg1:T3 Arg2:T30	
+R14	object Arg1:T4 Arg2:T3	
+T31	arg_duration 182 202	until heated through
+R15	duration Arg1:T4 Arg2:T31	
+T32	arg_location 204 219	In a large bowl
+R16	location Arg1:T5 Arg2:T32	
+T33	arg_other 224 232	together
+T34	arg_object 233 251	the cottage cheese
+T35	arg_object 253 275	grated Parmesan cheese
+T36	arg_object 281 307	shredded mozzarella cheese
+T37	ingredient 233 251	the cottage cheese
+T38	ingredient 253 275	grated Parmesan cheese
+T39	ingredient 281 307	shredded mozzarella cheese
+R17	other Arg1:T5 Arg2:T33	
+R18	object Arg1:T5 Arg2:T34	
+R19	object Arg1:T5 Arg2:T35	
+R20	object Arg1:T5 Arg2:T36	
+T40	arg_object 315 342	a layer of the meat mixture
+T41	Evolution 315 342	a layer of the meat mixture
+E1	Evolution:T41 Cause:T4
+R21	object Arg1:T6 Arg2:T40	
+T42	arg_location 343 377	onto the bottom of the slow cooker
+R22	location Arg1:T6 Arg2:T42	
+T43	arg_object 383 429	a double layer of the uncooked lasagna noodles
+T44	ingredient 383 429	a double layer of the uncooked lasagna noodles
+R23	object Arg1:T7 Arg2:T43	
+R24	object Arg1:T8 Arg2:T7	
+T45	arg_other 437 468	to fit noodles into slow cooker
+R25	other Arg1:T8 Arg2:T45	
+T46	arg_object 474 481	noodles
+T47	Evolution 474 481	noodles
+E2	Evolution:T47 Cause:T8
+R26	object Arg1:T9 Arg2:T46	
+T48	arg_co-object 482 518	with a portion of the cheese mixture
+T49	Evolution 487 518	a portion of the cheese mixture
+E3	Evolution:T49 Cause:T5
+R27	co-object Arg1:T9 Arg2:T48	
+T50	arg_object 527 569	the layering of sauce, noodles, and cheese
+R28	object Arg1:T10 Arg2:T50	
+T51	arg_duration 570 604	until all the ingredients are used
+R29	duration Arg1:T10 Arg2:T51	
+T52	Evolution 527 569	the layering of sauce, noodles, and cheese
+E4	Evolution:T52 Cause:T9
+R30	object Arg1:T11 Arg2:T10	
+R31	object Arg1:T12 Arg2:T11	
+T53	arg_other 622 636	on LOW setting
+T54	arg_duration 638 654	for 4 to 6 hours
+R32	other Arg1:T12 Arg2:T53	
+R33	duration Arg1:T12 Arg2:T54	

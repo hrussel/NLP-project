@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown ;
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Crumble and set aside 2 slices .
+PREDID: 0
+PRED: crumble
+  OARG: aside
+
+PREDID: 1
+PRED: set
+  DOBJ: 2 slices
+
+
+SENTID: 4
+SENT: Crumble remaining 6 slices .
+PREDID: 0
+PRED: crumble
+  DOBJ: remaining 6 slices
+
+
+SENTID: 5
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 6
+SENT: In a large saucepan over medium-high heat , saute the beef , onion and bell pepper until beef is browned .
+PREDID: 0
+PRED: saute
+  DOBJ: the beef , onion, bell pepper
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: beef is browned
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain , and stir in the 6 slices crumbled bacon and pizza sauce .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: stir
+  PARG: the 6 slices crumbled bacon, pizza sauce
+    PREP: in
+
+
+SENTID: 8
+SENT: Spoon mixture into an ungreased 9x13 inch pan .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: an ungreased 9x13 inch pan
+    PREP: into
+
+
+SENTID: 9
+SENT: Sprinkle with tomatoes and top with the cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: tomatoes
+    PREP: with
+
+PREDID: 1
+PRED: top
+  PARG: the cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: In a medium bowl , beat the eggs slightly .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a medium bowl
+    PREP: in
+  OARG: slightly
+
+
+SENTID: 11
+SENT: Mix in milk and oil , then add the flour and salt .
+PREDID: 0
+PRED: mix
+  PARG: milk
+    PREP: in
+
+PREDID: 1
+PRED: oil
+  OARG: then
+
+PREDID: 2
+PRED: add
+  DOBJ: the flour, salt
+
+
+SENTID: 12
+SENT: Beat for 2 minutes at medium speed .
+PREDID: 0
+PRED: beat
+  PARG: 2 minutes
+    PREP: for
+  PARG: medium speed
+    PREP: at
+
+
+SENTID: 13
+SENT: Pour evenly over the meat mixture .
+PREDID: 0
+PRED: pour
+  PARG: the meat mixture
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 14
+SENT: Sprinkle with the remaining bacon .
+PREDID: 0
+PRED: sprinkle
+  PARG: the remaining bacon
+    PREP: with
+
+
+SENTID: 15
+SENT: Bake in preheated oven for 20 to 30 minutes , or until topping is lightly puffed and deep , golden brown .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 to 30 minutes
+    PREP: for
+  PARG: topping is lightly puffed, deep , golden brown
+    PREP: until
+

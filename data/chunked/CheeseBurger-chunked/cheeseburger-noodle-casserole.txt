@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large skillet over medium high heat , saute the ground beef for 5 minutes , or until browned ;
+PREDID: 0
+PRED: saute
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+  PARG: 5 minutes
+    PREP: for
+  PARG: browned
+    PREP: until
+
+
+SENTID: 2
+SENT: drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 3
+SENT: Prepare the spaghetti according to package directions ;
+PREDID: 0
+PRED: prepare
+  DOBJ: the spaghetti according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 4
+SENT: drain water .
+PREDID: 0
+PRED: drain
+  DOBJ: water
+
+
+SENTID: 5
+SENT: In a 2 quart casserole , combine the browned beef , cooked spaghetti , tomatoes , onion soup mix , sour cream , basil , garlic powder and salt and pepper to taste .
+PREDID: 0
+PRED: combine
+  DOBJ: the browned beef , cooked spaghetti , tomatoes , onion soup mix , sour cream , basil , garlic powder, salt, pepper
+  PARG: a 2 quart casserole
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: Mix together well .
+PREDID: 0
+PRED: mix
+  OARG: together
+  OARG: well
+
+
+SENTID: 7
+SENT: Cover dish and bake in preheated oven for 15 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Top with the cheese and bake , uncovered , for 15 more minutes .
+PREDID: 0
+PRED: top
+  PARG: the cheese
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  DOBJ: uncovered
+  PARG: 15 more minutes
+    PREP: for
+

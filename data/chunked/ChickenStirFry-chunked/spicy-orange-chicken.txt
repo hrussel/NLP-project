@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: Whisk orange juice , brown sugar , rice vinegar , fish sauce , soy sauce , ginger , and crushed red pepper flakes in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: orange juice , brown sugar , rice vinegar , fish sauce , soy sauce , ginger , crushed red pepper flakes
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix in chicken pieces and toss to evenly coat .
+PREDID: 0
+PRED: mix
+  PARG: chicken pieces
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  OARG: to evenly coat
+
+
+SENTID: 2
+SENT: Cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour .
+PREDID: 0
+PRED: cover
+  DOBJ: the bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: marinate
+  PARG: the refrigerator
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove chicken from refrigerator and drain thoroughly in colander , reserving marinade .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: refrigerator
+    PREP: from
+
+PREDID: 1
+PRED: drain
+  PARG: colander , reserving marinade
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Heat a large non-stick skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large non-stick skillet
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook and stir chicken for 2 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+
+PREDID: 1
+PRED: stir
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: spoon out any excess liquid .
+PREDID: 0
+PRED: spoon
+  PARG: any excess liquid
+    PREP: out
+
+
+SENTID: 7
+SENT: Continue to cook and stir until chicken caramelizes , 6 to 7 minutes .
+PREDID: 0
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: chicken caramelizes , 6 to 7 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in white portions of green onions , garlic , and orange zest ;
+PREDID: 0
+PRED: stir
+  PARG: white portions of green onions , garlic , orange zest
+    PREP: in
+
+
+SENTID: 9
+SENT: cook and stir 2 to 3 minutes .
+PREDID: 0
+PRED: cook
+  OARG: 2 to 3 minutes
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 10
+SENT: Pour in half of reserved marinade .
+PREDID: 0
+PRED: pour
+  PARG: half of reserved marinade
+    PREP: in
+
+
+SENTID: 11
+SENT: Simmer until reduced and thickened , 3 to 4 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: reduced, thickened , 3 to 4 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Stir in jalapeno pepper , bell pepper , and sugar snap peas ;
+PREDID: 0
+PRED: stir
+  PARG: jalapeno pepper , bell pepper , sugar snap peas
+    PREP: in
+
+
+SENTID: 13
+SENT: Stir in green portions of green onions ;
+PREDID: 0
+PRED: stir
+  PARG: green portions of green onions
+    PREP: in
+
+
+SENTID: 14
+SENT: cook and stir 1 minute .
+PREDID: 0
+PRED: cook
+  OARG: 1 minute
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 15
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 16
+SENT: Garnish with cilantro and serve .
+PREDID: 0
+PRED: garnish
+  PARG: cilantro
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,112 @@
+T1	predicate 0 7	Preheat
+T2	arg_object 8 16	the oven
+T3	arg_other 17 49	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T2	
+R2	other Arg1:T1 Arg2:T3	
+T4	predicate 51 58	Crumble
+T5	arg_object 59 74	the ground beef
+T6	arg_location 75 95	into a large skillet
+T7	arg_other 96 117	over medium-high heat
+R3	object Arg1:T4 Arg2:T5	
+R4	location Arg1:T4 Arg2:T6	
+R5	other Arg1:T4 Arg2:T7	
+T8	predicate 119 132	Cook and stir
+T9	arg_duration 133 153	until no longer pink
+R6	object Arg1:T8 Arg2:T4	
+T10	predicate 155 160	Drain
+R7	object Arg1:T10 Arg2:T8	
+T11	predicate 165 172	stir in
+T12	arg_object 173 189	the tomato paste
+T13	arg_object 191 195	salt
+T14	arg_object 201 218	Italian seasoning
+R8	co-object Arg1:T11 Arg2:T10	
+R9	object Arg1:T11 Arg2:T12	
+R10	object Arg1:T11 Arg2:T13	
+R11	object Arg1:T11 Arg2:T14	
+T15	predicate 220 229	Set aside
+T16	arg_object 230 260	a little bit of the mozzarella
+T17	arg_object 265 281	Parmesan cheeses
+T18	arg_other 282 293	for the top
+T19	predicate 295 299	stir
+T20	arg_object 300 308	the rest
+T21	arg_co-object 309 329	into the ground beef
+R12	object Arg1:T19 Arg2:T20	
+R13	co-object Arg1:T19 Arg2:T21	
+T22	Evolution 300 308	the rest
+E1	Evolution:T22 Cause:T15
+R14	object Arg1:T15 Arg2:T16	
+R15	object Arg1:T15 Arg2:T17	
+T23	Evolution 314 329	the ground beef
+E2	Evolution:T23 Cause:T11
+T24	predicate 331 340	Set aside
+R16	object Arg1:T24 Arg2:T19	
+T25	predicate 342 348	Spread
+T26	predicate 403 408	Spoon
+T28	predicate 539 543	Pour
+T29	predicate 590 594	Bake
+T30	predicate 657 663	Remove
+T31	arg_object 349 363	cottage cheese
+T32	arg_location 364 401	into the bottom of a 9 inch pie plate
+R17	object Arg1:T25 Arg2:T31	
+R18	location Arg1:T25 Arg2:T32	
+T33	arg_object 409 432	the ground beef mixture
+T34	arg_co-object 433 448	over the cheese
+R19	object Arg1:T26 Arg2:T33	
+R20	co-object Arg1:T26 Arg2:T34	
+T35	Evolution 438 448	the cheese
+E3	Evolution:T35 Cause:T25
+T36	Evolution 409 432	the ground beef mixture
+E4	Evolution:T36 Cause:T24
+T37	arg_location 450 465	In a small bowl
+T38	predicate 467 480	stir together
+T39	arg_object 481 489	the milk
+T40	arg_object 494 498	eggs
+R21	object Arg1:T38 Arg2:T39	
+R22	object Arg1:T38 Arg2:T40	
+R23	location Arg1:T38 Arg2:T37	
+T27	predicate 500 508	Blend in
+T41	arg_object 509 524	the biscuit mix
+T42	arg_duration 525 537	until smooth
+R24	object Arg1:T27 Arg2:T41	
+R25	duration Arg1:T27 Arg2:T42	
+R26	co-object Arg1:T27 Arg2:T38	
+T43	arg_co-object 544 567	over the top of the pie
+R27	co-object Arg1:T28 Arg2:T43	
+R28	object Arg1:T28 Arg2:T27	
+T44	arg_location 595 616	in the preheated oven
+T45	arg_duration 617 637	until top is browned
+T46	arg_duration 639 655	about 30 minutes
+R29	location Arg1:T29 Arg2:T44	
+R30	duration Arg1:T29 Arg2:T45	
+R31	duration Arg1:T29 Arg2:T46	
+T47	Evolution 598 616	the preheated oven
+E5	Evolution:T47 Cause:T1
+T48	arg_location 664 677	from the oven
+R32	location Arg1:T30 Arg2:T48	
+R33	object Arg1:T30 Arg2:T29	
+T49	predicate 682 690	sprinkle
+T50	arg_object 691 710	the reserved cheese
+T51	Evolution 691 710	the reserved cheese
+E6	Evolution:T51 Cause:T15
+R34	object Arg1:T49 Arg2:T50	
+R37	duration Arg1:T8 Arg2:T9	
+R38	other Arg1:T15 Arg2:T18	
+T53	Evolution 549 567	the top of the pie
+E7	Evolution:T53 Cause:T26
+R39	object Arg1:T29 Arg2:T28	
+T52	arg_co-object 711 723	over the top
+R36	co-object Arg1:T49 Arg2:T52	
+T54	Evolution 716 723	the top
+E8	Evolution:T54 Cause:T30
+T55	ingredient 59 74	the ground beef
+T56	ingredient 173 189	the tomato paste
+R35	co-object Arg1:T10 Arg2:T8	
+T57	ingredient 191 195	salt
+T58	ingredient 201 218	Italian seasoning
+T59	ingredient 230 260	a little bit of the mozzarella
+T60	ingredient 265 281	Parmesan cheeses
+T61	ingredient 349 363	cottage cheese
+T62	ingredient 481 489	the milk
+T63	ingredient 494 498	eggs
+T64	ingredient 509 524	the biscuit mix
+R40	same-location Arg1:T48 Arg2:T44	

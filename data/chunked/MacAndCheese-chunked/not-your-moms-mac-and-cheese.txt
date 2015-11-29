@@ -1,0 +1,248 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the gemelli , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the gemelli , return
+    PREP: in
+  PARG: a boil
+    PREP: to
+  OARG: once
+
+
+SENTID: 2
+SENT: Cook uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Add olive oil , and toss pasta until coated ;
+PREDID: 0
+PRED: add
+  DOBJ: olive oil
+
+PREDID: 1
+PRED: toss
+  DOBJ: pasta
+  PARG: coated
+    PREP: until
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Heat a large skillet over medium-high heat and stir in the ground beef .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the ground beef
+    PREP: in
+
+
+SENTID: 7
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Cook and stir until the beef is crumbly , evenly browned , and no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the beef is crumbly , evenly browned , no longer pink , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 9
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 10
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 11
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 12
+SENT: Heat 3 tablespoons butter and the flour in a large skillet over low heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 3 tablespoons butter, the flour
+  PARG: a large skillet
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 13
+SENT: Cook and stir until the butter is melted and the flour is incorporated , then slowly whisk in the milk .
+PREDID: 0
+PRED: cook
+  PARG: the butter is melted, the flour is incorporated , then slowly
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: whisk
+  PARG: the milk
+    PREP: in
+
+
+SENTID: 14
+SENT: Stir in the fontina cheese , sharp Cheddar cheese , white Cheddar cheese , and 1/4 cup Parmesan cheese ;
+PREDID: 0
+PRED: stir
+  PARG: the fontina cheese , sharp cheddar cheese , white cheddar cheese , 1/4 cup parmesan cheese
+    PREP: in
+
+
+SENTID: 15
+SENT: cook , whisking constantly , until cheese is melted and sauce is thickened , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: whisking
+  PARG: cheese is melted
+    PREP: until
+  OARG: constantly
+
+PREDID: 1
+PRED: sauce
+  DOBJ: is thickened
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 16
+SENT: Season with paprika , nutmeg , garlic powder , cinnamon , and chili powder .
+PREDID: 0
+PRED: season
+  PARG: paprika , nutmeg , garlic powder , cinnamon , chili powder
+    PREP: with
+
+
+SENTID: 17
+SENT: Season to taste with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 18
+SENT: Stir in the pasta and beef , and transfer mixture to a large baking dish .
+PREDID: 0
+PRED: stir
+  PARG: the pasta, beef
+    PREP: in
+
+PREDID: 1
+PRED: transfer
+  DOBJ: mixture
+  PARG: a large baking dish
+    PREP: to
+
+
+SENTID: 19
+SENT: Combine 2 tablespoons butter , bread crumbs , and the remaining 2 tablespoons Parmesan cheese in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: 2 tablespoons butter , bread crumbs , the remaining 2 tablespoons parmesan cheese
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 20
+SENT: Sprinkle mixture over the pasta in the baking dish .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: mixture
+  PARG: the pasta
+    PREP: over
+  PARG: the baking dish
+    PREP: in
+
+
+SENTID: 21
+SENT: Bake in the preheated oven until bubbly , about 12 minutes , then set the oven on broil .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbly , about 12 minutes , then set the oven on broil
+    PREP: until
+
+
+SENTID: 22
+SENT: Broil until lightly browned , about 3 more minutes .
+PREDID: 0
+PRED: broil
+  PARG: lightly browned , about 3 more minutes
+    PREP: until
+

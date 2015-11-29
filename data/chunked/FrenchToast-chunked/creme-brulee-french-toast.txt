@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Melt butter in a small saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Mix in brown sugar and corn syrup , stirring until sugar is dissolved .
+PREDID: 0
+PRED: mix
+  PARG: brown sugar, corn syrup , stirring
+    PREP: in
+  PARG: sugar is dissolved
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour into a 9x13 inch baking dish .
+PREDID: 0
+PRED: pour
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 3
+SENT: Remove crusts from bread , and arrange in the baking dish in a single layer .
+PREDID: 0
+PRED: remove
+  DOBJ: crusts
+  PARG: bread
+    PREP: from
+
+PREDID: 1
+PRED: arrange
+  PARG: the baking dish
+    PREP: in
+  PARG: a single layer
+    PREP: in
+
+
+SENTID: 4
+SENT: In a small bowl , whisk together eggs , half and half , vanilla extract , orange brandy , and salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , half, half , vanilla extract , orange brandy , salt
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour over the bread .
+PREDID: 0
+PRED: pour
+  PARG: the bread
+    PREP: over
+
+
+SENTID: 6
+SENT: Cover , and chill at least 8 hours , or overnight .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: chill
+  PARG: least 8 hours
+    PREP: at
+  OARG: overnight
+
+
+SENTID: 7
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Remove the dish from the refrigerator , and bring to room temperature .
+PREDID: 0
+PRED: remove
+  DOBJ: the dish
+  PARG: the refrigerator
+    PREP: from
+
+PREDID: 1
+PRED: bring
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 9
+SENT: Bake uncovered 35 to 40 minutes in the preheated oven , until puffed and lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: puffed, lightly browned
+    PREP: until
+  OARG: uncovered 35 to 40 minutes
+

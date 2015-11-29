@@ -1,0 +1,108 @@
+T1	predicate 0 5	Spray
+T2	arg_object 6 21	a large skillet
+R1	object Arg1:T1 Arg2:T2	
+T3	arg_co-object 22 40	with cooking spray
+R2	co-object Arg1:T1 Arg2:T3	
+T4	predicate 46 50	cook
+T6	arg_other 85 101	over medium heat
+R4	other Arg1:T4 Arg2:T6	
+T7	arg_duration 102 162	until the steak pieces have begun to brown, about 10 minutes
+R5	duration Arg1:T4 Arg2:T7	
+T8	predicate 164 172	Transfer
+T9	arg_object 173 190	steak and peppers
+T10	Evolution 173 190	steak and peppers
+E1	Evolution:T10 Cause:T4
+R6	object Arg1:T8 Arg2:T9	
+T11	arg_location 191 213	into a large saucepan,
+R7	location Arg1:T8 Arg2:T11	
+T14	predicate 267 272	Bring
+T15	arg_duration 273 282	to a boil
+R10	duration Arg1:T14 Arg2:T15	
+T17	arg_duration 296 307	to a simmer
+T16	arg_object 291 295	heat
+T18	predicate 284 290	reduce
+R12	object Arg1:T18 Arg2:T16	
+R13	co-object Arg1:T18 Arg2:T14	
+R14	duration Arg1:T18 Arg2:T17	
+T19	predicate 313 318	cover
+T20	arg_object 319 322	pan
+R15	object Arg1:T19 Arg2:T20	
+T21	predicate 324 330	Simmer
+T22	arg_duration 331 384	until the beef is tender, about 1 hour and 20 minutes
+R16	duration Arg1:T21 Arg2:T22	
+R17	object Arg1:T21 Arg2:T19	
+R18	co-object Arg1:T19 Arg2:T18	
+T23	predicate 386 394	Turn off
+T24	arg_object 395 399	heat
+R19	object Arg1:T23 Arg2:T24	
+R20	co-object Arg1:T23 Arg2:T21	
+T26	predicate 401 405	Fill
+T27	arg_object 406 417	a large pot
+R21	object Arg1:T26 Arg2:T27	
+T28	arg_co-object 418 443	with lightly salted water
+R22	co-object Arg1:T26 Arg2:T28	
+T29	predicate 448 453	bring
+T30	arg_duration 454 471	to a rolling boil
+R23	duration Arg1:T29 Arg2:T30	
+R24	object Arg1:T29 Arg2:T26	
+T31	arg_other 472 486	over high heat
+R25	other Arg1:T29 Arg2:T31	
+T33	predicate 515 522	stir in
+T35	arg_object 523 538	the egg noodles
+T36	predicate 544 550	return
+T37	arg_duration 551 561	to a boil.
+R27	duration Arg1:T36 Arg2:T37	
+R28	object Arg1:T33 Arg2:T35	
+R29	object Arg1:T36 Arg2:T33	
+T38	predicate 562 566	Cook
+T39	arg_object 567 576	the pasta
+R30	object Arg1:T38 Arg2:T39	
+T40	arg_other 577 586	uncovered
+R31	other Arg1:T38 Arg2:T40	
+T41	arg_duration 611 693	until the pasta has cooked through, but is still firm to the bite, about 5 minutes
+R32	duration Arg1:T38 Arg2:T41	
+T42	Evolution 567 576	the pasta
+E4	Evolution:T42 Cause:T36
+T43	predicate 695 700	Drain
+T44	arg_location 706 735	in a colander set in the sink
+R33	location Arg1:T43 Arg2:T44	
+R34	object Arg1:T43 Arg2:T38	
+T45	predicate 737 741	Stir
+T46	arg_object 742 756	the sour cream
+T48	Evolution 762 778	the meat mixture
+E5	Evolution:T48 Cause:T23
+T49	arg_duration 779 804	until thoroughly combined
+R35	duration Arg1:T45 Arg2:T49	
+R36	object Arg1:T45 Arg2:T46	
+T50	predicate 810 815	serve
+T51	arg_co-object 816 839	over the cooked noodles
+R37	co-object Arg1:T50 Arg2:T51	
+R38	object Arg1:T50 Arg2:T45	
+R39	location Arg1:T4 Arg2:T1	
+T52	predicate 218 225	stir in
+R8	co-object Arg1:T52 Arg2:T8	
+R11	object Arg1:T14 Arg2:T52	
+T12	arg_other 701 705	well
+R40	other Arg1:T43 Arg2:T12	
+T53	Evolution 821 839	the cooked noodles
+E6	Evolution:T53 Cause:T43
+T47	arg_co-object 757 778	into the meat mixture
+R41	co-object Arg1:T45 Arg2:T47	
+T5	arg_object 51 66	the flank steak
+T25	arg_object 71 84	green peppers
+R3	object Arg1:T4 Arg2:T5	
+R42	object Arg1:T4 Arg2:T25	
+T54	ingredient 51 66	the flank steak
+T55	ingredient 71 84	green peppers
+T13	arg_object 226 243	the beef consomme
+T56	arg_object 248 265	French onion soup
+R9	object Arg1:T52 Arg2:T13	
+R43	object Arg1:T52 Arg2:T56	
+T57	ingredient 226 243	the beef consomme
+T58	ingredient 248 265	French onion soup
+T59	ingredient 523 538	the egg noodles
+T60	ingredient 742 756	the sour cream
+T61	ingredient 27 40	cooking spray
+T62	ingredient 423 443	lightly salted water
+R44	co-object Arg1:T43 Arg2:T38	
+R26	co-object Arg1:T33 Arg2:T29	

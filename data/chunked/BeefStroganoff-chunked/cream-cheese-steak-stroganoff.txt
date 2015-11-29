@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook the bow-tie pasta at a boil , stirring occasionally , until cooked through yet firm to the bite , about 12 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the bow-tie pasta
+  PARG: a boil , stirring
+    PREP: at
+  PARG: cooked through yet firm to the bite , about 12 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: drain and transfer to a serving bowl .
+PREDID: 0
+PRED: drain
+  PARG: a serving bowl
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 3
+SENT: Heat olive oil and butter together in a large frying pan ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+
+PREDID: 1
+PRED: butter
+  PARG: a large frying pan
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: cook and stir mushrooms , onions , and garlic in the oil-butter mixture until mushrooms are tender , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: mushrooms , onions , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: the oil-butter mixture
+    PREP: in
+  PARG: mushrooms are tender , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir cream cheese , white wine , tomato paste , lemon juice , cornstarch , beef bouillon , parsley , seasoned salt , and paprika together in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: cream cheese , white wine , tomato paste , lemon juice , cornstarch , beef bouillon , parsley , seasoned salt , paprika
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: add steak .
+PREDID: 0
+PRED: add
+  DOBJ: steak
+
+
+SENTID: 7
+SENT: Pour cream cheese mixture into frying pan with mushroom mixture ;
+PREDID: 0
+PRED: pour
+  DOBJ: cream cheese mixture
+  PARG: frying pan
+    PREP: into
+  PARG: mushroom mixture
+    PREP: with
+
+
+SENTID: 8
+SENT: cook and gently stir mixture over low heat just until sauce is warmed and smooth , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: mixture
+  OARG: gently
+
+PREDID: 1
+PRED: stir
+  PARG: low heat
+    PREP: over
+  PARG: sauce is warmed
+    PREP: until
+  OARG: just
+
+PREDID: 2
+PRED: smooth
+  OARG: 5 to 10 minutes
+
+
+SENTID: 9
+SENT: Add enough milk to reach desired consistency .
+PREDID: 0
+PRED: add
+  DOBJ: milk
+  PARG: reach desired consistency
+    PREP: to
+  OARG: enough
+
+
+SENTID: 10
+SENT: Pour sauce over pasta and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: pasta
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 11
+SENT: Season with black pepper .
+PREDID: 0
+PRED: season
+  PARG: black pepper
+    PREP: with
+

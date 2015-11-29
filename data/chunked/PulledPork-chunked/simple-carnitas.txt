@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Place the pork shoulder , oranges , onion , garlic , kosher salt , cumin , black peppercorns , and bay leaves into a large Dutch oven .
+PREDID: 0
+PRED: place
+  DOBJ: the pork shoulder , oranges , onion , garlic , kosher salt , cumin , black peppercorns , bay leaves
+  PARG: a large dutch oven
+    PREP: into
+
+
+SENTID: 1
+SENT: Add water to cover .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: cover
+    PREP: to
+
+
+SENTID: 2
+SENT: Bring to a boil over high heat , then reduce the heat to medium-low , and simmer for 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium-low , simmer
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Skim off any foam that rises to the top .
+PREDID: 0
+PRED: skim
+  PARG: any foam
+    PREP: off
+  PARG: rises
+    PREP: that
+  PARG: the top
+    PREP: to
+
+
+SENTID: 4
+SENT: Cover loosely , and simmer until the meat is tender , about 1Ê1/2 hours .
+PREDID: 0
+PRED: cover
+  OARG: loosely
+
+PREDID: 1
+PRED: simmer
+  PARG: the meat is tender , about 1Ê1/2 hours
+    PREP: until
+
+
+SENTID: 5
+SENT: Allow the pork to cool , covered , in the broth for 1 hour .
+PREDID: 0
+PRED: allow
+  DOBJ: the pork
+  PARG: the broth
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  OARG: to cool , covered
+
+
+SENTID: 6
+SENT: Shred the meat with two forks .
+PREDID: 0
+PRED: shred
+  DOBJ: the meat
+  PARG: two forks
+    PREP: with
+

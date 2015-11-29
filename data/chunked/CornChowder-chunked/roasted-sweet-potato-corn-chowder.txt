@@ -1,0 +1,195 @@
+SENTID: 0
+SENT: Preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the sweet potatoes into a 9x13 inch baking dish , drizzle with 1 tablespoon of corn oil , and season with salt and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: the sweet potatoes
+  PARG: a 9x13 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: drizzle
+  PARG: 1 tablespoon of corn oil
+    PREP: with
+
+PREDID: 2
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Stir to coat the sweet potatoes in oil .
+PREDID: 0
+PRED: stir
+  PARG: coat the sweet potatoes
+    PREP: to
+  PARG: oil
+    PREP: in
+
+
+SENTID: 3
+SENT: Roast in the preheated oven until the sweet potatoes are golden and tender , 15 to 20 minutes .
+PREDID: 0
+PRED: roast
+  PARG: the preheated oven
+    PREP: in
+  PARG: the sweet potatoes are golden, tender , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir occasionally as they cook so the sweet potatoes cook evenly .
+PREDID: 0
+PRED: stir
+  DOBJ: the sweet potatoes
+  PARG: they cook
+    PREP: as
+  OARG: occasionally
+  OARG: so
+
+PREDID: 1
+PRED: cook
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Meanwhile , measure out 1 cup of corn kernels and set aside .
+PREDID: 0
+PRED: measure
+  PARG: 1 cup of corn kernels
+    PREP: out
+  OARG: meanwhile
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Place the remaining corn into a blender , and puree with the water until smooth ;
+PREDID: 0
+PRED: place
+  DOBJ: the remaining corn
+  PARG: a blender
+    PREP: into
+
+PREDID: 1
+PRED: puree
+  PARG: the water
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Heat the remaining 1 tablespoon of corn oil in a large saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the remaining 1 tablespoon of corn oil
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Stir in the celery , onion , and shallot .
+PREDID: 0
+PRED: stir
+  PARG: the celery , onion , shallot
+    PREP: in
+
+
+SENTID: 10
+SENT: Stir in the tomato paste and dried thyme leaves ;
+PREDID: 0
+PRED: stir
+  PARG: the tomato paste, dried thyme leaves
+    PREP: in
+
+
+SENTID: 11
+SENT: cook 1 minute more .
+PREDID: 0
+PRED: cook
+  OARG: 1 minute more
+
+
+SENTID: 12
+SENT: Pour in the vegetable broth , corn puree , bay leaf , salt , and cubed potato .
+PREDID: 0
+PRED: pour
+  PARG: the vegetable broth , corn puree , bay leaf , salt , cubed potato
+    PREP: in
+
+
+SENTID: 13
+SENT: Bring to a boil over medium-high heat , then reduce the heat to medium-low , cover , and simmer until the potato is tender , 25 to 35 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the potato is tender , 25 to 35 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Once the potato is tender , remove and discard the bay leaf .
+PREDID: 0
+PRED: remove
+  DOBJ: the potato is tender
+  OARG: once
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 15
+SENT: Stir in the whole corn kernels , sweet potato , and chopped parsley .
+PREDID: 0
+PRED: stir
+  PARG: the whole corn kernels , sweet potato , chopped parsley
+    PREP: in
+
+
+SENTID: 16
+SENT: Return to a simmer and season to taste with salt and pepper before serving .
+PREDID: 0
+PRED: return
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+  PARG: serving
+    PREP: before
+

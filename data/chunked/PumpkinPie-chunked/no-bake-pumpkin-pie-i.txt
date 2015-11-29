@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: In a heavy saucepan combine gelatin , cinnamon , ginger , nutmeg , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: gelatin , cinnamon , ginger , nutmeg , salt
+  PARG: a heavy saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir in condensed milk and beaten eggs , mixing well .
+PREDID: 0
+PRED: stir
+  PARG: condensed milk, beaten eggs , mixing
+    PREP: in
+  OARG: well
+
+
+SENTID: 2
+SENT: Let stand one minute , then place on burner over low heat , stirring constantly for about 10 minutes , or until gelatin dissolves and mixture thickens .
+PREDID: 0
+PRED: let
+  OARG: stand one minute
+  OARG: then
+
+PREDID: 1
+PRED: place
+  PARG: burner
+    PREP: on
+  PARG: low heat , stirring
+    PREP: over
+  PARG: about 10 minutes
+    PREP: for
+  PARG: gelatin dissolves, mixture thickens
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 3
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 4
+SENT: Stir in pumpkin , mixing thoroughly , and pour mixture into graham cracker crust .
+PREDID: 0
+PRED: stir
+  DOBJ: and pour mixture
+  PARG: pumpkin , mixing
+    PREP: in
+  PARG: graham cracker crust
+    PREP: into
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Chill for at least 3 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: at least 3 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

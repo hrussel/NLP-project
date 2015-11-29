@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add edamame and simmer until tender about 5 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: edamame, simmer
+  PARG: tender about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Let stand for 5 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Whisk together orange juice , lime juice , olive oil , raspberry vinaigrette , salt , and pepper in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: orange juice , lime juice , olive oil , raspberry vinaigrette , salt , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Place coleslaw mix , green onion , cashews , and edamame in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: coleslaw mix , green onion , cashews , edamame
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Toss lightly with the orange juice mixture to serve .
+PREDID: 0
+PRED: toss
+  PARG: the orange juice mixture
+    PREP: with
+  PARG: serve
+    PREP: to
+  OARG: lightly
+

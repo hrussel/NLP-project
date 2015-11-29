@@ -1,0 +1,166 @@
+T1	predicate 0 5	Place
+T2	predicate 29 34	cover
+T3	predicate 52 57	Bring
+T4	predicate 90 96	remove
+T5	predicate 108 113	Cover
+T6	predicate 118 121	let
+T7	predicate 168 174	Remove
+T8	predicate 191 195	cool
+T9	predicate 201 205	peel
+T10	predicate 235 240	place
+T11	predicate 301 306	Bring
+T12	predicate 322 326	cook
+T13	predicate 366 372	Remove
+T14	predicate 384 389	drain
+T15	predicate 395 398	set
+T16	predicate 406 410	Heat
+T17	predicate 446 449	Add
+T18	predicate 525 530	Flake
+T19	predicate 542 548	spread
+T20	predicate 608 614	Spread
+T21	predicate 658 664	spread
+T22	predicate 718 721	Top
+T23	predicate 741 747	spread
+T24	predicate 810 815	slice
+T25	predicate 830 835	cover
+T26	predicate 859 865	Spread
+T27	predicate 896 903	garnish
+T30	predicate 1014 1019	Chill
+T31	predicate 1038 1045	serving
+T32	arg_object 6 10	eggs
+T33	arg_location 11 24	in a saucepan
+T34	ingredient 6 10	eggs
+R1	object Arg1:T1 Arg2:T32	
+R2	location Arg1:T1 Arg2:T33	
+R3	object Arg1:T2 Arg2:T1	
+T35	arg_co-object 35 50	with cold water
+T36	ingredient 40 50	cold water
+R4	co-object Arg1:T2 Arg2:T35	
+T37	arg_object 58 63	water
+T38	Evolution 58 63	water
+E1	Evolution:T38 Cause:T2
+R5	object Arg1:T3 Arg2:T37	
+T39	arg_other 64 73	to a boil
+R6	other Arg1:T3 Arg2:T39	
+T40	arg_other 78 89	immediately
+R7	other Arg1:T4 Arg2:T40	
+R8	object Arg1:T4 Arg2:T3	
+T41	arg_location 97 106	from heat
+R9	location Arg1:T4 Arg2:T41	
+R10	object Arg1:T5 Arg2:T4	
+T42	arg_object 122 126	eggs
+T43	Evolution 122 126	eggs
+E2	Evolution:T43 Cause:T5
+R11	object Arg1:T6 Arg2:T42	
+T44	arg_other 127 132	stand
+R12	other Arg1:T6 Arg2:T44	
+T45	arg_co-object 133 145	in hot water
+T46	Evolution 136 145	hot water
+E3	Evolution:T46 Cause:T5
+R13	co-object Arg1:T6 Arg2:T45	
+T47	arg_duration 146 166	for 10 to 12 minutes
+R14	duration Arg1:T6 Arg2:T47	
+R15	object Arg1:T7 Arg2:T6	
+T48	arg_co-object 175 189	from hot water
+R16	co-object Arg1:T7 Arg2:T48	
+T49	Evolution 180 189	hot water
+E4	Evolution:T49 Cause:T6
+R17	object Arg1:T8 Arg2:T7	
+R18	object Arg1:T9 Arg2:T8	
+T50	arg_object 241 253	the potatoes
+R19	object Arg1:T10 Arg2:T50	
+T52	arg_location 254 267	in a saucepan
+R20	location Arg1:T10 Arg2:T52	
+T53	arg_co-object 268 299	with just enough water to cover
+R21	co-object Arg1:T10 Arg2:T53	
+R22	object Arg1:T11 Arg2:T10	
+T54	arg_other 307 316	to a boil
+R23	other Arg1:T11 Arg2:T54	
+R24	object Arg1:T12 Arg2:T11	
+T55	arg_duration 327 364	for 10 to 15 minutes, or until tender
+R25	duration Arg1:T12 Arg2:T55	
+R26	object Arg1:T13 Arg2:T12	
+T56	arg_location 373 382	from heat
+R27	location Arg1:T13 Arg2:T56	
+R28	object Arg1:T14 Arg2:T13	
+R29	co-object Arg1:T14 Arg2:T13	
+R30	object Arg1:T15 Arg2:T14	
+T57	arg_other 399 404	aside
+R31	other Arg1:T15 Arg2:T57	
+T58	arg_object 411 414	oil
+T59	ingredient 411 414	oil
+R32	object Arg1:T16 Arg2:T58	
+T60	arg_location 415 427	in a skillet
+R33	location Arg1:T16 Arg2:T60	
+T61	arg_other 428 444	over medium heat
+R34	other Arg1:T16 Arg2:T61	
+R35	co-object Arg1:T17 Arg2:T16	
+T62	arg_object 450 456	onions
+T63	ingredient 450 456	onions
+R36	object Arg1:T17 Arg2:T62	
+T64	predicate 462 467	saute
+R37	object Arg1:T64 Arg2:T17	
+T65	arg_duration 468 523	until lightly browned and translucent, about 10 minutes
+R38	duration Arg1:T64 Arg2:T65	
+T66	arg_object 531 537	salmon
+R39	object Arg1:T18 Arg2:T66	
+T67	ingredient 531 537	salmon
+T68	arg_object 549 551	it
+T69	Evolution 549 551	it
+E6	Evolution:T69 Cause:T18
+R40	object Arg1:T19 Arg2:T68	
+T70	arg_location 552 606	over the bottom of a glass baking dish or serving dish
+R41	location Arg1:T19 Arg2:T70	
+T71	arg_object 615 633	the sauteed onions
+T72	Evolution 615 633	the sauteed onions
+E7	Evolution:T72 Cause:T64
+R42	object Arg1:T20 Arg2:T71	
+T73	arg_co-object 634 649	over the salmon
+T74	Evolution 639 649	the salmon
+E8	Evolution:T74 Cause:T19
+R43	co-object Arg1:T20 Arg2:T73	
+T75	arg_other 651 657	Gently
+T76	arg_object 665 695	a little bit of the mayonnaise
+T77	ingredient 665 695	a little bit of the mayonnaise
+R44	other Arg1:T21 Arg2:T75	
+R45	object Arg1:T21 Arg2:T76	
+T78	arg_co-object 696 716	over the onion layer
+T79	Evolution 701 716	the onion layer
+E9	Evolution:T79 Cause:T20
+R46	co-object Arg1:T21 Arg2:T78	
+R47	object Arg1:T22 Arg2:T21	
+T80	arg_co-object 722 735	with potatoes
+T81	Evolution 727 735	potatoes
+E10	Evolution:T81 Cause:T15
+R48	co-object Arg1:T22 Arg2:T80	
+T82	arg_object 748 765	enough mayonnaise
+T83	ingredient 748 765	enough mayonnaise
+R49	object Arg1:T23 Arg2:T82	
+T84	arg_other 766 799	just to add moisture to the layer
+R50	other Arg1:T23 Arg2:T84	
+R51	co-object Arg1:T23 Arg2:T22	
+T85	arg_object 816 824	the eggs
+T86	Evolution 816 824	the eggs
+E11	Evolution:T86 Cause:T9
+T51	ingredient 241 253	the potatoes
+R52	object Arg1:T24 Arg2:T85	
+R53	co-object Arg1:T25 Arg2:T24	
+T87	arg_object 836 857	the layer of potatoes
+R54	object Arg1:T25 Arg2:T87	
+T88	Evolution 836 857	the layer of potatoes
+E5	Evolution:T88 Cause:T23
+T89	arg_object 866 876	mayonnaise
+R55	object Arg1:T26 Arg2:T89	
+T90	ingredient 866 876	mayonnaise
+T91	arg_co-object 877 890	over the eggs
+T92	Evolution 882 890	the eggs
+E12	Evolution:T92 Cause:T25
+R56	co-object Arg1:T26 Arg2:T91	
+R57	object Arg1:T27 Arg2:T26	
+T93	arg_co-object 904 924	with chopped parsley
+T94	ingredient 909 924	chopped parsley
+R58	co-object Arg1:T27 Arg2:T93	
+R59	object Arg1:T30 Arg2:T27	
+T28	arg_duration 1020 1030	for 1 hour
+R60	duration Arg1:T30 Arg2:T28	
+R61	object Arg1:T31 Arg2:T30	

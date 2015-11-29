@@ -1,0 +1,24 @@
+SENTID: 0
+SENT: Combine potatoes , onion , celery , green bell pepper , oil , vinegar , salt , and pepper in a slow cooker .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , onion , celery , green bell pepper , oil , vinegar , salt , pepper
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook on Low 5 to 6 hours .
+PREDID: 0
+PRED: cook
+  PARG: low 5 to 6 hours
+    PREP: on
+
+
+SENTID: 2
+SENT: Garnish with bacon and parsley .
+PREDID: 0
+PRED: garnish
+  PARG: bacon, parsley
+    PREP: with
+

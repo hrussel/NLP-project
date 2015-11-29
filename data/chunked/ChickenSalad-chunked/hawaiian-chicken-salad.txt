@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: In a medium bowl , beat cream cheese until fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese
+  PARG: a medium bowl
+    PREP: in
+  PARG: fluffy
+    PREP: until
+
+
+SENTID: 1
+SENT: Mix in salad dressing and 2 tablespoons reserved pineapple juice .
+PREDID: 0
+PRED: mix
+  PARG: salad dressing, 2 tablespoons reserved pineapple juice
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in the pineapple tidbits , chicken , almonds , and grapes until evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: the pineapple tidbits , chicken , almonds , grapes
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 3
+SENT: Chill until serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: until
+

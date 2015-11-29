@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Heat vegetable oil in a large skillet over medium heat and cook turkey bacon until browned and crisp , about 5 minutes per side .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: turkey bacon
+  PARG: browned, crisp , about 5 minutes per side
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain bacon on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: bacon
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 3
+SENT: crumble when cool .
+PREDID: 0
+PRED: crumble
+  OARG: when cool
+
+
+SENTID: 4
+SENT: Mix cooked bacon with ground turkey , Cheddar cheese , egg , onion , crumbled French bread , Worcestershire sauce , garlic powder , and black pepper ;
+PREDID: 0
+PRED: mix
+  DOBJ: cooked bacon
+  PARG: ground turkey , cheddar cheese , egg , onion , crumbled french bread , worcestershire sauce , garlic powder , black pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: turn the turkey meatloaf mixture into a 9x13-inch baking dish and form into a loaf shape in the middle of the dish .
+PREDID: 0
+PRED: turn
+  DOBJ: the turkey meatloaf mixture
+  PARG: a 9x13-inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: form
+  PARG: a loaf shape
+    PREP: into
+  PARG: the middle of the dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix ketchup , yellow mustard , and brown sugar together in a bowl , stirring to dissolve brown sugar .
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup , yellow mustard , brown sugar
+  PARG: a bowl , stirring
+    PREP: in
+  PARG: dissolve brown sugar
+    PREP: to
+  OARG: together
+
+
+SENTID: 7
+SENT: Spread the mixture over the turkey loaf .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: the turkey loaf
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake the turkey loaf in the preheated oven until the juices run clear , loaf is no longer pink in the middle , and an instant-read meat thermometer inserted into the thickest part of the loaf reads at least 160 degrees F -LRB- 70 degrees F -RRB- , 45 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  DOBJ: the turkey loaf
+  PARG: the preheated oven
+    PREP: in
+  PARG: the juices run clear , loaf is no longer pink in the middle , an instant-read meat thermometer inserted into the thickest part of the loaf reads at least 160 degrees f -lrb- 70 degrees f -rrb- , 45 minutes to 1 hour
+    PREP: until
+

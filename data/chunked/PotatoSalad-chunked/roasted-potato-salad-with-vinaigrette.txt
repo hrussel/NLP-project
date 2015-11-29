@@ -1,0 +1,127 @@
+SENTID: 0
+SENT: Preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Toss the potatoes with 10 tablespoons of vegetable oil ;
+PREDID: 0
+PRED: toss
+  DOBJ: the potatoes
+  PARG: 10 tablespoons of vegetable oil
+    PREP: with
+
+
+SENTID: 2
+SENT: sprinkle with paprika and dill .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika, dill
+    PREP: with
+
+
+SENTID: 3
+SENT: Toss until the potatoes are evenly coated with the spices and spread onto a baking sheet .
+PREDID: 0
+PRED: toss
+  PARG: the potatoes are evenly coated with the spices
+    PREP: until
+
+PREDID: 1
+PRED: spread
+  PARG: a baking sheet
+    PREP: onto
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until the potatoes are easily pierced with a fork , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the potatoes are easily pierced with a fork , about 25 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: While the potatoes are roasting , heat the 2 tablespoons of vegetable oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the 2 tablespoons of vegetable oil
+  PARG: the potatoes are roasting
+    PREP: while
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Stir in the banana pepper , bell pepper , celery , and onion ;
+PREDID: 0
+PRED: stir
+  PARG: the banana pepper , bell pepper , celery , onion
+    PREP: in
+
+
+SENTID: 7
+SENT: cook and stir until the vegetables have softened , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the vegetables
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: have
+  DOBJ: softened
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 8
+SENT: Toss the pepper mixture with the roasted potatoes in a bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the pepper mixture
+  PARG: the roasted potatoes
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Refrigerate until cold , about 1 hour .
+PREDID: 0
+PRED: refrigerate
+  PARG: cold , about 1 hour
+    PREP: until
+
+
+SENTID: 10
+SENT: While the potatoes are cooling , whisk together the red wine vinegar , olive oil , and kosher salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: the red wine vinegar , olive oil , kosher salt
+  PARG: the potatoes are cooling
+    PREP: while
+  OARG: together
+
+
+SENTID: 11
+SENT: Toss the potatoes with the salad dressing just before serving .
+PREDID: 0
+PRED: toss
+  DOBJ: the potatoes
+  PARG: the salad dressing
+    PREP: with
+  PARG: serving
+    PREP: before
+  OARG: just
+

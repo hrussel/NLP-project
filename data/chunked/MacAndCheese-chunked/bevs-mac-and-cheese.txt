@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and reserve .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: reserve
+
+
+SENTID: 3
+SENT: In a microwave-safe bowl , combine milk , flour and salt and pepper to taste ;
+PREDID: 0
+PRED: combine
+  DOBJ: milk , flour, salt, pepper
+  PARG: a microwave-safe bowl
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 4
+SENT: whisk or beat until smooth .
+PREDID: 0
+PRED: whisk
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: beat
+
+
+SENTID: 5
+SENT: Add butter and cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: butter, cheese
+
+
+SENTID: 6
+SENT: microwave on high for 5 minutes and whisk until smooth .
+PREDID: 0
+PRED: microwave
+  PARG: high
+    PREP: on
+  PARG: 5 minutes
+    PREP: for
+
+PREDID: 1
+PRED: whisk
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Microwave for an additional 4 to 5 minutes and whisk or beat until smooth and no lumps remain .
+PREDID: 0
+PRED: microwave
+  PARG: an additional 4 to 5 minutes
+    PREP: for
+
+PREDID: 1
+PRED: whisk
+  PARG: smooth, no lumps remain
+    PREP: until
+
+PREDID: 2
+PRED: beat
+
+
+SENTID: 8
+SENT: Add cooked pasta to mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: cooked pasta
+  PARG: mixture
+    PREP: to
+
+
+SENTID: 9
+SENT: stir and serve .
+PREDID: 0
+PRED: stir
+
+PREDID: 1
+PRED: serve
+

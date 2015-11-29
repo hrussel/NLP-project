@@ -1,0 +1,38 @@
+T1	predicate 0 3	Mix
+T2	arg_location 140 149	in a bowl
+T3	arg_duration 150 169	until well combined
+T4	arg_object 4 16	tomato sauce
+T5	arg_object 18 30	tomato paste
+T6	arg_object 32 51	ground black pepper
+T7	arg_object 53 60	oregano
+T8	arg_object 62 67	basil
+T9	arg_object 69 82	garlic powder
+T10	arg_object 84 88	salt
+T11	arg_object 90 95	thyme
+T12	arg_object 97 105	cilantro
+T13	arg_object 107 114	parsley
+T14	arg_object 120 130	onion salt
+R1	object Arg1:T1 Arg2:T4	
+R2	object Arg1:T1 Arg2:T5	
+R3	object Arg1:T1 Arg2:T6	
+R4	object Arg1:T1 Arg2:T7	
+R5	object Arg1:T1 Arg2:T8	
+R6	object Arg1:T1 Arg2:T9	
+R7	object Arg1:T1 Arg2:T10	
+R8	object Arg1:T1 Arg2:T11	
+R9	object Arg1:T1 Arg2:T12	
+R10	object Arg1:T1 Arg2:T13	
+R11	object Arg1:T1 Arg2:T14	
+R12	location Arg1:T1 Arg2:T2	
+R13	duration Arg1:T1 Arg2:T3	
+T15	ingredient 4 16	tomato sauce
+T16	ingredient 18 30	tomato paste
+T17	ingredient 32 51	ground black pepper
+T18	ingredient 53 60	oregano
+T19	ingredient 62 67	basil
+T20	ingredient 69 82	garlic powder
+T21	ingredient 84 88	salt
+T22	ingredient 90 95	thyme
+T23	ingredient 97 105	cilantro
+T24	ingredient 107 114	parsley
+T25	ingredient 120 130	onion salt

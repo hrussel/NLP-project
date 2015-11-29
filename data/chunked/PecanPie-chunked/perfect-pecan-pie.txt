@@ -1,0 +1,414 @@
+SENTID: 0
+SENT: To make crust :
+PREDID: 0
+PRED: crust
+  PARG: make
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix flour , sugar and salt in a medium bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , sugar, salt
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Rub cream cheese into flour mixture with fingertips to blend thoroughly .
+PREDID: 0
+PRED: rub
+  DOBJ: cream cheese
+  PARG: flour mixture
+    PREP: into
+  PARG: fingertips
+    PREP: with
+  PARG: blend
+    PREP: to
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Using a box grater , grate frozen butter and shortening into flour mixture .
+PREDID: 0
+PRED: grate
+  DOBJ: frozen butter, shortening
+  PARG: flour mixture
+    PREP: into
+  OARG: using a box grater
+
+
+SENTID: 4
+SENT: Working quickly , rub fat into flour until it has the texture of coarse sand and small pebbles .
+PREDID: 0
+PRED: rub
+  DOBJ: working
+  PARG: flour
+    PREP: into
+  PARG: it has the texture of coarse sand, small pebbles
+    PREP: until
+  OARG: quickly
+
+
+SENTID: 5
+SENT: Stir in ice-cold water with a fork until dough clumps form ;
+PREDID: 0
+PRED: stir
+  PARG: ice-cold water
+    PREP: in
+  PARG: a fork
+    PREP: with
+  PARG: dough clumps form
+    PREP: until
+
+
+SENTID: 6
+SENT: press to form a cohesive ball .
+PREDID: 0
+PRED: press
+  PARG: form a cohesive ball
+    PREP: to
+
+
+SENTID: 7
+SENT: Wrap dough in plastic wrap , pressing it into a thick disk .
+PREDID: 0
+PRED: wrap
+  DOBJ: dough
+  PARG: plastic wrap , pressing it
+    PREP: in
+  PARG: a thick disk
+    PREP: into
+
+
+SENTID: 8
+SENT: Refrigerate until cold and firm , at least 1 hour .
+PREDID: 0
+PRED: refrigerate
+  PARG: cold, firm , at least 1 hour
+    PREP: until
+
+
+SENTID: 9
+SENT: -LRB- Can be refrigerated up to 2 days or frozen for a month .
+PREDID: 0
+PRED: can
+  DOBJ: be refrigerated
+  PARG: 2 days or frozen
+    PREP: to
+  PARG: a month
+    PREP: for
+  OARG: 
+  OARG: up
+
+
+SENTID: 10
+SENT: -RRB- Roll dough on a lightly floured surface into a 14-inch circle , turning frequently and dusting with flour to keep it from sticking .
+PREDID: 0
+PRED: roll
+  DOBJ: and dusting
+  PARG: a lightly floured surface
+    PREP: on
+  PARG: a 14-inch circle , turning
+    PREP: into
+  PARG: flour
+    PREP: with
+  PARG: keep it
+    PREP: to
+  PARG: sticking
+    PREP: from
+  OARG: 
+  OARG: frequently
+  OARG: dough
+
+
+SENTID: 11
+SENT: Fold dough in half ;
+PREDID: 0
+PRED: fold
+  DOBJ: dough
+  PARG: half
+    PREP: in
+
+
+SENTID: 12
+SENT: Trim with scissors to 1/2-inch beyond pan lip .
+PREDID: 0
+PRED: trim
+  PARG: scissors
+    PREP: with
+  PARG: 1/2-inch
+    PREP: to
+  PARG: pan lip
+    PREP: beyond
+
+
+SENTID: 13
+SENT: Roll overhanging dough under with fingertips so it is flush with pan lip , then flute .
+PREDID: 0
+PRED: roll
+  DOBJ: overhanging dough
+  PARG: with fingertips
+    PREP: under
+  PARG: pan lip
+    PREP: with
+  OARG: so
+  OARG: then
+
+PREDID: 1
+PRED: flute
+
+
+SENTID: 14
+SENT: Refrigerate at least 30 minutes or up to 4 hours .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 30 minutes
+    PREP: at
+  PARG: 4 hours
+    PREP: to
+  OARG: up
+
+
+SENTID: 15
+SENT: -RRB- Adjust oven rack to lowest position and heat oven to 400 degrees .
+PREDID: 0
+PRED: heat
+  DOBJ: adjust oven rack
+  PARG: lowest position
+    PREP: to
+  PARG: 400 degrees
+    PREP: to
+
+
+SENTID: 16
+SENT: Line pie shell with a sheet of heavy-duty foil .
+PREDID: 0
+PRED: line
+  DOBJ: pie shell
+  PARG: a sheet of heavy-duty foil
+    PREP: with
+
+
+SENTID: 17
+SENT: Crumple 3 large pieces of foil into balls and place in shell to act as light weights .
+PREDID: 0
+PRED: crumple
+  DOBJ: 3 large pieces of foil
+  PARG: balls
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: shell
+    PREP: in
+  PARG: act
+    PREP: to
+  PARG: light weights
+    PREP: as
+
+
+SENTID: 18
+SENT: Bake -LRB- lightly pressing on foil if dough starts to balloon -RRB- until fluting turns golden brown , 18 to 20 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pressing
+  PARG: foil
+    PREP: on
+  PARG: dough starts
+    PREP: if
+  PARG: balloon -rrb-
+    PREP: to
+  PARG: fluting turns golden brown , 18 to 20 minutes
+    PREP: until
+  OARG: 
+  OARG: lightly
+
+
+SENTID: 19
+SENT: Remove all foil ;
+PREDID: 0
+PRED: remove
+  DOBJ: all foil
+
+
+SENTID: 20
+SENT: bake until bottom starts to turn golden brown , about 5 minutes longer .
+PREDID: 0
+PRED: bake
+  PARG: bottom starts to turn golden brown , about 5 minutes longer
+    PREP: until
+
+
+SENTID: 21
+SENT: Remove shell from oven .
+PREDID: 0
+PRED: remove
+  DOBJ: shell
+  PARG: oven
+    PREP: from
+
+
+SENTID: 22
+SENT: Adjust oven rack to middle position and reduce temperature to 300 degrees .
+PREDID: 0
+PRED: adjust
+  DOBJ: oven rack
+  PARG: middle position
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: temperature
+  PARG: 300 degrees
+    PREP: to
+
+
+SENTID: 23
+SENT: In a separate pie plate , toast pecans in oven until fragrant , about 10 minutes .
+PREDID: 0
+PRED: toast
+  DOBJ: pecans
+  PARG: a separate pie plate
+    PREP: in
+  PARG: oven
+    PREP: in
+  PARG: fragrant , about 10 minutes
+    PREP: until
+
+
+SENTID: 24
+SENT: Reduce temperature to 250 .
+PREDID: 0
+PRED: reduce
+  DOBJ: temperature
+  PARG: 250
+    PREP: to
+
+
+SENTID: 25
+SENT: Meanwhile , heat brown sugar and corn syrup in a medium heat-proof bowl over a pan of barely simmering water until sugar is almost dissolved .
+PREDID: 0
+PRED: heat
+  DOBJ: brown sugar, corn syrup
+  PARG: a medium heat-proof bowl
+    PREP: in
+  PARG: a pan of barely simmering water
+    PREP: over
+  PARG: sugar is almost dissolved
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 26
+SENT: In another medium bowl , whisk eggs , yolks , vanilla and salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , yolks , vanilla, salt
+  PARG: another medium bowl
+    PREP: in
+
+
+SENTID: 27
+SENT: Slowly whisk warm sugar mixture into eggs .
+PREDID: 0
+PRED: whisk
+  DOBJ: warm sugar mixture
+  PARG: eggs
+    PREP: into
+  OARG: slowly
+
+
+SENTID: 28
+SENT: Return bowl to pan of simmering water .
+PREDID: 0
+PRED: return
+  DOBJ: bowl
+  PARG: pan of simmering water
+    PREP: to
+
+
+SENTID: 29
+SENT: Whisk in butter .
+PREDID: 0
+PRED: whisk
+  PARG: butter
+    PREP: in
+
+
+SENTID: 30
+SENT: In a small pan over low heat , stir together cornstarch and water until pasty thick ;
+PREDID: 0
+PRED: stir
+  DOBJ: cornstarch, water
+  PARG: a small pan
+    PREP: in
+  PARG: low heat
+    PREP: over
+  PARG: pasty thick
+    PREP: until
+  OARG: together
+
+
+SENTID: 31
+SENT: whisk into sugar-egg mixture .
+PREDID: 0
+PRED: whisk
+  PARG: sugar-egg mixture
+    PREP: into
+
+
+SENTID: 32
+SENT: Heat in bowl over simmering water , stirring frequently .
+PREDID: 0
+PRED: heat
+  PARG: bowl
+    PREP: in
+  PARG: simmering water , stirring
+    PREP: over
+  OARG: frequently
+
+
+SENTID: 33
+SENT: Set pie shell on middle oven rack .
+PREDID: 0
+PRED: set
+  DOBJ: pie shell
+  PARG: middle oven rack
+    PREP: on
+
+
+SENTID: 34
+SENT: Sprinkle in pecans , then pour filling into shell .
+PREDID: 0
+PRED: sprinkle
+  PARG: pecans
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  DOBJ: filling
+  PARG: shell
+    PREP: into
+
+
+SENTID: 35
+SENT: Bake until pie puffs slightly and just sets , 35 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: pie puffs slightly, just sets , 35 to 45 minutes
+    PREP: until
+
+
+SENTID: 36
+SENT: Cool to room temperature and serve .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook kluski noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: kluski noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Heat a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook sausages in the skillet until browned , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: sausages
+  PARG: the skillet
+    PREP: in
+  PARG: browned , about 5 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: cut into bite-size pieces . Stir mushroom soup , onion soup mix , and water together in a large baking dish ;
+PREDID: 0
+PRED: cut
+  PARG: bite-size pieces
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  DOBJ: mushroom soup , onion soup mix , water
+  PARG: a large baking dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: add kluski noodles , sausage , and sauerkraut .
+PREDID: 0
+PRED: add
+  DOBJ: kluski noodles , sausage , sauerkraut
+
+
+SENTID: 8
+SENT: Cover dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 1 hour to 90 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+  PARG: 90 minutes
+    PREP: to
+

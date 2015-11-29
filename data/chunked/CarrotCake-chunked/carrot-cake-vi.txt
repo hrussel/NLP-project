@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x5 inch loaf pan , and line with wax paper .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5 inch loaf pan
+
+PREDID: 1
+PRED: line
+  PARG: wax paper
+    PREP: with
+
+
+SENTID: 2
+SENT: Combine water , sugar , raisins , grated carrots , cinnamon , cloves , nutmeg , and butter in a medium saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: water , sugar , raisins , grated carrots , cinnamon , cloves , nutmeg , butter
+  PARG: a medium saucepan
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook over low heat for 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 5
+SENT: In a large bowl , stir together flour , baking soda , nuts , and salt .
+PREDID: 0
+PRED: stir
+  DOBJ: flour , baking soda , nuts , salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Stir in carrot mixture .
+PREDID: 0
+PRED: stir
+  PARG: carrot mixture
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour into prepared pan .
+PREDID: 0
+PRED: pour
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake for 1Ê1/4 hours , or until a tester inserted in the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 1Ê1/4 hours
+    PREP: for
+  PARG: a tester inserted in the center comes out clean
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool on wire racks .
+PREDID: 0
+PRED: cool
+  PARG: wire racks
+    PREP: on
+

@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 8x8 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 8x8 inch baking dish
+
+
+SENTID: 2
+SENT: Beat the egg in a mixing bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Whisk in the onion , pickle juice , salt , and pepper .
+PREDID: 0
+PRED: whisk
+  PARG: the onion , pickle juice , salt , pepper
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in the bread until soggy , then mix in the ground beef until evenly combined .
+PREDID: 0
+PRED: stir
+  PARG: the bread
+    PREP: in
+  PARG: soggy , then mix in the ground beef until evenly combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Form into a loaf and place into the prepared pan .
+PREDID: 0
+PRED: form
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Stir together the chopped pickles , ketchup , water , sugar , and Worcestershire sauce ;
+PREDID: 0
+PRED: stir
+  DOBJ: the chopped pickles , ketchup , water , sugar , worcestershire sauce
+  OARG: together
+
+
+SENTID: 7
+SENT: pour over the meatloaf .
+PREDID: 0
+PRED: pour
+  PARG: the meatloaf
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until no longer pink in the center , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1 hour
+    PREP: until
+

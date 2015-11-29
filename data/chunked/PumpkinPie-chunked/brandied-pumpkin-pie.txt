@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk together the eggs , pumpkin , milk , brown sugar , brandy , salt , cinnamon , ginger , cloves , and nutmeg in a large bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , pumpkin , milk , brown sugar , brandy , salt , cinnamon , ginger , cloves , nutmeg
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour the mixture into the pie crusts .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the pie crusts
+    PREP: into
+
+
+SENTID: 3
+SENT: Cover the outside edge of each pie with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the outside edge of each pie
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 25 minutes ;
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: remove foil .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+
+SENTID: 6
+SENT: Continue to bake until a knife inserted near the center of a pie comes out clean , about 25 minutes more .
+PREDID: 0
+PRED: continue
+  PARG: a knife inserted near the center of a pie comes out clean , about 25 minutes more
+    PREP: until
+  OARG: to bake
+
+
+SENTID: 7
+SENT: Cool completely on a wire rack before serving .
+PREDID: 0
+PRED: cool
+  PARG: a wire rack
+    PREP: on
+  PARG: serving
+    PREP: before
+  OARG: completely
+
+
+SENTID: 8
+SENT: Store unused portion in refrigerator .
+PREDID: 0
+PRED: store
+  DOBJ: unused portion
+  PARG: refrigerator
+    PREP: in
+

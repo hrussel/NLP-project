@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Preheat the oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a muffin pan with non-stick spray or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: a muffin pan
+  PARG: non-stick spray
+    PREP: with
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Sift together the flour , baking powder , cinnamon and salt ;
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , baking powder , cinnamon, salt
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a medium bowl , cream together the sugar , margarine and egg with an electric mixer until light and fluffy .
+PREDID: 0
+PRED: cream
+  DOBJ: the sugar , margarine, egg
+  PARG: a medium bowl
+    PREP: in
+  PARG: an electric mixer
+    PREP: with
+  PARG: light, fluffy
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Mix in bananas , vanilla , cereal and dates .
+PREDID: 0
+PRED: mix
+  PARG: bananas , vanilla , cereal, dates
+    PREP: in
+
+
+SENTID: 6
+SENT: Blend in dry ingredients until just incorporated .
+PREDID: 0
+PRED: blend
+  PARG: dry ingredients
+    PREP: in
+  PARG: just incorporated
+    PREP: until
+
+
+SENTID: 7
+SENT: Spoon into prepared muffin cups to about 2/3 full .
+PREDID: 0
+PRED: spoon
+  PARG: prepared muffin cups
+    PREP: into
+  PARG: about 2/3 full
+    PREP: to
+
+
+SENTID: 8
+SENT: Bake for 20 to 25 minutes in the preheated oven , until a toothpick inserted into the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 20 to 25 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool in pan over a wire rack for at least 10 minutes before removing muffins from the pan .
+PREDID: 0
+PRED: cool
+  PARG: pan
+    PREP: in
+  PARG: a wire rack
+    PREP: over
+  PARG: at least 10 minutes
+    PREP: for
+  PARG: removing muffins
+    PREP: before
+  PARG: the pan
+    PREP: from
+

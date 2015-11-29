@@ -1,0 +1,21 @@
+SENTID: 0
+SENT: Mix the chicken , eggs , mayonnaise , apple , celery , onion , curry powder , paprika , cayenne pepper , and salt in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , eggs , mayonnaise , apple , celery , onion , curry powder , paprika , cayenne pepper , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Cover and refrigerate for 1 hour before serving .
+PREDID: 0
+PRED: cover
+  PARG: 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+

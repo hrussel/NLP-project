@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a deep skillet or large saucepan , cook beef with oil and salt over medium heat until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a deep skillet or large saucepan
+    PREP: in
+  PARG: oil, salt
+    PREP: with
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Meanwhile , puree French onion soup in a blender until smooth .
+PREDID: 0
+PRED: puree
+  DOBJ: french onion soup
+  PARG: a blender
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 2
+SENT: Drain meat .
+PREDID: 0
+PRED: drain
+  DOBJ: meat
+
+
+SENTID: 3
+SENT: Stir pureed soup into meat , reduce heat and simmer 5 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: pureed soup
+  PARG: meat
+    PREP: into
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  OARG: 5 minutes
+
+
+SENTID: 4
+SENT: Stir in chili powder , cumin , pepper , tomato paste , tomato sauce , and beans until well combined .
+PREDID: 0
+PRED: stir
+  PARG: chili powder , cumin , pepper , tomato paste , tomato sauce , beans
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in cocoa and cola .
+PREDID: 0
+PRED: stir
+  PARG: cocoa, cola
+    PREP: in
+
+
+SENTID: 6
+SENT: Heat through and serve .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+
+PREDID: 1
+PRED: serve
+

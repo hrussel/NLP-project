@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Place the salt pork in a large skillet over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: the salt pork
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring frequently until the fat has melted down and the meaty parts are cooked .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: the fat has melted down, the meaty parts are cooked
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 2
+SENT: Add shredded cabbage , and cook over medium-low heat until tender , stirring to coat the cabbage with the salt pork drippings .
+PREDID: 0
+PRED: add
+  DOBJ: shredded cabbage
+
+PREDID: 1
+PRED: cook
+  PARG: medium-low heat
+    PREP: over
+  PARG: tender , stirring to coat the cabbage with the salt pork drippings
+    PREP: until
+
+
+SENTID: 3
+SENT: Meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Add egg noodles , and cook until tender , about 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 7 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: When the cabbage has cooked completely , stir egg noodles into the cabbage , and season with black pepper to taste .
+PREDID: 0
+PRED: stir
+  DOBJ: egg noodles
+  PARG: the cabbage
+    PREP: into
+  OARG: when the cabbage has cooked
+  OARG: completely
+
+PREDID: 1
+PRED: season
+  PARG: black pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

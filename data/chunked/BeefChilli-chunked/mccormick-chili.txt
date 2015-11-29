@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Brown meat in large skillet on medium-high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: on
+
+
+SENTID: 1
+SENT: Drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 2
+SENT: Stir in Seasoning Mix , tomatoes and beans .
+PREDID: 0
+PRED: stir
+  PARG: seasoning
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: tomatoes, beans
+
+
+SENTID: 3
+SENT: Bring to boil .
+PREDID: 0
+PRED: bring
+  PARG: boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Reduce heat to low ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 5
+SENT: Serve with assorted toppings , if desired .
+PREDID: 0
+PRED: serve
+  PARG: assorted toppings
+    PREP: with
+  PARG: desired
+    PREP: if
+

@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and cool potatoes , then peel and dice .
+PREDID: 0
+PRED: drain
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cool
+  OARG: then
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: dice
+
+
+SENTID: 4
+SENT: Cover and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  OARG: overnight
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 5
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 6
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove eggs from hot water , cool under cold running water .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+
+SENTID: 8
+SENT: Peel and chop eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+PREDID: 1
+PRED: chop
+
+
+SENTID: 9
+SENT: Cover and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  OARG: overnight
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 10
+SENT: Combine potatoes , eggs , and green onions in a large bowl or roasting pan .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , eggs , green onions
+  PARG: a large bowl or roasting pan
+    PREP: in
+
+
+SENTID: 11
+SENT: Stir mayonnaise , mustard , salt , and black pepper in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , mustard , salt , black pepper
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: pour mixture over potatoes and gently toss to combine .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: potatoes
+    PREP: over
+  OARG: gently
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 13
+SENT: Refrigerate until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+

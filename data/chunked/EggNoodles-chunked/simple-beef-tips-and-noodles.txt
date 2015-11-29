@@ -1,0 +1,212 @@
+SENTID: 0
+SENT: Heat oil in the pressure cooker over medium-high heat and stir in beef cubes .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: the pressure cooker
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: beef cubes
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook until the beef is browned on all sides ;
+PREDID: 0
+PRED: cook
+  PARG: the beef is browned on all sides
+    PREP: until
+
+
+SENTID: 2
+SENT: remove beef and set it aside .
+PREDID: 0
+PRED: remove
+  DOBJ: beef, set it
+  OARG: aside
+
+
+SENTID: 3
+SENT: Drain and discard excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 4
+SENT: Lower the heat to medium and add onion ;
+PREDID: 0
+PRED: lower
+  DOBJ: the heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: onion
+
+
+SENTID: 5
+SENT: cook and stir until onion has softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Pour in beef stock , beef stew meat , and any accumulated drippings ;
+PREDID: 0
+PRED: pour
+  PARG: beef stock , beef stew meat , any accumulated drippings
+    PREP: in
+
+
+SENTID: 7
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Return to high heat , seal the lid , and bring to full pressure .
+PREDID: 0
+PRED: return
+  PARG: high heat
+    PREP: to
+
+PREDID: 1
+PRED: seal
+  DOBJ: the lid
+
+PREDID: 2
+PRED: bring
+  PARG: full pressure
+    PREP: to
+
+
+SENTID: 9
+SENT: Reduce the heat to low , maintaining full pressure , and cook for 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low , maintaining full pressure , cook
+    PREP: to
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: While the stew is cooking , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: the stew is cooking
+    PREP: while
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 11
+SENT: Stir in noodles and cook until tender , stirring often , about 8 minutes .
+PREDID: 0
+PRED: stir
+  PARG: noodles
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: tender , stirring often , about 8 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 13
+SENT: Remove the pressure cooker from the heat and allow the pressure to drop naturally .
+PREDID: 0
+PRED: remove
+  DOBJ: the pressure cooker
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  DOBJ: the pressure
+  PARG: drop
+    PREP: to
+  OARG: naturally
+
+
+SENTID: 14
+SENT: Dissolve cornstarch into 1/2 cup of cold water .
+PREDID: 0
+PRED: dissolve
+  DOBJ: cornstarch
+  PARG: 1/2 cup of cold water
+    PREP: into
+
+
+SENTID: 15
+SENT: When the pressure has dropped , remove the lid and whisk in the cornstarch mixture .
+PREDID: 0
+PRED: remove
+  DOBJ: the lid
+  OARG: when the pressure has dropped
+
+PREDID: 1
+PRED: whisk
+  PARG: the cornstarch mixture
+    PREP: in
+
+
+SENTID: 16
+SENT: Bring the beef and mushrooms back to a boil and cook , stirring constantly , for 2 minutes or until the sauce has thickened .
+PREDID: 0
+PRED: bring
+  DOBJ: the beef, mushrooms
+  PARG: a boil
+    PREP: to
+  OARG: back
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: 2 minutes
+    PREP: for
+  PARG: the sauce has thickened
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 17
+SENT: Pour the beef over the noodles and serve .
+PREDID: 0
+PRED: pour
+  DOBJ: the beef
+  PARG: the noodles
+    PREP: over
+
+PREDID: 1
+PRED: serve
+

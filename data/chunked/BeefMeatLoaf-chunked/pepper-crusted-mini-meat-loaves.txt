@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Mix ground beef , rice , parsley , egg , Worcestershire sauce , garlic powder , onion powder , and 1/4 teaspoon salt together in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , rice , parsley , egg , worcestershire sauce , garlic powder , onion powder , 1/4 teaspoon salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: form into 4 oblong mini-loaves .
+PREDID: 0
+PRED: form
+  PARG: 4 oblong mini-loaves
+    PREP: into
+
+
+SENTID: 4
+SENT: Season the outside of each loaf generously with pepper .
+PREDID: 0
+PRED: season
+  DOBJ: the outside of each loaf
+  PARG: pepper
+    PREP: with
+  OARG: generously
+
+
+SENTID: 5
+SENT: Arrange loaves in the prepared baking dish .
+PREDID: 0
+PRED: arrange
+  DOBJ: loaves
+  PARG: the prepared baking dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until no longer pink in the center , 35 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , 35 to 45 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Heat olive oil in a skillet over low heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 8
+SENT: saute onion in oil until soft and golden brown , 15 to 20 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: oil
+    PREP: in
+  PARG: soft, golden brown , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Season onion with 1 pinch salt ;
+PREDID: 0
+PRED: season
+  DOBJ: onion
+  PARG: 1 pinch salt
+    PREP: with
+
+
+SENTID: 10
+SENT: serve over meat loaves .
+PREDID: 0
+PRED: serve
+  PARG: meat loaves
+    PREP: over
+

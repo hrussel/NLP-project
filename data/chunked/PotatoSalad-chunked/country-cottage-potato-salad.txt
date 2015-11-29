@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 4
+SENT: When potatoes are cool enough to handle , slice about 1/4 inch thick ;
+PREDID: 0
+PRED: slice
+  PARG: handle
+    PREP: to
+  PARG: 1/4 inch thick
+    PREP: about
+  OARG: when potatoes are cool
+  OARG: enough
+
+
+SENTID: 5
+SENT: refrigerate until cool .
+PREDID: 0
+PRED: refrigerate
+  PARG: cool
+    PREP: until
+
+
+SENTID: 6
+SENT: Spread about 1/2 cup of mayonnaise on the bottom and up the sides of a large salad bowl .
+PREDID: 0
+PRED: spread
+  DOBJ: the sides of a large salad bowl
+  PARG: 1/2 cup of mayonnaise
+    PREP: about
+  PARG: the bottom
+    PREP: on
+  OARG: up
+
+
+SENTID: 7
+SENT: Place half the potato slices into the salad bowl in a layer .
+PREDID: 0
+PRED: place
+  DOBJ: half the potato slices
+  PARG: the salad bowl
+    PREP: into
+  PARG: a layer
+    PREP: in
+
+
+SENTID: 8
+SENT: Generously season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+  OARG: generously
+
+
+SENTID: 9
+SENT: Sprinkle half the green onions over the potatoes ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: half the green onions
+  PARG: the potatoes
+    PREP: over
+
+
+SENTID: 10
+SENT: layer half the cottage cheese and half of the remaining mayonnaise .
+PREDID: 0
+PRED: layer
+  DOBJ: half the cottage cheese, half of the remaining mayonnaise
+
+
+SENTID: 11
+SENT: Repeat layers and end with mayonnaise ;
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+PREDID: 1
+PRED: end
+  PARG: mayonnaise
+    PREP: with
+
+
+SENTID: 12
+SENT: spread the mayonnaise over the salad to seal in the layers .
+PREDID: 0
+PRED: spread
+  DOBJ: the mayonnaise
+  PARG: the salad
+    PREP: over
+  PARG: seal
+    PREP: to
+  PARG: the layers
+    PREP: in
+
+
+SENTID: 13
+SENT: Sprinkle black pepper over the top of the salad , and cover with plastic wrap ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: black pepper
+  PARG: the top of the salad
+    PREP: over
+
+PREDID: 1
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+
+SENTID: 14
+SENT: refrigerate overnight .
+PREDID: 0
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 15
+SENT: Toss well before serving .
+PREDID: 0
+PRED: toss
+  PARG: serving
+    PREP: before
+  OARG: well
+

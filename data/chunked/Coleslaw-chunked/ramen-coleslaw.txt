@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , whisk together the oil , vinegar , sugar , ramen noodle spice mix , salt and pepper to create a dressing .
+PREDID: 0
+PRED: whisk
+  DOBJ: the oil , vinegar , sugar , ramen noodle spice mix , salt, pepper
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+  OARG: to create a dressing
+
+
+SENTID: 2
+SENT: Place sesame seeds and almonds in a single layer on a medium baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: sesame seeds, almonds
+  PARG: a single layer
+    PREP: in
+  PARG: a medium baking sheet
+    PREP: on
+
+
+SENTID: 3
+SENT: Bake in the preheated oven 10 minutes , or until lightly brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 10 minutes
+    PREP: in
+  PARG: lightly brown
+    PREP: until
+
+
+SENTID: 4
+SENT: In a large salad bowl , combine the cabbage , green onions and crushed ramen noodles .
+PREDID: 0
+PRED: combine
+  DOBJ: the cabbage , green onions, crushed ramen noodles
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour dressing over the cabbage , and toss to coat evenly .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: the cabbage
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Top with toasted sesame seeds and almonds .
+PREDID: 0
+PRED: top
+  PARG: toasted sesame seeds, almonds
+    PREP: with
+

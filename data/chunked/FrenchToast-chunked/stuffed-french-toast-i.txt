@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Slice the French bread on a slant , giving each side of the slice a nice surface area .
+PREDID: 0
+PRED: slice
+  DOBJ: giving each side of the slice a nice surface area
+  PARG: a slant
+    PREP: on
+  OARG: the french bread
+
+
+SENTID: 1
+SENT: Slice the brick of cream cheese into 1/2 inch thick slices .
+PREDID: 0
+PRED: slice
+  DOBJ: the brick of cream cheese
+  PARG: 1/2 inch thick slices
+    PREP: into
+
+
+SENTID: 2
+SENT: Make a slit in each slice of French bread through the crust to form a pocket .
+PREDID: 0
+PRED: make
+  DOBJ: the crust
+  PARG: each slice of french bread
+    PREP: in
+  PARG: form a pocket
+    PREP: to
+  OARG: a slit
+  OARG: through
+
+
+SENTID: 3
+SENT: Place a slice of cream cheese in each pocket ;
+PREDID: 0
+PRED: place
+  DOBJ: a slice of cream cheese
+  PARG: each pocket
+    PREP: in
+
+
+SENTID: 4
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a small bowl , beat together eggs , Irish cream liqueur , cinnamon and nutmeg .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , irish cream liqueur , cinnamon, nutmeg
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Melt butter in a griddle or frying pan over medium-low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a griddle or frying pan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Briefly dip the bread slices in the egg mixture and place on the griddle .
+PREDID: 0
+PRED: place
+  DOBJ: briefly dip the bread slices
+  PARG: the egg mixture
+    PREP: in
+  PARG: the griddle
+    PREP: on
+
+
+SENTID: 8
+SENT: Brown on both sides and serve warm with a dollop of orange marmalade on top .
+PREDID: 0
+PRED: brown
+  PARG: both sides, serve warm
+    PREP: on
+  PARG: a dollop of orange marmalade
+    PREP: with
+  PARG: top
+    PREP: on
+

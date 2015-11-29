@@ -1,0 +1,39 @@
+T1	predicate 0 7	Combine
+T2	predicate 101 105	Cook
+T3	predicate 127 134	Garnish
+T4	arg_object 8 16	potatoes
+T5	ingredient 8 16	potatoes
+T6	arg_object 18 23	onion
+T7	ingredient 18 23	onion
+T8	arg_object 25 31	celery
+T9	ingredient 25 31	celery
+T10	arg_object 33 50	green bell pepper
+T11	ingredient 33 50	green bell pepper
+T12	arg_object 52 55	oil
+T13	ingredient 52 55	oil
+T14	arg_object 57 64	vinegar
+T15	ingredient 57 64	vinegar
+T16	arg_object 66 70	salt
+T17	ingredient 66 70	salt
+T18	arg_object 76 82	pepper
+T19	ingredient 76 82	pepper
+T20	arg_location 83 99	in a slow cooker
+R1	object Arg1:T1 Arg2:T4	
+R2	object Arg1:T1 Arg2:T6	
+R3	object Arg1:T1 Arg2:T8	
+R4	object Arg1:T1 Arg2:T10	
+R5	object Arg1:T1 Arg2:T12	
+R6	object Arg1:T1 Arg2:T14	
+R7	object Arg1:T1 Arg2:T16	
+R8	object Arg1:T1 Arg2:T18	
+R9	location Arg1:T1 Arg2:T20	
+T21	arg_other 106 112	on Low
+T22	arg_duration 113 125	5 to 6 hours
+R10	other Arg1:T2 Arg2:T21	
+R11	duration Arg1:T2 Arg2:T22	
+R12	object Arg1:T2 Arg2:T1	
+R13	object Arg1:T3 Arg2:T2	
+T23	arg_co-object 135 157	with bacon and parsley
+T24	ingredient 140 145	bacon
+T25	ingredient 150 157	parsley
+R14	co-object Arg1:T3 Arg2:T23	

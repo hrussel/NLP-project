@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Whisk cream , mayonnaise , and sugar in a large salad bowl until sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: cream , mayonnaise , sugar
+  PARG: a large salad bowl
+    PREP: in
+  PARG: sugar has dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Gently fold in cabbage , apple , and pineapple to coat with dressing .
+PREDID: 0
+PRED: fold
+  PARG: cabbage , apple , pineapple
+    PREP: in
+  PARG: coat
+    PREP: to
+  PARG: dressing
+    PREP: with
+  OARG: gently
+
+
+SENTID: 2
+SENT: Refrigerate until serving time .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving time
+    PREP: until
+

@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: In small bowl , mix brown sugar and pumpkin pie spice ;
+PREDID: 0
+PRED: mix
+  DOBJ: brown sugar, pumpkin pie spice
+  PARG: small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: In small microwave-safe dish , microwave butter on High about 30 seconds or until melted .
+PREDID: 0
+PRED: microwave
+  DOBJ: butter
+  PARG: small microwave-safe dish
+    PREP: in
+  PARG: high
+    PREP: on
+  PARG: 30 seconds
+    PREP: about
+  PARG: melted
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in vanilla .
+PREDID: 0
+PRED: stir
+  PARG: vanilla
+    PREP: in
+
+
+SENTID: 4
+SENT: In large microwaveable bowl , mix all cereals and pecans .
+PREDID: 0
+PRED: mix
+  DOBJ: all cereals, pecans
+  PARG: large microwaveable bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour butter mixture over cereal mixture , stirring until evenly distributed .
+PREDID: 0
+PRED: pour
+  DOBJ: butter mixture
+  PARG: cereal mixture , stirring
+    PREP: over
+  PARG: evenly distributed
+    PREP: until
+
+
+SENTID: 6
+SENT: Add sugar and spice mixture and stir until coated .
+PREDID: 0
+PRED: add
+  DOBJ: sugar, spice mixture
+
+PREDID: 1
+PRED: stir
+  PARG: coated
+    PREP: until
+
+
+SENTID: 7
+SENT: Microwave uncovered on High 5 minutes or until mixture begins to brown , stirring every minute .
+PREDID: 0
+PRED: microwave
+  DOBJ: uncovered
+  PARG: high 5 minutes
+    PREP: on
+  PARG: mixture begins to brown , stirring every minute
+    PREP: until
+
+
+SENTID: 8
+SENT: Spread on wax paper or a cookie sheet to cool .
+PREDID: 0
+PRED: spread
+  PARG: wax paper or a cookie sheet
+    PREP: on
+  OARG: to cool
+
+
+SENTID: 9
+SENT: Store in airtight container .
+PREDID: 0
+PRED: store
+  PARG: airtight container
+    PREP: in
+

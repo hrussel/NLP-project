@@ -1,0 +1,175 @@
+SENTID: 0
+SENT: Place eggs into a large saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a large saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Remove from heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain the hot water ;
+PREDID: 0
+PRED: drain
+  DOBJ: the hot water
+
+
+SENTID: 4
+SENT: run cold water over the eggs to cool .
+PREDID: 0
+PRED: run
+  DOBJ: cold water
+  PARG: the eggs
+    PREP: over
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 6
+SENT: Slice the eggs in half lengthwise ;
+PREDID: 0
+PRED: slice
+  DOBJ: the eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 7
+SENT: separate the whites and the yolks .
+PREDID: 0
+PRED: separate
+  DOBJ: the whites, the yolks
+
+
+SENTID: 8
+SENT: Arrange the whites on a large platter ;
+PREDID: 0
+PRED: arrange
+  DOBJ: the whites
+  PARG: a large platter
+    PREP: on
+
+
+SENTID: 9
+SENT: place the egg yolks in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the egg yolks
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Mash the yolks with a fork until smooth ;
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: stir the mayonnaise , mustard , horseradish sauce , curry powder , poppy seeds , chicken bouillon granules , coriander , dried minced onion , salt , pepper , and turmeric into the mashed yolks until smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , mustard , horseradish sauce , curry powder , poppy seeds , chicken bouillon granules , coriander , dried minced onion , salt , pepper , turmeric
+  PARG: the mashed yolks
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 12
+SENT: Chill the mixture in the refrigerator for 30 minutes .
+PREDID: 0
+PRED: chill
+  DOBJ: the mixture
+  PARG: the refrigerator
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Spoon the yolk mixture into a heavy plastic bag ;
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk mixture
+  PARG: a heavy plastic bag
+    PREP: into
+
+
+SENTID: 14
+SENT: snip a corner off the bag to create a 1/2-inch opening .
+PREDID: 0
+PRED: snip
+  DOBJ: a corner
+  PARG: the bag
+    PREP: off
+  OARG: to create a 1/2-inch opening
+
+
+SENTID: 15
+SENT: Pipe the yolks into the egg white halves .
+PREDID: 0
+PRED: pipe
+  DOBJ: the yolks
+  PARG: the egg white halves
+    PREP: into
+
+
+SENTID: 16
+SENT: Serve cold .
+PREDID: 0
+PRED: serve
+  DOBJ: cold
+

@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Brown beef strips in 1 tablespoon oil in nonstick skillet ;
+PREDID: 0
+PRED: brown
+  DOBJ: beef strips
+  PARG: 1 tablespoon oil
+    PREP: in
+  PARG: nonstick skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: cook 1 to 2 minutes .
+PREDID: 0
+PRED: cook
+  OARG: 1 to 2 minutes
+
+
+SENTID: 2
+SENT: Stir in cooking sauce and sour cream .
+PREDID: 0
+PRED: stir
+  PARG: cooking sauce, sour cream
+    PREP: in
+
+
+SENTID: 3
+SENT: Simmer 8 minutes or until sauce thickens , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  PARG: sauce thickens , stirring occasionally
+    PREP: until
+  OARG: 8 minutes
+
+
+SENTID: 4
+SENT: Serve over noodles .
+PREDID: 0
+PRED: serve
+  PARG: noodles
+    PREP: over
+

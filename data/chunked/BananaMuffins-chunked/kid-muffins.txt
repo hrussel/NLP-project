@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups with 2 teaspoons coconut oil .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+  PARG: 2 teaspoons coconut oil
+    PREP: with
+
+
+SENTID: 2
+SENT: Soak raisins in warm water in a small bowl until rehydrated , about 10 minutes ;
+PREDID: 0
+PRED: soak
+  DOBJ: raisins
+  PARG: warm water
+    PREP: in
+  PARG: a small bowl
+    PREP: in
+  PARG: rehydrated , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Chop raisins .
+PREDID: 0
+PRED: chop
+  DOBJ: raisins
+
+
+SENTID: 5
+SENT: Beat 1/4 cup coconut oil , butter , and brown sugar together in a bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: 1/4 cup coconut oil
+
+PREDID: 1
+PRED: butter
+
+PREDID: 2
+PRED: brown
+  DOBJ: sugar
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Add eggs , mashed bananas , applesauce , and grated carrot ;
+PREDID: 0
+PRED: add
+  DOBJ: eggs , mashed bananas , applesauce , grated carrot
+
+
+SENTID: 7
+SENT: beat to incorporate .
+PREDID: 0
+PRED: beat
+  OARG: to incorporate
+
+
+SENTID: 8
+SENT: Gently fold bread flour , whole-wheat flour , flax seed , chopped raisins , baking soda , salt , and vanilla extract into the banana mixture using a rubber spatula ;
+PREDID: 0
+PRED: fold
+  DOBJ: bread flour , whole-wheat flour , flax seed , chopped raisins , baking soda , salt , vanilla extract
+  PARG: the banana mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 9
+SENT: pour into prepared muffin cups . Bake in the preheated oven until a toothpick inserted into the center comes out clean , about 18 minutes .
+PREDID: 0
+PRED: pour
+  PARG: prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , about 18 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool in the pans for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the pans
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

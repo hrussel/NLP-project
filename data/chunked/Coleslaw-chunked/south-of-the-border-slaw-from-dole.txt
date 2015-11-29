@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Combine pineapple chunks and coleslaw in large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: pineapple chunks, coleslaw
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir together salad dressing , cilantro , cumin , salt and garlic .
+PREDID: 0
+PRED: stir
+  DOBJ: salad dressing , cilantro , cumin , salt, garlic
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour over salad ;
+PREDID: 0
+PRED: pour
+  PARG: salad
+    PREP: over
+
+
+SENTID: 3
+SENT: toss to evenly coat .
+PREDID: 0
+PRED: toss
+  OARG: to evenly coat
+
+
+SENTID: 4
+SENT: Sprinkle corn chips on top , if desired .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: corn chips
+  PARG: top
+    PREP: on
+  PARG: desired
+    PREP: if
+

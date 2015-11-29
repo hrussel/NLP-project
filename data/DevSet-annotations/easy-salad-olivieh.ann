@@ -1,0 +1,81 @@
+T1	predicate 0 5	Place
+T2	arg_object 6 14	potatoes
+T3	arg_location 15 31	into a large pot
+T4	predicate 36 41	cover
+T5	arg_co-object 42 59	with salted water
+R1	object Arg1:T1 Arg2:T2	
+R2	location Arg1:T1 Arg2:T3	
+R3	co-object Arg1:T4 Arg2:T5	
+R4	object Arg1:T4 Arg2:T1	
+T6	predicate 61 66	Bring
+T7	arg_duration 67 76	to a boil
+R6	duration Arg1:T6 Arg2:T7	
+T8	predicate 83 94	reduce heat
+T9	arg_other 95 108	to medium-low
+R7	other Arg1:T8 Arg2:T9	
+R8	object Arg1:T8 Arg2:T6	
+T10	predicate 110 115	cover
+R9	object Arg1:T10 Arg2:T8	
+T11	predicate 121 127	simmer
+T12	arg_duration 128 169	until tender enough to pierce with a fork
+T13	arg_duration 171 187	about 30 minutes
+R10	duration Arg1:T11 Arg2:T12	
+R11	duration Arg1:T11 Arg2:T13	
+R12	object Arg1:T11 Arg2:T10	
+T14	predicate 189 194	Drain
+T15	predicate 205 209	cool
+R13	object Arg1:T14 Arg2:T11	
+R14	object Arg1:T15 Arg2:T14	
+T16	predicate 216 220	peel
+R15	object Arg1:T16 Arg2:T15	
+T17	predicate 225 229	dice
+R16	object Arg1:T17 Arg2:T16	
+T18	predicate 231 236	Place
+T19	arg_object 237 255	the diced potatoes
+T20	Evolution 237 255	the diced potatoes
+E1	Evolution:T20 Cause:T17
+R17	object Arg1:T18 Arg2:T19	
+T21	arg_location 256 280	into a large mixing bowl
+R18	location Arg1:T18 Arg2:T21	
+T22	predicate 285 296	refrigerate
+R19	object Arg1:T22 Arg2:T18	
+T23	arg_duration 297 307	until cold
+T24	predicate 320 327	fold in
+R21	duration Arg1:T22 Arg2:T23	
+T25	arg_object 328 342	the mayonnaise
+T26	arg_object 344 350	celery
+T27	arg_object 352 356	eggs
+T28	arg_object 358 365	chicken
+T29	arg_object 367 374	mustard
+T30	arg_object 376 382	olives
+T31	arg_object 384 388	salt
+T32	arg_object 394 401	pickles
+R29	co-object Arg1:T24 Arg2:T22	
+R20	object Arg1:T24 Arg2:T25	
+R22	object Arg1:T24 Arg2:T26	
+R23	object Arg1:T24 Arg2:T27	
+R24	object Arg1:T24 Arg2:T28	
+R25	object Arg1:T24 Arg2:T29	
+R26	object Arg1:T24 Arg2:T30	
+R27	object Arg1:T24 Arg2:T31	
+R28	object Arg1:T24 Arg2:T32	
+T33	predicate 403 414	Refrigerate
+T34	arg_duration 415 422	2 hours
+R30	duration Arg1:T33 Arg2:T34	
+R31	object Arg1:T33 Arg2:T24	
+R5	object Arg1:T6 Arg2:T4	
+T35	arg_other 309 318	Once cold
+R32	other Arg1:T24 Arg2:T35	
+T36	ingredient 6 14	potatoes
+T37	ingredient 328 342	the mayonnaise
+T38	ingredient 344 350	celery
+T39	ingredient 352 356	eggs
+T40	ingredient 358 365	chicken
+T41	ingredient 367 374	mustard
+T42	ingredient 376 382	olives
+T43	ingredient 384 388	salt
+T44	ingredient 394 401	pickles
+T45	ingredient 47 59	salted water
+R33	co-object Arg1:T14 Arg2:T11	
+T46	predicate 430 437	serving
+R34	object Arg1:T46 Arg2:T33	

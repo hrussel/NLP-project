@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease an 8x8-inch baking dish with melted butter .
+PREDID: 0
+PRED: grease
+  DOBJ: an 8x8-inch baking dish
+  PARG: melted butter
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Mix the apple and pear with lemon juice in a bowl ;
+PREDID: 0
+PRED: mix
+  DOBJ: the apple, pear
+  PARG: lemon juice
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Beat milk , eggs , applesauce , white sugar , light brown sugar , vanilla extract , cinnamon , salt , and nutmeg in a large bowl until just combined .
+PREDID: 0
+PRED: beat
+  DOBJ: milk , eggs , applesauce , white sugar , light brown sugar , vanilla extract , cinnamon , salt , nutmeg
+  PARG: a large bowl
+    PREP: in
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir cranberries , egg noodles , and apple mixture into the egg mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: cranberries , egg noodles , apple mixture
+  PARG: the egg mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: pour in prepared baking dish and cover baking dish with aluminum foil .
+PREDID: 0
+PRED: pour
+  PARG: prepared baking dish
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  DOBJ: baking dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake noodle pudding in preheated oven until set , 35 to 45 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: noodle pudding
+  PARG: preheated oven
+    PREP: in
+  PARG: set , 35 to 45 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Remove foil and return pudding to oven to bake until browned , about 10 minutes more ;
+PREDID: 0
+PRED: remove
+  DOBJ: foil, return pudding
+  PARG: oven
+    PREP: to
+  PARG: browned , about 10 minutes more
+    PREP: until
+  OARG: to bake
+
+
+SENTID: 12
+SENT: cool to room temperature or serve chilled .
+PREDID: 0
+PRED: cool
+  PARG: room temperature
+    PREP: to
+
+PREDID: 1
+PRED: serve
+  DOBJ: chilled
+

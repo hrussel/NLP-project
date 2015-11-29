@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 12-cup muffin tin with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 12-cup muffin tin
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix mashed bananas and brown sugar together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mashed bananas, brown sugar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Add eggs , olive oil , and vanilla extract ;
+PREDID: 0
+PRED: add
+  DOBJ: eggs , olive oil , vanilla extract
+
+
+SENTID: 4
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Mix flour , cocoa powder , baking powder , and cinnamon in a separate bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , cocoa powder , baking powder , cinnamon
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir banana mixture into flour mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: banana mixture
+  PARG: flour mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Fold chocolate chips and walnuts into batter .
+PREDID: 0
+PRED: fold
+  DOBJ: chocolate chips, walnuts
+  PARG: batter
+    PREP: into
+
+
+SENTID: 8
+SENT: Distribute batter into the muffin cups . Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean , 35 to 40 minutes .
+PREDID: 0
+PRED: distribute
+  DOBJ: batter
+  PARG: the muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the center of a muffin comes out clean , 35 to 40 minutes
+    PREP: until
+

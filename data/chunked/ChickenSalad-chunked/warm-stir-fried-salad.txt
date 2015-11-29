@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: Place chicken in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk soy sauce , ginger , tarragon , and brown sugar together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: soy sauce , ginger , tarragon , brown sugar
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: pour over chicken .
+PREDID: 0
+PRED: pour
+  PARG: chicken
+    PREP: over
+
+
+SENTID: 3
+SENT: Cover bowl with plastic wrap and marinate in refrigerator , 2 to 4 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: marinate
+  PARG: refrigerator , 2 to 4 hours
+    PREP: in
+
+
+SENTID: 4
+SENT: Remove chicken from marinade with a slotted spoon , reserving marinade .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: marinade
+    PREP: from
+  PARG: a slotted spoon , reserving marinade
+    PREP: with
+
+
+SENTID: 5
+SENT: Heat vegetable oil in a skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: saute chicken until no longer pink in the center , about 5 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: chicken
+  PARG: no longer pink in the center , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Add marinade ;
+PREDID: 0
+PRED: add
+  DOBJ: marinade
+
+
+SENTID: 8
+SENT: bring to a boil for 3 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Stir cashews and carrots into chicken .
+PREDID: 0
+PRED: stir
+  DOBJ: cashews, carrots
+  PARG: chicken
+    PREP: into
+
+
+SENTID: 10
+SENT: Arrange cabbage and baby kale on 4 plates .
+PREDID: 0
+PRED: arrange
+  DOBJ: cabbage, baby kale
+  PARG: 4 plates
+    PREP: on
+
+
+SENTID: 11
+SENT: Drizzle sesame oil over each cabbage-kale serving ;
+PREDID: 0
+PRED: drizzle
+  DOBJ: sesame oil
+  PARG: each cabbage-kale serving
+    PREP: over
+
+
+SENTID: 12
+SENT: top with chicken mixture .
+PREDID: 0
+PRED: top
+  PARG: chicken mixture
+    PREP: with
+

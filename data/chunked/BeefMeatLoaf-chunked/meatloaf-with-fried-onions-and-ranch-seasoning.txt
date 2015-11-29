@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine meat , eggs , ketchup , stuffing mix , ranch dressing mix and fried onions .
+PREDID: 0
+PRED: combine
+  DOBJ: meat , eggs , ketchup , stuffing mix , ranch dressing mix, fried onions
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Shape into loaf and fit into 9 x 5 inch loaf pan .
+PREDID: 0
+PRED: shape
+  PARG: loaf
+    PREP: into
+
+PREDID: 1
+PRED: fit
+  PARG: 9 x 5 inch loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake , covered loosely with foil , at 350 degrees F -LRB- 175 degrees C -RRB- for 50 to 60 minutes , or until meat is thoroughly cooked .
+PREDID: 0
+PRED: bake
+  DOBJ: covered
+  PARG: foil
+    PREP: with
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 50 to 60 minutes
+    PREP: for
+  PARG: meat is thoroughly cooked
+    PREP: until
+  OARG: loosely
+

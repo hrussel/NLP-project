@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups or fill with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: fill
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Mix almond meal , all-purpose flour , whole wheat flour , baking powder , baking soda , cinnamon , and salt together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: almond meal , all-purpose flour , whole wheat flour , baking powder , baking soda , cinnamon , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Beat butter and sugar together in a separate bowl until light and fluffy .
+PREDID: 0
+PRED: beat
+  DOBJ: butter, sugar
+  PARG: a separate bowl
+    PREP: in
+  PARG: light, fluffy
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Add eggs , one by one , beating until each is incorporated .
+PREDID: 0
+PRED: add
+  DOBJ: eggs , one by one , beating
+  PARG: each is incorporated
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir vanilla into the butter mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: vanilla
+  PARG: the butter mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Mix milk and yogurt together in a separate bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: milk, yogurt
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Add butter mixture , alternating with milk mixture , to the flour mixture until just incorporated .
+PREDID: 0
+PRED: add
+  DOBJ: butter mixture , alternating
+  PARG: milk mixture
+    PREP: with
+  PARG: the flour mixture
+    PREP: to
+  PARG: just incorporated
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir mashed banana into batter ;
+PREDID: 0
+PRED: stir
+  DOBJ: mashed banana
+  PARG: batter
+    PREP: into
+
+
+SENTID: 9
+SENT: fold in raspberries and chocolate chips .
+PREDID: 0
+PRED: fold
+  PARG: raspberries, chocolate chips
+    PREP: in
+
+
+SENTID: 10
+SENT: Fill muffin cups 3/4-full with batter .
+PREDID: 0
+PRED: fill
+  DOBJ: muffin cups 3/4-full
+  PARG: batter
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake on the middle rack in the preheated oven until a toothpick inserted in the middle of the muffins comes out clean , 18 to 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the middle rack
+    PREP: on
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the middle of the muffins comes out clean , 18 to 25 minutes
+    PREP: until
+

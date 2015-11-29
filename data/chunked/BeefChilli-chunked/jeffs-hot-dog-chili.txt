@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Place ground beef in a large saucepan with water and mash the beef with a potato masher to break apart .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large saucepan
+    PREP: in
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: mash
+  DOBJ: the beef
+  PARG: a potato masher
+    PREP: with
+  PARG: break
+    PREP: to
+  OARG: apart
+
+
+SENTID: 1
+SENT: Stir in tomato sauce , ketchup , chili powder , salt , black pepper , sugar , onion powder , and Worcestershire sauce .
+PREDID: 0
+PRED: stir
+  PARG: tomato sauce , ketchup , chili powder , salt , black pepper , sugar , onion powder , worcestershire sauce
+    PREP: in
+
+
+SENTID: 2
+SENT: Bring to a boil and cook over medium heat until the chili has thickened slightly and the beef is fully cooked , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: the chili has thickened slightly, the beef is fully cooked , about 20 minutes
+    PREP: until
+

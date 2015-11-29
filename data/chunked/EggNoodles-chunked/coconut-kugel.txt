@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Butter a 9x13-inch baking dish .
+PREDID: 0
+PRED: butter
+  DOBJ: a 9x13-inch baking dish
+
+
+SENTID: 6
+SENT: Beat the eggs , milk , sugar , and vanilla extract together in a bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , milk , sugar , vanilla extract
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Stir in the noodles .
+PREDID: 0
+PRED: stir
+  PARG: the noodles
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour the noodle mixture in the prepared baking pan .
+PREDID: 0
+PRED: pour
+  DOBJ: the noodle mixture
+  PARG: the prepared baking pan
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour the melted butter over the noodles , then top with the coconut .
+PREDID: 0
+PRED: pour
+  DOBJ: the melted butter
+  PARG: the noodles
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: the coconut
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until the noodles are set and the coconut is golden brown , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the noodles are set, the coconut is golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 1 hour
+    PREP: about
+

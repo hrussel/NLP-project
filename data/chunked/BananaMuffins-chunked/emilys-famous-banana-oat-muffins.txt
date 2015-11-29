@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line a 12 cup muffin pan with paper liners or coat with cooking spray .
+PREDID: 0
+PRED: line
+  DOBJ: a 12 cup muffin pan
+  PARG: paper liners
+    PREP: with
+
+PREDID: 1
+PRED: coat
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , stir together the bananas , brown sugar , egg , vanilla and oil .
+PREDID: 0
+PRED: stir
+  DOBJ: the bananas , brown sugar , egg , vanilla, oil
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Combine the whole wheat flour , oats , cinnamon , ginger , baking powder and baking soda ;
+PREDID: 0
+PRED: combine
+  DOBJ: the whole wheat flour , oats , cinnamon , ginger , baking powder, baking soda
+
+
+SENTID: 4
+SENT: stir into the banana mixture until blended .
+PREDID: 0
+PRED: stir
+  PARG: the banana mixture
+    PREP: into
+  PARG: blended
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon the batter into the prepared muffin cups . Bake in the preheated oven until the tops spring back when lightly pressed , about 25 minutes .
+PREDID: 0
+PRED: spoon
+  DOBJ: the batter
+  PARG: the prepared muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the tops spring back when lightly pressed , about 25 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Cool for a few minutes in the pan before attempting to remove them .
+PREDID: 0
+PRED: cool
+  PARG: a few minutes
+    PREP: for
+  PARG: the pan
+    PREP: in
+  PARG: attempting
+    PREP: before
+  PARG: remove them
+    PREP: to
+

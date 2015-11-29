@@ -1,0 +1,17 @@
+SENTID: 0
+SENT: Stir tomato sauce , tomato paste , vegetable oil , garlic , salt , oregano , sugar , and pepper together in a bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: tomato sauce , tomato paste , vegetable oil , garlic , salt , oregano , sugar , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: refrigerate until chilled completely , at least 15 minutes .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled completely , at least 15 minutes
+    PREP: until
+

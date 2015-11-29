@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a skillet over medium heat , cook the sausage until evenly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the sausage
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and mix in the spinach and Alfredo sauce .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: mix
+  PARG: the spinach, alfredo sauce
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with pepper .
+PREDID: 0
+PRED: season
+  PARG: pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Continue cooking until spinach and sauce are heated through .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: spinach, sauce are heated through
+    PREP: until
+
+
+SENTID: 5
+SENT: In a bowl , mix the Cheddar cheese , ricotta cheese , Parmesan cheese , and egg .
+PREDID: 0
+PRED: mix
+  DOBJ: the cheddar cheese , ricotta cheese , parmesan cheese , egg
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: In a 9x13 inch baking dish , layer 1/3 of the sausage mixture , 1/3 of the noodles , and 1/3 of the cheese mixture .
+PREDID: 0
+PRED: layer
+  DOBJ: 1/3 of the sausage mixture , 1/3 of the noodles , 1/3 of the cheese mixture
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 7
+SENT: Repeat layers twice , and top with mozzarella cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  OARG: twice
+
+PREDID: 1
+PRED: top
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Cover , and bake 45 minutes in the preheated oven .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  OARG: 45 minutes
+
+
+SENTID: 9
+SENT: Let stand 15 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 15 minutes
+

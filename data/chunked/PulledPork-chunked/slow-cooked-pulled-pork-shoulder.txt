@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Place the pork shoulder into the ceramic bowl of a slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: the pork shoulder
+  PARG: the ceramic bowl of a slow cooker
+    PREP: into
+
+
+SENTID: 1
+SENT: Pour enough water and white vinegar into the slow cooker to assure the pork is completely covered , maintaining a 2-to-1 ratio of vinegar to water .
+PREDID: 0
+PRED: pour
+  DOBJ: maintaining a 2-to-1 ratio of vinegar
+  PARG: the slow cooker
+    PREP: into
+  PARG: water
+    PREP: to
+  OARG: enough
+  OARG: to assure the pork is
+  OARG: completely
+  OARG: water, white vinegar
+
+
+SENTID: 2
+SENT: Add the salt .
+PREDID: 0
+PRED: add
+  DOBJ: the salt
+
+
+SENTID: 3
+SENT: Put the ceramic bowl in the refrigerator and allow the pork to marinate at least 12 hours and up to 24 hours .
+PREDID: 0
+PRED: put
+  DOBJ: the ceramic bowl
+  PARG: the refrigerator
+    PREP: in
+
+PREDID: 1
+PRED: allow
+  DOBJ: the pork
+  PARG: least 12 hours
+    PREP: at
+  PARG: 24 hours
+    PREP: to
+  OARG: to marinate
+  OARG: up
+
+
+SENTID: 4
+SENT: Drain enough of the liquid from the ceramic bowl until about 1/2-inch of pork is left exposed .
+PREDID: 0
+PRED: drain
+  PARG: the liquid
+    PREP: of
+  PARG: the ceramic bowl
+    PREP: from
+  PARG: about 1/2-inch of pork is left exposed
+    PREP: until
+  OARG: enough
+
+
+SENTID: 5
+SENT: Add the onion to the remaining liquid .
+PREDID: 0
+PRED: add
+  DOBJ: the onion
+  PARG: the remaining liquid
+    PREP: to
+
+
+SENTID: 6
+SENT: Season the exposed surface of the pork with the cumin , mustard , chili powder , and brown sugar .
+PREDID: 0
+PRED: season
+  DOBJ: the exposed surface of the pork
+  PARG: the cumin , mustard , chili powder , brown sugar
+    PREP: with
+
+
+SENTID: 7
+SENT: Place the bowl into the base of the slow cooker and cook on High until the pork is tender and falls apart easily , 8 to 10 hours .
+PREDID: 0
+PRED: place
+  DOBJ: the bowl
+  PARG: the base of the slow cooker
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: the pork is tender, falls apart easily , 8 to 10 hours
+    PREP: until
+
+
+SENTID: 8
+SENT: Carefully remove the pork to a cutting board ;
+PREDID: 0
+PRED: remove
+  DOBJ: the pork
+  PARG: a cutting board
+    PREP: to
+  OARG: carefully
+
+
+SENTID: 9
+SENT: shred the meat into strands using a pair of forks .
+PREDID: 0
+PRED: shred
+  DOBJ: using a pair of forks
+  PARG: strands
+    PREP: into
+  OARG: the meat
+
+
+SENTID: 10
+SENT: Remove and discard any excess fat .
+PREDID: 0
+PRED: remove
+  DOBJ: any excess fat
+
+PREDID: 1
+PRED: discard
+

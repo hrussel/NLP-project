@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large skillet over medium heat , combine the ground beef , onion and celery and saute for 10 minutes , or until the meat is browned and the onion is tender .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , onion, celery
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: saute
+  PARG: 10 minutes
+    PREP: for
+  PARG: the meat is browned, the onion is tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain the fat and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: the fat
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a separate saucepan , cook noodles according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles according
+  PARG: a separate saucepan
+    PREP: in
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 4
+SENT: When cooked , drain the water and stir in the meat mixture , chili , tomatoes , corn , taco sauce and taco seasoning mix .
+PREDID: 0
+PRED: drain
+  DOBJ: the water
+  OARG: when cooked
+
+PREDID: 1
+PRED: stir
+  PARG: the meat mixture , chili , tomatoes , corn , taco sauce, taco seasoning mix
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix well and place entire mixture into a 10x15 baking dish .
+PREDID: 0
+PRED: mix
+  DOBJ: entire mixture
+  OARG: well
+
+PREDID: 1
+PRED: place
+  PARG: a 10x15 baking dish
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake at 250 degrees F -LRB- 120 degrees C -RRB- for 20 minutes , or until thoroughly heated .
+PREDID: 0
+PRED: bake
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: at
+  PARG: 20 minutes
+    PREP: for
+  PARG: thoroughly heated
+    PREP: until
+

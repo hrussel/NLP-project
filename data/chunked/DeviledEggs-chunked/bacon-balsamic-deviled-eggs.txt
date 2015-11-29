@@ -1,0 +1,163 @@
+SENTID: 0
+SENT: Place the eggs in a large pot in a single layer and fill with water to cover by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a large pot
+    PREP: in
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil ;
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: immediately remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+  OARG: immediately
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 5
+SENT: Separate the yolks from the whites , placing the yolks in a bowl ;
+PREDID: 0
+PRED: separate
+  DOBJ: placing the yolks
+  PARG: the whites
+    PREP: from
+  PARG: a bowl
+    PREP: in
+  OARG: the yolks
+
+
+SENTID: 6
+SENT: arrange the egg whites with the rounded side down onto a serving platter .
+PREDID: 0
+PRED: arrange
+  DOBJ: the egg whites
+  PARG: the rounded side
+    PREP: with
+  PARG: a serving platter
+    PREP: onto
+  OARG: down
+
+
+SENTID: 7
+SENT: Place the bacon in a large , deep skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Drain on a paper towel-lined plate ;
+PREDID: 0
+PRED: drain
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 9
+SENT: chop .
+PREDID: 0
+PRED: chop
+
+
+SENTID: 10
+SENT: Mash the yolks with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 11
+SENT: Add the bacon , mayonnaise , onion , sugar , vinegar , celery salt , and pepper ;
+PREDID: 0
+PRED: add
+  DOBJ: the bacon , mayonnaise , onion , sugar , vinegar , celery salt , pepper
+
+
+SENTID: 12
+SENT: stir until thoroughly combined .
+PREDID: 0
+PRED: stir
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 13
+SENT: Spoon the mixture into the egg whites .
+PREDID: 0
+PRED: spoon
+  DOBJ: the mixture
+  PARG: the egg whites
+    PREP: into
+
+
+SENTID: 14
+SENT: Garnish with parsley .
+PREDID: 0
+PRED: garnish
+  PARG: parsley
+    PREP: with
+

@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of salted water to boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: boil
+    PREP: to
+
+
+SENTID: 2
+SENT: place noodles in water and bring to boil again .
+PREDID: 0
+PRED: place
+  DOBJ: noodles
+  PARG: water
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: boil
+    PREP: to
+  OARG: again
+
+
+SENTID: 3
+SENT: Cook until al dente ;
+PREDID: 0
+PRED: cook
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 5
+SENT: While noodles are cooking saute in a medium size saucepan vegetable oil , onion , green and red bell peppers .
+PREDID: 0
+PRED: saute
+  PARG: noodles are cooking
+    PREP: while
+  PARG: a medium size saucepan vegetable oil , onion , green, red bell peppers
+    PREP: in
+
+
+SENTID: 6
+SENT: Saute until tender .
+PREDID: 0
+PRED: saute
+  PARG: tender
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour soup , tuna , milk , salt and black pepper into the saucepan .
+PREDID: 0
+PRED: pour
+  DOBJ: soup , tuna , milk , salt, black pepper
+  PARG: the saucepan
+    PREP: into
+
+
+SENTID: 8
+SENT: Mix well over medium-low heat .
+PREDID: 0
+PRED: mix
+  PARG: medium-low heat
+    PREP: over
+  OARG: well
+
+
+SENTID: 9
+SENT: Fold the noodles into the saucepan .
+PREDID: 0
+PRED: fold
+  DOBJ: the noodles
+  PARG: the saucepan
+    PREP: into
+
+
+SENTID: 10
+SENT: Pour entire mixture into a 2 quart casserole .
+PREDID: 0
+PRED: pour
+  DOBJ: entire mixture
+  PARG: a 2 quart casserole
+    PREP: into
+
+
+SENTID: 11
+SENT: Sprinkle bread crumbs over the mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: bread crumbs
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 12
+SENT: Bake 20 to 30 minutes or until the top is crisp and golden brown .
+PREDID: 0
+PRED: bake
+  PARG: the top is crisp, golden brown
+    PREP: until
+  OARG: 20 to 30 minutes
+

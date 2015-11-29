@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a large skillet over medium-high heat , brown beef and season with salt and pepper ;
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Stir in spaghetti sauce and garlic and simmer 5 minutes .
+PREDID: 0
+PRED: stir
+  PARG: spaghetti sauce, garlic
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  OARG: 5 minutes
+
+
+SENTID: 7
+SENT: In a medium bowl , combine mozzarella , Cheddar and ricotta ;
+PREDID: 0
+PRED: combine
+  DOBJ: mozzarella , cheddar, ricotta
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 9
+SENT: In 9x13 inch pan , alternate layers of noodles , meat mixture and cheese mixture until pan is filled .
+PREDID: 0
+PRED: alternate
+  DOBJ: layers of noodles , meat mixture, cheese mixture
+  PARG: 9x13 inch pan
+    PREP: in
+  PARG: pan is filled
+    PREP: until
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 30 minutes , or until cheese is melted and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: cheese is melted, bubbly
+    PREP: until
+

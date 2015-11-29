@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Melt butter in a large heavy skillet .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large heavy skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: Saute mushrooms for 1 minute .
+PREDID: 0
+PRED: saute
+  DOBJ: mushrooms
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 6
+SENT: Season with salt and pepper , and stir in turkey , condensed soup , and sour cream .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: turkey , condensed soup , sour cream
+    PREP: in
+
+
+SENTID: 7
+SENT: Place cooked noodles in a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: cooked noodles
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour sauce mixture evenly over the top .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce mixture
+  PARG: the top
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 9
+SENT: Sprinkle with Parmesan cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 20 to 25 minutes , or until sauce is bubbling .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 to 25 minutes
+    PREP: for
+  PARG: sauce is bubbling
+    PREP: until
+

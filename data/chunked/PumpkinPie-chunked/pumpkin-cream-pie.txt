@@ -1,0 +1,35 @@
+SENTID: 0
+SENT: Combine milk , pie filling mix , pumpkin , spices , and whipped topping in a deep , narrow-bottom bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: milk , pie filling mix , pumpkin , spices , whipped topping
+  PARG: a deep , narrow-bottom bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Beat at lowest speed of an electric mixer for about 1 minute .
+PREDID: 0
+PRED: beat
+  PARG: lowest speed of an electric mixer
+    PREP: at
+  PARG: about 1 minute
+    PREP: for
+
+
+SENTID: 2
+SENT: Pour filling into cooled pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: cooled pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Chill until set , about 3 hours .
+PREDID: 0
+PRED: chill
+  PARG: set , about 3 hours
+    PREP: until
+

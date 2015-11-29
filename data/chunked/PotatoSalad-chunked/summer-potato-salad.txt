@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes ;
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+
+SENTID: 2
+SENT: cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , and transfer to a large bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 4
+SENT: Place eggs in a saucepan , and cover completely with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+  OARG: completely
+
+
+SENTID: 5
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Cover , remove from heat , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Remove from hot water , and cool .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 8
+SENT: Peel , chop , and add to potatoes .
+PREDID: 0
+PRED: peel
+
+PREDID: 1
+PRED: chop
+
+PREDID: 2
+PRED: add
+  PARG: potatoes
+    PREP: to
+
+
+SENTID: 9
+SENT: In a small bowl , combine lemon juice , oil , sugar , seasoned salt , Worcestershire sauce , mustard powder and black pepper ;
+PREDID: 0
+PRED: combine
+  DOBJ: lemon juice , oil , sugar , seasoned salt , worcestershire sauce , mustard powder, black pepper
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 11
+SENT: Blend in mayonnaise .
+PREDID: 0
+PRED: blend
+  PARG: mayonnaise
+    PREP: in
+
+
+SENTID: 12
+SENT: Pour lemon dressing over potatoes , and stir to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: lemon dressing
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 13
+SENT: Mix in green onions , celery , and parsley .
+PREDID: 0
+PRED: mix
+  PARG: green onions , celery , parsley
+    PREP: in
+
+
+SENTID: 14
+SENT: Refrigerate for at least 2 hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: at least 2 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

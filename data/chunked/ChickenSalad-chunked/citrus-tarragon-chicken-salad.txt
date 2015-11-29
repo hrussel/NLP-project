@@ -1,0 +1,37 @@
+SENTID: 0
+SENT: Mix the chicken , celery , green onions , and tarragon together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , celery , green onions , tarragon
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir in the lemon juice , lemon zest , orange zest , and mayonnaise .
+PREDID: 0
+PRED: stir
+  PARG: the lemon juice , lemon zest , orange zest , mayonnaise
+    PREP: in
+
+
+SENTID: 2
+SENT: Season to taste with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Refrigerate at least 30 minutes before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 30 minutes
+    PREP: at
+  PARG: serving
+    PREP: before
+

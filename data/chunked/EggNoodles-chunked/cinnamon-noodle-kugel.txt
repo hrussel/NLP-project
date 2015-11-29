@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Beat eggs , cottage cheese , milk , sour cream , 1 cup white sugar , butter , cream cheese , vanilla extract , and salt in a large bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , cottage cheese , milk , sour cream , 1 cup white sugar , butter , cream cheese , vanilla extract , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir egg noodles into cottage cheese mixture , then pour into prepared baking dish .
+PREDID: 0
+PRED: stir
+  DOBJ: egg noodles
+  PARG: cottage cheese mixture
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  PARG: prepared baking dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Combine 1/3 cup white sugar , brown sugar , and cinnamon in a small bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: 1/3 cup white sugar , brown sugar , cinnamon
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: sprinkle mixture atop noodle kugel .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: mixture
+  PARG: noodle kugel
+    PREP: atop
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until sauce is bubbly and noodles are golden , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: sauce is bubbly, noodles are golden , about 1 hour
+    PREP: until
+
+
+SENTID: 10
+SENT: Allow pan of kugel to cool on a wire rack for 10 minutes before serving .
+PREDID: 0
+PRED: allow
+  DOBJ: pan of kugel
+  PARG: a wire rack
+    PREP: on
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: to cool
+

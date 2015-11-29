@@ -1,0 +1,195 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine 1 cup flour , undissolved yeast , sugar and salt in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: 1 cup flour , undissolved yeast , sugar, salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Add very warm water and oil ;
+PREDID: 0
+PRED: add
+  DOBJ: warm water
+  OARG: very
+
+PREDID: 1
+PRED: oil
+
+
+SENTID: 3
+SENT: mix until well blended , about 1 minute .
+PREDID: 0
+PRED: mix
+  PARG: well blended , about 1 minute
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually add enough remaining flour to make a soft dough .
+PREDID: 0
+PRED: add
+  DOBJ: remaining flour
+  PARG: make a soft dough
+    PREP: to
+  OARG: gradually
+  OARG: enough
+
+
+SENTID: 5
+SENT: Kneadon a floured surface , adding additional flour if necessary , until smooth and elastic , about 4 minutes .
+PREDID: 0
+PRED: flour
+  DOBJ: kneadon a floured surface , adding additional
+  PARG: necessary
+    PREP: if
+  PARG: smooth, elastic , about 4 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: -LRB- If using RapidRise Yeast , let dough rest at this point for 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: dough rest
+  PARG: using rapidrise yeast
+    PREP: if
+  PARG: this point
+    PREP: at
+  PARG: 10 minutes
+    PREP: for
+  OARG: 
+
+
+SENTID: 7
+SENT: -RRB- Pat dough with floured hands to fill greased pizza pan or baking sheet .
+PREDID: 0
+PRED: pat
+  DOBJ: dough
+  PARG: floured hands
+    PREP: with
+  PARG: fill greased pizza pan or baking sheet
+    PREP: to
+  OARG: 
+
+
+SENTID: 8
+SENT: OR roll dough on a floured counter to 12-inch circle ;
+PREDID: 0
+PRED: roll
+  DOBJ: dough
+  PARG: a floured counter
+    PREP: on
+  PARG: 12-inch circle
+    PREP: to
+
+
+SENTID: 9
+SENT: place in greased pizza pan or baking sheet .
+PREDID: 0
+PRED: place
+  PARG: greased pizza pan or baking sheet
+    PREP: in
+
+
+SENTID: 10
+SENT: Form a rim by pinching the edge of the dough .
+PREDID: 0
+PRED: form
+  DOBJ: a rim
+  PARG: pinching the edge of the dough
+    PREP: by
+
+
+SENTID: 11
+SENT: Brush crust with 1 tablespoon olive oil and sprinkle with garlic powder .
+PREDID: 0
+PRED: brush
+  DOBJ: crust
+  PARG: 1 tablespoon olive oil
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: garlic powder
+    PREP: with
+
+
+SENTID: 12
+SENT: Combine mozzarella cheese , onions and carrots ;
+PREDID: 0
+PRED: combine
+  DOBJ: mozzarella cheese , onions, carrots
+
+
+SENTID: 13
+SENT: spread over the crust .
+PREDID: 0
+PRED: spread
+  PARG: the crust
+    PREP: over
+
+
+SENTID: 14
+SENT: Bake on lowest oven rack for 15 to 18 minutes , until cheese is bubbly and crust is browned .
+PREDID: 0
+PRED: bake
+  PARG: lowest oven rack
+    PREP: on
+  PARG: 15 to 18 minutes
+    PREP: for
+  PARG: cheese is bubbly, crust is browned
+    PREP: until
+
+
+SENTID: 15
+SENT: Remove from oven and let cool 2 to 3 minutes .
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: let
+  OARG: cool 2 to 3 minutes
+
+
+SENTID: 16
+SENT: While pizza is baking , toss together lettuce , tomatoes and Italian salad dressing .
+PREDID: 0
+PRED: toss
+  DOBJ: lettuce , tomatoes, italian salad dressing
+  PARG: pizza is baking
+    PREP: while
+  OARG: together
+
+
+SENTID: 17
+SENT: Spread over pizza and sprinkle with Parmesan cheese .
+PREDID: 0
+PRED: spread
+  PARG: pizza
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 18
+SENT: Serve immediately !
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

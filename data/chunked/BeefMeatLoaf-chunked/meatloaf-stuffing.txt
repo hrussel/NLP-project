@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix meatloaf meat , apples , onion , stuffing mix , celery , milk , water , eggs , garlic powder , salt , and black pepper together in a bowl until ingredients are evenly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: meatloaf meat , apples , onion , stuffing mix , celery , milk , water , eggs , garlic powder , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  PARG: ingredients are evenly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Spread cream of mushroom soup into a 9x5-inch loaf pan .
+PREDID: 0
+PRED: spread
+  DOBJ: cream of mushroom soup
+  PARG: a 9x5-inch loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Spoon meat mixture into the loaf pan and use a spatula to gently flatten the top of the loaf .
+PREDID: 0
+PRED: spoon
+  DOBJ: meat mixture
+  PARG: the loaf pan
+    PREP: into
+
+PREDID: 1
+PRED: use
+  DOBJ: a spatula
+  OARG: to gently flatten the top of the loaf
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until no longer pink in the center , about 1Ê1/2 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1Ê1/2 hours
+    PREP: until
+
+
+SENTID: 5
+SENT: Cool in pan for 5 to 10 minutes .
+PREDID: 0
+PRED: cool
+  PARG: pan
+    PREP: in
+  PARG: 5 to 10 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Flip meatloaf pan upside-down onto a serving platter so the cream of mushroom soup is on the top of the loaf .
+PREDID: 0
+PRED: flip
+  DOBJ: the cream of mushroom soup is
+  PARG: a serving platter
+    PREP: onto
+  PARG: the top of the loaf
+    PREP: on
+  OARG: so
+  OARG: meatloaf pan upside-down
+

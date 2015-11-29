@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: In a large bowl , whisk together the pumpkin , dry pudding mix , dry milk powder and water .
+PREDID: 0
+PRED: whisk
+  DOBJ: the pumpkin , dry pudding mix , dry milk powder, water
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Blend in 1/4 cup whipped topping and pumpkin pie spice .
+PREDID: 0
+PRED: blend
+  PARG: 1/4 cup whipped topping, pumpkin pie spice
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour filling into pie crust , top with remaining whipped topping , sprinkle with pecans and toffee chips .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie crust
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: remaining whipped topping
+    PREP: with
+
+PREDID: 2
+PRED: sprinkle
+  PARG: pecans, toffee chips
+    PREP: with
+
+
+SENTID: 3
+SENT: Refrigerate for 1 hour .
+PREDID: 0
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+

@@ -1,0 +1,311 @@
+SENTID: 0
+SENT: Combine the white sugar and the warm water in a large bowl or in the work bowl of a stand mixer .
+PREDID: 0
+PRED: combine
+  DOBJ: the white sugar, the warm water
+  PARG: a large bowl
+    PREP: in
+  PARG: the work bowl of a stand mixer
+    PREP: in
+
+
+SENTID: 1
+SENT: Sprinkle the yeast over the warm sugar water , and let stand for 5 minutes until the yeast softens and begins to form a creamy foam .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the yeast
+  PARG: the warm sugar water
+    PREP: over
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+  PARG: the yeast softens, begins to form a creamy foam
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir 1 tablespoon olive oil into the yeast mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: 1 tablespoon olive oil
+  PARG: the yeast mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Stir 1/2 teaspoon salt into the flour .
+PREDID: 0
+PRED: stir
+  DOBJ: 1/2 teaspoon salt
+  PARG: the flour
+    PREP: into
+
+
+SENTID: 4
+SENT: Mix half of the flour mixture into the yeast water , and stir until no dry spots remain .
+PREDID: 0
+PRED: mix
+  DOBJ: half of the flour mixture
+  PARG: the yeast water
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: no dry spots remain
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in the remaining flour , a 1/2 cup at a time , mixing well after each addition .
+PREDID: 0
+PRED: stir
+  PARG: the remaining flour , a 1/2 cup
+    PREP: in
+  PARG: a time , mixing
+    PREP: at
+  PARG: each addition
+    PREP: after
+  OARG: well
+
+
+SENTID: 6
+SENT: When the dough has pulled together , turn it out onto a lightly floured surface and knead until smooth and elastic , about 8 minutes -LRB- or mix with dough hook in stand mixer -RRB- .
+PREDID: 0
+PRED: turn
+  DOBJ: it
+  PARG: onto a lightly floured surface
+    PREP: out
+  OARG: when the dough has pulled
+  OARG: together
+
+PREDID: 1
+PRED: knead
+  PARG: smooth, elastic , about 8 minutes -lrb-
+    PREP: until
+
+PREDID: 2
+PRED: mix
+  PARG: dough hook
+    PREP: with
+  PARG: stand mixer -rrb-
+    PREP: in
+
+
+SENTID: 7
+SENT: Lightly oil a large bowl , place the dough in the bowl and turn to coat with oil .
+PREDID: 0
+PRED: oil
+  DOBJ: a large bowl
+  OARG: lightly
+
+PREDID: 1
+PRED: place
+  DOBJ: the dough
+  PARG: the bowl
+    PREP: in
+
+PREDID: 2
+PRED: turn
+  PARG: coat
+    PREP: to
+  PARG: oil
+    PREP: with
+
+
+SENTID: 8
+SENT: Cover with a light cloth , and let rise in a warm place until doubled in volume , about 1 hour .
+PREDID: 0
+PRED: cover
+  PARG: a light cloth , let rise
+    PREP: with
+  PARG: a warm
+    PREP: in
+
+PREDID: 1
+PRED: place
+  PARG: doubled in volume , about 1 hour
+    PREP: until
+
+
+SENTID: 9
+SENT: Combine the crushed tomatoes , brown sugar , garlic powder , 1 teaspoon olive oil , and salt in small saucepan .
+PREDID: 0
+PRED: combine
+  DOBJ: the crushed tomatoes , brown sugar , garlic powder , 1 teaspoon olive oil , salt
+  PARG: small saucepan
+    PREP: in
+
+
+SENTID: 10
+SENT: Cover pan , and cook over low heat until tomatoes start to break down , about 30 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+
+PREDID: 1
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: tomatoes
+    PREP: until
+
+PREDID: 2
+PRED: start
+  PARG: break
+    PREP: to
+  PARG: 30 minutes
+    PREP: about
+  OARG: down
+
+
+SENTID: 11
+SENT: Preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 12
+SENT: Deflate the dough and turn it out onto a lightly floured surface .
+PREDID: 0
+PRED: turn
+  DOBJ: deflate the dough
+  PARG: onto a lightly floured surface
+    PREP: out
+
+
+SENTID: 13
+SENT: Cut the dough into 2 equal pieces . Roll one piece into a 12 inch thin circle .
+PREDID: 0
+PRED: cut
+  DOBJ: the dough
+  PARG: 2 equal pieces
+    PREP: into
+
+PREDID: 1
+PRED: roll
+  DOBJ: one piece
+  PARG: a 12 inch
+    PREP: into
+  OARG: thin
+
+
+SENTID: 14
+SENT: Roll the other half into a thicker , 9 inch circle .
+PREDID: 0
+PRED: roll
+  DOBJ: the other half
+  PARG: a thicker , 9 inch circle
+    PREP: into
+
+
+SENTID: 15
+SENT: Place the 12 inch dough round into an ungreased 9 inch springform pan .
+PREDID: 0
+PRED: place
+  DOBJ: the 12 inch dough round
+  PARG: an ungreased 9 inch springform pan
+    PREP: into
+
+
+SENTID: 16
+SENT: Sprinkle dough with 1 cup of cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: dough
+  PARG: 1 cup of cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: Shape sausage into a 9 inch patty and place in pan on top of the cheese .
+PREDID: 0
+PRED: shape
+  DOBJ: sausage
+  PARG: a 9 inch patty
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: pan
+    PREP: in
+  PARG: top of the cheese
+    PREP: on
+
+
+SENTID: 18
+SENT: Layer pepperoni , mushrooms , green pepper , red pepper , and remaining cheese on top of sausage patty .
+PREDID: 0
+PRED: layer
+  DOBJ: pepperoni , mushrooms , green pepper , red pepper , remaining cheese
+  PARG: top of sausage patty
+    PREP: on
+
+
+SENTID: 19
+SENT: Top with the 9 inch dough round and pinch edges to seal .
+PREDID: 0
+PRED: top
+  PARG: the 9 inch dough
+    PREP: with
+
+PREDID: 1
+PRED: round
+  DOBJ: edges
+
+PREDID: 2
+PRED: pinch
+  PARG: seal
+    PREP: to
+
+
+SENTID: 20
+SENT: Cut several 1/2 inch vent holes in the top crust .
+PREDID: 0
+PRED: cut
+  DOBJ: several 1/2 inch vent holes
+  PARG: the top crust
+    PREP: in
+
+
+SENTID: 21
+SENT: Spread sauce evenly on the top crust , leaving a 1/2 inch border at the edges .
+PREDID: 0
+PRED: spread
+  DOBJ: leaving a 1/2 inch border
+  PARG: the top crust
+    PREP: on
+  PARG: the edges
+    PREP: at
+  OARG: evenly
+  OARG: sauce
+
+
+SENTID: 22
+SENT: Bake pizza in the preheated oven until the crust is set , the cheese is melted , and the sausage is cooked through , 40 to 45 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: pizza
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust is set , the cheese is melted , the sausage is cooked through , 40 to 45 minutes
+    PREP: until
+
+
+SENTID: 23
+SENT: Let hot pizza rest for 15 minutes before cutting into wedges and serving .
+PREDID: 0
+PRED: let
+  DOBJ: hot pizza rest
+  PARG: 15 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+  PARG: wedges, serving
+    PREP: into
+

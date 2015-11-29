@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: In a small mixing bowl whisk together the poppy seeds , eggs , milk , vanilla , nutmeg , and sugar .
+PREDID: 0
+PRED: whisk
+  DOBJ: the poppy seeds , eggs , milk , vanilla , nutmeg , sugar
+  PARG: a small mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Heat a griddle or large frying pant over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a griddle or large frying pant
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Melt 1 tablespoon of the butter in the frying pan .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon of the butter
+  PARG: the frying pan
+    PREP: in
+
+
+SENTID: 3
+SENT: Dip one slice of the bread into the egg batter , then quickly take it out .
+PREDID: 0
+PRED: dip
+  DOBJ: one slice of the bread
+  PARG: the egg batter
+    PREP: into
+  OARG: then
+  OARG: quickly
+
+PREDID: 1
+PRED: take
+  DOBJ: out
+  OARG: it
+
+
+SENTID: 4
+SENT: Cook the slices for about 2 minutes per side , or until they are golden brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the slices
+  PARG: about 2 minutes
+    PREP: for
+  PARG: side
+    PREP: per
+  PARG: they are golden brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Repeat with remaining bread .
+PREDID: 0
+PRED: repeat
+  PARG: remaining bread
+    PREP: with
+
+
+SENTID: 6
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

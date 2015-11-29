@@ -1,0 +1,57 @@
+SENTID: 0
+SENT: Stir the soup , milk , peas , chicken and noodles in a 1Ê1/2 - quart casserole .
+PREDID: 0
+PRED: stir
+  DOBJ: the soup , milk , peas , chicken, noodles
+  PARG: a 1Ê1/2 - quart casserole
+    PREP: in
+
+
+SENTID: 1
+SENT: Stir the bread crumbs and butter in a small bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the bread crumbs
+
+PREDID: 1
+PRED: butter
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Bake at 400 degrees F for 20 minutes or until the chicken mixture is hot and bubbling .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f
+    PREP: at
+  PARG: 20 minutes
+    PREP: for
+  PARG: the chicken mixture is hot, bubbling
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir the chicken mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken mixture
+
+
+SENTID: 4
+SENT: Sprinkle with the bread crumb mixture .
+PREDID: 0
+PRED: sprinkle
+  PARG: the bread crumb mixture
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake for 5 minutes or until the topping is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 5 minutes
+    PREP: for
+  PARG: the topping is golden brown
+    PREP: until
+

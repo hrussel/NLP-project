@@ -1,0 +1,179 @@
+SENTID: 0
+SENT: Heat a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Crumble ground beef into skillet ;
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: skillet
+    PREP: into
+
+
+SENTID: 2
+SENT: add salami , pepperoni , and onion .
+PREDID: 0
+PRED: add
+  DOBJ: salami , pepperoni , onion
+
+
+SENTID: 3
+SENT: Cook and stir mixture until beef is completely browned , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: mixture
+
+PREDID: 1
+PRED: stir
+  PARG: beef is completely browned , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain grease from skillet .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+  PARG: skillet
+    PREP: from
+
+
+SENTID: 5
+SENT: Transfer meat mixture to a slow cooker ;
+PREDID: 0
+PRED: transfer
+  DOBJ: meat mixture
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 6
+SENT: stir stewed tomatoes , tomato sauce , tomato paste , garlic powder , oregano , salt , and pepper into the meat mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: stewed tomatoes , tomato sauce , tomato paste , garlic powder , oregano , salt , pepper
+  PARG: the meat mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Cook mixture in slow cooker on Low for 2 hours .
+PREDID: 0
+PRED: cook
+  DOBJ: mixture
+  PARG: slow cooker
+    PREP: in
+  PARG: low
+    PREP: on
+  PARG: 2 hours
+    PREP: for
+
+
+SENTID: 8
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Cook lasagna noodles in boiling water until cooked through but firm to the bite , about 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna noodles
+  PARG: boiling water
+    PREP: in
+  PARG: cooked through but firm to the bite , about 8 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 11
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 12
+SENT: Spread a thin layer of the sauce from the meat mixture into the bottom of a baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: a thin layer of the sauce
+  PARG: the meat mixture
+    PREP: from
+  PARG: the bottom of a baking dish
+    PREP: into
+
+
+SENTID: 13
+SENT: Layer about 1/3 of the noodles into the bottom of the dish ;
+PREDID: 0
+PRED: layer
+  PARG: 1/3 of the noodles
+    PREP: about
+  PARG: the bottom of the dish
+    PREP: into
+
+
+SENTID: 14
+SENT: top with about 1Ê1/3 cup mozzarella cheese , 2/3 cup cottage cheese , 3 slices white American cheese , and 4 teaspoons grated parmesan cheese .
+PREDID: 0
+PRED: top
+  PARG: about 1Ê1/3 cup mozzarella cheese , 2/3 cup cottage cheese , 3 slices white american cheese , 4 teaspoons grated parmesan cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Spread about 1/3 of the meat mixture over the cheese layer .
+PREDID: 0
+PRED: spread
+  PARG: 1/3 of the meat mixture
+    PREP: about
+  PARG: the cheese layer
+    PREP: over
+
+
+SENTID: 16
+SENT: Repeat layers twice more .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  OARG: twice
+
+
+SENTID: 17
+SENT: Bake in preheated oven until the cheese melts throughout the lasagna , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the cheese melts throughout the lasagna , about 30 minutes
+    PREP: until
+
+
+SENTID: 18
+SENT: Let cool 10 minutes before cutting to serve .
+PREDID: 0
+PRED: let
+  PARG: cutting
+    PREP: before
+  PARG: serve
+    PREP: to
+  OARG: cool 10 minutes
+

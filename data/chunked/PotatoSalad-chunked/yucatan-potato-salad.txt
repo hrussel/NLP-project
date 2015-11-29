@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Preheat the oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the potatoes into a saucepan , and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a saucepan
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 2
+SENT: Bring to a boil and cook until tender , about 10 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Place the peppers into the oven so that they sit directly on the rack .
+PREDID: 0
+PRED: place
+  DOBJ: the peppers
+  PARG: the oven
+    PREP: into
+  PARG: they sit
+    PREP: that
+  PARG: the rack
+    PREP: on
+  OARG: so
+  OARG: directly
+
+
+SENTID: 5
+SENT: Roast , turning every 10 minutes or so , until evenly charred .
+PREDID: 0
+PRED: roast
+  PARG: evenly charred
+    PREP: until
+  OARG: turning every 10 minutes
+  OARG: so
+
+
+SENTID: 6
+SENT: Place in a paper bag to sweat , then remove the peel when they are cool enough to handle .
+PREDID: 0
+PRED: place
+  PARG: a paper bag
+    PREP: in
+  PARG: sweat
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  DOBJ: the peel
+  PARG: handle
+    PREP: to
+  OARG: when they are cool
+  OARG: enough
+
+
+SENTID: 7
+SENT: Remove the stem and seeds , and chop .
+PREDID: 0
+PRED: remove
+  DOBJ: the stem, seeds
+
+PREDID: 1
+PRED: chop
+
+
+SENTID: 8
+SENT: In a large bowl , combine the still warm potatoes , peppers , eggs , celery , onion , sweet pickles and olives .
+PREDID: 0
+PRED: combine
+  DOBJ: the still warm potatoes , peppers , eggs , celery , onion , sweet pickles, olives
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: In a smaller bowl , whisk together the lime juice , vegetable oil , salt , pepper and mustard powder .
+PREDID: 0
+PRED: whisk
+  DOBJ: the lime juice , vegetable oil , salt , pepper, mustard powder
+  PARG: a smaller bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Pour over the potato salad , and stir to coat .
+PREDID: 0
+PRED: pour
+  PARG: the potato salad
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 11
+SENT: Adjust seasoning to taste and serve .
+PREDID: 0
+PRED: adjust
+  DOBJ: seasoning
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: serve
+

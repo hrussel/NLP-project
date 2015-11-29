@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix the noodles , sunflower seeds , and pine nuts with melted butter until evenly coated .
+PREDID: 0
+PRED: mix
+  DOBJ: the noodles , sunflower seeds , pine nuts
+  PARG: a large bowl
+    PREP: in
+  PARG: melted butter
+    PREP: with
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Spread the mixture in a thin layer on a baking sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: a thin layer
+    PREP: in
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 3
+SENT: Bake 7 to 10 minutes in the preheated oven , stirring occasionally , until evenly toasted .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven , stirring
+    PREP: in
+  PARG: evenly toasted
+    PREP: until
+  OARG: 7 to 10 minutes
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Remove from heat , and cool slightly .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 5
+SENT: In a large bowl toss together the noodle mixture , bok choy , green onions , chicken , water chestnuts , and snow peas .
+PREDID: 0
+PRED: toss
+  DOBJ: the noodle mixture , bok choy , green onions , chicken , water chestnuts , snow peas
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Prepare the dressing by blending the oil , vinegar , soy sauce , sugar , and lemon juice .
+PREDID: 0
+PRED: prepare
+  DOBJ: the dressing
+  PARG: blending the oil , vinegar , soy sauce , sugar , lemon juice
+    PREP: by
+
+
+SENTID: 7
+SENT: Pour over salad , and toss to evenly coat .
+PREDID: 0
+PRED: pour
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: to evenly coat
+
+
+SENTID: 8
+SENT: Serve immediately , or refrigerate until chilled .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+
+PREDID: 1
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+

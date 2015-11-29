@@ -1,0 +1,213 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Process cubed bread in a food processor to make bread crumbs .
+PREDID: 0
+PRED: process
+  DOBJ: cubed bread
+  PARG: a food processor
+    PREP: in
+  PARG: make bread crumbs
+    PREP: to
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Heat olive oil in a deep ovenproof skillet or Dutch oven .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a deep ovenproof skillet or dutch oven
+    PREP: in
+
+
+SENTID: 4
+SENT: Add onion ;
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+
+SENTID: 5
+SENT: Add garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: garlic
+
+
+SENTID: 6
+SENT: Add quinoa , chicken stock , and water to the skillet .
+PREDID: 0
+PRED: add
+  DOBJ: quinoa , chicken stock , water
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 7
+SENT: Bring to a simmer ;
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 8
+SENT: Heat 1/4 cup butter in a saucepan over medium-low heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1/4 cup butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Add flour ;
+PREDID: 0
+PRED: add
+  DOBJ: flour
+
+
+SENTID: 10
+SENT: cook and stir to form a paste , about 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: form a paste
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: 2 minutes
+    PREP: about
+
+
+SENTID: 11
+SENT: Slowly whisk in skim milk .
+PREDID: 0
+PRED: whisk
+  PARG: skim milk
+    PREP: in
+  OARG: slowly
+
+
+SENTID: 12
+SENT: Season with salt and ground black pepper ;
+PREDID: 0
+PRED: season
+  PARG: salt, ground black pepper
+    PREP: with
+
+
+SENTID: 13
+SENT: simmer on low until thickened , about 5 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: low
+    PREP: on
+  PARG: thickened , about 5 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Remove saucepan from heat ;
+PREDID: 0
+PRED: remove
+  DOBJ: saucepan
+  PARG: heat
+    PREP: from
+
+
+SENTID: 15
+SENT: stir in Cheddar and mozzarella cheeses , a little at a time , until combined .
+PREDID: 0
+PRED: stir
+  PARG: cheddar, mozzarella cheeses , a little
+    PREP: in
+  PARG: a time
+    PREP: at
+  PARG: combined
+    PREP: until
+
+
+SENTID: 16
+SENT: Stir cheese sauce into quinoa mixture in the skillet .
+PREDID: 0
+PRED: stir
+  DOBJ: cheese sauce
+  PARG: quinoa mixture
+    PREP: into
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 17
+SENT: Melt 1 tablespoon butter in a separate skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon butter
+  PARG: a separate skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 18
+SENT: Add bread crumbs ;
+PREDID: 0
+PRED: add
+  DOBJ: bread crumbs
+
+
+SENTID: 19
+SENT: Place tomato slices on top of quinoa ;
+PREDID: 0
+PRED: place
+  DOBJ: tomato slices
+  PARG: top of quinoa
+    PREP: on
+
+
+SENTID: 20
+SENT: top with bread crumbs .
+PREDID: 0
+PRED: top
+  PARG: bread crumbs
+    PREP: with
+
+
+SENTID: 21
+SENT: Bake in the oven until golden brown , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the oven
+    PREP: in
+  PARG: golden brown , about 25 minutes
+    PREP: until
+
+
+SENTID: 22
+SENT: Allow to rest for 5 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: rest
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

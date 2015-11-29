@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a bowl , mix the hot red pepper sauce , margarine , brown sugar , Worcestershire sauce , lemon juice , and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: the hot red pepper sauce , margarine , brown sugar , worcestershire sauce , lemon juice , salt
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix pecans into the bowl , tossing to coat evenly .
+PREDID: 0
+PRED: mix
+  DOBJ: pecans
+  PARG: the bowl , tossing
+    PREP: into
+  PARG: coat
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 3
+SENT: Spread pecans in a single layer on a baking sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: pecans
+  PARG: a single layer
+    PREP: in
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 4
+SENT: Bake 10 minutes in the preheated oven , stirring often and watching carefully , until lightly browned .
+PREDID: 0
+PRED: bake
+  DOBJ: and watching
+  PARG: the preheated oven , stirring
+    PREP: in
+  PARG: lightly browned
+    PREP: until
+  OARG: 10 minutes
+  OARG: often
+  OARG: carefully
+
+
+SENTID: 5
+SENT: Remove from heat , and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Rub chicken with the olive oil , place on a baking sheet , and sprinkle with Greek seasoning .
+PREDID: 0
+PRED: rub
+  DOBJ: chicken
+  PARG: the olive oil
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: a baking sheet
+    PREP: on
+
+PREDID: 2
+PRED: sprinkle
+  PARG: greek seasoning
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake 20 minutes or until juices run clear .
+PREDID: 0
+PRED: bake
+  PARG: juices run clear
+    PREP: until
+  OARG: 20 minutes
+
+
+SENTID: 8
+SENT: Slice into strips .
+PREDID: 0
+PRED: slice
+  PARG: strips
+    PREP: into
+
+
+SENTID: 9
+SENT: In a salad bowl , toss together romaine lettuce , chicken strips , cherry tomato halves , strawberries , grapes , raspberries , and blueberries .
+PREDID: 0
+PRED: toss
+  DOBJ: romaine lettuce , chicken strips , cherry tomato halves , strawberries , grapes , raspberries , blueberries
+  PARG: a salad bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Sprinkle with pecans , and drizzle with dressing .
+PREDID: 0
+PRED: sprinkle
+  PARG: pecans
+    PREP: with
+
+PREDID: 1
+PRED: drizzle
+  PARG: dressing
+    PREP: with
+

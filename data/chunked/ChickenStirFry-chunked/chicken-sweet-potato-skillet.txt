@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: Heat olive oil in a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir chicken in the hot oil until browned , 3 to 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: browned , 3 to 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove chicken with a slotted spoon and place on a plate .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: a plate
+    PREP: on
+
+
+SENTID: 3
+SENT: Cook and stir sweet potato in the same skillet over medium heat until slightly browned , 5 to 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: sweet potato
+
+PREDID: 1
+PRED: stir
+  PARG: the same skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: slightly browned , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: return chicken to the skillet .
+PREDID: 0
+PRED: return
+  DOBJ: chicken
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 5
+SENT: Add whiskey , sage , pear , and water ;
+PREDID: 0
+PRED: add
+  DOBJ: whiskey , sage , pear , water
+
+
+SENTID: 6
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 7
+SENT: Partially cover skillet , lower heat to medium-low , and cook until chicken is no longer pink in the center and sweet potato is tender , about 10 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: skillet
+  OARG: partially
+
+PREDID: 1
+PRED: lower
+  DOBJ: heat
+  PARG: medium-low , cook
+    PREP: to
+  PARG: chicken is no longer pink in the center, sweet potato is tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove lid and sprinkle spinach over the chicken-sweet potato mixture ;
+PREDID: 0
+PRED: remove
+  DOBJ: lid
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: spinach
+  PARG: the chicken-sweet potato mixture
+    PREP: over
+
+
+SENTID: 9
+SENT: cook , stirring occasionally , until spinach is wilted , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: spinach is wilted , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 10
+SENT: Stir in hazelnuts ;
+PREDID: 0
+PRED: stir
+  PARG: hazelnuts
+    PREP: in
+
+
+SENTID: 11
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+

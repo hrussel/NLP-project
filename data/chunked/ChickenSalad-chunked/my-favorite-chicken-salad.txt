@@ -1,0 +1,20 @@
+SENTID: 0
+SENT: Stir chicken , celery , pecans , mayonnaise , yellow onion , relish , mustard , pepper , dill , lemon juice , sugar , salt , garlic powder , and paprika in a bowl until well combined .
+PREDID: 0
+PRED: stir
+  DOBJ: chicken , celery , pecans , mayonnaise , yellow onion , relish , mustard , pepper , dill , lemon juice , sugar , salt , garlic powder , paprika
+  PARG: a bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 1
+SENT: Refrigerate at least 1 hour before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

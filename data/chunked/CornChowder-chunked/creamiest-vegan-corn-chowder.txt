@@ -1,0 +1,153 @@
+SENTID: 0
+SENT: Heat olive oil in a large soup pot over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a large soup pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir onion , celery , and carrots in the hot oil until softened , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion , celery , carrots
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: softened , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir potatoes , cauliflower , bay leaves , thyme , and oregano into vegetables ;
+PREDID: 0
+PRED: stir
+  DOBJ: potatoes , cauliflower , bay leaves , thyme , oregano
+  PARG: vegetables
+    PREP: into
+
+
+SENTID: 3
+SENT: cook about 5 minutes more .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes more
+    PREP: about
+
+
+SENTID: 4
+SENT: Pour vegetable broth and 6 cups corn kernels and into vegetable mixture and bring mixture to a boil .
+PREDID: 0
+PRED: pour
+  DOBJ: vegetable broth, 6 cups corn kernels
+  PARG: vegetable mixture
+    PREP: into
+
+PREDID: 1
+PRED: bring
+  DOBJ: mixture
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Reduce heat to low and simmer until vegetables are tender , 35 to 40 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: vegetables are tender , 35 to 40 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove and discard bay leaves .
+PREDID: 0
+PRED: remove
+  DOBJ: bay leaves
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 7
+SENT: Place remaining 2 cups corn kernels , cashews , and nutritional yeast into a blender and add several large spoonfuls of simmering broth to blender .
+PREDID: 0
+PRED: place
+  DOBJ: remaining 2 cups corn kernels , cashews , nutritional yeast
+  PARG: a blender
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: several large spoonfuls of simmering broth
+  PARG: blender
+    PREP: to
+
+
+SENTID: 8
+SENT: Work in batches if necessary , filling blender no more than half full per batch .
+PREDID: 0
+PRED: work
+  PARG: batches
+    PREP: in
+  PARG: necessary , filling blender no more
+    PREP: if
+  PARG: half full
+    PREP: than
+  PARG: batch
+    PREP: per
+
+
+SENTID: 9
+SENT: Cover lid with a dish towel and hold lid down ;
+PREDID: 0
+PRED: cover
+  DOBJ: lid
+  PARG: a dish towel
+    PREP: with
+
+PREDID: 1
+PRED: hold
+  DOBJ: lid
+  OARG: down
+
+
+SENTID: 10
+SENT: pulse a few times before leaving on to blend until smooth .
+PREDID: 0
+PRED: pulse
+  DOBJ: a few times
+  PARG: leaving
+    PREP: before
+  PARG: to blend
+    PREP: on
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir cashew mixture into soup pot ;
+PREDID: 0
+PRED: stir
+  DOBJ: cashew mixture
+  PARG: soup pot
+    PREP: into
+
+
+SENTID: 12
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+

@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix ground beef , eggs , bread crumbs , salt , and black pepper together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , eggs , bread crumbs , salt , black pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add green bell pepper , red bell pepper , yellow bell pepper , and onion ;
+PREDID: 0
+PRED: add
+  DOBJ: green bell pepper , red bell pepper , yellow bell pepper , onion
+
+
+SENTID: 3
+SENT: mix .
+PREDID: 0
+PRED: mix
+
+
+SENTID: 4
+SENT: Spread the beef mixture into a 13x9-inch glass baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: the beef mixture
+  PARG: a 13x9-inch glass baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Make a trough in the middle of the meat mixture .
+PREDID: 0
+PRED: make
+  DOBJ: a trough
+  PARG: the middle of the meat mixture
+    PREP: in
+
+
+SENTID: 6
+SENT: Put 3/4 of the Cheddar cheese and half the tomato sauce into the trough .
+PREDID: 0
+PRED: put
+  DOBJ: 3/4 of the cheddar cheese, half the tomato sauce
+  PARG: the trough
+    PREP: into
+
+
+SENTID: 7
+SENT: Fold the beef mixture around the cheese and sauce filling to form a loaf , pinching to seal .
+PREDID: 0
+PRED: fold
+  DOBJ: the beef mixture
+  PARG: the cheese
+    PREP: around
+
+PREDID: 1
+PRED: sauce
+  DOBJ: filling
+  PARG: form a loaf , pinching
+    PREP: to
+  PARG: seal
+    PREP: to
+
+
+SENTID: 8
+SENT: Loosely cover the meat loaf with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the meat loaf
+  PARG: aluminum foil
+    PREP: with
+  OARG: loosely
+
+
+SENTID: 9
+SENT: Bake in preheated oven until the beef is cooked through and the cheese in the middle is melted , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the beef is cooked through, the cheese in the middle is melted , about 45 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Remove and discard aluminum foil .
+PREDID: 0
+PRED: remove
+  DOBJ: aluminum foil
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 11
+SENT: Top meat loaf with remaining Cheddar cheese and tomato sauce .
+PREDID: 0
+PRED: top
+  DOBJ: meat loaf
+  PARG: remaining cheddar cheese, tomato sauce
+    PREP: with
+
+
+SENTID: 12
+SENT: Continue baking until the cheese melts , about 15 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: baking
+  PARG: the cheese melts , about 15 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Rest meat loaf 10 to 15 minutes before slicing to serve .
+PREDID: 0
+PRED: rest
+  PARG: slicing
+    PREP: before
+  PARG: serve
+    PREP: to
+  OARG: meat loaf 10 to 15 minutes
+

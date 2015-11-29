@@ -1,0 +1,44 @@
+SENTID: 0
+SENT: Season beef with salt , pepper , and paprika .
+PREDID: 0
+PRED: season
+  DOBJ: beef
+  PARG: salt , pepper , paprika
+    PREP: with
+
+
+SENTID: 1
+SENT: Brown seasoned beef and onion in oil until all sides are brown .
+PREDID: 0
+PRED: brown
+  DOBJ: seasoned beef, onion
+  PARG: oil
+    PREP: in
+  PARG: all sides are brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Cover with water and simmer for 3 to 4 hours or until tender .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: simmer
+  PARG: 3 to 4 hours
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Add water whenever level goes below the ingredients .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: the ingredients
+    PREP: below
+  OARG: whenever level goes
+

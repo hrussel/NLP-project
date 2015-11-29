@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease 24 muffin cups . In a bowl , cream together the butter , sugar , and vanilla .
+PREDID: 0
+PRED: grease
+  DOBJ: 24 muffin cups
+  PARG: a bowl
+    PREP: in
+  OARG: lightly
+
+PREDID: 1
+PRED: cream
+  DOBJ: the butter , sugar , vanilla
+  OARG: together
+
+
+SENTID: 2
+SENT: Mix in banana and sour cream .
+PREDID: 0
+PRED: mix
+  PARG: banana, sour cream
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in the eggs .
+PREDID: 0
+PRED: stir
+  PARG: the eggs
+    PREP: in
+
+
+SENTID: 4
+SENT: In a separate bowl , mix the flour , baking powder , and baking soda .
+PREDID: 0
+PRED: mix
+  DOBJ: the flour , baking powder , baking soda
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Mix dry ingredients into the banana mixture until evenly moist .
+PREDID: 0
+PRED: mix
+  DOBJ: dry ingredients
+  PARG: the banana mixture
+    PREP: into
+  PARG: evenly moist
+    PREP: until
+
+
+SENTID: 6
+SENT: Fold in chocolate chips .
+PREDID: 0
+PRED: fold
+  PARG: chocolate chips
+    PREP: in
+
+
+SENTID: 7
+SENT: Transfer batter to the prepared muffin cups , filling each cup about 3/4 full .
+PREDID: 0
+PRED: transfer
+  DOBJ: filling each cup
+  PARG: the prepared muffin cups
+    PREP: to
+  PARG: 3/4 full
+    PREP: about
+  OARG: batter
+
+
+SENTID: 8
+SENT: Bake 25 minutes in the preheated oven , or until a knife inserted in the center of a muffin comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a knife inserted in the center of a muffin comes out clean
+    PREP: until
+  OARG: 25 minutes
+

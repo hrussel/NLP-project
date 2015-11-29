@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: In a small bowl , blend together cream cheese , 1 egg , 1 teaspoon vanilla , 1/3 cup sugar , and salt .
+PREDID: 0
+PRED: blend
+  DOBJ: cream cheese , 1 egg , 1 teaspoon vanilla , 1/3 cup sugar , salt
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Mix by hand until mostly smooth .
+PREDID: 0
+PRED: mix
+  PARG: hand
+    PREP: by
+  PARG: mostly smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Spread mixture into the bottom of the unbaked pie shell .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: the bottom of the unbaked pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Sprinkle with chopped pecans .
+PREDID: 0
+PRED: sprinkle
+  PARG: chopped pecans
+    PREP: with
+
+
+SENTID: 4
+SENT: In another bowl , slightly beat 3 eggs .
+PREDID: 0
+PRED: beat
+  DOBJ: 3 eggs
+  PARG: another bowl
+    PREP: in
+  OARG: slightly
+
+
+SENTID: 5
+SENT: Stir in 1/4 cup sugar , corn syrup , and 1 teaspoon vanilla ;
+PREDID: 0
+PRED: stir
+  PARG: 1/4 cup sugar , corn syrup , 1 teaspoon vanilla
+    PREP: in
+
+
+SENTID: 6
+SENT: blend well .
+PREDID: 0
+PRED: blend
+  OARG: well
+
+
+SENTID: 7
+SENT: Fold in chopped chocolate or chocolate chips .
+PREDID: 0
+PRED: fold
+  PARG: chopped chocolate or chocolate chips
+    PREP: in
+
+
+SENTID: 8
+SENT: Very CAREFULLY pour corn syrup mixture over pecans .
+PREDID: 0
+PRED: pour
+  DOBJ: corn syrup mixture
+  PARG: pecans
+    PREP: over
+  OARG: very
+  OARG: carefully
+
+
+SENTID: 9
+SENT: Cover pie crust edge with a strip of foil to prevent excessive browning .
+PREDID: 0
+PRED: cover
+  DOBJ: pie crust edge
+  PARG: a strip of foil
+    PREP: with
+  OARG: to prevent excessive browning
+
+
+SENTID: 10
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 35 to 45 minutes , or until center is set .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 35 to 45 minutes
+    PREP: for
+  PARG: center is set
+    PREP: until
+
+
+SENTID: 11
+SENT: Cool completely .
+PREDID: 0
+PRED: cool
+  OARG: completely
+
+
+SENTID: 12
+SENT: Store in refrigerator .
+PREDID: 0
+PRED: store
+  PARG: refrigerator
+    PREP: in
+

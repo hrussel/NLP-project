@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Cut eggs in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 1
+SENT: Remove yolks ;
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+
+
+SENTID: 2
+SENT: place in medium bowl .
+PREDID: 0
+PRED: place
+  PARG: medium bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Add Neufchatel cheese , mayo , mustard , vinegar and sugar ;
+PREDID: 0
+PRED: add
+  DOBJ: neufchatel cheese , mayo , mustard , vinegar, sugar
+
+
+SENTID: 4
+SENT: mix until well blended .
+PREDID: 0
+PRED: mix
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon mixture into large resealable plastic bag .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: large resealable plastic bag
+    PREP: into
+
+
+SENTID: 6
+SENT: Cut small corner from bag and pipe filling into egg white halves .
+PREDID: 0
+PRED: cut
+  DOBJ: small corner
+  PARG: bag
+    PREP: from
+
+PREDID: 1
+PRED: pipe
+  DOBJ: filling
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 7
+SENT: Sprinkle with paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 8
+SENT: Add , if desired , your choice of Toppings -LRB- see Tips -RRB- just before serving .
+PREDID: 0
+PRED: add
+  PARG: desired , your choice of toppings -lrb- see tips -rrb-
+    PREP: if
+  PARG: serving
+    PREP: before
+  OARG: just
+

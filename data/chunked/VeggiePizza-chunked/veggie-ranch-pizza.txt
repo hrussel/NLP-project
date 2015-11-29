@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place pizza crust on a pizza pan or baking sheet , and spread dressing evenly over the top .
+PREDID: 0
+PRED: place
+  DOBJ: pizza crust
+  PARG: a pizza pan or baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: spread
+  DOBJ: dressing
+  PARG: the top
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 2
+SENT: Sprinkle with Cheddar cheese , followed by carrots , cauliflower , broccoli , onion , red pepper , and mushrooms .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheddar cheese , followed
+    PREP: with
+  PARG: carrots , cauliflower , broccoli , onion , red pepper , mushrooms
+    PREP: by
+
+
+SENTID: 3
+SENT: Top with mozzarella cheese .
+PREDID: 0
+PRED: top
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake in preheated oven for 15 to 20 minutes , until vegetables are tender , and cheese is melted and lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+  PARG: vegetables are tender , cheese is melted, lightly browned
+    PREP: until
+

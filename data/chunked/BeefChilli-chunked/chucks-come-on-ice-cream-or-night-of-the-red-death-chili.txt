@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Cut beef and pork into 1/2 inch cubes and add to bowl .
+PREDID: 0
+PRED: cut
+  DOBJ: beef, pork
+  PARG: 1/2 inch cubes
+    PREP: into
+
+PREDID: 1
+PRED: add
+  PARG: bowl
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix meat and seasoning together , cover bowl and refrigerate overnight .
+PREDID: 0
+PRED: mix
+  DOBJ: meat, seasoning
+  OARG: together
+
+PREDID: 1
+PRED: cover
+  DOBJ: bowl
+
+PREDID: 2
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 2
+SENT: Begin to heat tomatoes , tomato sauce , salsa and 2 teaspoons chili powder in a large pot over medium low heat .
+PREDID: 0
+PRED: begin
+  PARG: heat tomatoes , tomato sauce , salsa, 2 teaspoons chili powder
+    PREP: to
+  PARG: a large pot
+    PREP: in
+  PARG: medium low heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Meanwhile , heat bacon grease in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: bacon
+  OARG: meanwhile
+
+PREDID: 1
+PRED: grease
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add jalapeno peppers and saute until soft , 1 to 2 minutes , then add them to large pot .
+PREDID: 0
+PRED: add
+  DOBJ: jalapeno peppers
+
+PREDID: 1
+PRED: saute
+  PARG: soft , 1 to 2 minutes , then add them to large pot
+    PREP: until
+
+
+SENTID: 5
+SENT: In same skillet fry beef and pork with onion and garlic , in small batches , about 15 to 20 minutes each .
+PREDID: 0
+PRED: fry
+  DOBJ: beef, pork
+  PARG: same skillet
+    PREP: in
+  PARG: onion, garlic
+    PREP: with
+  PARG: small batches
+    PREP: in
+  PARG: 15 to 20 minutes each
+    PREP: about
+
+
+SENTID: 6
+SENT: As each batch is done add to large pot .
+PREDID: 0
+PRED: add
+  PARG: each batch is done
+    PREP: as
+  PARG: large pot
+    PREP: to
+
+
+SENTID: 7
+SENT: When all ingredients are in the large pot , season with salt to taste .
+PREDID: 0
+PRED: season
+  PARG: the large pot
+    PREP: in
+  PARG: salt
+    PREP: with
+  PARG: taste
+    PREP: to
+  OARG: when all ingredients are
+
+
+SENTID: 8
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Cover , reduce heat to medium low and simmer for about 3 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: about 3 hours
+    PREP: for
+
+
+SENTID: 10
+SENT: After eating chili , eat ice cream and say `` Come on , ice cream ! ''
+PREDID: 0
+PRED: cream
+  PARG: eating chili , eat ice cream, say `` come
+    PREP: after
+  PARG: , ice
+    PREP: on
+

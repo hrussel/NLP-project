@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Mix flour , garlic powder , salt , and pepper together in a resealable plastic bag .
+PREDID: 0
+PRED: mix
+  DOBJ: flour , garlic powder , salt , pepper
+  PARG: a resealable plastic bag
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add cubed chicken to the bag and shake until well coated .
+PREDID: 0
+PRED: add
+  DOBJ: cubed chicken
+  PARG: the bag
+    PREP: to
+
+PREDID: 1
+PRED: shake
+  PARG: well coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Heat the oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Add the chicken ;
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+
+SENTID: 4
+SENT: Stir in the bell pepper , onion , zucchini , mushrooms , chicken broth , and Italian dressing .
+PREDID: 0
+PRED: stir
+  PARG: the bell pepper , onion , zucchini , mushrooms , chicken broth , italian dressing
+    PREP: in
+
+
+SENTID: 5
+SENT: Cover and simmer until vegetables and meat are tender , about 10 minutes .
+PREDID: 0
+PRED: cover
+  PARG: vegetables, meat are tender , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: simmer
+

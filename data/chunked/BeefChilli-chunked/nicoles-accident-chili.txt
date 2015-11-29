@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: In a skillet over medium heat , brown the ground beef and cook the onion until tender .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: the onion
+  PARG: tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 2
+SENT: In a pot , mix the beef and onion , beans , vegetable juice , tomato sauce , tomato paste , and tomatoes .
+PREDID: 0
+PRED: mix
+  DOBJ: the beef, onion , beans , vegetable juice , tomato sauce , tomato paste , tomatoes
+  PARG: a pot
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with salt , garlic powder , and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt , garlic powder , pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring to a boil , reduce heat to low , cover , and simmer 45 minutes , stirring occasionally .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: cover
+
+PREDID: 3
+PRED: simmer
+  OARG: 45 minutes , stirring
+  OARG: occasionally
+

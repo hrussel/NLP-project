@@ -1,0 +1,189 @@
+SENTID: 0
+SENT: Divide ground beef into 4 patties , sprinkle with salt and black pepper , and set aside .
+PREDID: 0
+PRED: divide
+  DOBJ: ground beef
+  PARG: 4 patties
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: salt, black pepper
+    PREP: with
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain the bacon slices on paper towels and keep warm .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 3
+SENT: Cook onion in the bacon drippings until lightly browned , about 10 minutes , stirring often ;
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+  PARG: the bacon drippings
+    PREP: in
+  PARG: lightly browned , about 10 minutes , stirring often
+    PREP: until
+
+
+SENTID: 4
+SENT: sprinkle with sugar during frying if desired .
+PREDID: 0
+PRED: sprinkle
+  PARG: sugar
+    PREP: with
+  PARG: frying
+    PREP: during
+  PARG: desired
+    PREP: if
+
+
+SENTID: 5
+SENT: Set onion aside .
+PREDID: 0
+PRED: set
+  DOBJ: onion
+  OARG: aside
+
+
+SENTID: 6
+SENT: Set oven rack about 6 inches from the heat source and preheat the oven 's broiler .
+PREDID: 0
+PRED: set
+  DOBJ: oven rack
+  PARG: 6 inches
+    PREP: about
+  PARG: the heat source
+    PREP: from
+
+PREDID: 1
+PRED: preheat
+  DOBJ: the oven 's broiler
+
+
+SENTID: 7
+SENT: Open hamburger buns and place onto a baking sheet with cut sides up ;
+PREDID: 0
+PRED: open
+  DOBJ: hamburger buns
+
+PREDID: 1
+PRED: place
+  PARG: a baking sheet
+    PREP: onto
+  PARG: cut sides
+    PREP: with
+  OARG: up
+
+
+SENTID: 8
+SENT: toast under the broiler until browned , 1 to 2 minutes .
+PREDID: 0
+PRED: toast
+  PARG: the broiler
+    PREP: under
+  PARG: browned , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Set buns aside .
+PREDID: 0
+PRED: set
+  DOBJ: buns
+  OARG: aside
+
+
+SENTID: 10
+SENT: Pan fry ground beef patties in the same skillet as onions until browned and the juices run clear , 5 to 8 minutes per side .
+PREDID: 0
+PRED: fry
+  DOBJ: ground beef patties
+  PARG: the same skillet
+    PREP: in
+  PARG: onions
+    PREP: as
+  PARG: browned, the juices run clear , 5 to 8 minutes per side
+    PREP: until
+  OARG: pan
+
+
+SENTID: 11
+SENT: Place a slice of Cheddar cheese onto each patty and allow cheese to melt .
+PREDID: 0
+PRED: place
+  DOBJ: a slice of cheddar cheese
+  PARG: each patty
+    PREP: onto
+
+PREDID: 1
+PRED: allow
+  DOBJ: cheese
+  PARG: melt
+    PREP: to
+
+
+SENTID: 12
+SENT: To assemble , spread peanut butter onto bottom halves of buns ;
+PREDID: 0
+PRED: spread
+  DOBJ: peanut butter
+  PARG: bottom halves of buns
+    PREP: onto
+  OARG: to assemble
+
+
+SENTID: 13
+SENT: spread ketchup onto top halves .
+PREDID: 0
+PRED: spread
+  DOBJ: ketchup
+  PARG: top halves
+    PREP: onto
+
+
+SENTID: 14
+SENT: Top the peanut butter with pickle slices , cooked onion , burgers with cheese , a slice of bacon , several tomato slices , and about 1/4 cup shredded lettuce per sandwich .
+PREDID: 0
+PRED: top
+  DOBJ: the peanut butter
+  PARG: pickle slices , cooked onion , burgers
+    PREP: with
+  PARG: cheese , a slice of bacon , several tomato slices
+    PREP: with
+  PARG: 1/4 cup shredded lettuce
+    PREP: about
+  PARG: sandwich
+    PREP: per
+

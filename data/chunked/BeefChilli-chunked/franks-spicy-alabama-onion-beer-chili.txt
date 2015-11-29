@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Crumble the ground chuck into a skillet over medium heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground chuck
+  PARG: a skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring occasionally until evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: evenly browned
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 3
+SENT: Transfer the beef to a large soup pot .
+PREDID: 0
+PRED: transfer
+  DOBJ: the beef
+  PARG: a large soup pot
+    PREP: to
+
+
+SENTID: 4
+SENT: Add onions , diced tomatoes , tomato sauce , beer and chili beans .
+PREDID: 0
+PRED: add
+  DOBJ: onions , diced tomatoes , tomato sauce , beer, chili beans
+
+
+SENTID: 5
+SENT: Season with Worcestershire sauce , hot pepper sauce , chili powder , jalapenos , and red pepper flakes , if using .
+PREDID: 0
+PRED: season
+  PARG: worcestershire sauce , hot pepper sauce , chili powder , jalapenos , red pepper flakes
+    PREP: with
+  PARG: using
+    PREP: if
+
+
+SENTID: 6
+SENT: Cover the pot , and simmer over low heat for 2 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: the pot
+
+PREDID: 1
+PRED: simmer
+  PARG: low heat
+    PREP: over
+  PARG: 2 hours
+    PREP: for
+
+
+SENTID: 7
+SENT: Turn off heat , and let cool , then refrigerate for two days .
+PREDID: 0
+PRED: turn
+  PARG: heat
+    PREP: off
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+  OARG: then
+
+PREDID: 2
+PRED: refrigerate
+  PARG: two days
+    PREP: for
+
+
+SENTID: 8
+SENT: Heat and serve .
+PREDID: 0
+PRED: heat
+
+PREDID: 1
+PRED: serve
+

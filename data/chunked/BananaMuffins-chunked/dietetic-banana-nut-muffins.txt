@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 12 cup muffin tin , or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: a 12 cup muffin tin
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , stir together the flour , sugar substitute , baking powder , baking soda , and cinnamon .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour , sugar substitute , baking powder , baking soda , cinnamon
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: In a separate bowl , mix together the egg whites , mashed banana and applesauce .
+PREDID: 0
+PRED: mix
+  DOBJ: the egg whites , mashed banana, applesauce
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Add the wet ingredients to the dry , and mix until just blended .
+PREDID: 0
+PRED: add
+  DOBJ: the wet ingredients
+  PARG: the dry
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  PARG: just blended
+    PREP: until
+
+
+SENTID: 5
+SENT: Fill prepared muffin cups 3/4 full .
+PREDID: 0
+PRED: fill
+  DOBJ: prepared muffin cups 3/4 full
+
+
+SENTID: 6
+SENT: Bake for 15 to 18 minutes in the preheated oven , or until the top springs back when lightly touched .
+PREDID: 0
+PRED: bake
+  PARG: 15 to 18 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the top springs back when lightly touched
+    PREP: until
+
+
+SENTID: 7
+SENT: Allow muffins to cool in the pan over a wire rack for a little while before tapping them out of the pan .
+PREDID: 0
+PRED: allow
+  DOBJ: muffins
+  PARG: the pan
+    PREP: in
+  PARG: a wire rack
+    PREP: over
+  PARG: a little
+    PREP: for
+  PARG: before tapping them
+    PREP: while
+  PARG: of the pan
+    PREP: out
+  OARG: to cool
+

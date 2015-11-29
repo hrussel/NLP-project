@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Place the ground beef and half the chili powder into a large saucepan over high heat , and cook until meat is browned , breaking the meat apart into crumbles as it cooks , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef, half the chili powder
+  PARG: a large saucepan
+    PREP: into
+  PARG: high heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: meat is browned , breaking the meat apart into crumbles as it cooks , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Mix in the onion , and cook and stir until onion is softened , about 10 more minutes .
+PREDID: 0
+PRED: mix
+  PARG: the onion , cook
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: onion is softened , about 10 more minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in garlic , and cook until fragrant , about 2 minutes .
+PREDID: 0
+PRED: stir
+  PARG: garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: fragrant , about 2 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in remaining chili powder , cumin , oregano , tomato paste , and cocoa powder , and cover pan .
+PREDID: 0
+PRED: stir
+  PARG: remaining chili powder , cumin , oregano , tomato paste , cocoa powder
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  DOBJ: pan
+
+
+SENTID: 4
+SENT: Reduce heat to a simmer , and cook until meat is tender and flavors have blended , mixing enough water to make a thick chili , about 1Ê1/2 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: meat is tender, flavors have blended , mixing enough
+    PREP: until
+
+PREDID: 2
+PRED: water
+  PARG: make a thick chili
+    PREP: to
+  PARG: 1Ê1/2 hours
+    PREP: about
+
+
+SENTID: 5
+SENT: Stir occasionally .
+PREDID: 0
+PRED: stir
+  OARG: occasionally
+

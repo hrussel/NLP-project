@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Place eggs in a large pot of cool water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a large pot of cool water
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Let water boil for 10 to 15 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: water
+
+PREDID: 1
+PRED: boil
+  PARG: 10 to 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Plunge the eggs in cold water .
+PREDID: 0
+PRED: plunge
+  DOBJ: the eggs
+  PARG: cold water
+    PREP: in
+
+
+SENTID: 4
+SENT: When eggs are cool enough , remove their shells and cut them in half lengthwise to remove the yolk .
+PREDID: 0
+PRED: remove
+  DOBJ: their shells
+  OARG: when eggs are cool
+  OARG: enough
+
+PREDID: 1
+PRED: cut
+  DOBJ: them
+  PARG: half lengthwise
+    PREP: in
+  PARG: remove the yolk
+    PREP: to
+
+
+SENTID: 5
+SENT: Place the yolks in a medium-size mixing bowl and mash them well .
+PREDID: 0
+PRED: place
+  DOBJ: the yolks
+  PARG: a medium-size mixing bowl
+    PREP: in
+
+PREDID: 1
+PRED: mash
+  DOBJ: them
+  OARG: well
+
+
+SENTID: 6
+SENT: Mix mustard , Worcestershire sauce , hot sauce , celery salt , and softened butter into the mixing bowl with the yolks .
+PREDID: 0
+PRED: mix
+  DOBJ: mustard , worcestershire sauce , hot sauce , celery salt , softened butter
+  PARG: the mixing bowl
+    PREP: into
+  PARG: the yolks
+    PREP: with
+
+
+SENTID: 7
+SENT: Blend mixture until smooth .
+PREDID: 0
+PRED: blend
+  DOBJ: mixture
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Scoop mixture into the hollowed portion of the eggs .
+PREDID: 0
+PRED: scoop
+  DOBJ: mixture
+  PARG: the hollowed portion of the eggs
+    PREP: into
+
+
+SENTID: 9
+SENT: Refrigerate one hour and serve .
+PREDID: 0
+PRED: refrigerate
+  OARG: one hour
+
+PREDID: 1
+PRED: serve
+

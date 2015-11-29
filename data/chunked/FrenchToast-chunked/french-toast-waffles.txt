@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Preheat waffle iron .
+PREDID: 0
+PRED: preheat
+  DOBJ: waffle iron
+
+
+SENTID: 1
+SENT: In a large mixing bowl , combine waffle mix , sugar and cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: waffle mix , sugar, cinnamon
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in milk , eggs and vanilla extract .
+PREDID: 0
+PRED: stir
+  PARG: milk , eggs, vanilla extract
+    PREP: in
+
+
+SENTID: 3
+SENT: Spray preheated waffle iron with non-stick cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: preheated waffle iron
+  PARG: non-stick cooking spray
+    PREP: with
+
+
+SENTID: 4
+SENT: Pour mix onto hot waffle iron .
+PREDID: 0
+PRED: pour
+  DOBJ: mix
+  PARG: hot waffle iron
+    PREP: onto
+
+
+SENTID: 5
+SENT: Cook until golden brown .
+PREDID: 0
+PRED: cook
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

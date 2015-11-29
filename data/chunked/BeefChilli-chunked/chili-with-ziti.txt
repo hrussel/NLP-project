@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: In a medium pot over medium heat , brown the ground beef , onion and garlic until the meat is no longer pink ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef , onion, garlic
+  PARG: a medium pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the meat is no longer pink
+    PREP: until
+
+
+SENTID: 1
+SENT: drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+
+SENTID: 2
+SENT: Pour in tomato sauce , chili powder , oregano and cinnamon ;
+PREDID: 0
+PRED: pour
+  PARG: tomato sauce , chili powder , oregano, cinnamon
+    PREP: in
+
+
+SENTID: 3
+SENT: mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 4
+SENT: Pour in kidney beans and water ;
+PREDID: 0
+PRED: pour
+  PARG: kidney beans, water
+    PREP: in
+
+
+SENTID: 5
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 6
+SENT: Simmer on low for 30 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: low
+    PREP: on
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Bring a medium pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a medium pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Pour in the ziti pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: pour
+  PARG: the ziti pasta
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 9
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 10
+SENT: Serve the chili over the ziti and top with cheddar cheese .
+PREDID: 0
+PRED: serve
+  DOBJ: the chili
+  PARG: the ziti
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: cheddar cheese
+    PREP: with
+

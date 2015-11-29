@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large mixing bowl , combine the ground beef , bread crumbs , egg and steak sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , bread crumbs , egg, steak sauce
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Blend in soup mix , green pepper , onion , cilantro and garlic .
+PREDID: 0
+PRED: blend
+  PARG: soup mix , green pepper , onion , cilantro, garlic
+    PREP: in
+
+
+SENTID: 4
+SENT: On a large piece of aluminum foil , pat the beef mixture into a thin , flat rectangle .
+PREDID: 0
+PRED: pat
+  DOBJ: the beef mixture
+  PARG: a large piece of aluminum foil
+    PREP: on
+  PARG: a thin , flat rectangle
+    PREP: into
+
+
+SENTID: 5
+SENT: Layer about 1/2 the ham on top of the beef from end to end .
+PREDID: 0
+PRED: layer
+  PARG: 1/2 the ham
+    PREP: about
+  PARG: top of the beef
+    PREP: on
+  PARG: end
+    PREP: from
+  PARG: end
+    PREP: to
+
+
+SENTID: 6
+SENT: Layer ham with the Cheddar cheese .
+PREDID: 0
+PRED: layer
+  DOBJ: ham
+  PARG: the cheddar cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: Layer cheese with remaining ham , then the broccoli .
+PREDID: 0
+PRED: layer
+  DOBJ: the broccoli
+  PARG: remaining ham
+    PREP: with
+  OARG: then
+  OARG: cheese
+
+
+SENTID: 8
+SENT: Using the foil , roll the meatloaf while pinching the ends .
+PREDID: 0
+PRED: roll
+  DOBJ: using the foil
+  PARG: pinching the ends
+    PREP: while
+
+
+SENTID: 9
+SENT: Keep aluminum foil around the meat loaf and place on a medium baking sheet .
+PREDID: 0
+PRED: keep
+  DOBJ: aluminum foil
+  PARG: the meat loaf
+    PREP: around
+
+PREDID: 1
+PRED: place
+  PARG: a medium baking sheet
+    PREP: on
+
+
+SENTID: 10
+SENT: Bake in the preheated oven for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+

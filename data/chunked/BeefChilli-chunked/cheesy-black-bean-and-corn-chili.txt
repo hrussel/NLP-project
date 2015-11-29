@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Place ground beef into a large skillet and cook , stirring often , until the beef is browned and crumbled , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large skillet
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: the beef is browned, crumbled , about 10 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 1
+SENT: Stir in green onions after 5 minutes .
+PREDID: 0
+PRED: stir
+  PARG: green onions
+    PREP: in
+  PARG: 5 minutes
+    PREP: after
+
+
+SENTID: 2
+SENT: Drain excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 3
+SENT: Place ground beef mixture into a large soup pot over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef mixture
+  PARG: a large soup pot
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Stir in black beans , corn and its liquid , chili seasoning mix , crushed tomatoes , and water ;
+PREDID: 0
+PRED: stir
+  PARG: black beans , corn, its liquid , chili seasoning
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: crushed tomatoes , water
+
+
+SENTID: 5
+SENT: stir to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+
+
+SENTID: 6
+SENT: If chili seems too thick , mix in a little more water .
+PREDID: 0
+PRED: mix
+  DOBJ: thick
+  PARG: chili seems
+    PREP: if
+  PARG: a little more water
+    PREP: in
+  OARG: too
+
+
+SENTID: 7
+SENT: Cover the chili and cook 1 hour ;
+PREDID: 0
+PRED: cover
+  DOBJ: the chili
+
+PREDID: 1
+PRED: cook
+  OARG: 1 hour
+
+
+SENTID: 8
+SENT: add processed cheese cubes , allow to melt , and stir into the chili until smooth just before serving .
+PREDID: 0
+PRED: add
+  DOBJ: processed cheese cubes
+
+PREDID: 1
+PRED: allow
+  PARG: melt
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  PARG: the chili
+    PREP: into
+  PARG: smooth just before serving
+    PREP: until
+

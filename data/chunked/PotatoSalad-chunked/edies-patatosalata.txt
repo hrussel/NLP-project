@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: In a small bowl , combine olive oil , wine vinegar , oregano , parsley , and onion .
+PREDID: 0
+PRED: combine
+  DOBJ: olive oil , wine vinegar , oregano , parsley , onion
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix and set aside .
+PREDID: 0
+PRED: mix
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 2
+SENT: Add potatoes to a large pot of boiling , lightly salted water .
+PREDID: 0
+PRED: add
+  DOBJ: salted water
+  PARG: a large pot of boiling
+    PREP: to
+  OARG: lightly
+  OARG: potatoes
+
+
+SENTID: 3
+SENT: Boil for about 20 minutes , or until potatoes are tender .
+PREDID: 0
+PRED: boil
+  PARG: about 20 minutes
+    PREP: for
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain water and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: water, let cool
+
+
+SENTID: 5
+SENT: When cooled , peel and dice .
+PREDID: 0
+PRED: peel
+  OARG: when cooled
+
+PREDID: 1
+PRED: dice
+
+
+SENTID: 6
+SENT: Place in a large bowl , add dressing and season with salt and pepper to taste .
+PREDID: 0
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: dressing
+
+PREDID: 2
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 7
+SENT: Toss to coat , cover bowl and refrigerate for several hours or overnight .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  DOBJ: bowl
+
+PREDID: 2
+PRED: refrigerate
+  PARG: several hours
+    PREP: for
+  OARG: overnight
+

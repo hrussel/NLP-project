@@ -1,0 +1,181 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium mixing bowl , beat cream cheese until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese
+  PARG: a medium mixing bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Beat in 1/4 cup sugar , then add vanilla extract and 1 egg .
+PREDID: 0
+PRED: beat
+  PARG: 1/4 cup sugar
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: vanilla extract, 1 egg
+
+
+SENTID: 3
+SENT: Beat mixture until light and smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: mixture
+  PARG: light, smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Chill mixture for 30 minutes , then spread into pastry shell .
+PREDID: 0
+PRED: chill
+  DOBJ: mixture
+  PARG: 30 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: spread
+  PARG: pastry shell
+    PREP: into
+
+
+SENTID: 5
+SENT: In a large bowl , combine pumpkin puree , evaporated milk , 2 eggs , 1/4 cup brown sugar , 1/4 cup white sugar , cinnamon , nutmeg , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin puree , evaporated milk , 2 eggs , 1/4 cup brown sugar , 1/4 cup white sugar , cinnamon , nutmeg , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix until all ingredients are thoroughly combined .
+PREDID: 0
+PRED: mix
+  PARG: all ingredients are thoroughly combined
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour pumpkin mixture over cream cheese layer .
+PREDID: 0
+PRED: pour
+  DOBJ: pumpkin mixture
+  PARG: cream cheese layer
+    PREP: over
+
+
+SENTID: 8
+SENT: Cover edges of crust with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: edges of crust
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in preheated oven for 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Remove foil from edges and bake an additional 25 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+  PARG: edges
+    PREP: from
+
+PREDID: 1
+PRED: bake
+  OARG: an additional 25 minutes
+
+
+SENTID: 11
+SENT: While pie is in oven , combine flour and 2 tablespoons brown sugar in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: flour, 2 tablespoons brown sugar
+  PARG: pie is
+    PREP: while
+  PARG: oven
+    PREP: in
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: Mix well , then add softened butter or margarine and stir until ingredients are combined .
+PREDID: 0
+PRED: mix
+  OARG: well
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: softened butter or margarine
+
+PREDID: 2
+PRED: stir
+  PARG: ingredients are combined
+    PREP: until
+
+
+SENTID: 13
+SENT: Mix in pecans .
+PREDID: 0
+PRED: mix
+  PARG: pecans
+    PREP: in
+
+
+SENTID: 14
+SENT: After pie has been in oven for 50 minutes , remove and sprinkle pecan streusel evenly over top .
+PREDID: 0
+PRED: remove
+  DOBJ: pecan streusel
+  PARG: pie has been
+    PREP: after
+  PARG: oven
+    PREP: in
+  PARG: 50 minutes
+    PREP: for
+
+PREDID: 1
+PRED: sprinkle
+  PARG: top
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 15
+SENT: Bake for an additional 10 to 15 minutes , until a toothpick inserted in center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: an additional 10 to 15 minutes
+    PREP: for
+  PARG: a toothpick inserted in center comes out clean
+    PREP: until
+

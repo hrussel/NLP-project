@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Without separating the dough , roll out both packs of crescent rolls onto a baking sheet , forming them into a single , flat surface .
+PREDID: 0
+PRED: roll
+  PARG: separating the dough
+    PREP: without
+  PARG: both packs of crescent rolls
+    PREP: out
+  PARG: a baking sheet , forming them
+    PREP: onto
+  PARG: a single , flat surface
+    PREP: into
+
+
+SENTID: 1
+SENT: Bake according to the directions on the package .
+PREDID: 0
+PRED: bake
+  DOBJ: according
+  PARG: the directions
+    PREP: to
+  PARG: the package
+    PREP: on
+
+
+SENTID: 2
+SENT: Allow the finished rolls to cool .
+PREDID: 0
+PRED: allow
+  DOBJ: the finished rolls
+  OARG: to cool
+
+
+SENTID: 3
+SENT: In a bowl , Mix together the cream cheese , mayonnaise , basil and garlic powder .
+PREDID: 0
+PRED: mix
+  DOBJ: the cream cheese , mayonnaise , basil, garlic powder
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Spread the mixture evenly over the surface of the rolls .
+PREDID: 0
+PRED: spread
+  DOBJ: the mixture
+  PARG: the surface of the rolls
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Spread the broccoli , cauliflower and carrots on top of the cream cheese mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: the broccoli , cauliflower, carrots
+  PARG: top of the cream cheese mixture
+    PREP: on
+
+
+SENTID: 6
+SENT: Sprinkle the salad seasoning mix over all .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the salad seasoning
+
+PREDID: 1
+PRED: mix
+  PARG: all
+    PREP: over
+
+
+SENTID: 7
+SENT: Cut into squares and serve .
+PREDID: 0
+PRED: cut
+  PARG: squares
+    PREP: into
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: cook broccoli until bright green , about 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: broccoli
+  PARG: bright green , about 1 minute
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer to a bowl of ice water ;
+PREDID: 0
+PRED: transfer
+  PARG: a bowl of ice water
+    PREP: to
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Combine broccoli , garbanzo beans , carrots , raisins , and 2 tablespoons sunflower seeds in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: broccoli , garbanzo beans , carrots , raisins , 2 tablespoons sunflower seeds
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Whisk mayonnaise , sugar , vinegar , red pepper flakes , salt , and black pepper in a separate bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , sugar , vinegar , red pepper flakes , salt , black pepper
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir dressing into broccoli mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: dressing
+  PARG: broccoli mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Cover and refrigerate for at least 1 hour for flavors to blend .
+PREDID: 0
+PRED: cover
+  PARG: at least 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+  PARG: flavors
+    PREP: for
+  PARG: blend
+    PREP: to
+
+
+SENTID: 8
+SENT: Garnish with about 2 tablespoons sunflower seeds .
+PREDID: 0
+PRED: garnish
+  PARG: about 2 tablespoons sunflower seeds
+    PREP: with
+

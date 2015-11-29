@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: While noodles are cooking , combine the sour cream , 1/4 cup cheese , chives , salt and pepper in a medium bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the sour cream , 1/4 cup cheese , chives , salt, pepper
+  PARG: noodles are cooking
+    PREP: while
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix together .
+PREDID: 0
+PRED: mix
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir butter into drained noodles , then stir in sour cream mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: butter
+  PARG: drained noodles
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: sour cream mixture
+    PREP: in
+
+
+SENTID: 6
+SENT: Place on a warm platter and sprinkle with remaining 1/4 cup cheese .
+PREDID: 0
+PRED: place
+  PARG: a warm platter
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: remaining 1/4 cup cheese
+    PREP: with
+

@@ -1,0 +1,134 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix together the ground beef , sausage , onion , saltine cracker crumbs , beaten eggs , and cajun seasoning in a bowl until well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground beef , sausage , onion , saltine cracker crumbs , beaten eggs , cajun seasoning
+  PARG: a bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: In a large baking dish , form the meat loaf mixture into a Halfling shape , with a large head , 2 stubby legs , and 2 upraised arms .
+PREDID: 0
+PRED: form
+  DOBJ: the meat loaf mixture
+  PARG: a large baking dish
+    PREP: in
+  PARG: a halfling shape
+    PREP: into
+  PARG: a large head , 2 stubby legs , 2 upraised arms
+    PREP: with
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until the meatloaf is no longer pink inside and just starting to turn brown , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the meatloaf is no longer pink inside, just starting to turn
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 1 hour
+    PREP: about
+
+
+SENTID: 4
+SENT: To decorate the meatloaf 's head , pick out about 14 corn kernels , and arrange them into teeth .
+PREDID: 0
+PRED: pick
+  PARG: about 14 corn kernels
+    PREP: out
+  OARG: to decorate the meatloaf 's head
+
+PREDID: 1
+PRED: arrange
+  DOBJ: them
+  PARG: teeth
+    PREP: into
+
+
+SENTID: 5
+SENT: Place 1 small green pepper slice on each side of the creature 's head for ears ;
+PREDID: 0
+PRED: place
+  DOBJ: 1 small green pepper
+
+PREDID: 1
+PRED: slice
+  PARG: each side of the creature 's head
+    PREP: on
+  PARG: ears
+    PREP: for
+
+
+SENTID: 6
+SENT: place two pickle slices on the face for eyes , then place 2 black olive halves , cut sides down , in the pickle slices to finish the eyes .
+PREDID: 0
+PRED: place
+  DOBJ: two pickle slices
+  PARG: the face
+    PREP: on
+  PARG: eyes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: place
+  DOBJ: 2 black olive halves , cut sides
+  PARG: the pickle slices
+    PREP: in
+  PARG: finish the eyes
+    PREP: to
+  OARG: down
+
+
+SENTID: 7
+SENT: Surround the monster with a background of ketchup `` blood , '' and bake until browned , about 10 more minutes .
+PREDID: 0
+PRED: surround
+  DOBJ: the monster
+  PARG: a background of ketchup `` blood , '', bake
+    PREP: with
+  PARG: browned , about 10 more minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Let the meatloaf rest for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: the meatloaf rest
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+
+
+SENTID: 9
+SENT: Just before serving , stick a paring knife in the meatloaf 's body , and decorate it with a little ketchup blood .
+PREDID: 0
+PRED: decorate
+  DOBJ: it
+  PARG: serving , stick a paring knife
+    PREP: before
+  PARG: the meatloaf 's body
+    PREP: in
+  PARG: a little ketchup blood
+    PREP: with
+  OARG: just
+

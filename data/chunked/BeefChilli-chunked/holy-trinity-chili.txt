@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Brown the ground beef in a large soup pot over medium-high heat until cooked and crumbly ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large soup pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: cooked, crumbly
+    PREP: until
+
+
+SENTID: 1
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 2
+SENT: Brown sausages , then set aside .
+PREDID: 0
+PRED: brown
+  DOBJ: sausages
+  OARG: then
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Reduce heat to medium and stir in bacon .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: bacon
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook until the bacon has released its fat and is beginning to turn crispy .
+PREDID: 0
+PRED: cook
+  PARG: the bacon has released its fat, is beginning to turn crispy
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in garlic and onions , and cook until the onions soften and turn translucent , about 5 minutes .
+PREDID: 0
+PRED: stir
+  PARG: garlic, onions
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: the onions soften
+    PREP: until
+
+PREDID: 2
+PRED: turn
+  DOBJ: translucent
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 6
+SENT: Stir in tomato paste to coat the onions .
+PREDID: 0
+PRED: stir
+  PARG: tomato paste
+    PREP: in
+  PARG: coat the onions
+    PREP: to
+
+
+SENTID: 7
+SENT: Pour in beef broth , diced tomatoes , chili beans , and pinto beans .
+PREDID: 0
+PRED: pour
+  PARG: beef broth , diced tomatoes , chili beans , pinto beans
+    PREP: in
+
+
+SENTID: 8
+SENT: Add the Anaheim peppers , jalapeno peppers , and serrano peppers .
+PREDID: 0
+PRED: add
+  DOBJ: the anaheim peppers , jalapeno peppers , serrano peppers
+
+
+SENTID: 9
+SENT: Season with Worcestershire , brown sugar , chipotle powder , and cumin .
+PREDID: 0
+PRED: season
+  PARG: worcestershire , brown sugar , chipotle powder , cumin
+    PREP: with
+
+
+SENTID: 10
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , and simmer for 2 hours , or until thickened , stirring occasionally .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , simmer
+    PREP: to
+  PARG: 2 hours
+    PREP: for
+  PARG: thickened , stirring occasionally
+    PREP: until
+
+
+SENTID: 11
+SENT: Season to taste with salt and pepper , then simmer for 5 additional minutes before serving .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: simmer
+  PARG: 5 additional minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

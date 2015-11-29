@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Place the shredded bok choy , cucumber , carrots , and cherry peppers into a large salad bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the shredded bok choy , cucumber , carrots , cherry peppers
+  PARG: a large salad bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Place the jalapeno peppers into the work bowl of a food processor , then pour in the apple cider vinegar , brown mustard , soy sauce , and agave syrup .
+PREDID: 0
+PRED: place
+  DOBJ: the jalapeno peppers
+  PARG: the work bowl of a food processor
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  PARG: the apple cider vinegar , brown mustard , soy sauce , agave syrup
+    PREP: in
+
+
+SENTID: 2
+SENT: Pulse several times , then process for a few seconds to combine .
+PREDID: 0
+PRED: pulse
+  DOBJ: several times
+  OARG: then
+
+PREDID: 1
+PRED: process
+  PARG: a few seconds
+    PREP: for
+  PARG: combine
+    PREP: to
+
+
+SENTID: 3
+SENT: Pour the dressing over the vegetables and toss .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the vegetables
+    PREP: over
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 4
+SENT: Refrigerate from 1 hour to overnight .
+PREDID: 0
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: from
+  OARG: to overnight
+
+
+SENTID: 5
+SENT: Before serving , sprinkle with roasted ginger and black pepper ;
+PREDID: 0
+PRED: sprinkle
+  PARG: serving
+    PREP: before
+  PARG: roasted ginger, black pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: toss again to serve .
+PREDID: 0
+PRED: toss
+  PARG: serve
+    PREP: to
+  OARG: again
+

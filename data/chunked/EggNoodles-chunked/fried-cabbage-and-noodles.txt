@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir in kluski noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: kluski noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook kluski noodles uncovered , stirring occasionally , until tender but still slightly firm , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: kluski noodles uncovered , stirring
+  PARG: tender but still slightly firm , 7 to 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well and set noodles aside .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+  OARG: well
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Place chopped bacon in a large , deep skillet , and cook over medium-high heat , stirring often , until evenly browned , 5 to 8 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: chopped bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , stirring
+    PREP: over
+  PARG: evenly browned , 5 to 8 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 5
+SENT: Cook and stir cabbage and onion into the bacon and drippings until the cabbage is wilted and tender , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: cabbage, onion
+
+PREDID: 1
+PRED: stir
+  PARG: the bacon, drippings
+    PREP: into
+  PARG: the cabbage is wilted, tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Gently mix the cooked kluski noodles into cabbage mixture ;
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked kluski noodles
+  PARG: cabbage mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 7
+SENT: season with hot sauce .
+PREDID: 0
+PRED: season
+  PARG: hot sauce
+    PREP: with
+

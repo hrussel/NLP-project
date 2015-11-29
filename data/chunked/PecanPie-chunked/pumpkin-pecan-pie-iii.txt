@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Beat eggs until frothy .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: frothy
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in pumpkin , corn syrup , sugar , cinnamon , and salt .
+PREDID: 0
+PRED: stir
+  PARG: pumpkin , corn syrup , sugar , cinnamon , salt
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour into pie shell .
+PREDID: 0
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Sprinkle with pecans .
+PREDID: 0
+PRED: sprinkle
+  PARG: pecans
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 50 to 60 minutes , or until a knife inserted in the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 50 to 60 minutes
+    PREP: for
+  PARG: a knife inserted in the center comes out clean
+    PREP: until
+
+
+SENTID: 5
+SENT: Chill .
+PREDID: 0
+PRED: chill
+

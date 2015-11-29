@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- , and grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+
+
+SENTID: 1
+SENT: Heat the oil in a skillet , and cook and stir the ground beef , onion , and green pepper over medium heat for about 15 minutes , until the meat is crumbly and no longer pink and the onion is translucent .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  DOBJ: the ground beef , onion , green pepper
+
+PREDID: 2
+PRED: stir
+  PARG: medium heat
+    PREP: over
+  PARG: about 15 minutes
+    PREP: for
+  PARG: the meat is crumbly, no longer pink, the onion is translucent
+    PREP: until
+
+
+SENTID: 2
+SENT: Season with salt and pepper to taste , and stir in the condensed mushroom soup .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: the condensed mushroom soup
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring the mixture to a simmer over medium-low heat .
+PREDID: 0
+PRED: bring
+  DOBJ: the mixture
+  PARG: a simmer
+    PREP: to
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Scoop the cheese sauce into a microwaveable bowl , and melt on low power for about 30 seconds .
+PREDID: 0
+PRED: scoop
+  DOBJ: the cheese sauce
+  PARG: a microwaveable bowl
+    PREP: into
+
+PREDID: 1
+PRED: melt
+  PARG: low power
+    PREP: on
+  PARG: about 30 seconds
+    PREP: for
+
+
+SENTID: 5
+SENT: Place the ground beef mixture into the bottom of the prepared baking dish , and spread an even layer of the melted cheese sauce over the ground beef .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef mixture
+  PARG: the bottom of the prepared baking dish
+    PREP: into
+
+PREDID: 1
+PRED: spread
+  DOBJ: an even layer of the melted cheese sauce
+  PARG: the ground beef
+    PREP: over
+
+
+SENTID: 6
+SENT: Top with frozen shoestring fries .
+PREDID: 0
+PRED: top
+  PARG: frozen shoestring fries
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake in the preheated oven for about 20 minutes , until the fries are starting to turn golden .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: about 20 minutes
+    PREP: for
+  PARG: the fries are starting to turn golden
+    PREP: until
+

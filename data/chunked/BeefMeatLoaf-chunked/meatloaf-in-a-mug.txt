@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Place the torn bread into a small bowl , and pour in the milk and Worcestershire sauce ;
+PREDID: 0
+PRED: place
+  DOBJ: the torn bread
+  PARG: a small bowl
+    PREP: into
+
+PREDID: 1
+PRED: pour
+  PARG: the milk, worcestershire sauce
+    PREP: in
+
+
+SENTID: 1
+SENT: set aside for a few minutes for the bread to absorb the liquid .
+PREDID: 0
+PRED: set
+  PARG: a few minutes
+    PREP: for
+  PARG: the bread
+    PREP: for
+  OARG: aside
+  OARG: to absorb the liquid
+
+
+SENTID: 2
+SENT: Add the ground beef , green onion , seasoned salt , and pepper to the bread ;
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef , green onion , seasoned salt , pepper
+  PARG: the bread
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook in the microwave at 70 percent power until the meatloaf is firm and no longer pink in the center , 4 to 5Ê1/2 minutes depending on the microwave .
+PREDID: 0
+PRED: cook
+  PARG: the microwave
+    PREP: in
+  PARG: 70 percent power
+    PREP: at
+  PARG: the meatloaf is firm, no longer pink in the center , 4 to 5Ê1/2 minutes depending on the microwave
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove the meatloaf from the microwave , and allow to stand 2 minutes before serving .
+PREDID: 0
+PRED: remove
+  DOBJ: the meatloaf
+  PARG: the microwave
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: stand 2 minutes
+    PREP: to
+  PARG: serving
+    PREP: before
+

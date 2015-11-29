@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: In a saucepan , bring water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a saucepan
+    PREP: in
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: stir in oats , and cook 1 minute .
+PREDID: 0
+PRED: stir
+  PARG: oats
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 1 minute
+
+
+SENTID: 2
+SENT: Cover , and remove from heat ;
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 3
+SENT: allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Grease and flour a muffin pan , or use paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: a muffin pan
+
+PREDID: 1
+PRED: flour
+
+PREDID: 2
+PRED: use
+  DOBJ: paper liners
+
+
+SENTID: 6
+SENT: In a large bowl , combine flour , bran , sugar , baking powder , and nutmeg .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , bran , sugar , baking powder , nutmeg
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Make a well in the center , and add mashed banana , cooked and cooled oatmeal , egg , pineapple , coconut milk , and coconut extract .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the center
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: mashed banana , cooked, cooled oatmeal , egg , pineapple , coconut milk , coconut extract
+
+
+SENTID: 8
+SENT: Mix until smooth .
+PREDID: 0
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 9
+SENT: Scoop into 12 muffin cups . Bake in preheated oven for 25 to 30 minutes , or until golden brown , and tops spring back when lightly tapped .
+PREDID: 0
+PRED: scoop
+  PARG: 12 muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 25 to 30 minutes
+    PREP: for
+  PARG: golden brown , tops spring back when lightly tapped
+    PREP: until
+

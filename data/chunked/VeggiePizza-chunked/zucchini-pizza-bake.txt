@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Preheat an oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the zucchini in a colander and sprinkle with salt ;
+PREDID: 0
+PRED: place
+  DOBJ: the zucchini
+  PARG: a colander
+    PREP: in
+
+PREDID: 1
+PRED: sprinkle
+  PARG: salt
+    PREP: with
+
+
+SENTID: 2
+SENT: let drain for 15 minutes then squeeze out the moisture .
+PREDID: 0
+PRED: let
+  DOBJ: drain
+  PARG: 15 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: squeeze
+  PARG: the moisture
+    PREP: out
+
+
+SENTID: 3
+SENT: Combine the zucchini , eggs , Parmesan , 1 cup mozzarella , and 1/2 cup Monterey Jack in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the zucchini , eggs , parmesan , 1 cup mozzarella , 1/2 cup monterey jack
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Press the mixture into a greased 9x13 inch baking dish .
+PREDID: 0
+PRED: press
+  DOBJ: the mixture
+  PARG: a greased 9x13 inch baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake , uncovered , in the preheated oven for 20 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: the preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: While the zucchini crust is baking , heat a large skillet over medium-high heat and stir in the ground beef and onion .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: the zucchini crust is baking
+    PREP: while
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the ground beef, onion
+    PREP: in
+
+
+SENTID: 7
+SENT: Cook and stir until the beef is crumbly , evenly browned , and no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: the beef is crumbly , evenly browned , no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 8
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 9
+SENT: Stir in the tomato sauce and Italian seasoning .
+PREDID: 0
+PRED: stir
+  PARG: the tomato sauce, italian seasoning
+    PREP: in
+
+
+SENTID: 10
+SENT: Spoon the sauce mixture over the baked zucchini crust .
+PREDID: 0
+PRED: spoon
+  DOBJ: the sauce mixture
+  PARG: the baked zucchini crust
+    PREP: over
+
+
+SENTID: 11
+SENT: Top with the bell pepper , mushrooms , black olives , and the remaining mozzarella and Monterey Jack cheeses .
+PREDID: 0
+PRED: top
+  PARG: the bell pepper , mushrooms , black olives , the remaining mozzarella, monterey jack cheeses
+    PREP: with
+
+
+SENTID: 12
+SENT: Return to the preheated oven and bake for 20 minutes or until heated through .
+PREDID: 0
+PRED: return
+  PARG: the preheated oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: 20 minutes
+    PREP: for
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 13
+SENT: Let sit for 5 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: sit
+  PARG: 5 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

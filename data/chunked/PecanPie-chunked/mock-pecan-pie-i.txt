@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl combine eggs , brown sugar , and white sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , brown sugar , white sugar
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Beat well .
+PREDID: 0
+PRED: beat
+  OARG: well
+
+
+SENTID: 3
+SENT: Stir in vanilla extract and melted butter or margarine .
+PREDID: 0
+PRED: stir
+  PARG: vanilla extract, melted butter or margarine
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix thoroughly .
+PREDID: 0
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Fold in oats and coconut .
+PREDID: 0
+PRED: fold
+  PARG: oats, coconut
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour into pie shell .
+PREDID: 0
+PRED: pour
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+
+
+SENTID: 9
+SENT: Top with whipped cream if desired .
+PREDID: 0
+PRED: top
+  PARG: whipped cream
+    PREP: with
+  PARG: desired
+    PREP: if
+

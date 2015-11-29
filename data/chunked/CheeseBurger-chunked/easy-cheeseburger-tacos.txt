@@ -1,0 +1,169 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Heat a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook and stir beef with black pepper , salt , and garlic powder in the hot skillet until meat is browned and crumbly , 5 to 7 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+
+PREDID: 1
+PRED: stir
+  PARG: black pepper , salt , garlic powder
+    PREP: with
+  PARG: the hot skillet
+    PREP: in
+  PARG: meat is browned, crumbly , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: drain and discard grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 5
+SENT: Reduce heat to low and mix 1/2 cup ketchup into beef .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  DOBJ: 1/2 cup ketchup
+  PARG: beef
+    PREP: into
+
+
+SENTID: 6
+SENT: Lay a tortilla onto a work surface and place about 1/3 cup beef mixture and 1/4 cup shredded cheese onto tortilla in a line down the center .
+PREDID: 0
+PRED: lay
+  DOBJ: a tortilla
+  PARG: a work surface
+    PREP: onto
+
+PREDID: 1
+PRED: place
+  DOBJ: the center
+  PARG: 1/3 cup beef mixture, 1/4 cup shredded cheese
+    PREP: about
+  PARG: tortilla
+    PREP: onto
+  PARG: a line
+    PREP: in
+  OARG: down
+
+
+SENTID: 7
+SENT: Roll tortilla over meat and cheese , fold in top and bottom to enclose filling , and finish rolling into a burrito shape .
+PREDID: 0
+PRED: roll
+  DOBJ: tortilla
+  PARG: meat, cheese
+    PREP: over
+
+PREDID: 1
+PRED: fold
+  PARG: top, bottom
+    PREP: in
+  OARG: to enclose filling
+
+PREDID: 2
+PRED: finish
+  DOBJ: rolling
+  PARG: a burrito shape
+    PREP: into
+
+
+SENTID: 8
+SENT: Repeat with remaining tortillas and filling .
+PREDID: 0
+PRED: repeat
+  PARG: remaining tortillas, filling
+    PREP: with
+
+
+SENTID: 9
+SENT: Place filled tortillas into prepared baking sheet and sprinkle remaining Mexican cheese blend on top .
+PREDID: 0
+PRED: place
+  DOBJ: filled tortillas
+  PARG: prepared baking sheet
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: remaining mexican cheese
+
+PREDID: 2
+PRED: blend
+  PARG: top
+    PREP: on
+
+
+SENTID: 10
+SENT: Cover dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until dish is heated through and cheese topping has melted , 20 to 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: dish is heated through, cheese topping has melted , 20 to 25 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Stir sour cream with 1/3 cup ketchup in a bowl and top each serving with the sour cream sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: sour cream
+  PARG: 1/3 cup ketchup
+    PREP: with
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: top
+  DOBJ: each serving
+  PARG: the sour cream sauce
+    PREP: with
+

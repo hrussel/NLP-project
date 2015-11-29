@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease 10 muffin cups , or line with muffin papers .
+PREDID: 0
+PRED: grease
+  DOBJ: 10 muffin cups
+  OARG: lightly
+
+PREDID: 1
+PRED: line
+  PARG: muffin papers
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , mix together 1Ê1/2 cups flour , baking soda , baking powder and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: 1Ê1/2 cups flour , baking soda , baking powder, salt
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: In another bowl , beat together bananas , sugar , egg and melted butter .
+PREDID: 0
+PRED: beat
+  DOBJ: bananas , sugar , egg, melted butter
+  PARG: another bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir the banana mixture into the flour mixture just until moistened .
+PREDID: 0
+PRED: stir
+  DOBJ: the banana mixture
+  PARG: the flour mixture
+    PREP: into
+  PARG: moistened
+    PREP: until
+  OARG: just
+
+
+SENTID: 5
+SENT: Spoon batter into prepared muffin cups . In a small bowl , mix together brown sugar , 2 tablespoons flour and cinnamon .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  DOBJ: brown sugar , 2 tablespoons flour, cinnamon
+  OARG: together
+
+
+SENTID: 6
+SENT: Cut in 1 tablespoon butter until mixture resembles coarse cornmeal .
+PREDID: 0
+PRED: cut
+  PARG: 1 tablespoon butter
+    PREP: in
+  PARG: mixture resembles coarse cornmeal
+    PREP: until
+
+
+SENTID: 7
+SENT: Sprinkle topping over muffins .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: topping
+  PARG: muffins
+    PREP: over
+
+
+SENTID: 8
+SENT: Bake in preheated oven for 18 to 20 minutes , until a toothpick inserted into center of a muffin comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 18 to 20 minutes
+    PREP: for
+  PARG: a toothpick inserted into center of a muffin comes out clean
+    PREP: until
+

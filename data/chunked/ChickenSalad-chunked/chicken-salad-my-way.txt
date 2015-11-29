@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Place the 1-inch piece of ginger and star anise in a pot of water over medium-heat and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: the 1-inch piece of ginger, star anise
+  PARG: a pot of water
+    PREP: in
+  PARG: medium-heat, bring
+    PREP: over
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add chicken to the water .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+  PARG: the water
+    PREP: to
+
+
+SENTID: 2
+SENT: Lower heat to medium-low ;
+PREDID: 0
+PRED: lower
+  DOBJ: heat
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 3
+SENT: simmer until chicken is no longer pink the middle , 10 to 12 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: chicken is no longer pink the middle , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove to a plate to cool .
+PREDID: 0
+PRED: remove
+  PARG: a plate
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Once cool to the touch , dice into bite-sized pieces . Make a dressing by whisking together the mayonnaise , salt , pepper , paprika , and honey ;
+PREDID: 0
+PRED: cool
+  PARG: the touch
+    PREP: to
+  OARG: once
+
+PREDID: 1
+PRED: dice
+  PARG: bite-sized pieces
+    PREP: into
+
+PREDID: 2
+PRED: make
+  DOBJ: the mayonnaise , salt , pepper , paprika , honey
+  PARG: whisking
+    PREP: by
+  OARG: together
+  OARG: a dressing
+
+
+SENTID: 6
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Combine the diced chicken , celery , apple , onion , raisins , walnuts and 2 teaspoons minced ginger in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the diced chicken , celery , apple , onion , raisins , walnuts, 2 teaspoons minced ginger
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Drizzle dressing into the chicken mixture ;
+PREDID: 0
+PRED: drizzle
+  DOBJ: dressing
+  PARG: the chicken mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: stir until pieces are evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: pieces are evenly coated
+    PREP: until
+
+
+SENTID: 10
+SENT: Cover and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  OARG: overnight
+
+PREDID: 1
+PRED: refrigerate
+

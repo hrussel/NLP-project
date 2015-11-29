@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Stir in broth , potatoes , cumin , salt , pepper and red pepper .
+PREDID: 0
+PRED: stir
+  PARG: broth , potatoes , cumin , salt , pepper, red pepper
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring to a boil , then reduce heat and simmer about 20 minutes , until potatoes are just tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: 20 minutes
+    PREP: about
+  PARG: potatoes are just tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Meanwhile , bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 5
+SENT: In a small bowl , stir together flour and vegetable oil .
+PREDID: 0
+PRED: stir
+  DOBJ: flour, vegetable oil
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Pour into soup , increase heat to medium , and cook until thickened and bubbly .
+PREDID: 0
+PRED: pour
+  PARG: soup
+    PREP: into
+
+PREDID: 1
+PRED: increase
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: thickened, bubbly
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in corn , half-and-half and tortellini and heat through .
+PREDID: 0
+PRED: stir
+  PARG: corn , half-and-half, tortellini
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 8
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a large skillet over medium heat , fry onion in oil until browned .
+PREDID: 0
+PRED: fry
+  DOBJ: onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: oil
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 4
+SENT: Mix in tuna and mushroom soup .
+PREDID: 0
+PRED: mix
+  PARG: tuna, mushroom soup
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in sour cream and heat through .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 6
+SENT: Mix together the cooked egg noodles and sauce and serve .
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked egg noodles
+  OARG: together
+
+PREDID: 1
+PRED: sauce
+
+PREDID: 2
+PRED: serve
+

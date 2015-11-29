@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Cook bacon in a soup pot over medium heat until crisp and brown , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a soup pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: crisp
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 1
+SENT: Remove bacon with a slotted spoon , leaving drippings in the pot .
+PREDID: 0
+PRED: remove
+  DOBJ: bacon
+  PARG: a slotted spoon , leaving drippings
+    PREP: with
+  PARG: the pot
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook and stir onion and red bell pepper until softened , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: onion, red bell pepper
+
+PREDID: 1
+PRED: stir
+  PARG: softened , about 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir in garlic and seafood seasoning and cook and stir 2 more minutes .
+PREDID: 0
+PRED: stir
+  PARG: garlic, seafood seasoning
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 2 more minutes
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 5
+SENT: Pour in chicken broth and stir in potatoes and corn ;
+PREDID: 0
+PRED: pour
+  PARG: chicken broth
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: potatoes, corn
+    PREP: in
+
+
+SENTID: 6
+SENT: add water if needed to cover vegetables .
+PREDID: 0
+PRED: add
+  DOBJ: water
+  PARG: needed
+    PREP: if
+  PARG: cover vegetables
+    PREP: to
+
+
+SENTID: 7
+SENT: Bring to a boil and reduce heat to low ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 8
+SENT: simmer until potatoes are tender , about 15 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: potatoes are tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in milk and butter until butter has melted ;
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+
+PREDID: 1
+PRED: butter
+  PARG: butter has melted
+    PREP: until
+
+
+SENTID: 10
+SENT: mix in reserved bacon .
+PREDID: 0
+PRED: mix
+  PARG: reserved bacon
+    PREP: in
+
+
+SENTID: 11
+SENT: Bring the soup just to the boiling point and stir in cod and parsley ;
+PREDID: 0
+PRED: bring
+  DOBJ: the soup
+  PARG: the boiling point
+    PREP: to
+  OARG: just
+
+PREDID: 1
+PRED: stir
+  PARG: cod, parsley
+    PREP: in
+
+
+SENTID: 12
+SENT: cook , stirring occasionally , until fish flakes easily , 5 to 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: fish flakes easily , 5 to 8 minutes
+    PREP: until
+  OARG: occasionally
+

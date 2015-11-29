@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add macaroni , and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: macaroni
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Transfer to a medium baking dish .
+PREDID: 0
+PRED: transfer
+  PARG: a medium baking dish
+    PREP: to
+
+
+SENTID: 5
+SENT: Heat vegetable oil in a medium saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Stir in onion , and cook until tender and lightly browned .
+PREDID: 0
+PRED: stir
+  PARG: onion
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: tender, lightly browned
+    PREP: until
+
+
+SENTID: 7
+SENT: Gently mix with the macaroni .
+PREDID: 0
+PRED: mix
+  PARG: the macaroni
+    PREP: with
+  OARG: gently
+
+
+SENTID: 8
+SENT: In a blender or food processor , mix cashews , lemon juice , water , and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: cashews , lemon juice , water , salt
+  PARG: a blender or food processor
+    PREP: in
+
+
+SENTID: 9
+SENT: Gradually blend in canola oil , roasted red peppers , nutritional yeast , garlic powder , and onion powder .
+PREDID: 0
+PRED: blend
+  PARG: canola oil , roasted red peppers , nutritional yeast , garlic powder , onion powder
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 10
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: Thoroughly mix with the macaroni and onions .
+PREDID: 0
+PRED: mix
+  PARG: the macaroni, onions
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 12
+SENT: Bake 45 minutes in the preheated oven , until lightly browned .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: lightly browned
+    PREP: until
+  OARG: 45 minutes
+
+
+SENTID: 13
+SENT: Cool 10 to 15 minutes before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+  OARG: 10 to 15 minutes
+

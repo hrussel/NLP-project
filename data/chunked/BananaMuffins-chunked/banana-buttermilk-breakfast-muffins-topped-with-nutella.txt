@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 180 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 180 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray non-stick muffin pan with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: non-stick muffin pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl , combine flours , oats , baking powder and baking soda .
+PREDID: 0
+PRED: combine
+  DOBJ: flours , oats , baking powder, baking soda
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: In another bowl , whisk together bananas , eggs , sugar , applesauce , buttermilk and vanilla .
+PREDID: 0
+PRED: whisk
+  DOBJ: bananas , eggs , sugar , applesauce , buttermilk, vanilla
+  PARG: another bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Pour over dry ingredients and stir until just combined .
+PREDID: 0
+PRED: pour
+  PARG: dry ingredients
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon into prepared muffin pan .
+PREDID: 0
+PRED: spoon
+  PARG: prepared muffin pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake for 20 to 25 minutes or until a tester inserted into the center of a muffin comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 20 to 25 minutes
+    PREP: for
+  PARG: a tester inserted into the center of a muffin comes out clean
+    PREP: until
+
+
+SENTID: 7
+SENT: Let cool in pan for 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: pan
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Transfer to rack to cool completely .
+PREDID: 0
+PRED: transfer
+  PARG: rack
+    PREP: to
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 9
+SENT: Spread each muffin with 1 tablespoon -LRB- 15 mL -RRB- of NUTELLA ¨ .
+PREDID: 0
+PRED: spread
+  DOBJ: each muffin
+  PARG: 1 tablespoon -lrb- 15 ml -rrb- of nutella ¨
+    PREP: with
+

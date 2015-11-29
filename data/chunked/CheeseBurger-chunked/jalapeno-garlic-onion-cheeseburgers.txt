@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: Preheat grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Mix jalapeno pepper , garlic , onion , and ground beef in a medium bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: jalapeno pepper , garlic , onion , ground beef
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Form into four patties .
+PREDID: 0
+PRED: form
+  PARG: four patties
+    PREP: into
+
+
+SENTID: 3
+SENT: Brush grill grate with oil .
+PREDID: 0
+PRED: brush
+  DOBJ: grill grate
+  PARG: oil
+    PREP: with
+
+
+SENTID: 4
+SENT: Grill hamburger patties 5 minutes per side , or until well done .
+PREDID: 0
+PRED: grill
+  PARG: side
+    PREP: per
+  PARG: well done
+    PREP: until
+  OARG: hamburger patties 5 minutes
+
+
+SENTID: 5
+SENT: Top with pepperjack cheese , and serve on buns .
+PREDID: 0
+PRED: top
+  PARG: pepperjack cheese
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  PARG: buns
+    PREP: on
+

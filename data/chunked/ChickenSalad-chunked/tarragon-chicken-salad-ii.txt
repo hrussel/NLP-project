@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a medium baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a medium baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Arrange the chicken in the baking dish , cover , and bake 25 minutes in the preheated oven , until juices run clear .
+PREDID: 0
+PRED: arrange
+  DOBJ: the chicken
+  PARG: the baking dish
+    PREP: in
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: juices run clear
+    PREP: until
+  OARG: 25 minutes
+
+
+SENTID: 3
+SENT: Remove from heat , cool , and shred .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: shred
+
+
+SENTID: 4
+SENT: In a large bowl , mix the shredded chicken , celery , tarragon , parsley , mayonnaise , raisins , and onion .
+PREDID: 0
+PRED: mix
+  DOBJ: the shredded chicken , celery , tarragon , parsley , mayonnaise , raisins , onion
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Refrigerate 1 hour , or until chilled , before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled , before serving
+    PREP: until
+  OARG: 1 hour
+

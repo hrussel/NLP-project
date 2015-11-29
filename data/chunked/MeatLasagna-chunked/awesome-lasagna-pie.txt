@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cook and stir until no longer pink .
+PREDID: 0
+PRED: cook
+  PARG: no longer pink
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Drain and stir in the tomato paste , salt , and Italian seasoning .
+PREDID: 0
+PRED: drain
+  PARG: the tomato paste , salt , italian seasoning
+    PREP: in
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Set aside a little bit of the mozzarella and Parmesan cheeses for the top ;
+PREDID: 0
+PRED: set
+  DOBJ: a little bit of the mozzarella, parmesan cheeses
+  PARG: the top
+    PREP: for
+  OARG: aside
+
+
+SENTID: 5
+SENT: stir the rest into the ground beef .
+PREDID: 0
+PRED: stir
+  DOBJ: the rest
+  PARG: the ground beef
+    PREP: into
+
+
+SENTID: 6
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Spread cottage cheese into the bottom of a 9 inch pie plate .
+PREDID: 0
+PRED: spread
+  DOBJ: cottage cheese
+  PARG: the bottom of a 9 inch pie plate
+    PREP: into
+
+
+SENTID: 8
+SENT: Spoon the ground beef mixture over the cheese .
+PREDID: 0
+PRED: spoon
+  DOBJ: the ground beef mixture
+  PARG: the cheese
+    PREP: over
+
+
+SENTID: 9
+SENT: In a small bowl , stir together the milk and eggs .
+PREDID: 0
+PRED: stir
+  DOBJ: the milk, eggs
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Blend in the biscuit mix until smooth .
+PREDID: 0
+PRED: blend
+  PARG: the biscuit
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: Pour over the top of the pie , covering completely .
+PREDID: 0
+PRED: pour
+  PARG: the top of the pie , covering
+    PREP: over
+  OARG: completely
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until top is browned , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: top is browned , about 30 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Remove from the oven and sprinkle the reserved cheese over the top .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: the reserved cheese
+  PARG: the top
+    PREP: over
+

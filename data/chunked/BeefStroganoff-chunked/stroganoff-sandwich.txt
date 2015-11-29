@@ -1,0 +1,104 @@
+SENTID: 0
+SENT: Cut loaf in half .
+PREDID: 0
+PRED: cut
+  DOBJ: loaf
+  PARG: half
+    PREP: in
+
+
+SENTID: 1
+SENT: Wrap in foil and heat at in a preheated 375 degrees F -LRB- 190 degrees -RRB- oven for 10 to 15 minutes .
+PREDID: 0
+PRED: wrap
+  PARG: foil
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  PARG: in a preheated 375 degrees f -lrb- 190 degrees -rrb- oven
+    PREP: at
+  PARG: 10 to 15 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: In a large skillet over medium-high cook beef and green onions until beef is cooked through ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef, green onions
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high
+    PREP: over
+  PARG: beef is cooked through
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Stir in milk , garlic powder , sour cream , Worcestershire sauce , salt and pepper to taste .
+PREDID: 0
+PRED: stir
+  PARG: milk , garlic powder , sour cream , worcestershire sauce , salt, pepper
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Butter cut surface of bread .
+PREDID: 0
+PRED: butter
+  DOBJ: cut surface of bread
+
+
+SENTID: 6
+SENT: Spread with half of meat mixture on each half .
+PREDID: 0
+PRED: spread
+  PARG: half of meat mixture
+    PREP: with
+  PARG: each half
+    PREP: on
+
+
+SENTID: 7
+SENT: Arrange tomatoes and green bell pepper alternately on top and sprinkle with cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: tomatoes, green bell pepper
+  PARG: top
+    PREP: on
+  OARG: alternately
+
+PREDID: 1
+PRED: sprinkle
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Place on baking sheet .
+PREDID: 0
+PRED: place
+  PARG: baking sheet
+    PREP: on
+
+
+SENTID: 9
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 5 minutes or until heated through completely .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 5 minutes
+    PREP: for
+  PARG: heated through completely
+    PREP: until
+

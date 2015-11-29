@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: In a medium bowl , whisk together the eggs , milk , 2 tablespoons of sugar , and cinnamon .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs , milk , 2 tablespoons of sugar , cinnamon
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Melt one tablespoon of butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: one tablespoon of butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Dip a few bread slices into the egg mixture just to coat .
+PREDID: 0
+PRED: dip
+  DOBJ: a few bread slices
+  PARG: the egg mixture
+    PREP: into
+  PARG: coat
+    PREP: to
+  OARG: just
+
+
+SENTID: 3
+SENT: Place in the hot skillet , and cook until golden on each side , about 4 minutes per side .
+PREDID: 0
+PRED: place
+  PARG: the hot skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: golden on each side , about 4 minutes per side
+    PREP: until
+
+
+SENTID: 4
+SENT: Repeat with remaining slices of bread .
+PREDID: 0
+PRED: repeat
+  PARG: remaining slices of bread
+    PREP: with
+
+
+SENTID: 5
+SENT: Melt 1 tablespoon of butter in the skillet before frying each batch of toast .
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon of butter
+  PARG: the skillet
+    PREP: in
+  PARG: frying each batch of toast
+    PREP: before
+
+
+SENTID: 6
+SENT: While the toast is cooking , mix cream cheese , 2 tablespoons of sugar , sour cream , and whipped topping using an electric mixer or blender until smooth , yet firm .
+PREDID: 0
+PRED: mix
+  DOBJ: cream cheese , 2 tablespoons of sugar , sour cream , whipped topping
+  PARG: the toast is cooking
+    PREP: while
+  PARG: smooth , yet firm
+    PREP: until
+
+
+SENTID: 7
+SENT: Place servings of warm French toast onto plates , and top with a generous dollop of the frosting .
+PREDID: 0
+PRED: place
+  DOBJ: servings of warm french toast
+  PARG: plates
+    PREP: onto
+
+PREDID: 1
+PRED: top
+  PARG: a generous dollop of the frosting
+    PREP: with
+

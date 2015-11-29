@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Boil potatoes and garlic in a large pot of salted water until just tender , 15 to 20 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: potatoes, garlic
+  PARG: a large pot of salted water
+    PREP: in
+  PARG: just tender , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain and let cool to room temperature .
+PREDID: 0
+PRED: drain
+  DOBJ: cool
+
+PREDID: 1
+PRED: let
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 2
+SENT: Discard the garlic .
+PREDID: 0
+PRED: discard
+  DOBJ: the garlic
+
+
+SENTID: 3
+SENT: Whisk mayonnaise , vinegar , olive oil , and sambal oelek together in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , vinegar , olive oil , sambal oelek
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 5
+SENT: Roughly chop cooled potatoes into a large bowl .
+PREDID: 0
+PRED: chop
+  DOBJ: cooled potatoes
+  PARG: a large bowl
+    PREP: into
+  OARG: roughly
+
+
+SENTID: 6
+SENT: Add cornichons , mustard greens , and mayonnaise mixture .
+PREDID: 0
+PRED: add
+  DOBJ: cornichons , mustard greens , mayonnaise mixture
+
+
+SENTID: 7
+SENT: Toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 8
+SENT: Cover and set aside in the refrigerator for 1 hour .
+PREDID: 0
+PRED: cover
+  OARG: aside
+
+PREDID: 1
+PRED: set
+  PARG: the refrigerator
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 9
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

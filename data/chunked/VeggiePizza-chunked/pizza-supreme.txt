@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Preheat oven to 450 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 450 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Heat oil in large nonstick skillet over medium-high heat and cook Recipe Ready Pizza Supreme Blend , stirring occasionally , 10 minutes or until vegetables are softened and any liquid is absorbed .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: large nonstick skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: recipe ready pizza supreme blend , stirring
+  PARG: vegetables are softened, any liquid is absorbed
+    PREP: until
+  OARG: occasionally
+  OARG: 10 minutes
+
+
+SENTID: 2
+SENT: Arrange pizza crust on baking sheet and evenly spread with pizza sauce .
+PREDID: 0
+PRED: arrange
+  DOBJ: pizza crust
+  PARG: baking sheet
+    PREP: on
+  OARG: evenly
+
+PREDID: 1
+PRED: spread
+  PARG: pizza sauce
+    PREP: with
+
+
+SENTID: 3
+SENT: Top with vegetable mixture and pepperoni .
+PREDID: 0
+PRED: top
+  PARG: vegetable mixture, pepperoni
+    PREP: with
+
+
+SENTID: 4
+SENT: Sprinkle with cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake 10 minutes or until cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: cheese is melted
+    PREP: until
+  OARG: 10 minutes
+

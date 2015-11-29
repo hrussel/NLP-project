@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Preheat the oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , mix together the chicken , celery , cashews , mayonnaise , onion , salt and lemon juice .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , celery , cashews , mayonnaise , onion , salt, lemon juice
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Transfer the mixture to a casserole dish , then top with shredded cheese and potato chips .
+PREDID: 0
+PRED: transfer
+  DOBJ: the mixture
+  PARG: a casserole dish
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: top
+  PARG: shredded cheese, potato chips
+    PREP: with
+
+
+SENTID: 3
+SENT: Bake uncovered for 20 minutes in the preheated oven , or until heated through and bubbly .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 20 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: heated through, bubbly
+    PREP: until
+

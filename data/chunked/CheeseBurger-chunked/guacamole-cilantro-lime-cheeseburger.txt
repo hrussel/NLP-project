@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Preheat an outdoor grill for medium heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium heat
+    PREP: for
+
+
+SENTID: 1
+SENT: To make the guacamole , mash the avocado in a medium bowl with the juice of half a lime , jalapeno , tomatoes , 1/4 cup onion , and 1Ê1/2 teaspoons of minced garlic ;
+PREDID: 0
+PRED: mash
+  DOBJ: the avocado
+  PARG: make the guacamole
+    PREP: to
+  PARG: a medium bowl
+    PREP: in
+  PARG: the juice of half a lime , jalapeno , tomatoes , 1/4 cup onion , 1Ê1/2 teaspoons of minced garlic
+    PREP: with
+
+
+SENTID: 2
+SENT: season to taste with salt , and set aside .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt
+    PREP: with
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , mix together beef , the juice of half a lime , 1 tablespoon garlic , chili powder , 1/2 cup diced onion , and cilantro .
+PREDID: 0
+PRED: mix
+  DOBJ: beef , the juice of half a lime , 1 tablespoon garlic , chili powder , 1/2 cup diced onion , cilantro
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Form the meat into 6 patties .
+PREDID: 0
+PRED: form
+  DOBJ: the meat
+  PARG: 6 patties
+    PREP: into
+
+
+SENTID: 5
+SENT: Cook the burgers to desired doneness on the preheated grill .
+PREDID: 0
+PRED: cook
+  DOBJ: the burgers
+  PARG: desired doneness
+    PREP: to
+  PARG: the preheated grill
+    PREP: on
+
+
+SENTID: 6
+SENT: Add a slice of cheese to each burger during the last minute of cooking .
+PREDID: 0
+PRED: add
+  DOBJ: a slice of cheese
+  PARG: each burger
+    PREP: to
+  PARG: the last minute of cooking
+    PREP: during
+
+
+SENTID: 7
+SENT: Serve on toasted buns with a dollop of guacamole .
+PREDID: 0
+PRED: serve
+  PARG: toasted buns
+    PREP: on
+  PARG: a dollop of guacamole
+    PREP: with
+

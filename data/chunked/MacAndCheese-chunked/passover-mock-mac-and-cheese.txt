@@ -1,0 +1,50 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2-quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2-quart casserole dish
+
+
+SENTID: 2
+SENT: Mix milk , sour cream , Cheddar cheese , eggs , butter , salt , and black pepper in a bowl until well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: milk , sour cream , cheddar cheese , eggs , butter , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir matzo farfel into sour cream mixture and pour into prepared casserole dish .
+PREDID: 0
+PRED: stir
+  DOBJ: matzo farfel
+  PARG: sour cream mixture
+    PREP: into
+
+PREDID: 1
+PRED: pour
+  PARG: prepared casserole dish
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until casserole is set and top is lightly browned , 30 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: casserole is set, top is lightly browned , 30 to 40 minutes
+    PREP: until
+

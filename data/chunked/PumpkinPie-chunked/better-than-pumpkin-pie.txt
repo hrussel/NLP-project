@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Place squash in a saucepan with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: squash
+  PARG: a saucepan
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and simmer over medium heat until tender , about 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: medium heat
+    PREP: over
+  PARG: tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a blender or food processor , combine butternut squash , brown sugar , cornstarch , egg , milk , cinnamon , allspice , cloves , ginger , and nutmeg .
+PREDID: 0
+PRED: combine
+  DOBJ: butternut squash , brown sugar , cornstarch , egg , milk , cinnamon , allspice , cloves , ginger , nutmeg
+  PARG: a blender or food processor
+    PREP: in
+
+
+SENTID: 5
+SENT: Process until smooth .
+PREDID: 0
+PRED: process
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour into the unbaked pie shell .
+PREDID: 0
+PRED: pour
+  PARG: the unbaked pie shell
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake in preheated oven for 50 minutes , or until a table knife comes out clean when inserted in the center .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 minutes
+    PREP: for
+  PARG: a table knife comes out clean when inserted in the center
+    PREP: until
+

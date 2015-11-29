@@ -1,0 +1,229 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Melt butter in a large pot over medium-low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Slowly add flour to butter , whisking constantly ;
+PREDID: 0
+PRED: add
+  DOBJ: flour
+  PARG: butter , whisking
+    PREP: to
+  OARG: slowly
+  OARG: constantly
+
+
+SENTID: 6
+SENT: cook until brown and the mixture no longer smells of flour , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: brown, the mixture no longer smells of flour , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour 1 cup milk into the flour mixture , whisking continually until fully incorporated , about 45 seconds ;
+PREDID: 0
+PRED: pour
+  DOBJ: 1 cup milk
+  PARG: the flour mixture , whisking
+    PREP: into
+  PARG: fully incorporated , about 45 seconds
+    PREP: until
+  OARG: continually
+
+
+SENTID: 8
+SENT: repeat twice .
+PREDID: 0
+PRED: repeat
+  OARG: twice
+
+
+SENTID: 9
+SENT: Add remaining 3 cups milk to the mixture , whisking to incorporate .
+PREDID: 0
+PRED: add
+  DOBJ: remaining 3 cups milk
+  PARG: the mixture , whisking
+    PREP: to
+  OARG: to incorporate
+
+
+SENTID: 10
+SENT: Stir Worcestershire sauce , mustard powder , onion powder , and cayenne pepper into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: worcestershire sauce , mustard powder , onion powder , cayenne pepper
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 11
+SENT: season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Reduce heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 13
+SENT: Cook sauce , whisking frequently , until it begins to thicken , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: sauce , whisking
+  PARG: it begins to thicken , about 10 minutes
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 14
+SENT: Add about half the package of shredded Cheddar cheese ;
+PREDID: 0
+PRED: add
+  PARG: half the package of shredded cheddar cheese
+    PREP: about
+
+
+SENTID: 15
+SENT: stir continually until the cheese melts completely .
+PREDID: 0
+PRED: stir
+  PARG: the cheese melts completely
+    PREP: until
+  OARG: continually
+
+
+SENTID: 16
+SENT: Repeat with remaining half package of Cheddar cheese and the American cheese , about 4 ounces at a time .
+PREDID: 0
+PRED: repeat
+  PARG: remaining half package of cheddar cheese, the american cheese
+    PREP: with
+  PARG: 4 ounces
+    PREP: about
+  PARG: a time
+    PREP: at
+
+
+SENTID: 17
+SENT: Once cheese is entirely incorporated , remove sauce from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: incorporated
+  PARG: heat
+    PREP: from
+  OARG: once
+  OARG: entirely
+  OARG: cheese is
+
+
+SENTID: 18
+SENT: Stir drained macaroni into the cheese sauce to coat .
+PREDID: 0
+PRED: stir
+  DOBJ: drained macaroni
+  PARG: the cheese sauce
+    PREP: into
+  PARG: coat
+    PREP: to
+
+
+SENTID: 19
+SENT: Divide macaroni between two 9x13-inch baking dishes .
+PREDID: 0
+PRED: divide
+  DOBJ: macaroni
+  PARG: two 9x13-inch baking dishes
+    PREP: between
+
+
+SENTID: 20
+SENT: Mix crushed potato chips , 1 cup shredded Cheddar cheese , and Parmesan cheese in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: crushed potato chips , 1 cup shredded cheddar cheese , parmesan cheese
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 21
+SENT: Top the macaroni with the potato chip mixture evenly .
+PREDID: 0
+PRED: top
+  DOBJ: the macaroni
+  PARG: the potato chip mixture
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 22
+SENT: Spray the potato chip mixture with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: the potato chip mixture
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 23
+SENT: Bake in preheated oven until the crust is golden brown and the sauce is bubbling , 35 to 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the crust is golden brown, the sauce is bubbling , 35 to 45 minutes
+    PREP: until
+

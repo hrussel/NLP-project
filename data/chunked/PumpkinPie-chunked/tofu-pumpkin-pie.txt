@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Preheat an oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the tofu , pumpkin , sugar , salt , cinnamon , ginger , and clove into a blender .
+PREDID: 0
+PRED: place
+  DOBJ: the tofu , pumpkin , sugar , salt , cinnamon , ginger , clove
+  PARG: a blender
+    PREP: into
+
+
+SENTID: 2
+SENT: Puree until smooth .
+PREDID: 0
+PRED: puree
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Pour into the pie crust .
+PREDID: 0
+PRED: pour
+  PARG: the pie crust
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake in the preheated oven 15 minutes , then reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- , and continue baking until a knife inserted into the mixture comes out clean , about 40 minutes more .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 15 minutes
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 2
+PRED: continue
+  DOBJ: baking
+  PARG: a knife inserted into the mixture comes out clean , about 40 minutes more
+    PREP: until
+
+
+SENTID: 5
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+

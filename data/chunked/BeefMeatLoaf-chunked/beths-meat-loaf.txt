@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x5-inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5-inch loaf pan
+
+
+SENTID: 2
+SENT: In a bowl , lightly mix the beaten eggs , milk , bread crumbs , onion , salt , black pepper , and sage together until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the beaten eggs , milk , bread crumbs , onion , salt , black pepper , sage
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: lightly
+  OARG: together
+
+
+SENTID: 3
+SENT: Gently work in the ground beef until mixed ;
+PREDID: 0
+PRED: work
+  PARG: the ground beef
+    PREP: in
+  PARG: mixed
+    PREP: until
+  OARG: gently
+
+
+SENTID: 4
+SENT: press the meat mixture into the prepared loaf pan .
+PREDID: 0
+PRED: press
+  DOBJ: the meat mixture
+  PARG: the prepared loaf pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until the loaf is no longer pink inside and the juices run clear , about 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the loaf is no longer pink inside, the juices run clear , about 50 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: While the meat loaf is baking , mix together the ketchup , brown sugar , and dry mustard powder in a bowl until the sugar has dissolved .
+PREDID: 0
+PRED: mix
+  DOBJ: the ketchup , brown sugar , dry mustard powder
+  PARG: the meat loaf is baking
+    PREP: while
+  PARG: a bowl
+    PREP: in
+  PARG: the sugar has dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 7
+SENT: When loaf is done , pull from the oven , and spread topping over the loaf .
+PREDID: 0
+PRED: pull
+  PARG: the oven
+    PREP: from
+  OARG: when loaf is done
+
+PREDID: 1
+PRED: spread
+  DOBJ: topping
+  PARG: the loaf
+    PREP: over
+
+
+SENTID: 8
+SENT: Return to oven , and bake until the topping is set , about 10 more minutes .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the topping is
+    PREP: until
+
+PREDID: 2
+PRED: set
+  PARG: 10 more minutes
+    PREP: about
+

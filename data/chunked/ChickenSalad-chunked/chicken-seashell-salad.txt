@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Cook macaroni in a large pan of boiling water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni
+  PARG: a large pan of boiling water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain , and rinse .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Place nuts in a dry skillet .
+PREDID: 0
+PRED: place
+  DOBJ: nuts
+  PARG: a dry skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: Toast over medium heat , turning frequently , until nuts are fragrant and lightly browned .
+PREDID: 0
+PRED: toast
+  PARG: medium heat , turning
+    PREP: over
+  PARG: nuts are fragrant, lightly browned
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 5
+SENT: In a large bowl , combine pasta , chicken , pineapple , apples , celery , mandarin oranges , and toasted nuts .
+PREDID: 0
+PRED: combine
+  DOBJ: pasta , chicken , pineapple , apples , celery , mandarin oranges , toasted nuts
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: In a small bowl , mix together mayonnaise , reserved pineapple juice , and almond flavoring .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , reserved pineapple juice , almond flavoring
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Stir into pasta mixture , and mix well .
+PREDID: 0
+PRED: stir
+  PARG: pasta mixture
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 8
+SENT: Chill .
+PREDID: 0
+PRED: chill
+

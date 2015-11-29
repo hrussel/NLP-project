@@ -1,0 +1,91 @@
+SENTID: 0
+SENT: In a Dutch oven , over medium heat , cook and stir the ground beef , onion , pepper , and garlic until beef is no longer pink and the vegetables are crisp tender -LRB- 8 to 9 minutes -RRB- .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef , onion , pepper , garlic
+  PARG: a dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: beef is no longer pink, the vegetables are crisp tender -lrb- 8 to 9 minutes -rrb-
+    PREP: until
+
+
+SENTID: 1
+SENT: Add the chili powder , cumin and pepper to the Dutch oven .
+PREDID: 0
+PRED: add
+  DOBJ: the chili powder , cumin, pepper
+  PARG: the dutch oven
+    PREP: to
+
+
+SENTID: 2
+SENT: Continue cooking for 1 minute .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 3
+SENT: Add the kidney beans , tomato sauce , diced tomatoes , and water to the Dutch oven .
+PREDID: 0
+PRED: add
+  DOBJ: the kidney beans , tomato sauce , diced tomatoes , water
+  PARG: the dutch oven
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook and stir until the chili comes to a boil -LRB- 5 to 6 minutes -RRB- .
+PREDID: 0
+PRED: cook
+  PARG: the chili comes to a boil -lrb- 5 to 6 minutes -rrb-
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 5
+SENT: Reduce the heat to medium low .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: medium low
+    PREP: to
+
+
+SENTID: 6
+SENT: Continue cooking , stirring occasionally , for 25 to 30 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking , stirring
+  PARG: 25 to 30 minutes
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 7
+SENT: Serve individual bowls of chili with a dollop of Daisy Sour Cream .
+PREDID: 0
+PRED: serve
+  DOBJ: individual bowls of chili
+  PARG: a dollop of daisy sour cream
+    PREP: with
+
+
+SENTID: 8
+SENT: Garnish with shredded cheese , avocado slices , and a few dashes of hot pepper sauce if desired .
+PREDID: 0
+PRED: garnish
+  PARG: shredded cheese , avocado slices , a few dashes of hot pepper sauce
+    PREP: with
+  PARG: desired
+    PREP: if
+

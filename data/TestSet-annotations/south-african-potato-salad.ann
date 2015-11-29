@@ -1,0 +1,106 @@
+T1	predicate 0 5	Place
+T2	predicate 29 34	cover
+T3	predicate 47 52	Bring
+T4	predicate 67 71	cook
+T5	predicate 88 94	Remove
+T6	predicate 125 128	set
+T7	predicate 144 147	Add
+T8	predicate 180 184	boil
+T9	predicate 246 251	Drain
+T10	predicate 256 260	cool
+T11	predicate 262 266	Peel
+T12	predicate 271 275	chop
+T13	predicate 289 294	place
+T14	predicate 325 332	Stir in
+T15	predicate 382 386	peel
+T16	predicate 392 393	h
+T17	predicate 401 404	add
+T18	predicate 423 430	Pour in
+T19	predicate 464 471	stir in
+T20	predicate 488 496	Sprinkle
+T21	predicate 518 523	Chill
+T22	arg_object 6 10	eggs
+T23	ingredient 6 10	eggs
+T24	arg_location 11 24	in a saucepan
+R1	object Arg1:T1 Arg2:T22	
+R2	location Arg1:T1 Arg2:T24	
+R3	object Arg1:T2 Arg2:T1	
+T25	arg_co-object 35 45	with water
+R4	co-object Arg1:T2 Arg2:T25	
+T26	ingredient 40 45	water
+R5	object Arg1:T3 Arg2:T2	
+T27	arg_other 53 62	to a boil
+R6	other Arg1:T3 Arg2:T27	
+R7	object Arg1:T4 Arg2:T3	
+T28	arg_duration 72 86	for 10 minutes
+R8	duration Arg1:T4 Arg2:T28	
+T29	arg_object 95 99	eggs
+T30	Evolution 95 99	eggs
+E1	Evolution:T30 Cause:T4
+R9	object Arg1:T5 Arg2:T29	
+T31	arg_other 100 120	with a slotted spoon
+R10	other Arg1:T5 Arg2:T31	
+R11	object Arg1:T6 Arg2:T5	
+T32	arg_other 129 134	aside
+T33	arg_other 135 142	to cool
+R12	other Arg1:T6 Arg2:T32	
+R13	other Arg1:T6 Arg2:T33	
+T34	arg_object 148 162	whole potatoes
+T35	ingredient 148 162	whole potatoes
+R14	object Arg1:T7 Arg2:T34	
+T36	arg_co-object 163 174	to the wate
+T37	Evolution 166 175	the water
+E2	Evolution:T37 Cause:T5
+R15	co-object Arg1:T7 Arg2:T36	
+R16	object Arg1:T8 Arg2:T7	
+T38	arg_duration 185 244	until a knife is easily inserted, but they are not too soft
+R17	duration Arg1:T8 Arg2:T38	
+R18	object Arg1:T9 Arg2:T8	
+R19	co-object Arg1:T9 Arg2:T8	
+R20	object Arg1:T10 Arg2:T9	
+R21	co-object Arg1:T5 Arg2:T4	
+T39	arg_object 276 284	the eggs
+T40	Evolution 276 284	the eggs
+E3	Evolution:T40 Cause:T11
+R23	object Arg1:T12 Arg2:T39	
+T41	arg_object 295 299	them
+T42	Evolution 295 299	them
+E4	Evolution:T42 Cause:T12
+R24	object Arg1:T13 Arg2:T41	
+T43	arg_location 300 323	in a large serving bowl
+R25	location Arg1:T13 Arg2:T43	
+R26	co-object Arg1:T14 Arg2:T13	
+T44	arg_object 333 349	the green onions
+T45	ingredient 333 349	the green onions
+R27	object Arg1:T14 Arg2:T44	
+T46	arg_other 351 380	When the potatoes have cooled
+R28	other Arg1:T15 Arg2:T46	
+R29	object Arg1:T15 Arg2:T10	
+R22	object Arg1:T11 Arg2:T6	
+R30	object Arg1:T16 Arg2:T15	
+T47	arg_object 405 409	them
+T48	Evolution 405 409	them
+E5	Evolution:T48 Cause:T16
+R31	object Arg1:T17 Arg2:T47	
+T49	arg_location 410 421	to the bowl
+R32	same-location Arg1:T49 Arg2:T43	
+R33	location Arg1:T17 Arg2:T49	
+R34	co-object Arg1:T17 Arg2:T14	
+R35	co-object Arg1:T18 Arg2:T17	
+T50	arg_object 431 459	the sweetened condensed milk
+T51	ingredient 431 459	the sweetened condensed milk
+R36	object Arg1:T18 Arg2:T50	
+R37	co-object Arg1:T19 Arg2:T18	
+T52	arg_object 472 486	the mayonnaise
+T53	ingredient 472 486	the mayonnaise
+R38	object Arg1:T19 Arg2:T52	
+T54	arg_object 497 503	parley
+T55	ingredient 497 503	parley
+R39	object Arg1:T20 Arg2:T54	
+T56	arg_co-object 504 516	over the top
+T57	Evolution 509 516	the top
+E6	Evolution:T57 Cause:T19
+R40	co-object Arg1:T20 Arg2:T56	
+R41	object Arg1:T21 Arg2:T20	
+T58	arg_duration 524 537	until serving
+R42	duration Arg1:T21 Arg2:T58	

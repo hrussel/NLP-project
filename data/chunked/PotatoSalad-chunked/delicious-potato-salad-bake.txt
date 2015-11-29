@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter or grease one 8x16 inch baking dish .
+PREDID: 0
+PRED: butter
+  DOBJ: one 8x16 inch baking dish
+
+PREDID: 1
+PRED: grease
+
+
+SENTID: 2
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 5
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 6
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 7
+SENT: Add onions , mushrooms , salt and pepper .
+PREDID: 0
+PRED: add
+  DOBJ: onions , mushrooms , salt, pepper
+
+
+SENTID: 8
+SENT: Cook until onions and mushrooms are soft .
+PREDID: 0
+PRED: cook
+  PARG: onions, mushrooms are soft
+    PREP: until
+
+
+SENTID: 9
+SENT: Slice potatoes and place a thin layer in the baking dish .
+PREDID: 0
+PRED: slice
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: place
+  DOBJ: a thin layer
+  PARG: the baking dish
+    PREP: in
+
+
+SENTID: 10
+SENT: Follow with a layer of the bacon mixture and repeat layers until all ingredients are used .
+PREDID: 0
+PRED: follow
+  PARG: a layer of the bacon mixture
+    PREP: with
+
+PREDID: 1
+PRED: repeat
+  DOBJ: layers
+  PARG: all ingredients are used
+    PREP: until
+
+
+SENTID: 11
+SENT: Pour cream and milk over layers ;
+PREDID: 0
+PRED: pour
+  DOBJ: cream, milk
+  PARG: layers
+    PREP: over
+
+
+SENTID: 12
+SENT: sprinkle with grated cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: grated cheese
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake for approximately 35 minutes , or until cream and milk have almost reduced completely .
+PREDID: 0
+PRED: bake
+  PARG: approximately 35 minutes
+    PREP: for
+  PARG: cream, milk have almost reduced completely
+    PREP: until
+

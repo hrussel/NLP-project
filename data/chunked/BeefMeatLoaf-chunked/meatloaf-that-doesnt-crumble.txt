@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a food processor or blender , combine the bell pepper , onion and celery .
+PREDID: 0
+PRED: combine
+  DOBJ: the bell pepper , onion, celery
+  PARG: a food processor or blender
+    PREP: in
+
+
+SENTID: 2
+SENT: Transfer to a large bowl .
+PREDID: 0
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 3
+SENT: Add the ground beef , ground pork , cracker crumbs , onion soup mix , salt , pepper , sage and milk .
+PREDID: 0
+PRED: add
+  DOBJ: the ground beef , ground pork , cracker crumbs , onion soup mix , salt , pepper , sage, milk
+
+
+SENTID: 4
+SENT: Transfer to a 9x5 inch loaf pan and form into a loaf , mounding in the center .
+PREDID: 0
+PRED: transfer
+  PARG: a 9x5 inch loaf pan
+    PREP: to
+
+PREDID: 1
+PRED: form
+  PARG: a loaf , mounding
+    PREP: into
+  PARG: the center
+    PREP: in
+
+
+SENTID: 5
+SENT: Cover with a generous layer of ketchup .
+PREDID: 0
+PRED: cover
+  PARG: a generous layer of ketchup
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake for 1Ê1/2 hours in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 1Ê1/2 hours
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 7
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+
+
+SENTID: 8
+SENT: Refrigerate leftovers , slice and serve cold in sandwiches .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: leftovers
+
+PREDID: 1
+PRED: slice
+  DOBJ: cold
+
+PREDID: 2
+PRED: serve
+  PARG: sandwiches
+    PREP: in
+

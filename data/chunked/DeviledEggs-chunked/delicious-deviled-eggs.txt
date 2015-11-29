@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Slice eggs in half lengthwise .
+PREDID: 0
+PRED: slice
+  DOBJ: eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 1
+SENT: Remove yolks ;
+PREDID: 0
+PRED: remove
+  DOBJ: yolks
+
+
+SENTID: 2
+SENT: place in small bowl .
+PREDID: 0
+PRED: place
+  PARG: small bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Mash yolks with fork or potato masher .
+PREDID: 0
+PRED: mash
+  DOBJ: yolks
+  PARG: fork or potato masher
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir in mayonnaise , mustard , parsley and seasoned salt until smooth and creamy .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise , mustard , parsley, seasoned salt
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon or pipe yolk mixture into egg white halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+
+PREDID: 1
+PRED: pipe
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 6
+SENT: Sprinkle with paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 7
+SENT: Refrigerate 1 hour or until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+  OARG: 1 hour
+

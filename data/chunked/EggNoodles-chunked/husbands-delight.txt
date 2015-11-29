@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a large skillet over medium heat , brown the ground beef .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Add the tomatoes with juice , salt and sugar and simmer for 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the tomatoes
+  PARG: juice , salt, sugar
+    PREP: with
+
+PREDID: 1
+PRED: simmer
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: In a separate medium bowl , combine the sour cream , cream cheese and onion and mix well .
+PREDID: 0
+PRED: combine
+  DOBJ: the sour cream , cream cheese, onion
+  PARG: a separate medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: In a 9x13 inch baking dish , place half of the egg noodles , then all of the meat mixture , then the cream mixture .
+PREDID: 0
+PRED: place
+  DOBJ: half of the egg noodles
+  PARG: a 9x13 inch baking dish
+    PREP: in
+  OARG: then
+  OARG: then
+
+
+SENTID: 8
+SENT: Top with the remaining noodles and sprinkle with the cheese .
+PREDID: 0
+PRED: top
+  PARG: the remaining noodles
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: the cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 25 minutes
+    PREP: for
+

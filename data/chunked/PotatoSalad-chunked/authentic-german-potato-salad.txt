@@ -1,0 +1,148 @@
+SENTID: 0
+SENT: Place the potatoes into a pot , and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook for about 10 minutes , or until easily pierced with a fork .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 10 minutes
+    PREP: for
+  PARG: easily pierced with a fork
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and set aside to cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Place the bacon in a large deep skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  OARG: deep
+
+
+SENTID: 4
+SENT: Fry until browned and crisp , turning as needed .
+PREDID: 0
+PRED: fry
+  PARG: browned, crisp , turning as needed
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from the pan and set aside .
+PREDID: 0
+PRED: remove
+  PARG: the pan
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Add onion to the bacon grease , and cook over medium heat until browned .
+PREDID: 0
+PRED: add
+  DOBJ: onion
+  PARG: the bacon
+    PREP: to
+
+PREDID: 1
+PRED: grease
+
+PREDID: 2
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: browned
+    PREP: until
+
+
+SENTID: 7
+SENT: Add the vinegar , water , sugar , salt and pepper to the pan .
+PREDID: 0
+PRED: add
+  DOBJ: the vinegar , water , sugar , salt, pepper
+  PARG: the pan
+    PREP: to
+
+
+SENTID: 8
+SENT: Bring to a boil , then add the potatoes and parsley .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the potatoes, parsley
+
+
+SENTID: 9
+SENT: Crumble in half of the bacon .
+PREDID: 0
+PRED: crumble
+  PARG: half of the bacon
+    PREP: in
+
+
+SENTID: 10
+SENT: Heat through , then transfer to a serving dish .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+  OARG: then
+
+PREDID: 1
+PRED: transfer
+  PARG: a serving dish
+    PREP: to
+
+
+SENTID: 11
+SENT: Crumble the remaining bacon over the top , and serve warm .
+PREDID: 0
+PRED: crumble
+  DOBJ: the remaining bacon
+  PARG: the top
+    PREP: over
+
+PREDID: 1
+PRED: serve
+  DOBJ: warm
+

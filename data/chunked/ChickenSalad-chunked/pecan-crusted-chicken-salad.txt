@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the creamy garlic dressing and pecans in separate bowls .
+PREDID: 0
+PRED: place
+  DOBJ: the creamy garlic dressing, pecans
+  PARG: separate bowls
+    PREP: in
+
+
+SENTID: 2
+SENT: Dip each chicken breast in the dressing then in the pecans to coat .
+PREDID: 0
+PRED: dip
+  DOBJ: each chicken breast
+  PARG: the dressing
+    PREP: in
+  PARG: the pecans
+    PREP: in
+  PARG: coat
+    PREP: to
+  OARG: then
+
+
+SENTID: 3
+SENT: Arrange chicken on a baking sheet .
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 4
+SENT: Bake chicken 25 minutes in the preheated oven , until juices run clear .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: juices run clear
+    PREP: until
+  OARG: chicken 25 minutes
+
+
+SENTID: 5
+SENT: Cool slightly , and cut into strips .
+PREDID: 0
+PRED: cool
+  OARG: slightly
+
+PREDID: 1
+PRED: cut
+  PARG: strips
+    PREP: into
+
+
+SENTID: 6
+SENT: On serving plates , arrange equal amounts of the lettuce , mandarin oranges , cranberries , and blue cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: equal amounts of the lettuce , mandarin oranges , cranberries , blue cheese
+  PARG: serving plates
+    PREP: on
+
+
+SENTID: 7
+SENT: Top with equal amounts chicken , and serve with Ranch dressing .
+PREDID: 0
+PRED: top
+  PARG: equal amounts chicken
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  PARG: ranch dressing
+    PREP: with
+

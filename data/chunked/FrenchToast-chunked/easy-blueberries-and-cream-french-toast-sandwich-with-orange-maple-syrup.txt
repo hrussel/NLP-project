@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Bring the red wine , orange juice , and orange zest to a boil in a small saucepan ;
+PREDID: 0
+PRED: bring
+  DOBJ: the red wine , orange juice , orange zest
+  PARG: a boil
+    PREP: to
+  PARG: a small saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: reduce heat to medium-low and cook for 5 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, cook
+    PREP: to
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Pour in the maple syrup and crushed red pepper flakes .
+PREDID: 0
+PRED: pour
+  PARG: the maple syrup, crushed red pepper flakes
+    PREP: in
+
+
+SENTID: 3
+SENT: Continue cooking 5 minutes more ;
+PREDID: 0
+PRED: continue
+  OARG: cooking 5 minutes more
+
+
+SENTID: 4
+SENT: reduce heat to warm and keep the syrup hot .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: warm
+    PREP: to
+
+PREDID: 1
+PRED: keep
+  DOBJ: the syrup hot
+
+
+SENTID: 5
+SENT: Meanwhile , spread one side of each slice of bread with the softened cream cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: one side of each slice of bread
+  PARG: the softened cream cheese
+    PREP: with
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Press the blueberries into the cream cheese and sandwich two pieces of bread together with the cream cheese on the inside to form the sandwiches ;
+PREDID: 0
+PRED: press
+  DOBJ: the blueberries
+  PARG: the cream cheese, sandwich two pieces of bread
+    PREP: into
+  PARG: the cream cheese
+    PREP: with
+  PARG: the inside
+    PREP: on
+  PARG: form the sandwiches
+    PREP: to
+  OARG: together
+
+
+SENTID: 7
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Beat the eggs in a mixing bowl ;
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: whisk in the milk until smooth .
+PREDID: 0
+PRED: whisk
+  PARG: the milk
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 10
+SENT: Melt the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Dip the sandwiches into the egg mixture allowing the egg to soak into the bread ;
+PREDID: 0
+PRED: dip
+  DOBJ: allowing the egg
+  PARG: the egg mixture
+    PREP: into
+  PARG: soak
+    PREP: to
+  PARG: the bread
+    PREP: into
+  OARG: the sandwiches
+
+
+SENTID: 12
+SENT: allow excess egg to drip off .
+PREDID: 0
+PRED: allow
+  DOBJ: excess egg
+  PARG: drip
+    PREP: to
+
+
+SENTID: 13
+SENT: Cook the sandwiches in the hot butter until golden brown on both sides and the bread is no longer soggy , about 5 minutes per side .
+PREDID: 0
+PRED: cook
+  DOBJ: the sandwiches
+  PARG: the hot butter
+    PREP: in
+  PARG: golden brown on both sides, the bread is no longer soggy , about 5 minutes per side
+    PREP: until
+
+
+SENTID: 14
+SENT: Serve with the hot orange maple syrup .
+PREDID: 0
+PRED: serve
+  PARG: the hot orange maple syrup
+    PREP: with
+

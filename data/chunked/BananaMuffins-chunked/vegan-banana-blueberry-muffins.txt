@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease muffin cups or line with paper muffin liners .
+PREDID: 0
+PRED: grease
+  DOBJ: muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper muffin liners
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large bowl combine mashed bananas , sugar , baking powder , salt and flours ;
+PREDID: 0
+PRED: combine
+  DOBJ: mashed bananas , sugar , baking powder , salt, flours
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: mix until smooth .
+PREDID: 0
+PRED: mix
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: In a small bowl or cup combine egg replacer and water ;
+PREDID: 0
+PRED: combine
+  DOBJ: egg replacer, water
+  PARG: a small bowl or cup
+    PREP: in
+
+
+SENTID: 5
+SENT: stir into banana mixture .
+PREDID: 0
+PRED: stir
+  PARG: banana mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Fold in blueberries .
+PREDID: 0
+PRED: fold
+  PARG: blueberries
+    PREP: in
+
+
+SENTID: 7
+SENT: Spoon batter evenly , about 1/4 cup each , into muffin cups . Bake in preheated oven for 20 to 25 minutes , or until golden brown .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: 1/4 cup each
+    PREP: about
+  PARG: muffin cups
+    PREP: into
+  OARG: evenly
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 to 25 minutes
+    PREP: for
+  PARG: golden brown
+    PREP: until
+

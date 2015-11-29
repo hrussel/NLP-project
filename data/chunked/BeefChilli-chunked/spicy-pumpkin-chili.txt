@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Heat a large skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir the beef in the skillet until crumbly and no longer pink , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the beef
+
+PREDID: 1
+PRED: stir
+  PARG: the skillet
+    PREP: in
+  PARG: crumbly, no longer pink , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in the red pepper flakes , garlic , and onion ;
+PREDID: 0
+PRED: stir
+  PARG: the red pepper flakes , garlic , onion
+    PREP: in
+
+
+SENTID: 3
+SENT: continue cooking until the beef has browned and the onion has softened and turned translucent .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: the beef has browned, the onion has softened, turned translucent
+    PREP: until
+
+
+SENTID: 4
+SENT: Add the green and red bell pepper and cook 5 minutes more .
+PREDID: 0
+PRED: add
+  DOBJ: the green, red bell pepper
+
+PREDID: 1
+PRED: cook
+  OARG: 5 minutes more
+
+
+SENTID: 5
+SENT: While the beef is cooking , combine the kidney beans , black beans , Great Northern beans , tomato sauce , tomato sauce with garlic and onions , petite diced tomatoes , fire roasted diced tomatoes , and pumpkin puree in a large slow cooker .
+PREDID: 0
+PRED: combine
+  DOBJ: the kidney beans , black beans , great northern beans , tomato sauce , tomato sauce
+  PARG: the beef is cooking
+    PREP: while
+  PARG: garlic, onions , petite diced tomatoes , fire roasted diced tomatoes , pumpkin puree
+    PREP: with
+  PARG: a large slow cooker
+    PREP: in
+
+
+SENTID: 6
+SENT: Season with pumpkin pie spice , chili powder , cumin , and salt .
+PREDID: 0
+PRED: season
+  PARG: pumpkin pie spice , chili powder , cumin , salt
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir in the ground beef mixture .
+PREDID: 0
+PRED: stir
+  PARG: the ground beef mixture
+    PREP: in
+
+
+SENTID: 8
+SENT: Cook on Low until the chili is hot , 1 to 2 hours .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: the chili is hot , 1 to 2 hours
+    PREP: until
+

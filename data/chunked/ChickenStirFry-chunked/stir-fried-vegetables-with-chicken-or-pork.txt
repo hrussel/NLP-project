@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Heat oil in a wok or large heavy skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a wok or large heavy skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: Add chicken or pork -LRB- see Cook 's Note -RRB- , garlic , and oyster sauce , and stir-fry for 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: chicken or pork -lrb- see cook 's note -rrb- , garlic , oyster sauce , stir-fry
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Stir in broccoli , green pepper , carrots , cabbage , celery , bean sprouts , zucchini , and green onions .
+PREDID: 0
+PRED: stir
+  PARG: broccoli , green pepper , carrots , cabbage , celery , bean sprouts , zucchini , green onions
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with salt , and stir-fry for 6 to 8 minutes .
+PREDID: 0
+PRED: season
+  PARG: salt , stir-fry
+    PREP: with
+  PARG: 6 to 8 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: In a small bowl , mix together water , soy sauce and cornstarch .
+PREDID: 0
+PRED: mix
+  DOBJ: water , soy sauce, cornstarch
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir into vegetables , and cook for 1 to 2 minutes , or until sauce is thickened .
+PREDID: 0
+PRED: stir
+  PARG: vegetables
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: 1 to 2 minutes
+    PREP: for
+  PARG: sauce is thickened
+    PREP: until
+

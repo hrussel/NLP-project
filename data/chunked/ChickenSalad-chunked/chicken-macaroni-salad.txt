@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: In a medium skillet over medium heat , cook chicken until no longer pink and juices run clear .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: no longer pink, juices run clear
+    PREP: until
+
+
+SENTID: 1
+SENT: Let rest until cool enough to handle , then shred with two forks .
+PREDID: 0
+PRED: let
+  DOBJ: rest
+  PARG: cool enough to handle
+    PREP: until
+
+PREDID: 1
+PRED: shred
+  PARG: two forks
+    PREP: with
+
+
+SENTID: 2
+SENT: Set aside 4 cups of shredded meat .
+PREDID: 0
+PRED: set
+  DOBJ: 4 cups of shredded meat
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a medium pot with boiling salted water cook elbow macaroni until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: a medium pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain and rinse under cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 5
+SENT: Meanwhile , in a large bowl mix together the cooked chicken , drained vegetables , shredded lettuce , and mayonnaise .
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked chicken , drained vegetables , shredded lettuce , mayonnaise
+  PARG: a large bowl
+    PREP: in
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 6
+SENT: Add basil , pepper , salt , and garlic powder to taste .
+PREDID: 0
+PRED: add
+  DOBJ: basil , pepper , salt , garlic powder
+  PARG: taste
+    PREP: to
+
+
+SENTID: 7
+SENT: Add drained elbow macaroni to chicken mixture .
+PREDID: 0
+PRED: add
+  DOBJ: drained elbow macaroni
+  PARG: chicken mixture
+    PREP: to
+
+
+SENTID: 8
+SENT: Toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 9
+SENT: Refrigerate for several hours before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: several hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

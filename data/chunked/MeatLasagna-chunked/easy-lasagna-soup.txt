@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: In a large pot over medium heat , cook and stir the ground beef until evenly brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Mix the water , tomatoes , mushrooms , green bell pepper , onion , and garlic into the pot with the beef .
+PREDID: 0
+PRED: mix
+  DOBJ: the water , tomatoes , mushrooms , green bell pepper , onion , garlic
+  PARG: the pot
+    PREP: into
+  PARG: the beef
+    PREP: with
+
+
+SENTID: 3
+SENT: Season with basil , salt , and pepper .
+PREDID: 0
+PRED: season
+  PARG: basil , salt , pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring to a boil , reduce heat , and simmer 45 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  OARG: 45 minutes
+
+
+SENTID: 5
+SENT: Mix the feta cheese into the soup , and continue cooking about 15 minutes before serving .
+PREDID: 0
+PRED: mix
+  DOBJ: the feta cheese
+  PARG: the soup
+    PREP: into
+
+PREDID: 1
+PRED: continue
+  DOBJ: cooking
+  PARG: 15 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+

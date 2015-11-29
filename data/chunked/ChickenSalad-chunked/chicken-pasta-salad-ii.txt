@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and rinse with cool water .
+PREDID: 0
+PRED: drain
+  PARG: cool water
+    PREP: with
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Pour into a large dish .
+PREDID: 0
+PRED: pour
+  PARG: a large dish
+    PREP: into
+
+
+SENTID: 4
+SENT: Combine mushrooms , olives , celery , onion , cheese , corn and green bell pepper with pasta ;
+PREDID: 0
+PRED: combine
+  DOBJ: mushrooms , olives , celery , onion , cheese , corn, green bell pepper
+  PARG: pasta
+    PREP: with
+
+
+SENTID: 5
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: pour dressing over salad and toss again to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+  OARG: again
+
+
+SENTID: 7
+SENT: Gently mix in flaked chicken ;
+PREDID: 0
+PRED: mix
+  PARG: flaked chicken
+    PREP: in
+  OARG: gently
+
+
+SENTID: 8
+SENT: refrigerate for a few hours or serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: a few hours
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

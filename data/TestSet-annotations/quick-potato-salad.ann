@@ -1,0 +1,62 @@
+T1	predicate 0 5	Bring
+T2	predicate 53 56	Add
+T3	predicate 103 108	drain
+T4	predicate 113 118	rinse
+T5	predicate 136 143	Combine
+T6	predicate 251 255	stir
+T7	predicate 279 285	Season
+T8	arg_object 6 41	a large pot of lightly salted water
+T9	arg_other 42 51	to a boil
+R1	object Arg1:T1 Arg2:T8	
+R2	other Arg1:T1 Arg2:T9	
+T10	arg_object 57 65	potatoes
+T11	predicate 70 74	cook
+R3	object Arg1:T2 Arg2:T10	
+T12	ingredient 57 65	potatoes
+R4	co-object Arg1:T2 Arg2:T1	
+R5	object Arg1:T11 Arg2:T2	
+T13	arg_duration 75 101	until soft, 5 to 7 minutes
+R6	duration Arg1:T11 Arg2:T13	
+R7	object Arg1:T3 Arg2:T11	
+R8	co-object Arg1:T3 Arg2:T11	
+R9	object Arg1:T4 Arg2:T3	
+T14	arg_co-object 119 134	with cold water
+R10	co-object Arg1:T4 Arg2:T14	
+T15	arg_object 144 156	the potatoes
+T16	Evolution 144 156	the potatoes
+E1	Evolution:T16 Cause:T4
+R11	object Arg1:T5 Arg2:T15	
+T17	arg_object 158 162	eggs
+T18	arg_object 164 172	cucumber
+T19	arg_object 174 180	tomato
+T20	arg_object 182 188	celery
+T21	arg_object 190 195	onion
+T22	arg_object 197 208	green onion
+T23	arg_object 210 220	mayonnaise
+T24	arg_object 226 233	mustard
+T25	arg_location 234 249	in a large bowl
+T26	ingredient 158 162	eggs
+T27	ingredient 164 172	cucumber
+T28	ingredient 174 180	tomato
+T29	ingredient 182 188	celery
+T30	ingredient 190 195	onion
+T31	ingredient 197 208	green onion
+T32	ingredient 210 220	mayonnaise
+T33	ingredient 226 233	mustard
+R12	object Arg1:T5 Arg2:T17	
+R13	object Arg1:T5 Arg2:T18	
+R14	object Arg1:T5 Arg2:T19	
+R15	object Arg1:T5 Arg2:T20	
+R16	object Arg1:T5 Arg2:T21	
+R17	object Arg1:T5 Arg2:T22	
+R18	object Arg1:T5 Arg2:T23	
+R19	object Arg1:T5 Arg2:T24	
+R20	location Arg1:T5 Arg2:T25	
+R21	object Arg1:T6 Arg2:T5	
+T34	arg_duration 256 277	until evenly combined
+R22	duration Arg1:T6 Arg2:T34	
+R23	object Arg1:T7 Arg2:T6	
+T35	arg_co-object 286 306	with salt and pepper
+R24	co-object Arg1:T7 Arg2:T35	
+T36	ingredient 291 295	salt
+T37	ingredient 300 306	pepper

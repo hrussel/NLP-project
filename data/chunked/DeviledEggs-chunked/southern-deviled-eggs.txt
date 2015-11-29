@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Scoop yolks from egg halves into a bowl .
+PREDID: 0
+PRED: scoop
+  DOBJ: yolks
+  PARG: egg halves
+    PREP: from
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Mash the yolks with mayonnaise , yellow mustard , spicy brown mustard , black pepper , white vinegar , sugar , and sweetened condensed milk until the mixture is smooth .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: mayonnaise , yellow mustard , spicy brown mustard , black pepper , white vinegar , sugar , sweetened condensed milk
+    PREP: with
+  PARG: the mixture is smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Spoon yolk filling into egg halves and sprinkle each deviled egg with paprika ;
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk filling
+  PARG: egg halves
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: each deviled egg
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 3
+SENT: top deviled eggs with 2 slices of black olive .
+PREDID: 0
+PRED: top
+  DOBJ: deviled eggs
+  PARG: 2 slices of black olive
+    PREP: with
+

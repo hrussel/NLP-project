@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Place the raisins in a small dish and cover with hot water .
+PREDID: 0
+PRED: place
+  DOBJ: the raisins
+  PARG: a small dish
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: hot water
+    PREP: with
+
+
+SENTID: 1
+SENT: Allow to stand for 30 minutes .
+PREDID: 0
+PRED: allow
+  PARG: stand
+    PREP: to
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Once the raisins are plump , drain and place into a mixing bowl with the apple and pumpkin .
+PREDID: 0
+PRED: drain
+  DOBJ: the raisins are plump
+  PARG: a mixing bowl
+    PREP: into
+  OARG: once
+
+PREDID: 1
+PRED: place
+  PARG: the apple, pumpkin
+    PREP: with
+
+
+SENTID: 3
+SENT: Pour in the lemon juice and toss to coat .
+PREDID: 0
+PRED: pour
+  PARG: the lemon juice
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Season to taste with salt and pepper , and serve immediately .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  OARG: immediately
+

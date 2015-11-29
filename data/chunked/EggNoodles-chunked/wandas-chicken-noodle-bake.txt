@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook noodles in boiling water for about 8 minutes , or until done .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: boiling water
+    PREP: in
+  PARG: about 8 minutes
+    PREP: for
+  PARG: done
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Coat a 9x13 inch pan with cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a 9x13 inch pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 5
+SENT: In a saucepan , melt butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook celery and onion in butter until tender , stirring frequently .
+PREDID: 0
+PRED: cook
+  DOBJ: celery, onion
+  PARG: butter
+    PREP: in
+  PARG: tender , stirring frequently
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in soup , milk , and cheese .
+PREDID: 0
+PRED: stir
+  PARG: soup , milk , cheese
+    PREP: in
+
+
+SENTID: 8
+SENT: Cook , stirring , until cheese melts .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: cheese melts
+    PREP: until
+
+
+SENTID: 9
+SENT: In a large bowl , mix together the noodles , cheese sauce mixture , carrots , mushrooms , chicken , and salt and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: the noodles , cheese sauce mixture , carrots , mushrooms , chicken , salt, pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Spread mixture evenly into the prepared baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: mixture
+  PARG: the prepared baking dish
+    PREP: into
+  OARG: evenly
+
+
+SENTID: 11
+SENT: Top with bread crumbs .
+PREDID: 0
+PRED: top
+  PARG: bread crumbs
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in preheated oven for 30 minutes , or until hot .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: hot
+    PREP: until
+

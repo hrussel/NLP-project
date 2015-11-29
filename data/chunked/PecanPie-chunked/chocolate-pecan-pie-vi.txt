@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium saucepan , combine chocolate , butter and condensed milk over medium heat .
+PREDID: 0
+PRED: combine
+  DOBJ: chocolate , butter, condensed milk
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Stir continuously until chocolate chips melt and sauce is smooth .
+PREDID: 0
+PRED: stir
+  PARG: chocolate chips melt, sauce is smooth
+    PREP: until
+  OARG: continuously
+
+
+SENTID: 3
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 4
+SENT: Stir in eggs , vanilla , salt and pecans ;
+PREDID: 0
+PRED: stir
+  PARG: eggs , vanilla , salt, pecans
+    PREP: in
+
+
+SENTID: 5
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Pour mixture into pie shell and bake on bottom shelf of oven for 40 to 45 minutes .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: bottom shelf of oven
+    PREP: on
+  PARG: 40 to 45 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: Serve hot or cold ;
+PREDID: 0
+PRED: serve
+  DOBJ: hot or cold
+

@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line a baking sheet with aluminum foil .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: Whisk olive oil , 3 tablespoons balsamic vinegar , honey , paprika , garlic , salt , and black pepper together in a large bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: olive oil , 3 tablespoons balsamic vinegar , honey , paprika , garlic , salt , black pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir potatoes , mushrooms , and sweet onion into vinegar mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: potatoes , mushrooms , sweet onion
+  PARG: vinegar mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 5
+SENT: Spread vegetables over prepared baking sheet .
+PREDID: 0
+PRED: spread
+  DOBJ: vegetables
+  PARG: prepared baking sheet
+    PREP: over
+
+
+SENTID: 6
+SENT: Bake in preheated oven until potatoes are easily pierced with a fork , 30 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: potatoes are easily pierced with a fork , 30 to 40 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Drain the bacon slices on a paper towel-lined plate ;
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 9
+SENT: crumble bacon .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+
+
+SENTID: 10
+SENT: Transfer potato mixture to a large bowl and toss with bacon , green onions , parsley , and remaining 2 tablespoons balsamic vinegar .
+PREDID: 0
+PRED: transfer
+  DOBJ: potato mixture
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  DOBJ: remaining 2 tablespoons balsamic vinegar
+  PARG: bacon , green onions , parsley
+    PREP: with
+

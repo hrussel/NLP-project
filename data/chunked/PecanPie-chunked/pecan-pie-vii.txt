@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C. -RRB- In a large bowl , combine brown sugar , flour , margarine , milk , vanilla and eggs .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c. -rrb-
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: brown sugar
+
+PREDID: 2
+PRED: flour
+  DOBJ: margarine , milk , vanilla, eggs
+
+
+SENTID: 1
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in chopped pecans .
+PREDID: 0
+PRED: stir
+  PARG: chopped pecans
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour into pie crust .
+PREDID: 0
+PRED: pour
+  PARG: pie crust
+    PREP: into
+
+
+SENTID: 4
+SENT: Place whole pecan meats gently on top in decorative manner .
+PREDID: 0
+PRED: place
+  DOBJ: whole pecan meats
+  PARG: top
+    PREP: on
+  PARG: decorative manner
+    PREP: in
+  OARG: gently
+
+
+SENTID: 5
+SENT: Bake in the preheated oven for 35 to 40 minutes , or until golden brown and filling is set .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 35 to 40 minutes
+    PREP: for
+  PARG: golden brown, filling is set
+    PREP: until
+

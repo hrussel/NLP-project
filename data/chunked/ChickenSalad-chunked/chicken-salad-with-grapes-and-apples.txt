@@ -1,0 +1,8 @@
+SENTID: 0
+SENT: Mix mayonnaise , chicken , grapes , apple , onion , honey mustard , garlic powder , and black pepper in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , chicken , grapes , apple , onion , honey mustard , garlic powder , black pepper
+  PARG: a bowl
+    PREP: in
+

@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add rotini pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: rotini pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In a skillet over medium heat , place the cubed chicken and dab with ranch dressing .
+PREDID: 0
+PRED: place
+  DOBJ: the cubed chicken
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: dab
+  PARG: ranch dressing
+    PREP: with
+
+
+SENTID: 4
+SENT: Pour enough Italian dressing into the skillet to cover the bottom of the pan .
+PREDID: 0
+PRED: pour
+  DOBJ: italian dressing
+  PARG: the skillet
+    PREP: into
+  PARG: cover the bottom of the pan
+    PREP: to
+  OARG: enough
+
+
+SENTID: 5
+SENT: Cook the chicken until it is nice and brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+  PARG: it is nice, brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Mix together pasta , chicken , black olives and Italian dressing -LRB- to taste -RRB- .
+PREDID: 0
+PRED: mix
+  DOBJ: pasta , chicken , black olives, italian dressing -lrb-
+  PARG: taste -rrb-
+    PREP: to
+  OARG: together
+
+
+SENTID: 7
+SENT: Serve hot or cold .
+PREDID: 0
+PRED: serve
+  DOBJ: hot or cold
+

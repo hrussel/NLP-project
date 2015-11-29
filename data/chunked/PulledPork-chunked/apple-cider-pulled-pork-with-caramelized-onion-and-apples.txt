@@ -1,0 +1,123 @@
+SENTID: 0
+SENT: Combine hard apple cider and 1/4 cup brown sugar in a slow cooker ;
+PREDID: 0
+PRED: combine
+  DOBJ: apple cider, 1/4 cup brown sugar
+  PARG: a slow cooker
+    PREP: in
+  OARG: hard
+
+
+SENTID: 1
+SENT: mix until dissolved .
+PREDID: 0
+PRED: mix
+  PARG: dissolved
+    PREP: until
+
+
+SENTID: 2
+SENT: Add pork tenderloin .
+PREDID: 0
+PRED: add
+  DOBJ: pork tenderloin
+
+
+SENTID: 3
+SENT: Cook tenderloin on Low until very tender , about 6 hours .
+PREDID: 0
+PRED: cook
+  DOBJ: tenderloin
+  PARG: low
+    PREP: on
+  PARG: very tender , about 6 hours
+    PREP: until
+
+
+SENTID: 4
+SENT: Shred pork with a fork .
+PREDID: 0
+PRED: shred
+  DOBJ: pork
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 5
+SENT: About 20 minutes for the pork is finished , melt butter in a large skillet over medium-low heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: 20 minutes
+    PREP: about
+  PARG: the pork is finished
+    PREP: for
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 6
+SENT: cook and stir onion until well browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+
+PREDID: 1
+PRED: stir
+  PARG: well browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Combine 1/2 cup brown sugar , cinnamon , and onion powder ;
+PREDID: 0
+PRED: combine
+  DOBJ: 1/2 cup brown sugar , cinnamon , onion powder
+
+
+SENTID: 8
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Stir apples and sugar mixture into cooked onion .
+PREDID: 0
+PRED: stir
+  DOBJ: apples, sugar mixture
+  PARG: cooked onion
+    PREP: into
+
+
+SENTID: 10
+SENT: Cover and cook until apples are tender and sauce has thickened , about 10 minutes more .
+PREDID: 0
+PRED: cover
+  PARG: apples are tender
+    PREP: until
+
+PREDID: 1
+PRED: cook
+
+PREDID: 2
+PRED: sauce
+  DOBJ: has thickened
+  PARG: 10 minutes more
+    PREP: about
+
+
+SENTID: 11
+SENT: Spoon pork and apple-onion sauce over rolls to serve .
+PREDID: 0
+PRED: spoon
+  DOBJ: pork, apple-onion sauce
+  PARG: rolls
+    PREP: over
+  PARG: serve
+    PREP: to
+

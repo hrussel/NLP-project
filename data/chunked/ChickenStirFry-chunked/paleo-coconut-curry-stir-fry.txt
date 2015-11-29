@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: Mix coconut milk , ginger , lime juice , fish sauce , oyster sauce , garlic , chile-garlic sauce , and sugar together in a small bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: coconut milk , ginger , lime juice , fish sauce , oyster sauce , garlic , chile-garlic sauce , sugar
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Heat avocado oil in a large skillet or wok over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: avocado oil
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Stir-fry chicken in the hot oil until no longer pink , 8 to 10 minutes .
+PREDID: 0
+PRED: oil
+  DOBJ: stir-fry chicken
+  PARG: the hot
+    PREP: in
+  PARG: no longer pink , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from wok and keep warm .
+PREDID: 0
+PRED: remove
+  PARG: wok
+    PREP: from
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 4
+SENT: Leave remaining avocado oil in skillet .
+PREDID: 0
+PRED: leave
+  DOBJ: remaining avocado oil
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir onion and curry powder into hot oil in skillet ;
+PREDID: 0
+PRED: stir
+  DOBJ: onion, curry powder
+  PARG: hot oil
+    PREP: into
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 6
+SENT: cook 2 minutes .
+PREDID: 0
+PRED: cook
+  OARG: 2 minutes
+
+
+SENTID: 7
+SENT: Stir in broccoli ;
+PREDID: 0
+PRED: stir
+  PARG: broccoli
+    PREP: in
+
+
+SENTID: 8
+SENT: Add coconut milk mixture and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: coconut milk mixture
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: Reduce heat to medium and simmer sauce and vegetables for 3 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  DOBJ: sauce, vegetables
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Return chicken to skillet ;
+PREDID: 0
+PRED: return
+  DOBJ: chicken
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 11
+SENT: cover and cook until chicken has heated through and vegetables are tender , about 3 minutes .
+PREDID: 0
+PRED: cover
+  PARG: chicken has heated through, vegetables are tender , about 3 minutes
+    PREP: until
+
+PREDID: 1
+PRED: cook
+

@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: Combine eggs , milk , bread crumbs , onion , salt , sage , and mushrooms in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: eggs , milk , bread crumbs , onion , salt , sage , mushrooms
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Crumble ground beef over mixture and stir well to combine .
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: combine
+    PREP: to
+  OARG: well
+
+
+SENTID: 2
+SENT: Shape into a round loaf ;
+PREDID: 0
+PRED: shape
+  PARG: a round loaf
+    PREP: into
+
+
+SENTID: 3
+SENT: place in a 5-quart slow cooker .
+PREDID: 0
+PRED: place
+  PARG: a 5-quart slow cooker
+    PREP: in
+
+
+SENTID: 4
+SENT: Cover and cook on Low until a meat thermometer reads 160 degrees F -LRB- 71 degrees C -RRB- , 5 to 6 hours .
+PREDID: 0
+PRED: cover
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: a meat thermometer reads 160 degrees f -lrb- 71 degrees c -rrb- , 5 to 6 hours
+    PREP: until
+
+
+SENTID: 5
+SENT: Whisk ketchup , brown sugar , mustard , and Worcestershire sauce in a small bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: ketchup , brown sugar , mustard , worcestershire sauce
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: spoon sauce over meat loaf .
+PREDID: 0
+PRED: spoon
+  DOBJ: sauce
+  PARG: meat loaf
+    PREP: over
+
+
+SENTID: 7
+SENT: Return to slow cooker and cook on Low until heated through , about 15 minutes .
+PREDID: 0
+PRED: return
+  OARG: to slow cooker
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: heated through , about 15 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Let stand 10 minutes before cutting .
+PREDID: 0
+PRED: let
+  PARG: cutting
+    PREP: before
+  OARG: stand 10 minutes
+

@@ -1,0 +1,189 @@
+SENTID: 0
+SENT: Heat a Dutch oven over medium-high heat , and brown meat on all sides in hot oil .
+PREDID: 0
+PRED: heat
+  DOBJ: a dutch oven
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: brown
+  DOBJ: meat
+  PARG: all sides
+    PREP: on
+  PARG: hot oil
+    PREP: in
+
+
+SENTID: 1
+SENT: In large bowl combine tomatoes , pizza sauce , cheese , Worcestershire sauce , garlic , salt , oregano , and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: tomatoes , pizza sauce , cheese , worcestershire sauce , garlic , salt , oregano , pepper
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour over meat .
+PREDID: 0
+PRED: pour
+  PARG: meat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cover and simmer over medium heat for 2 hours , turning meat each half hour .
+PREDID: 0
+PRED: cover
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: simmer
+  PARG: 2 hours , turning meat each half hour
+    PREP: for
+
+
+SENTID: 4
+SENT: Remove meat from pan , and cool slightly .
+PREDID: 0
+PRED: remove
+  DOBJ: meat
+  PARG: pan
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 5
+SENT: Skim fat from pan juices .
+PREDID: 0
+PRED: skim
+  DOBJ: fat
+  PARG: pan juices
+    PREP: from
+
+
+SENTID: 6
+SENT: Measure juices , and add enough water to make 6 cups liquid .
+PREDID: 0
+PRED: measure
+  DOBJ: juices
+
+PREDID: 1
+PRED: add
+  DOBJ: water
+  PARG: make 6 cups liquid
+    PREP: to
+  OARG: enough
+
+
+SENTID: 7
+SENT: Return liquid to Dutch oven .
+PREDID: 0
+PRED: return
+  DOBJ: liquid
+  PARG: dutch oven
+    PREP: to
+
+
+SENTID: 8
+SENT: Blend cornstarch and 3 tablespoons cold water ;
+PREDID: 0
+PRED: blend
+  DOBJ: cornstarch, 3 tablespoons cold water
+
+
+SENTID: 9
+SENT: stir into pan juices .
+PREDID: 0
+PRED: stir
+  PARG: pan juices
+    PREP: into
+
+
+SENTID: 10
+SENT: Cook and stir till thickened and bubbly .
+PREDID: 0
+PRED: cook
+  PARG: thickened
+    PREP: till
+
+PREDID: 1
+PRED: stir
+  OARG: bubbly
+
+
+SENTID: 11
+SENT: Slice meat thinly against the grain .
+PREDID: 0
+PRED: slice
+  DOBJ: meat
+  PARG: the grain
+    PREP: against
+  OARG: thinly
+
+
+SENTID: 12
+SENT: Return meat to pot , and add mushrooms .
+PREDID: 0
+PRED: return
+  DOBJ: meat
+  PARG: pot
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: mushrooms
+
+
+SENTID: 13
+SENT: Simmer for 30 minutes longer .
+PREDID: 0
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+  OARG: longer
+
+
+SENTID: 14
+SENT: Cook pasta in a large pot of boiling water until done .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: done
+    PREP: until
+
+
+SENTID: 15
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 16
+SENT: To serve , place meat slices over hot noodles , and pour some sauce over .
+PREDID: 0
+PRED: place
+  DOBJ: meat slices
+  PARG: serve
+    PREP: to
+  PARG: hot noodles
+    PREP: over
+
+PREDID: 1
+PRED: pour
+  DOBJ: some sauce
+
+
+SENTID: 17
+SENT: Pass remaining sauce .
+PREDID: 0
+PRED: pass
+  DOBJ: remaining sauce
+

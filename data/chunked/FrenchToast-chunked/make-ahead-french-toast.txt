@@ -1,0 +1,76 @@
+SENTID: 0
+SENT: In a large bowl , whisk together eggs , milk , cream and vanilla .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs , milk , cream, vanilla
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Dip bread slices into egg mixture and place in a lightly greased 9x13 inch baking pan .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: egg mixture
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: a lightly greased 9x13 inch baking pan
+    PREP: in
+
+
+SENTID: 2
+SENT: Refrigerate overnight .
+PREDID: 0
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a small bowl , combine butter , sugar , maple syrup and pecans .
+PREDID: 0
+PRED: combine
+  DOBJ: butter , sugar , maple syrup, pecans
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Spoon mixture over bread .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: bread
+    PREP: over
+
+
+SENTID: 6
+SENT: Bake in preheated oven until golden , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: golden , about 40 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Let stand 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 5 minutes
+

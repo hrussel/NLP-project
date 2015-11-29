@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: Pour the coleslaw mix into a large bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: the coleslaw mix
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Pour in the lime juice , rice vinegar , fish sauce , sesame oil , honey , and peanuts .
+PREDID: 0
+PRED: pour
+  PARG: the lime juice , rice vinegar , fish sauce , sesame oil , honey , peanuts
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir until well blended .
+PREDID: 0
+PRED: stir
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 3
+SENT: Taste , and season with salt and pepper .
+PREDID: 0
+PRED: taste
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Refrigerate for a few hours , stirring or shaking occasionally , to allow the flavors to blend before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: a few hours , stirring or shaking
+    PREP: for
+  PARG: blend
+    PREP: to
+  PARG: serving
+    PREP: before
+  OARG: occasionally
+  OARG: to allow the flavors
+

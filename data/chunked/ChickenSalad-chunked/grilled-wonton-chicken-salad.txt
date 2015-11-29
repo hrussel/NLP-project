@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: Place chicken breasts in a bowl , pour teriyaki sauce over them , and coat well .
+PREDID: 0
+PRED: place
+  DOBJ: chicken breasts
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: teriyaki sauce
+  PARG: them , coat
+    PREP: over
+  OARG: well
+
+
+SENTID: 1
+SENT: Cover , and refrigerate for 1 hour .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 2
+SENT: Preheat an outdoor grill for direct heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: direct heat
+    PREP: for
+
+
+SENTID: 3
+SENT: For the dressing , place green onions , salt , pepper , and sugar in a blender .
+PREDID: 0
+PRED: place
+  DOBJ: green onions , salt , pepper , sugar
+  PARG: the dressing
+    PREP: for
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour in olive oil and rice vinegar .
+PREDID: 0
+PRED: pour
+  PARG: olive oil, rice vinegar
+    PREP: in
+
+
+SENTID: 5
+SENT: Blend until smooth .
+PREDID: 0
+PRED: blend
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove to a bowl , cover , and refrigerate until ready to serve .
+PREDID: 0
+PRED: remove
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+
+
+SENTID: 7
+SENT: Grill chicken , turning , until done .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken , turning
+  PARG: done
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove to a cutting board , and cut into strips .
+PREDID: 0
+PRED: remove
+  PARG: a cutting board
+    PREP: to
+
+PREDID: 1
+PRED: cut
+  PARG: strips
+    PREP: into
+
+
+SENTID: 9
+SENT: In a large skillet or wok , warm oil over medium-high heat .
+PREDID: 0
+PRED: warm
+  DOBJ: oil
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 10
+SENT: Cut wonton wrappers into strips .
+PREDID: 0
+PRED: cut
+  DOBJ: wonton wrappers
+  PARG: strips
+    PREP: into
+
+
+SENTID: 11
+SENT: Fry wonton strips until crisp .
+PREDID: 0
+PRED: fry
+  DOBJ: wonton strips
+  PARG: crisp
+    PREP: until
+
+
+SENTID: 12
+SENT: Remove to paper towels .
+PREDID: 0
+PRED: remove
+  PARG: paper towels
+    PREP: to
+
+
+SENTID: 13
+SENT: In a large bowl , toss together lettuce , water chestnuts , sesame seeds , sliced almonds , and mandarin oranges .
+PREDID: 0
+PRED: toss
+  DOBJ: lettuce , water chestnuts , sesame seeds , sliced almonds , mandarin oranges
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 14
+SENT: Pour dressing over salad , and toss gently .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  OARG: gently
+
+
+SENTID: 15
+SENT: Top with fried wontons and grilled chicken strips .
+PREDID: 0
+PRED: top
+  PARG: fried wontons, grilled chicken strips
+    PREP: with
+

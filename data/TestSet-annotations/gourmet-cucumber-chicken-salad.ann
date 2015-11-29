@@ -1,0 +1,27 @@
+T1	arg_location 0 15	In a salad bowl
+T2	predicate 16 23	combine
+T3	arg_object 24 35	the chicken
+T4	arg_object 37 43	grapes
+T5	arg_object 45 59	pecans/almonds
+T6	arg_object 61 67	celery
+T7	arg_object 69 76	oranges
+T8	arg_object 81 95	salad dressing
+R1	location Arg1:T2 Arg2:T1	
+R2	object Arg1:T2 Arg2:T3	
+R3	object Arg1:T2 Arg2:T4	
+R4	object Arg1:T2 Arg2:T5	
+R5	object Arg1:T2 Arg2:T6	
+R6	object Arg1:T2 Arg2:T7	
+R7	object Arg1:T2 Arg2:T8	
+T9	predicate 97 101	Toss
+R8	object Arg1:T9 Arg2:T2	
+T10	arg_other 102 109	to coat
+T11	predicate 114 119	serve
+R9	object Arg1:T11 Arg2:T9	
+R10	other Arg1:T9 Arg2:T10	
+T12	ingredient 24 35	the chicken
+T13	ingredient 37 43	grapes
+T14	ingredient 45 59	pecans/almonds
+T15	ingredient 61 67	celery
+T16	ingredient 69 76	oranges
+T17	ingredient 81 95	salad dressing

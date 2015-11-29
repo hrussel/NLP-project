@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Place the beans and water in a large pot .
+PREDID: 0
+PRED: place
+  DOBJ: the beans, water
+  PARG: a large pot
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook until the beans are almost tender , about 1Ê1/2 hours .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: the beans are almost tender , about 1Ê1/2 hours
+    PREP: until
+
+
+SENTID: 2
+SENT: Season with 1Ê1/2 teaspoons of chili powder , and 1Ê1/2 teaspoons of salt .
+PREDID: 0
+PRED: season
+  PARG: 1Ê1/2 teaspoons of chili powder , 1Ê1/2 teaspoons of salt
+    PREP: with
+
+
+SENTID: 3
+SENT: While the beans are cooking , crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: the beans are cooking
+    PREP: while
+  PARG: a large skillet
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add onion and garlic ;
+PREDID: 0
+PRED: add
+  DOBJ: onion, garlic
+
+
+SENTID: 5
+SENT: cook and stir until onion is tender and meat is browned .
+PREDID: 0
+PRED: cook
+  PARG: onion is tender, meat is browned
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Drain off excess grease , and stir in the tomato puree , 1 tablespoon chili powder , 1 tablespoon salt and bread crumbs .
+PREDID: 0
+PRED: drain
+  PARG: excess grease
+    PREP: off
+
+PREDID: 1
+PRED: stir
+  PARG: the tomato puree , 1 tablespoon chili powder , 1 tablespoon salt, bread crumbs
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir into the pot with the beans , adding more water if needed to achieve your desired thickness .
+PREDID: 0
+PRED: stir
+  PARG: the pot
+    PREP: into
+  PARG: the beans , adding more water
+    PREP: with
+  PARG: needed
+    PREP: if
+  OARG: to achieve your desired thickness
+

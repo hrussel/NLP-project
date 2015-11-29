@@ -1,0 +1,152 @@
+SENTID: 0
+SENT: Heat oven to 350 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Brown meat in large skillet on medium-high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: meat
+  PARG: large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: on
+
+
+SENTID: 2
+SENT: Meanwhile , mix 1Ê1/4 cups mozzarella , ricotta cheese , 1/4 cup Parmesan , parsley and egg until well blended ;
+PREDID: 0
+PRED: mix
+  DOBJ: 1Ê1/4 cups mozzarella , ricotta cheese , 1/4 cup parmesan , parsley, egg
+  PARG: well blended
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Drain meat ;
+PREDID: 0
+PRED: drain
+  DOBJ: meat
+
+
+SENTID: 5
+SENT: return to skillet .
+PREDID: 0
+PRED: return
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 6
+SENT: Stir in spaghetti sauce .
+PREDID: 0
+PRED: stir
+  PARG: spaghetti sauce
+    PREP: in
+
+
+SENTID: 7
+SENT: Add 1 cup water to empty sauce jar ;
+PREDID: 0
+PRED: add
+  DOBJ: 1 cup water
+  OARG: to empty sauce jar
+
+
+SENTID: 8
+SENT: cover with lid and shake well .
+PREDID: 0
+PRED: cover
+  PARG: lid
+    PREP: with
+
+PREDID: 1
+PRED: shake
+  OARG: well
+
+
+SENTID: 9
+SENT: Add to meat mixture ;
+PREDID: 0
+PRED: add
+  PARG: meat mixture
+    PREP: to
+
+
+SENTID: 10
+SENT: stir until well blended .
+PREDID: 0
+PRED: stir
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 11
+SENT: Spread 1 cup meat sauce onto bottom of 13x9-inch baking dish ;
+PREDID: 0
+PRED: spread
+  DOBJ: 1 cup meat sauce
+  PARG: bottom of 13x9-inch baking dish
+    PREP: onto
+
+
+SENTID: 12
+SENT: top with layers of 3 lasagna noodles , 1/3 of the ricotta cheese mixture and 1 cup meat sauce .
+PREDID: 0
+PRED: top
+  PARG: layers of 3 lasagna noodles , 1/3 of the ricotta cheese mixture, 1 cup meat sauce
+    PREP: with
+
+
+SENTID: 13
+SENT: Repeat layers twice .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  OARG: twice
+
+
+SENTID: 14
+SENT: Top with remaining noodles , meat sauce and cheeses .
+PREDID: 0
+PRED: top
+  PARG: remaining noodles , meat sauce, cheeses
+    PREP: with
+
+
+SENTID: 15
+SENT: Cover with greased foil .
+PREDID: 0
+PRED: cover
+  PARG: greased foil
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake 1 hour or until heated through , removing foil after 45 min .
+PREDID: 0
+PRED: bake
+  PARG: heated through , removing foil after 45 min
+    PREP: until
+  OARG: 1 hour
+
+
+SENTID: 17
+SENT: Let stand 15 min .
+PREDID: 0
+PRED: let
+  DOBJ: stand 15 min
+

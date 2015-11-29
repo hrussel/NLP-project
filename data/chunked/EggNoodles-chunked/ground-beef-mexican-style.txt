@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: In a large nonstick skillet , cook and stir ground beef until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+  PARG: a large nonstick skillet
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off excess fat .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+
+SENTID: 2
+SENT: Stir in salsa and water .
+PREDID: 0
+PRED: stir
+  PARG: salsa, water
+    PREP: in
+
+
+SENTID: 3
+SENT: Simmer for 10 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Meanwhile , cook pasta in boiling water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: boiling water
+    PREP: in
+  PARG: al dente
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Stir in green pepper and onions , and continue simmering until veggies are crisp/tender .
+PREDID: 0
+PRED: stir
+  PARG: green pepper, onions , continue simmering
+    PREP: in
+  PARG: veggies are crisp/tender
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in noodles and sour cream .
+PREDID: 0
+PRED: stir
+  PARG: noodles, sour cream
+    PREP: in
+
+
+SENTID: 8
+SENT: Sprinkle grated cheese on top , and cover pan until the cheese melts .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: grated cheese
+  PARG: top
+    PREP: on
+
+PREDID: 1
+PRED: cover
+  DOBJ: pan
+  PARG: the cheese melts
+    PREP: until
+
+
+SENTID: 9
+SENT: Sprinkle chopped tomatoes on the top , and serve .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chopped tomatoes
+  PARG: the top
+    PREP: on
+
+PREDID: 1
+PRED: serve
+

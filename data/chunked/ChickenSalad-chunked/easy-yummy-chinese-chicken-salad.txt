@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: In a saucepan over medium heat , whisk together the vegetable oil , rice vinegar , soy sauce and ramen noodle flavor packets .
+PREDID: 0
+PRED: whisk
+  DOBJ: the vegetable oil , rice vinegar , soy sauce, ramen noodle flavor packets
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: together
+
+
+SENTID: 1
+SENT: Bring dressing to the point of boiling , remove from heat and refrigerate until chilled .
+PREDID: 0
+PRED: bring
+  DOBJ: dressing
+  PARG: the point of boiling
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+
+
+SENTID: 2
+SENT: In a large bowl , combine the cabbage , lettuce , green onions , broken noodles , chicken and almonds .
+PREDID: 0
+PRED: combine
+  DOBJ: the cabbage , lettuce , green onions , broken noodles , chicken, almonds
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour dressing over salad and toss to coat .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Sprinkle with fresh cilantro and serve .
+PREDID: 0
+PRED: sprinkle
+  PARG: fresh cilantro
+    PREP: with
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,56 @@
+SENTID: 0
+SENT: Combine pumpkin puree , eggs , sugar substitute , salt , pumpkin pie spice , water , and instant milk ;
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin puree , eggs , sugar substitute , salt , pumpkin pie spice , water , instant milk
+
+
+SENTID: 1
+SENT: mix until smooth and creamy .
+PREDID: 0
+PRED: mix
+  PARG: smooth, creamy
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour filling into a unbaked pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: a unbaked pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Grate nutmeg over filling .
+PREDID: 0
+PRED: grate
+  DOBJ: nutmeg
+  PARG: filling
+    PREP: over
+
+
+SENTID: 4
+SENT: Bake at 425 degrees F -LRB- 220 degrees -RRB- for 13 to 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 425 degrees f -lrb- 220 degrees -rrb-
+    PREP: at
+  PARG: 13 to 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- , and continue to cook another 40 to 45 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  PARG: cook another 40 to 45 minutes
+    PREP: to
+

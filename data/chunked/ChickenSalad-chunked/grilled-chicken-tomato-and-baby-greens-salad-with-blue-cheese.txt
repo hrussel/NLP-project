@@ -1,0 +1,79 @@
+SENTID: 0
+SENT: Heat grill to medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: grill
+  PARG: medium-high heat
+    PREP: to
+
+
+SENTID: 1
+SENT: Brush chicken with oil ;
+PREDID: 0
+PRED: brush
+  DOBJ: chicken
+  PARG: oil
+    PREP: with
+
+
+SENTID: 2
+SENT: season with salt and pepper , to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 3
+SENT: Grill 8 to 12 minutes or until no longer pink in the center -LRB- 165 degrees F -RRB- , turning once .
+PREDID: 0
+PRED: grill
+  PARG: no longer pink in the center -lrb- 165 degrees f -rrb- , turning once
+    PREP: until
+  OARG: 8 to 12 minutes
+
+
+SENTID: 4
+SENT: Cool chicken enough to handle ;
+PREDID: 0
+PRED: cool
+  DOBJ: chicken
+  PARG: handle
+    PREP: to
+  OARG: enough
+
+
+SENTID: 5
+SENT: slice into thin strips .
+PREDID: 0
+PRED: slice
+  PARG: thin strips
+    PREP: into
+
+
+SENTID: 6
+SENT: Combine salad blend , tomatoes from pouch , cooked sliced chicken , avocado , bacon , egg and blue cheese in large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: salad
+
+PREDID: 1
+PRED: blend
+  DOBJ: tomatoes
+  PARG: pouch , cooked sliced chicken , avocado , bacon , egg, blue cheese
+    PREP: from
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Toss with blue cheese dressing , to taste .
+PREDID: 0
+PRED: toss
+  PARG: blue cheese dressing
+    PREP: with
+  PARG: taste
+    PREP: to
+

@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook macaroni according to package directions ;
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Cover and keep warm .
+PREDID: 0
+PRED: cover
+  DOBJ: warm
+
+PREDID: 1
+PRED: keep
+
+
+SENTID: 4
+SENT: Meanwhile , for cheese sauce , melt the 2 tablespoons butter over medium heat in a medium saucepan .
+PREDID: 0
+PRED: melt
+  DOBJ: the 2 tablespoons butter
+  PARG: cheese sauce
+    PREP: for
+  PARG: medium heat
+    PREP: over
+  PARG: a medium saucepan
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Stir in flour , mustard , salt and pepper until combined .
+PREDID: 0
+PRED: stir
+  PARG: flour , mustard , salt, pepper
+    PREP: in
+  PARG: combined
+    PREP: until
+
+
+SENTID: 6
+SENT: Add milk all at once .
+PREDID: 0
+PRED: add
+  DOBJ: milk all at
+  OARG: once
+
+
+SENTID: 7
+SENT: Cook and stir for 5 minutes or until thick and bubbly .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+  PARG: thick, bubbly
+    PREP: until
+
+
+SENTID: 8
+SENT: Cook and stir for 2 more minutes .
+PREDID: 0
+PRED: cook
+  PARG: 2 more minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 9
+SENT: Remove saucepan from heat .
+PREDID: 0
+PRED: remove
+  DOBJ: saucepan
+  PARG: heat
+    PREP: from
+
+
+SENTID: 10
+SENT: Add cheddar and mozzarella cheeses , stirring until cheese is melted and sauce is smooth .
+PREDID: 0
+PRED: add
+  DOBJ: cheddar, mozzarella cheeses , stirring
+  PARG: cheese is melted, sauce is smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir cheese sauce and canned peas into the cooked macaroni .
+PREDID: 0
+PRED: stir
+  DOBJ: cheese sauce, canned peas
+  PARG: the cooked macaroni
+    PREP: into
+
+
+SENTID: 12
+SENT: Heat through .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 13
+SENT: Pour into a greased 2-quart baking dish .
+PREDID: 0
+PRED: pour
+  PARG: a greased 2-quart baking dish
+    PREP: into
+
+
+SENTID: 14
+SENT: Combine breadcrumbs , Parmesan cheese and the 2 teaspoons melted butter in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: breadcrumbs , parmesan cheese, the 2 teaspoons melted butter
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 15
+SENT: Sprinkle over macaroni .
+PREDID: 0
+PRED: sprinkle
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 16
+SENT: Bake , uncovered , for 20 minutes or until topping is golden brown .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: 20 minutes
+    PREP: for
+  PARG: topping is golden brown
+    PREP: until
+
+
+SENTID: 17
+SENT: Let stand for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

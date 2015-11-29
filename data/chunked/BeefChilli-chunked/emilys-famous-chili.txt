@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: In a large pot over medium-high heat , cook beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large pot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain and return to pot .
+PREDID: 0
+PRED: drain
+  PARG: pot
+    PREP: to
+
+PREDID: 1
+PRED: return
+
+
+SENTID: 2
+SENT: Stir in onions , bell peppers and jalapenos and cook until tender .
+PREDID: 0
+PRED: stir
+  PARG: onions , bell peppers, jalapenos
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in garlic and cook 1 minute more .
+PREDID: 0
+PRED: stir
+  PARG: garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 1 minute more
+
+
+SENTID: 4
+SENT: Season with chili powder , cumin , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: chili powder , cumin , salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir in the tomato paste and kidney beans with their liquid .
+PREDID: 0
+PRED: stir
+  PARG: the tomato paste, kidney beans
+    PREP: in
+  PARG: their liquid
+    PREP: with
+
+
+SENTID: 6
+SENT: In a food processor or blender , puree the tomatoes with the chipotle peppers until smooth .
+PREDID: 0
+PRED: puree
+  DOBJ: the tomatoes
+  PARG: a food processor or blender
+    PREP: in
+  PARG: the chipotle peppers
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir into the pot with 3 cups of water .
+PREDID: 0
+PRED: stir
+  PARG: the pot
+    PREP: into
+  PARG: 3 cups of water
+    PREP: with
+
+
+SENTID: 8
+SENT: Combine the remaining 1 cup water with the flour in a jar and shake to combine .
+PREDID: 0
+PRED: combine
+  DOBJ: the remaining 1 cup water
+  PARG: the flour
+    PREP: with
+  PARG: a jar
+    PREP: in
+
+PREDID: 1
+PRED: shake
+  PARG: combine
+    PREP: to
+
+
+SENTID: 9
+SENT: Pour into the chili and stir in the vinegar .
+PREDID: 0
+PRED: pour
+  PARG: the chili
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: the vinegar
+    PREP: in
+
+
+SENTID: 10
+SENT: Simmer about 45 minutes before serving .
+PREDID: 0
+PRED: simmer
+  PARG: 45 minutes
+    PREP: about
+  PARG: serving
+    PREP: before
+

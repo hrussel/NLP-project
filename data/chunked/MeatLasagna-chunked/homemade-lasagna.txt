@@ -1,0 +1,158 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 4
+SENT: Place pork and beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: pork, beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 5
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in tomato sauce , crushed tomatoes , parsley , garlic , oregano , onion , sugar , basil and salt .
+PREDID: 0
+PRED: stir
+  PARG: tomato sauce , crushed tomatoes , parsley , garlic , oregano , onion , sugar , basil, salt
+    PREP: in
+
+
+SENTID: 7
+SENT: Simmer over medium-low heat for 30 minutes , stirring occasionally .
+PREDID: 0
+PRED: simmer
+  PARG: medium-low heat
+    PREP: over
+  PARG: 30 minutes , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: In a large bowl , combine cottage cheese , eggs , Parmesan cheese , parsley , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: cottage cheese , eggs , parmesan cheese , parsley , salt, pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: In a 9x13 inch baking dish , place 2 layers of noodles on the bottom of dish ;
+PREDID: 0
+PRED: place
+  DOBJ: 2 layers of noodles
+  PARG: a 9x13 inch baking dish
+    PREP: in
+  PARG: the bottom of dish
+    PREP: on
+
+
+SENTID: 10
+SENT: layer 1/2 of the cheese mixture , 1/2 of the mozzarella cheese and 1/2 of the sauce ;
+PREDID: 0
+PRED: layer
+  DOBJ: 1/2 of the cheese mixture , 1/2 of the mozzarella cheese, 1/2 of the sauce
+
+
+SENTID: 11
+SENT: repeat layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+
+SENTID: 12
+SENT: Cover with aluminum foil and bake in preheated oven for 30 to 40 minutes .
+PREDID: 0
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 to 40 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Remove foil and bake for another 5 to 10 minutes ;
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: another 5 to 10 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: let stand for 10 minutes before cutting ;
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+
+
+SENTID: 15
+SENT: serve .
+PREDID: 0
+PRED: serve
+

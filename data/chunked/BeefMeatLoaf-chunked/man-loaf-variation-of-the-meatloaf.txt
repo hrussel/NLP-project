@@ -1,0 +1,234 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x15-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x15-inch baking dish
+
+
+SENTID: 2
+SENT: Place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until beginning to brown , but still limp .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: beginning to brown , but still limp
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Remove 1/4 of the bacon to drain on a paper towel-lined plate .
+PREDID: 0
+PRED: remove
+  DOBJ: 1/4 of the bacon
+  PARG: drain
+    PREP: to
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 4
+SENT: Cut each strip in half , and set aside .
+PREDID: 0
+PRED: cut
+  DOBJ: each strip
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Continue cooking the remaining bacon until evenly browned , about 10 minutes total .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking the remaining bacon
+  PARG: evenly browned , about 10 minutes total
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain the bacon slices on a paper towel-lined plate .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 7
+SENT: Crumble once cool .
+PREDID: 0
+PRED: crumble
+  OARG: once
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 8
+SENT: Beat the eggs with 1/4 of the crumbled bacon in a large mixing bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: 1/4 of the crumbled bacon
+    PREP: with
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Stir in the onions , salt , and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: the onions , salt , black pepper
+    PREP: in
+
+
+SENTID: 10
+SENT: Mix in the ground beef and bread crumbs until evenly mixed .
+PREDID: 0
+PRED: mix
+  PARG: the ground beef, bread crumbs
+    PREP: in
+  PARG: evenly mixed
+    PREP: until
+
+
+SENTID: 11
+SENT: Cover a work surface with two 20-inch sheets of waxed paper .
+PREDID: 0
+PRED: cover
+  DOBJ: a work surface
+  PARG: two 20-inch sheets of waxed paper
+    PREP: with
+
+
+SENTID: 12
+SENT: Pat the beef mixture into a 14x18-inch rectangle .
+PREDID: 0
+PRED: pat
+  DOBJ: the beef mixture
+  PARG: a 14x18-inch rectangle
+    PREP: into
+
+
+SENTID: 13
+SENT: Sprinkle evenly with Cheddar cheese and the remaining crumbled bacon .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheddar cheese, the remaining crumbled bacon
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 14
+SENT: Roll the beef into a cylinder from one of the short ends to form a 14-inch-long loaf .
+PREDID: 0
+PRED: roll
+  DOBJ: the beef
+  PARG: a cylinder
+    PREP: into
+  PARG: one of the short ends
+    PREP: from
+  PARG: form a 14-inch-long loaf
+    PREP: to
+
+
+SENTID: 15
+SENT: Pinch the ends to seal in the cheese .
+PREDID: 0
+PRED: pinch
+  DOBJ: the ends
+  PARG: seal
+    PREP: to
+  PARG: the cheese
+    PREP: in
+
+
+SENTID: 16
+SENT: Place into the prepared baking dish .
+PREDID: 0
+PRED: place
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 17
+SENT: Bake in the preheated oven for 30 minutes , then brush with the barbeque sauce , and return to the oven for 20 minutes longer .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: brush
+  PARG: the barbeque sauce
+    PREP: with
+
+PREDID: 2
+PRED: return
+  PARG: the oven
+    PREP: to
+  PARG: 20 minutes
+    PREP: for
+  OARG: longer
+
+
+SENTID: 18
+SENT: Remove the manloaf from the oven , and drape with the precooked bacon strips .
+PREDID: 0
+PRED: remove
+  DOBJ: the manloaf
+  PARG: the oven , drape
+    PREP: from
+  PARG: the precooked bacon strips
+    PREP: with
+
+
+SENTID: 19
+SENT: Sprinkle with the shredded Swiss cheese , and bake to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- , about 15 minutes more .
+PREDID: 0
+PRED: sprinkle
+  PARG: the shredded swiss cheese
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: an internal temperature of 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: to
+  PARG: 15 minutes more
+    PREP: about
+
+
+SENTID: 20
+SENT: Let stand for 10 to 15 minutes before slicing .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+

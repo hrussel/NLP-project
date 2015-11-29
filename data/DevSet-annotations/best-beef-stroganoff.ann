@@ -1,0 +1,143 @@
+T1	predicate 0 5	Bring
+T2	predicate 53 56	Add
+T3	predicate 115 119	Melt
+T4	arg_object 120 126	butter
+T5	predicate 170 177	Stir in
+R1	object Arg1:T3 Arg2:T4	
+T6	arg_location 127 146	in a large saucepan
+R2	location Arg1:T3 Arg2:T6	
+T7	predicate 229 235	Mix in
+T8	predicate 335 341	Mix in
+T9	predicate 423 428	blend
+T10	predicate 465 471	Reduce
+T12	predicate 528 532	pour
+T13	predicate 572 578	return
+T15	predicate 644 649	Cover
+T18	predicate 714 720	Remove
+T19	predicate 774 779	Serve
+T20	predicate 732 740	let cool
+T21	predicate 754 761	stir in
+T23	predicate 378 383	Bring
+T24	predicate 279 284	Place
+T25	predicate 314 318	cook
+T26	arg_object 6 41	a large pot of lightly salted water
+T27	arg_duration 42 51	to a boil
+R3	object Arg1:T1 Arg2:T26	
+R4	duration Arg1:T1 Arg2:T27	
+T28	predicate 69 73	cook
+T29	arg_duration 74 106	5 to 7 minutes or until al dente
+T30	predicate 108 113	drain
+T31	arg_object 57 64	noodles
+R5	object Arg1:T2 Arg2:T31	
+R6	duration Arg1:T28 Arg2:T29	
+T32	arg_other 147 168	over medium-high heat
+R8	other Arg1:T3 Arg2:T32	
+T33	arg_object 178 184	onions
+T34	arg_object 189 195	garlic
+R9	object Arg1:T5 Arg2:T33	
+R10	object Arg1:T5 Arg2:T34	
+T35	predicate 201 205	cook
+R11	object Arg1:T30 Arg2:T28	
+R12	object Arg1:T28 Arg2:T2	
+T36	arg_duration 206 227	until slightly tender
+R13	duration Arg1:T35 Arg2:T36	
+R14	object Arg1:T35 Arg2:T5	
+T16	predicate 663 679	continue cooking
+T22	predicate 251 267	continue cooking
+T37	arg_duration 268 277	2 minutes
+R15	duration Arg1:T22 Arg2:T37	
+T38	arg_object 236 245	mushrooms
+R16	object Arg1:T22 Arg2:T7	
+R17	object Arg1:T7 Arg2:T38	
+T39	arg_object 285 297	steak strips
+T40	arg_location 298 309	in saucepan
+T41	arg_duration 319 333	about 1 minute
+R18	object Arg1:T24 Arg2:T39	
+R19	location Arg1:T24 Arg2:T40	
+R20	duration Arg1:T25 Arg2:T41	
+R21	object Arg1:T25 Arg2:T24	
+T42	arg_object 342 350	consomme
+T43	arg_object 352 360	Burgundy
+T44	arg_object 365 376	lemon juice
+R22	object Arg1:T8 Arg2:T42	
+R23	object Arg1:T8 Arg2:T43	
+R24	object Arg1:T8 Arg2:T44	
+T45	arg_duration 384 393	to a boil
+R25	duration Arg1:T23 Arg2:T45	
+T46	arg_location 395 410	In a small bowl
+T47	arg_object 429 434	flour
+T48	arg_co-object 435 450	with cold water
+T49	arg_duration 451 463	until smooth
+R26	object Arg1:T9 Arg2:T47	
+R27	co-object Arg1:T9 Arg2:T48	
+R28	duration Arg1:T9 Arg2:T49	
+R29	location Arg1:T9 Arg2:T46	
+T51	arg_duration 486 492	to low
+T53	arg_object 533 546	flour mixture
+T54	arg_location 547 560	into saucepan
+R32	object Arg1:T12 Arg2:T53	
+R33	location Arg1:T12 Arg2:T54	
+T55	arg_duration 579 586	to boil
+T58	arg_duration 680 689	5 minutes
+T59	arg_object 650 658	saucepan
+R39	object Arg1:T15 Arg2:T59	
+T61	arg_co-object 780 803	over cooked egg noodles
+R40	co-object Arg1:T19 Arg2:T61	
+T62	arg_object 762 772	sour cream
+R41	object Arg1:T21 Arg2:T62	
+R42	object Arg1:T20 Arg2:T18	
+R43	object Arg1:T21 Arg2:T20	
+R45	co-object Arg1:T5 Arg2:T3	
+R46	co-object Arg1:T7 Arg2:T35	
+R47	co-object Arg1:T8 Arg2:T25	
+R48	object Arg1:T23 Arg2:T8	
+R50	object Arg1:T13 Arg2:T12	
+R52	object Arg1:T16 Arg2:T15	
+R56	object Arg1:T19 Arg2:T21	
+T11	arg_other 494 519	While stirring constantly
+R7	other Arg1:T12 Arg2:T11	
+T64	Evolution 533 546	flour mixture
+E4	Evolution:T64 Cause:T9
+T14	arg_duration 611 642	until sauce is thick and smooth
+R34	duration Arg1:T13 Arg2:T55	
+R35	duration Arg1:T13 Arg2:T14	
+T56	arg_other 587 609	while stirring rapidly
+R36	other Arg1:T13 Arg2:T56	
+R37	duration Arg1:T16 Arg2:T58	
+T17	arg_other 691 712	stirring occasionally
+R38	other Arg1:T16 Arg2:T17	
+R49	object Arg1:T18 Arg2:T16	
+T57	arg_location 721 730	from heat
+R51	location Arg1:T18 Arg2:T57	
+T66	Evolution 785 803	cooked egg noodles
+E6	Evolution:T66 Cause:T30
+R44	location Arg1:T2 Arg2:T1	
+T67	arg_other 412 422	thoroughly
+T68	arg_other 521 527	slowly
+R53	other Arg1:T12 Arg2:T68	
+R54	other Arg1:T9 Arg2:T67	
+T69	arg_other 741 749	slightly
+R55	other Arg1:T20 Arg2:T69	
+T70	ingredient 57 64	noodles
+T71	ingredient 120 126	butter
+T72	ingredient 178 184	onions
+T73	ingredient 189 195	garlic
+T74	ingredient 236 245	mushrooms
+T75	ingredient 285 297	steak strips
+T76	ingredient 342 350	consomme
+T77	ingredient 352 360	Burgundy
+T78	ingredient 365 376	lemon juice
+T79	ingredient 429 434	flour
+T80	ingredient 440 450	cold water
+T81	ingredient 762 772	sour cream
+T82	ingredient 6 41	a large pot of lightly salted water
+R57	co-object Arg1:T30 Arg2:T28	
+T50	arg_object 472 485	saucepan heat
+R30	object Arg1:T10 Arg2:T50	
+R31	co-object Arg1:T10 Arg2:T23	
+R58	duration Arg1:T10 Arg2:T51	
+R59	same-location Arg1:T40 Arg2:T6	
+R60	co-object Arg1:T24 Arg2:T22	
+R61	same-location Arg1:T54 Arg2:T40	
+R62	co-object Arg1:T12 Arg2:T10	
+R63	co-object Arg1:T15 Arg2:T13	

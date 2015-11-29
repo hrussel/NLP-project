@@ -1,0 +1,87 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In large skillet over medium heat , cook beef until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Combine with taco seasoning and refried beans .
+PREDID: 0
+PRED: combine
+  PARG: taco seasoning, refried beans
+    PREP: with
+
+
+SENTID: 4
+SENT: Spread half of mixture in 9x13 inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: half of mixture
+  PARG: 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 5
+SENT: Top with two tortillas , trimming if necessary , and half of cheese .
+PREDID: 0
+PRED: top
+  PARG: two tortillas , trimming
+    PREP: with
+  PARG: necessary , half of cheese
+    PREP: if
+
+
+SENTID: 6
+SENT: Repeat layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+
+SENTID: 7
+SENT: Bake 35 to 45 minutes until heated through and cheese is bubbly .
+PREDID: 0
+PRED: bake
+  PARG: heated through, cheese is bubbly
+    PREP: until
+  OARG: 35 to 45 minutes
+
+
+SENTID: 8
+SENT: Top with green onions and tomatoes .
+PREDID: 0
+PRED: top
+  PARG: green onions, tomatoes
+    PREP: with
+
+
+SENTID: 9
+SENT: Let cool 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: cool 5 minutes
+

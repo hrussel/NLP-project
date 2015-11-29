@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: In a large pot cook lasagna noodles in boiling salted water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Rinse with cool water .
+PREDID: 0
+PRED: rinse
+  PARG: cool water
+    PREP: with
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In large sauce pan cook ground beef .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef
+  PARG: large sauce pan
+    PREP: in
+
+
+SENTID: 4
+SENT: Drain excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 5
+SENT: Combine tomato sauces and tomato paste with ground beef and simmer until bubbly .
+PREDID: 0
+PRED: combine
+  DOBJ: tomato sauces, tomato paste
+  PARG: ground beef
+    PREP: with
+
+PREDID: 1
+PRED: simmer
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 6
+SENT: Add garlic salt and Italian seasoning and reduce heat to low simmer .
+PREDID: 0
+PRED: add
+  DOBJ: garlic salt, italian seasoning
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low simmer
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook for 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: To assemble , in the bottom of a 13x9 inch baking dish spread a thin layer of sauce .
+PREDID: 0
+PRED: spread
+  DOBJ: a thin layer of sauce
+  PARG: the bottom of a 13x9 inch baking dish
+    PREP: in
+  OARG: to assemble
+
+
+SENTID: 9
+SENT: Next , add a layer of noodles , ricotta cheese , sauce/ground beef mixture , and then grated mozzarella cheese .
+PREDID: 0
+PRED: add
+  DOBJ: a layer of noodles , ricotta cheese , sauce/ground beef mixture
+  OARG: next
+  OARG: then
+
+
+SENTID: 10
+SENT: Repeat until baking dish is filled .
+PREDID: 0
+PRED: repeat
+  PARG: baking dish is filled
+    PREP: until
+
+
+SENTID: 11
+SENT: Garnish top with additional shredded mozzarella cheese .
+PREDID: 0
+PRED: garnish
+  DOBJ: top
+  PARG: additional shredded mozzarella cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: In a preheated 375 degree F -LRB- 190 degree C -RRB- oven bake for 30 minutes or until bubbly .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 375 degree f -lrb- 190 degree c -rrb- oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 13
+SENT: Let stand for 15 minutes and serve .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 15 minutes
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

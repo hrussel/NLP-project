@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Combine flour , salt and baking powder .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , salt, baking powder
+
+
+SENTID: 1
+SENT: Mix in eggs and enough water to make the dough workable .
+PREDID: 0
+PRED: mix
+  DOBJ: water
+  PARG: eggs
+    PREP: in
+  PARG: make the dough workable
+    PREP: to
+  OARG: enough
+
+
+SENTID: 2
+SENT: Knead dough until stiff .
+PREDID: 0
+PRED: knead
+  DOBJ: dough
+  PARG: stiff
+    PREP: until
+
+
+SENTID: 3
+SENT: Roll into ball and cut into quarters .
+PREDID: 0
+PRED: roll
+  PARG: ball
+    PREP: into
+
+PREDID: 1
+PRED: cut
+  PARG: quarters
+    PREP: into
+
+
+SENTID: 4
+SENT: Using 1/4 of the dough at a time , roll flat to about 1/8 inch use flour as needed , top and bottom , to prevent sticking .
+PREDID: 0
+PRED: roll
+  DOBJ: using 1/4 of the dough
+  PARG: a time
+    PREP: at
+  PARG: about 1/8 inch use flour
+    PREP: to
+  PARG: needed , top, bottom
+    PREP: as
+  OARG: to prevent sticking
+
+
+SENTID: 5
+SENT: Peel up and roll from one end to the other .
+PREDID: 0
+PRED: peel
+  PARG: one end
+    PREP: from
+  OARG: up
+
+PREDID: 1
+PRED: roll
+  PARG: the other
+    PREP: to
+
+
+SENTID: 6
+SENT: Cut roll into 3/8 inch strips .
+PREDID: 0
+PRED: cut
+  DOBJ: roll
+  PARG: 3/8 inch strips
+    PREP: into
+
+
+SENTID: 7
+SENT: Let dry for 1 to 3 hours .
+PREDID: 0
+PRED: let
+  DOBJ: dry
+  PARG: 1 to 3 hours
+    PREP: for
+

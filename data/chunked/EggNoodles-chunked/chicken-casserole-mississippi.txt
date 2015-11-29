@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Cut the chicken into bite size pieces . Place the chicken and onion into a large nonstick skillet and sprinkle with seasoning salt .
+PREDID: 0
+PRED: cut
+  DOBJ: the chicken
+  PARG: bite size pieces
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: the chicken, onion
+  PARG: a large nonstick skillet
+    PREP: into
+
+PREDID: 2
+PRED: sprinkle
+  PARG: seasoning salt
+    PREP: with
+
+
+SENTID: 3
+SENT: Cook over medium heat , stirring occasionally , until chicken juices run clear and onion is transparent , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: chicken juices run clear, onion is transparent , 5 to 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Prepare the egg noodles according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: the egg noodles according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 5
+SENT: Combine the chicken and onion mixture , soups , and noodles in the prepared casserole dish and toss to mix together evenly .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken, onion mixture , soups , noodles
+  PARG: the prepared casserole dish
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: mix
+    PREP: to
+  OARG: together
+  OARG: evenly
+
+
+SENTID: 6
+SENT: Crush the crackers in a medium bowl .
+PREDID: 0
+PRED: crush
+  DOBJ: the crackers
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir in the butter and sour cream .
+PREDID: 0
+PRED: stir
+  PARG: the butter, sour cream
+    PREP: in
+
+
+SENTID: 8
+SENT: Mix thoroughly and spread over the chicken mixture .
+PREDID: 0
+PRED: mix
+  PARG: the chicken mixture
+    PREP: over
+  OARG: thoroughly
+
+PREDID: 1
+PRED: spread
+
+
+SENTID: 9
+SENT: Bake in preheated oven until the top is golden brown , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the top is golden
+    PREP: until
+
+PREDID: 1
+PRED: brown
+  PARG: 30 minutes
+    PREP: about
+

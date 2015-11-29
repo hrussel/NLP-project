@@ -1,0 +1,113 @@
+T1	predicate 21 26	cover
+T2	predicate 47 52	Bring
+T3	predicate 110 113	Let
+T4	predicate 123 127	mash
+T5	predicate 153 157	beat
+T6	predicate 164 167	Add
+T7	predicate 239 242	Add
+T8	predicate 289 295	Mix in
+T9	predicate 348 352	Pour
+T10	predicate 401 405	Bake
+T11	predicate 481 486	Place
+T12	predicate 568 575	Combine
+T13	predicate 659 665	Spread
+T14	arg_location 0 19	In a small saucepan
+T15	arg_object 27 34	carrots
+T16	arg_co-object 35 45	with water
+R1	object Arg1:T1 Arg2:T15	
+R2	co-object Arg1:T1 Arg2:T16	
+R3	location Arg1:T1 Arg2:T14	
+T17	arg_object 53 58	water
+T18	arg_duration 59 68	to a boil
+R4	object Arg1:T2 Arg2:T17	
+R5	duration Arg1:T2 Arg2:T18	
+T19	Evolution 53 58	water
+E1	Evolution:T19 Cause:T1
+T20	predicate 73 77	cook
+T21	arg_duration 78 108	until tender, about 15 minutes
+R6	duration Arg1:T20 Arg2:T21	
+R7	object Arg1:T20 Arg2:T2	
+T22	arg_other 114 118	cool
+R8	other Arg1:T3 Arg2:T22	
+R9	object Arg1:T4 Arg2:T3	
+R10	object Arg1:T3 Arg2:T20	
+T23	arg_location 129 151	In a large mixing bowl
+R11	location Arg1:T5 Arg2:T23	
+T24	arg_object 158 162	eggs
+R12	object Arg1:T5 Arg2:T24	
+T25	arg_object 168 181	vegetable oil
+T26	arg_object 183 193	buttermilk
+T27	arg_object 195 213	2 cups white sugar
+T28	arg_object 218 237	2 teaspoons vanilla
+R13	object Arg1:T6 Arg2:T25	
+R14	object Arg1:T6 Arg2:T26	
+R15	object Arg1:T6 Arg2:T27	
+R16	object Arg1:T6 Arg2:T28	
+R17	co-object Arg1:T6 Arg2:T5	
+T29	arg_object 243 248	flour
+T30	arg_object 250 261	baking soda
+T31	arg_object 263 278	ground cinnamon
+T32	arg_object 283 287	salt
+R18	object Arg1:T7 Arg2:T29	
+R19	object Arg1:T7 Arg2:T30	
+R20	object Arg1:T7 Arg2:T31	
+R21	object Arg1:T7 Arg2:T32	
+R22	co-object Arg1:T7 Arg2:T6	
+T33	arg_object 296 305	pineapple
+T34	arg_object 307 328	2 cups mashed carrots
+T35	arg_object 330 334	nuts
+T36	arg_object 339 346	coconut
+R23	object Arg1:T8 Arg2:T33	
+R24	object Arg1:T8 Arg2:T34	
+R25	object Arg1:T8 Arg2:T35	
+R26	object Arg1:T8 Arg2:T36	
+R27	co-object Arg1:T8 Arg2:T7	
+T37	arg_location 353 399	into paper towel-lined 13 x 9 x 2-1/2 inch pan
+R28	location Arg1:T9 Arg2:T37	
+T38	arg_other 406 438	at 350 degrees F (175 degrees C)
+T39	arg_duration 440 479	or 55 minutes, or until cake tests done
+R29	other Arg1:T10 Arg2:T38	
+R30	duration Arg1:T10 Arg2:T39	
+R31	object Arg1:T10 Arg2:T9	
+T40	arg_object 487 491	cake
+T41	Evolution 487 491	cake
+E2	Evolution:T41 Cause:T10
+R32	object Arg1:T11 Arg2:T40	
+T42	arg_location 492 502	on a plate
+R33	location Arg1:T11 Arg2:T42	
+T43	predicate 508 521	allow to cool
+R34	object Arg1:T43 Arg2:T11	
+T44	arg_object 576 588	cream cheese
+T45	arg_object 590 603	melted butter
+T46	arg_object 605 631	1 teaspoon vanilla extract
+T47	arg_object 637 657	confectioners' sugar
+R35	object Arg1:T12 Arg2:T44	
+R36	object Arg1:T12 Arg2:T45	
+R37	object Arg1:T12 Arg2:T46	
+R38	object Arg1:T12 Arg2:T47	
+T48	arg_co-object 666 680	on cooled cake
+R39	object Arg1:T13 Arg2:T12	
+R40	co-object Arg1:T13 Arg2:T48	
+T49	Evolution 669 680	cooled cake
+E3	Evolution:T49 Cause:T43
+T50	Evolution 307 328	2 cups mashed carrots
+E4	Evolution:T50 Cause:T4
+R41	object Arg1:T9 Arg2:T8	
+T51	ingredient 27 34	carrots
+T52	ingredient 158 162	eggs
+T53	ingredient 168 181	vegetable oil
+T54	ingredient 183 193	buttermilk
+T55	ingredient 195 213	2 cups white sugar
+T56	ingredient 218 237	2 teaspoons vanilla
+T57	ingredient 243 248	flour
+T58	ingredient 250 261	baking soda
+T59	ingredient 263 278	ground cinnamon
+T60	ingredient 283 287	salt
+T61	ingredient 296 305	pineapple
+T63	ingredient 330 334	nuts
+T64	ingredient 339 346	coconut
+T65	ingredient 576 588	cream cheese
+T66	ingredient 590 603	melted butter
+T67	ingredient 605 631	1 teaspoon vanilla extract
+T68	ingredient 637 657	confectioners' sugar
+T62	ingredient 40 45	water

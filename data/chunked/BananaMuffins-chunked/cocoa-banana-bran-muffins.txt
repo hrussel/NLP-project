@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly coat 12 -LRB- 2/6 .5 cm -RRB- non-stick muffin pan cups with cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: 12 -lrb- 2/6 .5 cm -rrb- non-stick muffin pan cups
+  PARG: cooking spray
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In medium bowl , combine cereal and milk .
+PREDID: 0
+PRED: combine
+  DOBJ: cereal, milk
+  PARG: medium bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Let stand for about 2 minutes or until cereal softens .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: about 2 minutes
+    PREP: for
+  PARG: cereal softens
+    PREP: until
+
+
+SENTID: 4
+SENT: In large bowl , combine flour , sugar , cocoa powder , baking powder , baking soda and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , sugar , cocoa powder , baking powder , baking soda, salt
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Add egg , oil and mashed bananas to cereal mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: egg , oil, mashed bananas
+  PARG: cereal mixture
+    PREP: to
+
+
+SENTID: 7
+SENT: beat well .
+PREDID: 0
+PRED: beat
+  OARG: well
+
+
+SENTID: 8
+SENT: Add liquid mixture to dry ingredients , stirring only until just combined .
+PREDID: 0
+PRED: add
+  DOBJ: liquid mixture
+  PARG: dry ingredients , stirring
+    PREP: to
+  PARG: just combined
+    PREP: until
+  OARG: only
+
+
+SENTID: 9
+SENT: Fold in chocolate chips .
+PREDID: 0
+PRED: fold
+  PARG: chocolate chips
+    PREP: in
+
+
+SENTID: 10
+SENT: Portion batter evenly into prepared muffin cups . Top each cup with a reserved banana slice .
+PREDID: 0
+PRED: portion
+  DOBJ: batter
+  PARG: prepared muffin cups
+    PREP: into
+  OARG: evenly
+
+PREDID: 1
+PRED: top
+  DOBJ: each cup
+  PARG: a reserved banana slice
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake in preheated oven for 20 minutes or until tops spring back when lightly touched .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 20 minutes
+    PREP: for
+  PARG: tops spring back when lightly touched
+    PREP: until
+

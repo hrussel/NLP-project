@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine the sirloin , tomato , mushrooms , green bell pepper , red bell pepper , orange bell pepper , garlic , green onion , 1/2 cup bread crumbs , egg , cilantro , and Worcestershire sauce in a large mixing bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: the sirloin , tomato , mushrooms , green bell pepper , red bell pepper , orange bell pepper , garlic , green onion , 1/2 cup bread crumbs , egg , cilantro , worcestershire sauce
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: mix together with your hands until evenly incorporated .
+PREDID: 0
+PRED: mix
+  PARG: your hands
+    PREP: with
+  PARG: evenly incorporated
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Shape the mixture into a cylinder about the size of a loaf pan .
+PREDID: 0
+PRED: shape
+  DOBJ: the mixture
+  PARG: a cylinder
+    PREP: into
+  PARG: the size of a loaf pan
+    PREP: about
+
+
+SENTID: 4
+SENT: Create a center channel in the loaf ;
+PREDID: 0
+PRED: create
+  DOBJ: a center channel
+  PARG: the loaf
+    PREP: in
+
+
+SENTID: 5
+SENT: load the goat cheese and diced habanero pepper into the middle of the channel and roll it up , folding the cheese and pepper into the center of the loaf .
+PREDID: 0
+PRED: load
+  DOBJ: the goat cheese, diced habanero pepper
+  PARG: the middle of the channel
+    PREP: into
+
+PREDID: 1
+PRED: roll
+  DOBJ: folding the cheese, pepper
+  PARG: the center of the loaf
+    PREP: into
+  OARG: up
+  OARG: it
+
+
+SENTID: 6
+SENT: Place the loaf into a loaf pan .
+PREDID: 0
+PRED: place
+  DOBJ: the loaf
+  PARG: a loaf pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Sprinkle 1/4 cup bread crumbs over the top of the loaf .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/4 cup bread crumbs
+  PARG: the top of the loaf
+    PREP: over
+
+
+SENTID: 8
+SENT: Place the Cheddar cheese slices around the edges of the pan .
+PREDID: 0
+PRED: place
+  DOBJ: the cheddar cheese slices
+  PARG: the edges of the pan
+    PREP: around
+
+
+SENTID: 9
+SENT: Arrange the jalapeno pepper slices on the top of the loaf .
+PREDID: 0
+PRED: arrange
+  DOBJ: the jalapeno pepper slices
+  PARG: the top of the loaf
+    PREP: on
+
+
+SENTID: 10
+SENT: Bake the meat loaf in the preheated oven until cooked completely through and no longer pink , about 1 hour .
+PREDID: 0
+PRED: bake
+  DOBJ: the meat loaf
+  PARG: the preheated oven
+    PREP: in
+  PARG: cooked completely through, no longer pink , about 1 hour
+    PREP: until
+
+
+SENTID: 11
+SENT: Allow to rest 7 to 10 minutes before slicing to serve .
+PREDID: 0
+PRED: allow
+  PARG: rest 7 to 10 minutes
+    PREP: to
+  PARG: slicing
+    PREP: before
+  PARG: serve
+    PREP: to
+

@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Heat the oven to 400 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: the oven
+  PARG: 400 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir the soup , milk , black pepper , pasta and 3/4 cup cheese in a medium bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the soup , milk , black pepper , pasta, 3/4 cup cheese
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Arrange the meatballs in the bottom of an 11x8x2-inch baking dish .
+PREDID: 0
+PRED: arrange
+  DOBJ: the meatballs
+  PARG: the bottom of an 11x8x2-inch baking dish
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour the soup mixture over the meatballs .
+PREDID: 0
+PRED: pour
+  DOBJ: the soup mixture
+  PARG: the meatballs
+    PREP: over
+
+
+SENTID: 4
+SENT: Sprinkle with the remaining cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: the remaining cheese
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake for 25 minutes or until the mixture is hot and bubbling .
+PREDID: 0
+PRED: bake
+  PARG: 25 minutes
+    PREP: for
+  PARG: the mixture is hot, bubbling
+    PREP: until
+

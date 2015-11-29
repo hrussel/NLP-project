@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Cook macaroni according to package directions ;
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a medium saucepan , combine broccoli , onion and water .
+PREDID: 0
+PRED: combine
+  DOBJ: broccoli , onion, water
+  PARG: a medium saucepan
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a boil and cook until broccoli is tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: broccoli is tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in macaroni , cheese mixture from package , milk , soup and ham .
+PREDID: 0
+PRED: stir
+  PARG: macaroni , cheese mixture
+    PREP: in
+  PARG: package , milk , soup, ham
+    PREP: from
+
+
+SENTID: 5
+SENT: Return to a boil briefly .
+PREDID: 0
+PRED: return
+  PARG: a boil briefly
+    PREP: to
+
+
+SENTID: 6
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

@@ -1,0 +1,376 @@
+SENTID: 0
+SENT: To Make Crust :
+PREDID: 0
+PRED: crust
+  PARG: make
+    PREP: to
+
+
+SENTID: 1
+SENT: In a medium bowl , combine flour and salt and mix well .
+PREDID: 0
+PRED: combine
+  DOBJ: flour, salt
+  PARG: a medium bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: With two knives or a pastry blender , cut in butter until mixture is in fine crumbs .
+PREDID: 0
+PRED: cut
+  PARG: two knives or a pastry blender
+    PREP: with
+  PARG: butter
+    PREP: in
+  PARG: mixture is in fine crumbs
+    PREP: until
+
+
+SENTID: 3
+SENT: Gradually add just enough ice water so that the pastry holds together .
+PREDID: 0
+PRED: add
+  DOBJ: ice water
+  PARG: the pastry holds
+    PREP: that
+  OARG: gradually
+  OARG: just
+  OARG: enough
+  OARG: so
+  OARG: together
+
+
+SENTID: 4
+SENT: Form into a ball , then flatten into a disk .
+PREDID: 0
+PRED: form
+  PARG: a ball
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: flatten
+  PARG: a disk
+    PREP: into
+
+
+SENTID: 5
+SENT: Handle as little as possible .
+PREDID: 0
+PRED: handle
+  PARG: little
+    PREP: as
+  PARG: possible
+    PREP: as
+
+
+SENTID: 6
+SENT: Wrap tightly in plastic wrap and chill for at least 1 to 2 hours .
+PREDID: 0
+PRED: wrap
+  PARG: plastic wrap
+    PREP: in
+  OARG: tightly
+
+PREDID: 1
+PRED: chill
+  PARG: at least 1 to 2 hours
+    PREP: for
+
+
+SENTID: 7
+SENT: Roll out crust on lightly floured surface with lightly floured rolling pin .
+PREDID: 0
+PRED: roll
+  PARG: crust
+    PREP: out
+  PARG: lightly floured surface
+    PREP: on
+  PARG: lightly floured rolling pin
+    PREP: with
+
+
+SENTID: 8
+SENT: Turn crust over frequently and lightly re-flour work surface and rolling pin as necessary .
+PREDID: 0
+PRED: turn
+  DOBJ: re-flour work surface, rolling pin
+  PARG: frequently
+    PREP: over
+  PARG: necessary
+    PREP: as
+  OARG: lightly
+  OARG: crust
+
+
+SENTID: 9
+SENT: Crust should be rolled into a circle about 13 inches in diameter .
+PREDID: 0
+PRED: crust
+  DOBJ: should be rolled
+  PARG: a circle
+    PREP: into
+  PARG: 13 inches
+    PREP: about
+  PARG: diameter
+    PREP: in
+
+
+SENTID: 10
+SENT: Fit crust into an ungreased 9 inch pie plate of heatproof glass ;
+PREDID: 0
+PRED: fit
+  DOBJ: crust
+  PARG: an ungreased 9 inch pie plate of heatproof glass
+    PREP: into
+
+
+SENTID: 11
+SENT: form a high-standing rim , trimming excess from edges and pinching or fluting rim decoratively as desired .
+PREDID: 0
+PRED: form
+  DOBJ: a high-standing rim , trimming excess
+  PARG: edges, pinching or fluting rim
+    PREP: from
+  PARG: desired
+    PREP: as
+  OARG: decoratively
+
+
+SENTID: 12
+SENT: Preheat oven to 400 degrees F -LRB- 205 C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 205 c -rrb-
+    PREP: to
+
+
+SENTID: 13
+SENT: Thoroughly prick crust all over with fork .
+PREDID: 0
+PRED: prick
+  DOBJ: crust all over
+  PARG: fork
+    PREP: with
+  OARG: thoroughly
+
+
+SENTID: 14
+SENT: Chill for at least 10 minutes while oven heats .
+PREDID: 0
+PRED: chill
+  PARG: at least 10 minutes
+    PREP: for
+  PARG: oven heats
+    PREP: while
+
+
+SENTID: 15
+SENT: Remove to rack and cool completely before filling .
+PREDID: 0
+PRED: remove
+  PARG: rack
+    PREP: to
+
+PREDID: 1
+PRED: cool
+  PARG: filling
+    PREP: before
+  OARG: completely
+
+
+SENTID: 16
+SENT: Leave oven at 400 degrees F -LRB- 205 C -RRB- .
+PREDID: 0
+PRED: leave
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 205 c -rrb-
+    PREP: at
+
+
+SENTID: 17
+SENT: Break up pecan pieces and sprinkle them evenly on the bottom of the cooled pie shell .
+PREDID: 0
+PRED: break
+  DOBJ: pecan pieces
+  OARG: up
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: them
+  PARG: the bottom of the cooled pie shell
+    PREP: on
+  OARG: evenly
+
+
+SENTID: 18
+SENT: In a small bowl beat eggs to combine .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a small bowl
+    PREP: in
+  PARG: combine
+    PREP: to
+
+
+SENTID: 19
+SENT: Add espresso powder and beat to mix .
+PREDID: 0
+PRED: add
+  DOBJ: espresso powder
+
+PREDID: 1
+PRED: beat
+  PARG: mix
+    PREP: to
+
+
+SENTID: 20
+SENT: Let stand at least 10 minutes , beating occasionally to dissolve espresso .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: least 10 minutes , beating
+    PREP: at
+  PARG: dissolve espresso
+    PREP: to
+  OARG: occasionally
+
+
+SENTID: 21
+SENT: In a medium bowl cream softened butter , sugar , and vanilla until light and fluffy .
+PREDID: 0
+PRED: cream
+  DOBJ: softened butter , sugar , vanilla
+  PARG: a medium bowl
+    PREP: in
+  PARG: light, fluffy
+    PREP: until
+
+
+SENTID: 22
+SENT: Beat in cocoa and salt .
+PREDID: 0
+PRED: beat
+  PARG: cocoa, salt
+    PREP: in
+
+
+SENTID: 23
+SENT: Add egg/espresso mixture 1/3 at a time , beating after each addition , until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: egg/espresso mixture 1/3 at a time , beating
+  PARG: each addition
+    PREP: after
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 24
+SENT: Stir in corn syrup .
+PREDID: 0
+PRED: stir
+  PARG: corn syrup
+    PREP: in
+
+
+SENTID: 25
+SENT: Pour mixture slowly over pecans in pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pecans
+    PREP: over
+  PARG: pie shell
+    PREP: in
+  OARG: slowly
+
+
+SENTID: 26
+SENT: Let stand 2 to 3 minutes ;
+PREDID: 0
+PRED: let
+  OARG: stand 2 to 3 minutes
+
+
+SENTID: 27
+SENT: with toothpick or tip of sharp knife , pierce any remaining air bubbles -LRB- during this standing period , pecans may rise to top of pie -RRB- .
+PREDID: 0
+PRED: pierce
+  DOBJ: any remaining air bubbles -lrb-
+  PARG: toothpick or tip of sharp knife
+    PREP: with
+  PARG: this standing period , pecans may rise
+    PREP: during
+  PARG: top of pie -rrb-
+    PREP: to
+
+
+SENTID: 28
+SENT: Bake in preheated oven for 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 29
+SENT: Reduce heat from 400 degrees F -LRB- 205 C -RRB- to 350 degrees F -LRB- 175 C -RRB- and bake 33 to 37 minutes longer -LRB- or until edges are cracked and risen but pie center still quivers slightly when pie is shaken gently -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 400 degrees f -lrb- 205 c -rrb-
+    PREP: from
+  PARG: 350 degrees f -lrb- 175 c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: edges are cracked, risen but pie center still quivers slightly when pie is shaken gently -rrb-
+    PREP: until
+  OARG: 33 to 37 minutes
+  OARG: longer
+
+
+SENTID: 30
+SENT: If pie begins to brown excessively , cover top lightly with foil .
+PREDID: 0
+PRED: cover
+  DOBJ: top
+  PARG: pie begins
+    PREP: if
+  PARG: brown
+    PREP: to
+  PARG: foil
+    PREP: with
+  OARG: excessively
+  OARG: lightly
+
+
+SENTID: 31
+SENT: Remove from oven ;
+PREDID: 0
+PRED: remove
+  PARG: oven
+    PREP: from
+
+
+SENTID: 32
+SENT: cool on rack before serving .
+PREDID: 0
+PRED: cool
+  PARG: rack
+    PREP: on
+  PARG: serving
+    PREP: before
+

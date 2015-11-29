@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Measure flour into a large mixing bowl .
+PREDID: 0
+PRED: measure
+  DOBJ: flour
+  PARG: a large mixing bowl
+    PREP: into
+
+
+SENTID: 1
+SENT: Slowly whisk in the milk .
+PREDID: 0
+PRED: whisk
+  PARG: the milk
+    PREP: in
+  OARG: slowly
+
+
+SENTID: 2
+SENT: Whisk in the salt , eggs , cinnamon , vanilla extract and sugar until smooth .
+PREDID: 0
+PRED: whisk
+  PARG: the salt , eggs , cinnamon , vanilla extract, sugar
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Heat a lightly oiled griddle or frying pan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a lightly oiled griddle or frying pan
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Soak bread slices in mixture until saturated .
+PREDID: 0
+PRED: soak
+  DOBJ: bread slices
+  PARG: mixture
+    PREP: in
+  PARG: saturated
+    PREP: until
+
+
+SENTID: 5
+SENT: Cook bread on each side until golden brown .
+PREDID: 0
+PRED: cook
+  DOBJ: bread
+  PARG: each side
+    PREP: on
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

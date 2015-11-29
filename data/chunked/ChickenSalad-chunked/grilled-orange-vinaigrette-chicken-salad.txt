@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Preheat grill for medium-high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: grill
+  PARG: medium-high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: In a bowl , whisk together the orange juice , vinegar , olive oil , seasoning blend , and sugar .
+PREDID: 0
+PRED: whisk
+  DOBJ: the orange juice , vinegar , olive oil , seasoning blend , sugar
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Set aside about 1/2 cup for basting .
+PREDID: 0
+PRED: set
+  PARG: 1/2 cup
+    PREP: about
+  PARG: basting
+    PREP: for
+  OARG: aside
+
+
+SENTID: 3
+SENT: Lightly oil the grill grate .
+PREDID: 0
+PRED: oil
+  DOBJ: the grill grate
+  OARG: lightly
+
+
+SENTID: 4
+SENT: Grill chicken for 6 to 8 minutes on each side , basting frequently with the reserved portion of the dressing , or until juices run clear .
+PREDID: 0
+PRED: grill
+  DOBJ: chicken
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: each side , basting
+    PREP: on
+  PARG: the reserved portion of the dressing
+    PREP: with
+  PARG: juices run clear
+    PREP: until
+  OARG: frequently
+
+
+SENTID: 5
+SENT: Cool , and cut into strips .
+PREDID: 0
+PRED: cool
+
+PREDID: 1
+PRED: cut
+  PARG: strips
+    PREP: into
+
+
+SENTID: 6
+SENT: Discard basting sauce .
+PREDID: 0
+PRED: discard
+  DOBJ: basting sauce
+
+
+SENTID: 7
+SENT: In a large bowl , toss together the lettuce , oranges , broccoli , and carrots .
+PREDID: 0
+PRED: toss
+  DOBJ: the lettuce , oranges , broccoli , carrots
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Top the salad with grilled chicken strips , and drizzle with remaining dressing to serve .
+PREDID: 0
+PRED: top
+  DOBJ: the salad
+  PARG: grilled chicken strips
+    PREP: with
+
+PREDID: 1
+PRED: drizzle
+  PARG: remaining dressing
+    PREP: with
+  PARG: serve
+    PREP: to
+

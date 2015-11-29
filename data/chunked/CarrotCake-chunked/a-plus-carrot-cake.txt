@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat a 10x15x2 inch baking dish or 10 inch Bundt pan with cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a 10x15x2 inch baking dish or 10 inch bundt pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In a medium bowl , stir together the flour , baking powder , baking soda , salt , cinnamon and nutmeg .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour , baking powder , baking soda , salt , cinnamon, nutmeg
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a separate larger bowl , mix together the eggs , sugar and vanilla by hand .
+PREDID: 0
+PRED: mix
+  DOBJ: the eggs , sugar, vanilla
+  PARG: a separate larger bowl
+    PREP: in
+  PARG: hand
+    PREP: by
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir in the oil ;
+PREDID: 0
+PRED: stir
+  PARG: the oil
+    PREP: in
+
+
+SENTID: 6
+SENT: Gradually stir in the dry ingredients , then fold in the carrots , pineapple coconut , walnuts and raisins .
+PREDID: 0
+PRED: stir
+  PARG: the dry ingredients
+    PREP: in
+  OARG: gradually
+  OARG: then
+
+PREDID: 1
+PRED: fold
+  PARG: the carrots , pineapple coconut , walnuts, raisins
+    PREP: in
+
+
+SENTID: 7
+SENT: Pour the batter into the prepared pan , and spread evenly .
+PREDID: 0
+PRED: pour
+  DOBJ: the batter
+  PARG: the prepared pan
+    PREP: into
+
+PREDID: 1
+PRED: spread
+  OARG: evenly
+
+
+SENTID: 8
+SENT: Bake for 55 to 60 minutes in the preheated oven , or until a small knife inserted into the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 55 to 60 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: a small knife inserted into the cake comes out clean
+    PREP: until
+

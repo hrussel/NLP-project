@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Mix together the barbecue sauce , ketchup , onion , celery , water , garlic , honey , brown sugar , Worcestershire sauce , chili powder , hot pepper sauce , salt , and black pepper in a slow cooker until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the barbecue sauce , ketchup , onion , celery , water , garlic , honey , brown sugar , worcestershire sauce , chili powder , hot pepper sauce , salt , black pepper
+  PARG: a slow cooker
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Place the pork roast into the mixture , spoon sauce over the meat , and set the cooker to Low .
+PREDID: 0
+PRED: place
+  DOBJ: the pork roast
+  PARG: the mixture
+    PREP: into
+
+PREDID: 1
+PRED: spoon
+  DOBJ: sauce
+  PARG: the meat
+    PREP: over
+
+PREDID: 2
+PRED: set
+  DOBJ: the cooker
+  PARG: low
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook 7 to 8 hours ;
+PREDID: 0
+PRED: cook
+  OARG: 7 to 8 hours
+
+
+SENTID: 3
+SENT: to serve , shred the meat with 2 forks , and serve with sauce .
+PREDID: 0
+PRED: shred
+  DOBJ: the meat
+  PARG: serve
+    PREP: to
+  PARG: 2 forks
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  PARG: sauce
+    PREP: with
+

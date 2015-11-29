@@ -1,0 +1,30 @@
+SENTID: 0
+SENT: Place sugar , corn , cream cheese , Mexican cheese , milk , chicken broth , celery , garlic , bacon , and pepper into a slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: sugar , corn , cream cheese , mexican cheese , milk , chicken broth , celery , garlic , bacon , pepper
+  PARG: a slow cooker
+    PREP: into
+
+
+SENTID: 1
+SENT: Cook on High for 1 hour , then reduce heat to Low and cook for an additional 2Ê1/2 hours .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: 1 hour
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: an additional 2Ê1/2 hours
+    PREP: for
+

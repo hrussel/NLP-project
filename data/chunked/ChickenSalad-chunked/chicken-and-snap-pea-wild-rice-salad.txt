@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: Bring the wild rice and water to a boil in a saucepan over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: the wild rice, water
+  PARG: a boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Drain off any excess liquid , fluff the rice with a fork , and cook uncovered 5 minutes more .
+PREDID: 0
+PRED: drain
+  PARG: any excess liquid
+    PREP: off
+
+PREDID: 1
+PRED: fluff
+  DOBJ: the rice
+  PARG: a fork
+    PREP: with
+
+PREDID: 2
+PRED: cook
+  OARG: uncovered 5 minutes more
+
+
+SENTID: 2
+SENT: Scrape into a mixing bowl , and refrigerate until cold .
+PREDID: 0
+PRED: scrape
+  PARG: a mixing bowl
+    PREP: into
+
+PREDID: 1
+PRED: refrigerate
+  PARG: cold
+    PREP: until
+
+
+SENTID: 3
+SENT: Whisk the vinegar , mustard , sugar , salt , garlic , dried tarragon , black pepper , and red pepper flakes in a small mixing bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: the vinegar , mustard , sugar , salt , garlic , dried tarragon , black pepper , red pepper flakes
+  PARG: a small mixing bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 4
+SENT: Pour the safflower oil into the dressing in a thin , steady stream while whisking vigorously until the oil has been fully incorporated into the dressing ;
+PREDID: 0
+PRED: pour
+  DOBJ: the safflower oil
+  PARG: the dressing
+    PREP: into
+  PARG: a thin
+    PREP: in
+  OARG: steady
+
+PREDID: 1
+PRED: stream
+  PARG: whisking
+    PREP: while
+  PARG: the oil has been fully incorporated into the dressing
+    PREP: until
+  OARG: vigorously
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Stir the chicken , celery , parsley , and green onion into the cooled wild rice .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken , celery , parsley , green onion
+  PARG: the cooled
+    PREP: into
+  OARG: wild
+
+
+SENTID: 7
+SENT: Stir in the dressing until evenly blended .
+PREDID: 0
+PRED: stir
+  PARG: the dressing
+    PREP: in
+  PARG: evenly blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Cover the rice mixture , and refrigerate 4 hours to overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: the rice mixture
+
+PREDID: 1
+PRED: refrigerate
+  OARG: 4 hours
+  OARG: to overnight
+
+
+SENTID: 9
+SENT: Bring a small saucepan of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a small saucepan of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Add the sugar snap peas , and cook uncovered until just tender , about 30 seconds .
+PREDID: 0
+PRED: add
+  DOBJ: the sugar snap peas
+
+PREDID: 1
+PRED: cook
+  DOBJ: uncovered
+  PARG: just tender , about 30 seconds
+    PREP: until
+
+
+SENTID: 11
+SENT: Drain in a colander , then immediately immerse in ice water for several minutes until cold to stop the cooking process .
+PREDID: 0
+PRED: drain
+  DOBJ: immerse
+  PARG: a colander
+    PREP: in
+  PARG: ice water
+    PREP: in
+  PARG: several minutes
+    PREP: for
+  PARG: cold to stop the cooking process
+    PREP: until
+  OARG: then
+  OARG: immediately
+
+
+SENTID: 12
+SENT: Once the peas are cold , drain and cut into 1-inch diagonal pieces . Refrigerate until ready to serve .
+PREDID: 0
+PRED: drain
+  DOBJ: the peas are cold
+  PARG: 1-inch diagonal pieces
+    PREP: into
+  OARG: once
+
+PREDID: 1
+PRED: cut
+
+PREDID: 2
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+
+
+SENTID: 13
+SENT: Stir the peas and toasted almonds into the rice mixture just before serving .
+PREDID: 0
+PRED: stir
+  DOBJ: the peas, toasted almonds
+  PARG: the rice mixture
+    PREP: into
+  PARG: serving
+    PREP: before
+  OARG: just
+

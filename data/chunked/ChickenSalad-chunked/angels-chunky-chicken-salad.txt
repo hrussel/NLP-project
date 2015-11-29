@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: Combine the chicken , celery , mayonnaise , onion and pickle ;
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , celery , mayonnaise , onion, pickle
+
+
+SENTID: 1
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Season with the garlic powder , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: the garlic powder , salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: Serve with lettuce on fresh crusty bread or bun .
+PREDID: 0
+PRED: serve
+  PARG: lettuce
+    PREP: with
+  PARG: fresh crusty bread or bun
+    PREP: on
+

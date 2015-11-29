@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Place the ground beef and onion in a skillet over medium-high heat .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef, onion
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook , stirring to crumble , until evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: evenly browned
+    PREP: until
+  OARG: to crumble
+
+
+SENTID: 2
+SENT: Season with seasoning salt , drain off grease , and set aside .
+PREDID: 0
+PRED: season
+  PARG: seasoning salt
+    PREP: with
+
+PREDID: 1
+PRED: drain
+  PARG: grease
+    PREP: off
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Preheat the oven to 450 degrees F -LRB- 230 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 450 degrees f -lrb- 230 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Spread salad dressing on the pizza crust .
+PREDID: 0
+PRED: spread
+  DOBJ: salad dressing
+  PARG: the pizza crust
+    PREP: on
+
+
+SENTID: 5
+SENT: Top with a layer of ground beef and onion .
+PREDID: 0
+PRED: top
+  PARG: a layer of ground beef, onion
+    PREP: with
+
+
+SENTID: 6
+SENT: Sprinkle shredded cheese over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: shredded cheese
+  PARG: the top
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake for 8 to 10 minutes in the preheated oven , until cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 8
+SENT: Allow pizza to cool for about 5 minutes , then slice into wedges and top with lettuce tomato and pickles , if desired .
+PREDID: 0
+PRED: allow
+  DOBJ: pizza
+  PARG: about 5 minutes
+    PREP: for
+  OARG: to cool
+  OARG: then
+
+PREDID: 1
+PRED: slice
+  PARG: wedges
+    PREP: into
+
+PREDID: 2
+PRED: top
+  PARG: lettuce tomato, pickles
+    PREP: with
+  PARG: desired
+    PREP: if
+

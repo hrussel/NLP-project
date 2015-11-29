@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the beef , pork sausage , French onion dip , eggs and crushed crackers .
+PREDID: 0
+PRED: combine
+  DOBJ: the beef , pork sausage , french onion dip , eggs, crushed crackers
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix well and shape into a loaf .
+PREDID: 0
+PRED: mix
+  PARG: a loaf
+    PREP: into
+  OARG: well
+
+PREDID: 1
+PRED: shape
+
+
+SENTID: 3
+SENT: Bake in a 5x9 inch loaf pan for 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: a 5x9 inch loaf pan
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+

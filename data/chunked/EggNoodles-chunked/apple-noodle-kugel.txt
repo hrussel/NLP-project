@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2-quart baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2-quart baking dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook egg noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Stir melted butter and noodles in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: melted butter, noodles
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Mix apples , egg yolks , sugar , raisins , cinnamon , and vanilla extract into noodle mixture until well blended .
+PREDID: 0
+PRED: mix
+  DOBJ: apples , egg yolks , sugar , raisins , cinnamon , vanilla extract
+  PARG: noodle mixture
+    PREP: into
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 7
+SENT: Beat egg whites in a large bowl until stiff peaks form .
+PREDID: 0
+PRED: beat
+  DOBJ: egg whites
+  PARG: a large bowl
+    PREP: in
+  PARG: stiff peaks form
+    PREP: until
+
+
+SENTID: 8
+SENT: Lift your beater or whisk straight up :
+PREDID: 0
+PRED: lift
+  DOBJ: your beater
+
+PREDID: 1
+PRED: whisk
+  OARG: straight
+  OARG: up
+
+
+SENTID: 9
+SENT: Fold egg whites into noodle mixture ;
+PREDID: 0
+PRED: fold
+  DOBJ: egg whites
+  PARG: noodle mixture
+    PREP: into
+
+
+SENTID: 10
+SENT: pour into prepared baking dish .
+PREDID: 0
+PRED: pour
+  PARG: prepared baking dish
+    PREP: into
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until browned , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: browned , about 40 minutes
+    PREP: until
+

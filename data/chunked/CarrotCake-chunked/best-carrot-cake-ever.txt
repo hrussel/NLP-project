@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: In a medium bowl , combine grated carrots and brown sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: grated carrots, brown sugar
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Set aside for 60 minutes , then stir in raisins .
+PREDID: 0
+PRED: set
+  PARG: 60 minutes
+    PREP: for
+  OARG: aside
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: raisins
+    PREP: in
+
+
+SENTID: 2
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 3
+SENT: Grease and flour two 10 inch cake pans .
+PREDID: 0
+PRED: grease
+  DOBJ: two 10 inch cake pans
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 4
+SENT: In a large bowl , beat eggs until light .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large bowl
+    PREP: in
+  PARG: light
+    PREP: until
+
+
+SENTID: 5
+SENT: Gradually beat in the white sugar , oil and vanilla .
+PREDID: 0
+PRED: beat
+  PARG: the white sugar , oil, vanilla
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 6
+SENT: Stir in the pineapple .
+PREDID: 0
+PRED: stir
+  PARG: the pineapple
+    PREP: in
+
+
+SENTID: 7
+SENT: Combine the flour , baking soda , salt and cinnamon , stir into the wet mixture until absorbed .
+PREDID: 0
+PRED: combine
+  DOBJ: the flour , baking soda , salt, cinnamon
+
+PREDID: 1
+PRED: stir
+  PARG: the wet mixture
+    PREP: into
+  PARG: absorbed
+    PREP: until
+
+
+SENTID: 8
+SENT: Finally stir in the carrot mixture and the walnuts .
+PREDID: 0
+PRED: stir
+  PARG: the carrot mixture, the walnuts
+    PREP: in
+  OARG: finally
+
+
+SENTID: 9
+SENT: Pour evenly into the prepared pans .
+PREDID: 0
+PRED: pour
+  PARG: the prepared pans
+    PREP: into
+  OARG: evenly
+
+
+SENTID: 10
+SENT: Bake for 45 to 50 minutes in the preheated oven , until cake tests done with a toothpick .
+PREDID: 0
+PRED: bake
+  PARG: 45 to 50 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: cake tests done with a toothpick
+    PREP: until
+
+
+SENTID: 11
+SENT: Cool for 10 minutes before removing from pan .
+PREDID: 0
+PRED: cool
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: pan
+    PREP: from
+
+
+SENTID: 12
+SENT: When completely cooled , frost with cream cheese frosting .
+PREDID: 0
+PRED: frost
+  PARG: cream cheese frosting
+    PREP: with
+  OARG: when completely cooled
+

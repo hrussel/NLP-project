@@ -1,0 +1,144 @@
+T1	predicate 17 24	combine
+T2	predicate 135 139	Melt
+T3	predicate 196 199	Add
+T4	predicate 314 319	Saute
+T5	predicate 393 400	Stir in
+T6	predicate 483 489	Remove
+T8	predicate 558 563	Place
+T9	predicate 624 627	Add
+T10	predicate 683 689	Remove
+T11	predicate 706 709	Mix
+T12	predicate 770 774	Bake
+T13	predicate 839 844	raise
+T14	predicate 887 891	bake
+T15	predicate 916 925	Let stand
+T16	arg_location 0 15	In a small bowl
+R1	location Arg1:T1 Arg2:T16	
+T17	arg_object 25 39	the bay leaves
+T18	arg_object 41 45	salt
+T19	arg_object 47 61	cayenne pepper
+T20	arg_object 63 82	ground black pepper
+T21	arg_object 84 103	ground white pepper
+T22	arg_object 105 110	cumin
+T23	arg_object 116 122	nutmeg
+R2	object Arg1:T1 Arg2:T17	
+R3	object Arg1:T1 Arg2:T18	
+R4	object Arg1:T1 Arg2:T19	
+R5	object Arg1:T1 Arg2:T20	
+R6	object Arg1:T1 Arg2:T21	
+R7	object Arg1:T1 Arg2:T22	
+R8	object Arg1:T1 Arg2:T23	
+T24	predicate 124 133	set aside
+R9	object Arg1:T24 Arg2:T1	
+T25	arg_object 140 163	the butter or margarine
+T26	arg_location 164 177	in a saucepan
+T27	arg_duration 178 194	over medium heat
+R10	object Arg1:T2 Arg2:T25	
+R11	location Arg1:T2 Arg2:T26	
+R12	duration Arg1:T2 Arg2:T27	
+T28	arg_object 200 209	the onion
+T29	arg_object 211 222	bell pepper
+T30	arg_object 224 236	green onions
+T31	arg_object 238 244	garlic
+T32	arg_object 246 262	hot pepper sauce
+T33	arg_object 264 284	Worcestershire sauce
+T34	arg_object 290 312	reserved seasoning mix
+R13	object Arg1:T3 Arg2:T28	
+R14	object Arg1:T3 Arg2:T29	
+R15	object Arg1:T3 Arg2:T30	
+R16	object Arg1:T3 Arg2:T31	
+R17	object Arg1:T3 Arg2:T32	
+R18	object Arg1:T3 Arg2:T33	
+R19	object Arg1:T3 Arg2:T34	
+T35	Evolution 290 312	reserved seasoning mix
+E1	Evolution:T35 Cause:T24
+R20	co-object Arg1:T3 Arg2:T2	
+T36	arg_duration 320 391	until mixture starts sticking to the bottom of the pan, about 6 minutes
+R21	object Arg1:T4 Arg2:T3	
+R22	duration Arg1:T4 Arg2:T36	
+T37	arg_object 401 409	the milk
+T38	arg_object 414 421	ketchup
+R23	object Arg1:T5 Arg2:T37	
+R24	object Arg1:T5 Arg2:T38	
+R25	co-object Arg1:T5 Arg2:T4	
+T39	predicate 423 439	continue cooking
+R26	object Arg1:T39 Arg2:T5	
+T40	arg_duration 440 458	for 2 more minutes
+T41	arg_other 460 481	stirring occasionally
+R27	duration Arg1:T39 Arg2:T40	
+R28	other Arg1:T39 Arg2:T41	
+T42	arg_object 490 507	vegetable mixture
+T43	Evolution 490 507	vegetable mixture
+E2	Evolution:T43 Cause:T39
+R29	object Arg1:T6 Arg2:T42	
+T44	arg_location 508 517	from heat
+R30	location Arg1:T6 Arg2:T44	
+T46	arg_duration 537 556	to room temperature
+T7	predicate 523 536	allow to cool
+R31	duration Arg1:T7 Arg2:T46	
+R32	object Arg1:T7 Arg2:T6	
+T45	arg_object 564 572	the beef
+T47	arg_object 577 584	sausage
+R33	object Arg1:T8 Arg2:T45	
+R34	object Arg1:T8 Arg2:T47	
+T48	arg_location 585 622	in an ungreased 9x13 inch baking dish
+R35	location Arg1:T8 Arg2:T48	
+T49	arg_object 628 636	the eggs
+T50	arg_object 638 659	the vegetable mixture
+T51	arg_object 665 681	the bread crumbs
+R36	object Arg1:T9 Arg2:T49	
+R37	object Arg1:T9 Arg2:T50	
+R38	object Arg1:T9 Arg2:T51	
+R39	co-object Arg1:T9 Arg2:T8	
+T52	Evolution 638 659	the vegetable mixture
+E3	Evolution:T52 Cause:T7
+R40	co-object Arg1:T10 Arg2:T9	
+T53	arg_object 690 704	the bay leaves
+R41	object Arg1:T10 Arg2:T53	
+R42	object Arg1:T11 Arg2:T10	
+T54	arg_duration 710 714	well
+R43	duration Arg1:T11 Arg2:T54	
+T55	arg_other 715 722	by hand
+R44	other Arg1:T11 Arg2:T55	
+T56	predicate 728 732	form
+R45	object Arg1:T56 Arg2:T11	
+T57	arg_other 733 768	into a loaf about 1 1/2 inches high
+R46	other Arg1:T56 Arg2:T57	
+R47	object Arg1:T12 Arg2:T56	
+T58	arg_other 775 784	uncovered
+R48	other Arg1:T12 Arg2:T58	
+T59	arg_duration 785 832	at 350 degrees F (175 degrees C) for 25 minutes
+R49	duration Arg1:T12 Arg2:T59	
+T60	arg_object 845 849	heat
+R50	co-object Arg1:T13 Arg2:T12	
+R51	object Arg1:T13 Arg2:T60	
+T61	arg_duration 850 882	to 400 degrees F (200 degrees C)
+R52	duration Arg1:T13 Arg2:T61	
+R53	object Arg1:T14 Arg2:T13	
+T62	arg_duration 892 914	for another 35 minutes
+R54	duration Arg1:T14 Arg2:T62	
+R55	object Arg1:T15 Arg2:T14	
+T63	arg_duration 926 939	for 5 minutes
+R56	duration Arg1:T15 Arg2:T63	
+T64	ingredient 25 39	the bay leaves
+T65	ingredient 41 45	salt
+T66	ingredient 47 61	cayenne pepper
+T67	ingredient 63 82	ground black pepper
+T68	ingredient 84 103	ground white pepper
+T69	ingredient 105 110	cumin
+T70	ingredient 116 122	nutmeg
+T71	ingredient 140 163	the butter or margarine
+T72	ingredient 200 209	the onion
+T73	ingredient 211 222	bell pepper
+T74	ingredient 224 236	green onions
+T75	ingredient 238 244	garlic
+T76	ingredient 246 262	hot pepper sauce
+T77	ingredient 264 284	Worcestershire sauce
+T78	ingredient 401 409	the milk
+T79	ingredient 414 421	ketchup
+T80	ingredient 564 572	the beef
+T81	ingredient 577 584	sausage
+T82	ingredient 628 636	the eggs
+T83	ingredient 665 681	the bread crumbs
+T84	Evolution 690 704	the bay leaves
+E4	Evolution:T84 Cause:T9

@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Season the chicken with the garlic powder and paprika .
+PREDID: 0
+PRED: season
+  DOBJ: the chicken
+  PARG: the garlic powder, paprika
+    PREP: with
+
+
+SENTID: 1
+SENT: Cook the chicken in a 12 inch nonstick skillet over medium-high heat until it 's well browned on both sides .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+  PARG: a 12 inch nonstick skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: it 's well browned on both sides
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the stock , basil , black pepper and vegetables to the skillet and heat to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: the stock , basil , black pepper, vegetables
+  PARG: the skillet
+    PREP: to
+
+PREDID: 1
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in the noodles .
+PREDID: 0
+PRED: stir
+  PARG: the noodles
+    PREP: in
+
+
+SENTID: 4
+SENT: Reduce the heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: the heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 5
+SENT: Cover and cook for 10 minutes or until the chicken is cooked through and the noodles are tender .
+PREDID: 0
+PRED: cover
+  PARG: 10 minutes
+    PREP: for
+
+PREDID: 1
+PRED: cook
+  PARG: the chicken is cooked through, the noodles are tender
+    PREP: until
+

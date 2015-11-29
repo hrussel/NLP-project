@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and set in the refrigerator to cool .
+PREDID: 0
+PRED: drain
+  PARG: the refrigerator
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Cover and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: eggs stand
+
+PREDID: 1
+PRED: let
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water , cool , peel and chop .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+PREDID: 3
+PRED: chop
+
+
+SENTID: 7
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 8
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 9
+SENT: Drain , crumble and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+  OARG: aside
+
+PREDID: 2
+PRED: set
+
+
+SENTID: 10
+SENT: Chop the cooled potatoes , leaving skin on .
+PREDID: 0
+PRED: chop
+  DOBJ: the cooled potatoes , leaving skin
+
+
+SENTID: 11
+SENT: Add to a large bowl , along with the eggs , bacon , onion and celery .
+PREDID: 0
+PRED: add
+  PARG: a large bowl
+    PREP: to
+  PARG: with the eggs , bacon , onion, celery
+    PREP: along
+
+
+SENTID: 12
+SENT: Add mayonnaise , salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: mayonnaise , salt, pepper
+  PARG: taste
+    PREP: to
+
+
+SENTID: 13
+SENT: Chill for an hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: an hour
+    PREP: for
+  PARG: serving
+    PREP: before
+

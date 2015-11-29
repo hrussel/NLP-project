@@ -1,0 +1,192 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: add bouillon cube and stir until melted .
+PREDID: 0
+PRED: add
+  DOBJ: bouillon cube
+
+PREDID: 1
+PRED: stir
+  PARG: melted
+    PREP: until
+
+
+SENTID: 2
+SENT: Add chicken and poach for about 13 to 14 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+PREDID: 1
+PRED: poach
+  PARG: about 13 to 14 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove chicken and leave broth in pot ;
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+
+PREDID: 1
+PRED: leave
+  DOBJ: broth
+  PARG: pot
+    PREP: in
+
+
+SENTID: 4
+SENT: cool chicken and cut into 1/2 inch chunks ;
+PREDID: 0
+PRED: cool
+  DOBJ: chicken
+
+PREDID: 1
+PRED: cut
+  PARG: 1/2 inch chunks
+    PREP: into
+
+
+SENTID: 5
+SENT: reserve .
+PREDID: 0
+PRED: reserve
+
+
+SENTID: 6
+SENT: Add mushrooms to broth and cook over medium heat ;
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms
+  PARG: broth
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 7
+SENT: cook for a few minutes and remove mushrooms from stock ;
+PREDID: 0
+PRED: cook
+  PARG: a few minutes
+    PREP: for
+
+PREDID: 1
+PRED: remove
+  DOBJ: mushrooms
+  PARG: stock
+    PREP: from
+
+
+SENTID: 8
+SENT: reserve .
+PREDID: 0
+PRED: reserve
+
+
+SENTID: 9
+SENT: With remaining stock in pot , add some more water , if needed .
+PREDID: 0
+PRED: add
+  DOBJ: some more water
+  PARG: remaining stock
+    PREP: with
+  PARG: pot
+    PREP: in
+  PARG: needed
+    PREP: if
+
+
+SENTID: 10
+SENT: Bring water to a boil and add pasta to cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: pasta
+  PARG: cook
+    PREP: to
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 11
+SENT: drain and discard stock .
+PREDID: 0
+PRED: drain
+  DOBJ: stock
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 12
+SENT: Cool pasta with running water ;
+PREDID: 0
+PRED: cool
+  DOBJ: pasta
+  PARG: running water
+    PREP: with
+
+
+SENTID: 13
+SENT: reserve .
+PREDID: 0
+PRED: reserve
+
+
+SENTID: 14
+SENT: In a small bowl , combine sour cream , mayonnaise , garlic , curry powder and salt and pepper to taste .
+PREDID: 0
+PRED: combine
+  DOBJ: sour cream , mayonnaise , garlic , curry powder, salt, pepper
+  PARG: a small bowl
+    PREP: in
+  PARG: taste
+    PREP: to
+
+
+SENTID: 15
+SENT: In a large bowl , combine cooled pasta , chicken , mushrooms , sour cream dressing , olives , apple , yellow bell pepper and celery ;
+PREDID: 0
+PRED: combine
+  DOBJ: cooled pasta , chicken , mushrooms , sour cream dressing , olives , apple , yellow bell pepper, celery
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 16
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 17
+SENT: Refrigerate for at least 3 hours and serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: at least 3 hours
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

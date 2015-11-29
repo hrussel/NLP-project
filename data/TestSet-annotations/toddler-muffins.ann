@@ -1,0 +1,94 @@
+T1	predicate 0 7	Preheat
+T2	predicate 50 56	Grease
+T3	predicate 123 128	cream
+T4	predicate 179 185	Mix in
+T5	predicate 233 240	Stir in
+T6	predicate 324 329	Spoon
+T7	predicate 380 384	Bake
+T8	predicate 485 489	Cool
+T9	predicate 568 573	Store
+T10	predicate 617 623	freeze
+T11	arg_object 8 15	an oven
+T12	arg_other 16 48	to 375 degrees F (190 degrees C)
+R1	object Arg1:T1 Arg2:T11	
+R2	other Arg1:T1 Arg2:T12	
+T13	arg_location 385 406	in the preheated oven
+R3	location Arg1:T7 Arg2:T13	
+T14	Evolution 388 406	the preheated oven
+E1	Evolution:T14 Cause:T1
+R4	object Arg1:T7 Arg2:T6	
+T15	arg_duration 407 483	until a toothpick inserted into the center comes out clean, 15 to 20 minutes
+R5	duration Arg1:T7 Arg2:T15	
+T16	arg_object 57 103	24 mini muffin cups or 12 standard muffin cups
+R6	object Arg1:T2 Arg2:T16	
+T17	arg_location 105 121	In a mixing bowl
+R7	location Arg1:T3 Arg2:T17	
+T18	arg_other 129 137	together
+T19	arg_object 138 148	the butter
+T20	ingredient 138 148	the butter
+T21	arg_object 153 164	brown sugar
+T22	ingredient 153 164	brown sugar
+T23	arg_duration 165 177	until smooth
+R8	other Arg1:T3 Arg2:T18	
+R9	object Arg1:T3 Arg2:T19	
+R10	object Arg1:T3 Arg2:T21	
+R11	duration Arg1:T3 Arg2:T23	
+R12	co-object Arg1:T4 Arg2:T3	
+T24	arg_object 186 204	the mashed bananas
+T25	ingredient 186 204	the mashed bananas
+T26	arg_object 206 212	squash
+T27	ingredient 206 212	squash
+T28	arg_object 214 221	carrots
+T29	ingredient 214 221	carrots
+T30	arg_object 227 231	eggs
+T31	ingredient 227 231	eggs
+R13	object Arg1:T4 Arg2:T24	
+R14	object Arg1:T4 Arg2:T26	
+R15	object Arg1:T4 Arg2:T28	
+R16	object Arg1:T4 Arg2:T30	
+R17	co-object Arg1:T5 Arg2:T4	
+T32	arg_object 241 250	the flour
+T33	ingredient 241 250	the flour
+T34	arg_object 252 260	oat bran
+T35	ingredient 252 260	oat bran
+T36	arg_object 262 273	baking soda
+T37	ingredient 262 273	baking soda
+T38	arg_object 275 292	pumpkin pie spice
+T39	ingredient 275 292	pumpkin pie spice
+T40	arg_object 298 302	salt
+T41	ingredient 298 302	salt
+T42	arg_duration 303 322	until just combined
+R18	object Arg1:T5 Arg2:T32	
+R19	object Arg1:T5 Arg2:T34	
+R20	object Arg1:T5 Arg2:T36	
+R21	object Arg1:T5 Arg2:T38	
+R22	object Arg1:T5 Arg2:T40	
+R23	duration Arg1:T5 Arg2:T42	
+T43	arg_object 330 340	the batter
+T44	Evolution 330 340	the batter
+E2	Evolution:T44 Cause:T5
+R24	object Arg1:T6 Arg2:T43	
+T45	arg_other 341 348	equally
+T46	arg_location 349 378	into the prepared muffin cups
+T47	Evolution 354 378	the prepared muffin cups
+E3	Evolution:T47 Cause:T2
+R25	other Arg1:T6 Arg2:T45	
+R26	location Arg1:T6 Arg2:T46	
+R27	object Arg1:T8 Arg2:T7	
+T48	arg_location 490 501	in the pans
+R28	same-location Arg1:T48 Arg2:T46	
+R29	location Arg1:T8 Arg2:T48	
+T49	arg_duration 502 516	for 10 minutes
+R30	duration Arg1:T8 Arg2:T49	
+T50	predicate 524 532	removing
+R31	object Arg1:T50 Arg2:T8	
+T51	arg_other 533 551	to cool completely
+T52	arg_location 552 566	on a wire rack
+R32	other Arg1:T50 Arg2:T51	
+R33	location Arg1:T50 Arg2:T52	
+R34	object Arg1:T9 Arg2:T50	
+R35	object Arg1:T10 Arg2:T50	
+T53	arg_other 574 593	at room temperature
+T54	arg_duration 594 612	for up to two days
+R36	other Arg1:T9 Arg2:T53	
+R37	duration Arg1:T9 Arg2:T54	

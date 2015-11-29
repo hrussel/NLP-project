@@ -1,0 +1,177 @@
+SENTID: 0
+SENT: Mix lemon pepper , thyme , parsley , rosemary , Cajun seasoning , and black pepper in a small bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: lemon pepper , thyme , parsley , rosemary , cajun seasoning , black pepper
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Rub olive oil over chicken tenders .
+PREDID: 0
+PRED: rub
+  DOBJ: olive oil
+  PARG: chicken tenders
+    PREP: over
+
+
+SENTID: 2
+SENT: Arrange chicken tenders in a large skillet over medium heat ;
+PREDID: 0
+PRED: arrange
+  DOBJ: chicken tenders
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: season with half the seasoning mixture .
+PREDID: 0
+PRED: season
+  PARG: half the seasoning mixture
+    PREP: with
+
+
+SENTID: 4
+SENT: Cook chicken until halfway cooked , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken
+  PARG: halfway cooked , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Flip and season the other sides with the remaining seasoning mixture ;
+PREDID: 0
+PRED: flip
+  DOBJ: the other sides
+
+PREDID: 1
+PRED: season
+  PARG: the remaining seasoning mixture
+    PREP: with
+
+
+SENTID: 6
+SENT: cook until chicken is no longer pink in the center and juices run clear , about 5 more minutes .
+PREDID: 0
+PRED: cook
+  PARG: chicken is no longer pink in the center, juices run clear , about 5 more minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove cooked chicken from skillet .
+PREDID: 0
+PRED: remove
+  DOBJ: cooked chicken
+  PARG: skillet
+    PREP: from
+
+
+SENTID: 8
+SENT: Mix tomatoes with green chile peppers , onion , asparagus , carrots , zucchini , mushrooms , bell peppers , and garlic in the same skillet ;
+PREDID: 0
+PRED: mix
+  DOBJ: tomatoes
+  PARG: green chile peppers , onion , asparagus , carrots , zucchini , mushrooms , bell peppers , garlic
+    PREP: with
+  PARG: the same skillet
+    PREP: in
+
+
+SENTID: 9
+SENT: cook until vegetables are softened , 3 to 4 minutes .
+PREDID: 0
+PRED: cook
+  PARG: vegetables are softened , 3 to 4 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Add chicken broth , lemon juice , lemon zest , and chicken tenders to the vegetable mixture .
+PREDID: 0
+PRED: add
+  DOBJ: chicken broth , lemon juice , lemon zest , chicken tenders
+  PARG: the vegetable mixture
+    PREP: to
+
+
+SENTID: 11
+SENT: Reduce heat to medium-low , cover , and simmer for 10 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 13
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 14
+SENT: Drain and return noodles to pot .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: return
+  PARG: pot
+    PREP: to
+
+
+SENTID: 15
+SENT: Add Parmesan cheese and mozzarella cheese ;
+PREDID: 0
+PRED: add
+  DOBJ: parmesan cheese, mozzarella cheese
+
+
+SENTID: 16
+SENT: toss until cheeses melt .
+PREDID: 0
+PRED: toss
+  PARG: cheeses melt
+    PREP: until
+
+
+SENTID: 17
+SENT: Transfer noodles to 5 serving bowls ;
+PREDID: 0
+PRED: transfer
+  DOBJ: noodles
+  PARG: 5 serving bowls
+    PREP: to
+
+
+SENTID: 18
+SENT: top each with 1 chicken tender and 1/5 the vegetable mixture .
+PREDID: 0
+PRED: top
+  DOBJ: each with 1 chicken tender, 1/5 the vegetable mixture
+

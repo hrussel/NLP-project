@@ -1,0 +1,51 @@
+T1	predicate 0 7	Preheat
+T2	predicate 70 77	combine
+T3	predicate 144 148	Stir
+T4	predicate 184 188	Pour
+T5	predicate 232 236	Bake
+T6	arg_object 8 12	oven
+T7	arg_other 13 45	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T6	
+R2	other Arg1:T1 Arg2:T7	
+T8	arg_location 237 254	in preheated oven
+T9	Evolution 240 254	preheated oven
+E1	Evolution:T9 Cause:T1
+T10	arg_location 47 69	In a large mixing bowl
+T11	arg_location 205 230	into pastry-lined pie pan
+T12	arg_duration 255 293	for 45 minutes, or until set in center
+R3	location Arg1:T5 Arg2:T8	
+R4	duration Arg1:T5 Arg2:T12	
+R5	object Arg1:T5 Arg2:T4	
+T13	arg_object 189 204	pumpkin mixture
+R6	object Arg1:T4 Arg2:T13	
+R7	location Arg1:T4 Arg2:T11	
+T14	Evolution 189 204	pumpkin mixture
+E2	Evolution:T14 Cause:T3
+T15	arg_duration 149 182	until smooth and thoroughly mixed
+R8	duration Arg1:T3 Arg2:T15	
+R9	object Arg1:T3 Arg2:T2	
+T16	arg_object 78 85	pumpkin
+T17	arg_object 87 92	sugar
+T18	arg_object 94 98	eggs
+T19	arg_object 100 104	milk
+T20	arg_object 106 114	cinnamon
+T21	arg_object 116 122	ginger
+T22	arg_object 124 130	cloves
+T23	arg_object 136 142	nutmeg
+T24	ingredient 136 142	nutmeg
+T25	ingredient 124 130	cloves
+T26	ingredient 116 122	ginger
+T27	ingredient 106 114	cinnamon
+T28	ingredient 100 104	milk
+T29	ingredient 94 98	eggs
+T30	ingredient 87 92	sugar
+T31	ingredient 78 85	pumpkin
+R10	location Arg1:T2 Arg2:T10	
+R11	object Arg1:T2 Arg2:T16	
+R12	object Arg1:T2 Arg2:T17	
+R13	object Arg1:T2 Arg2:T18	
+R14	object Arg1:T2 Arg2:T19	
+R15	object Arg1:T2 Arg2:T20	
+R16	object Arg1:T2 Arg2:T21	
+R17	object Arg1:T2 Arg2:T22	
+R18	object Arg1:T2 Arg2:T23	

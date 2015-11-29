@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: Combine vinegar , sugar , soy sauce , vegetable and sesame oils in large bowl , stirring until sugar dissolves .
+PREDID: 0
+PRED: combine
+  DOBJ: vinegar , sugar , soy sauce , vegetable, sesame oils
+  PARG: large bowl , stirring
+    PREP: in
+  PARG: sugar dissolves
+    PREP: until
+
+
+SENTID: 1
+SENT: Add salad mixture and cilantro , tossing to coat all pieces . Add chicken ;
+PREDID: 0
+PRED: add
+  DOBJ: salad mixture, cilantro , tossing
+  PARG: coat all pieces
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: chicken
+
+
+SENTID: 2
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 3
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

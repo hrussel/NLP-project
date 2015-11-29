@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease 12 muffin cups or line with paper liners .
+PREDID: 0
+PRED: grease
+  DOBJ: 12 muffin cups
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Stir whole wheat flour , rolled oats , sugar , baking powder , baking soda , and chocolate chips together in a bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: whole wheat flour , rolled oats , sugar , baking powder , baking soda , chocolate chips
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Make a well in the center .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the center
+    PREP: in
+
+
+SENTID: 4
+SENT: Whisk eggs in a separate bowl until frothy ;
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs
+  PARG: a separate bowl
+    PREP: in
+  PARG: frothy
+    PREP: until
+
+
+SENTID: 5
+SENT: mix applesauce , skim milk , and banana into eggs .
+PREDID: 0
+PRED: mix
+  DOBJ: applesauce , skim milk , banana
+  PARG: eggs
+    PREP: into
+
+
+SENTID: 6
+SENT: Pour moist ingredients into well made in dry ingredients ;
+PREDID: 0
+PRED: pour
+  DOBJ: moist ingredients
+  PARG: well made
+    PREP: into
+  PARG: dry ingredients
+    PREP: in
+
+
+SENTID: 7
+SENT: stir just to moisten .
+PREDID: 0
+PRED: stir
+  OARG: just
+  OARG: to moisten
+
+
+SENTID: 8
+SENT: Fill prepared muffin cups about 3/4 full .
+PREDID: 0
+PRED: fill
+  DOBJ: prepared muffin cups
+  PARG: 3/4 full
+    PREP: about
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until a toothpick inserted into the center of several muffins comes out clean , 16 to 18 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center of several muffins comes out clean , 16 to 18 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool in pan for 5 minutes before removing to finish cooling on wire racks .
+PREDID: 0
+PRED: cool
+  PARG: pan
+    PREP: in
+  PARG: 5 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: finish cooling
+    PREP: to
+  PARG: wire racks
+    PREP: on
+

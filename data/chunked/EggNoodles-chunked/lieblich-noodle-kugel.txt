@@ -1,0 +1,154 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 9x13-inch baking pan with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x13-inch baking pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add the noodles , and cook until tender , about 6 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 6 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Combine the cottage cheese , pineapple , and apples ;
+PREDID: 0
+PRED: combine
+  DOBJ: the cottage cheese , pineapple , apples
+
+
+SENTID: 6
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Mix together the sugar and cinnamon in a small bowl , and set aside .
+PREDID: 0
+PRED: mix
+  DOBJ: the sugar, cinnamon
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: Spread one-third of the noodles onto the bottom of the prepared pan .
+PREDID: 0
+PRED: spread
+  DOBJ: one-third of the noodles
+  PARG: the bottom of the prepared pan
+    PREP: onto
+
+
+SENTID: 9
+SENT: Spread with half of the cottage cheese mixture , and sprinkle with one-third of the cinnamon sugar .
+PREDID: 0
+PRED: spread
+  PARG: half of the cottage cheese mixture
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: one-third of the cinnamon sugar
+    PREP: with
+
+
+SENTID: 10
+SENT: Layer with another third of the noodles , and the remaining cottage cheese .
+PREDID: 0
+PRED: layer
+  PARG: another third of the noodles , the remaining cottage cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Sprinkle with another third of the cinnamon sugar and the remaining noodles .
+PREDID: 0
+PRED: sprinkle
+  PARG: another third of the cinnamon sugar, the remaining noodles
+    PREP: with
+
+
+SENTID: 12
+SENT: Mix together the white wine and melted butter ;
+PREDID: 0
+PRED: mix
+  DOBJ: the white wine, melted butter
+  OARG: together
+
+
+SENTID: 13
+SENT: brush onto the noodles .
+PREDID: 0
+PRED: brush
+  PARG: the noodles
+    PREP: onto
+
+
+SENTID: 14
+SENT: Sprinkle with remaining cinnamon sugar .
+PREDID: 0
+PRED: sprinkle
+  PARG: remaining cinnamon sugar
+    PREP: with
+
+
+SENTID: 15
+SENT: Cover with aluminum foil .
+PREDID: 0
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 16
+SENT: Bake for 1 hour in the preheated oven , until apples are tender .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: apples are tender
+    PREP: until
+

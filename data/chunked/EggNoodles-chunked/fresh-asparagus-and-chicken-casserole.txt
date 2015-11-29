@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 1Ê1/2 quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 1Ê1/2 quart casserole dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Cook noodles in a large pot of boiling water for 5 minutes , or until almost tender .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: 5 minutes
+    PREP: for
+  PARG: almost tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , and rinse under cold water .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: under
+
+
+SENTID: 4
+SENT: Heat the olive oil in a heavy skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a heavy skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Cook onion for 4 to 5 minutes , stirring frequently .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+  PARG: 4 to 5 minutes , stirring
+    PREP: for
+  OARG: frequently
+
+
+SENTID: 6
+SENT: Add chicken , red bell pepper , celery , and chicken stock .
+PREDID: 0
+PRED: add
+  DOBJ: chicken , red bell pepper , celery , chicken stock
+
+
+SENTID: 7
+SENT: Bring to a boil , and simmer for 5 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Stir in sour cream and oregano .
+PREDID: 0
+PRED: stir
+  PARG: sour cream, oregano
+    PREP: in
+
+
+SENTID: 9
+SENT: Spread half of the chicken mixture into the prepared dish .
+PREDID: 0
+PRED: spread
+  DOBJ: half of the chicken mixture
+  PARG: the prepared dish
+    PREP: into
+
+
+SENTID: 10
+SENT: Arrange the asparagus over the chicken , spread cooked noodles evenly over the asparagus , and top with 5 tablespoons of Parmesan cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: the asparagus
+  PARG: the chicken
+    PREP: over
+
+PREDID: 1
+PRED: spread
+  DOBJ: cooked noodles
+  PARG: the asparagus
+    PREP: over
+  OARG: evenly
+
+PREDID: 2
+PRED: top
+  PARG: 5 tablespoons of parmesan cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Cover with the remaining chicken mixture .
+PREDID: 0
+PRED: cover
+  PARG: the remaining chicken mixture
+    PREP: with
+
+
+SENTID: 12
+SENT: Sprinkle with the reserved Parmesan cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: the reserved parmesan cheese
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake 30 minutes in the preheated oven , until lightly brown .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: lightly brown
+    PREP: until
+  OARG: 30 minutes
+

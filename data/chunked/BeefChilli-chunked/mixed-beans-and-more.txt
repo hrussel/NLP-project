@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Place black beans , pinto beans , and kidney beans in a large container and cover with several inches of cool water ;
+PREDID: 0
+PRED: place
+  DOBJ: black beans , pinto beans , kidney beans
+  PARG: a large container
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: several inches of cool water
+    PREP: with
+
+
+SENTID: 1
+SENT: let stand for at least 12 hours .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: at least 12 hours
+    PREP: for
+
+
+SENTID: 2
+SENT: Bring beans and water to a boil in a large pot ;
+PREDID: 0
+PRED: bring
+  DOBJ: beans, water
+  PARG: a boil
+    PREP: to
+  PARG: a large pot
+    PREP: in
+
+
+SENTID: 3
+SENT: cook until beans are tender and heated through , 30 minutes .
+PREDID: 0
+PRED: cook
+  PARG: beans are tender, heated through , 30 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove pot from heat to cool and drain beans .
+PREDID: 0
+PRED: remove
+  DOBJ: pot
+  PARG: heat
+    PREP: from
+  OARG: to cool
+
+PREDID: 1
+PRED: drain
+  DOBJ: beans
+
+
+SENTID: 5
+SENT: Cook and stir sausage , beef , onion , bell pepper , and garlic in a large skillet over medium-high heat until meat is browned , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: sausage , beef , onion , bell pepper , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: meat is browned , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain and discard fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 7
+SENT: Stir beans , sausage mixture , corn , salsa , chili sauce , vinegar , and water together in a slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: beans , sausage mixture , corn , salsa , chili sauce , vinegar , water
+  PARG: a slow cooker
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Cook on High for at least 4 hours , stirring occasionally .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: at least 4 hours , stirring
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: Season with salt and ground black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, ground black pepper
+    PREP: with
+

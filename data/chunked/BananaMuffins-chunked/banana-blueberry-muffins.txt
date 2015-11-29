@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 12 cup muffin pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 12 cup muffin pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a large bowl , mix the whole wheat flour , brown sugar , cinnamon , baking powder , and baking soda .
+PREDID: 0
+PRED: mix
+  DOBJ: the whole wheat flour , brown sugar , cinnamon , baking powder , baking soda
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: In a separate bowl , mix the bananas , egg whites , and vanilla extract .
+PREDID: 0
+PRED: mix
+  DOBJ: the bananas , egg whites , vanilla extract
+  PARG: a separate bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix the banana mixture into the flour mixture until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: the banana mixture
+  PARG: the flour mixture
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Fold in the blueberries .
+PREDID: 0
+PRED: fold
+  PARG: the blueberries
+    PREP: in
+
+
+SENTID: 6
+SENT: Spoon the batter into the prepared muffin pan .
+PREDID: 0
+PRED: spoon
+  DOBJ: the batter
+  PARG: the prepared muffin pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake 16 minutes in the preheated oven , or until a toothpick inserted in the center of a muffin comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the center of a muffin comes out clean
+    PREP: until
+  OARG: 16 minutes
+

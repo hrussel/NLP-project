@@ -1,0 +1,16 @@
+SENTID: 0
+SENT: In a food processor , combine the chicken , creamy salad dressing , cole slaw dressing , celery , onion , and salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , creamy salad dressing , cole slaw dressing , celery , onion , salt, pepper
+  PARG: a food processor
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix until well chopped .
+PREDID: 0
+PRED: mix
+  PARG: well chopped
+    PREP: until
+

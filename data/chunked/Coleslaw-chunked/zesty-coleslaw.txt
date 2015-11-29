@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: In a large bowl , mix together the mayonnaise , creamy salad dressing , horseradish , vinegar , dill weed and sugar .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise , creamy salad dressing , horseradish , vinegar , dill weed, sugar
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add coleslaw mix , and stir to coat .
+PREDID: 0
+PRED: add
+  DOBJ: coleslaw mix
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Refrigerate at least 3 hours before serving to blend flavors .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 3 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+  PARG: blend flavors
+    PREP: to
+

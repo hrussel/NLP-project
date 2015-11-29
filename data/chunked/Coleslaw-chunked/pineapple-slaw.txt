@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Mix cabbage , pineapple , green onions , and bell pepper together in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cabbage , pineapple , green onions , bell pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Whisk vinegar , mayonnaise , sugar , salt , and pepper together in a separate bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: vinegar , mayonnaise , sugar , salt , pepper
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: drizzle over cabbage mixture and toss to coat .
+PREDID: 0
+PRED: drizzle
+  PARG: cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Cover bowl with plastic wrap and refrigerate at least 2 hours before serving .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: least 2 hours
+    PREP: at
+  PARG: serving
+    PREP: before
+

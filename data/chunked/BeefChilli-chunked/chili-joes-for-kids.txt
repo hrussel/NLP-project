@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook onion and bell pepper in olive oil until soft .
+PREDID: 0
+PRED: cook
+  DOBJ: onion, bell pepper
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: olive oil
+    PREP: in
+  PARG: soft
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in beef and cook until brown .
+PREDID: 0
+PRED: stir
+  PARG: beef
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Sprinkle chili powder over mixture and pour in chili sauce .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: chili powder
+  PARG: mixture
+    PREP: over
+
+PREDID: 1
+PRED: pour
+  PARG: chili sauce
+    PREP: in
+
+
+SENTID: 3
+SENT: Fill empty bottle with water and shake to remove remaining sauce .
+PREDID: 0
+PRED: fill
+  DOBJ: empty bottle
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: shake
+  PARG: remove remaining sauce
+    PREP: to
+
+
+SENTID: 4
+SENT: Pour remaining sauce and water into pan .
+PREDID: 0
+PRED: pour
+  DOBJ: remaining sauce, water
+  PARG: pan
+    PREP: into
+
+
+SENTID: 5
+SENT: Stir in beans and simmer 15 minutes before serving .
+PREDID: 0
+PRED: stir
+  PARG: beans
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: serving
+    PREP: before
+  OARG: 15 minutes
+

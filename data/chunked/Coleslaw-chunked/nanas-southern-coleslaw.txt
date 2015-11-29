@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: Mix cabbage , carrots , and onion in a large salad bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cabbage , carrots , onion
+  PARG: a large salad bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Whisk mayonnaise , sugar , milk , buttermilk , lemon juice , vinegar , salt , and black pepper in a separate bowl until smooth and the sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , sugar , milk , buttermilk , lemon juice , vinegar , salt , black pepper
+  PARG: a separate bowl
+    PREP: in
+  PARG: smooth, the sugar has dissolved
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour dressing over cabbage mixture and mix thoroughly .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: cabbage mixture
+    PREP: over
+
+PREDID: 1
+PRED: mix
+  OARG: thoroughly
+
+
+SENTID: 3
+SENT: Cover bowl and refrigerate slaw at least 2 hours -LRB- the longer the better -RRB- .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: slaw
+  PARG: least 2 hours -lrb- the longer the better -rrb-
+    PREP: at
+
+
+SENTID: 4
+SENT: Mix again before serving .
+PREDID: 0
+PRED: mix
+  PARG: serving
+    PREP: before
+  OARG: again
+

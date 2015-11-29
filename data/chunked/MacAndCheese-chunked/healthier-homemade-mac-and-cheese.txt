@@ -1,0 +1,161 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook elbow macaroni in boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Melt 2 tablespoons butter in a saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Stir in flour to make a roux .
+PREDID: 0
+PRED: stir
+  PARG: flour
+    PREP: in
+  PARG: make a roux
+    PREP: to
+
+
+SENTID: 6
+SENT: Slowly add milk to roux , stirring constantly .
+PREDID: 0
+PRED: add
+  DOBJ: milk
+  PARG: roux , stirring
+    PREP: to
+  OARG: slowly
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Stir in Cheddar and Parmesan cheeses and cook over low heat until cheese is melted and sauce is thick , about 3 minutes .
+PREDID: 0
+PRED: stir
+  PARG: cheddar, parmesan cheeses
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: low heat
+    PREP: over
+  PARG: cheese is melted
+    PREP: until
+
+PREDID: 2
+PRED: sauce
+  DOBJ: is thick
+  PARG: 3 minutes
+    PREP: about
+
+
+SENTID: 8
+SENT: Place macaroni in large baking dish and pour sauce over macaroni .
+PREDID: 0
+PRED: place
+  DOBJ: macaroni
+  PARG: large baking dish
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  DOBJ: sauce
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 9
+SENT: Stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 10
+SENT: Melt 2 tablespoons butter in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 11
+SENT: Add breadcrumbs and stir until butter is absorbed , 2 to 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: breadcrumbs
+
+PREDID: 1
+PRED: stir
+  PARG: butter is absorbed , 2 to 3 minutes
+    PREP: until
+
+
+SENTID: 12
+SENT: Spread over macaroni to cover .
+PREDID: 0
+PRED: spread
+  PARG: macaroni
+    PREP: over
+  PARG: cover
+    PREP: to
+
+
+SENTID: 13
+SENT: Sprinkle with paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in preheated oven until cheese sauce is hot and breadcrumbs are browned , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: cheese sauce is hot, breadcrumbs are browned , about 30 minutes
+    PREP: until
+

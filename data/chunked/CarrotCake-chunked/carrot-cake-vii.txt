@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 10 inch tube pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 10 inch tube pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: In a medium bowl , sift together the flour , baking powder , salt , nutmeg , cinnamon and allspice .
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , baking powder , salt , nutmeg , cinnamon, allspice
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a large mixing bowl , combine oil and baby food , then add eggs .
+PREDID: 0
+PRED: combine
+  DOBJ: oil, baby food
+  PARG: a large mixing bowl
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: eggs
+
+
+SENTID: 5
+SENT: Add sugar and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: sugar
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Add the flour mixture and mix until well combined .
+PREDID: 0
+PRED: add
+  DOBJ: the flour mixture
+
+PREDID: 1
+PRED: mix
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour batter into prepared 10 inch tube pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared 10 inch tube pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake at 325 degrees F -LRB- 165 degrees C -RRB- for 1 hour , or until toothpick inserted into the middle of the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: at
+  PARG: 1 hour
+    PREP: for
+  PARG: toothpick inserted into the middle of the cake comes out clean
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool for 10 minutes in the pan , then turn out onto a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: 10 minutes
+    PREP: for
+  PARG: the pan
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: turn
+  PARG: onto a wire rack
+    PREP: out
+

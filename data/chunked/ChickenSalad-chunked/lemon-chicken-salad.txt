@@ -1,0 +1,29 @@
+SENTID: 0
+SENT: In a large bowl , whisk together the salad dressing , sour cream , lemon juice , lemon pepper , basil and parsley .
+PREDID: 0
+PRED: whisk
+  DOBJ: the salad dressing , sour cream , lemon juice , lemon pepper , basil, parsley
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Add chicken , peas , onion , lettuce and almonds and stir until evenly coated .
+PREDID: 0
+PRED: add
+  DOBJ: chicken , peas , onion , lettuce, almonds
+
+PREDID: 1
+PRED: stir
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 2
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

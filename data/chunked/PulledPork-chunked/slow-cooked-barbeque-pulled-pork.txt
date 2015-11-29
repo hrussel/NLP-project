@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: Place pork in a slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: pork
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Add molasses , chili powder , salt , paprika , cumin seeds , and ground coriander .
+PREDID: 0
+PRED: add
+  DOBJ: molasses , chili powder , salt , paprika , cumin seeds , ground coriander
+
+
+SENTID: 2
+SENT: Pour enough water into slow cooker to cover pork .
+PREDID: 0
+PRED: pour
+  DOBJ: water
+  PARG: slow cooker
+    PREP: into
+  PARG: cover pork
+    PREP: to
+  OARG: enough
+
+
+SENTID: 3
+SENT: Cook on High for 6 to 8 hours .
+PREDID: 0
+PRED: cook
+  PARG: high
+    PREP: on
+  PARG: 6 to 8 hours
+    PREP: for
+
+
+SENTID: 4
+SENT: Drain liquid from slow cooker and shred pork with 2 forks .
+PREDID: 0
+PRED: drain
+  DOBJ: liquid
+  PARG: slow cooker
+    PREP: from
+
+PREDID: 1
+PRED: shred
+  DOBJ: pork
+  PARG: 2 forks
+    PREP: with
+
+
+SENTID: 5
+SENT: Add barbeque sauce .
+PREDID: 0
+PRED: add
+  DOBJ: barbeque sauce
+
+
+SENTID: 6
+SENT: Reduce heat the Low and continue cooking for 1 hour more .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat the low, continue cooking
+  PARG: 1 hour more
+    PREP: for
+

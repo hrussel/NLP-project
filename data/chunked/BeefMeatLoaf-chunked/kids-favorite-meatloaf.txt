@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: In a large bowl , combine the ketchup , brown sugar and mustard and mix well .
+PREDID: 0
+PRED: combine
+  DOBJ: the ketchup , brown sugar, mustard
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 1
+SENT: Remove 4 tablespoons of this mixture and reserve for later for the top of the loaves .
+PREDID: 0
+PRED: remove
+  DOBJ: 4 tablespoons of this mixture
+
+PREDID: 1
+PRED: reserve
+  PARG: later
+    PREP: for
+  PARG: the top of the loaves
+    PREP: for
+
+
+SENTID: 2
+SENT: To the mixture in the bowl , add the Worcestershire sauce , salt , onion , garlic , egg , milk and ground black pepper and mix together well .
+PREDID: 0
+PRED: add
+  DOBJ: the worcestershire sauce , salt , onion , garlic , egg , milk, ground black pepper
+  PARG: the mixture
+    PREP: to
+  PARG: the bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: together
+  OARG: well
+
+
+SENTID: 3
+SENT: Stir in the wheat cereal squares and let stand for 5 minutes .
+PREDID: 0
+PRED: stir
+  PARG: the wheat cereal squares
+    PREP: in
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Then break up the cereal squares and add the ground beef , mixing well .
+PREDID: 0
+PRED: break
+  DOBJ: the cereal squares
+  OARG: then
+  OARG: up
+
+PREDID: 1
+PRED: add
+  DOBJ: the ground beef , mixing
+  OARG: well
+
+
+SENTID: 5
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 65 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 65 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Brush on reserved ketchup mixture and bake for 15 more minutes .
+PREDID: 0
+PRED: brush
+  PARG: reserved ketchup mixture
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: 15 more minutes
+    PREP: for
+

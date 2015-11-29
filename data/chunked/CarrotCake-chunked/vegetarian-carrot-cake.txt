@@ -1,0 +1,114 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter an 8 inch springform pan .
+PREDID: 0
+PRED: butter
+  DOBJ: an 8 inch springform pan
+
+
+SENTID: 2
+SENT: In a small bowl , add lemon juice to milk .
+PREDID: 0
+PRED: add
+  DOBJ: lemon juice
+  PARG: a small bowl
+    PREP: in
+  PARG: milk
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir together and let stand 5 minutes .
+PREDID: 0
+PRED: stir
+  OARG: together
+  OARG: stand 5 minutes
+
+PREDID: 1
+PRED: let
+
+
+SENTID: 4
+SENT: Sift flour , baking powder , cinnamon , cloves and salt together and set aside .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , baking powder , cinnamon , cloves, salt
+  OARG: together
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a large bowl , cream oil , orange zest and brown sugar .
+PREDID: 0
+PRED: cream
+  DOBJ: oil , orange zest, brown sugar
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: Add sour milk and vanilla .
+PREDID: 0
+PRED: add
+  DOBJ: sour milk, vanilla
+
+
+SENTID: 7
+SENT: Add flour mixture and beat until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: flour mixture
+
+PREDID: 1
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in the grated carrots and chopped nuts .
+PREDID: 0
+PRED: stir
+  PARG: the grated carrots, chopped nuts
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour the batter into an 8 inch springform or other deep 8 inch pan .
+PREDID: 0
+PRED: pour
+  DOBJ: the batter
+  PARG: an 8 inch springform or other
+    PREP: into
+  OARG: deep
+
+
+SENTID: 10
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 hour , or until a toothpick inserted into the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 1 hour
+    PREP: for
+  PARG: a toothpick inserted into the cake comes out clean
+    PREP: until
+
+
+SENTID: 11
+SENT: Allow to cool .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+

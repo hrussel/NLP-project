@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: In a nonporous dish or bowl blend cornstarch with wine or sherry ;
+PREDID: 0
+PRED: blend
+  DOBJ: cornstarch
+  PARG: a nonporous dish or bowl
+    PREP: in
+  PARG: wine or sherry
+    PREP: with
+
+
+SENTID: 1
+SENT: then stir in lemon juice , soy sauce , hot pepper sauce , ginger and garlic .
+PREDID: 0
+PRED: stir
+  PARG: lemon juice , soy sauce , hot pepper sauce , ginger, garlic
+    PREP: in
+  OARG: then
+
+
+SENTID: 2
+SENT: Blend together and stir in chicken strips .
+PREDID: 0
+PRED: blend
+  PARG: chicken strips
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Cover dish and refrigerate to marinate for 3 to 4 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 3 to 4 hours
+    PREP: for
+  OARG: to marinate
+
+
+SENTID: 4
+SENT: In a wok or large skillet , place sesame seeds and dry-fry over medium heat , shaking the wok , until the seeds are a golden brown color .
+PREDID: 0
+PRED: place
+  DOBJ: sesame seeds, dry-fry
+  PARG: a wok or large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the seeds are a golden brown color
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove seeds and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: seeds
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: To same wok or skillet add sesame oil and vegetable oil and heat slowly .
+PREDID: 0
+PRED: add
+  DOBJ: sesame oil, vegetable oil
+  PARG: same wok or skillet
+    PREP: to
+
+PREDID: 1
+PRED: heat
+  OARG: slowly
+
+
+SENTID: 7
+SENT: Drain chicken , reserving marinade , and stir-fry in wok a few pieces at a time , until browned .
+PREDID: 0
+PRED: drain
+  DOBJ: chicken , reserving marinade , stir-fry
+  PARG: wok a few pieces
+    PREP: in
+  PARG: a time
+    PREP: at
+  PARG: browned
+    PREP: until
+
+
+SENTID: 8
+SENT: Remove chicken with a slotted spoon and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: Add mushrooms and green bell pepper to same wok or skillet and stir-fry for 2 to 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms, green bell pepper
+  PARG: same wok or skillet, stir-fry
+    PREP: to
+  PARG: 2 to 3 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Add the scallions and stir-fry 1 minute more .
+PREDID: 0
+PRED: add
+  OARG: the scallions, stir-fry 1 minute more
+
+
+SENTID: 11
+SENT: Return chicken to wok , together with reserved marinade , and stir over medium high heat for another 2 to 3 minutes , or until the ingredients are evenly coated with the glaze .
+PREDID: 0
+PRED: return
+  DOBJ: chicken
+  PARG: wok
+    PREP: to
+  PARG: reserved marinade
+    PREP: with
+  OARG: together
+
+PREDID: 1
+PRED: stir
+  PARG: medium high heat
+    PREP: over
+  PARG: another 2 to 3 minutes
+    PREP: for
+  PARG: the ingredients are evenly coated with the glaze
+    PREP: until
+
+
+SENTID: 12
+SENT: Sprinkle toasted sesame seeds on top and serve immediately .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: toasted sesame seeds
+  PARG: top
+    PREP: on
+
+PREDID: 1
+PRED: serve
+  OARG: immediately
+

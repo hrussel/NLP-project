@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: Combine curry powder , Thai chili garlic sauce , cayenne pepper , cinnamon , and soy sauce in a small bowl , and set aside .
+PREDID: 0
+PRED: combine
+  DOBJ: curry powder , thai chili garlic sauce , cayenne pepper , cinnamon , soy sauce
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 1
+SENT: Fill a saucepan with water , and bring it to a boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a saucepan
+  PARG: water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  DOBJ: it
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: When the water is boiling , drop in the spaghetti and cook for 8 to 12 minutes , stirring occasionally , until tender .
+PREDID: 0
+PRED: drop
+  PARG: the spaghetti
+    PREP: in
+  OARG: when the water is boiling
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 12 minutes , stirring
+    PREP: for
+  PARG: tender
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain the spaghetti , and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: the spaghetti
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: Heat peanut oil in a skillet or wok over medium-high heat until barely smoking , and drop in the chicken .
+PREDID: 0
+PRED: heat
+  DOBJ: peanut oil
+  PARG: a skillet or wok
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: barely smoking
+    PREP: until
+
+PREDID: 1
+PRED: drop
+  PARG: the chicken
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook and stir 5 to 8 minutes , until the chicken is just beginning to brown and the inside is no longer pink .
+PREDID: 0
+PRED: cook
+  OARG: 5 to 8 minutes
+
+PREDID: 1
+PRED: stir
+  PARG: the chicken is just beginning to brown, the inside is no longer pink
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove chicken from the skillet , and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: the skillet
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 7
+SENT: Make the peanut sauce by stirring together peanut butter and 3Ê1/2 cups of water in a saucepan over medium heat until mixture is smooth and the peanut butter is melted .
+PREDID: 0
+PRED: make
+  DOBJ: peanut butter, 3Ê1/2 cups of water
+  PARG: stirring
+    PREP: by
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: mixture is smooth, the peanut butter is melted
+    PREP: until
+  OARG: together
+  OARG: the peanut sauce
+
+
+SENTID: 8
+SENT: Pour in the curry-chili sauce , and simmer , stirring occasionally , until the sauce is thickened , about 15 minutes .
+PREDID: 0
+PRED: pour
+  PARG: the curry-chili sauce
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  DOBJ: stirring
+  PARG: the sauce is thickened , about 15 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: To serve , place the noodles in a large bowl , top with chicken , and spoon the peanut sauce over the chicken .
+PREDID: 0
+PRED: place
+  DOBJ: the noodles
+  PARG: serve
+    PREP: to
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: top
+  PARG: chicken
+    PREP: with
+
+PREDID: 2
+PRED: spoon
+  DOBJ: the peanut sauce
+  PARG: the chicken
+    PREP: over
+
+
+SENTID: 10
+SENT: Sprinkle the green onions over the dish , and garnish with chow mein noodles .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the green onions
+  PARG: the dish
+    PREP: over
+
+PREDID: 1
+PRED: garnish
+  PARG: chow mein noodles
+    PREP: with
+

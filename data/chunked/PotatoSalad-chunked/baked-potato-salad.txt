@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with lightly salted water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: lightly salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until just tender , about 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: just tender , about 15 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain the potatoes , and allow to cool to room temperature .
+PREDID: 0
+PRED: drain
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: allow
+  PARG: room temperature
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 3
+SENT: Dice once cooled .
+PREDID: 0
+PRED: dice
+  DOBJ: cooled
+  OARG: once
+
+
+SENTID: 4
+SENT: Place the bacon in a large , deep skillet , and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain the bacon slices on a paper towel-lined plate .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: a paper towel-lined plate
+    PREP: on
+
+
+SENTID: 6
+SENT: Allow to cool , and crumble the bacon into a large bowl .
+PREDID: 0
+PRED: allow
+  OARG: to cool
+
+PREDID: 1
+PRED: crumble
+  DOBJ: the bacon
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Place the cooled potatoes into the bowl with the bacon , and mix in the sour cream , mayonnaise , Cheddar cheese , chives , salt , and pepper .
+PREDID: 0
+PRED: place
+  DOBJ: the cooled potatoes
+  PARG: the bowl
+    PREP: into
+  PARG: the bacon
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  PARG: the sour cream , mayonnaise , cheddar cheese , chives , salt , pepper
+    PREP: in
+
+
+SENTID: 8
+SENT: Refrigerate overnight before serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: before
+  OARG: overnight
+

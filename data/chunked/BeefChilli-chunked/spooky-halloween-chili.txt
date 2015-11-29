@@ -1,0 +1,26 @@
+SENTID: 0
+SENT: Mix ground beef , chili beans , stewed tomatoes , corn , apple cider , and chili powder in a large pot over high heat ;
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , chili beans , stewed tomatoes , corn , apple cider , chili powder
+  PARG: a large pot
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: bring to a simmer , reduce heat to medium-low , and cook until the beef is cooked and tender , about 6 hours .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cook
+    PREP: to
+  PARG: the beef is cooked, tender , about 6 hours
+    PREP: until
+

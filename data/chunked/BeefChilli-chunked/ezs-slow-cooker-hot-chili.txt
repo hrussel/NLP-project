@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , saute the onion , green bell pepper and garlic in the oil for 5 minutes , or until tender .
+PREDID: 0
+PRED: saute
+  DOBJ: the onion , green bell pepper, garlic
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: the oil
+    PREP: in
+  PARG: 5 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in the beef and cook until brown .
+PREDID: 0
+PRED: stir
+  PARG: the beef
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer these ingredients to a slow cooker .
+PREDID: 0
+PRED: transfer
+  DOBJ: these ingredients
+  PARG: a slow cooker
+    PREP: to
+
+
+SENTID: 3
+SENT: Then , to the slow cooker , add tomato-vegetable juice , soup , chili beans , cayenne pepper , chili powder , soy sauce and water .
+PREDID: 0
+PRED: add
+  DOBJ: tomato-vegetable juice , soup , chili beans , cayenne pepper , chili powder , soy sauce, water
+  PARG: the slow cooker
+    PREP: to
+  OARG: then
+
+
+SENTID: 4
+SENT: Cover slow cooker and cook on low setting for 2 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: slow cooker
+
+PREDID: 1
+PRED: cook
+  PARG: low setting
+    PREP: on
+  PARG: 2 hours
+    PREP: for
+

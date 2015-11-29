@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Combine chicken stock , summer savory , basil , thyme , chipotle powder , salt , black pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken stock , summer savory , basil , thyme , chipotle powder , salt , black pepper
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add carrots , reduce heat to medium-low , and cook until carrots are tender , 5 to 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: carrots , reduce heat
+  PARG: medium-low , cook
+    PREP: to
+  PARG: carrots are tender , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Melt butter in a skillet .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+
+
+SENTID: 4
+SENT: Cook and stir celery , onion , and garlic in hot butter until onions are translucent , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: celery , onion , garlic
+
+PREDID: 1
+PRED: stir
+  PARG: hot butter
+    PREP: in
+  PARG: onions are translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: stir into stock mixture .
+PREDID: 0
+PRED: stir
+  PARG: stock mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Add turkey , reduce heat to low , and cook at a simmer until turkey is hot and has flavored the soup , about 30 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: turkey
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: a simmer
+    PREP: at
+  PARG: turkey is hot, has flavored the soup , about 30 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Cook egg noodles in the boiling water , stirring occasionally until cooked through but firm to the bite , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: drain and add to soup .
+PREDID: 0
+PRED: drain
+  PARG: soup
+    PREP: to
+
+PREDID: 1
+PRED: add
+
+
+SENTID: 10
+SENT: Season with salt and black pepper to serve .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+  PARG: serve
+    PREP: to
+

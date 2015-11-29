@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: Heat a large stockpot over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a large stockpot
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir beef in the hot stockpot until browned and crumbly , 5 to 7 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+
+PREDID: 1
+PRED: stir
+  PARG: the hot stockpot
+    PREP: in
+  PARG: browned, crumbly , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Add green bell pepper and onion to ground beef ;
+PREDID: 0
+PRED: add
+  DOBJ: green bell pepper, onion
+  PARG: ground beef
+    PREP: to
+
+
+SENTID: 4
+SENT: saute until vegetables are tender , 5 to 10 minutes .
+PREDID: 0
+PRED: saute
+  PARG: vegetables are tender , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir tomato juice , mild chili beans , hot chili beans , beer , chili powder , garlic salt , vinegar , allspice , red pepper flakes , and bay leaves into ground beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: tomato juice , mild chili beans , hot chili beans , beer , chili powder , garlic salt , vinegar , allspice , red pepper flakes , bay leaves
+  PARG: ground beef mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Cover stockpot with a lid and simmer at least 2 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: stockpot
+  PARG: a lid
+    PREP: with
+
+PREDID: 1
+PRED: simmer
+  PARG: least 2 hours
+    PREP: at
+

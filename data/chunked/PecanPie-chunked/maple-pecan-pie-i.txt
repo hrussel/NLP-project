@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spread the nuts evenly over pie shell .
+PREDID: 0
+PRED: spread
+  DOBJ: the nuts
+  PARG: pie shell
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 2
+SENT: Mix together butter or margarine , vanilla , and flour .
+PREDID: 0
+PRED: mix
+  DOBJ: butter or margarine , vanilla , flour
+  OARG: together
+
+
+SENTID: 3
+SENT: Beat the eggs well , and blend into the flour mixture .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  OARG: well
+
+PREDID: 1
+PRED: blend
+  PARG: the flour mixture
+    PREP: into
+
+
+SENTID: 4
+SENT: Add salt , maple syrup , and cream .
+PREDID: 0
+PRED: add
+  DOBJ: salt , maple syrup , cream
+
+
+SENTID: 5
+SENT: Pour filling over the nuts in the pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: the nuts
+    PREP: over
+  PARG: the pie shell
+    PREP: in
+
+
+SENTID: 6
+SENT: Bake for 50 to 60 minutes , or until knife inserted in center come out clean .
+PREDID: 0
+PRED: bake
+  PARG: 50 to 60 minutes
+    PREP: for
+  PARG: knife inserted in center come out clean
+    PREP: until
+
+
+SENTID: 7
+SENT: Let cool at least 15 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: least 15 minutes
+    PREP: at
+  PARG: serving
+    PREP: before
+

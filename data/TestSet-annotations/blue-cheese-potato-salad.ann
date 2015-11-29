@@ -1,0 +1,72 @@
+T1	predicate 0 5	Place
+T2	predicate 38 42	Cook
+T3	predicate 85 90	Drain
+T4	predicate 92 99	crumble
+T5	predicate 104 113	set aside
+T6	predicate 115 120	Bring
+T7	predicate 160 163	Add
+T8	predicate 229 234	Drain
+T9	predicate 236 240	cool
+T10	predicate 245 249	chop
+T11	predicate 286 291	whisk
+T12	predicate 350 353	Add
+T13	predicate 389 393	toss
+R1	object Arg1:T4 Arg2:T3	
+R2	object Arg1:T5 Arg2:T4	
+R3	object Arg1:T3 Arg2:T2	
+R4	object Arg1:T2 Arg2:T1	
+R5	co-object Arg1:T7 Arg2:T6	
+R7	object Arg1:T9 Arg2:T8	
+R8	object Arg1:T10 Arg2:T9	
+R9	co-object Arg1:T12 Arg2:T11	
+R10	object Arg1:T13 Arg2:T12	
+T14	arg_object 6 11	bacon
+T15	arg_location 12 36	in a large, deep skillet
+R11	object Arg1:T1 Arg2:T14	
+R12	location Arg1:T1 Arg2:T15	
+T16	arg_duration 43 83	over medium high heat until evenly brown
+R13	duration Arg1:T2 Arg2:T16	
+T17	arg_object 121 148	a large pot of salted water
+T18	arg_duration 149 158	to a boil
+R14	object Arg1:T6 Arg2:T17	
+R15	duration Arg1:T6 Arg2:T18	
+T19	arg_object 164 172	potatoes
+R16	object Arg1:T7 Arg2:T19	
+T20	predicate 177 181	cook
+R17	object Arg1:T20 Arg2:T7	
+T21	arg_duration 182 227	until tender but still firm, about 15 minutes
+R18	duration Arg1:T20 Arg2:T21	
+R6	object Arg1:T8 Arg2:T20	
+T22	arg_location 269 284	In a large bowl
+R19	location Arg1:T11 Arg2:T22	
+T23	arg_object 301 308	the oil
+T24	arg_object 310 317	vinegar
+T25	arg_object 319 331	green onions
+T26	arg_object 333 337	salt
+T27	arg_object 342 348	pepper
+R20	object Arg1:T11 Arg2:T23	
+R21	object Arg1:T11 Arg2:T24	
+R22	object Arg1:T11 Arg2:T25	
+R23	object Arg1:T11 Arg2:T26	
+R24	object Arg1:T11 Arg2:T27	
+T28	arg_object 354 366	the potatoes
+T29	Evolution 354 366	the potatoes
+E1	Evolution:T29 Cause:T10
+T30	arg_object 368 373	bacon
+T31	Evolution 368 373	bacon
+E2	Evolution:T31 Cause:T5
+T32	arg_object 378 384	cheese
+R25	object Arg1:T12 Arg2:T28	
+R26	object Arg1:T12 Arg2:T30	
+R27	object Arg1:T12 Arg2:T32	
+T33	arg_other 394 401	to coat
+R28	other Arg1:T13 Arg2:T33	
+T34	ingredient 164 172	potatoes
+R29	co-object Arg1:T8 Arg2:T20	
+T35	ingredient 301 308	the oil
+T36	ingredient 310 317	vinegar
+T37	ingredient 319 331	green onions
+T38	ingredient 333 337	salt
+T39	ingredient 342 348	pepper
+T40	ingredient 378 384	cheese
+R30	co-object Arg1:T3 Arg2:T2	

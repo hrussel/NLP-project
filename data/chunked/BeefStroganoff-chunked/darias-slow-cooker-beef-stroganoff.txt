@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Place the beef in the bottom of a slow cooker , and season with salt and pepper to taste .
+PREDID: 0
+PRED: place
+  DOBJ: the beef
+  PARG: the bottom of a slow cooker
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 1
+SENT: Place onion on top of beef , and then add mushroom soup , mushrooms , and water .
+PREDID: 0
+PRED: place
+  DOBJ: onion
+  PARG: top of beef
+    PREP: on
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: mushroom soup , mushrooms , water
+
+
+SENTID: 2
+SENT: Season with chives , garlic , Worcestershire sauce , and bouillon .
+PREDID: 0
+PRED: season
+  PARG: chives , garlic , worcestershire sauce , bouillon
+    PREP: with
+
+
+SENTID: 3
+SENT: In a small bowl , mix together the wine with the flour .
+PREDID: 0
+PRED: mix
+  DOBJ: the wine
+  PARG: a small bowl
+    PREP: in
+  PARG: the flour
+    PREP: with
+  OARG: together
+
+
+SENTID: 4
+SENT: Pour over the beef .
+PREDID: 0
+PRED: pour
+  PARG: the beef
+    PREP: over
+
+
+SENTID: 5
+SENT: Cover , and cook on Low for 6 to 7 hours .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: low
+    PREP: on
+  PARG: 6 to 7 hours
+    PREP: for
+
+
+SENTID: 6
+SENT: Stir in the sour cream and parsley , and continue cooking for 1 hour .
+PREDID: 0
+PRED: stir
+  PARG: the sour cream, parsley , continue cooking
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+

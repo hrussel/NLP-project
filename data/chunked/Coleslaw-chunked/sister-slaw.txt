@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Stir together the kale , green cabbage , red cabbage , carrots , and onion in a very large bowl ;
+PREDID: 0
+PRED: stir
+  DOBJ: the kale , green cabbage , red cabbage , carrots , onion
+  PARG: a very large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Whisk together the olive oil , vinegar , lime juice , maple syrup , salt , and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: the olive oil , vinegar , lime juice , maple syrup , salt , pepper
+  OARG: together
+
+
+SENTID: 3
+SENT: Pour the dressing over the vegetables , and stir thoroughly , making sure to coat the vegetables very well .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing
+  PARG: the vegetables
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  DOBJ: making
+  PARG: coat the vegetables
+    PREP: to
+  OARG: thoroughly
+  OARG: sure
+  OARG: very
+  OARG: well
+
+
+SENTID: 4
+SENT: Chill in the refrigerator for two hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: two hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

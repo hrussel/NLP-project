@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: In a large pot of salted water boil egg noodles until al dente .
+PREDID: 0
+PRED: boil
+  DOBJ: egg noodles
+  PARG: a large pot of salted water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 2
+SENT: In a large saucepan over medium-high heat saute butter , onion , and garlic until onions are soft .
+PREDID: 0
+PRED: saute
+  DOBJ: butter , onion , garlic
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: onions are soft
+    PREP: until
+
+
+SENTID: 3
+SENT: Add flour and mushrooms .
+PREDID: 0
+PRED: add
+  DOBJ: flour, mushrooms
+
+
+SENTID: 4
+SENT: Cook 5 minutes .
+PREDID: 0
+PRED: cook
+  OARG: 5 minutes
+
+
+SENTID: 5
+SENT: Add mushroom soup to saucepan , simmer uncovered 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: mushroom soup
+  PARG: saucepan
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  OARG: uncovered 10 minutes
+
+
+SENTID: 6
+SENT: Add cooked halibut and stir in sour cream .
+PREDID: 0
+PRED: add
+  DOBJ: cooked halibut
+
+PREDID: 1
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+
+SENTID: 7
+SENT: Heat through .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 8
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Serve sauce over egg noodles , sprinkle parsley on top .
+PREDID: 0
+PRED: serve
+  DOBJ: sauce
+  PARG: egg noodles
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: parsley
+  PARG: top
+    PREP: on
+
+
+SENTID: 10
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

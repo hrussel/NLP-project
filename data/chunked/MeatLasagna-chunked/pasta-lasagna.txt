@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2Ê1/2 quart baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2Ê1/2 quart baking dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: In a large skillet over medium heat , cook beef until brown ;
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 6
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: Stir in pasta sauce ;
+PREDID: 0
+PRED: stir
+  PARG: pasta sauce
+    PREP: in
+
+
+SENTID: 8
+SENT: remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 9
+SENT: In a bowl , combine ricotta , 1 cup mozzarella , Parmesan and beaten egg .
+PREDID: 0
+PRED: combine
+  DOBJ: ricotta , 1 cup mozzarella , parmesan, beaten egg
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 10
+SENT: Stir until well combined .
+PREDID: 0
+PRED: stir
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 11
+SENT: In the prepared dish layer half the pasta , half the sauce and half the cheese mixture .
+PREDID: 0
+PRED: layer
+  DOBJ: half the pasta , half the sauce, half the cheese mixture
+  PARG: the prepared dish
+    PREP: in
+
+
+SENTID: 12
+SENT: Repeat .
+PREDID: 0
+PRED: repeat
+
+
+SENTID: 13
+SENT: Top with remaining mozzarella .
+PREDID: 0
+PRED: top
+  PARG: remaining mozzarella
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in preheated oven 34 to 40 minutes , until hot and bubbly .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 34 to 40 minutes
+    PREP: in
+  PARG: hot, bubbly
+    PREP: until
+

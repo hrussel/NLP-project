@@ -1,0 +1,29 @@
+SENTID: 0
+SENT: In a large bowl , mix mayonnaise , sugar , salt , pepper , celery seed , garlic powder , onion powder and cider vinegar .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , sugar , salt , pepper , celery seed , garlic powder , onion powder, cider vinegar
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Toss coleslaw mix with dressing to coat .
+PREDID: 0
+PRED: toss
+  DOBJ: coleslaw mix
+  PARG: dressing
+    PREP: with
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Chill at least 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

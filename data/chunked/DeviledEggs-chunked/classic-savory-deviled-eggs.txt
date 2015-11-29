@@ -1,0 +1,45 @@
+SENTID: 0
+SENT: Scoop egg yolks into a bowl and set egg whites aside .
+PREDID: 0
+PRED: scoop
+  DOBJ: egg yolks
+  PARG: a bowl
+    PREP: into
+
+PREDID: 1
+PRED: set
+  DOBJ: egg whites
+  OARG: aside
+
+
+SENTID: 1
+SENT: Mash yolks , mayonnaise , vinegar , 1/2 teaspoon chopped dill , Dijon mustard , garlic powder , and salt .
+PREDID: 0
+PRED: mash
+  DOBJ: yolks , mayonnaise , vinegar , 1/2 teaspoon chopped dill , dijon mustard , garlic powder , salt
+
+
+SENTID: 2
+SENT: Spoon yolk mixture into egg whites .
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg whites
+    PREP: into
+
+
+SENTID: 3
+SENT: Garnish with dill sprigs .
+PREDID: 0
+PRED: garnish
+  PARG: dill sprigs
+    PREP: with
+
+
+SENTID: 4
+SENT: Refrigerate until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+

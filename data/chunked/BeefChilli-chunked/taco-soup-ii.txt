@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: In a large Dutch oven , brown the beef and chopped onion over medium heat .
+PREDID: 0
+PRED: brown
+  DOBJ: the beef, chopped onion
+  PARG: a large dutch oven
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Drain off any fat .
+PREDID: 0
+PRED: drain
+  PARG: any fat
+    PREP: off
+
+
+SENTID: 2
+SENT: Add chilies , salt and pepper , beans , water , seasoning mixes , hominy , and stewed tomatoes to the beef and onion .
+PREDID: 0
+PRED: add
+  DOBJ: chilies , salt, pepper , beans , water , seasoning mixes , hominy , stewed tomatoes
+  PARG: the beef, onion
+    PREP: to
+
+
+SENTID: 3
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Reduce heat , and simmer for 30 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Top with shredded cheese , and serve with chips .
+PREDID: 0
+PRED: top
+  PARG: shredded cheese
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  PARG: chips
+    PREP: with
+

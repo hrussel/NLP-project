@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: Combine the ground beef , pickles , onion , Parmesan cheese , mayonnaise , ketchup , garlic , salt , and pepper in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , pickles , onion , parmesan cheese , mayonnaise , ketchup , garlic , salt , pepper
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Form the mixture into 4 patties .
+PREDID: 0
+PRED: form
+  DOBJ: the mixture
+  PARG: 4 patties
+    PREP: into
+
+
+SENTID: 2
+SENT: Heat the olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook the hamburger patties in the hot oil until the burgers are cooked to your desired degree of doneness , 8 to 10 minutes for well done .
+PREDID: 0
+PRED: cook
+  DOBJ: the hamburger patties
+  PARG: the hot oil
+    PREP: in
+  PARG: the burgers are cooked to your desired degree of doneness , 8 to 10 minutes for well done
+    PREP: until
+
+
+SENTID: 4
+SENT: Line a baking sheet with parchment paper , and set aside .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: parchment paper
+    PREP: with
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Cover a flat surface with the flour .
+PREDID: 0
+PRED: cover
+  DOBJ: a flat surface
+  PARG: the flour
+    PREP: with
+
+
+SENTID: 6
+SENT: Divide the bread dough into 4 even pieces ;
+PREDID: 0
+PRED: divide
+  DOBJ: the bread dough
+  PARG: 4 even pieces
+    PREP: into
+
+
+SENTID: 7
+SENT: roll each piece into a flattened rectangle on the floured surface at least twice the size of the American cheese slices .
+PREDID: 0
+PRED: roll
+  DOBJ: the size of the american cheese slices
+  PARG: a flattened rectangle
+    PREP: into
+  PARG: the floured surface
+    PREP: on
+  PARG: least
+    PREP: at
+  OARG: twice
+  OARG: each piece
+
+
+SENTID: 8
+SENT: Place one slice of American cheese on each piece of dough ;
+PREDID: 0
+PRED: place
+  DOBJ: one slice of american cheese
+  PARG: each piece of dough
+    PREP: on
+
+
+SENTID: 9
+SENT: top each with one of the cooked patties and another slice of American cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each with one of the cooked patties, another slice of american cheese
+
+
+SENTID: 10
+SENT: Fold the dough over the top of the meat and cheese .
+PREDID: 0
+PRED: fold
+  DOBJ: the dough
+  PARG: the top of the meat, cheese
+    PREP: over
+
+
+SENTID: 11
+SENT: Pinch the dough around the edges to seal completely .
+PREDID: 0
+PRED: pinch
+  DOBJ: the dough
+  PARG: the edges
+    PREP: around
+  PARG: seal
+    PREP: to
+  OARG: completely
+
+
+SENTID: 12
+SENT: Arrange on the prepared baking sheet with the seam side facing downward .
+PREDID: 0
+PRED: arrange
+  PARG: the prepared baking sheet
+    PREP: on
+  PARG: the seam side facing
+    PREP: with
+  OARG: downward
+
+
+SENTID: 13
+SENT: Brush the tops with the melted butter ;
+PREDID: 0
+PRED: brush
+  DOBJ: the tops
+  PARG: the melted butter
+    PREP: with
+
+
+SENTID: 14
+SENT: move to a warm area and allow to rise for 20 minutes .
+PREDID: 0
+PRED: move
+  PARG: a warm area
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: rise
+    PREP: to
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: Preheat an oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 16
+SENT: Bake in the preheated oven until the bread has browned , about 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the bread has browned , about 20 minutes
+    PREP: until
+

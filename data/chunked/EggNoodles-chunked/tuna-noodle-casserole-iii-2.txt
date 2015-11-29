@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: In a 1Ê1/2 quart glass casserole dish , layer noodles , butter cubes , 2 slices of cheese , 1/2 of the tuna , and 1/2 of the soup .
+PREDID: 0
+PRED: layer
+  DOBJ: noodles , butter cubes , 2 slices of cheese , 1/2 of the tuna , 1/2 of the soup
+  PARG: a 1Ê1/2 quart glass casserole dish
+    PREP: in
+
+
+SENTID: 5
+SENT: Repeat the layering with the remaining ingredients .
+PREDID: 0
+PRED: repeat
+  DOBJ: the layering
+  PARG: the remaining ingredients
+    PREP: with
+
+
+SENTID: 6
+SENT: Top the casserole with bread crumbs .
+PREDID: 0
+PRED: top
+  DOBJ: the casserole
+  PARG: bread crumbs
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 10 to 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 10 to 15 minutes
+    PREP: for
+

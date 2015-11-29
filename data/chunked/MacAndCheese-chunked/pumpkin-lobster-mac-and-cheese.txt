@@ -1,0 +1,170 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a rolling boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta shells at a boil until tender but still slightly firm , about 10 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta shells
+  PARG: a boil
+    PREP: at
+  PARG: tender but still slightly firm , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: Preheat the oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Grease a 9x13-inch casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch casserole dish
+
+
+SENTID: 5
+SENT: Melt 2 tablespoons margarine in a skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons margarine
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook and stir shallot in melted margarine until lightly browned , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: shallot
+
+PREDID: 1
+PRED: stir
+  PARG: melted margarine
+    PREP: in
+  PARG: lightly browned , about 5 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Whisk flour into margarine and shallots to form a smooth paste .
+PREDID: 0
+PRED: whisk
+  DOBJ: flour
+  PARG: margarine, shallots
+    PREP: into
+  PARG: form a smooth paste
+    PREP: to
+
+
+SENTID: 8
+SENT: Slowly whisk evaporated milk into flour mixture until it forms a smooth sauce ;
+PREDID: 0
+PRED: whisk
+  DOBJ: evaporated milk
+  PARG: flour mixture
+    PREP: into
+  PARG: it forms a smooth sauce
+    PREP: until
+  OARG: slowly
+
+
+SENTID: 9
+SENT: simmer until thickened , 2 to 4 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: thickened , 2 to 4 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Whisk shredded Cheddar cheese and mascarpone cheese into sauce until cheeses have melted , about 5 minutes .
+PREDID: 0
+PRED: whisk
+  DOBJ: shredded cheddar cheese, mascarpone cheese
+  PARG: sauce
+    PREP: into
+  PARG: cheeses have melted , about 5 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Stir pumpkin puree , lemon zest , salt , black pepper , garlic powder , paprika , nutmeg , and hot sauce into the sauce until combined .
+PREDID: 0
+PRED: stir
+  DOBJ: pumpkin puree , lemon zest , salt , black pepper , garlic powder , paprika , nutmeg , hot sauce
+  PARG: the sauce
+    PREP: into
+  PARG: combined
+    PREP: until
+
+
+SENTID: 12
+SENT: Lightly mix in lobster tail meat , green peas , and cooked pasta shells until heated through , about 5 minutes .
+PREDID: 0
+PRED: mix
+  PARG: lobster tail meat , green peas , cooked pasta shells
+    PREP: in
+  PARG: heated through , about 5 minutes
+    PREP: until
+  OARG: lightly
+
+
+SENTID: 13
+SENT: Pour pasta mixture into prepared casserole dish ;
+PREDID: 0
+PRED: pour
+  DOBJ: pasta mixture
+  PARG: prepared casserole dish
+    PREP: into
+
+
+SENTID: 14
+SENT: top with panko crumbs and Parmesan cheese .
+PREDID: 0
+PRED: top
+  PARG: panko crumbs, parmesan cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Drizzle 2 tablespoons of melted margarine over the casserole .
+PREDID: 0
+PRED: drizzle
+  DOBJ: 2 tablespoons of melted margarine
+  PARG: the casserole
+    PREP: over
+
+
+SENTID: 16
+SENT: Bake in the preheated oven until topping is brown and crisp , 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: topping is brown, crisp , 40 minutes
+    PREP: until
+

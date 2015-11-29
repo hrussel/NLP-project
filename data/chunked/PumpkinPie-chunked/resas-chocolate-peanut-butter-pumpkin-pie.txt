@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk sugar , cinnamon , salt , ginger , and cloves together in a small bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: sugar , cinnamon , salt , ginger , cloves
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Beat eggs together in a large bowl ;
+PREDID: 0
+PRED: beat
+  DOBJ: eggs
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: stir in pumpkin and sugar mixture until just combined .
+PREDID: 0
+PRED: stir
+  PARG: pumpkin, sugar mixture
+    PREP: in
+  PARG: just combined
+    PREP: until
+
+
+SENTID: 4
+SENT: Slowly pour evaporated milk into pumpkin mixture and stir until combined .
+PREDID: 0
+PRED: pour
+  DOBJ: evaporated milk
+  PARG: pumpkin mixture
+    PREP: into
+  OARG: slowly
+
+PREDID: 1
+PRED: stir
+  PARG: combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Arrange peanut butter cups , up-side down , into the graham cracker crust .
+PREDID: 0
+PRED: arrange
+  DOBJ: peanut butter cups , up-side
+  PARG: the graham cracker crust
+    PREP: into
+  OARG: down
+
+
+SENTID: 6
+SENT: Pour pumpkin mixture over peanut butter cups in pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: pumpkin mixture
+  PARG: peanut butter cups
+    PREP: over
+  PARG: pie crust
+    PREP: in
+
+
+SENTID: 7
+SENT: Bake in the preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Reduce temperature to 350 degrees F -LRB- 175 degrees C -RRB- and continue baking until a knife inserted in the center of the pie comes out clean , 40 to 50 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  DOBJ: baking
+  PARG: a knife inserted in the center of the pie comes out clean , 40 to 50 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool completely on a wire rack , about 2 hours .
+PREDID: 0
+PRED: cool
+  PARG: a wire rack
+    PREP: on
+  PARG: 2 hours
+    PREP: about
+  OARG: completely
+
+
+SENTID: 10
+SENT: Serve immediately or refrigerate .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+
+PREDID: 1
+PRED: refrigerate
+

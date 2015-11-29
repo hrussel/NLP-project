@@ -1,0 +1,49 @@
+T1	predicate 0 7	Preheat
+T2	predicate 64 71	combine
+T3	predicate 135 138	Mix
+T4	predicate 163 168	Press
+T5	predicate 193 197	Bake
+T6	predicate 264 269	Drain
+T7	predicate 271 280	Let stand
+T8	arg_object 8 12	oven
+T9	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T8	
+R2	duration Arg1:T1 Arg2:T9	
+T10	arg_location 47 62	In a large bowl
+T11	arg_object 72 76	meat
+T12	arg_object 78 90	tomato juice
+T13	arg_object 92 96	oats
+T14	arg_object 98 101	egg
+T15	arg_object 103 116	chopped onion
+T16	arg_object 118 122	salt
+T17	arg_object 127 133	pepper
+R3	location Arg1:T2 Arg2:T10	
+R4	object Arg1:T2 Arg2:T11	
+R5	object Arg1:T2 Arg2:T12	
+R6	object Arg1:T2 Arg2:T13	
+R7	object Arg1:T2 Arg2:T14	
+R8	object Arg1:T2 Arg2:T15	
+R9	object Arg1:T2 Arg2:T16	
+R10	object Arg1:T2 Arg2:T17	
+T18	arg_other 139 161	lightly but thoroughly
+R11	other Arg1:T3 Arg2:T18	
+R12	object Arg1:T3 Arg2:T2	
+R13	object Arg1:T4 Arg2:T3	
+T19	arg_location 169 191	into 8x4 inch loaf pan
+R14	location Arg1:T4 Arg2:T19	
+T20	arg_duration 198 262	for 1 hour, or until meat is no longer pink and juices run clear
+R15	duration Arg1:T5 Arg2:T20	
+R16	object Arg1:T5 Arg2:T4	
+R17	location Arg1:T5 Arg2:T1	
+R18	co-object Arg1:T6 Arg2:T5	
+R19	object Arg1:T7 Arg2:T6	
+T21	arg_duration 281 305	5 minutes before serving
+R20	duration Arg1:T7 Arg2:T21	
+T22	ingredient 72 76	meat
+T23	ingredient 78 90	tomato juice
+T24	ingredient 92 96	oats
+T25	ingredient 98 101	egg
+T26	ingredient 103 116	chopped onion
+T27	ingredient 118 122	salt
+T28	ingredient 127 133	pepper
+R21	object Arg1:T6 Arg2:T5	

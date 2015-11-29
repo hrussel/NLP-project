@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Spread four slices of bread with peanut butter and jam .
+PREDID: 0
+PRED: spread
+  DOBJ: four slices of bread
+  PARG: peanut butter, jam
+    PREP: with
+
+
+SENTID: 1
+SENT: Cover with remaining four slices of bread .
+PREDID: 0
+PRED: cover
+  PARG: remaining four slices of bread
+    PREP: with
+
+
+SENTID: 2
+SENT: Beat together egg , milk , sugar and salt .
+PREDID: 0
+PRED: beat
+  DOBJ: egg , milk , sugar, salt
+  OARG: together
+
+
+SENTID: 3
+SENT: In a large skillet or frying pan , melt butter over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet or frying pan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Dip each sandwich into the egg mixture to coat it well and allow the excess to drip off .
+PREDID: 0
+PRED: dip
+  DOBJ: each sandwich
+  PARG: the egg mixture
+    PREP: into
+  PARG: coat it
+    PREP: to
+  OARG: well
+
+PREDID: 1
+PRED: allow
+  DOBJ: the excess
+  PARG: drip
+    PREP: to
+
+
+SENTID: 5
+SENT: Place sandwiches in pan and cook until golden on both sides .
+PREDID: 0
+PRED: place
+  DOBJ: sandwiches
+  PARG: pan
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: golden on both sides
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve warm .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+

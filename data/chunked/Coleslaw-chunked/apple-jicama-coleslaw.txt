@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Place cabbage , jicama , and apple in a large bowl and toss to combine .
+PREDID: 0
+PRED: place
+  DOBJ: cabbage , jicama , apple
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk mayonnaise , pineapple juice , sugar , hot sauce , salt , and pepper in a bowl until mixture is smooth and fluffy , 1 to 2 minutes .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , pineapple juice , sugar , hot sauce , salt , pepper
+  PARG: a bowl
+    PREP: in
+  PARG: mixture is smooth, fluffy , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour mayonnaise mixture over cabbage , jicama , and apple ;
+PREDID: 0
+PRED: pour
+  DOBJ: mayonnaise mixture
+  PARG: cabbage , jicama , apple
+    PREP: over
+
+
+SENTID: 3
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 4
+SENT: Let sit for 5 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: sit
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Mix in cilantro and toss again .
+PREDID: 0
+PRED: mix
+  PARG: cilantro
+    PREP: in
+
+PREDID: 1
+PRED: toss
+  OARG: again
+
+
+SENTID: 6
+SENT: Garnish with toasted corn bits and serve immediately .
+PREDID: 0
+PRED: garnish
+  PARG: toasted corn bits
+    PREP: with
+
+PREDID: 1
+PRED: serve
+  OARG: immediately
+

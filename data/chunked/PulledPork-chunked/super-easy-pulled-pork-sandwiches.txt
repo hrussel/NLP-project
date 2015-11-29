@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix brown sugar , paprika , garlic powder , black pepper , and salt in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: brown sugar , paprika , garlic powder , black pepper , salt
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Spread mustard over pork roast and sprinkle with brown sugar mixture , using the entire amount .
+PREDID: 0
+PRED: spread
+  DOBJ: mustard
+  PARG: pork roast
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: using the entire amount
+  PARG: brown sugar mixture
+    PREP: with
+
+
+SENTID: 3
+SENT: Line a shallow baking dish with aluminum foil .
+PREDID: 0
+PRED: line
+  DOBJ: a shallow baking dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 4
+SENT: Place a rack in the prepared baking dish and arrange pork roast on rack .
+PREDID: 0
+PRED: place
+  DOBJ: a rack
+  PARG: the prepared baking dish
+    PREP: in
+
+PREDID: 1
+PRED: arrange
+  DOBJ: pork roast
+  PARG: rack
+    PREP: on
+
+
+SENTID: 5
+SENT: Bake in the preheated oven until very tender , 9 to 11 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: very tender , 9 to 11 hours
+    PREP: until
+
+
+SENTID: 6
+SENT: Let pork cool , then shred into bite-size pieces . Stir barbeque sauce into pork to moisten ;
+PREDID: 0
+PRED: let
+  DOBJ: pork
+
+PREDID: 1
+PRED: cool
+  OARG: then
+
+PREDID: 2
+PRED: shred
+  PARG: bite-size pieces
+    PREP: into
+
+PREDID: 3
+PRED: stir
+  DOBJ: barbeque sauce
+  PARG: pork
+    PREP: into
+  OARG: to moisten
+
+
+SENTID: 7
+SENT: serve with hamburger buns .
+PREDID: 0
+PRED: serve
+  PARG: hamburger buns
+    PREP: with
+

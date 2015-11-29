@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: In large sauce pot , cook pasta in salted water according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: large sauce pot
+    PREP: in
+  PARG: salted water according
+    PREP: in
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Meanwhile , in a small saucepan , combine milk , garlic , nutmeg and chili powder .
+PREDID: 0
+PRED: combine
+  DOBJ: milk , garlic , nutmeg, chili powder
+  PARG: a small saucepan
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 2
+SENT: Bring to a boil ;
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: reduce heat ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 4
+SENT: simmer for 5 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: When pasta is almost cooked , place in blender the parsley leaves , 1Ê1/2 cups of the diced avocado , the cheese , lime juice and hot milk with garlic cloves ;
+PREDID: 0
+PRED: place
+  DOBJ: cooked
+  PARG: blender the parsley leaves , 1Ê1/2 cups of the diced avocado , the cheese , lime juice, hot milk
+    PREP: in
+  PARG: garlic cloves
+    PREP: with
+  OARG: when pasta is
+  OARG: almost
+
+
+SENTID: 6
+SENT: whirl until smooth .
+PREDID: 0
+PRED: whirl
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain pasta and return to sauce pot .
+PREDID: 0
+PRED: drain
+  DOBJ: pasta
+
+PREDID: 1
+PRED: return
+  PARG: sauce pot
+    PREP: to
+
+
+SENTID: 8
+SENT: Pour cheese sauce over pasta ;
+PREDID: 0
+PRED: pour
+  DOBJ: cheese sauce
+  PARG: pasta
+    PREP: over
+
+
+SENTID: 9
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 10
+SENT: Add chives and remaining 1/2 cup diced avocado ;
+PREDID: 0
+PRED: add
+  DOBJ: remaining 1/2 cup diced avocado
+  OARG: chives
+
+
+SENTID: 11
+SENT: toss gently .
+PREDID: 0
+PRED: toss
+  OARG: gently
+
+
+SENTID: 12
+SENT: Serve hot or at room temperature .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+  PARG: room temperature
+    PREP: at
+
+
+SENTID: 13
+SENT: Best when served the day of preparation .
+PREDID: 0
+PRED: best
+  OARG: when served the day of preparation
+

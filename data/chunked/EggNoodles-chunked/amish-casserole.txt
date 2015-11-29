@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add egg noodles and cook until tender , about 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 7 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and return to the pan .
+PREDID: 0
+PRED: drain
+  PARG: the pan
+    PREP: to
+
+PREDID: 1
+PRED: return
+
+
+SENTID: 4
+SENT: Mix in the cream of chicken soup until noodles are coated .
+PREDID: 0
+PRED: mix
+  PARG: the cream of chicken soup
+    PREP: in
+  PARG: noodles are coated
+    PREP: until
+
+
+SENTID: 5
+SENT: Crumble the ground beef into a large skillet over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: the ground beef
+  PARG: a large skillet
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Drain the grease , and stir in the tomato soup , brown sugar , pepper and salt .
+PREDID: 0
+PRED: drain
+  DOBJ: the grease
+
+PREDID: 1
+PRED: stir
+  PARG: the tomato soup , brown sugar , pepper, salt
+    PREP: in
+
+
+SENTID: 7
+SENT: Spread half of the beef in the bottom of a greased 2Ê1/2 quart casserole dish .
+PREDID: 0
+PRED: spread
+  DOBJ: half of the beef
+  PARG: the bottom of a greased 2Ê1/2 quart casserole dish
+    PREP: in
+
+
+SENTID: 8
+SENT: Arrange 5 slices of cheese over the beef .
+PREDID: 0
+PRED: arrange
+  DOBJ: 5 slices of cheese
+  PARG: the beef
+    PREP: over
+
+
+SENTID: 9
+SENT: Top with half of the noodles , then repeat layers ending with cheese on top .
+PREDID: 0
+PRED: top
+  PARG: half of the noodles
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: repeat
+  DOBJ: layers ending
+  PARG: cheese
+    PREP: with
+  PARG: top
+    PREP: on
+
+
+SENTID: 10
+SENT: Bake for 35 minutes in the preheated oven , until cheese is browned and sauce is bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 35 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is browned, sauce is bubbly
+    PREP: until
+

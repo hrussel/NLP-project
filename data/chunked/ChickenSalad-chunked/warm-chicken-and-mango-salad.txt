@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: In a small bowl , blend vanilla yogurt , lime juice , mango chutney , rice vinegar , honey , cumin , coriander , and paprika .
+PREDID: 0
+PRED: blend
+  DOBJ: vanilla yogurt , lime juice , mango chutney , rice vinegar , honey , cumin , coriander , paprika
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Heat olive oil in a medium skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: olive oil
+  PARG: a medium skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Place chicken , ginger , and garlic in the skillet .
+PREDID: 0
+PRED: place
+  DOBJ: chicken , ginger , garlic
+  PARG: the skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook 7 to 10 minutes , stirring occasionally , until chicken is no longer pink and juices run clear .
+PREDID: 0
+PRED: cook
+  PARG: chicken is no longer pink, juices run clear
+    PREP: until
+  OARG: 7 to 10 minutes , stirring
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Mix mango , red bell pepper , and green onions into the skillet .
+PREDID: 0
+PRED: mix
+  DOBJ: mango , red bell pepper , green onions
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 5
+SENT: Cook about 5 minutes , until pepper is tender and mangoes are heated through .
+PREDID: 0
+PRED: cook
+  PARG: 5 minutes
+    PREP: about
+  PARG: pepper is tender, mangoes are heated through
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the vanilla yogurt mixture .
+PREDID: 0
+PRED: stir
+  PARG: the vanilla yogurt mixture
+    PREP: in
+
+
+SENTID: 7
+SENT: Spoon over romaine lettuce to serve .
+PREDID: 0
+PRED: spoon
+  PARG: romaine lettuce
+    PREP: over
+  PARG: serve
+    PREP: to
+

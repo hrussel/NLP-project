@@ -1,0 +1,125 @@
+SENTID: 0
+SENT: In a small bowl , stir together the brown sugar , melted butter , and corn syrup .
+PREDID: 0
+PRED: stir
+  DOBJ: the brown sugar , melted butter , corn syrup
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour into a greased 9x13 inch baking dish , and spread evenly .
+PREDID: 0
+PRED: pour
+  PARG: a greased 9x13 inch baking dish
+    PREP: into
+
+PREDID: 1
+PRED: spread
+  OARG: evenly
+
+
+SENTID: 2
+SENT: Sprinkle pecans over the sugar mixture .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pecans
+  PARG: the sugar mixture
+    PREP: over
+
+
+SENTID: 3
+SENT: Arrange the bread slices in the bottom of the dish so they are in a snug single layer .
+PREDID: 0
+PRED: arrange
+  DOBJ: the bread slices
+  PARG: the bottom of the dish
+    PREP: in
+  PARG: a snug single layer
+    PREP: in
+  OARG: so
+
+
+SENTID: 4
+SENT: In a medium bowl , whisk together the orange zest , orange juice , milk , sugar , cinnamon , vanilla , egg whites , and eggs .
+PREDID: 0
+PRED: whisk
+  DOBJ: the orange zest , orange juice , milk , sugar , cinnamon , vanilla , egg whites , eggs
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Pour this mixture over the bread , pressing on the bread slices to help absorb the liquid .
+PREDID: 0
+PRED: pour
+  DOBJ: this mixture
+  PARG: the bread , pressing
+    PREP: over
+  PARG: the bread slices
+    PREP: on
+  PARG: help absorb the liquid
+    PREP: to
+
+
+SENTID: 6
+SENT: Cover and refrigerate for at least one hour , or overnight .
+PREDID: 0
+PRED: cover
+  PARG: at least one hour
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 7
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Remove the cover from the baking dish , and let stand for 20 minutes at room temperature .
+PREDID: 0
+PRED: remove
+  DOBJ: the cover
+  PARG: the baking dish
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: 20 minutes
+    PREP: for
+  PARG: room temperature
+    PREP: at
+
+
+SENTID: 9
+SENT: Bake for 35 minutes in the preheated oven , until golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 35 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 10
+SENT: Dust with confectioners ' sugar before serving .
+PREDID: 0
+PRED: dust
+  PARG: confectioners ' sugar
+    PREP: with
+  PARG: serving
+    PREP: before
+

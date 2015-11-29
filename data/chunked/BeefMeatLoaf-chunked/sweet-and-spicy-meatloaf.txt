@@ -1,0 +1,42 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , mix ground beef , eggs , onion , barbeque sauce , green bell pepper , diced tomatoes with green chile peppers , Salsa Verde flavored tortilla chips and Worcestershire sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , eggs , onion , barbeque sauce , green bell pepper , diced tomatoes
+  PARG: a large bowl
+    PREP: in
+  PARG: green chile peppers , salsa verde flavored tortilla chips, worcestershire sauce
+    PREP: with
+
+
+SENTID: 2
+SENT: Shape into a loaf and place in an 11x7 inch baking pan .
+PREDID: 0
+PRED: shape
+  PARG: a loaf
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: an 11x7 inch baking pan
+    PREP: in
+
+
+SENTID: 3
+SENT: Bake in the preheated oven 75 to 90 minutes , or until center of the loaf is no longer pink .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 75 to 90 minutes
+    PREP: in
+  PARG: center of the loaf is no longer pink
+    PREP: until
+

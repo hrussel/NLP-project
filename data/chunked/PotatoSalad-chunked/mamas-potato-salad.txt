@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Place the potatoes in a large pot with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , and cook for about 10 minutes , or until tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: about 10 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and place in a serving bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: place
+  PARG: a serving bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir the onion , salt and pepper into the potatoes while they are still hot .
+PREDID: 0
+PRED: stir
+  DOBJ: the onion , salt, pepper
+  PARG: the potatoes
+    PREP: into
+  PARG: they are
+    PREP: while
+  OARG: still
+
+
+SENTID: 4
+SENT: Allow to cool for about 20 minutes .
+PREDID: 0
+PRED: allow
+  PARG: about 20 minutes
+    PREP: for
+  OARG: to cool
+
+
+SENTID: 5
+SENT: Add the mayonnaise , mustard and horseradish to the salad , and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: the mayonnaise , mustard, horseradish
+  PARG: the salad
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 6
+SENT: Gently stir in the eggs and dill pickles .
+PREDID: 0
+PRED: stir
+  PARG: the eggs, dill pickles
+    PREP: in
+  OARG: gently
+
+
+SENTID: 7
+SENT: Finish off with a generous grinding of black pepper on top .
+PREDID: 0
+PRED: finish
+  PARG: with a generous grinding of black pepper
+    PREP: off
+  PARG: top
+    PREP: on
+
+
+SENTID: 8
+SENT: Chill for about 30 minutes before serving .
+PREDID: 0
+PRED: chill
+  PARG: about 30 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

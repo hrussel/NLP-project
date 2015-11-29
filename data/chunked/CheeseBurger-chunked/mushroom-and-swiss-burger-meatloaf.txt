@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x5-inch loaf pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x5-inch loaf pan
+
+
+SENTID: 2
+SENT: Tear the pumpernickel into pieces , and place into the work bowl of a food processor .
+PREDID: 0
+PRED: tear
+  DOBJ: the pumpernickel
+  PARG: pieces
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: the work bowl of a food processor
+    PREP: into
+
+
+SENTID: 3
+SENT: Pulse several times to chop the bread into crumbs .
+PREDID: 0
+PRED: pulse
+  DOBJ: several times
+  PARG: chop the bread
+    PREP: to
+  PARG: crumbs
+    PREP: into
+
+
+SENTID: 4
+SENT: Lightly mix the pumpernickel crumbs , ground chuck , ground pork , egg , onion , diced tomatoes , 1/4 cup of the reserved juice from the tomatoes , green pepper , onion powder , garlic salt , black pepper , Worcestershire sauce , and soy sauce together in a bowl until the mixture is very well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the pumpernickel crumbs , ground chuck , ground pork , egg , onion , diced tomatoes , 1/4 cup of the reserved juice
+  PARG: the tomatoes , green pepper , onion powder , garlic salt , black pepper , worcestershire sauce , soy sauce
+    PREP: from
+  PARG: a bowl
+    PREP: in
+  PARG: the mixture is very well combined
+    PREP: until
+  OARG: lightly
+  OARG: together
+
+
+SENTID: 5
+SENT: Place half the meat mixture into the bottom of the prepared loaf pan , and gently press to smooth the top .
+PREDID: 0
+PRED: place
+  DOBJ: half the meat mixture
+  PARG: the bottom of the prepared loaf pan
+    PREP: into
+  OARG: gently
+
+PREDID: 1
+PRED: press
+  PARG: smooth the top
+    PREP: to
+
+
+SENTID: 6
+SENT: Place 3 slices of Swiss cheese over the meat mixture , and spread the sliced mushrooms evenly over the cheese .
+PREDID: 0
+PRED: place
+  DOBJ: 3 slices of swiss cheese
+  PARG: the meat mixture
+    PREP: over
+
+PREDID: 1
+PRED: spread
+  DOBJ: the sliced mushrooms
+  PARG: the cheese
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Top the mushrooms with the remaining 3 slices of Swiss cheese , and spread the rest of the meat mixture in an even layer over the cheese .
+PREDID: 0
+PRED: top
+  DOBJ: the mushrooms
+  PARG: the remaining 3 slices of swiss cheese
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  DOBJ: the rest of the meat mixture
+  PARG: an even layer
+    PREP: in
+  PARG: the cheese
+    PREP: over
+
+
+SENTID: 8
+SENT: Press the top gently to smooth .
+PREDID: 0
+PRED: press
+  DOBJ: the top
+  PARG: smooth
+    PREP: to
+  OARG: gently
+
+
+SENTID: 9
+SENT: Bake the meatloaf in the preheated oven for 45 minutes , then remove from oven and spread with the chili sauce in an even layer .
+PREDID: 0
+PRED: bake
+  DOBJ: the meatloaf
+  PARG: the preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  PARG: oven
+    PREP: from
+
+PREDID: 2
+PRED: spread
+  PARG: the chili sauce
+    PREP: with
+  PARG: an even layer
+    PREP: in
+
+
+SENTID: 10
+SENT: Return the meatloaf to the oven and bake until the juices run clear and the chili sauce has thickened into a glaze , about 15 more minutes .
+PREDID: 0
+PRED: return
+  DOBJ: the meatloaf
+  PARG: the oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: the juices run clear, the chili sauce has thickened into a glaze , about 15 more minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Let the meatloaf stand for 10 minutes before slicing .
+PREDID: 0
+PRED: let
+  DOBJ: the meatloaf stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+

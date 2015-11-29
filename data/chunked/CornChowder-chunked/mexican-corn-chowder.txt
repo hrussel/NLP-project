@@ -1,0 +1,58 @@
+SENTID: 0
+SENT: In a large saucepan over medium heat , melt butter .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook celery , onion and carrot in butter until onion begins to soften .
+PREDID: 0
+PRED: cook
+  DOBJ: celery , onion, carrot
+  PARG: butter
+    PREP: in
+  PARG: onion begins to soften
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in garlic , oregano , salt and pepper and cook 2 minutes more .
+PREDID: 0
+PRED: stir
+  PARG: garlic , oregano , salt, pepper
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  OARG: 2 minutes more
+
+
+SENTID: 3
+SENT: Stir in corn , chicken broth , cooked chicken and chile pepper and let simmer until heated through .
+PREDID: 0
+PRED: stir
+  PARG: corn , chicken broth , cooked chicken, chile pepper, let simmer
+    PREP: in
+  PARG: heated through
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in milk and heat gently just before serving .
+PREDID: 0
+PRED: stir
+  PARG: milk
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  PARG: serving
+    PREP: before
+  OARG: gently
+  OARG: just
+

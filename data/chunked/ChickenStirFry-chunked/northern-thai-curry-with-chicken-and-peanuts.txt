@@ -1,0 +1,164 @@
+SENTID: 0
+SENT: Place the chili peppers in a bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: the chili peppers
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: pour enough water over the chili peppers to cover .
+PREDID: 0
+PRED: pour
+  DOBJ: water
+  PARG: the chili peppers
+    PREP: over
+  PARG: cover
+    PREP: to
+  OARG: enough
+
+
+SENTID: 2
+SENT: Allow the peppers to soak until softened , about 10 minutes ;
+PREDID: 0
+PRED: allow
+  DOBJ: the peppers
+  PARG: soak
+    PREP: to
+  PARG: softened , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Chop the peppers and set aside .
+PREDID: 0
+PRED: chop
+  DOBJ: the peppers
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Grind the cumin , turmeric , coriander , and mace using a mortar and pestle into a fine powder .
+PREDID: 0
+PRED: grind
+  DOBJ: the cumin , turmeric , coriander , mace
+  PARG: a fine powder
+    PREP: into
+
+
+SENTID: 6
+SENT: Add the galangal , lemon grass , salt , shallot , garlic , shrimp paste , fresh turmeric , and reconstituted chile peppers and grind into a paste .
+PREDID: 0
+PRED: add
+  DOBJ: the galangal , lemon grass , salt , shallot , garlic , shrimp paste , fresh turmeric , reconstituted chile peppers
+
+PREDID: 1
+PRED: grind
+  PARG: a paste
+    PREP: into
+
+
+SENTID: 7
+SENT: Stir the fish sauce and palm sugar into the paste .
+PREDID: 0
+PRED: stir
+  DOBJ: the fish sauce, palm sugar
+  PARG: the paste
+    PREP: into
+
+
+SENTID: 8
+SENT: Transfer to a large bowl .
+PREDID: 0
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 9
+SENT: Add the chicken to the paste and toss to coat the chicken evenly ;
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+  PARG: the paste
+    PREP: to
+
+PREDID: 1
+PRED: toss
+  PARG: coat the chicken
+    PREP: to
+  OARG: evenly
+
+
+SENTID: 10
+SENT: allow to marinate for at least 20 minutes , or up to 24 hours in the refrigerator .
+PREDID: 0
+PRED: allow
+  PARG: at least 20 minutes
+    PREP: for
+  PARG: 24 hours
+    PREP: to
+  PARG: the refrigerator
+    PREP: in
+  OARG: to marinate
+  OARG: up
+
+
+SENTID: 11
+SENT: Heat the oil in a large skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 12
+SENT: cook the chicken until no longer pink in the center and the juices run clear , 5 to 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken
+  PARG: no longer pink in the center, the juices run clear , 5 to 7 minutes
+    PREP: until
+
+
+SENTID: 13
+SENT: Stir the water , 1/2 cup peanuts , ginger , and tamarind juice into the chicken , bring to a simmer , and cook until thickened , 20 to 30 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: the water , 1/2 cup peanuts , ginger , tamarind juice
+  PARG: the chicken
+    PREP: into
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  PARG: thickened , 20 to 30 minutes
+    PREP: until
+
+
+SENTID: 14
+SENT: Garnish with 2 tablespoons peanuts to serve .
+PREDID: 0
+PRED: garnish
+  PARG: 2 tablespoons peanuts
+    PREP: with
+  PARG: serve
+    PREP: to
+

@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13-inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Heat the oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook the onions in the hot oil until soft .
+PREDID: 0
+PRED: cook
+  DOBJ: the onions
+  PARG: the hot oil
+    PREP: in
+  PARG: soft
+    PREP: until
+
+
+SENTID: 4
+SENT: Break the ground beef into the skillet and cook until brown .
+PREDID: 0
+PRED: break
+  DOBJ: the ground beef
+  PARG: the skillet
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: brown
+    PREP: until
+
+
+SENTID: 5
+SENT: Place the milk in a shallow dish .
+PREDID: 0
+PRED: place
+  DOBJ: the milk
+  PARG: a shallow dish
+    PREP: in
+
+
+SENTID: 6
+SENT: Soak the bread in the milk .
+PREDID: 0
+PRED: soak
+  DOBJ: the bread
+  PARG: the milk
+    PREP: in
+
+
+SENTID: 7
+SENT: Squeeze the excess milk from the bread .
+PREDID: 0
+PRED: squeeze
+  DOBJ: the excess milk
+  PARG: the bread
+    PREP: from
+
+
+SENTID: 8
+SENT: Set the milk aside .
+PREDID: 0
+PRED: set
+  DOBJ: the milk
+  OARG: aside
+
+
+SENTID: 9
+SENT: Add the bread to the beef mixture .
+PREDID: 0
+PRED: add
+  DOBJ: the bread
+  PARG: the beef mixture
+    PREP: to
+
+
+SENTID: 10
+SENT: Stir in the raisins , apricot jam , chutney , curry powder , salt , and black pepper .
+PREDID: 0
+PRED: stir
+  PARG: the raisins , apricot jam , chutney , curry powder , salt , black pepper
+    PREP: in
+
+
+SENTID: 11
+SENT: Pour the mixture into the prepared baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+
+SENTID: 12
+SENT: Bake in the preheated oven 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven 1 hour
+    PREP: in
+
+
+SENTID: 13
+SENT: While the bobotie bakes , whisk together the reserved milk , egg , and a pinch of salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: the reserved milk , egg , a pinch of salt
+  PARG: the bobotie bakes
+    PREP: while
+  OARG: together
+
+
+SENTID: 14
+SENT: Pour over top of the dish .
+PREDID: 0
+PRED: pour
+  PARG: top of the dish
+    PREP: over
+
+
+SENTID: 15
+SENT: Lay the bay leaf onto the top of the milk mixture .
+PREDID: 0
+PRED: lay
+  DOBJ: the bay leaf
+  PARG: the top of the milk mixture
+    PREP: onto
+
+
+SENTID: 16
+SENT: Return the bobotie to the oven until the top is golden brown , 25 to 30 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: the bobotie
+  PARG: the oven
+    PREP: to
+  PARG: the top is golden brown , 25 to 30 minutes
+    PREP: until
+
+
+SENTID: 17
+SENT: Remove bay leaf before serving .
+PREDID: 0
+PRED: remove
+  DOBJ: bay leaf
+  PARG: serving
+    PREP: before
+

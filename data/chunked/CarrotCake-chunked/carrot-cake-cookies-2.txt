@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: Preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease 4 cookie sheets .
+PREDID: 0
+PRED: grease
+  DOBJ: 4 cookie sheets
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Whisk the flour , baking powder , baking soda , cinnamon , and salt together in a mixing bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: the flour , baking powder , baking soda , cinnamon , salt
+  PARG: a mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: To make the cookie dough , beat 1/2 cup butter , shortening , white sugar , and brown sugar with an electric mixer in a large bowl until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: 1/2 cup butter , shortening , white sugar , brown sugar
+  PARG: make the cookie dough
+    PREP: to
+  PARG: an electric mixer
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Add 1 egg and allow to blend into the butter mixture before adding the second egg and the vanilla .
+PREDID: 0
+PRED: add
+  DOBJ: 1 egg
+
+PREDID: 1
+PRED: allow
+  PARG: blend
+    PREP: to
+  PARG: the butter mixture
+    PREP: into
+  PARG: adding the second egg, the vanilla
+    PREP: before
+
+
+SENTID: 6
+SENT: Mix in the flour mixture until just incorporated .
+PREDID: 0
+PRED: mix
+  PARG: the flour mixture
+    PREP: in
+  PARG: just incorporated
+    PREP: until
+
+
+SENTID: 7
+SENT: Fold in the crushed pineapple , carrot , raisins , and chopped walnuts , mixing just enough to evenly combine .
+PREDID: 0
+PRED: fold
+  PARG: the crushed pineapple , carrot , raisins , chopped walnuts , mixing
+    PREP: in
+  OARG: just
+  OARG: enough
+  OARG: to evenly combine
+
+
+SENTID: 8
+SENT: Drop onto the prepared baking sheets by the heaping teaspoonful , allowing 2 inches of space between the cookies .
+PREDID: 0
+PRED: drop
+  DOBJ: allowing 2 inches of space
+  PARG: the prepared baking sheets
+    PREP: onto
+  PARG: the heaping teaspoonful
+    PREP: by
+  PARG: the cookies
+    PREP: between
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until the edges are golden , 10 to 12 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the edges are golden , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Allow the cookies to cool on the baking sheet for 1 minute before removing to a wire rack to cool completely .
+PREDID: 0
+PRED: allow
+  DOBJ: the cookies
+  PARG: the baking sheet
+    PREP: on
+  PARG: 1 minute
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: to
+  OARG: to cool
+  OARG: to cool
+  OARG: completely
+
+
+SENTID: 11
+SENT: To make the frosting , beat the cream cheese and 1 tablespoon of butter with an electric mixer in a bowl until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: the cream cheese, 1 tablespoon of butter
+  PARG: make the frosting
+    PREP: to
+  PARG: an electric mixer
+    PREP: with
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 12
+SENT: Add the confectioners ' sugar and pineapple juice .
+PREDID: 0
+PRED: add
+  DOBJ: the confectioners ' sugar, pineapple juice
+
+
+SENTID: 13
+SENT: Beat until no lumps remain .
+PREDID: 0
+PRED: beat
+  PARG: no lumps remain
+    PREP: until
+
+
+SENTID: 14
+SENT: Spread the frosting on the cooled cookies , and allow to dry completely before storing .
+PREDID: 0
+PRED: spread
+  DOBJ: the frosting
+  PARG: the cooled cookies
+    PREP: on
+
+PREDID: 1
+PRED: allow
+  PARG: dry
+    PREP: to
+  PARG: storing
+    PREP: before
+  OARG: completely
+

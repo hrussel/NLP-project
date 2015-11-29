@@ -1,0 +1,84 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 12 cup muffin pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 12 cup muffin pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a large bowl , mix whole wheat flour , wheat bran , wheat germ , baking soda , baking powder , and salt .
+PREDID: 0
+PRED: mix
+  DOBJ: whole wheat flour , wheat bran , wheat germ , baking soda , baking powder , salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: In a medium bowl , beat together eggs , honey , and vegetable oil .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , honey , vegetable oil
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in bananas , milk , lemon juice , and poppy seeds .
+PREDID: 0
+PRED: stir
+  PARG: bananas , milk , lemon juice , poppy seeds
+    PREP: in
+
+
+SENTID: 5
+SENT: Make a well in the center of the wheat flour mixture , and pour in egg and banana mixture .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the center of the wheat flour mixture
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: egg, banana mixture
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir until just blended .
+PREDID: 0
+PRED: stir
+  PARG: just blended
+    PREP: until
+
+
+SENTID: 7
+SENT: Spoon into the prepared muffin pan .
+PREDID: 0
+PRED: spoon
+  PARG: the prepared muffin pan
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake 25 to 30 minutes in the preheated oven , until a toothpick inserted in the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the center comes out clean
+    PREP: until
+  OARG: 25 to 30 minutes
+

@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of water and 1 teaspoon salt to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water, 1 teaspoon salt
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook lasagna noodles in the boiling water , stirring occasionally , until cooked through but firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain and rinse under cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 4
+SENT: Heat a large skillet over medium-high heat and stir in Italian sausage .
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: italian sausage
+    PREP: in
+
+
+SENTID: 5
+SENT: Cook and stir until sausage is crumbly , evenly browned , and no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: sausage is crumbly , evenly browned , no longer pink , about 10 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 7
+SENT: Add diced tomatoes , tomato sauce , 1 tablespoon Italian seasoning , 1 tablespoon Greek seasoning , 1 tablespoon oregano , 1 tablespoon basil , 1 tablespoon parsley , 1 tablespoon thyme , 1 teaspoon rosemary , 1 tablespoon garlic powder , and 1 teaspoon salt ;
+PREDID: 0
+PRED: add
+  DOBJ: diced tomatoes , tomato sauce , 1 tablespoon italian seasoning , 1 tablespoon greek seasoning , 1 tablespoon oregano , 1 tablespoon basil , 1 tablespoon parsley , 1 tablespoon thyme , 1 teaspoon rosemary , 1 tablespoon garlic powder , 1 teaspoon salt
+
+
+SENTID: 8
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 9
+SENT: Simmer until flavors have blended , about 20 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: flavors have blended , about 20 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Set aside 1/2 cup mozzarella cheese .
+PREDID: 0
+PRED: set
+  DOBJ: 1/2 cup mozzarella cheese
+  OARG: aside
+
+
+SENTID: 11
+SENT: Mix remaining mozzarella cheese with 1 teaspoon Italian seasoning , 1 teaspoon Greek seasoning , 1 teaspoon oregano , 1 teaspoon basil , 1 teaspoon parsley , 1 teaspoon thyme , and 1 teaspoon rosemary in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: remaining mozzarella cheese
+  PARG: 1 teaspoon italian seasoning , 1 teaspoon greek seasoning , 1 teaspoon oregano , 1 teaspoon basil , 1 teaspoon parsley , 1 teaspoon thyme , 1 teaspoon rosemary
+    PREP: with
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 12
+SENT: Spoon a layer of meat sauce into the bottom of a 9x13-inch glass baking dish ;
+PREDID: 0
+PRED: spoon
+  DOBJ: a layer of meat sauce
+  PARG: the bottom of a 9x13-inch glass baking dish
+    PREP: into
+
+
+SENTID: 13
+SENT: place 3 to 4 lasagna noodles atop meat sauce layer .
+PREDID: 0
+PRED: place
+  DOBJ: 3 to 4 lasagna noodles
+  PARG: meat sauce layer
+    PREP: atop
+
+
+SENTID: 14
+SENT: Spread another layer of meat sauce over lasagna noodles ;
+PREDID: 0
+PRED: spread
+  DOBJ: another layer of meat sauce
+  PARG: lasagna noodles
+    PREP: over
+
+
+SENTID: 15
+SENT: sprinkle a layer of the seasoned mozzarella cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: a layer of the seasoned mozzarella cheese
+
+
+SENTID: 16
+SENT: Repeat layering with remaining ingredients and top casserole with the reserved 1/2 cup plain mozzarella cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: layering
+  PARG: remaining ingredients
+    PREP: with
+
+PREDID: 1
+PRED: top
+  DOBJ: casserole
+  PARG: the reserved 1/2 cup plain mozzarella cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: Bake in the preheated oven until sauce is bubbling and cheese is melted , 30 to 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: sauce is bubbling, cheese is melted , 30 to 40 minutes
+    PREP: until
+
+
+SENTID: 18
+SENT: Let stand 10 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 minutes
+

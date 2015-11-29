@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: In a large bowl , combine potatoes , tomatoes , onions , basil , and celery .
+PREDID: 0
+PRED: combine
+  DOBJ: potatoes , tomatoes , onions , basil , celery
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In a small bowl , whisk together garlic , vinegar , oil , mustard , salt and pepper .
+PREDID: 0
+PRED: whisk
+  DOBJ: garlic , vinegar , oil , mustard , salt, pepper
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add dressing to potatoes and toss .
+PREDID: 0
+PRED: add
+  DOBJ: dressing
+  PARG: potatoes
+    PREP: to
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 3
+SENT: Refrigerate until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+

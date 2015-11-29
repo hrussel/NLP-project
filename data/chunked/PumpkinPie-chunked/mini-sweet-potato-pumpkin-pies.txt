@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place the white of the separated egg in a small bowl and the yolk in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the white of the separated egg
+  PARG: a small bowl, the yolk
+    PREP: in
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Beat egg white and brush the edges of each pie crust with egg white .
+PREDID: 0
+PRED: beat
+  DOBJ: egg white
+
+PREDID: 1
+PRED: brush
+  DOBJ: the edges of each pie crust
+  PARG: egg white
+    PREP: with
+
+
+SENTID: 3
+SENT: Add the second whole egg to the egg yolk ;
+PREDID: 0
+PRED: add
+  DOBJ: the second whole egg
+  PARG: the egg yolk
+    PREP: to
+
+
+SENTID: 4
+SENT: whisk together .
+PREDID: 0
+PRED: whisk
+  OARG: together
+
+
+SENTID: 5
+SENT: Stir sweet potatoes , pumpkin pie filling , sugar , butter , milk , pumpkin pie spice , and vanilla extract into the egg and yolk .
+PREDID: 0
+PRED: stir
+  DOBJ: sweet potatoes , pumpkin pie filling , sugar , butter , milk , pumpkin pie spice , vanilla extract
+  PARG: the egg, yolk
+    PREP: into
+
+
+SENTID: 6
+SENT: Spoon mixture evenly into the pie crusts .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: the pie crusts
+    PREP: into
+  OARG: evenly
+
+
+SENTID: 7
+SENT: Place pies on a baking sheet .
+PREDID: 0
+PRED: place
+  DOBJ: pies
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until middle of each pie is set , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: middle of each pie is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 15 minutes
+    PREP: about
+
+
+SENTID: 9
+SENT: Cool pies for 15 minutes .
+PREDID: 0
+PRED: cool
+  DOBJ: pies
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Place 1 tablespoon whipped cream atop each pie ;
+PREDID: 0
+PRED: place
+  DOBJ: 1 tablespoon whipped cream
+  PARG: each pie
+    PREP: atop
+
+
+SENTID: 11
+SENT: gently press 1 walnut half into the whipped cream of each pie .
+PREDID: 0
+PRED: press
+  DOBJ: 1 walnut half
+  PARG: the whipped cream of each pie
+    PREP: into
+  OARG: gently
+

@@ -1,0 +1,124 @@
+SENTID: 0
+SENT: Bake pastry shells according to package .
+PREDID: 0
+PRED: bake
+  DOBJ: pastry shells according
+  PARG: package
+    PREP: to
+
+
+SENTID: 1
+SENT: Slice beef into very thin strips .
+PREDID: 0
+PRED: slice
+  DOBJ: strips
+  PARG: very
+    PREP: into
+  OARG: thin
+  OARG: beef
+
+
+SENTID: 2
+SENT: Heat half the oil in skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: half the oil
+  PARG: skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Add beef and cook until browned , stirring often .
+PREDID: 0
+PRED: add
+  DOBJ: beef
+
+PREDID: 1
+PRED: cook
+  PARG: browned , stirring often
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove beef .
+PREDID: 0
+PRED: remove
+  DOBJ: beef
+
+
+SENTID: 5
+SENT: Heat remaining oil .
+PREDID: 0
+PRED: heat
+  DOBJ: remaining oil
+
+
+SENTID: 6
+SENT: Add mushrooms , onion , garlic and thyme and cook until tender .
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms , onion , garlic, thyme
+
+PREDID: 1
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 7
+SENT: Add gravy and heat to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: gravy
+
+PREDID: 1
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 9
+SENT: Stir in sour cream .
+PREDID: 0
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+
+SENTID: 10
+SENT: Return beef to pan and heat through .
+PREDID: 0
+PRED: return
+  DOBJ: beef
+  PARG: pan
+    PREP: to
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+
+
+SENTID: 11
+SENT: Serve in pastry shells .
+PREDID: 0
+PRED: serve
+  PARG: pastry shells
+    PREP: in
+
+
+SENTID: 12
+SENT: Garnish with parsley .
+PREDID: 0
+PRED: garnish
+  PARG: parsley
+    PREP: with
+

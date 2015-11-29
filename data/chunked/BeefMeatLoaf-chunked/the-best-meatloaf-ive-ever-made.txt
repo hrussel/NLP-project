@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt the butter in a skillet over medium heat , and cook the onion and garlic 5 minutes , until onion is tender .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: onion is tender
+    PREP: until
+  OARG: the onion, garlic 5 minutes
+
+
+SENTID: 2
+SENT: Remove from heat , and season with salt and pepper .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: In a large bowl , mix the onion and garlic , beef , crumbled bread , crushed crackers , egg , sour cream , Worcestershire sauce , and 1/2 can tomato sauce .
+PREDID: 0
+PRED: mix
+  DOBJ: the onion, garlic , beef , crumbled bread , crushed crackers , egg , sour cream , worcestershire sauce , 1/2 can tomato sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Transfer the mixture to a 5x9 inch loaf pan .
+PREDID: 0
+PRED: transfer
+  DOBJ: the mixture
+  PARG: a 5x9 inch loaf pan
+    PREP: to
+
+
+SENTID: 5
+SENT: Bake uncovered in the preheated oven 40 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: uncovered
+  PARG: the preheated oven 40 minutes
+    PREP: in
+
+
+SENTID: 6
+SENT: Increase oven temperature to 400 degrees F -LRB- 200 degrees C -RRB- , and continue baking 15 minutes , to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 0
+PRED: increase
+  DOBJ: oven temperature
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  PARG: an internal temperature of 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: to
+  OARG: baking 15 minutes
+
+
+SENTID: 7
+SENT: In a small bowl , mix the remaining tomato sauce and ketchup .
+PREDID: 0
+PRED: mix
+  DOBJ: the remaining tomato sauce, ketchup
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour over the top of the meatloaf , and continue baking 10 minutes .
+PREDID: 0
+PRED: pour
+  PARG: the top of the meatloaf
+    PREP: over
+
+PREDID: 1
+PRED: continue
+  OARG: baking 10 minutes
+

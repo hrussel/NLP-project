@@ -1,0 +1,81 @@
+T1	predicate 0 5	Place
+T2	predicate 64 69	Bring
+T3	predicate 85 89	cook
+T4	predicate 135 138	Add
+T5	predicate 211 216	Drain
+T6	predicate 222 227	rinse
+T7	predicate 266 270	Cool
+T8	predicate 319 322	mix
+T9	predicate 389 392	Add
+T10	predicate 428 432	stir
+T11	predicate 442 453	Refrigerate
+T12	arg_duration 454 474	until ready to serve
+R1	duration Arg1:T11 Arg2:T12	
+R2	object Arg1:T11 Arg2:T10	
+R3	object Arg1:T10 Arg2:T9	
+T13	arg_other 433 440	to coat
+R4	other Arg1:T10 Arg2:T13	
+T14	arg_object 393 412	the cooled potatoes
+T15	arg_object 417 422	beans
+R5	object Arg1:T9 Arg2:T14	
+R6	object Arg1:T9 Arg2:T15	
+T16	Evolution 393 412	the cooled potatoes
+E1	Evolution:T16 Cause:T7
+T17	Evolution 417 422	beans
+E2	Evolution:T17 Cause:T7
+T18	arg_location 302 317	In a large bowl
+R7	location Arg1:T8 Arg2:T18	
+T19	arg_object 332 346	the mayonnaise
+T20	arg_object 348 355	mustard
+T21	arg_object 357 363	celery
+T22	arg_object 365 369	dill
+T23	arg_object 371 375	salt
+T24	arg_object 381 387	pepper
+R8	object Arg1:T8 Arg2:T19	
+R9	object Arg1:T8 Arg2:T20	
+R10	object Arg1:T8 Arg2:T21	
+R11	object Arg1:T8 Arg2:T22	
+R12	object Arg1:T8 Arg2:T23	
+R13	object Arg1:T8 Arg2:T24	
+R14	co-object Arg1:T9 Arg2:T8	
+T25	arg_other 271 300	before adding to the dressing
+R15	other Arg1:T7 Arg2:T25	
+R16	object Arg1:T7 Arg2:T6	
+R17	object Arg1:T6 Arg2:T5	
+R18	object Arg1:T5 Arg2:T4	
+R19	co-object Arg1:T4 Arg2:T3	
+R20	object Arg1:T3 Arg2:T2	
+R21	object Arg1:T2 Arg2:T1	
+T26	arg_location 228 244	under cold water
+T27	arg_other 245 264	to stop the cooking
+R22	location Arg1:T6 Arg2:T26	
+R23	other Arg1:T6 Arg2:T27	
+T28	arg_object 139 154	the green beans
+T29	arg_object 159 168	wax beans
+T30	arg_duration 169 194	during the last 2 minutes
+T31	arg_other 195 209	to blanch them
+R24	object Arg1:T4 Arg2:T28	
+R25	object Arg1:T4 Arg2:T29	
+R26	duration Arg1:T4 Arg2:T30	
+R27	other Arg1:T4 Arg2:T31	
+T32	arg_other 70 79	to a boil
+T33	arg_duration 90 133	until potatoes are tender, about 10 minutes
+R28	duration Arg1:T3 Arg2:T33	
+R29	other Arg1:T2 Arg2:T32	
+T34	arg_object 6 18	the potatoes
+T35	arg_location 19 35	into a large pot
+T36	arg_co-object 36 62	with enough water to cover
+R30	object Arg1:T1 Arg2:T34	
+R31	location Arg1:T1 Arg2:T35	
+R32	co-object Arg1:T1 Arg2:T36	
+T37	ingredient 6 18	the potatoes
+T38	ingredient 41 62	enough water to cover
+T39	ingredient 139 154	the green beans
+T40	ingredient 159 168	wax beans
+R33	co-object Arg1:T5 Arg2:T4	
+T41	ingredient 332 346	the mayonnaise
+T42	ingredient 348 355	mustard
+T43	ingredient 357 363	celery
+T44	ingredient 365 369	dill
+T45	ingredient 371 375	salt
+T46	ingredient 381 387	pepper

@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: Stir milk , cream-style corn , cream of mushroom soup , chopped green chiles , frozen corn , hash brown potatoes , ham , onion , butter , hot sauce , parsley , and chili powder in a slow cooker .
+PREDID: 0
+PRED: stir
+  DOBJ: milk , cream-style corn , cream of mushroom soup , chopped green chiles , frozen corn , hash brown potatoes , ham , onion , butter , hot sauce , parsley , chili powder
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Season with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Cover and cook on High for 4 hours or on Low and for 6 hours .
+PREDID: 0
+PRED: cover
+  PARG: high
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 4 hours
+    PREP: for
+  PARG: low
+    PREP: on
+  PARG: 6 hours
+    PREP: for
+

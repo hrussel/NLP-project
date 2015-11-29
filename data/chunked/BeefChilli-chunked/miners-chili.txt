@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook beef until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in onion , celery and bell pepper and cook until vegetables are tender .
+PREDID: 0
+PRED: stir
+  PARG: onion , celery, bell pepper
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: vegetables are tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Combine beef mixture with tomatoes , kidney beans and salsa in a slow cooker .
+PREDID: 0
+PRED: combine
+  DOBJ: beef mixture
+  PARG: tomatoes , kidney beans, salsa
+    PREP: with
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 3
+SENT: Season with sugar , cayenne , chili powder , basil and oregano .
+PREDID: 0
+PRED: season
+  PARG: sugar , cayenne , chili powder , basil, oregano
+    PREP: with
+
+
+SENTID: 4
+SENT: Cook 8 hours on low .
+PREDID: 0
+PRED: cook
+  PARG: low
+    PREP: on
+  OARG: 8 hours
+
+
+SENTID: 5
+SENT: Then refrigerate 8 hours or overnight before reheating and serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: reheating, serving
+    PREP: before
+  OARG: then
+  OARG: 8 hours
+  OARG: overnight
+

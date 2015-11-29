@@ -1,0 +1,72 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook pasta in boiling water for 8 to 10 minutes , or until al dente ;
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: boiling water
+    PREP: in
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: In a large bowl , thoroughly mix noodles , onion , 1 cup cheese , peas , tuna , soup and mushrooms .
+PREDID: 0
+PRED: mix
+  DOBJ: noodles , onion , 1 cup cheese , peas , tuna , soup, mushrooms
+  PARG: a large bowl
+    PREP: in
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Transfer to a 9x13 inch baking dish , and top with potato chip crumbs and remaining 1 cup cheese .
+PREDID: 0
+PRED: transfer
+  PARG: a 9x13 inch baking dish
+    PREP: to
+
+PREDID: 1
+PRED: top
+  DOBJ: remaining 1 cup cheese
+  PARG: potato chip crumbs
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake for 15 to 20 minutes in the preheated oven , or until cheese is bubbly .
+PREDID: 0
+PRED: bake
+  PARG: 15 to 20 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is bubbly
+    PREP: until
+

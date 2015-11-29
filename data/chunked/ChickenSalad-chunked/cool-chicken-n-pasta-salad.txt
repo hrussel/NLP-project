@@ -1,0 +1,18 @@
+SENTID: 0
+SENT: In large bowl toss macaroni , chicken , cucumber , tomatoes , onion , parsley and dressing until evenly coated .
+PREDID: 0
+PRED: toss
+  DOBJ: macaroni , chicken , cucumber , tomatoes , onion , parsley, dressing
+  PARG: large bowl
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 1
+SENT: Refrigerate at least 30 minutes .
+PREDID: 0
+PRED: refrigerate
+  PARG: least 30 minutes
+    PREP: at
+

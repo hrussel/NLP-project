@@ -1,0 +1,151 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2.5 quart baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2.5 quart baking dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Place pasta in the pot , cook for 8 to 10 minutes , until tender , and drain .
+PREDID: 0
+PRED: place
+  DOBJ: pasta
+  PARG: the pot
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+PREDID: 2
+PRED: drain
+
+
+SENTID: 4
+SENT: Cook and stir the Italian sausage in a large skillet over medium heat until browned , about 8 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the italian sausage
+
+PREDID: 1
+PRED: stir
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: browned , about 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain the fat from the meat , pour the cooked pasta and spaghetti sauce into the skillet , and stir well to combine .
+PREDID: 0
+PRED: drain
+  DOBJ: the fat
+  PARG: the meat
+    PREP: from
+
+PREDID: 1
+PRED: pour
+  DOBJ: the cooked pasta, spaghetti sauce
+  PARG: the skillet
+    PREP: into
+
+PREDID: 2
+PRED: stir
+  PARG: combine
+    PREP: to
+  OARG: well
+
+
+SENTID: 6
+SENT: Bring the mixture to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: the mixture
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Pour half of the hot pasta-sausage mixture into the prepared baking dish , spread with the cottage cheese in an even layer , and sprinkle with half the mozzarella cheese .
+PREDID: 0
+PRED: pour
+  DOBJ: half of the hot pasta-sausage mixture
+  PARG: the prepared baking dish
+    PREP: into
+
+PREDID: 1
+PRED: spread
+  PARG: the cottage cheese
+    PREP: with
+  PARG: an even layer
+    PREP: in
+
+PREDID: 2
+PRED: sprinkle
+  PARG: half the mozzarella cheese
+    PREP: with
+
+
+SENTID: 8
+SENT: Spread the remaining pasta mixture over the cheese , and top with the remaining mozzarella cheese .
+PREDID: 0
+PRED: spread
+  DOBJ: the remaining pasta mixture
+  PARG: the cheese
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: the remaining mozzarella cheese
+    PREP: with
+
+
+SENTID: 9
+SENT: Cover and bake in the preheated oven for about 25 minutes , until the casserole is hot and the cheese is melted and bubbling .
+PREDID: 0
+PRED: cover
+  PARG: the preheated oven
+    PREP: in
+
+PREDID: 1
+PRED: bake
+  PARG: about 25 minutes
+    PREP: for
+  PARG: the casserole is hot, the cheese is melted, bubbling
+    PREP: until
+
+
+SENTID: 10
+SENT: Let it stand 5 minutes to firm up before serving .
+PREDID: 0
+PRED: let
+  PARG: firm
+    PREP: to
+  PARG: serving
+    PREP: before
+  OARG: it stand 5 minutes
+  OARG: up
+

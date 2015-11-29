@@ -1,0 +1,54 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook egg noodles until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large bowl combine the cooked egg noodles , cream of mushroom soup , evaporated milk , tuna , grated American cheese , and chopped onion .
+PREDID: 0
+PRED: combine
+  DOBJ: the cooked egg noodles , cream of mushroom soup , evaporated milk , tuna , grated american cheese , chopped onion
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour into a greased 1.5 quart casserole dish .
+PREDID: 0
+PRED: pour
+  PARG: a greased 1.5 quart casserole dish
+    PREP: into
+
+
+SENTID: 4
+SENT: Sprinkle the top with the crumbled potato chips and the paprika .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top
+  PARG: the crumbled potato chips, the paprika
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake in a preheated 425 degree F -LRB- 220 degree C -RRB- oven for 15 to 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 425 degree f -lrb- 220 degree c -rrb- oven
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+

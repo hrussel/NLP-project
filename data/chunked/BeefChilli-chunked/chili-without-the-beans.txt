@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: In a large pot , brown the meat , and then add the onion and garlic .
+PREDID: 0
+PRED: brown
+  DOBJ: the meat
+  PARG: a large pot
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the onion, garlic
+
+
+SENTID: 1
+SENT: Cook until the onion is soft .
+PREDID: 0
+PRED: cook
+  PARG: the onion is soft
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour in the tomatoes and water .
+PREDID: 0
+PRED: pour
+  PARG: the tomatoes, water
+    PREP: in
+
+
+SENTID: 3
+SENT: Add the potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: the potatoes
+
+
+SENTID: 4
+SENT: Cook for 45 minutes .
+PREDID: 0
+PRED: cook
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Add hot sauce , and cook for an additional 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: hot sauce
+
+PREDID: 1
+PRED: cook
+  PARG: an additional 10 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Before serving stir in chopped fresh parsley or dried parsley .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+  PARG: chopped fresh parsley or dried parsley
+    PREP: in
+

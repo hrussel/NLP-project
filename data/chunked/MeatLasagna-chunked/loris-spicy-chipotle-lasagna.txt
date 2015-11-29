@@ -1,0 +1,200 @@
+SENTID: 0
+SENT: Cook and stir the ground beef and Italian sausage in a large pot or Dutch oven over medium-high heat until lightly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef, italian sausage
+
+PREDID: 1
+PRED: stir
+  PARG: a large pot or dutch oven
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: lightly browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain any excess grease , then stir in the onion , mushrooms , and garlic .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the onion , mushrooms , garlic
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook and stir until the onion has softened and turned translucent , about 5 minutes more .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes more
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 3
+SENT: Stir in the chipotle chile , tomato paste , and stewed tomatoes .
+PREDID: 0
+PRED: stir
+  PARG: the chipotle chile , tomato paste , stewed tomatoes
+    PREP: in
+
+
+SENTID: 4
+SENT: Bring to a simmer , then reduce heat to medium-low , and simmer for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , simmer
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Season to taste with salt and pepper , then stir in the basil and oregano ;
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the basil, oregano
+    PREP: in
+
+
+SENTID: 6
+SENT: simmer 5 minutes more then remove from the heat .
+PREDID: 0
+PRED: simmer
+  OARG: 5 minutes more
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 7
+SENT: While the sauce is simmering , stir together the cream cheese and chopped spinach until blended .
+PREDID: 0
+PRED: stir
+  DOBJ: the cream cheese, chopped spinach
+  PARG: the sauce is simmering
+    PREP: while
+  PARG: blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 8
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 9
+SENT: Line the bottom of a 9x13 inch baking dish with a sheet of aluminum foil , and lightly grease .
+PREDID: 0
+PRED: line
+  DOBJ: the bottom of a 9x13 inch baking dish
+  PARG: a sheet of aluminum foil
+    PREP: with
+  OARG: lightly
+
+PREDID: 1
+PRED: grease
+
+
+SENTID: 10
+SENT: Place 3 lasagna noodles on the bottom of the pan , and spread with 1/3 of the spinach mixture .
+PREDID: 0
+PRED: place
+  DOBJ: 3 lasagna noodles
+  PARG: the bottom of the pan
+    PREP: on
+
+PREDID: 1
+PRED: spread
+  PARG: 1/3 of the spinach mixture
+    PREP: with
+
+
+SENTID: 11
+SENT: Spread 1/3 of the chipotle meat sauce over this , then layer with 1/3 of the mozzarella and 1/3 of the zucchini .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/3 of the chipotle meat sauce
+  PARG: this
+    PREP: over
+  PARG: 1/3 of the mozzarella, 1/3 of the zucchini
+    PREP: with
+  OARG: then
+
+
+SENTID: 12
+SENT: Sprinkle with 1/3 of the Asiago cheese and 1/3 of the Parmesan cheeses .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/3 of the asiago cheese, 1/3 of the parmesan cheeses
+    PREP: with
+
+
+SENTID: 13
+SENT: Repeat layers two more times , ending with cheeses on top .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers two more times , ending
+  PARG: cheeses
+    PREP: with
+  PARG: top
+    PREP: on
+
+
+SENTID: 14
+SENT: Cover the dish with aluminum foil , and bake in preheated oven for 40 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: the dish
+  PARG: aluminum foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: Uncover , and continue baking until the top is bubbly and golden brown , 15 to 20 minutes .
+PREDID: 0
+PRED: uncover
+
+PREDID: 1
+PRED: continue
+  DOBJ: baking
+  PARG: the top is bubbly, golden brown , 15 to 20 minutes
+    PREP: until
+

@@ -1,0 +1,123 @@
+T1	predicate 0 4	Cook
+T2	predicate 83 89	Remove
+T4	predicate 221 227	season
+T5	predicate 250 257	Stir in
+T7	predicate 321 325	Pour
+T9	predicate 374 377	add
+T11	predicate 455 461	simmer
+T12	predicate 507 514	Stir in
+T13	predicate 556 562	mix in
+T14	predicate 624 631	stir in
+T15	predicate 649 653	cook
+T16	predicate 579 584	Bring
+T17	arg_object 5 10	bacon
+T18	arg_location 11 24	in a soup pot
+T19	arg_other 25 41	over medium heat
+T20	arg_duration 42 81	until crisp and brown, about 10 minutes
+R1	object Arg1:T1 Arg2:T17	
+R2	location Arg1:T1 Arg2:T18	
+R3	other Arg1:T1 Arg2:T19	
+R4	duration Arg1:T1 Arg2:T20	
+T21	arg_object 90 95	bacon
+T22	Evolution 90 95	bacon
+E1	Evolution:T22 Cause:T1
+T23	arg_other 96 116	with a slotted spoon
+R5	object Arg1:T2 Arg2:T21	
+R6	other Arg1:T2 Arg2:T23	
+T24	arg_object 162 167	onion
+T25	arg_object 172 187	red bell pepper
+T26	arg_duration 188 219	until softened, about 5 minutes
+T27	arg_co-object 228 248	with salt and pepper
+R10	co-object Arg1:T4 Arg2:T27	
+T28	arg_object 258 264	garlic
+T29	arg_object 269 286	seafood seasoning
+R12	object Arg1:T5 Arg2:T28	
+R13	object Arg1:T5 Arg2:T29	
+T30	arg_duration 305 319	2 more minutes
+T31	arg_co-object 326 342	in chicken broth
+R16	co-object Arg1:T7 Arg2:T31	
+T8	predicate 347 354	stir in
+T32	arg_object 355 363	potatoes
+T33	arg_object 368 372	corn
+R18	object Arg1:T8 Arg2:T32	
+R19	object Arg1:T8 Arg2:T33	
+R20	co-object Arg1:T8 Arg2:T7	
+T34	arg_object 378 383	water
+T35	arg_other 384 393	if needed
+T36	arg_other 394 413	to cover vegetables
+R21	object Arg1:T9 Arg2:T34	
+R22	other Arg1:T9 Arg2:T35	
+R23	other Arg1:T9 Arg2:T36	
+R24	co-object Arg1:T9 Arg2:T8	
+T10	predicate 415 420	Bring
+T37	arg_duration 421 430	to a boil
+R25	object Arg1:T10 Arg2:T9	
+R26	duration Arg1:T10 Arg2:T37	
+T40	arg_duration 447 453	to low
+T38	predicate 435 446	reduce heat
+R27	duration Arg1:T38 Arg2:T40	
+R28	object Arg1:T38 Arg2:T10	
+T39	arg_duration 462 505	until potatoes are tender, about 15 minutes
+R29	duration Arg1:T11 Arg2:T39	
+R30	object Arg1:T11 Arg2:T38	
+T41	arg_object 515 519	milk
+T42	arg_object 524 530	butter
+T43	arg_duration 531 554	until butter has melted
+R31	object Arg1:T12 Arg2:T41	
+R32	object Arg1:T12 Arg2:T42	
+R33	duration Arg1:T12 Arg2:T43	
+R34	co-object Arg1:T13 Arg2:T12	
+R35	co-object Arg1:T12 Arg2:T11	
+T44	arg_object 563 577	reserved bacon
+T45	Evolution 563 577	reserved bacon
+E2	Evolution:T45 Cause:T2
+R36	object Arg1:T13 Arg2:T44	
+R37	co-object Arg1:T13 Arg2:T12	
+T46	arg_object 585 593	the soup
+T47	arg_duration 594 619	just to the boiling point
+R38	object Arg1:T16 Arg2:T46	
+R39	duration Arg1:T16 Arg2:T47	
+T48	Evolution 585 593	the soup
+E3	Evolution:T48 Cause:T13
+R40	co-object Arg1:T14 Arg2:T16	
+T49	arg_object 632 635	cod
+T50	arg_object 640 647	parsley
+R41	object Arg1:T14 Arg2:T49	
+R42	object Arg1:T14 Arg2:T50	
+R43	object Arg1:T15 Arg2:T14	
+T51	arg_other 655 676	stirring occasionally
+T52	arg_duration 678 718	until fish flakes easily, 5 to 8 minutes
+R44	other Arg1:T15 Arg2:T51	
+R45	duration Arg1:T15 Arg2:T52	
+T53	arg_other 118 146	leaving drippings in the pot
+R47	other Arg1:T2 Arg2:T53	
+R49	co-object Arg1:T5 Arg2:T4	
+T54	ingredient 5 10	bacon
+T55	ingredient 162 167	onion
+T56	ingredient 172 187	red bell pepper
+T57	ingredient 233 237	salt
+T58	ingredient 242 248	pepper
+T59	ingredient 258 264	garlic
+T60	ingredient 269 286	seafood seasoning
+T61	ingredient 329 342	chicken broth
+T62	ingredient 355 363	potatoes
+T63	ingredient 368 372	corn
+T64	ingredient 378 383	water
+T65	ingredient 515 519	milk
+T66	ingredient 524 530	butter
+T67	ingredient 632 635	cod
+T68	ingredient 640 647	parsley
+T3	predicate 148 152	Cook
+T69	predicate 157 161	stir
+R7	object Arg1:T3 Arg2:T24	
+R8	object Arg1:T3 Arg2:T25	
+R9	object Arg1:T69 Arg2:T3	
+R11	duration Arg1:T69 Arg2:T26	
+R46	object Arg1:T4 Arg2:T69	
+R48	co-object Arg1:T3 Arg2:T2	
+T6	predicate 291 295	cook
+T70	predicate 300 304	stir
+R14	object Arg1:T6 Arg2:T5	
+R15	object Arg1:T70 Arg2:T6	
+R17	duration Arg1:T70 Arg2:T30	
+R50	object Arg1:T7 Arg2:T70	

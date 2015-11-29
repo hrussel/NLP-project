@@ -1,0 +1,95 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta , and cook for 8 to 10 minutes or until al dente .
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: Rinse with cold water , drain , and set aside .
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: with
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large bowl , whisk together oil , orange juice , vinegar , salt , and orange zest .
+PREDID: 0
+PRED: whisk
+  DOBJ: oil , orange juice , vinegar , salt , orange zest
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in cooked chicken until coated .
+PREDID: 0
+PRED: stir
+  PARG: cooked chicken
+    PREP: in
+  PARG: coated
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in cooked orzo , cantaloupe , grape halves , and mayonnaise .
+PREDID: 0
+PRED: stir
+  PARG: cooked orzo , cantaloupe , grape halves , mayonnaise
+    PREP: in
+
+
+SENTID: 6
+SENT: Cover and chill for 4 to 6 hours .
+PREDID: 0
+PRED: cover
+  PARG: 4 to 6 hours
+    PREP: for
+
+PREDID: 1
+PRED: chill
+
+
+SENTID: 7
+SENT: Just before serving , stir in cashews .
+PREDID: 0
+PRED: stir
+  PARG: serving
+    PREP: before
+  PARG: cashews
+    PREP: in
+  OARG: just
+
+
+SENTID: 8
+SENT: Serve in lettuce lined bowls .
+PREDID: 0
+PRED: serve
+  PARG: lettuce lined bowls
+    PREP: in
+

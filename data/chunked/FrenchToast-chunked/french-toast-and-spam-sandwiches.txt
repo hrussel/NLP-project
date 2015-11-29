@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Cut meat into 8 slices .
+PREDID: 0
+PRED: cut
+  DOBJ: meat
+  PARG: 8 slices
+    PREP: into
+
+
+SENTID: 1
+SENT: Cook in a large skillet until browned on both sides .
+PREDID: 0
+PRED: cook
+  PARG: a large skillet
+    PREP: in
+  PARG: browned on both sides
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from skillet , and keep warm .
+PREDID: 0
+PRED: remove
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 3
+SENT: In a shallow dish , beat eggs and milk together .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs, milk
+  PARG: a shallow dish
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Dip bread quickly in egg mixture , coating both sides .
+PREDID: 0
+PRED: dip
+  DOBJ: bread
+  PARG: egg mixture , coating both sides
+    PREP: in
+  OARG: quickly
+
+
+SENTID: 5
+SENT: Fry two at a time in skillet until done on both sides .
+PREDID: 0
+PRED: fry
+  DOBJ: two at a time
+  PARG: skillet
+    PREP: in
+  PARG: done on both sides
+    PREP: until
+
+
+SENTID: 6
+SENT: Wrap one piece of meat with one slice of French toast .
+PREDID: 0
+PRED: wrap
+  DOBJ: one piece of meat
+  PARG: one slice of french toast
+    PREP: with
+

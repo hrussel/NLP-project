@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Whisk the eggs .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs
+
+
+SENTID: 1
+SENT: Pour the mixture into a shallow dish .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: a shallow dish
+    PREP: into
+
+
+SENTID: 2
+SENT: Preheat an electric skillet to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an electric skillet
+  PARG: 300 degrees f -lrb- 150 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 3
+SENT: Lightly grease the skillet .
+PREDID: 0
+PRED: grease
+  DOBJ: the skillet
+  OARG: lightly
+
+
+SENTID: 4
+SENT: Dip one slice of bread at a time into the eggnog mixture , being sure to coat each side of the bread thoroughly .
+PREDID: 0
+PRED: dip
+  DOBJ: one slice of bread
+  PARG: a time
+    PREP: at
+  PARG: the eggnog mixture , being
+    PREP: into
+  PARG: coat each side of the bread
+    PREP: to
+  OARG: sure
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: Place the prepared bread slices into the preheated skillet , and cook , turning once , until golden brown on each side .
+PREDID: 0
+PRED: place
+  DOBJ: the prepared bread slices
+  PARG: the preheated skillet
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  DOBJ: turning
+  PARG: golden brown on each side
+    PREP: until
+  OARG: once
+
+
+SENTID: 6
+SENT: Place cooked slices on a serving plate and cover with foil to keep warm until all French toast is cooked .
+PREDID: 0
+PRED: place
+  DOBJ: cooked slices
+  PARG: a serving plate
+    PREP: on
+
+PREDID: 1
+PRED: cover
+  PARG: foil
+    PREP: with
+  PARG: keep warm
+    PREP: to
+  PARG: all french toast is cooked
+    PREP: until
+
+
+SENTID: 7
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

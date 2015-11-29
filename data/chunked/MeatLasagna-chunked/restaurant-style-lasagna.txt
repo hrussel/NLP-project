@@ -1,0 +1,129 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add lasagna noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: lasagna noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: To make filling - Combine in a bowl :
+PREDID: 0
+PRED: combine
+  PARG: make filling
+    PREP: to
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: ricotta cheese , mozzarella , parmesan and eggs .
+PREDID: 0
+PRED: cheese
+  DOBJ: mozzarella , parmesan, eggs
+  OARG: ricotta
+
+
+SENTID: 6
+SENT: To make sauce - In a skillet , brown the ground beef until cooked through ;
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: make sauce
+    PREP: to
+  PARG: a skillet
+    PREP: in
+  PARG: cooked through
+    PREP: until
+
+
+SENTID: 7
+SENT: drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 8
+SENT: Combine in skillet , browned ground beef , oregano , basil , garlic powder , sugar , salt , pepper and tomato sauce .
+PREDID: 0
+PRED: combine
+  PARG: skillet , browned ground beef , oregano , basil , garlic powder , sugar , salt , pepper, tomato sauce
+    PREP: in
+
+
+SENTID: 9
+SENT: Heat through and stir .
+PREDID: 0
+PRED: heat
+  DOBJ: through
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 10
+SENT: In a 9x13 inch pan , alternate layers of cooked lasagna noodles , sauce , and filling , making 3 layers total .
+PREDID: 0
+PRED: alternate
+  DOBJ: layers of cooked lasagna noodles , sauce , filling
+  PARG: a 9x13 inch pan
+    PREP: in
+
+
+SENTID: 11
+SENT: If desired , top with more mozzarella cheese .
+PREDID: 0
+PRED: top
+  PARG: desired
+    PREP: if
+  PARG: more mozzarella cheese
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake for 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Let stand 10 minutes before cutting .
+PREDID: 0
+PRED: let
+  PARG: cutting
+    PREP: before
+  OARG: stand 10 minutes
+

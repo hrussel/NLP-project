@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: Mix together the chicken , celery , green grapes , red grapes , cranberries , and chives in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken , celery , green grapes , red grapes , cranberries , chives
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Whisk together the honey , mustard , mayonnaise , salt , and pepper in a separate bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the honey , mustard , mayonnaise , salt , pepper
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Add the mustard mixture to the chicken mixture , stir to coat .
+PREDID: 0
+PRED: add
+  DOBJ: the mustard mixture
+  PARG: the chicken mixture
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+

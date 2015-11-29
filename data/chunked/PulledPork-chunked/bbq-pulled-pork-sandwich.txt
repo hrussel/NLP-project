@@ -1,0 +1,206 @@
+SENTID: 0
+SENT: Combine coleslaw mix , pepperoncini peppers , red onion , mayonnaise , lemon juice , red wine vinegar , 1 tablespoon granulated garlic , Dijon mustard , white sugar , salt , 1/2 teaspoon granulated onion , and lemon pepper in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: coleslaw mix , pepperoncini peppers , red onion , mayonnaise , lemon juice , red wine vinegar , 1 tablespoon granulated garlic , dijon mustard , white sugar , salt , 1/2 teaspoon granulated onion , lemon pepper
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Toss until well combined .
+PREDID: 0
+PRED: toss
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Cover and refrigerate until ready to use .
+PREDID: 0
+PRED: cover
+  PARG: ready to use
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 3
+SENT: Preheat oven to 300 degrees F -LRB- 150 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 300 degrees f -lrb- 150 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Combine kosher salt , black pepper , 2 tablespoons granulated garlic , 2 tablespoons granulated onion , 2 tablespoons brown sugar , 1 tablespoon cayenne pepper , nutmeg , allspice , and cinnamon together in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: kosher salt , black pepper , 2 tablespoons granulated garlic , 2 tablespoons granulated onion , 2 tablespoons brown sugar , 1 tablespoon cayenne pepper , nutmeg , allspice , cinnamon
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: Place pork shoulder in a large roasting pan .
+PREDID: 0
+PRED: place
+  DOBJ: pork shoulder
+  PARG: a large roasting pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Rub with 1/4 cup molasses on all sides and between any crevices .
+PREDID: 0
+PRED: rub
+  PARG: 1/4 cup molasses
+    PREP: with
+  PARG: all sides
+    PREP: on
+  PARG: any crevices
+    PREP: between
+
+
+SENTID: 7
+SENT: Sprinkle with kosher salt seasoning mixture and rub over all sides .
+PREDID: 0
+PRED: sprinkle
+  PARG: kosher salt seasoning mixture
+    PREP: with
+
+PREDID: 1
+PRED: rub
+  PARG: all sides
+    PREP: over
+
+
+SENTID: 8
+SENT: Cover pan tightly with heavy-duty aluminum foil and roast pork in the preheated oven until tender and a thermometer inserted reaches 200 degrees F -LRB- 95 degrees C -RRB- , 3 to 4 hours .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+  PARG: heavy-duty aluminum foil
+    PREP: with
+  OARG: tightly
+
+PREDID: 1
+PRED: roast
+  DOBJ: pork
+  PARG: the preheated oven
+    PREP: in
+  PARG: tender, a thermometer inserted reaches 200 degrees f -lrb- 95 degrees c -rrb- , 3 to 4 hours
+    PREP: until
+
+
+SENTID: 9
+SENT: Transfer pork to a cutting board , reserving pan juice , and allow to cool slightly before pulling .
+PREDID: 0
+PRED: transfer
+  DOBJ: pork
+  PARG: a cutting board , reserving pan juice , allow
+    PREP: to
+  PARG: pulling
+    PREP: before
+  OARG: to cool
+  OARG: slightly
+
+
+SENTID: 10
+SENT: Using two forks , shred the pork shoulder into bite-size pieces . Transfer meat to a large bowl and toss with some of the pan juices to keep it moist .
+PREDID: 0
+PRED: shred
+  DOBJ: the pork shoulder
+  PARG: bite-size pieces
+    PREP: into
+  OARG: using two forks
+
+PREDID: 1
+PRED: transfer
+  DOBJ: meat
+  PARG: a large bowl
+    PREP: to
+
+PREDID: 2
+PRED: toss
+  PARG: some of the pan juices
+    PREP: with
+  PARG: keep it moist
+    PREP: to
+
+
+SENTID: 11
+SENT: Pour reserved pan juices into a large pot over medium heat .
+PREDID: 0
+PRED: pour
+  DOBJ: reserved pan juices
+  PARG: a large pot
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 12
+SENT: Add barbeque sauce , coffee , 1 tablespoon molasses , 1 tablespoon brown sugar , dry mustard , and a pinch of cayenne pepper .
+PREDID: 0
+PRED: add
+  DOBJ: barbeque sauce , coffee , 1 tablespoon molasses , 1 tablespoon brown sugar , dry mustard , a pinch of cayenne pepper
+
+
+SENTID: 13
+SENT: Bring to a simmer , reduce heat , and cook for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: cook
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Add shredded pork and stir until warm , about 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: shredded pork
+
+PREDID: 1
+PRED: stir
+  PARG: warm , about 5 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Fill each hoagie bun with pork mixture .
+PREDID: 0
+PRED: fill
+  DOBJ: each hoagie bun
+  PARG: pork mixture
+    PREP: with
+
+
+SENTID: 16
+SENT: Top with 1 to 2 cups coleslaw .
+PREDID: 0
+PRED: top
+  PARG: 1 to 2 cups coleslaw
+    PREP: with
+
+
+SENTID: 17
+SENT: Garnish with 1 tablespoon onion and 1 tablespoon jalapeno .
+PREDID: 0
+PRED: garnish
+  PARG: 1 tablespoon onion, 1 tablespoon jalapeno
+    PREP: with
+

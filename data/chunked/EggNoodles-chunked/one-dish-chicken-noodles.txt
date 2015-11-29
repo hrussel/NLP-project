@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Heat oil in large skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: large skillet
+    PREP: in
+
+
+SENTID: 1
+SENT: Cube chicken into bite size pieces and brown in hot oil .
+PREDID: 0
+PRED: cube
+  DOBJ: chicken
+  PARG: bite size pieces
+    PREP: into
+
+PREDID: 1
+PRED: brown
+  PARG: hot oil
+    PREP: in
+
+
+SENTID: 2
+SENT: Meanwhile , in a large saucepan , boil noodles in water until soft , then drain .
+PREDID: 0
+PRED: drain
+  PARG: a large saucepan , boil noodles
+    PREP: in
+  PARG: water
+    PREP: in
+  PARG: soft
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Add hot cooked noodles to chicken in skillet and pour in gravy and peas .
+PREDID: 0
+PRED: add
+  DOBJ: hot cooked noodles
+  PARG: chicken
+    PREP: to
+  PARG: skillet
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: gravy, peas
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir together until ingredients are covered/coated with gravy .
+PREDID: 0
+PRED: stir
+  PARG: ingredients are covered/coated with gravy
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Cover skillet , reduce heat to medium low and let simmer for 10 minutes until gravy and peas are hot .
+PREDID: 0
+PRED: cover
+  DOBJ: skillet
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium low, let simmer
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+  PARG: gravy, peas are hot
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve directly from the skillet .
+PREDID: 0
+PRED: serve
+  PARG: the skillet
+    PREP: from
+  OARG: directly
+

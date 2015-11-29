@@ -1,0 +1,83 @@
+SENTID: 0
+SENT: In a large bowl , mix the cooked chicken , dressing , dill , cashews , and avocado .
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked chicken , dressing , dill , cashews , avocado
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 2
+SENT: Cover , and chill in the refrigerator at least 30 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: chill
+  PARG: the refrigerator
+    PREP: in
+  PARG: least 30 minutes
+    PREP: at
+
+
+SENTID: 3
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 4
+SENT: Cook over medium high heat until evenly brown ;
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 5
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Spread even amounts of the chicken mixture on 6 slices of toasted bread .
+PREDID: 0
+PRED: spread
+  DOBJ: amounts of the chicken mixture
+  PARG: 6 slices of toasted bread
+    PREP: on
+  OARG: even
+
+
+SENTID: 7
+SENT: Top each with 2 slices bacon and 1 slice Swiss cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each with 2 slices bacon, 1 slice swiss cheese
+
+
+SENTID: 8
+SENT: Top with remaining bread slices to make sandwiches .
+PREDID: 0
+PRED: top
+  PARG: remaining bread slices
+    PREP: with
+  PARG: make sandwiches
+    PREP: to
+

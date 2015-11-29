@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: Preheat the oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Melt butter in an oven-safe skillet over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: an oven-safe skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Stir in mushrooms and a pinch of salt ;
+PREDID: 0
+PRED: stir
+  PARG: mushrooms, a pinch of salt
+    PREP: in
+
+
+SENTID: 3
+SENT: cook and stir until mushrooms begin to brown , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: mushrooms
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: begin
+  PARG: brown
+    PREP: to
+  PARG: 5 minutes
+    PREP: about
+
+
+SENTID: 4
+SENT: Stir in fresh rosemary .
+PREDID: 0
+PRED: stir
+  PARG: fresh rosemary
+    PREP: in
+
+
+SENTID: 5
+SENT: Add flour and stir to coat the mushrooms ;
+PREDID: 0
+PRED: add
+  DOBJ: flour
+
+PREDID: 1
+PRED: stir
+  PARG: coat the mushrooms
+    PREP: to
+
+
+SENTID: 6
+SENT: cook and stir for about 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: about 3 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Whisk in beef broth , 1/2 cup at a time , whisking constantly to prevent lumps .
+PREDID: 0
+PRED: whisk
+  PARG: beef broth , 1/2 cup
+    PREP: in
+  PARG: a time , whisking
+    PREP: at
+  OARG: constantly
+  OARG: to prevent lumps
+
+
+SENTID: 8
+SENT: Turn heat to high and bring the sauce to a simmer .
+PREDID: 0
+PRED: turn
+  DOBJ: heat
+  PARG: high
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  DOBJ: the sauce
+  PARG: a simmer
+    PREP: to
+
+
+SENTID: 9
+SENT: Simmer a few minutes until sauce starts to thicken .
+PREDID: 0
+PRED: simmer
+  PARG: sauce starts to thicken
+    PREP: until
+  OARG: a few minutes
+
+
+SENTID: 10
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 11
+SENT: Remove from heat and stir in heavy cream .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: heavy cream
+    PREP: in
+
+
+SENTID: 12
+SENT: Slide prepared meatloaf into the sauce .
+PREDID: 0
+PRED: slide
+  DOBJ: prepared meatloaf
+  PARG: the sauce
+    PREP: into
+
+
+SENTID: 13
+SENT: Spoon sauce over the top of the meatloaf .
+PREDID: 0
+PRED: spoon
+  DOBJ: sauce
+  PARG: the top of the meatloaf
+    PREP: over
+
+
+SENTID: 14
+SENT: Bake in the preheated oven until no longer pink in the center , about 1Ê1/2 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 1Ê1/2 hours
+    PREP: until
+
+
+SENTID: 15
+SENT: Remove pan from the oven and gently remove meatloaf to a serving platter .
+PREDID: 0
+PRED: remove
+  DOBJ: pan
+  PARG: the oven
+    PREP: from
+  OARG: gently
+
+PREDID: 1
+PRED: remove
+  DOBJ: meatloaf
+  PARG: a serving platter
+    PREP: to
+
+
+SENTID: 16
+SENT: Skim off any extra fat from the surface of the sauce .
+PREDID: 0
+PRED: skim
+  PARG: any extra fat
+    PREP: off
+  PARG: the surface of the sauce
+    PREP: from
+
+
+SENTID: 17
+SENT: Bring the sauce to a boil over medium-high heat to reduce until thick , about 5 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: the sauce
+  PARG: a boil
+    PREP: to
+  PARG: medium-high heat
+    PREP: over
+  PARG: thick , about 5 minutes
+    PREP: until
+  OARG: to reduce
+

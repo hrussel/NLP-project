@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line a baking sheet with aluminum foil ;
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 2
+SENT: lightly oil the foil .
+PREDID: 0
+PRED: oil
+  DOBJ: the foil
+  OARG: lightly
+
+
+SENTID: 3
+SENT: Arrange pumpkin halves onto the prepared baking sheet , cut sides down .
+PREDID: 0
+PRED: arrange
+  DOBJ: pumpkin halves
+  PARG: the prepared baking sheet
+    PREP: onto
+
+PREDID: 1
+PRED: cut
+  DOBJ: sides
+  OARG: down
+
+
+SENTID: 4
+SENT: Bake in preheated oven until flesh is tender throughout , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: flesh is tender throughout , about 40 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Set aside until cool enough to handle .
+PREDID: 0
+PRED: set
+  PARG: cool enough to handle
+    PREP: until
+  OARG: aside
+
+
+SENTID: 6
+SENT: Increase oven heat to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: increase
+  DOBJ: oven heat
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Scrape pumpkin flesh into a large mixing bowl .
+PREDID: 0
+PRED: scrape
+  DOBJ: pumpkin flesh
+  PARG: a large mixing bowl
+    PREP: into
+
+
+SENTID: 8
+SENT: Add eggs , heavy cream , sour cream , demerara sugar , flour , pumpkin pie spice , and salt ;
+PREDID: 0
+PRED: add
+  DOBJ: eggs , heavy cream , sour cream , demerara sugar , flour , pumpkin pie spice , salt
+
+
+SENTID: 9
+SENT: beat until smooth .
+PREDID: 0
+PRED: beat
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 10
+SENT: Pour the pumpkin mixture into pie crusts .
+PREDID: 0
+PRED: pour
+  DOBJ: the pumpkin mixture
+  PARG: pie crusts
+    PREP: into
+
+
+SENTID: 11
+SENT: Bake in the preheated oven until a toothpick inserted into the center comes out clean , about 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center comes out clean , about 45 minutes
+    PREP: until
+

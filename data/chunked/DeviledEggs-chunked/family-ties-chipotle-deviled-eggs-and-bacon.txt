@@ -1,0 +1,257 @@
+SENTID: 0
+SENT: Place water , chiles , onion , vinegar , ketchup , garlic , and salt in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: water , chiles , onion , vinegar , ketchup , garlic , salt
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: bring to a simmer , and cook , stirring occasionally , until reduced and very thick , about 1 hour .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: reduced, very thick , about 1 hour
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Pour chile mixture into a blender no more than half full .
+PREDID: 0
+PRED: pour
+  DOBJ: chile mixture
+  PARG: a blender no more
+    PREP: into
+  PARG: half full
+    PREP: than
+
+
+SENTID: 3
+SENT: Cover and hold lid down ;
+PREDID: 0
+PRED: cover
+  DOBJ: lid
+
+PREDID: 1
+PRED: hold
+  OARG: down
+
+
+SENTID: 4
+SENT: pulse a few times before leaving on to blend until smooth .
+PREDID: 0
+PRED: pulse
+  DOBJ: a few times
+  PARG: leaving
+    PREP: before
+  PARG: to blend
+    PREP: on
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir cream into chipotle sauce ;
+PREDID: 0
+PRED: stir
+  DOBJ: cream
+  PARG: chipotle sauce
+    PREP: into
+
+
+SENTID: 6
+SENT: refrigerate until ready to use .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to use
+    PREP: until
+
+
+SENTID: 7
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 8
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 9
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 10
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 11
+SENT: Place bacon in a large skillet ;
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 12
+SENT: cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 13
+SENT: Drain bacon on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: bacon
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 14
+SENT: Crumble half the bacon ;
+PREDID: 0
+PRED: crumble
+  DOBJ: half the bacon
+
+
+SENTID: 15
+SENT: reserve remaining bacon for garnish .
+PREDID: 0
+PRED: reserve
+  DOBJ: remaining bacon
+  PARG: garnish
+    PREP: for
+
+
+SENTID: 16
+SENT: Cut each egg in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 17
+SENT: place egg yolks into a bowl .
+PREDID: 0
+PRED: place
+  DOBJ: egg yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 18
+SENT: Mash egg yolks with a fork ;
+PREDID: 0
+PRED: mash
+  DOBJ: egg yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 19
+SENT: stir in mayonnaise , crumbled bacon , and Cheddar cheese .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise , crumbled bacon , cheddar cheese
+    PREP: in
+
+
+SENTID: 20
+SENT: Stir 1 tablespoon chipotle sauce into yolk mixture , or more to taste .
+PREDID: 0
+PRED: stir
+  DOBJ: 1 tablespoon chipotle sauce
+  PARG: yolk mixture , or more
+    PREP: into
+  PARG: taste
+    PREP: to
+
+
+SENTID: 21
+SENT: Place egg whites cut-side up on a serving plate .
+PREDID: 0
+PRED: place
+  DOBJ: egg whites cut-side
+  PARG: a serving plate
+    PREP: on
+  OARG: up
+
+
+SENTID: 22
+SENT: Spoon yolk mixture into egg white halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: yolk mixture
+  PARG: egg white halves
+    PREP: into
+
+
+SENTID: 23
+SENT: Sprinkle remaining bacon over filling ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining bacon
+  PARG: filling
+    PREP: over
+
+
+SENTID: 24
+SENT: drizzle with chipotle sauce .
+PREDID: 0
+PRED: drizzle
+  PARG: chipotle sauce
+    PREP: with
+

@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Combine lettuce , chicken , black olives , green bell pepper , red bell pepper , and red onion together in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: lettuce , chicken , black olives , green bell pepper , red bell pepper , red onion
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: cover with plastic wrap and refrigerate until chilled , about 30 minutes .
+PREDID: 0
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: chilled , about 30 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix oil , red wine vinegar , lemon juice , sugar , salt , pepper , and garlic in a container with lid ;
+PREDID: 0
+PRED: mix
+  DOBJ: oil , red wine vinegar , lemon juice , sugar , salt , pepper , garlic
+  PARG: a container
+    PREP: in
+  PARG: lid
+    PREP: with
+
+
+SENTID: 3
+SENT: cover and shake until well combined .
+PREDID: 0
+PRED: cover
+  PARG: well combined
+    PREP: until
+
+PREDID: 1
+PRED: shake
+
+
+SENTID: 4
+SENT: Refrigerate until chilled , about 30 minutes .
+PREDID: 0
+PRED: refrigerate
+  PARG: chilled , about 30 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix avocado into salad .
+PREDID: 0
+PRED: mix
+  DOBJ: avocado
+  PARG: salad
+    PREP: into
+
+
+SENTID: 6
+SENT: Shake dressing and drizzle over salad ;
+PREDID: 0
+PRED: shake
+  DOBJ: dressing
+
+PREDID: 1
+PRED: drizzle
+  PARG: salad
+    PREP: over
+
+
+SENTID: 7
+SENT: toss lightly .
+PREDID: 0
+PRED: toss
+  OARG: lightly
+

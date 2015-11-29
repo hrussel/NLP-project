@@ -1,0 +1,70 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a baking pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a baking pan
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Place the ground beef , eggs , panko , and 1/2 cup ketchup in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef , eggs , panko , 1/2 cup ketchup
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Mix by hand , and season with salt-free seasoning blend , garlic powder , onion powder , salt , and pepper .
+PREDID: 0
+PRED: mix
+  PARG: hand
+    PREP: by
+
+PREDID: 1
+PRED: season
+  PARG: salt-free seasoning blend , garlic powder , onion powder , salt , pepper
+    PREP: with
+
+
+SENTID: 4
+SENT: Form into a loaf shape , and place on the prepared baking pan .
+PREDID: 0
+PRED: form
+  PARG: a loaf shape
+    PREP: into
+
+PREDID: 1
+PRED: place
+  PARG: the prepared baking pan
+    PREP: on
+
+
+SENTID: 5
+SENT: Drizzle with remaining 1/4 cup ketchup .
+PREDID: 0
+PRED: drizzle
+  PARG: remaining 1/4 cup ketchup
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake 1 hour in the preheated oven , to an internal temperature of 160 degrees F -LRB- 70 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: an internal temperature of 160 degrees f -lrb- 70 degrees c -rrb-
+    PREP: to
+  OARG: 1 hour
+

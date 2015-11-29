@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Heat oil in a large pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir steak and ground black pepper in hot oil until browned on all sides , 5 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: steak, ground black pepper
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: browned on all sides , 5 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir onions into beef ;
+PREDID: 0
+PRED: stir
+  DOBJ: onions
+  PARG: beef
+    PREP: into
+
+
+SENTID: 3
+SENT: saute until onions are translucent , 3 to 4 minutes .
+PREDID: 0
+PRED: saute
+  PARG: onions are translucent , 3 to 4 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Add garlic and cook until fragrant , about 1 minute .
+PREDID: 0
+PRED: add
+  DOBJ: garlic
+
+PREDID: 1
+PRED: cook
+  PARG: fragrant , about 1 minute
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir green bell peppers , yellow bell pepper , and red bell pepper into beef mixture one pepper at a time .
+PREDID: 0
+PRED: stir
+  DOBJ: green bell peppers , yellow bell pepper , red bell pepper
+  PARG: beef mixture one pepper
+    PREP: into
+  PARG: a time
+    PREP: at
+
+
+SENTID: 6
+SENT: Pour diced tomatoes , kidney beans , black beans , corn , and tomato sauce into beef-pepper mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: diced tomatoes , kidney beans , black beans , corn , tomato sauce
+  PARG: beef-pepper mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: Bring to a simmer and cook , stirring occasionally , until flavors blend and meat is tender , about 1 hour .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: flavors blend, meat is tender , about 1 hour
+    PREP: until
+  OARG: occasionally
+

@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Bring a large pot of lightly-salted water to a rolling boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly-salted water
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: stir in the egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: the egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 4
+SENT: Meanwhile , melt the butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 5
+SENT: Stir in the chopped onion , green pepper , garlic , and parsley .
+PREDID: 0
+PRED: stir
+  PARG: the chopped onion , green pepper , garlic , parsley
+    PREP: in
+
+
+SENTID: 6
+SENT: Cook and stir until the onion has softened and turned translucent , about 5 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Add the crawfish tails and Cajun seasoning ;
+PREDID: 0
+PRED: add
+  DOBJ: the crawfish tails, cajun seasoning
+
+
+SENTID: 8
+SENT: simmer 5 minutes longer .
+PREDID: 0
+PRED: simmer
+  OARG: 5 minutes
+  OARG: longer
+
+
+SENTID: 9
+SENT: Pour in the heavy cream , mushrooms , and 1/2 cup of Cheddar cheese ;
+PREDID: 0
+PRED: pour
+  PARG: the heavy cream , mushrooms , 1/2 cup of cheddar cheese
+    PREP: in
+
+
+SENTID: 10
+SENT: stir until the cheese has melted .
+PREDID: 0
+PRED: stir
+  PARG: the cheese has melted
+    PREP: until
+
+
+SENTID: 11
+SENT: Toss the pasta with the crawfish sauce and green onions ;
+PREDID: 0
+PRED: toss
+  DOBJ: the pasta
+  PARG: the crawfish sauce, green onions
+    PREP: with
+
+
+SENTID: 12
+SENT: sprinkle with the remaining Cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: the remaining cheddar cheese
+    PREP: with
+

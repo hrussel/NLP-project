@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Place the eggs in a saucepan in a single layer with enough water to cover by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: in
+  PARG: a single layer
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Pour out the hot water , then cool the eggs under cold running water .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+
+
+SENTID: 4
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 5
+SENT: Dry the eggs thoroughly with paper towels , and slice them in half lengthwise .
+PREDID: 0
+PRED: dry
+  DOBJ: the eggs
+  PARG: paper towels
+    PREP: with
+  OARG: thoroughly
+
+PREDID: 1
+PRED: slice
+  DOBJ: them
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 6
+SENT: Remove the yolks , and place in a bowl .
+PREDID: 0
+PRED: remove
+  DOBJ: the yolks
+
+PREDID: 1
+PRED: place
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mash the yolks with a fork , and stir in the sugar , salt , onion powder , garlic powder , and white pepper .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+
+PREDID: 1
+PRED: stir
+  PARG: the sugar , salt , onion powder , garlic powder , white pepper
+    PREP: in
+
+
+SENTID: 8
+SENT: Add the mustard , mayonnaise , salad dressing , and vinegar , one at a time , stirring to incorporate each ingredient before adding the next .
+PREDID: 0
+PRED: add
+  DOBJ: the mustard , mayonnaise , salad dressing , vinegar , one at a time , stirring
+  PARG: adding the next
+    PREP: before
+  OARG: to incorporate each ingredient
+
+
+SENTID: 9
+SENT: Mound a heaping teaspoonful of the yolk mixture into the cavity of each egg half , and sprinkle with paprika .
+PREDID: 0
+PRED: mound
+  DOBJ: a heaping teaspoonful of the yolk mixture
+  PARG: the cavity of each egg half
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+

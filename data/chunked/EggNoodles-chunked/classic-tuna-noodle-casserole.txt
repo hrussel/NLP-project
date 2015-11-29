@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix soup , milk , peas , pimiento , tuna and noodles in 1Ê1/2 - quart baking dish .
+PREDID: 0
+PRED: mix
+  DOBJ: soup , milk , peas , pimiento , tuna, noodles
+  PARG: 1Ê1/2 - quart baking dish
+    PREP: in
+
+
+SENTID: 2
+SENT: Bake for 20 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Mix bread crumbs with butter .
+PREDID: 0
+PRED: mix
+  DOBJ: bread crumbs
+  PARG: butter
+    PREP: with
+
+
+SENTID: 4
+SENT: Sprinkle on top .
+PREDID: 0
+PRED: sprinkle
+  PARG: top
+    PREP: on
+
+
+SENTID: 5
+SENT: Bake 5 minutes or until hot .
+PREDID: 0
+PRED: bake
+  PARG: hot
+    PREP: until
+  OARG: 5 minutes
+

@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Wash and peel the potatoes and cut into 1/2 to 3/4 inch pieces . Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: wash
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: peel
+
+PREDID: 2
+PRED: cut
+  PARG: 1/2 to 3/4 inch pieces
+    PREP: into
+
+PREDID: 3
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add the potatoes and cook until tender but still firm , about 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Slice the bacon into small pieces and cook over medium high heat in a large , deep skillet until evenly brown .
+PREDID: 0
+PRED: slice
+  DOBJ: the bacon
+  PARG: small pieces
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  DOBJ: skillet
+  PARG: medium high heat
+    PREP: over
+  PARG: a large
+    PREP: in
+  PARG: evenly brown
+    PREP: until
+  OARG: deep
+
+
+SENTID: 3
+SENT: Chop the celery , green onions , stuffed olives and radishes into small pieces and put into a large bowl .
+PREDID: 0
+PRED: chop
+  DOBJ: the celery , green onions , stuffed olives, radishes
+  PARG: small pieces
+    PREP: into
+
+PREDID: 1
+PRED: put
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 4
+SENT: Add the potatoes and bacon and mix together .
+PREDID: 0
+PRED: add
+  DOBJ: the potatoes, bacon
+
+PREDID: 1
+PRED: mix
+  OARG: together
+
+
+SENTID: 5
+SENT: Add the mayonnaise and lemon juice to taste , stir , and place in the refrigerator for a few hours to chill before serving .
+PREDID: 0
+PRED: add
+  DOBJ: the mayonnaise, lemon juice
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: place
+  PARG: the refrigerator
+    PREP: in
+  PARG: a few hours
+    PREP: for
+  PARG: chill
+    PREP: to
+  PARG: serving
+    PREP: before
+
+
+SENTID: 6
+SENT: ENJOY !!!
+PREDID: 0
+PRED: enjoy
+  OARG: 
+

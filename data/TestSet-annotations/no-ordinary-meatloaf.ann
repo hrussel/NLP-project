@@ -1,0 +1,76 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 52	Spray
+T3	predicate 132 137	pulse
+T4	predicate 167 172	place
+T5	predicate 188 195	Stir in
+T6	predicate 303 306	Use
+T7	predicate 336 339	pat
+T8	predicate 359 363	Bake
+T9	predicate 544 548	Cool
+T10	predicate 576 583	slicing
+T11	arg_object 8 12	oven
+T12	arg_location 364 381	in preheated oven
+T13	Evolution 367 381	preheated oven
+E1	Evolution:T13 Cause:T1
+R1	location Arg1:T8 Arg2:T12	
+R2	object Arg1:T1 Arg2:T11	
+T14	arg_other 13 45	to 350 degrees F (175 degrees C)
+R3	other Arg1:T1 Arg2:T14	
+T15	arg_object 53 72	a 9x5 inch loaf pan
+R4	object Arg1:T2 Arg2:T15	
+T16	arg_co-object 73 100	with nonstick cooking spray
+T17	ingredient 78 100	nonstick cooking spray
+R5	co-object Arg1:T2 Arg2:T16	
+T18	arg_location 102 130	In food processor or blender
+R6	location Arg1:T3 Arg2:T18	
+T19	arg_object 138 150	stuffing mix
+T20	ingredient 138 150	stuffing mix
+R7	object Arg1:T3 Arg2:T19	
+T21	arg_other 151 165	to fine crumbs
+R8	other Arg1:T3 Arg2:T21	
+R9	object Arg1:T4 Arg2:T3	
+T22	arg_other 173 186	in large bowl
+R10	other Arg1:T4 Arg2:T22	
+T23	arg_object 196 207	ground beef
+T24	arg_object 209 220	ground pork
+T25	arg_object 222 227	onion
+T26	arg_object 229 241	green pepper
+T27	arg_object 243 251	tomatoes
+T28	arg_object 253 257	eggs
+T29	arg_object 259 272	seasoned salt
+T30	arg_object 274 289	seasoning blend
+T31	arg_object 295 301	pepper
+R11	object Arg1:T5 Arg2:T23	
+R12	object Arg1:T5 Arg2:T24	
+R13	object Arg1:T5 Arg2:T25	
+R14	object Arg1:T5 Arg2:T26	
+R15	object Arg1:T5 Arg2:T27	
+R16	object Arg1:T5 Arg2:T28	
+R17	object Arg1:T5 Arg2:T29	
+R18	object Arg1:T5 Arg2:T30	
+R19	object Arg1:T5 Arg2:T31	
+R20	co-object Arg1:T5 Arg2:T4	
+T32	ingredient 196 207	ground beef
+T33	ingredient 209 220	ground pork
+T34	ingredient 222 227	onion
+T35	ingredient 229 241	green pepper
+T36	ingredient 243 251	tomatoes
+T37	ingredient 253 257	eggs
+T38	ingredient 259 272	seasoned salt
+T39	ingredient 274 289	seasoning blend
+T40	ingredient 295 301	pepper
+T41	arg_object 307 317	your hands
+R21	object Arg1:T6 Arg2:T41	
+R22	co-object Arg1:T6 Arg2:T5	
+T42	arg_other 318 334	to mix very well
+R23	other Arg1:T6 Arg2:T42	
+R24	object Arg1:T7 Arg2:T6	
+T43	arg_location 340 357	into prepared pan
+R25	location Arg1:T7 Arg2:T43	
+R26	object Arg1:T8 Arg2:T7	
+T44	arg_duration 382 438	until no longer pink in the center, 45 minutes to 1 hour
+R27	duration Arg1:T8 Arg2:T44	
+R28	object Arg1:T9 Arg2:T8	
+T45	arg_duration 549 568	for 5 to 10 minutes
+R29	duration Arg1:T9 Arg2:T45	
+R30	object Arg1:T10 Arg2:T9	

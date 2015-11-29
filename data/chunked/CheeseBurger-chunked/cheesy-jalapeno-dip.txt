@@ -1,0 +1,81 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix cream cheese , sour cream , canned jalapeno peppers with juice , green chiles , diced jalapeno pepper , cilantro , and ranch dressing mix together in a bowl until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: cream cheese , sour cream , canned jalapeno peppers
+  PARG: juice , green chiles , diced jalapeno pepper , cilantro , ranch dressing mix
+    PREP: with
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Add about half the Cheddar cheese and half the Parmesan cheese ;
+PREDID: 0
+PRED: add
+  PARG: half the cheddar cheese, half the parmesan cheese
+    PREP: about
+
+
+SENTID: 3
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 4
+SENT: Spread the cheese mixture into a baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: the cheese mixture
+  PARG: a baking dish
+    PREP: into
+
+
+SENTID: 5
+SENT: Arrange jalapeno slices atop the cheese mixture ;
+PREDID: 0
+PRED: arrange
+  DOBJ: jalapeno slices
+  PARG: the cheese mixture
+    PREP: atop
+
+
+SENTID: 6
+SENT: top with remaining Cheddar and Parmesan cheeses .
+PREDID: 0
+PRED: top
+  PARG: remaining cheddar, parmesan cheeses
+    PREP: with
+
+
+SENTID: 7
+SENT: Cover baking dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: baking dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake in preheated oven until top is warm and bubbling , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: top is warm, bubbling , about 25 minutes
+    PREP: until
+

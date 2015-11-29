@@ -1,0 +1,68 @@
+SENTID: 0
+SENT: In 2Ê1/2 quart microwave-safe casserole dishcombine Simply Potatoes and water .
+PREDID: 0
+PRED: water
+  DOBJ: potatoes
+  PARG: 2Ê1/2 quart microwave-safe casserole dishcombine
+    PREP: in
+  OARG: simply
+
+
+SENTID: 1
+SENT:  Cover ;
+PREDID: 0
+PRED: cover
+
+
+SENTID: 2
+SENT: microwave on HIGH 10 to 12 minutes or until Simply Potatoes are tender .
+PREDID: 0
+PRED: microwave
+  PARG: high 10 to 12 minutes
+    PREP: on
+  PARG: simply potatoes are tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain water .
+PREDID: 0
+PRED: drain
+  DOBJ: water
+
+
+SENTID: 4
+SENT: Meanwhile in large bowl whisk together mayonnaise , mustard , vinegar , salt and pepper until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , mustard , vinegar , salt, pepper
+  PARG: large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 5
+SENT: Add cooked potatoes , celery , red pepper and chopped eggs .
+PREDID: 0
+PRED: add
+  DOBJ: cooked potatoes , celery , red pepper, chopped eggs
+
+
+SENTID: 6
+SENT: Stir gently .
+PREDID: 0
+PRED: stir
+  OARG: gently
+
+
+SENTID: 7
+SENT: Refrigerate 1 hour to blend flavors .
+PREDID: 0
+PRED: refrigerate
+  PARG: blend flavors
+    PREP: to
+  OARG: 1 hour
+

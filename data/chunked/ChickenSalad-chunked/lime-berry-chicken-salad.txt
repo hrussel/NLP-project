@@ -1,0 +1,97 @@
+SENTID: 0
+SENT: Toss chicken breasts , limeade , and pepper in a bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: chicken breasts , limeade , pepper
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook the chicken breasts in a skillet until no longer pink in the center and the juices run clear , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken breasts
+  PARG: a skillet
+    PREP: in
+  PARG: no longer pink in the center, the juices run clear , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove skillet from the heat and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: skillet
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Combine sugar , vinegar , salt , mustard , and onion in a blender .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar , vinegar , salt , mustard , onion
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 4
+SENT: Process for about 20 seconds .
+PREDID: 0
+PRED: process
+  PARG: about 20 seconds
+    PREP: for
+
+
+SENTID: 5
+SENT: With the blender on high speed , gradually add oil in a slow and steady stream .
+PREDID: 0
+PRED: add
+  DOBJ: oil
+  PARG: the blender
+    PREP: with
+  PARG: high speed
+    PREP: on
+  PARG: a slow
+    PREP: in
+  OARG: gradually
+  OARG: steady
+
+PREDID: 1
+PRED: stream
+
+
+SENTID: 6
+SENT: Stir in poppy seeds .
+PREDID: 0
+PRED: stir
+  PARG: poppy seeds
+    PREP: in
+
+
+SENTID: 7
+SENT: Arrange spinach on 4 salad plates and top with strawberries , peas , pecans , and the cooked chicken .
+PREDID: 0
+PRED: arrange
+  DOBJ: spinach
+  PARG: 4 salad plates
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: strawberries , peas , pecans , the cooked chicken
+    PREP: with
+
+
+SENTID: 8
+SENT: Serve with the poppy seed dressing .
+PREDID: 0
+PRED: serve
+  PARG: the poppy seed dressing
+    PREP: with
+

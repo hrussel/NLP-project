@@ -1,0 +1,59 @@
+T1	predicate 86 89	Add
+T4	arg_object 90 98	tomatoes
+T5	arg_object 100 112	tomato sauce
+T6	arg_object 114 119	water
+T7	arg_object 121 126	beans
+T9	arg_location 0 21	In a medium stock pot
+T10	predicate 22 27	brown
+T11	arg_duration 44 60	about 10 minutes
+R1	location Arg1:T10 Arg2:T9	
+R2	object Arg1:T1 Arg2:T4	
+R3	object Arg1:T1 Arg2:T5	
+T12	arg_object 28 32	beef
+T13	arg_object 37 42	onion
+R4	object Arg1:T10 Arg2:T12	
+R5	object Arg1:T1 Arg2:T6	
+R6	object Arg1:T1 Arg2:T7	
+T17	arg_duration 191 204	for 5 minutes
+T19	predicate 62 67	drain
+T20	arg_object 68 74	grease
+T21	predicate 184 190	simmer
+R8	duration Arg1:T21 Arg2:T17	
+T22	arg_other 75 84	if needed
+R9	object Arg1:T19 Arg2:T20	
+R10	object Arg1:T10 Arg2:T13	
+R11	duration Arg1:T10 Arg2:T11	
+R12	other Arg1:T19 Arg2:T22	
+T23	predicate 153 158	Bring
+T24	arg_other 159 166	to boil
+R19	object Arg1:T23 Arg2:T1	
+T3	predicate 206 209	Top
+T14	arg_co-object 210 256	with cheese, corn chips, sour cream and olives
+R13	co-object Arg1:T3 Arg2:T14	
+R7	object Arg1:T3 Arg2:T21	
+R14	co-object Arg1:T19 Arg2:T10	
+R16	co-object Arg1:T1 Arg2:T19	
+T15	ingredient 28 32	beef
+T16	ingredient 37 42	onion
+T18	ingredient 90 98	tomatoes
+T25	ingredient 100 112	tomato sauce
+T26	ingredient 114 119	water
+T27	ingredient 121 126	beans
+T29	ingredient 215 221	cheese
+T30	ingredient 223 233	corn chips
+T31	ingredient 235 245	sour cream
+T8	arg_object 128 132	corn
+T28	arg_object 137 151	taco seasoning
+R15	object Arg1:T1 Arg2:T8	
+R17	object Arg1:T1 Arg2:T28	
+T32	ingredient 128 132	corn
+T33	ingredient 137 151	taco seasoning
+R18	other Arg1:T23 Arg2:T24	
+T2	predicate 168 174	reduce
+T34	arg_object 175 179	heat
+R20	object Arg1:T2 Arg2:T34	
+R21	co-object Arg1:T2 Arg2:T23	
+R22	object Arg1:T21 Arg2:T2	
+T35	ingredient 250 256	olives
+T36	Evolution 68 74	grease
+E1	Evolution:T36 Cause:T10

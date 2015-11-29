@@ -1,0 +1,118 @@
+T1	predicate 0 4	Pour
+T2	predicate 57 62	Place
+T3	predicate 100 107	pour in
+T4	predicate 168 175	Stir in
+T5	predicate 271 276	Cover
+T6	predicate 281 285	cook
+T7	predicate 351 357	Remove
+T8	predicate 394 399	shred
+T9	predicate 426 432	Return
+T10	predicate 475 479	stir
+T11	predicate 506 512	Spread
+T12	predicate 570 575	Toast
+T13	predicate 654 659	Spoon
+T14	arg_object 5 22	the vegetable oil
+T15	ingredient 5 22	the vegetable oil
+T16	arg_location 23 55	into the bottom of a slow cooker
+R1	object Arg1:T1 Arg2:T14	
+R2	location Arg1:T1 Arg2:T16	
+T17	arg_object 63 77	the pork roast
+T18	ingredient 63 77	the pork roast
+T19	arg_location 78 98	into the slow cooker
+R3	object Arg1:T2 Arg2:T17	
+R4	location Arg1:T2 Arg2:T19	
+R5	co-object Arg1:T2 Arg2:T1	
+R6	same-location Arg1:T19 Arg2:T16	
+R7	co-object Arg1:T3 Arg2:T2	
+T20	arg_object 108 126	the barbecue sauce
+T21	ingredient 108 126	the barbecue sauce
+T22	arg_object 128 147	apple cider vinegar
+T23	ingredient 128 147	apple cider vinegar
+T24	arg_object 153 166	chicken broth
+T25	ingredient 153 166	chicken broth
+R8	object Arg1:T3 Arg2:T20	
+R9	object Arg1:T3 Arg2:T22	
+R10	object Arg1:T3 Arg2:T24	
+R11	co-object Arg1:T4 Arg2:T3	
+T26	arg_object 176 191	the brown sugar
+T27	ingredient 176 191	the brown sugar
+T28	arg_object 193 207	yellow mustard
+T29	ingredient 193 207	yellow mustard
+T30	arg_object 209 229	Worcestershire sauce
+T31	ingredient 209 229	Worcestershire sauce
+T32	arg_object 231 243	chili powder
+T33	ingredient 231 243	chili powder
+T34	arg_object 245 250	onion
+T35	ingredient 245 250	onion
+T36	arg_object 252 258	garlic
+T37	ingredient 252 258	garlic
+T38	arg_object 264 269	thyme
+T39	ingredient 264 269	thyme
+R12	object Arg1:T4 Arg2:T26	
+R13	object Arg1:T4 Arg2:T28	
+R14	object Arg1:T4 Arg2:T30	
+R15	object Arg1:T4 Arg2:T32	
+R16	object Arg1:T4 Arg2:T34	
+R17	object Arg1:T4 Arg2:T36	
+R18	object Arg1:T4 Arg2:T38	
+R19	object Arg1:T5 Arg2:T4	
+R20	object Arg1:T6 Arg2:T5	
+T40	arg_other 286 293	on High
+T41	arg_duration 294 349	until the roast shreds easily with a fork, 5 to 6 hours
+R21	other Arg1:T6 Arg2:T40	
+R22	duration Arg1:T6 Arg2:T41	
+T42	arg_object 358 367	the roast
+T43	Evolution 358 367	the roast
+E1	Evolution:T43 Cause:T6
+R23	object Arg1:T7 Arg2:T42	
+T44	arg_location 368 388	from the slow cooker
+R24	location Arg1:T7 Arg2:T44	
+R25	same-location Arg1:T44 Arg2:T19	
+T45	arg_object 400 408	the meat
+T46	Evolution 400 408	the meat
+E2	Evolution:T46 Cause:T7
+R26	object Arg1:T8 Arg2:T45	
+T47	arg_other 409 424	using two forks
+R27	other Arg1:T8 Arg2:T47	
+T48	arg_object 433 450	the shredded pork
+T49	Evolution 433 450	the shredded pork
+E3	Evolution:T49 Cause:T8
+R28	object Arg1:T9 Arg2:T48	
+T50	arg_location 451 469	to the slow cooker
+R29	same-location Arg1:T50 Arg2:T44	
+R30	location Arg1:T9 Arg2:T50	
+T51	arg_object 480 488	the meat
+T52	Evolution 480 488	the meat
+E4	Evolution:T52 Cause:T9
+T53	arg_co-object 489 504	into the juices
+T54	Evolution 494 504	the juices
+E5	Evolution:T54 Cause:T7
+R31	object Arg1:T10 Arg2:T51	
+R32	co-object Arg1:T10 Arg2:T53	
+T55	arg_object 513 556	the inside of both halves of hamburger buns
+T56	ingredient 513 556	the inside of both halves of hamburger buns
+T57	arg_co-object 557 568	with butter
+T58	ingredient 562 568	butter
+R33	object Arg1:T11 Arg2:T55	
+R34	co-object Arg1:T11 Arg2:T57	
+T59	Evolution 576 584	the buns
+E6	Evolution:T59 Cause:T11
+T60	arg_object 576 584	the buns
+R35	object Arg1:T12 Arg2:T60	
+T61	arg_other 586 602	butter side down
+R36	other Arg1:T12 Arg2:T61	
+T62	arg_location 604 616	in a skillet
+T63	arg_other 617 633	over medium heat
+T64	arg_duration 634 652	until golden brown
+R37	location Arg1:T12 Arg2:T62	
+R38	other Arg1:T12 Arg2:T63	
+R39	duration Arg1:T12 Arg2:T64	
+T65	arg_object 660 664	pork
+T66	Evolution 660 664	pork
+E7	Evolution:T66 Cause:T10
+R40	object Arg1:T13 Arg2:T65	
+T67	arg_co-object 665 686	into the toasted buns
+T68	Evolution 670 686	the toasted buns
+E8	Evolution:T68 Cause:T12
+R41	co-object Arg1:T13 Arg2:T67	
+R42	co-object Arg1:T7 Arg2:T6	

@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: In a Dutch oven , brown ground beef or turkey with chopped onion , stirring frequently .
+PREDID: 0
+PRED: brown
+  DOBJ: ground beef or turkey
+  PARG: a dutch oven
+    PREP: in
+  PARG: chopped onion , stirring
+    PREP: with
+  OARG: frequently
+
+
+SENTID: 1
+SENT: Once beef is browned drain grease from pan .
+PREDID: 0
+PRED: drain
+  DOBJ: beef is browned
+  PARG: pan
+    PREP: from
+  OARG: once
+
+
+SENTID: 2
+SENT: Add canned tomatoes , kidney beans , hominy , taco seasoning and ranch salad dressing mix .
+PREDID: 0
+PRED: add
+  DOBJ: canned tomatoes , kidney beans , hominy , taco seasoning, ranch salad dressing mix
+
+
+SENTID: 3
+SENT: Mix well and let simmer over low heat for two hours .
+PREDID: 0
+PRED: mix
+  DOBJ: simmer
+  OARG: well
+
+PREDID: 1
+PRED: let
+  PARG: low heat
+    PREP: over
+  PARG: two hours
+    PREP: for
+
+
+SENTID: 4
+SENT: -LRB- Add 1 to 2 cups of water if necessary to make soup the desired consistency -RRB- Ladle into soup bowls and garnish with shredded Cheddar cheese and a dollop of sour cream , if desired .
+PREDID: 0
+PRED: ladle
+  DOBJ: add 1 to 2 cups of water
+  PARG: necessary
+    PREP: if
+  PARG: make soup the desired consistency -rrb-
+    PREP: to
+  PARG: soup bowls
+    PREP: into
+
+PREDID: 1
+PRED: garnish
+  PARG: shredded cheddar cheese, a dollop of sour cream
+    PREP: with
+  PARG: desired
+    PREP: if
+

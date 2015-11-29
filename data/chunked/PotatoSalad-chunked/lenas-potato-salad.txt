@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Place eggs in a saucepan with enough cold water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+  PARG: enough cold water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring water to a boil , and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover pan , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: pan
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: In a pot with enough water to cover , boil the potatoes 15 minutes , or until tender .
+PREDID: 0
+PRED: boil
+  PARG: a pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+  PARG: tender
+    PREP: until
+  OARG: the potatoes 15 minutes
+
+
+SENTID: 5
+SENT: Remove from heat , and allow to remain in the hot water about 10 minutes .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: the hot water
+    PREP: in
+  PARG: 10 minutes
+    PREP: about
+  OARG: to remain
+
+
+SENTID: 6
+SENT: Drain , and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 7
+SENT: Place the eggs and potatoes in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs, potatoes
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: By hand , mix in the olives , mayonnaise , and mustard , and mash the eggs and potatoes .
+PREDID: 0
+PRED: mix
+  PARG: hand
+    PREP: by
+  PARG: the olives , mayonnaise , mustard
+    PREP: in
+
+PREDID: 1
+PRED: mash
+  DOBJ: the eggs, potatoes
+
+
+SENTID: 9
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 10
+SENT: Cover , and refrigerate until serving .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

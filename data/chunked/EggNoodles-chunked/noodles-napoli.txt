@@ -1,0 +1,126 @@
+SENTID: 0
+SENT: Mix beef and sausage into 1 or 2 flat patties .
+PREDID: 0
+PRED: mix
+  DOBJ: beef, sausage
+  PARG: 1 or 2 flat patties
+    PREP: into
+
+
+SENTID: 1
+SENT: In a large skillet over medium to medium-high heat , salt patties and brown well on each side .
+PREDID: 0
+PRED: salt
+  DOBJ: patties
+  PARG: a large skillet
+    PREP: in
+  PARG: medium
+    PREP: over
+  PARG: medium-high heat
+    PREP: to
+
+PREDID: 1
+PRED: brown
+  PARG: each side
+    PREP: on
+  OARG: well
+
+
+SENTID: 2
+SENT: Remove meat and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: meat
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Saute onion and garlic in the drippings .
+PREDID: 0
+PRED: saute
+  DOBJ: onion, garlic
+  PARG: the drippings
+    PREP: in
+
+
+SENTID: 4
+SENT: Remove with a slotted spoon and add to the platter with the meat .
+PREDID: 0
+PRED: remove
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: add
+  PARG: the platter
+    PREP: to
+  PARG: the meat
+    PREP: with
+
+
+SENTID: 5
+SENT: In the drippings , carefully brown a single layer of the raw noodles until golden , remove and do another layer until all are done .
+PREDID: 0
+PRED: brown
+  DOBJ: a single layer of the raw noodles
+  PARG: the drippings
+    PREP: in
+  PARG: golden , remove, do another layer until all are done
+    PREP: until
+  OARG: carefully
+
+
+SENTID: 6
+SENT: Return all the noodles to the skillet with the garlic , onions , peppers , crushed tomatoes , tomato sauce and water .
+PREDID: 0
+PRED: return
+  DOBJ: all the noodles
+  PARG: the skillet
+    PREP: to
+  PARG: the garlic , onions , peppers , crushed tomatoes , tomato sauce, water
+    PREP: with
+
+
+SENTID: 7
+SENT: Break the meat patty into large chunks , gently stir all together and simmer 1/2 hour or so .
+PREDID: 0
+PRED: break
+  DOBJ: the meat patty
+  PARG: large chunks
+    PREP: into
+  OARG: gently
+
+PREDID: 1
+PRED: stir
+  DOBJ: all together
+
+PREDID: 2
+PRED: simmer
+  OARG: 1/2 hour
+  OARG: so
+
+
+SENTID: 8
+SENT: Add a little water as the noodles absorb the juices .
+PREDID: 0
+PRED: add
+  DOBJ: a little water
+  PARG: the noodles absorb the juices
+    PREP: as
+
+
+SENTID: 9
+SENT: Stir in the grated cheese and let it melt into the sauce .
+PREDID: 0
+PRED: stir
+  PARG: the grated cheese, let it
+    PREP: in
+
+PREDID: 1
+PRED: melt
+  PARG: the sauce
+    PREP: into
+

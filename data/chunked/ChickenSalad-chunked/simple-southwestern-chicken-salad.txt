@@ -1,0 +1,27 @@
+SENTID: 0
+SENT: In a medium bowl , combine the chicken , mayonnaise , celery , cilantro and seasoning mix .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , mayonnaise , celery , cilantro, seasoning mix
+  PARG: a medium bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Cover bowl and refrigerate for 1 hour .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+
+PREDID: 1
+PRED: refrigerate
+  PARG: 1 hour
+    PREP: for
+

@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: Mix mayonnaise , sour cream , and curry powder in a bowl until smooth .
+PREDID: 0
+PRED: mix
+  DOBJ: mayonnaise , sour cream , curry powder
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 1
+SENT: Toss apple and lemon juice in a large bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: apple, lemon juice
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in chicken breast meat , celery , green grapes , pecans , and pineapple .
+PREDID: 0
+PRED: stir
+  PARG: chicken breast meat , celery , green grapes , pecans , pineapple
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour mayonnaise mixture over chicken ;
+PREDID: 0
+PRED: pour
+  DOBJ: mayonnaise mixture
+  PARG: chicken
+    PREP: over
+
+
+SENTID: 4
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 5
+SENT: Cover and refrigerate until chilled .
+PREDID: 0
+PRED: cover
+  PARG: chilled
+    PREP: until
+
+PREDID: 1
+PRED: refrigerate
+

@@ -1,0 +1,183 @@
+SENTID: 0
+SENT: Cook beef suet in a large soup pot over medium heat until pieces render their fat , about 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: beef suet
+  PARG: a large soup pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: pieces render their fat , about 15 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Discard suet solids .
+PREDID: 0
+PRED: discard
+  DOBJ: suet solids
+
+
+SENTID: 2
+SENT: Add beef marrow bones , ground chuck , pork , beef short ribs , oxtail , beef shank , flank steak , onions , garlic , 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , and bay leaves to the pot .
+PREDID: 0
+PRED: add
+  DOBJ: beef marrow bones , ground chuck , pork , beef short ribs , oxtail , beef shank , flank steak , onions , garlic , 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , bay leaves
+  PARG: the pot
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir mixture to coat with spices ;
+PREDID: 0
+PRED: stir
+  DOBJ: mixture
+  PARG: coat
+    PREP: to
+  PARG: spices
+    PREP: with
+
+
+SENTID: 4
+SENT: pour in 1 cup beef broth .
+PREDID: 0
+PRED: pour
+  PARG: 1 cup beef broth
+    PREP: in
+
+
+SENTID: 5
+SENT: Simmer until onion is translucent and soft , 10 to 15 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: onion is translucent, soft , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Process chipotle chiles and adobo sauce in a blender until pureed ;
+PREDID: 0
+PRED: process
+  DOBJ: chipotle chiles, adobo sauce
+  PARG: a blender
+    PREP: in
+  PARG: pureed
+    PREP: until
+
+
+SENTID: 7
+SENT: add chipotle puree , tomato sauce , diced tomatoes with green chiles , 1 more cup beef stock , and red wine to meat mixture and stir to combine .
+PREDID: 0
+PRED: add
+  DOBJ: chipotle puree , tomato sauce , diced tomatoes
+  PARG: green chiles , 1 more cup beef stock , red wine
+    PREP: with
+  PARG: meat mixture, stir
+    PREP: to
+  PARG: combine
+    PREP: to
+
+
+SENTID: 8
+SENT: Bring to a boil , reduce heat to low , and simmer until meat is tender , 3 to 4 hours .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 2
+PRED: simmer
+  PARG: meat is tender , 3 to 4 hours
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove bones from mixture , let cool , and scrape meat and cartilage from bones .
+PREDID: 0
+PRED: remove
+  DOBJ: bones
+  PARG: mixture
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+PREDID: 2
+PRED: scrape
+  DOBJ: meat, cartilage
+  PARG: bones
+    PREP: from
+
+
+SENTID: 10
+SENT: Chop meat and cartilage and return to chili ;
+PREDID: 0
+PRED: chop
+  DOBJ: meat, cartilage
+
+PREDID: 1
+PRED: return
+  PARG: chili
+    PREP: to
+
+
+SENTID: 11
+SENT: discard bones .
+PREDID: 0
+PRED: discard
+  DOBJ: bones
+
+
+SENTID: 12
+SENT: Stir 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , and ground cumin into chili -LRB- the ` second dump ' -RRB- Pour water into chili to desired thickness ;
+PREDID: 0
+PRED: stir
+  DOBJ: 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , ground cumin
+  PARG: chili -lrb- the ` second dump ' -rrb-
+    PREP: into
+
+PREDID: 1
+PRED: pour
+  DOBJ: water
+  PARG: chili
+    PREP: into
+  PARG: desired thickness
+    PREP: to
+
+
+SENTID: 13
+SENT: to add more thickness , stir masa harina into chili .
+PREDID: 0
+PRED: stir
+  DOBJ: masa harina
+  PARG: add more thickness
+    PREP: to
+  PARG: chili
+    PREP: into
+
+
+SENTID: 14
+SENT: Simmer until meat is tender and flavors have blended , about 30 more minutes .
+PREDID: 0
+PRED: simmer
+  PARG: meat is tender, flavors have blended , about 30 more minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Skim excess grease from chili before serving .
+PREDID: 0
+PRED: skim
+  DOBJ: excess grease
+  PARG: chili
+    PREP: from
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: Place pumpkin seeds , water , and salt in a saucepan , bring to a boil , and reduce heat to medium ;
+PREDID: 0
+PRED: place
+  DOBJ: pumpkin seeds , water , salt
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 2
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 1
+SENT: boil seeds for 10 minutes .
+PREDID: 0
+PRED: boil
+  DOBJ: seeds
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Pat seeds dry with paper towels and spread out onto a work surface or a baking sheet for 30 minutes to dry .
+PREDID: 0
+PRED: pat
+  DOBJ: seeds dry
+  PARG: paper towels
+    PREP: with
+
+PREDID: 1
+PRED: spread
+  PARG: onto a work surface or a baking sheet
+    PREP: out
+  PARG: 30 minutes
+    PREP: for
+  PARG: dry
+    PREP: to
+
+
+SENTID: 3
+SENT: Preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Line a baking sheet with aluminum foil .
+PREDID: 0
+PRED: line
+  DOBJ: a baking sheet
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 5
+SENT: Melt butter in a large microwave-safe bowl until melted , about 1 minute .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large microwave-safe bowl
+    PREP: in
+  PARG: melted , about 1 minute
+    PREP: until
+
+
+SENTID: 6
+SENT: Toss seeds in the melted butter and mix in 1 tablespoon sugar , cinnamon , ginger , nutmeg , cloves , and cardamom ;
+PREDID: 0
+PRED: toss
+  DOBJ: seeds
+  PARG: the melted butter
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  PARG: 1 tablespoon sugar , cinnamon , ginger , nutmeg , cloves , cardamom
+    PREP: in
+
+
+SENTID: 7
+SENT: toss again to coat seeds thoroughly with spices .
+PREDID: 0
+PRED: toss
+  PARG: coat seeds
+    PREP: to
+  PARG: spices
+    PREP: with
+  OARG: again
+  OARG: thoroughly
+
+
+SENTID: 8
+SENT: Spread seeds out onto the prepared baking sheet in a single layer .
+PREDID: 0
+PRED: spread
+  DOBJ: seeds
+  PARG: onto the prepared baking sheet
+    PREP: out
+  PARG: a single layer
+    PREP: in
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until toasted and crunchy , 45 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: toasted, crunchy , 45 minutes to 1 hour
+    PREP: until
+
+
+SENTID: 10
+SENT: Stir several times during baking .
+PREDID: 0
+PRED: stir
+  DOBJ: several times
+  PARG: baking
+    PREP: during
+
+
+SENTID: 11
+SENT: Sprinkle toasted seeds with 1 tablespoon sugar or as desired ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: toasted seeds
+  PARG: 1 tablespoon sugar
+    PREP: with
+  PARG: desired
+    PREP: as
+
+
+SENTID: 12
+SENT: cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+

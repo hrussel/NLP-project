@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: In a saucepan , combine water , 1/2 teaspoon salt , and beef cubes .
+PREDID: 0
+PRED: combine
+  DOBJ: water , 1/2 teaspoon salt , beef cubes
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Bring to boil , reduce heat , and simmer for 30 minutes .
+PREDID: 0
+PRED: bring
+  PARG: boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Combine the chile powder , minced garlic , and oregano in a small bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the chile powder , minced garlic , oregano
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Add enough of the beef cooking water to make a paste .
+PREDID: 0
+PRED: add
+  PARG: the beef cooking water
+    PREP: of
+  PARG: make a paste
+    PREP: to
+  OARG: enough
+
+
+SENTID: 4
+SENT: After 30 minutes , stir the spice paste into the beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the spice paste
+  PARG: 30 minutes
+    PREP: after
+  PARG: the beef mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: Heat oil in a large heavy skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large heavy skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Cook flour , stirring constantly , until golden brown .
+PREDID: 0
+PRED: cook
+  DOBJ: flour , stirring
+  PARG: golden brown
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 7
+SENT: Take 1 cup of the spiced cooking water and whisk it into the flour mixture until smooth .
+PREDID: 0
+PRED: take
+  DOBJ: 1 cup of the spiced cooking water
+
+PREDID: 1
+PRED: whisk
+  DOBJ: it
+  PARG: the flour mixture
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in the cumin , chopped parsley , and salt .
+PREDID: 0
+PRED: stir
+  PARG: the cumin , chopped parsley , salt
+    PREP: in
+
+
+SENTID: 9
+SENT: Transfer the thickened sauce mixture into the saucepan with the beef .
+PREDID: 0
+PRED: transfer
+  DOBJ: the thickened sauce mixture
+  PARG: the saucepan
+    PREP: into
+  PARG: the beef
+    PREP: with
+
+
+SENTID: 10
+SENT: Simmer until tender , about 1Ê1/2 hours .
+PREDID: 0
+PRED: simmer
+  PARG: tender , about 1Ê1/2 hours
+    PREP: until
+

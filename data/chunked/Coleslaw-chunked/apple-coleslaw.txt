@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Place the shredded cabbage and carrot together in a bowl with the sliced apple , and toss to combine .
+PREDID: 0
+PRED: place
+  DOBJ: the shredded cabbage, carrot
+  PARG: a bowl
+    PREP: in
+  PARG: the sliced apple
+    PREP: with
+  OARG: together
+
+PREDID: 1
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 1
+SENT: In a separate bowl , stir together the honey , brown sugar , vinegar , pineapple juice , and mayonnaise until the honey and sugar have dissolved completely .
+PREDID: 0
+PRED: stir
+  DOBJ: the honey , brown sugar , vinegar , pineapple juice , mayonnaise
+  PARG: a separate bowl
+    PREP: in
+  PARG: the honey, sugar have dissolved completely
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Pour over the salad , and toss to coat .
+PREDID: 0
+PRED: pour
+  PARG: the salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 3
+SENT: Season with salt and pepper , and toss again .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: toss
+  OARG: again
+
+
+SENTID: 4
+SENT: Cover and chill until ready to serve .
+PREDID: 0
+PRED: cover
+  PARG: ready to serve
+    PREP: until
+
+PREDID: 1
+PRED: chill
+

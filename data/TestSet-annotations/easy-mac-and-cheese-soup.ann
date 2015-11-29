@@ -1,0 +1,57 @@
+T1	predicate 0 4	Cook
+T2	predicate 102 109	combine
+T3	predicate 137 142	Bring
+T4	predicate 157 161	cook
+T5	predicate 188 195	Stir in
+T6	predicate 255 261	Return
+T7	predicate 281 286	Serve
+R1	object Arg1:T7 Arg2:T6	
+R2	object Arg1:T6 Arg2:T5	
+R3	co-object Arg1:T5 Arg2:T4	
+R4	object Arg1:T4 Arg2:T3	
+R5	object Arg1:T3 Arg2:T2	
+T8	arg_object 196 204	macaroni
+T9	Evolution 196 204	macaroni
+E1	Evolution:T9 Cause:T24
+R6	object Arg1:T5 Arg2:T8	
+T10	arg_object 206 233	cheese mixture from package
+T11	arg_object 235 239	milk
+T12	arg_object 241 245	soup
+T13	arg_object 250 253	ham
+R7	object Arg1:T5 Arg2:T10	
+R8	object Arg1:T5 Arg2:T11	
+R9	object Arg1:T5 Arg2:T12	
+R10	object Arg1:T5 Arg2:T13	
+T14	arg_other 262 271	to a boil
+R11	other Arg1:T6 Arg2:T14	
+T15	arg_other 287 290	hot
+R12	other Arg1:T7 Arg2:T15	
+T16	arg_other 143 152	to a boil
+R13	other Arg1:T3 Arg2:T16	
+T17	arg_duration 162 186	until broccoli is tender
+R14	duration Arg1:T4 Arg2:T17	
+T18	arg_object 110 118	broccoli
+T19	arg_object 120 125	onion
+T20	arg_object 130 135	water
+R15	object Arg1:T2 Arg2:T18	
+R16	object Arg1:T2 Arg2:T19	
+R17	object Arg1:T2 Arg2:T20	
+T21	arg_location 80 100	In a medium saucepan
+R18	location Arg1:T2 Arg2:T21	
+T22	arg_object 5 13	macaroni
+T23	arg_other 14 45	according to package directions
+T24	predicate 47 52	drain
+R19	object Arg1:T1 Arg2:T22	
+R20	other Arg1:T1 Arg2:T23	
+R21	object Arg1:T24 Arg2:T1	
+T25	ingredient 5 13	macaroni
+R22	co-object Arg1:T24 Arg2:T1	
+T26	ingredient 110 118	broccoli
+T27	ingredient 120 125	onion
+T28	ingredient 130 135	water
+T29	ingredient 206 233	cheese mixture from package
+T30	ingredient 235 239	milk
+T31	ingredient 241 245	soup
+T32	ingredient 250 253	ham
+T33	arg_duration 272 279	briefly
+R23	duration Arg1:T6 Arg2:T33	

@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add noodles and frozen peas .
+PREDID: 0
+PRED: add
+  DOBJ: noodles, frozen peas
+
+
+SENTID: 2
+SENT: Cook until noodles are al dente , drain well .
+PREDID: 0
+PRED: cook
+  PARG: noodles are al dente
+    PREP: until
+
+PREDID: 1
+PRED: drain
+  OARG: well
+
+
+SENTID: 3
+SENT: Return noodles and peas to the pot .
+PREDID: 0
+PRED: return
+  DOBJ: noodles, peas
+  PARG: the pot
+    PREP: to
+
+
+SENTID: 4
+SENT: Mix soup , tuna fish , onions , processed cheese and pepper into the pot .
+PREDID: 0
+PRED: mix
+  DOBJ: soup , tuna fish , onions , processed cheese, pepper
+  PARG: the pot
+    PREP: into
+
+
+SENTID: 5
+SENT: Stir constantly until all of the ingredients are well mixed and the cheese has melted .
+PREDID: 0
+PRED: stir
+  PARG: all of the ingredients are well mixed, the cheese has melted
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 6
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

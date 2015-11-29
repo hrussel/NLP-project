@@ -1,0 +1,203 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add egg noodles , and cook until al dente , about 7 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: al dente , about 7 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from heat , drain , and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: drain
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: At the same time , melt butter in a large heavy skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: the same time
+    PREP: at
+  PARG: a large heavy skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add onion , and cook , stirring until softened .
+PREDID: 0
+PRED: add
+  DOBJ: onion
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: softened
+    PREP: until
+
+
+SENTID: 5
+SENT: Turn the heat up to medium-high , and add sliced mushrooms .
+PREDID: 0
+PRED: turn
+  DOBJ: the heat
+  PARG: medium-high , add sliced mushrooms
+    PREP: to
+  OARG: up
+
+
+SENTID: 6
+SENT: Cook until the mushrooms are limp and browned .
+PREDID: 0
+PRED: cook
+  PARG: the mushrooms are limp, browned
+    PREP: until
+
+
+SENTID: 7
+SENT: Remove to a bowl , and set aside .
+PREDID: 0
+PRED: remove
+  PARG: a bowl
+    PREP: to
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 8
+SENT: In the same skillet , stir in vegetable broth , being sure to stir in any browned bits off the bottom of the pan .
+PREDID: 0
+PRED: stir
+  PARG: the same skillet
+    PREP: in
+  PARG: vegetable broth , being
+    PREP: in
+  PARG: stir
+    PREP: to
+  PARG: any browned bits
+    PREP: in
+  PARG: the bottom of the pan
+    PREP: off
+  OARG: sure
+
+
+SENTID: 9
+SENT: Bring to a boil , and cook until the mixture has reduced by 1/3 .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: the mixture has reduced by 1/3
+    PREP: until
+
+
+SENTID: 10
+SENT: Reduce heat to low , and return the mushrooms and onion to the skillet .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: return
+  DOBJ: the mushrooms, onion
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 11
+SENT: Remove the pan from the heat , stir together the sour cream and flour ;
+PREDID: 0
+PRED: remove
+  DOBJ: the pan
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  DOBJ: the sour cream
+  OARG: together
+
+PREDID: 2
+PRED: flour
+
+
+SENTID: 12
+SENT: then blend into the mushrooms .
+PREDID: 0
+PRED: blend
+  PARG: the mushrooms
+    PREP: into
+  OARG: then
+
+
+SENTID: 13
+SENT: Return the skillet to the burner , and continue cooking over low heat , just until the sauce thickens .
+PREDID: 0
+PRED: return
+  DOBJ: the skillet
+  PARG: the burner
+    PREP: to
+
+PREDID: 1
+PRED: continue
+  DOBJ: cooking
+  PARG: low heat
+    PREP: over
+  PARG: the sauce thickens
+    PREP: until
+  OARG: just
+
+
+SENTID: 14
+SENT: Stir in the parsley , and season to taste with salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the parsley
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 15
+SENT: Serve over cooked egg noodles .
+PREDID: 0
+PRED: serve
+  PARG: cooked egg noodles
+    PREP: over
+

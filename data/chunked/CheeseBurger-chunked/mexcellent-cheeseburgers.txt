@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Divide the ground beef into three even portions .
+PREDID: 0
+PRED: divide
+  DOBJ: the ground beef
+  PARG: three even portions
+    PREP: into
+
+
+SENTID: 1
+SENT: Season each one with some hot pepper sauce .
+PREDID: 0
+PRED: season
+  DOBJ: each one with some hot pepper sauce
+
+
+SENTID: 2
+SENT: Flatten into patties just a little larger than the English muffins .
+PREDID: 0
+PRED: flatten
+  DOBJ: a little larger
+  PARG: patties
+    PREP: into
+  PARG: the english muffins
+    PREP: than
+  OARG: just
+
+
+SENTID: 3
+SENT: Heat a skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a skillet
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Cover , and cook the beef patties for about 4 minutes per side , or until well done .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  DOBJ: the beef patties
+  PARG: about 4 minutes
+    PREP: for
+  PARG: side
+    PREP: per
+  PARG: well done
+    PREP: until
+
+
+SENTID: 5
+SENT: Top each patty with two pieces of cheese in an criss cross pattern .
+PREDID: 0
+PRED: top
+  DOBJ: each patty
+  PARG: two pieces of cheese
+    PREP: with
+  PARG: an criss cross pattern
+    PREP: in
+
+
+SENTID: 6
+SENT: Cover , and turn off the heat .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: turn
+  PARG: the heat
+    PREP: off
+
+
+SENTID: 7
+SENT: Arrange the toasted English muffins on a serving plate .
+PREDID: 0
+PRED: arrange
+  DOBJ: the toasted english muffins
+  PARG: a serving plate
+    PREP: on
+
+
+SENTID: 8
+SENT: Spread the bottom half with a thin coating of Dijon mustard .
+PREDID: 0
+PRED: spread
+  DOBJ: the bottom half
+  PARG: a thin coating of dijon mustard
+    PREP: with
+
+
+SENTID: 9
+SENT: Place a few slices of avocado over the mustard , and use a fork to mash into the nooks and crannies .
+PREDID: 0
+PRED: place
+  DOBJ: a few slices of avocado
+  PARG: the mustard
+    PREP: over
+
+PREDID: 1
+PRED: use
+  DOBJ: a fork
+  PARG: mash
+    PREP: to
+  PARG: the nooks, crannies
+    PREP: into
+
+
+SENTID: 10
+SENT: Place the beef patties on top of the avocado , and top with a layer of green chilies .
+PREDID: 0
+PRED: place
+  DOBJ: the beef patties
+  PARG: top of the avocado
+    PREP: on
+
+PREDID: 1
+PRED: top
+  PARG: a layer of green chilies
+    PREP: with
+
+
+SENTID: 11
+SENT: Plop the other halves of the English muffins on top .
+PREDID: 0
+PRED: plop
+  DOBJ: the other halves of the english muffins
+  PARG: top
+    PREP: on
+
+
+SENTID: 12
+SENT: Serve and enjoy !
+PREDID: 0
+PRED: serve
+
+PREDID: 1
+PRED: enjoy
+

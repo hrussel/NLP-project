@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Place the rice and water in a saucepan and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: the rice, water
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Reduce heat to low , cover , and simmer until water is absorbed , about 45 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: simmer
+  PARG: water is absorbed , about 45 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Set aside to cool .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 3
+SENT: To make the dressing , whisk together the oil , lemon juice , soy sauce , ginger , and teriyaki sauce in a small bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the oil , lemon juice , soy sauce , ginger , teriyaki sauce
+  PARG: make the dressing
+    PREP: to
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 5
+SENT: In a large bowl , mix together the cooked rice and chicken .
+PREDID: 0
+PRED: mix
+  DOBJ: the cooked rice, chicken
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Stir in celery , water chestnuts , mushrooms , green onion , and red pepper .
+PREDID: 0
+PRED: stir
+  PARG: celery , water chestnuts , mushrooms , green onion , red pepper
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix with the dressing to coat .
+PREDID: 0
+PRED: mix
+  PARG: the dressing
+    PREP: with
+  PARG: coat
+    PREP: to
+
+
+SENTID: 8
+SENT: Cover and refrigerate 8 hours or overnight .
+PREDID: 0
+PRED: cover
+  OARG: 8 hours
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 9
+SENT: Toss gently before serving .
+PREDID: 0
+PRED: toss
+  PARG: serving
+    PREP: before
+  OARG: gently
+

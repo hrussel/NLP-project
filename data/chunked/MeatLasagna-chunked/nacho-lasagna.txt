@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large heavy skillet over medium heat , cook beef , onion and garlic until beef is evenly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: beef , onion, garlic
+  PARG: a large heavy skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: beef is evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 3
+SENT: Remove from heat , and stir in tomatoes and jalapenos .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: stir
+  PARG: tomatoes, jalapenos
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour half of beef mixture in a 9x13 inch pan .
+PREDID: 0
+PRED: pour
+  DOBJ: half of beef mixture
+  PARG: a 9x13 inch pan
+    PREP: in
+
+
+SENTID: 5
+SENT: Top with a layer of tortilla chips , 1/2 of black olives , 1/2 of tomato and 1/2 of shredded cheese .
+PREDID: 0
+PRED: top
+  PARG: a layer of tortilla chips , 1/2 of black olives , 1/2 of tomato, 1/2 of shredded cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Repeat layers .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+
+
+SENTID: 7
+SENT: Bake in preheated oven for 10 to 15 minutes , or until cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: cheese is melted
+    PREP: until
+

@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: In a stockpot over medium heat , brown the ground beef until no longer pink .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef
+  PARG: a stockpot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: no longer pink
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off grease , reserving 2 tablespoons to remain in the pan .
+PREDID: 0
+PRED: drain
+  DOBJ: reserving 2 tablespoons
+  PARG: grease
+    PREP: off
+  PARG: the pan
+    PREP: in
+  OARG: to remain
+
+
+SENTID: 2
+SENT: In a small bowl , stir together the garlic powder , chili powder , cumin , and flour .
+PREDID: 0
+PRED: stir
+  DOBJ: the garlic powder , chili powder , cumin , flour
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Sprinkle the mixture over the meat , and stir until the meat is evenly coated .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the mixture
+  PARG: the meat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: the meat is evenly coated
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir the oregano into the meat mixture , then pour in the 2 cans of beef broth .
+PREDID: 0
+PRED: stir
+  DOBJ: the oregano
+  PARG: the meat mixture
+    PREP: into
+  OARG: then
+
+PREDID: 1
+PRED: pour
+  PARG: the 2 cans of beef broth
+    PREP: in
+
+
+SENTID: 5
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Bring to a boil , then add the cans of beans .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the cans of beans
+
+
+SENTID: 7
+SENT: Reduce heat to low , and simmer for 30 minutes to blend flavors .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+  PARG: blend flavors
+    PREP: to
+

@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook egg noodles according to package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 2
+SENT: While noodles are cooking , brown the ground beef and onion in a large skillet over medium high heat .
+PREDID: 0
+PRED: brown
+  DOBJ: the ground beef, onion
+  PARG: noodles are cooking
+    PREP: while
+  PARG: a large skillet
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Reduce heat to low , add the tomato sauce , stir well , and let simmer for 1 minute .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: the tomato sauce
+
+PREDID: 2
+PRED: stir
+  OARG: well
+
+PREDID: 3
+PRED: let
+  DOBJ: simmer
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 4
+SENT: Add the cream cheese and cottage cheese , stirring together until well blended .
+PREDID: 0
+PRED: add
+  DOBJ: the cream cheese, cottage cheese , stirring
+  PARG: well blended
+    PREP: until
+  OARG: together
+
+
+SENTID: 5
+SENT: Then stir in the egg noodles and sour cream until all ingredients are well mixed .
+PREDID: 0
+PRED: stir
+  PARG: the egg noodles, sour cream
+    PREP: in
+  PARG: all ingredients are well mixed
+    PREP: until
+  OARG: then
+
+
+SENTID: 6
+SENT: Pour into a 2 quart casserole dish .
+PREDID: 0
+PRED: pour
+  PARG: a 2 quart casserole dish
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

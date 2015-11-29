@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Mix the white sugar , brown sugar , and butter together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the white sugar , brown sugar , butter
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in the corn syrup , eggs , and bourbon ;
+PREDID: 0
+PRED: stir
+  PARG: the corn syrup , eggs , bourbon
+    PREP: in
+
+
+SENTID: 3
+SENT: fold in the pecans .
+PREDID: 0
+PRED: fold
+  PARG: the pecans
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour the mixture into the pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the pie crust
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake in the preheated oven for 10 minutes ;
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: reduce heat to 350 degrees F -LRB- 175 degrees C -RRB- ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: continue to bake until the pie is set , about 25 minutes more .
+PREDID: 0
+PRED: continue
+  PARG: the pie is
+    PREP: until
+  OARG: to bake
+
+PREDID: 1
+PRED: set
+  PARG: 25 minutes more
+    PREP: about
+
+
+SENTID: 8
+SENT: Allow to cool completely on a wire rack before serving .
+PREDID: 0
+PRED: allow
+  PARG: a wire rack
+    PREP: on
+  PARG: serving
+    PREP: before
+  OARG: to cool
+  OARG: completely
+

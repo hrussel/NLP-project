@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Place garlic , blueberries , peach preserves , sesame oil , mustard , vinegar , sugar , and soy sauce in a blender ;
+PREDID: 0
+PRED: place
+  DOBJ: garlic , blueberries , peach preserves , sesame oil , mustard , vinegar , sugar , soy sauce
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 1
+SENT: cover and blend until smooth .
+PREDID: 0
+PRED: cover
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: blend
+
+
+SENTID: 2
+SENT: Heat oil in a large skillet or wok over high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: cook and stir chicken and mushrooms until chicken is no longer pink in the center and juices run clear , about 7 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken, mushrooms
+
+PREDID: 1
+PRED: stir
+  PARG: chicken is no longer pink in the center, juices run clear , about 7 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in ginger , garlic salt , and black pepper ;
+PREDID: 0
+PRED: stir
+  PARG: ginger , garlic salt , black pepper
+    PREP: in
+
+
+SENTID: 5
+SENT: Toss green onions and mixed vegetables with chicken ;
+PREDID: 0
+PRED: toss
+  DOBJ: green onions, mixed vegetables
+  PARG: chicken
+    PREP: with
+
+
+SENTID: 6
+SENT: pour blueberry sauce over vegetable mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: blueberry sauce
+  PARG: vegetable mixture
+    PREP: over
+
+
+SENTID: 7
+SENT: Continue cooking on medium-high heat until sauce comes to a boil , about 10 minutes .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: medium-high heat
+    PREP: on
+  PARG: sauce comes to a boil , about 10 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Reduce heat to low and cook until vegetables are tender , 2 to 4 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: vegetables are tender , 2 to 4 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove from heat and allow sauce to cool for 3 minutes .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  DOBJ: sauce
+  PARG: 3 minutes
+    PREP: for
+  OARG: to cool
+
+
+SENTID: 10
+SENT: Serve over brown rice and sprinkle with sesame seeds .
+PREDID: 0
+PRED: serve
+  PARG: brown rice
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+  PARG: sesame seeds
+    PREP: with
+

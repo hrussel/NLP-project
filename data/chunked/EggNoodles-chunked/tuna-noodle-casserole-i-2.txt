@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat a 2 quart casserole dish with cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a 2 quart casserole dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: In a large pot of salted water , boil noodles until al dente .
+PREDID: 0
+PRED: boil
+  DOBJ: noodles
+  PARG: a large pot of salted water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 4
+SENT: In a medium saucepan , combine flour , butter , and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: flour
+  PARG: a medium saucepan
+    PREP: in
+
+PREDID: 1
+PRED: butter
+
+PREDID: 2
+PRED: salt
+
+
+SENTID: 5
+SENT: Stir until butter is melted and ingredients are combined evenly .
+PREDID: 0
+PRED: stir
+  PARG: butter is melted, ingredients are combined evenly
+    PREP: until
+
+
+SENTID: 6
+SENT: Add milk , and whisk until the sauce thickens -LRB- usually it is at the proper consistency by the time it begins to boil -RRB- .
+PREDID: 0
+PRED: add
+  DOBJ: milk
+
+PREDID: 1
+PRED: whisk
+  PARG: the sauce thickens -lrb- usually it is at the proper consistency by the time it begins to boil -rrb-
+    PREP: until
+
+
+SENTID: 7
+SENT: Add cheese to mixture , and whisk until cheese is melted and mixture is well blended .
+PREDID: 0
+PRED: add
+  DOBJ: cheese
+  PARG: mixture
+    PREP: to
+
+PREDID: 1
+PRED: whisk
+  PARG: cheese is melted, mixture is well blended
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in tuna , peas , and noodles .
+PREDID: 0
+PRED: stir
+  PARG: tuna , peas , noodles
+    PREP: in
+
+
+SENTID: 9
+SENT: Spread evenly in prepared dish .
+PREDID: 0
+PRED: spread
+  PARG: prepared dish
+    PREP: in
+  OARG: evenly
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 30 minutes
+    PREP: for
+

@@ -1,0 +1,32 @@
+SENTID: 0
+SENT: Toss the cabbage and tomato together in a bowl .
+PREDID: 0
+PRED: toss
+  DOBJ: the cabbage, tomato
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour the orange juice and lime juice over the mixture .
+PREDID: 0
+PRED: pour
+  DOBJ: the orange juice, lime juice
+  PARG: the mixture
+    PREP: over
+
+
+SENTID: 2
+SENT: Season with salt and pepper ;
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 3
+SENT: stir .
+PREDID: 0
+PRED: stir
+

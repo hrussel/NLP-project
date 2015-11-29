@@ -1,0 +1,93 @@
+T1	arg_duration 13 45	to 350 degrees F (180 degrees C)
+T2	arg_object 8 12	oven
+T4	predicate 47 52	Spray
+T5	arg_object 53 73	non-stick muffin pan
+T6	arg_co-object 74 92	with cooking spray
+R1	object Arg1:T4 Arg2:T5	
+R2	co-object Arg1:T4 Arg2:T6	
+T8	predicate 111 118	combine
+T10	arg_location 164 179	In another bowl
+T13	predicate 254 258	Pour
+T14	arg_co-object 259 279	over dry ingredients
+R9	co-object Arg1:T13 Arg2:T14	
+T16	predicate 284 288	stir
+T17	arg_duration 289 308	until just combined
+R10	duration Arg1:T16 Arg2:T17	
+T18	predicate 310 315	Spoon
+T19	arg_location 316 340	into prepared muffin pan
+T20	predicate 342 346	Bake
+T21	arg_duration 348 367	or 20 to 25 minutes
+T22	arg_duration 371 438	until a tester inserted into the center of a muffin comes out clean
+R14	duration Arg1:T20 Arg2:T21	
+R15	duration Arg1:T20 Arg2:T22	
+R16	object Arg1:T20 Arg2:T18	
+T23	predicate 440 448	Let cool
+T24	arg_location 449 455	in pan
+T25	arg_duration 456 471	for 10 minutes.
+R17	location Arg1:T23 Arg2:T24	
+R18	duration Arg1:T23 Arg2:T25	
+R19	object Arg1:T23 Arg2:T20	
+T27	predicate 472 480	Transfer
+R21	object Arg1:T27 Arg2:T23	
+T28	arg_object 516 527	each muffin
+T29	predicate 509 515	Spread
+T30	Evolution 516 527	each muffin
+E2	Evolution:T30 Cause:T27
+R22	object Arg1:T29 Arg2:T28	
+T31	arg_co-object 528 566	with 1 tablespoon (15 mL) of NUTELLA®.
+T33	Evolution 321 340	prepared muffin pan
+E4	Evolution:T33 Cause:T4
+T9	arg_object 119 125	flours
+T15	arg_object 127 131	oats
+T32	arg_object 133 146	baking powder
+T34	arg_object 151 162	baking soda
+R6	object Arg1:T8 Arg2:T9	
+R23	object Arg1:T8 Arg2:T15	
+R24	object Arg1:T8 Arg2:T32	
+R25	object Arg1:T8 Arg2:T34	
+T12	arg_object 196 203	bananas
+T35	arg_object 205 209	eggs
+T36	arg_object 211 216	sugar
+T37	arg_object 218 228	applesauce
+T38	arg_object 230 240	buttermilk
+T39	arg_object 245 252	vanilla
+T40	Evolution 264 279	dry ingredients
+E1	Evolution:T40 Cause:T8
+R31	object Arg1:T16 Arg2:T13	
+R12	object Arg1:T18 Arg2:T16	
+T41	ingredient 119 125	flours
+T42	ingredient 127 131	oats
+T43	ingredient 133 146	baking powder
+T44	ingredient 151 162	baking soda
+T45	ingredient 196 203	bananas
+T46	ingredient 205 209	eggs
+T47	ingredient 211 216	sugar
+T48	ingredient 218 228	applesauce
+T49	ingredient 230 240	buttermilk
+T50	ingredient 245 252	vanilla
+T7	arg_location 94 109	In a large bowl
+R5	location Arg1:T8 Arg2:T7	
+T26	arg_location 481 488	to rack
+R20	location Arg1:T27 Arg2:T26	
+T51	arg_other 489 507	to cool completely
+R33	other Arg1:T27 Arg2:T51	
+R34	co-object Arg1:T29 Arg2:T31	
+T52	ingredient 79 92	cooking spray
+R11	location Arg1:T18 Arg2:T19	
+R35	same-location Arg1:T24 Arg2:T19	
+T3	predicate 0 7	Preheat
+R3	object Arg1:T3 Arg2:T2	
+R4	duration Arg1:T3 Arg2:T1	
+R32	location Arg1:T20 Arg2:T3	
+T11	predicate 181 186	whisk
+T53	arg_other 187 195	together
+R7	other Arg1:T11 Arg2:T53	
+R8	location Arg1:T11 Arg2:T10	
+R13	object Arg1:T11 Arg2:T12	
+R26	object Arg1:T11 Arg2:T35	
+R27	object Arg1:T11 Arg2:T36	
+R28	object Arg1:T11 Arg2:T37	
+R29	object Arg1:T11 Arg2:T38	
+R30	object Arg1:T11 Arg2:T39	
+R36	object Arg1:T13 Arg2:T11	
+T54	ingredient 533 565	1 tablespoon (15 mL) of NUTELLA®

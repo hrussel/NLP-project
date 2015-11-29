@@ -1,0 +1,67 @@
+T1	predicate 0 5	Whisk
+T2	predicate 62 66	Heat
+T3	predicate 95 99	melt
+T4	predicate 149 153	Soak
+T5	predicate 241 244	lay
+T6	predicate 306 313	pan-fry
+T7	predicate 380 388	Transfer
+T8	predicate 462 465	Top
+T9	arg_object 15 23	the eggs
+T10	arg_object 25 29	milk
+T11	arg_object 35 50	pina colada mix
+T12	arg_location 51 60	in a bowl
+R1	object Arg1:T1 Arg2:T9	
+R2	object Arg1:T1 Arg2:T10	
+R3	object Arg1:T1 Arg2:T11	
+R4	location Arg1:T1 Arg2:T12	
+T13	arg_object 67 76	a skillet
+T14	arg_duration 77 93	over medium heat
+R5	object Arg1:T2 Arg2:T13	
+R6	duration Arg1:T2 Arg2:T14	
+T15	arg_location 107 121	in the skillet
+R7	location Arg1:T3 Arg2:T15	
+T16	Evolution 110 121	the skillet
+E1	Evolution:T16 Cause:T2
+T17	arg_object 100 106	butter
+R8	object Arg1:T3 Arg2:T17	
+T18	arg_duration 122 147	until the foam disappears
+R9	duration Arg1:T3 Arg2:T18	
+T19	arg_object 154 170	the bread slices
+T20	arg_co-object 171 189	in the egg mixture
+R10	object Arg1:T4 Arg2:T19	
+R11	co-object Arg1:T4 Arg2:T20	
+T21	Evolution 174 189	the egg mixture
+E2	Evolution:T21 Cause:T1
+T22	arg_other 191 232	turning the slices over a couple of times
+R12	other Arg1:T4 Arg2:T22	
+T23	arg_object 245 268	the soaked bread slices
+T24	Evolution 245 268	the soaked bread slices
+E3	Evolution:T24 Cause:T4
+R13	object Arg1:T5 Arg2:T23	
+T25	arg_location 269 289	into the hot skillet
+R14	location Arg1:T5 Arg2:T25	
+T27	arg_other 290 301	2 at a time
+R15	other Arg1:T5 Arg2:T27	
+T28	arg_duration 314 378	until the french toast is golden brown, about 2 minutes per side
+R16	duration Arg1:T6 Arg2:T28	
+R17	object Arg1:T6 Arg2:T5	
+T29	arg_object 389 415	cooked french toast slices
+T30	Evolution 389 415	cooked french toast slices
+E5	Evolution:T30 Cause:T6
+T31	arg_location 416 435	to a warmed platter
+R18	object Arg1:T7 Arg2:T29	
+R19	location Arg1:T7 Arg2:T31	
+T32	arg_object 466 486	each 2-slice serving
+R20	object Arg1:T8 Arg2:T32	
+T33	Evolution 466 486	each 2-slice serving
+E6	Evolution:T33 Cause:T7
+T34	arg_co-object 487 516	with several slices of banana
+R21	co-object Arg1:T8 Arg2:T34	
+T35	ingredient 15 23	the eggs
+T36	ingredient 25 29	milk
+T37	ingredient 35 50	pina colada mix
+T38	ingredient 100 106	butter
+T39	ingredient 154 170	the bread slices
+R22	co-object Arg1:T5 Arg2:T3	
+R23	same-location Arg1:T25 Arg2:T15	
+T26	ingredient 492 516	several slices of banana

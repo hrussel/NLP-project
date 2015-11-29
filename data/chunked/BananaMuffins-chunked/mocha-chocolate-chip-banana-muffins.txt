@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Blend butter or margarine , sugar , egg , banana , dissolved coffee , and vanilla in food processor for 2 minutes .
+PREDID: 0
+PRED: blend
+  DOBJ: butter or margarine , sugar , egg , banana , dissolved coffee , vanilla
+  PARG: food processor
+    PREP: in
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Add flour , salt , baking powder , and soda , and blend just until flour disappears .
+PREDID: 0
+PRED: add
+  DOBJ: flour , salt , baking powder , soda
+
+PREDID: 1
+PRED: blend
+  PARG: flour disappears
+    PREP: until
+  OARG: just
+
+
+SENTID: 3
+SENT: Add chocolate chips and mix in with wooden spoon .
+PREDID: 0
+PRED: add
+  DOBJ: chocolate chips
+
+PREDID: 1
+PRED: mix
+  PARG: with wooden spoon
+    PREP: in
+
+
+SENTID: 4
+SENT: Spoon mixture into 15 to 18 paper-lined muffin cups . Bake for 25 minutes .
+PREDID: 0
+PRED: spoon
+  DOBJ: mixture
+  PARG: 15 to 18 paper-lined muffin cups
+    PREP: into
+
+PREDID: 1
+PRED: bake
+  PARG: 25 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Cool on wire racks .
+PREDID: 0
+PRED: cool
+  PARG: wire racks
+    PREP: on
+

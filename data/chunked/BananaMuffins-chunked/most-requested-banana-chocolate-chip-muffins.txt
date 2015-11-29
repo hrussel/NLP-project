@@ -1,0 +1,116 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray muffin cups with cooking spray or line with paper liners .
+PREDID: 0
+PRED: spray
+  DOBJ: muffin cups
+  PARG: cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: line
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Beat sugar , butter , flax seed , vanilla , and eggs together in a bowl with an electric mixer until smooth and creamy .
+PREDID: 0
+PRED: beat
+  DOBJ: sugar , butter , flax seed , vanilla , eggs
+  PARG: a bowl
+    PREP: in
+  PARG: an electric mixer
+    PREP: with
+  PARG: smooth, creamy
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Sift flour , salt , and baking soda together in a separate bowl .
+PREDID: 0
+PRED: sift
+  DOBJ: flour , salt , baking soda
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Mix creamed sugar mixture , 1/2 cup at a time , into the flour mixture until fully incorporated and batter is stiff .
+PREDID: 0
+PRED: mix
+  DOBJ: creamed sugar mixture , 1/2 cup
+  PARG: a time
+    PREP: at
+  PARG: the flour mixture
+    PREP: into
+  PARG: fully incorporated, batter is stiff
+    PREP: until
+
+
+SENTID: 5
+SENT: Beat bananas into batter with an electric mixer on low .
+PREDID: 0
+PRED: beat
+  DOBJ: bananas
+  PARG: batter
+    PREP: into
+  PARG: an electric mixer
+    PREP: with
+  PARG: low
+    PREP: on
+
+
+SENTID: 6
+SENT: Fold chocolate chips and walnuts into batter ;
+PREDID: 0
+PRED: fold
+  DOBJ: chocolate chips, walnuts
+  PARG: batter
+    PREP: into
+
+
+SENTID: 7
+SENT: spoon into the prepared muffin cups , filling each cup 3/4 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: filling each cup 3/4 full
+  PARG: the prepared muffin cups
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake in the preheated oven until a toothpick inserted in the center of a muffin comes out clean , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted in the center of a muffin comes out clean , about 25 minutes
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool in the tins for 10 minutes before removing to cool completely on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: the tins
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: a wire rack
+    PREP: on
+  OARG: to cool
+  OARG: completely
+

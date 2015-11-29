@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Preheat the oven to 475 degrees C -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 475 degrees c -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Roll out pizza crust and place on a pizza pan or baking sheet .
+PREDID: 0
+PRED: roll
+  PARG: pizza crust
+    PREP: out
+
+PREDID: 1
+PRED: place
+  PARG: a pizza pan or baking sheet
+    PREP: on
+
+
+SENTID: 2
+SENT: Spread a thin layer of hummus over the crust .
+PREDID: 0
+PRED: spread
+  DOBJ: a thin layer of hummus
+  PARG: the crust
+    PREP: over
+
+
+SENTID: 3
+SENT: Arrange sliced peppers and broccoli over the hummus , and top with shredded cheese .
+PREDID: 0
+PRED: arrange
+  DOBJ: sliced peppers, broccoli
+  PARG: the hummus
+    PREP: over
+
+PREDID: 1
+PRED: top
+  PARG: shredded cheese
+    PREP: with
+
+
+SENTID: 4
+SENT: Bake for 10 to 15 minutes in the preheated oven , until the crust is golden brown and cheese is melted in the center .
+PREDID: 0
+PRED: bake
+  PARG: 10 to 15 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the crust is golden brown, cheese is melted in the center
+    PREP: until
+
+
+SENTID: 5
+SENT: Slice and serve .
+PREDID: 0
+PRED: slice
+
+PREDID: 1
+PRED: serve
+

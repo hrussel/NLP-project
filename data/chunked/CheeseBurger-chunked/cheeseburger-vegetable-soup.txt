@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 1
+SENT: Cook over medium-high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium-high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , crumble , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: crumble
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Simmer carrots , celery , onion , and broth for about 10 minutes or until soft .
+PREDID: 0
+PRED: simmer
+  DOBJ: carrots , celery , onion , broth
+  PARG: about 10 minutes
+    PREP: for
+  PARG: soft
+    PREP: until
+
+
+SENTID: 4
+SENT: Add rice , mixed vegetables , beef , Velveeta , cheese soup , and milk , and cook until cheese is melted .
+PREDID: 0
+PRED: add
+  DOBJ: rice , mixed vegetables , beef , velveeta , cheese soup , milk
+
+PREDID: 1
+PRED: cook
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 5
+SENT: Add sour cream and chives just before serving .
+PREDID: 0
+PRED: add
+  DOBJ: sour cream, chives
+  PARG: serving
+    PREP: before
+  OARG: just
+

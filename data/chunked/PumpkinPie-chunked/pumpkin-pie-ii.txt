@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: In a large bowl , combine milk , pumpkin , flour , spices , eggs , salt , and sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: milk , pumpkin , flour , spices , eggs , salt , sugar
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix with an electric mixer until smooth .
+PREDID: 0
+PRED: mix
+  PARG: an electric mixer
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour filling into pie shells .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shells
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake at 475 degrees F -LRB- 245 degrees C -RRB- for 10 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 475 degrees f -lrb- 245 degrees c -rrb-
+    PREP: at
+  PARG: 10 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Reduce the temperature to 350 degrees F -LRB- 175 degrees C -RRB- , and bake for an additional 35 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: the temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: an additional 35 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Serve warm or at room temperature .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+  PARG: room temperature
+    PREP: at
+

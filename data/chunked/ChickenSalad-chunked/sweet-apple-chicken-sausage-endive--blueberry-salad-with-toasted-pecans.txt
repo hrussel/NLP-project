@@ -1,0 +1,66 @@
+SENTID: 0
+SENT: Saute chicken sausage in canola oil over medium-high heat until browned , about 2 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: chicken sausage
+  PARG: canola oil
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: browned , about 2 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Combine endive , gourmet salad greens , blueberries and chicken sausage in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: endive , gourmet salad greens , blueberries, chicken sausage
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: In a small bowl , combine vinegar , honey , salt , and pepper and stir with a whisk .
+PREDID: 0
+PRED: combine
+  DOBJ: vinegar , honey , salt , pepper
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: a whisk
+    PREP: with
+
+
+SENTID: 4
+SENT: Add dressing to endive mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: dressing
+  PARG: endive mixture
+    PREP: to
+
+
+SENTID: 5
+SENT: toss gently .
+PREDID: 0
+PRED: toss
+  OARG: gently
+
+
+SENTID: 6
+SENT: Sprinkle with cheese and pecans .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheese, pecans
+    PREP: with
+

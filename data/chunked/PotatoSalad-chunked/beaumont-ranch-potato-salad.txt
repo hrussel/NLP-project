@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: In a bowl , whisk together the dry Italian dressing mix , tarragon vinegar , water , and olive oil until thoroughly blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: the dry italian dressing
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: mix
+  DOBJ: tarragon vinegar , water , olive oil
+  PARG: thoroughly blended
+    PREP: until
+
+
+SENTID: 4
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Place the hot potatoes into a large bowl , and roughly but thoroughly slice them with a table knife until the potatoes are in chunks .
+PREDID: 0
+PRED: place
+  DOBJ: the hot potatoes
+  PARG: a large bowl
+    PREP: into
+  OARG: roughly
+  OARG: thoroughly
+
+PREDID: 1
+PRED: slice
+  DOBJ: them
+  PARG: a table knife
+    PREP: with
+  PARG: the potatoes are in chunks
+    PREP: until
+
+
+SENTID: 6
+SENT: Pour the dressing mixture over the hot potatoes , toss to coat , and let the potatoes cool .
+PREDID: 0
+PRED: pour
+  DOBJ: the dressing mixture
+  PARG: the hot potatoes
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: coat
+    PREP: to
+
+PREDID: 2
+PRED: let
+  DOBJ: the potatoes
+
+PREDID: 3
+PRED: cool
+
+
+SENTID: 7
+SENT: Add the celery , bacon bits , dill pickle , and green onion to the potatoes ;
+PREDID: 0
+PRED: add
+  DOBJ: the celery , bacon bits , dill pickle , green onion
+  PARG: the potatoes
+    PREP: to
+
+
+SENTID: 8
+SENT: lightly stir in mayonnaise until all ingredients are well combined , and serve .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise
+    PREP: in
+  PARG: all ingredients are well combined
+    PREP: until
+  OARG: lightly
+
+PREDID: 1
+PRED: serve
+

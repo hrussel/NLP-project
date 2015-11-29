@@ -1,0 +1,93 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook egg noodles until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 2
+SENT: Meanwhile , in a large skillet cook meat with seasoning salt , black pepper , and garlic powder until brown .
+PREDID: 0
+PRED: cook
+  DOBJ: meat
+  PARG: a large skillet
+    PREP: in
+  PARG: seasoning salt , black pepper , garlic powder
+    PREP: with
+  PARG: brown
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 3
+SENT: Add the cans of Mexican-style corn , tomatoes with green chilies and mix well .
+PREDID: 0
+PRED: add
+  DOBJ: the cans of mexican-style corn , tomatoes
+  PARG: green chilies, mix
+    PREP: with
+  OARG: well
+
+
+SENTID: 4
+SENT: Pour mixture into casserole dish prepared with butter spray .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: casserole dish prepared
+    PREP: into
+  PARG: butter
+    PREP: with
+
+PREDID: 1
+PRED: spray
+
+
+SENTID: 5
+SENT: Arrange sliced processed cheese food on top .
+PREDID: 0
+PRED: arrange
+  DOBJ: sliced processed cheese food
+  PARG: top
+    PREP: on
+
+
+SENTID: 6
+SENT: Cover with aluminum foil .
+PREDID: 0
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake in a preheated 375 degree F -LRB- 190 degrees C -RRB- oven for 20 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 375 degree f -lrb- 190 degrees c -rrb- oven
+    PREP: in
+  PARG: 20 to 30 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Stir and serve .
+PREDID: 0
+PRED: stir
+
+PREDID: 1
+PRED: serve
+

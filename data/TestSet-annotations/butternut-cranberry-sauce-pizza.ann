@@ -1,0 +1,87 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 55	Roll out
+T3	predicate 76 81	shape
+T4	predicate 130 135	Slide
+T5	predicate 160 164	Stir
+T6	predicate 229 234	Spoon
+T7	predicate 365 373	Sprinkle
+T8	predicate 307 315	Sprinkle
+T9	predicate 402 406	Bake
+T10	predicate 449 455	Remove
+T11	predicate 509 512	cut
+T12	predicate 526 531	Serve
+R1	object Arg1:T12 Arg2:T11	
+T13	predicate 477 482	slide
+R2	object Arg1:T11 Arg2:T13	
+R3	object Arg1:T13 Arg2:T10	
+T14	arg_object 456 461	pizza
+R4	object Arg1:T10 Arg2:T14	
+T15	Evolution 456 461	pizza
+E1	Evolution:T15 Cause:T9
+T16	arg_other 532 543	immediately
+R5	other Arg1:T12 Arg2:T16	
+T17	arg_location 483 503	onto a serving plate
+R6	location Arg1:T13 Arg2:T17	
+T18	arg_location 462 475	from the oven
+R7	location Arg1:T10 Arg2:T18	
+T19	arg_other 513 524	into wedges
+R8	other Arg1:T11 Arg2:T19	
+T20	arg_location 407 424	in preheated oven
+T21	Evolution 410 424	preheated oven
+E2	Evolution:T21 Cause:T1
+T22	arg_duration 425 447	until cheese is melted
+R9	location Arg1:T9 Arg2:T20	
+R10	duration Arg1:T9 Arg2:T22	
+R11	object Arg1:T9 Arg2:T7	
+T23	arg_object 374 384	the pecans
+T24	arg_co-object 385 400	over the cheese
+R12	object Arg1:T7 Arg2:T23	
+R13	co-object Arg1:T7 Arg2:T24	
+T25	Evolution 390 400	the cheese
+E3	Evolution:T25 Cause:T8
+T26	arg_object 316 325	the sauce
+T27	arg_co-object 326 363	with the Cheddar and Parmesan cheeses
+R14	object Arg1:T8 Arg2:T26	
+R15	co-object Arg1:T8 Arg2:T27	
+T28	Evolution 316 325	the sauce
+E4	Evolution:T28 Cause:T6
+T29	arg_object 235 253	the squash mixture
+R16	object Arg1:T6 Arg2:T29	
+T30	Evolution 235 253	the squash mixture
+E5	Evolution:T30 Cause:T5
+T31	arg_co-object 254 274	over the pizza dough
+R17	co-object Arg1:T6 Arg2:T31	
+T32	Evolution 259 274	the pizza dough
+E6	Evolution:T32 Cause:T4
+T33	arg_other 275 305	so it's even but not too thick
+R18	other Arg1:T6 Arg2:T33	
+T34	arg_object 165 175	the squash
+T35	arg_object 180 195	cranberry sauce
+T36	arg_location 205 214	in a bowl
+T37	arg_duration 215 227	until smooth
+R19	object Arg1:T5 Arg2:T34	
+R20	object Arg1:T5 Arg2:T35	
+R21	location Arg1:T5 Arg2:T36	
+R22	duration Arg1:T5 Arg2:T37	
+T38	arg_object 136 145	the dough
+R23	object Arg1:T4 Arg2:T38	
+T39	arg_location 146 158	onto the pan
+R24	location Arg1:T4 Arg2:T39	
+T40	Evolution 136 145	the dough
+E7	Evolution:T40 Cause:T3
+T41	arg_other 82 128	into a round circle to fit a 10 inch pizza pan
+R25	other Arg1:T3 Arg2:T41	
+R26	object Arg1:T3 Arg2:T2	
+T42	arg_object 56 71	the pizza dough
+R27	object Arg1:T2 Arg2:T42	
+T43	arg_object 8 12	oven
+T44	arg_duration 13 45	to 450 degrees F (230 degrees C)
+R28	object Arg1:T1 Arg2:T43	
+R29	duration Arg1:T1 Arg2:T44	
+T45	ingredient 56 71	the pizza dough
+T46	ingredient 165 175	the squash
+T47	ingredient 180 195	cranberry sauce
+T48	ingredient 316 325	the sauce
+T49	ingredient 331 363	the Cheddar and Parmesan cheeses
+T50	ingredient 374 384	the pecans
+R30	same-location Arg1:T18 Arg2:T20	

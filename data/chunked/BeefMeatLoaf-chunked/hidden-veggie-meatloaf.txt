@@ -1,0 +1,38 @@
+SENTID: 0
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine ground beef , ground turkey , egg , celery , rolled oats , skim milk , ketchup , onion , green pepper , parsley , dry mustard , salt , minced garlic , and black pepper in a bowl until thoroughly combined ;
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , ground turkey , egg , celery , rolled oats , skim milk , ketchup , onion , green pepper , parsley , dry mustard , salt , minced garlic , black pepper
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 2
+SENT: Transfer mixture into a 5x9-inch loaf pan .
+PREDID: 0
+PRED: transfer
+  DOBJ: mixture
+  PARG: a 5x9-inch loaf pan
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake in the preheated oven until an instant-read meat thermometer inserted into the center of the meatloaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1Ê1/2 hours .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: an instant-read meat thermometer inserted into the center of the meatloaf reads at least 160 degrees f -lrb- 70 degrees c -rrb- , about 1Ê1/2 hours
+    PREP: until
+

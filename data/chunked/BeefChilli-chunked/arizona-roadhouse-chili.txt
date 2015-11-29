@@ -1,0 +1,103 @@
+SENTID: 0
+SENT: Place pinto beans in a large container and cover with several inches of cool water ;
+PREDID: 0
+PRED: place
+  DOBJ: pinto beans
+  PARG: a large container
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: several inches of cool water
+    PREP: with
+
+
+SENTID: 1
+SENT: let stand 8 hours to overnight .
+PREDID: 0
+PRED: let
+  OARG: stand 8 hours
+  OARG: to overnight
+
+
+SENTID: 2
+SENT: Cook and stir beef in a large stockpot over medium-high heat until crumbly , evenly browned , and no longer pink , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: beef
+
+PREDID: 1
+PRED: stir
+  PARG: a large stockpot
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: crumbly , evenly browned , no longer pink , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and discard grease from pot .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+PREDID: 1
+PRED: discard
+  PARG: pot
+    PREP: from
+
+
+SENTID: 4
+SENT: Drain pinto beans and add to stockpot ;
+PREDID: 0
+PRED: drain
+  DOBJ: pinto beans
+
+PREDID: 1
+PRED: add
+  PARG: stockpot
+    PREP: to
+
+
+SENTID: 5
+SENT: add onions , celery , carrots , garlic , red bell peppers , jalapeno peppers , Anaheim peppers , poblano peppers , diced tomatoes , guajillo chile powder , cumin , oregano , coriander , cinnamon , and hot pepper sauce .
+PREDID: 0
+PRED: add
+  DOBJ: onions , celery , carrots , garlic , red bell peppers , jalapeno peppers , anaheim peppers , poblano peppers , diced tomatoes , guajillo chile powder , cumin , oregano , coriander , cinnamon , hot pepper sauce
+
+
+SENTID: 6
+SENT: Reduce heat to medium-low and cook mixture at a simmer for about 3 hours .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, cook mixture
+    PREP: to
+  PARG: a simmer
+    PREP: at
+  PARG: about 3 hours
+    PREP: for
+
+
+SENTID: 7
+SENT: Stir beef granules into the chili and continue simmering until beans are very tender and disintegrate easily , 1 to 3 hours more , adding water as needed to keep beans and vegetables immersed in liquid .
+PREDID: 0
+PRED: stir
+  DOBJ: beef granules
+  PARG: the chili, continue simmering
+    PREP: into
+  PARG: beans are very tender, disintegrate easily , 1 to 3 hours more , adding water as needed to keep beans, vegetables immersed in liquid
+    PREP: until
+
+
+SENTID: 8
+SENT: Season with salt just before serving .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+  PARG: serving
+    PREP: before
+  OARG: just
+

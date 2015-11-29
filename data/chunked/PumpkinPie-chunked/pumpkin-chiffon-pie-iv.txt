@@ -1,0 +1,51 @@
+SENTID: 0
+SENT: In a large bowl , combine pumpkin puree , pudding mix , pumpkin pie spice and evaporated milk .
+PREDID: 0
+PRED: combine
+  DOBJ: pumpkin puree , pudding mix , pumpkin pie spice, evaporated milk
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Fold in 1 cup of the whipped topping .
+PREDID: 0
+PRED: fold
+  PARG: 1 cup of the whipped topping
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 4
+SENT: Chill for 2 hours , or until set .
+PREDID: 0
+PRED: chill
+  PARG: 2 hours
+    PREP: for
+  PARG: set
+    PREP: until
+
+
+SENTID: 5
+SENT: Spread remaining 1/2 cup whipped topping over filling .
+PREDID: 0
+PRED: spread
+  DOBJ: remaining 1/2 cup whipped topping
+  PARG: filling
+    PREP: over
+

@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: Cook ramen noodles according to package directions , without adding the flavor packets .
+PREDID: 0
+PRED: cook
+  DOBJ: ramen noodles according
+  PARG: package directions
+    PREP: to
+  PARG: adding the flavor packets
+    PREP: without
+
+
+SENTID: 1
+SENT: Drain noodles and cool .
+PREDID: 0
+PRED: drain
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 2
+SENT: Cut noodles into large bite size pieces . In a large bowl combine the torn spinach leaves , cooked turkey or chicken , halved grapes , red pepper , cashews , Gorgonzola or blue cheese , and ramen noodles .
+PREDID: 0
+PRED: cut
+  DOBJ: noodles
+  PARG: large bite size pieces
+    PREP: into
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: combine
+  DOBJ: the torn spinach leaves , cooked turkey or chicken , halved grapes , red pepper , cashews , gorgonzola or blue cheese , ramen noodles
+
+
+SENTID: 3
+SENT: In a small bowl mix flavor packets , garlic , and lemon juice and let stand at least 15 minutes .
+PREDID: 0
+PRED: mix
+  DOBJ: flavor packets , garlic , lemon juice
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: let
+  DOBJ: stand
+  PARG: least 15 minutes
+    PREP: at
+
+
+SENTID: 4
+SENT: Add oil and mayonnaise and whisk until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: oil, mayonnaise
+
+PREDID: 1
+PRED: whisk
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour dressing over salad and toss until thoroughly mixed .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: salad
+    PREP: over
+
+PREDID: 1
+PRED: toss
+  PARG: thoroughly mixed
+    PREP: until
+
+
+SENTID: 6
+SENT: Garnish with red pepper rings and small grape clusters , if desired .
+PREDID: 0
+PRED: garnish
+  PARG: red pepper rings, small grape clusters
+    PREP: with
+  PARG: desired
+    PREP: if
+
+
+SENTID: 7
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

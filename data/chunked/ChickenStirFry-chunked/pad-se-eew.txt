@@ -1,0 +1,157 @@
+SENTID: 0
+SENT: Stir the dark soy sauce , soy sauce , sugar , and chile-garlic sauce together in a small saucepan and place over medium-how heat ;
+PREDID: 0
+PRED: stir
+  DOBJ: the dark soy sauce , soy sauce , sugar , chile-garlic sauce
+  PARG: a small saucepan
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: place
+  PARG: medium-how heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Remove from heat and set aside .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 2
+SENT: Heat the olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Cook and stir the garlic and chicken in the hot oil until the chicken is no longer pink in the center , 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the garlic, chicken
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: the chicken is no longer pink in the center , 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir the broccoli into the chicken mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the broccoli
+  PARG: the chicken mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: cook and stir until the broccoli is thoroughly heated .
+PREDID: 0
+PRED: cook
+  PARG: the broccoli is thoroughly heated
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Add the noodles and stir until all the ingredients are evenly mixed .
+PREDID: 0
+PRED: add
+  DOBJ: the noodles
+
+PREDID: 1
+PRED: stir
+  PARG: all the ingredients are evenly mixed
+    PREP: until
+
+
+SENTID: 7
+SENT: Pour the sauce over the mixture and stir until everything is evenly coated ;
+PREDID: 0
+PRED: pour
+  DOBJ: the sauce
+  PARG: the mixture
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: everything is evenly coated
+    PREP: until
+
+
+SENTID: 8
+SENT: continue cooking until the sauce begins to thicken .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: the sauce begins to thicken
+    PREP: until
+
+
+SENTID: 9
+SENT: Push the chicken mixture to the side of the skillet with a spatula .
+PREDID: 0
+PRED: push
+  DOBJ: the chicken mixture
+  PARG: the side of the skillet
+    PREP: to
+  PARG: a spatula
+    PREP: with
+
+
+SENTID: 10
+SENT: Add the egg to the skillet in the vacated space .
+PREDID: 0
+PRED: add
+  DOBJ: the egg
+  PARG: the skillet
+    PREP: to
+  PARG: the vacated space
+    PREP: in
+
+
+SENTID: 11
+SENT: Scramble the egg , cooking it through .
+PREDID: 0
+PRED: scramble
+  DOBJ: the egg , cooking it
+
+
+SENTID: 12
+SENT: Once egg is cooked , mix ingredients back in and heat thoroughly .
+PREDID: 0
+PRED: mix
+  DOBJ: egg is cooked
+  PARG: and heat
+    PREP: in
+  OARG: once
+  OARG: back
+  OARG: thoroughly
+
+
+SENTID: 13
+SENT: Garnish with the sesame seeds and red pepper flakes to serve .
+PREDID: 0
+PRED: garnish
+  PARG: the sesame seeds, red pepper flakes
+    PREP: with
+  PARG: serve
+    PREP: to
+

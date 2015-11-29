@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Cook pasta in a large pot of boiling salted water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of boiling salted water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Grease a 2 quart casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2 quart casserole dish
+
+
+SENTID: 2
+SENT: In a food processor , blend cottage cheese until smooth .
+PREDID: 0
+PRED: blend
+  DOBJ: cottage cheese
+  PARG: a food processor
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: In large bowl , combine cottage cheese , egg white , sweetener , cheese food , buttermilk and liquid smoke until well mixed .
+PREDID: 0
+PRED: combine
+  DOBJ: cottage cheese , egg white , sweetener , cheese food , buttermilk, liquid smoke
+  PARG: large bowl
+    PREP: in
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir in pasta .
+PREDID: 0
+PRED: stir
+  PARG: pasta
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour into prepared dish .
+PREDID: 0
+PRED: pour
+  PARG: prepared dish
+    PREP: into
+
+
+SENTID: 6
+SENT: Top with crushed crackers .
+PREDID: 0
+PRED: top
+  PARG: crushed crackers
+    PREP: with
+
+
+SENTID: 7
+SENT: Bake at 400 degrees F -LRB- 205 degrees C -RRB- for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+

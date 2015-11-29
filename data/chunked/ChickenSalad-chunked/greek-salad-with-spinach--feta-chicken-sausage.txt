@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Grill the al fresco Spinach & Feta Chicken Sausage over a medium-high grill , 5 minutes per side .
+PREDID: 0
+PRED: grill
+  DOBJ: the al fresco spinach & feta chicken sausage
+  PARG: a medium-high grill , 5 minutes
+    PREP: over
+  PARG: side
+    PREP: per
+
+
+SENTID: 1
+SENT: Slice the sausage on the diagonal into 1/4 inch thick slices .
+PREDID: 0
+PRED: slice
+  DOBJ: the sausage
+  PARG: the diagonal
+    PREP: on
+  PARG: 1/4 inch thick slices
+    PREP: into
+
+
+SENTID: 2
+SENT: Set up the salad in a serving bowl or platter and arrange the grilled sausage slices over the romaine lettuce .
+PREDID: 0
+PRED: set
+  DOBJ: the salad
+  PARG: a serving bowl or platter
+    PREP: in
+  OARG: up
+
+PREDID: 1
+PRED: arrange
+  DOBJ: the grilled sausage slices
+  PARG: the romaine lettuce
+    PREP: over
+
+
+SENTID: 3
+SENT: Top with the cucumber , olives , feta cheese , red onions , tomatoes .
+PREDID: 0
+PRED: top
+  PARG: the cucumber , olives , feta cheese , red onions , tomatoes
+    PREP: with
+
+
+SENTID: 4
+SENT: Toss with Greek Goddess Dressing .
+PREDID: 0
+PRED: toss
+  PARG: greek goddess dressing
+    PREP: with
+
+
+SENTID: 5
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

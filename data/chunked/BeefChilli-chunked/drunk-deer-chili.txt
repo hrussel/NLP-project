@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Melt the butter in a large pot over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook the venison , beef , and pork in the melted butter until completely browned .
+PREDID: 0
+PRED: cook
+  DOBJ: the venison , beef , pork
+  PARG: the melted butter
+    PREP: in
+  PARG: completely browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the onion and jalapeno ;
+PREDID: 0
+PRED: add
+  DOBJ: the onion, jalapeno
+
+
+SENTID: 3
+SENT: cook until tender .
+PREDID: 0
+PRED: cook
+  PARG: tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Season with chili powder , cayenne pepper , and cumin .
+PREDID: 0
+PRED: season
+  PARG: chili powder , cayenne pepper , cumin
+    PREP: with
+
+
+SENTID: 5
+SENT: Stir in the stewed tomatoes , tomato sauce , garlic and beef bouillon .
+PREDID: 0
+PRED: stir
+  PARG: the stewed tomatoes , tomato sauce , garlic, beef bouillon
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour the bourbon , beer , and water into the mixture and stir .
+PREDID: 0
+PRED: pour
+  DOBJ: the bourbon , beer , water
+  PARG: the mixture
+    PREP: into
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 7
+SENT: Bring the chili to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: the chili
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: cover and reduce heat to medium-low ;
+PREDID: 0
+PRED: cover
+  DOBJ: heat
+
+PREDID: 1
+PRED: reduce
+  PARG: medium-low
+    PREP: to
+
+
+SENTID: 9
+SENT: simmer about 1 hour , stirring frequently .
+PREDID: 0
+PRED: simmer
+  PARG: 1 hour , stirring
+    PREP: about
+  OARG: frequently
+

@@ -1,0 +1,148 @@
+SENTID: 0
+SENT: Clean and scrub baking potatoes .
+PREDID: 0
+PRED: clean
+  DOBJ: baking potatoes
+
+PREDID: 1
+PRED: scrub
+
+
+SENTID: 1
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , cool and cut into thick slices ;
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  PARG: thick slices
+    PREP: into
+
+PREDID: 2
+PRED: cut
+
+
+SENTID: 4
+SENT: place slices in a large bowl .
+PREDID: 0
+PRED: place
+  DOBJ: slices
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 6
+SENT: Cook over medium high heat until crisp .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: crisp
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir the onion and celery into the skillet and cook gently until the vegetables turn yellow .
+PREDID: 0
+PRED: stir
+  DOBJ: the onion, celery
+  PARG: the skillet
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: the vegetables turn yellow
+    PREP: until
+  OARG: gently
+
+
+SENTID: 8
+SENT: Dissolve the bouillon cube in boiling water and stir in the vinegar , salt and pepper .
+PREDID: 0
+PRED: dissolve
+  DOBJ: the bouillon cube
+  PARG: boiling water
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the vinegar , salt, pepper
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour the broth mixture into the skillet with the bacon/onion mixture and bring the water to a boil .
+PREDID: 0
+PRED: pour
+  DOBJ: the broth mixture
+  PARG: the skillet
+    PREP: into
+  PARG: the bacon/onion mixture
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Add the egg slowly , stirring until the mixture is slightly thickened .
+PREDID: 0
+PRED: add
+  DOBJ: stirring
+  PARG: the mixture is slightly thickened
+    PREP: until
+  OARG: slowly
+  OARG: the egg
+
+
+SENTID: 11
+SENT: Pour the vegetable mixture over the potatoes , add parsley and toss lightly .
+PREDID: 0
+PRED: pour
+  DOBJ: the vegetable mixture
+  PARG: the potatoes
+    PREP: over
+
+PREDID: 1
+PRED: add
+  DOBJ: parsley
+
+PREDID: 2
+PRED: toss
+  OARG: lightly
+

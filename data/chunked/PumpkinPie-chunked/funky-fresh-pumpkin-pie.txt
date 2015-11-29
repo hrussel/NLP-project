@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Press pie crust into a 9-inch pie pan .
+PREDID: 0
+PRED: press
+  DOBJ: pie crust
+  PARG: a 9-inch pie pan
+    PREP: into
+
+
+SENTID: 2
+SENT: Whisk pumpkin , sweetened condensed milk , and eggs together in a bowl until smooth , about 30 seconds .
+PREDID: 0
+PRED: whisk
+  DOBJ: pumpkin , sweetened condensed milk , eggs
+  PARG: a bowl
+    PREP: in
+  PARG: smooth , about 30 seconds
+    PREP: until
+  OARG: together
+
+
+SENTID: 3
+SENT: Add light brown sugar , nutmeg , cinnamon , and ginger ;
+PREDID: 0
+PRED: add
+  DOBJ: light brown sugar , nutmeg , cinnamon , ginger
+
+
+SENTID: 4
+SENT: whisk until evenly combined .
+PREDID: 0
+PRED: whisk
+  PARG: evenly combined
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour mixture into prepared pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: prepared pie crust
+    PREP: into
+
+
+SENTID: 6
+SENT: Sprinkle pecans over filling .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: pecans
+  PARG: filling
+    PREP: over
+
+
+SENTID: 7
+SENT: Place pie on a baking sheet and cover pie with a sheet of aluminum foil .
+PREDID: 0
+PRED: place
+  DOBJ: pie
+  PARG: a baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: cover
+  DOBJ: pie
+  PARG: a sheet of aluminum foil
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake in the preheated oven for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Reduce temperature to 350 degrees F -LRB- 175 degrees C -RRB- and remove aluminum foil .
+PREDID: 0
+PRED: reduce
+  DOBJ: temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  DOBJ: aluminum foil
+
+
+SENTID: 10
+SENT: Roll aluminum foil into a flattened tube-shape and cover crust with aluminum foil .
+PREDID: 0
+PRED: roll
+  DOBJ: aluminum foil
+  PARG: a flattened tube-shape, cover crust
+    PREP: into
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake for 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: Remove aluminum foil and bake until pie is set in the middle and crust is lightly browned , about 5 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: aluminum foil
+
+PREDID: 1
+PRED: bake
+  PARG: pie is set in the middle, crust is lightly browned , about 5 more minutes
+    PREP: until
+

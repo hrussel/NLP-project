@@ -1,0 +1,178 @@
+SENTID: 0
+SENT: Place the onion in a food processor , and process until finely chopped .
+PREDID: 0
+PRED: place
+  DOBJ: the onion
+  PARG: a food processor
+    PREP: in
+
+PREDID: 1
+PRED: process
+  PARG: finely chopped
+    PREP: until
+
+
+SENTID: 1
+SENT: Scoop the onions onto the center of a towel , gather up the ends of the towel , and squeeze out the liquid from the onions .
+PREDID: 0
+PRED: scoop
+  DOBJ: the onions
+  PARG: the center of a towel
+    PREP: onto
+
+PREDID: 1
+PRED: gather
+  DOBJ: the ends of the towel
+  OARG: up
+
+PREDID: 2
+PRED: squeeze
+  PARG: the liquid
+    PREP: out
+  PARG: the onions
+    PREP: from
+
+
+SENTID: 2
+SENT: Place the onions into a mixing bowl along with the lamb and beef .
+PREDID: 0
+PRED: place
+  DOBJ: the onions
+  PARG: a mixing bowl
+    PREP: into
+  PARG: with the lamb, beef
+    PREP: along
+
+
+SENTID: 3
+SENT: Season with the garlic , oregano , cumin , marjoram , rosemary , thyme , black pepper , and salt .
+PREDID: 0
+PRED: season
+  PARG: the garlic , oregano , cumin , marjoram , rosemary , thyme , black pepper , salt
+    PREP: with
+
+
+SENTID: 4
+SENT: Mix well with your hands until well combined .
+PREDID: 0
+PRED: mix
+  PARG: your hands
+    PREP: with
+  PARG: well combined
+    PREP: until
+  OARG: well
+
+
+SENTID: 5
+SENT: Cover , and refrigerate 1 to 2 hours to allow the flavors to blend .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: blend
+    PREP: to
+  OARG: 1 to 2 hours
+  OARG: to allow the flavors
+
+
+SENTID: 6
+SENT: Preheat oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Place the meat mixture into the food processor , and pulse for about a minute until finely chopped and the mixture feels tacky .
+PREDID: 0
+PRED: place
+  DOBJ: the meat mixture
+  PARG: the food processor
+    PREP: into
+
+PREDID: 1
+PRED: pulse
+  PARG: about a minute
+    PREP: for
+  PARG: finely chopped, the mixture feels tacky
+    PREP: until
+
+
+SENTID: 8
+SENT: Pack the meat mixture into a 7x4 inch loaf pan , making sure there are no air pockets .
+PREDID: 0
+PRED: pack
+  DOBJ: are no air pockets
+  PARG: a 7x4 inch loaf pan , making
+    PREP: into
+  OARG: sure
+  OARG: there
+  OARG: the meat mixture
+
+
+SENTID: 9
+SENT: Line a roasting pan with a damp kitchen towel .
+PREDID: 0
+PRED: line
+  DOBJ: a roasting pan
+  PARG: a damp kitchen towel
+    PREP: with
+
+
+SENTID: 10
+SENT: Place the loaf pan on the towel , inside the roasting pan , and place into the preheated oven .
+PREDID: 0
+PRED: place
+  DOBJ: the loaf pan
+  PARG: the towel
+    PREP: on
+  PARG: the roasting pan
+    PREP: inside
+
+PREDID: 1
+PRED: place
+  PARG: the preheated oven
+    PREP: into
+
+
+SENTID: 11
+SENT: Fill the roasting pan with boiling water to reach halfway up the sides of the loaf pan .
+PREDID: 0
+PRED: fill
+  DOBJ: the sides of the loaf pan
+  PARG: boiling water
+    PREP: with
+  PARG: reach
+    PREP: to
+  OARG: halfway
+  OARG: up
+  OARG: the roasting pan
+
+
+SENTID: 12
+SENT: Bake until the gyro meat is no longer pink in the center , and the internal temperature registers 165 degrees F -LRB- 75 degrees C -RRB- on a meat thermometer , 45 minutes to 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the gyro meat is no longer pink in the center , the internal temperature registers 165 degrees f -lrb- 75 degrees c -rrb- on a meat thermometer , 45 minutes to 1 hour
+    PREP: until
+
+
+SENTID: 13
+SENT: Pour off any accumulated fat , and allow to cool slightly before slicing thinly and serving .
+PREDID: 0
+PRED: pour
+  PARG: any accumulated fat
+    PREP: off
+
+PREDID: 1
+PRED: allow
+  DOBJ: and serving
+  PARG: slicing
+    PREP: before
+  OARG: to cool
+  OARG: slightly
+  OARG: thinly
+

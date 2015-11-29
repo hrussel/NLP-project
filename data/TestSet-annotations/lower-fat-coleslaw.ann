@@ -1,0 +1,56 @@
+T1	predicate 0 5	Whisk
+T2	predicate 190 194	Pour
+T3	predicate 262 266	toss
+T4	predicate 296 307	refrigerate
+T5	arg_object 6 16	mayonnaise
+T6	arg_object 18 30	low-fat milk
+T7	arg_object 32 45	white vinegar
+T8	arg_object 47 66	apple cider vinegar
+T9	arg_object 68 79	lemon juice
+T10	arg_object 81 86	sugar
+T11	arg_object 92 96	salt
+T12	arg_location 106 115	in a bowl
+T13	predicate 120 125	allow
+T14	arg_object 126 134	dressing
+T15	arg_other 135 143	to stand
+T16	arg_duration 144 188	while preparing vegetables, about 20 minutes
+T17	Evolution 126 134	dressing
+E1	Evolution:T17 Cause:T1
+R1	object Arg1:T1 Arg2:T5	
+R2	object Arg1:T1 Arg2:T6	
+R3	object Arg1:T1 Arg2:T7	
+R4	object Arg1:T1 Arg2:T8	
+R5	object Arg1:T1 Arg2:T9	
+R6	object Arg1:T1 Arg2:T10	
+R7	object Arg1:T1 Arg2:T11	
+R8	location Arg1:T1 Arg2:T12	
+R9	object Arg1:T13 Arg2:T14	
+R10	other Arg1:T13 Arg2:T15	
+R11	duration Arg1:T13 Arg2:T16	
+T18	arg_object 195 203	dressing
+T19	arg_co-object 204 235	over cabbage, onion, and carrot
+T20	Evolution 195 203	dressing
+E2	Evolution:T20 Cause:T13
+R12	object Arg1:T2 Arg2:T18	
+R13	co-object Arg1:T2 Arg2:T19	
+T21	arg_location 236 257	in a large salad bowl
+R14	location Arg1:T2 Arg2:T21	
+R15	object Arg1:T3 Arg2:T2	
+T22	arg_other 267 277	to combine
+R16	other Arg1:T3 Arg2:T22	
+T23	arg_object 308 312	slaw
+T24	Evolution 308 312	slaw
+E3	Evolution:T24 Cause:T3
+T25	arg_duration 313 342	at least 2 hours to overnight
+R17	object Arg1:T4 Arg2:T23	
+R18	duration Arg1:T4 Arg2:T25	
+T26	ingredient 6 16	mayonnaise
+T27	ingredient 18 30	low-fat milk
+T28	ingredient 32 45	white vinegar
+T29	ingredient 47 66	apple cider vinegar
+T30	ingredient 68 79	lemon juice
+T31	ingredient 81 86	sugar
+T32	ingredient 92 96	salt
+T33	ingredient 209 216	cabbage
+T34	ingredient 218 223	onion
+T35	ingredient 229 235	carrot

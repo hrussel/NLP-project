@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: Mix together the chicken and mayonnaise in a bowl , stir to coat well , then stir in the green onions , dried cranberries , apple , pecans , lime juice , salt , pepper , and dill weed .
+PREDID: 0
+PRED: mix
+  DOBJ: the chicken, mayonnaise
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: stir
+  PARG: coat
+    PREP: to
+  OARG: well
+  OARG: then
+
+PREDID: 2
+PRED: stir
+  PARG: the green onions , dried cranberries , apple , pecans , lime juice , salt , pepper , dill weed
+    PREP: in
+
+
+SENTID: 1
+SENT: Serve immediately , or refrigerate several hours or overnight -LRB- the flavor just gets better -RRB- .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+
+PREDID: 1
+PRED: refrigerate
+  DOBJ: gets better -rrb-
+  OARG: several hours
+  OARG: overnight
+  OARG: just
+  OARG: the flavor
+

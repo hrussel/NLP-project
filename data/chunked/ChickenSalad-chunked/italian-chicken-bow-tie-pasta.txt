@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Add 2/3 cup salad dressing to the cubed chicken and stir together .
+PREDID: 0
+PRED: add
+  DOBJ: 2/3 cup salad dressing
+  PARG: the cubed chicken
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  OARG: together
+
+
+SENTID: 1
+SENT: Cook pasta per package directions .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: package directions
+    PREP: per
+
+
+SENTID: 2
+SENT: Drain and rinse .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Add the pasta to the chicken and dressing and toss .
+PREDID: 0
+PRED: add
+  DOBJ: the pasta
+  PARG: the chicken, dressing
+    PREP: to
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 4
+SENT: Pour enough dressing on to coat everything -LRB- or to your taste -RRB- and add the chopped tomato .
+PREDID: 0
+PRED: pour
+  DOBJ: dressing
+  PARG: to coat everything -lrb-
+    PREP: on
+  PARG: your taste -rrb-
+    PREP: to
+  OARG: enough
+
+PREDID: 1
+PRED: add
+  DOBJ: the chopped tomato
+
+
+SENTID: 5
+SENT: Toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Ready to serve !
+PREDID: 0
+PRED: ready
+  PARG: serve
+    PREP: to
+

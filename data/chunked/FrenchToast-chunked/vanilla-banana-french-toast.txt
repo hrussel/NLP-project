@@ -1,0 +1,109 @@
+SENTID: 0
+SENT: Beat eggs , vanilla , cinnamon , and sugar together in a bowl .
+PREDID: 0
+PRED: beat
+  DOBJ: eggs , vanilla , cinnamon , sugar
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Place bread into the egg mixture to soak .
+PREDID: 0
+PRED: place
+  DOBJ: bread
+  PARG: the egg mixture
+    PREP: into
+  PARG: soak
+    PREP: to
+
+
+SENTID: 2
+SENT: Heat a lightly oiled skillet over medium heat and brown the slices of bread on both sides .
+PREDID: 0
+PRED: heat
+  DOBJ: a lightly oiled skillet
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: brown
+  DOBJ: the slices of bread
+  PARG: both sides
+    PREP: on
+
+
+SENTID: 3
+SENT: Heat a smaller lightly oiled skillet over medium-low heat and pour the remaining egg mixture into the skillet .
+PREDID: 0
+PRED: heat
+  DOBJ: oiled skillet
+  PARG: medium-low heat
+    PREP: over
+  OARG: lightly
+  OARG: a smaller
+
+PREDID: 1
+PRED: pour
+  DOBJ: the remaining egg mixture
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 4
+SENT: Allow the eggs to set in the skillet for 1 to 2 minutes , then continue to cook and stir eggs until scrambled .
+PREDID: 0
+PRED: allow
+  DOBJ: the eggs
+  PARG: set
+    PREP: to
+  PARG: the skillet
+    PREP: in
+  PARG: 1 to 2 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: continue
+  PARG: cook
+    PREP: to
+
+PREDID: 2
+PRED: stir
+  DOBJ: eggs
+  PARG: scrambled
+    PREP: until
+
+
+SENTID: 5
+SENT: Place 1 slice of toast onto a plate and top with the eggs .
+PREDID: 0
+PRED: place
+  DOBJ: 1 slice of toast
+  PARG: a plate
+    PREP: onto
+
+PREDID: 1
+PRED: top
+  PARG: the eggs
+    PREP: with
+
+
+SENTID: 6
+SENT: Layer the slices of banana over the eggs , then place the second slice of toast on top to make a sandwich .
+PREDID: 0
+PRED: layer
+  DOBJ: the slices of banana
+  PARG: the eggs
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: place
+  DOBJ: the second slice of toast
+  PARG: top
+    PREP: on
+  PARG: make a sandwich
+    PREP: to
+

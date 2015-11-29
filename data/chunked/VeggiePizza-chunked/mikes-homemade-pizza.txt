@@ -1,0 +1,173 @@
+SENTID: 0
+SENT: In a small bowl , dissolve yeast in warm water .
+PREDID: 0
+PRED: dissolve
+  DOBJ: yeast
+  PARG: a small bowl
+    PREP: in
+  PARG: warm water
+    PREP: in
+
+
+SENTID: 1
+SENT: Let stand until creamy , about 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: creamy , about 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: In a large bowl , combine flour , salt and shortening .
+PREDID: 0
+PRED: combine
+  DOBJ: flour , salt, shortening
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Stir in the yeast mixture .
+PREDID: 0
+PRED: stir
+  PARG: the yeast mixture
+    PREP: in
+
+
+SENTID: 4
+SENT: When the dough has pulled together , turn it out onto a lightly floured surface , and knead until smooth and elastic , about 8 minutes .
+PREDID: 0
+PRED: turn
+  DOBJ: it
+  PARG: onto a lightly floured surface
+    PREP: out
+  OARG: when the dough has pulled
+  OARG: together
+
+PREDID: 1
+PRED: knead
+  PARG: smooth, elastic , about 8 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Lightly oil a large bowl , place the dough in the bowl , and turn to coat with oil .
+PREDID: 0
+PRED: oil
+  DOBJ: a large bowl
+  OARG: lightly
+
+PREDID: 1
+PRED: place
+  DOBJ: the dough
+  PARG: the bowl
+    PREP: in
+
+PREDID: 2
+PRED: turn
+  PARG: coat
+    PREP: to
+  PARG: oil
+    PREP: with
+
+
+SENTID: 6
+SENT: Cover with a damp cloth , and let rise in a warm place until doubled in volume , about 45 minutes .
+PREDID: 0
+PRED: cover
+  PARG: a damp cloth , let rise
+    PREP: with
+  PARG: a warm
+    PREP: in
+
+PREDID: 1
+PRED: place
+  PARG: doubled in volume , about 45 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Heat oil in a small saucepan over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a small saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Saute onion until tender .
+PREDID: 0
+PRED: saute
+  DOBJ: onion
+  PARG: tender
+    PREP: until
+
+
+SENTID: 9
+SENT: Stir in tomato paste and water .
+PREDID: 0
+PRED: stir
+  PARG: tomato paste, water
+    PREP: in
+
+
+SENTID: 10
+SENT: Season with sugar , salt , black pepper , garlic powder , basil , oregano , marjoram , cumin , chili powder and red pepper flakes .
+PREDID: 0
+PRED: season
+  PARG: sugar , salt , black pepper , garlic powder , basil , oregano , marjoram , cumin , chili powder, red pepper flakes
+    PREP: with
+
+
+SENTID: 11
+SENT: Simmer 15 to 20 minutes .
+PREDID: 0
+PRED: simmer
+  OARG: 15 to 20 minutes
+
+
+SENTID: 12
+SENT: Recipe makes 2 -LRB- 12 inch -RRB- pizzas .
+PREDID: 0
+PRED: makes
+  DOBJ: 2 -lrb- 12 inch -rrb- pizzas
+  OARG: recipe
+
+
+SENTID: 13
+SENT: Divide dough in half , and spread onto pizza pans .
+PREDID: 0
+PRED: divide
+  DOBJ: dough
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: spread
+  PARG: pizza pans
+    PREP: onto
+
+
+SENTID: 14
+SENT: Cover with sauce , and desired toppings .
+PREDID: 0
+PRED: cover
+  PARG: sauce , desired toppings
+    PREP: with
+
+
+SENTID: 15
+SENT: Bake at 400 degrees for 20 minutes , or until crust is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees
+    PREP: at
+  PARG: 20 minutes
+    PREP: for
+  PARG: crust is golden brown
+    PREP: until
+

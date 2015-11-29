@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: In large saucepan over medium heat , combine mushroom soup , processed cheese , butter , milk , garlic powder , salt and pepper .
+PREDID: 0
+PRED: combine
+  DOBJ: mushroom soup , processed cheese , butter , milk , garlic powder , salt, pepper
+  PARG: large saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Stir until cheese is melted .
+PREDID: 0
+PRED: stir
+  PARG: cheese is melted
+    PREP: until
+
+
+SENTID: 5
+SENT: Stir in noodles and heat through .
+PREDID: 0
+PRED: stir
+  PARG: noodles
+    PREP: in
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+

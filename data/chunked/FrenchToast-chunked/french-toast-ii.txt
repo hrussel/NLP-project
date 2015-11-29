@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: In a large mixing bowl , beat the eggs .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: a large mixing bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Add the milk , brown sugar and nutmeg ;
+PREDID: 0
+PRED: add
+  DOBJ: the milk , brown sugar, nutmeg
+
+
+SENTID: 2
+SENT: stir well to combine .
+PREDID: 0
+PRED: stir
+  PARG: combine
+    PREP: to
+  OARG: well
+
+
+SENTID: 3
+SENT: Soak bread slices in the egg mixture until saturated .
+PREDID: 0
+PRED: soak
+  DOBJ: bread slices
+  PARG: the egg mixture
+    PREP: in
+  PARG: saturated
+    PREP: until
+
+
+SENTID: 4
+SENT: Heat a lightly oiled griddle or frying pan over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a lightly oiled griddle or frying pan
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Brown slices on both sides , sprinkle with cinnamon and serve hot .
+PREDID: 0
+PRED: brown
+  DOBJ: slices
+  PARG: both sides
+    PREP: on
+
+PREDID: 1
+PRED: sprinkle
+  PARG: cinnamon
+    PREP: with
+
+PREDID: 2
+PRED: serve
+  DOBJ: hot
+

@@ -1,0 +1,189 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , add the lasagna noodles a few at a time , and return to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: the lasagna noodles a few
+  PARG: a time
+    PREP: at
+  OARG: once
+  OARG: the water is boiling
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Remove the noodles to a plate .
+PREDID: 0
+PRED: remove
+  DOBJ: the noodles
+  PARG: a plate
+    PREP: to
+
+
+SENTID: 5
+SENT: Place the ground beef into a skillet over medium heat , add the garlic , garlic powder , oregano , salt , and black pepper to the skillet .
+PREDID: 0
+PRED: place
+  DOBJ: the ground beef
+  PARG: a skillet
+    PREP: into
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: add
+  DOBJ: the garlic , garlic powder , oregano , salt , black pepper
+  PARG: the skillet
+    PREP: to
+
+
+SENTID: 6
+SENT: Cook the meat , chopping it into small chunks as it cooks , until no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the meat , chopping it
+  PARG: small chunks
+    PREP: into
+  PARG: it cooks
+    PREP: as
+  PARG: no longer pink , about 10 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 8
+SENT: In a bowl , mix the cottage cheese , eggs , and Parmesan cheese until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the cottage cheese , eggs , parmesan cheese
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 9
+SENT: Place 4 noodles side by side into the bottom of a 9x13-inch baking pan ;
+PREDID: 0
+PRED: place
+  DOBJ: 4 noodles side
+  PARG: side
+    PREP: by
+  PARG: the bottom of a 9x13-inch baking pan
+    PREP: into
+
+
+SENTID: 10
+SENT: top with a layer of the tomato-basil sauce , a layer of ground beef mixture , and a layer of the cottage cheese mixture .
+PREDID: 0
+PRED: top
+  PARG: a layer of the tomato-basil sauce , a layer of ground beef mixture , a layer of the cottage cheese mixture
+    PREP: with
+
+
+SENTID: 11
+SENT: Repeat layers twice more , ending with a layer of sauce ;
+PREDID: 0
+PRED: repeat
+  DOBJ: more , ending
+  PARG: a layer of sauce
+    PREP: with
+  OARG: twice
+  OARG: layers
+
+
+SENTID: 12
+SENT: sprinkle top with the mozzarella cheese .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top
+  PARG: the mozzarella cheese
+    PREP: with
+
+
+SENTID: 13
+SENT: Cover the dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in the preheated oven until the casserole is bubbling and the cheese has melted , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the casserole is bubbling, the cheese has melted , about 30 minutes
+    PREP: until
+
+
+SENTID: 15
+SENT: Remove foil and bake until cheese has begun to brown , about 10 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: cheese has begun to brown , about 10 more minutes
+    PREP: until
+
+
+SENTID: 16
+SENT: Allow to stand at least 10 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: stand
+    PREP: to
+  PARG: least 10 minutes
+    PREP: at
+  PARG: serving
+    PREP: before
+

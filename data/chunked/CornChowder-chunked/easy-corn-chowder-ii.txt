@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a large pot over medium heat , place potatoes , celery and onion with water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes , celery, onion
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , then reduce heat and simmer 20 minutes , until potatoes are tender .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: potatoes are tender
+    PREP: until
+  OARG: 20 minutes
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Return vegetables to pot with creamed corn , corn , evaporated milk , cayenne and salt over low heat .
+PREDID: 0
+PRED: return
+  DOBJ: vegetables
+  PARG: pot
+    PREP: to
+  PARG: creamed corn , corn , evaporated milk , cayenne, salt
+    PREP: with
+  PARG: low heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Simmer 20 minutes .
+PREDID: 0
+PRED: simmer
+  OARG: 20 minutes
+

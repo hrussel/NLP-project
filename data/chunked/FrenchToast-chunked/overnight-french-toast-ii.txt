@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Combine the corn syrup , butter , and brown sugar in a small saucepan and simmer until the sugar has melted .
+PREDID: 0
+PRED: combine
+  DOBJ: the corn syrup , butter , brown sugar
+  PARG: a small saucepan
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: the sugar has melted
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour this mixture over the bottom of a greased 9x13 inch casserole dish .
+PREDID: 0
+PRED: pour
+  DOBJ: this mixture
+  PARG: the bottom of a greased 9x13 inch casserole dish
+    PREP: over
+
+
+SENTID: 2
+SENT: Place the bread slices over the sugar-butter mixture in the dish .
+PREDID: 0
+PRED: place
+  DOBJ: the bread slices
+  PARG: the sugar-butter mixture
+    PREP: over
+  PARG: the dish
+    PREP: in
+
+
+SENTID: 3
+SENT: In a bowl , beat together the eggs , milk , vanilla , and salt ;
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs , milk , vanilla , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: pour this mixture over the bread .
+PREDID: 0
+PRED: pour
+  DOBJ: this mixture
+  PARG: the bread
+    PREP: over
+
+
+SENTID: 5
+SENT: Cover the dish and let it stand in the refrigerator overnight .
+PREDID: 0
+PRED: cover
+  DOBJ: the dish
+
+PREDID: 1
+PRED: let
+  DOBJ: it stand
+  PARG: the refrigerator
+    PREP: in
+  OARG: overnight
+
+
+SENTID: 6
+SENT: Uncover the pan and bake for 45 minutes .
+PREDID: 0
+PRED: uncover
+  DOBJ: the pan
+
+PREDID: 1
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+
+
+SENTID: 7
+SENT: It can be reheated .
+PREDID: 0
+PRED: can
+  DOBJ: be reheated
+  OARG: it
+

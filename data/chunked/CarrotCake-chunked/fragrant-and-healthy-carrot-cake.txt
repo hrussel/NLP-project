@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9 inch Bundt pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9 inch bundt pan
+
+
+SENTID: 2
+SENT: In a large bowl , stir together the whole wheat flour , cake flour , brown sugar , cinnamon , carob , baking powder , baking soda and salt .
+PREDID: 0
+PRED: stir
+  DOBJ: the whole wheat flour
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: cake
+  DOBJ: flour , brown sugar , cinnamon , carob , baking powder , baking soda, salt
+
+
+SENTID: 3
+SENT: Make a well in the center and pour in the molasses , oil , eggs and orange juice .
+PREDID: 0
+PRED: make
+  DOBJ: a well
+  PARG: the center
+    PREP: in
+
+PREDID: 1
+PRED: pour
+  PARG: the molasses
+    PREP: in
+
+PREDID: 2
+PRED: oil
+  DOBJ: eggs, orange juice
+
+
+SENTID: 4
+SENT: Mix until the dry ingredients are moistened , then stir in the orange zest , lemon zest , raisins , figs , poppy seeds , carrots and pecans until evenly distributed .
+PREDID: 0
+PRED: mix
+  PARG: the dry ingredients are moistened
+    PREP: until
+
+PREDID: 1
+PRED: stir
+  PARG: the orange zest , lemon zest , raisins , figs , poppy seeds , carrots, pecans
+    PREP: in
+  PARG: evenly distributed
+    PREP: until
+
+
+SENTID: 5
+SENT: Pour into the prepared pan .
+PREDID: 0
+PRED: pour
+  PARG: the prepared pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake for 1 hour and 10 minutes in the preheated oven , or until a knife inserted into the center of the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour, 10 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: a knife inserted into the center of the cake comes out clean
+    PREP: until
+
+
+SENTID: 7
+SENT: Cool for 30 minutes before removing from the pan .
+PREDID: 0
+PRED: cool
+  PARG: 30 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+  PARG: the pan
+    PREP: from
+

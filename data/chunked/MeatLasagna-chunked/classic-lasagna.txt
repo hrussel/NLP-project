@@ -1,0 +1,171 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add the lasagna noodles and olive oil ;
+PREDID: 0
+PRED: add
+  DOBJ: the lasagna noodles, olive oil
+
+
+SENTID: 3
+SENT: cook until al dente , 8 to 10 minutes ;
+PREDID: 0
+PRED: cook
+  PARG: al dente , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Cook the ground beef and sausage in a large pot over medium heat ;
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef, sausage
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 6
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 7
+SENT: Stir in the mushrooms , garlic salt , oregano , thyme , basil , and tomato sauce .
+PREDID: 0
+PRED: stir
+  PARG: the mushrooms , garlic salt , oregano , thyme , basil , tomato sauce
+    PREP: in
+
+
+SENTID: 8
+SENT: Season with salt and pepper ;
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: simmer 30 minutes .
+PREDID: 0
+PRED: simmer
+  OARG: 30 minutes
+
+
+SENTID: 10
+SENT: Meanwhile , mix together the ricotta cheese , eggs , and Parmesan cheese in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the ricotta cheese , eggs , parmesan cheese
+  PARG: a bowl
+    PREP: in
+  OARG: meanwhile
+  OARG: together
+
+
+SENTID: 11
+SENT: Ladle enough of the meat sauce into a 9x13 inch baking dish to cover the bottom in a thin layer .
+PREDID: 0
+PRED: ladle
+  PARG: the meat sauce
+    PREP: of
+  PARG: a 9x13 inch baking dish
+    PREP: into
+  PARG: cover the bottom
+    PREP: to
+  PARG: a thin layer
+    PREP: in
+  OARG: enough
+
+
+SENTID: 12
+SENT: Form a layer atop the sauce with 3 of the lasagna noodles .
+PREDID: 0
+PRED: form
+  DOBJ: a layer
+  PARG: the sauce
+    PREP: atop
+  PARG: 3 of the lasagna noodles
+    PREP: with
+
+
+SENTID: 13
+SENT: Spread about 1/4 of the ricotta cheese mixture over the noodles .
+PREDID: 0
+PRED: spread
+  PARG: 1/4 of the ricotta cheese mixture
+    PREP: about
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 14
+SENT: Sprinkle about 1/3 of the mozzarella cheese over the ricotta cheese mixture and then ladle about 1/3 of the meat sauce over the mozzarella cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/3 of the mozzarella cheese
+    PREP: about
+  PARG: the ricotta cheese mixture
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: ladle
+  PARG: 1/3 of the meat sauce
+    PREP: about
+  PARG: the mozzarella cheese
+    PREP: over
+
+
+SENTID: 15
+SENT: Repeat layering twice more , topping with the remaining 1/4 pound of mozzarella cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: more , topping
+  PARG: the remaining 1/4 pound of mozzarella cheese
+    PREP: with
+  OARG: twice
+  OARG: layering
+
+
+SENTID: 16
+SENT: Bake in preheated oven 90 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 90 minutes
+    PREP: in
+
+
+SENTID: 17
+SENT: Allow to sit 10 to 15 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: serving
+    PREP: before
+  OARG: to sit 10 to 15 minutes
+

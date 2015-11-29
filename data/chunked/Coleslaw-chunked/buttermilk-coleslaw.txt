@@ -1,0 +1,22 @@
+SENTID: 0
+SENT: In a large bowl , stir together the mayonnaise , buttermilk , sugar , celery seed and black pepper .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise , buttermilk , sugar , celery seed, black pepper
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Fold in the coleslaw mix , and refrigerate until serving .
+PREDID: 0
+PRED: fold
+  PARG: the coleslaw mix
+    PREP: in
+
+PREDID: 1
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

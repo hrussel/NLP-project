@@ -1,0 +1,21 @@
+SENTID: 0
+SENT: Whisk mayonnaise , onion , vinegar , sugar , and seafood seasoning in a salad bowl until sugar has dissolved .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , onion , vinegar , sugar , seafood seasoning
+  PARG: a salad bowl
+    PREP: in
+  PARG: sugar has dissolved
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir cabbage , carrots , and green bell pepper into dressing until coated .
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage , carrots , green bell pepper
+  PARG: dressing
+    PREP: into
+  PARG: coated
+    PREP: until
+

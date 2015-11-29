@@ -1,0 +1,78 @@
+T1	predicate 0 5	Place
+T2	predicate 86 92	Reduce
+T3	predicate 162 167	Whisk
+T4	predicate 247 250	add
+T5	predicate 69 74	bring
+T6	predicate 275 279	Toss
+T8	predicate 336 340	Fold
+T9	predicate 155 160	drain
+T10	arg_other 75 84	to a boil
+R1	other Arg1:T5 Arg2:T10	
+T11	arg_object 6 14	potatoes
+T12	ingredient 6 14	potatoes
+T13	arg_object 168 175	vinegar
+T14	arg_object 177 186	olive oil
+T15	arg_object 188 195	mustard
+T16	arg_object 197 202	basil
+T17	arg_object 204 208	salt
+T18	arg_object 214 220	pepper
+R3	object Arg1:T3 Arg2:T13	
+R4	object Arg1:T3 Arg2:T14	
+R5	object Arg1:T3 Arg2:T15	
+R6	object Arg1:T3 Arg2:T16	
+R7	object Arg1:T3 Arg2:T17	
+R8	object Arg1:T3 Arg2:T18	
+T19	arg_location 230 245	in a large bowl
+R9	location Arg1:T3 Arg2:T19	
+T20	ingredient 168 175	vinegar
+T21	ingredient 177 186	olive oil
+T22	ingredient 188 195	mustard
+T23	ingredient 197 202	basil
+T24	ingredient 204 208	salt
+T25	ingredient 214 220	pepper
+T26	arg_object 251 263	the potatoes
+T28	arg_object 268 273	onion
+T29	ingredient 268 273	onion
+R10	object Arg1:T4 Arg2:T26	
+R11	object Arg1:T4 Arg2:T28	
+R12	co-object Arg1:T4 Arg2:T3	
+R13	object Arg1:T6 Arg2:T4	
+T30	arg_other 287 294	to coat
+R14	other Arg1:T6 Arg2:T30	
+T31	arg_duration 306 334	until cool, about 30 minutes
+T7	predicate 296 305	Let stand
+R15	duration Arg1:T7 Arg2:T31	
+R16	object Arg1:T7 Arg2:T6	
+T32	arg_object 341 352	blue cheese
+T33	arg_object 357 363	chives
+T34	ingredient 341 352	blue cheese
+T35	ingredient 357 363	chives
+R17	object Arg1:T8 Arg2:T32	
+R18	object Arg1:T8 Arg2:T33	
+T36	arg_co-object 364 381	into potato salad
+R19	co-object Arg1:T8 Arg2:T36	
+T37	arg_duration 382 395	until blended
+R20	duration Arg1:T8 Arg2:T37	
+T38	Evolution 369 381	potato salad
+E1	Evolution:T38 Cause:T7
+T39	arg_location 15 31	into a large pot
+T40	predicate 36 41	cover
+R21	object Arg1:T1 Arg2:T11	
+R22	location Arg1:T1 Arg2:T39	
+R2	object Arg1:T40 Arg2:T1	
+T41	arg_co-object 42 67	with lightly salted water
+T42	ingredient 47 67	lightly salted water
+R23	co-object Arg1:T40 Arg2:T41	
+R24	object Arg1:T5 Arg2:T40	
+T43	arg_object 93 97	heat
+R25	object Arg1:T2 Arg2:T43	
+R26	co-object Arg1:T2 Arg2:T5	
+T44	arg_other 98 111	to medium-low
+R27	other Arg1:T2 Arg2:T44	
+T45	predicate 116 122	simmer
+R28	object Arg1:T45 Arg2:T2	
+T46	arg_duration 123 153	until tender, 10 to 15 minutes
+R29	duration Arg1:T45 Arg2:T46	
+R30	object Arg1:T9 Arg2:T45	
+T27	Evolution 251 263	the potatoes
+E2	Evolution:T27 Cause:T9

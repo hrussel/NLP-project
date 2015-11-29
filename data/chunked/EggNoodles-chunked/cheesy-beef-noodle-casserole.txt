@@ -1,0 +1,145 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir gravy mix , water , and milk together in a bowl until dissolved and smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: gravy
+
+PREDID: 1
+PRED: mix
+  DOBJ: water , milk
+  PARG: a bowl
+    PREP: in
+  PARG: dissolved
+    PREP: until
+  OARG: together
+
+PREDID: 2
+PRED: smooth
+
+
+SENTID: 2
+SENT: Heat a large skillet over medium-high heat and crumble in ground beef ;
+PREDID: 0
+PRED: heat
+  DOBJ: a large skillet
+  PARG: medium-high heat
+    PREP: over
+
+PREDID: 1
+PRED: crumble
+  PARG: ground beef
+    PREP: in
+
+
+SENTID: 3
+SENT: add onion , mushrooms , and garlic .
+PREDID: 0
+PRED: add
+  DOBJ: onion , mushrooms , garlic
+
+
+SENTID: 4
+SENT: Drain and discard any excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: any excess grease
+
+PREDID: 1
+PRED: discard
+
+
+SENTID: 5
+SENT: Stir gravy mixture , tomato sauce , diced tomatoes , Italian seasoning , oregano , and basil into ground beef mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: gravy mixture , tomato sauce , diced tomatoes , italian seasoning , oregano , basil
+  PARG: ground beef mixture
+    PREP: into
+
+
+SENTID: 6
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Bring beef-tomato mixture to a boil , reduce heat , cover skillet with a lid , and simmer until heated through , 10 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: beef-tomato mixture
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: cover
+  DOBJ: skillet
+  PARG: a lid
+    PREP: with
+
+PREDID: 3
+PRED: simmer
+  PARG: heated through , 10 minutes
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir Cheddar cheese , mozzarella cheese , and egg noodles into beef-tomato mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: cheddar cheese , mozzarella cheese , egg noodles
+  PARG: beef-tomato mixture
+    PREP: into
+
+
+SENTID: 9
+SENT: pour entire mixture into a 9x13-inch casserole dish .
+PREDID: 0
+PRED: pour
+  DOBJ: entire mixture
+  PARG: a 9x13-inch casserole dish
+    PREP: into
+
+
+SENTID: 10
+SENT: Top casserole with Parmesan cheese .
+PREDID: 0
+PRED: top
+  DOBJ: casserole
+  PARG: parmesan cheese
+    PREP: with
+
+
+SENTID: 11
+SENT: Cover dish with aluminum foil .
+PREDID: 0
+PRED: cover
+  DOBJ: dish
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 12
+SENT: Bake in the preheated oven until cheese is melted and noodles are cooked , about 25 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is melted, noodles are cooked , about 25 minutes
+    PREP: until
+

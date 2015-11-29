@@ -1,0 +1,119 @@
+SENTID: 0
+SENT: Preheat a grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: a grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Place bacon in a large skillet over medium heat .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Fry , stirring occasionally .
+PREDID: 0
+PRED: fry
+  DOBJ: stirring
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: When the bacon is almost done , add the onion .
+PREDID: 0
+PRED: add
+  DOBJ: the onion
+  OARG: when the bacon is
+  OARG: almost
+  OARG: done
+
+
+SENTID: 4
+SENT: Cook until the bacon is crisp , and the onion is tender .
+PREDID: 0
+PRED: cook
+  PARG: the bacon is crisp , the onion is tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove onion and bacon from the pan with a slotted spoon , and transfer to a food processor .
+PREDID: 0
+PRED: remove
+  DOBJ: onion, bacon
+  PARG: the pan
+    PREP: from
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: transfer
+  PARG: a food processor
+    PREP: to
+
+
+SENTID: 6
+SENT: Pulse a couple of times to chop finely .
+PREDID: 0
+PRED: pulse
+  DOBJ: a couple of times
+  PARG: chop
+    PREP: to
+  OARG: finely
+
+
+SENTID: 7
+SENT: Pour into a large bowl , and mix with steak sauce and ground chuck using your hands .
+PREDID: 0
+PRED: pour
+  PARG: a large bowl
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  PARG: steak sauce, ground chuck using your hands
+    PREP: with
+
+
+SENTID: 8
+SENT: Form into 16 patties .
+PREDID: 0
+PRED: form
+  PARG: 16 patties
+    PREP: into
+
+
+SENTID: 9
+SENT: Place patties on the grill , and cook for 5 minutes per side , or until well done .
+PREDID: 0
+PRED: place
+  DOBJ: patties
+  PARG: the grill
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 5 minutes
+    PREP: for
+  PARG: side
+    PREP: per
+  PARG: well done
+    PREP: until
+
+
+SENTID: 10
+SENT: Place a slice of cheese on top of each one during the last minute .
+PREDID: 0
+PRED: place
+  DOBJ: a slice of cheese
+  PARG: top of each one during the last minute
+    PREP: on
+

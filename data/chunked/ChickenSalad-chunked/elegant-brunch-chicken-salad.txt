@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Bring a large pot of water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add the chicken and simmer until cooked through , approximately 10 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the chicken
+
+PREDID: 1
+PRED: simmer
+  PARG: cooked through , approximately 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool and cut into cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  PARG: cubes
+    PREP: into
+
+PREDID: 2
+PRED: cut
+
+
+SENTID: 3
+SENT: While boiling chicken , make the mayonnaise :
+PREDID: 0
+PRED: make
+  DOBJ: the mayonnaise
+  PARG: boiling chicken
+    PREP: while
+
+
+SENTID: 4
+SENT: Using a blender or hand-held electric mixer , beat the egg , mustard , salt , water and vinegar until light and frothy .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg , mustard , salt , water, vinegar
+  PARG: light, frothy
+    PREP: until
+  OARG: using a blender or hand-held electric mixer
+
+
+SENTID: 5
+SENT: Add the oil a tablespoon at a time , beating thoroughly after each addition .
+PREDID: 0
+PRED: add
+  DOBJ: the oil a tablespoon
+  PARG: a time , beating
+    PREP: at
+  PARG: each addition
+    PREP: after
+  OARG: thoroughly
+
+
+SENTID: 6
+SENT: Continue until mixture reaches the consistency of creamy mayonnaise .
+PREDID: 0
+PRED: continue
+  PARG: mixture reaches the consistency of creamy mayonnaise
+    PREP: until
+
+
+SENTID: 7
+SENT: NOTE :
+PREDID: 0
+PRED: note
+
+
+SENTID: 8
+SENT: In a large bowl , toss together the chicken , grapes , pecans , blue cheese and 1 cup of the mayonnaise .
+PREDID: 0
+PRED: toss
+  DOBJ: the chicken , grapes , pecans , blue cheese, 1 cup of the mayonnaise
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Stir until evenly coated , adding more mayonnaise if necessary .
+PREDID: 0
+PRED: stir
+  PARG: evenly coated , adding more mayonnaise if necessary
+    PREP: until
+
+
+SENTID: 10
+SENT: Refrigerate until serving .
+PREDID: 0
+PRED: refrigerate
+  PARG: serving
+    PREP: until
+

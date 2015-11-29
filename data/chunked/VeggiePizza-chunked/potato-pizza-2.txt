@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Preheat the oven to 425 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 425 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Prepare instant mashed potatoes according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: instant mashed potatoes according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir in half of the Cheddar cheese , bacon bits , and green onions .
+PREDID: 0
+PRED: stir
+  PARG: half of the cheddar cheese , bacon bits , green onions
+    PREP: in
+
+
+SENTID: 3
+SENT: Cut the pizza crust dough in half , and spread into the bottom of two 8-inch round pans .
+PREDID: 0
+PRED: cut
+  DOBJ: the pizza crust dough
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: spread
+  PARG: the bottom of two 8-inch round pans
+    PREP: into
+
+
+SENTID: 4
+SENT: Bake for 4 minutes in the preheated oven , until about halfway done .
+PREDID: 0
+PRED: bake
+  PARG: 4 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: about halfway done
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon the potato mixture over each crust .
+PREDID: 0
+PRED: spoon
+  DOBJ: the potato mixture
+  PARG: each crust
+    PREP: over
+
+
+SENTID: 6
+SENT: Sprinkle remaining Cheddar cheese over the top .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: remaining cheddar cheese
+  PARG: the top
+    PREP: over
+
+
+SENTID: 7
+SENT: Bake for an additional 5 minutes in the preheated oven , until crust is golden , and cheese is melted .
+PREDID: 0
+PRED: bake
+  PARG: an additional 5 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: crust is golden , cheese is melted
+    PREP: until
+
+
+SENTID: 8
+SENT: Let cool for 5 minutes before slicing and serving .
+PREDID: 0
+PRED: let
+  DOBJ: cool
+  PARG: 5 minutes
+    PREP: for
+  PARG: slicing, serving
+    PREP: before
+
+
+SENTID: 9
+SENT: Top with sour cream to taste .
+PREDID: 0
+PRED: top
+  PARG: sour cream
+    PREP: with
+  PARG: taste
+    PREP: to
+

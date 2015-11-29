@@ -1,0 +1,96 @@
+T1	predicate 0 4	Cook
+T2	predicate 64 68	heat
+T3	predicate 112 115	Add
+T4	predicate 135 148	cook and stir
+T5	predicate 179 186	Stir in
+T6	predicate 206 219	cook and stir
+T8	predicate 319 325	Simmer
+T9	predicate 391 397	Remove
+T10	predicate 409 412	Add
+T11	predicate 447 451	Heat
+T12	predicate 475 480	Drain
+T13	predicate 491 494	Add
+T14	predicate 526 531	Spoon
+T15	predicate 559 562	top
+T16	predicate 512 516	toss
+T17	predicate 586 590	BAKE
+T18	arg_object 5 13	macaroni
+T19	arg_other 14 51	as directed on package, omitting salt
+R1	object Arg1:T1 Arg2:T18	
+R2	other Arg1:T1 Arg2:T19	
+T20	arg_object 69 72	oil
+T21	arg_location 73 90	in large saucepan
+T22	arg_duration 91 110	on medium-high heat
+R3	object Arg1:T2 Arg2:T20	
+R4	location Arg1:T2 Arg2:T21	
+R5	duration Arg1:T2 Arg2:T22	
+T23	arg_object 116 122	onions
+T24	arg_object 127 133	garlic
+R6	object Arg1:T3 Arg2:T23	
+R7	object Arg1:T3 Arg2:T24	
+R8	co-object Arg1:T3 Arg2:T2	
+R9	object Arg1:T4 Arg2:T3	
+T25	arg_duration 149 154	5 min
+R10	duration Arg1:T4 Arg2:T25	
+R11	co-object Arg1:T5 Arg2:T4	
+T26	arg_object 187 192	flour
+R12	object Arg1:T5 Arg2:T26	
+T27	arg_object 197 204	mustard
+R13	object Arg1:T5 Arg2:T27	
+R14	object Arg1:T6 Arg2:T5	
+T28	arg_duration 220 225	1 min
+R15	duration Arg1:T6 Arg2:T28	
+T7	predicate 237 245	whisk in
+T29	arg_object 246 250	milk
+R16	object Arg1:T7 Arg2:T29	
+R17	co-object Arg1:T7 Arg2:T6	
+T30	arg_other 252 317	cooking and stirring after each addition until slightly thickened
+R18	other Arg1:T7 Arg2:T30	
+R19	object Arg1:T8 Arg2:T7	
+T31	arg_duration 326 348	on low heat 5 to 7 min
+R20	duration Arg1:T8 Arg2:T31	
+R21	object Arg1:T9 Arg2:T8	
+T32	arg_location 398 407	from heat
+R22	location Arg1:T9 Arg2:T32	
+R23	co-object Arg1:T10 Arg2:T9	
+T33	arg_object 413 426	3 cups cheese
+R24	object Arg1:T10 Arg2:T33	
+T34	predicate 428 432	stir
+R25	object Arg1:T34 Arg2:T10	
+T35	arg_duration 433 445	until melted
+R26	duration Arg1:T34 Arg2:T35	
+T36	arg_object 452 456	oven
+R27	object Arg1:T11 Arg2:T36	
+T37	arg_duration 457 473	to 350 degrees F
+R28	duration Arg1:T11 Arg2:T37	
+T38	arg_object 481 489	macaroni
+R29	object Arg1:T12 Arg2:T38	
+T39	Evolution 481 489	macaroni
+E1	Evolution:T39 Cause:T1
+R30	object Arg1:T13 Arg2:T12	
+T40	arg_co-object 495 510	to cheese sauce
+T41	Evolution 498 510	cheese sauce
+E2	Evolution:T41 Cause:T34
+R31	object Arg1:T16 Arg2:T13	
+T42	arg_other 517 524	to coat
+R32	other Arg1:T16 Arg2:T42	
+R33	object Arg1:T14 Arg2:T16	
+T43	arg_location 532 557	into 2.5-L casserole dish
+R34	location Arg1:T14 Arg2:T43	
+R35	object Arg1:T15 Arg2:T14	
+T44	arg_co-object 563 584	with remaining cheese
+R36	co-object Arg1:T15 Arg2:T44	
+R37	object Arg1:T17 Arg2:T15	
+T45	arg_duration 591 597	20 min
+R38	duration Arg1:T17 Arg2:T45	
+T46	ingredient 5 13	macaroni
+T47	ingredient 69 72	oil
+T48	ingredient 116 122	onions
+T49	ingredient 127 133	garlic
+T50	ingredient 187 192	flour
+T51	ingredient 197 204	mustard
+T52	ingredient 246 250	milk
+T53	ingredient 413 426	3 cups cheese
+R39	co-object Arg1:T12 Arg2:T1	
+T54	ingredient 568 584	remaining cheese
+R40	location Arg1:T17 Arg2:T11	

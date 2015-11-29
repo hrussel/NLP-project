@@ -1,0 +1,208 @@
+SENTID: 0
+SENT: Combine ketchup , brown sugar , and cider vinegar in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: ketchup , brown sugar , cider vinegar
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 3
+SENT: Spray two 9x5-inch loaf pans with cooking spray or line with aluminum foil for easier cleanup -LRB- see Cook 's Note -RRB- .
+PREDID: 0
+PRED: spray
+  DOBJ: two 9x5-inch loaf pans
+  PARG: cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: line
+  PARG: aluminum foil
+    PREP: with
+  PARG: easier cleanup -lrb- see cook 's
+    PREP: for
+
+PREDID: 2
+PRED: note
+
+
+SENTID: 4
+SENT: Place onion and green pepper in covered microwave container and cook until softened , 1 to 2 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: onion, green pepper
+  PARG: covered microwave container
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: softened , 1 to 2 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Set aside to cool .
+PREDID: 0
+PRED: set
+  OARG: aside
+  OARG: to cool
+
+
+SENTID: 6
+SENT: In large mixing bowl , combine garlic , eggs , thyme , seasoned salt , black pepper , mustard , Worcestershire sauce , hot sauce , milk , and oats .
+PREDID: 0
+PRED: combine
+  DOBJ: garlic , eggs , thyme , seasoned salt , black pepper , mustard , worcestershire sauce , hot sauce , milk , oats
+  PARG: large mixing bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 8
+SENT: Stir in cooked onion and green pepper .
+PREDID: 0
+PRED: stir
+  PARG: cooked onion, green pepper
+    PREP: in
+
+
+SENTID: 9
+SENT: Add ground beef , pork , and veal .
+PREDID: 0
+PRED: add
+  DOBJ: ground beef , pork , veal
+
+
+SENTID: 10
+SENT: With gloved hands , work all ingredients together until completely mixed and uniform .
+PREDID: 0
+PRED: work
+  DOBJ: all ingredients
+  PARG: gloved hands
+    PREP: with
+  PARG: completely mixed, uniform
+    PREP: until
+  OARG: together
+
+
+SENTID: 11
+SENT: Divide meatloaf mixture in half and pat half of mixture into each prepared loaf pan .
+PREDID: 0
+PRED: divide
+  DOBJ: meatloaf mixture
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: pat
+  DOBJ: half of mixture
+  PARG: each prepared loaf pan
+    PREP: into
+
+
+SENTID: 12
+SENT: Brush loaves with half of the glaze ;
+PREDID: 0
+PRED: brush
+  DOBJ: loaves
+  PARG: half of the glaze
+    PREP: with
+
+
+SENTID: 13
+SENT: set remainder of glaze aside .
+PREDID: 0
+PRED: set
+  DOBJ: remainder of glaze
+  OARG: aside
+
+
+SENTID: 14
+SENT: Bake in preheated oven for 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50 minutes
+    PREP: for
+
+
+SENTID: 15
+SENT: Remove pans from oven ;
+PREDID: 0
+PRED: remove
+  DOBJ: pans
+  PARG: oven
+    PREP: from
+
+
+SENTID: 16
+SENT: carefully drain fat .
+PREDID: 0
+PRED: drain
+  DOBJ: fat
+  OARG: carefully
+
+
+SENTID: 17
+SENT: Brush loaves with remaining glaze .
+PREDID: 0
+PRED: brush
+  DOBJ: loaves
+  PARG: remaining glaze
+    PREP: with
+
+
+SENTID: 18
+SENT: Return to oven and bake for 10 minutes more .
+PREDID: 0
+PRED: return
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: 10 minutes more
+    PREP: for
+
+
+SENTID: 19
+SENT: Remove pans from oven and allow meatloaf to stand for 15 minutes before slicing .
+PREDID: 0
+PRED: remove
+  DOBJ: pans
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  DOBJ: meatloaf
+  PARG: stand
+    PREP: to
+  PARG: 15 minutes
+    PREP: for
+  PARG: slicing
+    PREP: before
+

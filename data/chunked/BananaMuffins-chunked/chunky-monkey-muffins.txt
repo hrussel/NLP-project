@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Line 12 muffin cups with paper liners .
+PREDID: 0
+PRED: line
+  DOBJ: 12 muffin cups
+  PARG: paper liners
+    PREP: with
+
+
+SENTID: 2
+SENT: Puree bananas and dates in a food processor until smooth .
+PREDID: 0
+PRED: puree
+  DOBJ: bananas, dates
+  PARG: a food processor
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Add almond butter , coconut flour , coconut oil , palm shortening , cocoa powder , baking soda , vanilla extract , and salt .
+PREDID: 0
+PRED: add
+  DOBJ: almond butter , coconut flour , coconut oil , palm shortening , cocoa powder , baking soda , vanilla extract , salt
+
+
+SENTID: 4
+SENT: Pulse to make a thick batter , scraping sides to fully incorporate ingredients .
+PREDID: 0
+PRED: pulse
+  PARG: make a thick batter , scraping sides
+    PREP: to
+  OARG: to fully incorporate ingredients
+
+
+SENTID: 5
+SENT: Spoon batter into prepared muffin cups , filling them 2/3 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: batter
+  PARG: prepared muffin cups , filling them 2/3 full
+    PREP: into
+
+
+SENTID: 6
+SENT: Toss chocolate chips and walnuts together in a small bowl , then sprinkle on top of each muffin , pressing them gently into tops .
+PREDID: 0
+PRED: toss
+  DOBJ: chocolate chips, walnuts
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+  OARG: then
+
+PREDID: 1
+PRED: sprinkle
+  PARG: top of each muffin , pressing them
+    PREP: on
+  PARG: tops
+    PREP: into
+  OARG: gently
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean , 16 to 18 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: a toothpick inserted into the center of a muffin comes out clean , 16 to 18 minutes
+    PREP: until
+

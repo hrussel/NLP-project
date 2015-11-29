@@ -1,0 +1,105 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a mixing bowl , combine the pumpkin , condensed milk , egg , 3/4 teaspoon cinnamon , ginger , nutmeg and salt .
+PREDID: 0
+PRED: combine
+  DOBJ: the pumpkin , condensed milk , egg , 3/4 teaspoon cinnamon , ginger , nutmeg, salt
+  PARG: a mixing bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour batter into the pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: the pie crust
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake at 425 degrees F -LRB- 220 degrees C -RRB- for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: at
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Reduce oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: reduce
+  DOBJ: oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: In a small bowl , combine brown sugar , flour , and remaining 1/2 teaspoon cinnamon .
+PREDID: 0
+PRED: combine
+  DOBJ: remaining 1/2 teaspoon cinnamon
+  PARG: a small bowl
+    PREP: in
+  OARG: brown sugar , flour
+
+
+SENTID: 6
+SENT: Cut in the butter or margarine until the mixture is crumbly .
+PREDID: 0
+PRED: cut
+  PARG: the butter or margarine
+    PREP: in
+  PARG: the mixture is crumbly
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in walnuts .
+PREDID: 0
+PRED: stir
+  PARG: walnuts
+    PREP: in
+
+
+SENTID: 8
+SENT: Sprinkle mixture evenly over the pie .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: mixture
+  PARG: the pie
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 9
+SENT: Bake pie for 40 minutes or until a knife inserted one inch from the edge comes out clean .
+PREDID: 0
+PRED: bake
+  DOBJ: pie
+  PARG: 40 minutes
+    PREP: for
+  PARG: a knife inserted one inch from the edge comes out clean
+    PREP: until
+
+
+SENTID: 10
+SENT: Cool and garnish as desired .
+PREDID: 0
+PRED: cool
+  PARG: desired
+    PREP: as
+
+PREDID: 1
+PRED: garnish
+

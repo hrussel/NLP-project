@@ -1,0 +1,93 @@
+T1	predicate 0 7	Preheat
+T2	predicate 55 58	oil
+T3	predicate 84 88	Fill
+T4	predicate 131 136	bring
+T5	predicate 198 205	stir in
+T6	predicate 245 249	Cook
+T7	predicate 377 382	Drain
+T8	predicate 389 393	Melt
+T9	predicate 417 421	stir
+T10	predicate 490 496	Mix in
+T11	predicate 521 524	Add
+T12	predicate 542 546	stir
+T13	predicate 573 577	Pour
+T14	predicate 613 617	Bake
+T15	arg_duration 618 655	until top is very brown, about 1 hour
+R1	duration Arg1:T14 Arg2:T15	
+R2	object Arg1:T14 Arg2:T13	
+R3	location Arg1:T14 Arg2:T1	
+T16	arg_object 578 585	mixture
+R4	object Arg1:T13 Arg2:T16	
+T17	arg_location 586 611	into prepared baking dish
+R5	location Arg1:T13 Arg2:T17	
+T18	Evolution 591 611	prepared baking dish
+E1	Evolution:T18 Cause:T2
+T19	Evolution 578 585	mixture
+E2	Evolution:T19 Cause:T12
+T20	arg_other 547 571	to blend all ingredients
+R6	other Arg1:T12 Arg2:T20	
+T21	arg_object 525 540	the beaten eggs
+R7	object Arg1:T11 Arg2:T21	
+R8	co-object Arg1:T11 Arg2:T10	
+R9	object Arg1:T12 Arg2:T11	
+T22	arg_object 497 506	the sugar
+T23	arg_object 511 519	cinnamon
+R10	object Arg1:T10 Arg2:T22	
+R11	object Arg1:T10 Arg2:T23	
+R12	co-object Arg1:T10 Arg2:T9	
+T24	arg_object 431 450	the drained noodles
+T25	arg_object 452 466	cottage cheese
+T26	arg_object 468 472	salt
+T27	arg_object 478 488	applesauce
+R13	object Arg1:T9 Arg2:T24	
+R14	object Arg1:T9 Arg2:T25	
+R15	object Arg1:T9 Arg2:T26	
+R16	object Arg1:T9 Arg2:T27	
+T28	Evolution 431 450	the drained noodles
+E3	Evolution:T28 Cause:T7
+R17	co-object Arg1:T9 Arg2:T8	
+T29	arg_object 394 400	butter
+T30	arg_location 401 411	in the pot
+R18	object Arg1:T8 Arg2:T29	
+R19	location Arg1:T8 Arg2:T30	
+R20	object Arg1:T7 Arg2:T6	
+T31	arg_object 250 259	the pasta
+R21	object Arg1:T6 Arg2:T31	
+T32	Evolution 250 259	the pasta
+E4	Evolution:T32 Cause:T37
+T33	arg_other 260 269	uncovered
+R22	other Arg1:T6 Arg2:T33	
+T34	arg_other 271 292	stirring occasionally
+R23	other Arg1:T6 Arg2:T34	
+T35	arg_duration 294 375	until the pasta has cooked through, but is still firm to the bite, 4 to 5 minutes
+R24	duration Arg1:T6 Arg2:T35	
+T36	arg_object 206 221	the egg noodles
+R25	object Arg1:T5 Arg2:T36	
+T37	predicate 227 233	return
+R26	object Arg1:T37 Arg2:T5	
+T38	arg_other 234 243	to a boil
+R27	other Arg1:T37 Arg2:T38	
+T39	arg_object 89 100	a large pot
+T40	arg_co-object 101 126	with lightly salted water
+R28	object Arg1:T3 Arg2:T39	
+R29	co-object Arg1:T3 Arg2:T40	
+R30	object Arg1:T4 Arg2:T3	
+T41	arg_other 137 169	to a rolling boil over high heat
+R31	other Arg1:T4 Arg2:T41	
+R32	co-object Arg1:T5 Arg2:T4	
+T42	arg_object 59 82	a 9x13-inch baking dish
+R33	object Arg1:T2 Arg2:T42	
+T43	arg_object 8 12	oven
+T44	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R34	object Arg1:T1 Arg2:T43	
+R35	duration Arg1:T1 Arg2:T44	
+T45	ingredient 106 126	lightly salted water
+T46	ingredient 206 221	the egg noodles
+R36	co-object Arg1:T7 Arg2:T6	
+T47	ingredient 394 400	butter
+T48	ingredient 452 466	cottage cheese
+T49	ingredient 468 472	salt
+T50	ingredient 478 488	applesauce
+T51	ingredient 497 506	the sugar
+T52	ingredient 511 519	cinnamon
+T53	ingredient 525 540	the beaten eggs

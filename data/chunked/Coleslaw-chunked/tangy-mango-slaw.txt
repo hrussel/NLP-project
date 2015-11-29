@@ -1,0 +1,39 @@
+SENTID: 0
+SENT: In a bowl combine cabbage , onion , mango , walnuts .
+PREDID: 0
+PRED: combine
+  DOBJ: cabbage , onion , mango , walnuts
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: In a cup , dissolve Splenda in vinegar .
+PREDID: 0
+PRED: dissolve
+  DOBJ: splenda
+  PARG: a cup
+    PREP: in
+  PARG: vinegar
+    PREP: in
+
+
+SENTID: 2
+SENT: Add to cabbage , and toss .
+PREDID: 0
+PRED: add
+  PARG: cabbage
+    PREP: to
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 3
+SENT: Serve cold or at room temperature .
+PREDID: 0
+PRED: serve
+  DOBJ: cold
+  PARG: room temperature
+    PREP: at
+

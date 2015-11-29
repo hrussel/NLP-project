@@ -1,0 +1,77 @@
+SENTID: 0
+SENT: Cook pasta in a large pot of boiling salted water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of boiling salted water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large skillet , cook ground beef , onion , and mushrooms .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onion , mushrooms
+  PARG: a large skillet
+    PREP: in
+
+
+SENTID: 3
+SENT: Drain grease .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 4
+SENT: Mix in garlic salt , ground black pepper , sugar , Worcestershire sauce , and tomato sauce .
+PREDID: 0
+PRED: mix
+  PARG: garlic salt , ground black pepper , sugar , worcestershire sauce , tomato sauce
+    PREP: in
+
+
+SENTID: 5
+SENT: Simmer for 30 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: 30 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: In a greased 2 quart casserole dish , layer half of the cooked egg noodles , then half of the sauce mixture , followed by half of the grated cheese .
+PREDID: 0
+PRED: layer
+  DOBJ: half of the sauce mixture , followed
+  PARG: a greased 2 quart casserole dish
+    PREP: in
+  PARG: half of the grated cheese
+    PREP: by
+  OARG: then
+  OARG: half of the cooked egg noodles
+
+
+SENTID: 7
+SENT: Repeat .
+PREDID: 0
+PRED: repeat
+
+
+SENTID: 8
+SENT: Bake in a preheated 375 degree -LRB- 190 degree C -RRB- oven for 20 to 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 375 degree -lrb- 190 degree c -rrb- oven
+    PREP: in
+  PARG: 20 to 30 minutes
+    PREP: for
+

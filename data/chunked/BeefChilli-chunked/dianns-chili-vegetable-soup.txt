@@ -1,0 +1,59 @@
+SENTID: 0
+SENT: In a large soup pot , saute ground beef until brown .
+PREDID: 0
+PRED: saute
+  DOBJ: ground beef
+  PARG: a large soup pot
+    PREP: in
+  PARG: brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 2
+SENT: Add celery , onions , green bell peppers , cabbage , kidney beans , vegetable juice , tomato juice , corn , diced tomatoes and chili powder .
+PREDID: 0
+PRED: add
+  DOBJ: celery , onions , green bell peppers , cabbage , kidney beans , vegetable juice , tomato juice , corn , diced tomatoes, chili powder
+
+
+SENTID: 3
+SENT: Bring to a boil , then reduce heat to low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 4
+SENT: Cover pot and let simmer about one hour , or until celery is tender .
+PREDID: 0
+PRED: cover
+  DOBJ: pot, let simmer
+  PARG: one hour
+    PREP: about
+  PARG: celery is tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Add garlic powder and salt and pepper to taste .
+PREDID: 0
+PRED: add
+  DOBJ: garlic powder, salt, pepper
+  PARG: taste
+    PREP: to
+

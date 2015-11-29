@@ -1,0 +1,190 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a rolling boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Stir in egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Cook the noodles uncovered , stirring occasionally , until cooked through but still slightly firm , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the noodles uncovered , stirring
+  PARG: cooked through but still slightly firm , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 5
+SENT: Sprinkle both sides of chicken breasts with salt and seasoned salt .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: both sides of chicken breasts
+  PARG: salt, seasoned salt
+    PREP: with
+
+
+SENTID: 6
+SENT: Heat vegetable oil in a large skillet over medium heat and cook chicken breast halves in the hot oil until browned and no longer pink in the middle , 5 to 8 minutes per side .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  DOBJ: chicken breast halves
+  PARG: the hot oil
+    PREP: in
+  PARG: browned, no longer pink in the middle , 5 to 8 minutes per side
+    PREP: until
+
+
+SENTID: 7
+SENT: Set chicken breasts aside .
+PREDID: 0
+PRED: set
+  DOBJ: chicken breasts
+  OARG: aside
+
+
+SENTID: 8
+SENT: Mix cream of mushroom and cream of chicken soups , Cheddar cheese , mushrooms , and garlic in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cream of mushroom, cream of chicken soups , cheddar cheese , mushrooms , garlic
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 9
+SENT: Spread noodles in an even layer into the bottom of an 8x8-inch baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: noodles
+  PARG: an even layer
+    PREP: in
+  PARG: the bottom of an 8x8-inch baking dish
+    PREP: into
+
+
+SENTID: 10
+SENT: Arrange asparagus spears in a layer over the noodles .
+PREDID: 0
+PRED: arrange
+  DOBJ: asparagus spears
+  PARG: a layer
+    PREP: in
+  PARG: the noodles
+    PREP: over
+
+
+SENTID: 11
+SENT: Dice chicken breasts and spread over the asparagus spears .
+PREDID: 0
+PRED: dice
+  DOBJ: chicken breasts
+
+PREDID: 1
+PRED: spread
+  PARG: the asparagus spears
+    PREP: over
+
+
+SENTID: 12
+SENT: Pour soup mixture over the asparagus .
+PREDID: 0
+PRED: pour
+  DOBJ: soup mixture
+  PARG: the asparagus
+    PREP: over
+
+
+SENTID: 13
+SENT: Sprinkle cracker crumbs evenly over the casserole ;
+PREDID: 0
+PRED: sprinkle
+  DOBJ: cracker crumbs
+  PARG: the casserole
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 14
+SENT: drizzle melted butter over the crumbs .
+PREDID: 0
+PRED: drizzle
+  DOBJ: melted butter
+  PARG: the crumbs
+    PREP: over
+
+
+SENTID: 15
+SENT: Cover the dish and bake in the preheated oven for 15 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: the dish
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 16
+SENT: Remove the cover and bake until the casserole is bubbling and the crumbs are browned , about 15 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the cover
+
+PREDID: 1
+PRED: bake
+  PARG: the casserole is bubbling, the crumbs are browned , about 15 more minutes
+    PREP: until
+
+
+SENTID: 17
+SENT: Allow to stand 10 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: stand 10 minutes
+    PREP: to
+  PARG: serving
+    PREP: before
+

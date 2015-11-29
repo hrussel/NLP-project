@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Heat 1 teaspoon of the oil in a wok over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 teaspoon of the oil
+  PARG: a wok
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add the carrots and celery and stir fry for 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the carrots, celery, stir
+
+PREDID: 1
+PRED: fry
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Add remaining 1 teaspoon oil , then add the chicken and stir fry for 5 more minutes .
+PREDID: 0
+PRED: add
+  DOBJ: remaining 1 teaspoon oil
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: the chicken, stir
+
+PREDID: 2
+PRED: fry
+  PARG: 5 more minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: In a small bowl , dissolve the cornstarch into the orange juice .
+PREDID: 0
+PRED: dissolve
+  DOBJ: the cornstarch
+  PARG: a small bowl
+    PREP: in
+  PARG: the orange juice
+    PREP: into
+
+
+SENTID: 4
+SENT: Mix in the soy sauce , honey and ginger .
+PREDID: 0
+PRED: mix
+  PARG: the soy sauce , honey, ginger
+    PREP: in
+
+
+SENTID: 5
+SENT: Add this sauce to the wok and cook over medium heat until thickened .
+PREDID: 0
+PRED: add
+  DOBJ: this sauce
+  PARG: the wok
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: thickened
+    PREP: until
+
+
+SENTID: 6
+SENT: Top with the cashews and green onions .
+PREDID: 0
+PRED: top
+  PARG: the cashews, green onions
+    PREP: with
+

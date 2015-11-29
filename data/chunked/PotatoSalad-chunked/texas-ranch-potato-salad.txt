@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add whole potatoes , and cook until tender , 15 to 20 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: whole potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender , 15 to 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , run under cold water to cool , and chop into 1 inch cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: run
+  PARG: cold water
+    PREP: under
+  OARG: to cool
+
+PREDID: 2
+PRED: chop
+  PARG: 1 inch cubes
+    PREP: into
+
+
+SENTID: 3
+SENT: Transfer to a large serving bowl , and refrigerate until completely chilled , about 2 hours .
+PREDID: 0
+PRED: transfer
+  PARG: a large serving bowl
+    PREP: to
+
+PREDID: 1
+PRED: refrigerate
+  PARG: completely chilled , about 2 hours
+    PREP: until
+
+
+SENTID: 4
+SENT: In a small bowl , stir together the ranch dressing mix , mayonnaise and green onion .
+PREDID: 0
+PRED: stir
+  DOBJ: the ranch dressing
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: mix
+  DOBJ: mayonnaise, green onion
+
+
+SENTID: 5
+SENT: Cover , and refrigerate for about 2 hours to blend flavors .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: refrigerate
+  PARG: about 2 hours
+    PREP: for
+  PARG: blend flavors
+    PREP: to
+
+
+SENTID: 6
+SENT: Wrap bacon in paper towels and place on a plate .
+PREDID: 0
+PRED: wrap
+  DOBJ: bacon
+  PARG: paper towels
+    PREP: in
+
+PREDID: 1
+PRED: place
+  PARG: a plate
+    PREP: on
+
+
+SENTID: 7
+SENT: Cook in the microwave until crisp , about 15 minutes depending on the power of your microwave .
+PREDID: 0
+PRED: cook
+  PARG: the microwave
+    PREP: in
+  PARG: crisp , about 15 minutes depending on the power of your microwave
+    PREP: until
+
+
+SENTID: 8
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 9
+SENT: Stir the mayonnaise mixture into the bowl of potatoes .
+PREDID: 0
+PRED: stir
+  DOBJ: the mayonnaise mixture
+  PARG: the bowl of potatoes
+    PREP: into
+
+
+SENTID: 10
+SENT: Crumble bacon into the bowl , and stir to distribute .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+  PARG: the bowl
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  OARG: to distribute
+
+
+SENTID: 11
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

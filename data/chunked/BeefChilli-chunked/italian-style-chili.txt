@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Crumble ground beef into a large stock pot over medium-high heat .
+PREDID: 0
+PRED: crumble
+  DOBJ: ground beef
+  PARG: a large stock pot
+    PREP: into
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Add onions , and cook , stirring , until beef is evenly browned .
+PREDID: 0
+PRED: add
+  DOBJ: onions
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: beef is evenly browned
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain grease , if necessary .
+PREDID: 0
+PRED: drain
+  DOBJ: grease
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 3
+SENT: Pour in the spaghetti sauce , water , sugar , tomatoes , mushrooms , pepperoni , bouillon , chili powder and kidney beans .
+PREDID: 0
+PRED: pour
+  PARG: the spaghetti sauce , water , sugar , tomatoes , mushrooms , pepperoni , bouillon , chili powder, kidney beans
+    PREP: in
+
+
+SENTID: 4
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 5
+SENT: Reduce heat , and simmer uncovered for 30 minutes , stirring occasionally , to blend flavors .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat , simmer uncovered
+  PARG: 30 minutes , stirring
+    PREP: for
+  PARG: blend flavors
+    PREP: to
+  OARG: occasionally
+

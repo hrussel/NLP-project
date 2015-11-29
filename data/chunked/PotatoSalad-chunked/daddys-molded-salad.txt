@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Grease or butter one 2 quart gelatin mold pan .
+PREDID: 0
+PRED: grease
+  DOBJ: one 2 quart gelatin mold pan
+
+PREDID: 1
+PRED: butter
+
+
+SENTID: 1
+SENT: In a small saucepan , bring 1 cup of water to a boil ;
+PREDID: 0
+PRED: bring
+  DOBJ: 1 cup of water
+  PARG: a small saucepan
+    PREP: in
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: add gelatin and mix until dissolved .
+PREDID: 0
+PRED: add
+  DOBJ: gelatin
+
+PREDID: 1
+PRED: mix
+  PARG: dissolved
+    PREP: until
+
+
+SENTID: 3
+SENT: Remove from heat and let cool to room temperature .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+  PARG: room temperature
+    PREP: to
+
+
+SENTID: 4
+SENT: Stir in mayonnaise , cottage cheese , pineapples , walnuts and marshmallows .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise , cottage cheese , pineapples , walnuts, marshmallows
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour into molded pan and chill until firm .
+PREDID: 0
+PRED: pour
+  PARG: molded pan
+    PREP: into
+
+PREDID: 1
+PRED: chill
+  PARG: firm
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove onto serving dish and garnish with halved cherries .
+PREDID: 0
+PRED: remove
+  PARG: serving dish
+    PREP: onto
+
+PREDID: 1
+PRED: garnish
+  PARG: halved cherries
+    PREP: with
+

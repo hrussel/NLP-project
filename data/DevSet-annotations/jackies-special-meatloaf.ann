@@ -1,0 +1,61 @@
+T1	predicate 0 7	Preheat
+T2	arg_object 8 12	oven
+T3	arg_duration 13 45	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T2	
+R2	duration Arg1:T1 Arg2:T3	
+T4	predicate 55 61	grease
+T6	arg_other 47 54	Lightly
+R4	other Arg1:T4 Arg2:T6	
+T8	arg_object 99 103	eggs
+T9	arg_object 105 110	panko
+T10	arg_object 116 131	1/2 cup ketchup
+T11	arg_location 132 147	in a large bowl
+T12	predicate 76 81	Place
+R6	object Arg1:T12 Arg2:T8	
+R7	object Arg1:T12 Arg2:T9	
+R8	object Arg1:T12 Arg2:T10	
+R9	location Arg1:T12 Arg2:T11	
+T13	predicate 149 152	Mix
+R10	object Arg1:T13 Arg2:T12	
+T14	predicate 166 172	season
+R11	object Arg1:T14 Arg2:T13	
+T21	predicate 252 256	Form
+R19	object Arg1:T21 Arg2:T14	
+T22	arg_other 257 274	into a loaf shape
+R20	other Arg1:T21 Arg2:T22	
+T23	predicate 280 285	place
+R21	other Arg1:T23 Arg2:T21	
+T24	arg_location 286 312	on the prepared baking pan
+R22	location Arg1:T23 Arg2:T24	
+T25	predicate 314 321	Drizzle
+R24	object Arg1:T25 Arg2:T23	
+T27	predicate 354 358	Bake
+T28	arg_duration 359 365	1 hour
+T29	arg_location 366 387	in the preheated oven
+T30	arg_duration 389 447	to an internal temperature of 160 degrees F (70 degrees C)
+R25	object Arg1:T27 Arg2:T25	
+R26	duration Arg1:T27 Arg2:T28	
+R28	duration Arg1:T27 Arg2:T30	
+T32	Evolution 369 387	the preheated oven
+E2	Evolution:T32 Cause:T1
+T31	Evolution 289 312	the prepared baking pan
+E1	Evolution:T31 Cause:T4
+T7	arg_object 82 97	the ground beef
+R5	object Arg1:T12 Arg2:T7	
+T33	ingredient 82 97	the ground beef
+T34	ingredient 99 103	eggs
+T35	ingredient 105 110	panko
+T36	ingredient 116 131	1/2 cup ketchup
+T15	arg_co-object 173 250	with salt-free seasoning blend, garlic powder, onion powder, salt, and pepper
+R12	co-object Arg1:T14 Arg2:T15	
+T16	ingredient 178 203	salt-free seasoning blend
+T17	ingredient 205 218	garlic powder
+T18	ingredient 220 232	onion powder
+T19	ingredient 234 238	salt
+T20	ingredient 244 250	pepper
+T26	arg_co-object 322 352	with remaining 1/4 cup ketchup
+R13	co-object Arg1:T25 Arg2:T26	
+T37	ingredient 327 352	remaining 1/4 cup ketchup
+T5	arg_object 62 74	a baking pan
+R3	object Arg1:T4 Arg2:T5	
+R14	location Arg1:T27 Arg2:T29	

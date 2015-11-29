@@ -1,0 +1,47 @@
+SENTID: 0
+SENT: Beat together egg , milk , salt , desired spices and vanilla .
+PREDID: 0
+PRED: beat
+  DOBJ: egg , milk , salt , desired spices, vanilla
+  OARG: together
+
+
+SENTID: 1
+SENT: Heat a lightly oiled griddle of skillet over medium-high flame .
+PREDID: 0
+PRED: heat
+  DOBJ: a lightly oiled griddle of skillet
+  PARG: medium-high flame
+    PREP: over
+
+
+SENTID: 2
+SENT: Dunk each slice of bread in egg mixture , soaking both sides .
+PREDID: 0
+PRED: dunk
+  DOBJ: each slice of bread
+  PARG: egg mixture
+    PREP: in
+
+
+SENTID: 3
+SENT: Place in pan , and cook on both sides until golden .
+PREDID: 0
+PRED: place
+  PARG: pan
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: both sides
+    PREP: on
+  PARG: golden
+    PREP: until
+
+
+SENTID: 4
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring water to boil in a saucepan .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: boil
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 2
+SENT: Cook macaroni at a boil , stirring occasionally , until tender , 7 to 8 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni
+  PARG: a boil , stirring
+    PREP: at
+  PARG: tender , 7 to 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Return macaroni to the saucepan .
+PREDID: 0
+PRED: return
+  DOBJ: macaroni
+  PARG: the saucepan
+    PREP: to
+
+
+SENTID: 5
+SENT: Stir cheese sauce mixture from the packet , margarine , and milk into the macaroni until the margarine melts and the macaroni is evenly coated in sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: cheese sauce mixture
+  PARG: the packet , margarine , milk
+    PREP: from
+  PARG: the macaroni
+    PREP: into
+  PARG: the margarine melts, the macaroni is evenly coated in sauce
+    PREP: until
+
+
+SENTID: 6
+SENT: Add tuna and mushrooms ;
+PREDID: 0
+PRED: add
+  DOBJ: tuna, mushrooms
+
+
+SENTID: 7
+SENT: stir .
+PREDID: 0
+PRED: stir
+
+
+SENTID: 8
+SENT: Pour macaroni mixture into a small casserole dish ;
+PREDID: 0
+PRED: pour
+  DOBJ: macaroni mixture
+  PARG: a small casserole dish
+    PREP: into
+
+
+SENTID: 9
+SENT: top with bread crumbs .
+PREDID: 0
+PRED: top
+  PARG: bread crumbs
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in preheated oven until hot , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: hot , about 30 minutes
+    PREP: until
+

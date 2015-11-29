@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Cook noodles al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles al dente
+
+
+SENTID: 1
+SENT: Drain and rinse .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 2
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: In a large mixing bowl , mix together cottage cheese , sour cream , parmesan , 1 egg , 1 cup cheddar cheese , Worcestershire sauce , milk , butter or margarine , and salt and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: cottage cheese , sour cream , parmesan , 1 egg , 1 cup cheddar cheese , worcestershire sauce , milk , butter or margarine , salt, pepper
+  PARG: a large mixing bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in cooked noodles .
+PREDID: 0
+PRED: stir
+  PARG: cooked noodles
+    PREP: in
+
+
+SENTID: 5
+SENT: Spread into a 9 inch square baking dish , top with remaining shredded cheese .
+PREDID: 0
+PRED: spread
+  PARG: a 9 inch square baking dish
+    PREP: into
+
+PREDID: 1
+PRED: top
+  PARG: remaining shredded cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Bake at 300 degrees F -LRB- 150 degrees C -RRB- for one hour , or until set .
+PREDID: 0
+PRED: bake
+  PARG: 300 degrees f -lrb- 150 degrees c -rrb-
+    PREP: at
+  PARG: one hour
+    PREP: for
+  PARG: set
+    PREP: until
+

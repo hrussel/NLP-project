@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Lightly coat the bottom of a nonstick skillet or wok with oil .
+PREDID: 0
+PRED: coat
+  DOBJ: the bottom of a nonstick skillet or wok
+  PARG: oil
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 1
+SENT: Over medium heat , cook and stir the chicken strips until lightly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the chicken strips
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: lightly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Add carrots and onion , and cook for 3 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: carrots, onion
+
+PREDID: 1
+PRED: cook
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Add mushrooms , zucchini , and squash .
+PREDID: 0
+PRED: add
+  DOBJ: mushrooms , zucchini , squash
+
+
+SENTID: 4
+SENT: Cook until squash begins to soften .
+PREDID: 0
+PRED: cook
+  PARG: squash begins to soften
+    PREP: until
+
+
+SENTID: 5
+SENT: Add pecans , and sprinkle season with pepper .
+PREDID: 0
+PRED: add
+  DOBJ: pecans , sprinkle
+
+PREDID: 1
+PRED: season
+  PARG: pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Toss in pan for 2 to 3 minutes and serve .
+PREDID: 0
+PRED: toss
+  PARG: pan
+    PREP: in
+  PARG: 2 to 3 minutes
+    PREP: for
+
+PREDID: 1
+PRED: serve
+

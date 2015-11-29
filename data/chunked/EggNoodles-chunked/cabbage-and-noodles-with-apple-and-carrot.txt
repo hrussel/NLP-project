@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Melt butter in a large skillet over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir cabbage , carrot , and apple until cabbage is tender , 10 to 12 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: cabbage , carrot , apple
+
+PREDID: 1
+PRED: stir
+  PARG: cabbage is tender , 10 to 12 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Stir in egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles uncovered , stirring
+  PARG: tender but still slightly firm , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 6
+SENT: Gently stir noodles into cabbage mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: noodles
+  PARG: cabbage mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 7
+SENT: season to taste with salt and black pepper .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, black pepper
+    PREP: with
+

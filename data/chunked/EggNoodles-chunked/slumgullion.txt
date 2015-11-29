@@ -1,0 +1,78 @@
+SENTID: 0
+SENT: In a large skillet , cook and stir ground meat until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: ground meat
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain off excess fat .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+
+SENTID: 2
+SENT: Stir in corn and tomato soup .
+PREDID: 0
+PRED: stir
+  PARG: corn, tomato soup
+    PREP: in
+
+
+SENTID: 3
+SENT: Simmer while the noodles are cooking , about 10 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: the noodles are cooking
+    PREP: while
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 4
+SENT: Cook pasta in a large pot of boiling water until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of boiling water
+    PREP: in
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Stir noodles into ground beef mixture , and sprinkle parmesan cheese on top .
+PREDID: 0
+PRED: stir
+  DOBJ: noodles
+  PARG: ground beef mixture
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: parmesan cheese
+  PARG: top
+    PREP: on
+
+
+SENTID: 7
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

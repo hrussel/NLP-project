@@ -1,0 +1,132 @@
+SENTID: 0
+SENT: Spray a large skillet with cooking spray , and cook the flank steak and green peppers over medium heat until the steak pieces have begun to brown , about 10 minutes .
+PREDID: 0
+PRED: spray
+  DOBJ: a large skillet
+  PARG: cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: cook
+  DOBJ: the flank steak, green peppers
+  PARG: medium heat
+    PREP: over
+  PARG: the steak pieces have begun to brown , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Transfer steak and peppers into a large saucepan , and stir in the beef consomme and French onion soup .
+PREDID: 0
+PRED: transfer
+  DOBJ: steak, peppers
+  PARG: a large saucepan
+    PREP: into
+
+PREDID: 1
+PRED: stir
+  PARG: the beef consomme, french onion soup
+    PREP: in
+
+
+SENTID: 2
+SENT: Bring to a boil , reduce heat to a simmer , and cover pan .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: a simmer
+    PREP: to
+
+PREDID: 2
+PRED: cover
+  DOBJ: pan
+
+
+SENTID: 3
+SENT: Simmer until the beef is tender , about 1 hour and 20 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: the beef is tender , about 1 hour, 20 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Turn off heat .
+PREDID: 0
+PRED: turn
+  PARG: heat
+    PREP: off
+
+
+SENTID: 5
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Once the water is boiling , stir in the egg noodles , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the egg noodles
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 7
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 8
+SENT: Drain well in a colander set in the sink .
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+  OARG: well
+
+
+SENTID: 9
+SENT: Stir the sour cream into the meat mixture until thoroughly combined , and serve over the cooked noodles .
+PREDID: 0
+PRED: stir
+  DOBJ: the sour cream
+  PARG: the meat mixture
+    PREP: into
+  PARG: thoroughly combined
+    PREP: until
+
+PREDID: 1
+PRED: serve
+  PARG: the cooked noodles
+    PREP: over
+

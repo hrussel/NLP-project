@@ -1,0 +1,147 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a large casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a large casserole dish
+
+
+SENTID: 2
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 3
+SENT: Add egg noodles and cook for 8 to 10 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: 8 to 10 minutes
+    PREP: for
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 4
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Blend together cottage cheese and cream cheese until smooth .
+PREDID: 0
+PRED: blend
+  DOBJ: cottage cheese, cream cheese
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 6
+SENT: Mix in sour cream , vanilla , sugar and eggs .
+PREDID: 0
+PRED: mix
+  PARG: sour cream , vanilla , sugar, eggs
+    PREP: in
+
+
+SENTID: 7
+SENT: When noodles are done stir together 1/2 cup butter and noodles in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: 1/2 cup butter, noodles
+  PARG: a large bowl
+    PREP: in
+  OARG: when noodles are done
+  OARG: together
+
+
+SENTID: 8
+SENT: Combine cheese mixture and noodles ;
+PREDID: 0
+PRED: combine
+  DOBJ: cheese mixture, noodles
+
+
+SENTID: 9
+SENT: Blend well .
+PREDID: 0
+PRED: blend
+  OARG: well
+
+
+SENTID: 10
+SENT: Place all in one large casserole dish .
+PREDID: 0
+PRED: place
+  DOBJ: all in one large casserole dish
+
+
+SENTID: 11
+SENT: Mix together graham cracker crumbs , butter and sugar until it looks like large crumbs .
+PREDID: 0
+PRED: mix
+  DOBJ: graham cracker crumbs , butter, sugar
+  PARG: it looks like large crumbs
+    PREP: until
+  OARG: together
+
+
+SENTID: 12
+SENT: Sprinkle evenly over top of noodle mixture .
+PREDID: 0
+PRED: sprinkle
+  PARG: top of noodle mixture
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 13
+SENT: Bake at 350 degrees for 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees
+    PREP: at
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 14
+SENT: Lower oven to 325 degrees and continue baking for 45 minutes more .
+PREDID: 0
+PRED: lower
+  DOBJ: oven
+  PARG: 325 degrees, continue baking
+    PREP: to
+  PARG: 45 minutes more
+    PREP: for
+
+
+SENTID: 15
+SENT: Allow to cool before cutting and serve warm .
+PREDID: 0
+PRED: allow
+  PARG: cutting
+    PREP: before
+  OARG: to cool
+
+PREDID: 1
+PRED: serve
+  DOBJ: warm
+

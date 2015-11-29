@@ -1,0 +1,64 @@
+SENTID: 0
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 1
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Crumble and set aside .
+PREDID: 0
+PRED: crumble
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 3
+SENT: In a large bowl , combine the bacon , cabbage and dressing .
+PREDID: 0
+PRED: combine
+  DOBJ: the bacon , cabbage, dressing
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 5
+SENT: Sprinkle with halved cherry tomatoes and blue cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: halved cherry tomatoes, blue cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Refrigerate and serve chilled .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: chilled
+
+PREDID: 1
+PRED: serve
+

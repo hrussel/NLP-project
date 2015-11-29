@@ -1,0 +1,96 @@
+SENTID: 0
+SENT: Mix together 3/4 to 1 cup brown sugar , 1/2 teaspoon ground cinnamon , and 1/4 teaspoon salt .
+PREDID: 0
+PRED: mix
+  DOBJ: 3/4 to 1 cup brown sugar , 1/2 teaspoon ground cinnamon , 1/4 teaspoon salt
+  OARG: together
+
+
+SENTID: 1
+SENT: Stir in 1 canned pumpkin , eggs , corn syrup , and 1 teaspoon vanilla .
+PREDID: 0
+PRED: stir
+  PARG: 1 canned pumpkin , eggs , corn syrup , 1 teaspoon vanilla
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour mixture into pie shell and sprinkle with pecans .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: pie shell
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: pecans
+    PREP: with
+
+
+SENTID: 3
+SENT: Arrange additional pecans , if desired , for a `` pretty '' pie .
+PREDID: 0
+PRED: arrange
+  DOBJ: additional pecans
+  PARG: desired
+    PREP: if
+  PARG: a
+    PREP: for
+  OARG: pretty
+
+
+SENTID: 4
+SENT: Bake 350 degrees F -LRB- 175 degrees C -RRB- for 40 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: 350 degrees f -lrb- 175 degrees c -rrb-
+  PARG: 40 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Cool .
+PREDID: 0
+PRED: cool
+
+
+SENTID: 6
+SENT: Serve with spicy whipped cream .
+PREDID: 0
+PRED: serve
+  PARG: spicy whipped cream
+    PREP: with
+
+
+SENTID: 7
+SENT: In medium bowl , mix 1/2 cup brown sugar , 1/2 teaspoon cinnamon , 1/8 teaspoon nutmeg .
+PREDID: 0
+PRED: mix
+  DOBJ: 1/2 cup brown sugar , 1/2 teaspoon cinnamon , 1/8 teaspoon nutmeg
+  PARG: medium bowl
+    PREP: in
+
+
+SENTID: 8
+SENT: Stir in 3/4 cup whipping cream and 1/2 teaspoon vanilla .
+PREDID: 0
+PRED: stir
+  PARG: 3/4 cup whipping cream, 1/2 teaspoon vanilla
+    PREP: in
+
+
+SENTID: 9
+SENT: Chill 1 hour .
+PREDID: 0
+PRED: chill
+  OARG: 1 hour
+
+
+SENTID: 10
+SENT: Whip until stiff .
+PREDID: 0
+PRED: whip
+  PARG: stiff
+    PREP: until
+

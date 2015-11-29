@@ -1,0 +1,98 @@
+SENTID: 0
+SENT: Put onion , ham , celery , chicken broth , water , and chicken tenderloins in 6 quart stock pot .
+PREDID: 0
+PRED: put
+  DOBJ: onion , ham , celery , chicken broth , water , chicken tenderloins
+  PARG: 6 quart stock pot
+    PREP: in
+
+
+SENTID: 1
+SENT: With stock pot partially covered bring to a boil , lower heat and simmer for about 15 to 20 minutes or until chicken is cooked through .
+PREDID: 0
+PRED: bring
+  DOBJ: covered
+  PARG: stock pot
+    PREP: with
+  PARG: a boil
+    PREP: to
+  OARG: partially
+
+PREDID: 1
+PRED: lower
+  DOBJ: heat
+
+PREDID: 2
+PRED: simmer
+  PARG: about 15 to 20 minutes
+    PREP: for
+  PARG: chicken is cooked through
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove chicken and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Add corn , potatoes , milk , thyme , and pepper to pot , salt is optional .
+PREDID: 0
+PRED: add
+  DOBJ: corn , potatoes , milk , thyme , pepper
+  PARG: pot , salt is optional
+    PREP: to
+
+
+SENTID: 4
+SENT: Simmer , uncovered until potatoes are tender .
+PREDID: 0
+PRED: simmer
+  DOBJ: uncovered
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Cut chicken tenderloins into 1/2 inch pieces and return to stock pot .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken tenderloins
+  PARG: 1/2 inch pieces
+    PREP: into
+
+PREDID: 1
+PRED: return
+  PARG: stock pot
+    PREP: to
+
+
+SENTID: 6
+SENT: Thicken soup with cornstarch or flour , adding in 2 tablespoon increments and stirring .
+PREDID: 0
+PRED: thicken
+  DOBJ: soup
+  PARG: cornstarch
+    PREP: with
+
+PREDID: 1
+PRED: flour
+  DOBJ: adding
+  PARG: 2 tablespoon increments, stirring
+    PREP: in
+
+
+SENTID: 7
+SENT: Once soup has reached desired thickness let simmer 5 minutes and then serve .
+PREDID: 0
+PRED: serve
+  OARG: once
+  OARG: soup has reached desired thickness let simmer 5 minutes
+  OARG: then
+

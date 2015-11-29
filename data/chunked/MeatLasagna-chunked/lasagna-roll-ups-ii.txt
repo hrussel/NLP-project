@@ -1,0 +1,162 @@
+SENTID: 0
+SENT: Cook and stir ground beef , onion , garlic powder , and oregano in a large skillet over medium heat until onion is tender and beef is browned , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef , onion , garlic powder , oregano
+
+PREDID: 1
+PRED: stir
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: onion is tender, beef is browned , about 10 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Add tomato sauce and sugar ;
+PREDID: 0
+PRED: add
+  DOBJ: tomato sauce, sugar
+
+
+SENTID: 2
+SENT: simmer until sauce is heated through , about 10 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: sauce is heated through , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook lasagna in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: lasagna
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 to 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 7
+SENT: Grease a 9x13-inch casserole dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13-inch casserole dish
+
+
+SENTID: 8
+SENT: Mix ricotta cheese , egg , parsley , and 3/4 cup Parmesan cheese together in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: ricotta cheese , egg , parsley , 3/4 cup parmesan cheese
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 9
+SENT: Place a lasagna noodle on a work surface .
+PREDID: 0
+PRED: place
+  DOBJ: a lasagna noodle
+  PARG: a work surface
+    PREP: on
+
+
+SENTID: 10
+SENT: Spoon one layer of ricotta cheese mixture , one layer meat sauce , and one layer mozzarella cheese atop the lasagna noodle ;
+PREDID: 0
+PRED: spoon
+  DOBJ: one layer of ricotta cheese mixture , one layer meat sauce , one layer mozzarella cheese
+  PARG: the lasagna noodle
+    PREP: atop
+
+
+SENTID: 11
+SENT: top with another lasagna noodle .
+PREDID: 0
+PRED: top
+  PARG: another lasagna noodle
+    PREP: with
+
+
+SENTID: 12
+SENT: Roll up the stuffed lasagna noodles in the jelly-roll style ;
+PREDID: 0
+PRED: roll
+  DOBJ: the stuffed lasagna noodles
+  PARG: the jelly-roll style
+    PREP: in
+  OARG: up
+
+
+SENTID: 13
+SENT: place in the prepared casserole dish .
+PREDID: 0
+PRED: place
+  PARG: the prepared casserole dish
+    PREP: in
+
+
+SENTID: 14
+SENT: Repeat with remaining lasagna noodles , ricotta cheese mixture , meat sauce , and mozzarella cheese .
+PREDID: 0
+PRED: repeat
+  PARG: remaining lasagna noodles , ricotta cheese mixture , meat sauce , mozzarella cheese
+    PREP: with
+
+
+SENTID: 15
+SENT: Spread a spoonful of meat sauce atop each lasagna roll ;
+PREDID: 0
+PRED: spread
+  DOBJ: a spoonful of meat sauce
+  PARG: each lasagna roll
+    PREP: atop
+
+
+SENTID: 16
+SENT: top with remaining mozzarella cheese and 1/4 cup Parmesan cheese .
+PREDID: 0
+PRED: top
+  PARG: remaining mozzarella cheese, 1/4 cup parmesan cheese
+    PREP: with
+
+
+SENTID: 17
+SENT: Bake in the preheated oven until cheese is melted and bubbling , 30 to 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is melted, bubbling , 30 to 35 minutes
+    PREP: until
+

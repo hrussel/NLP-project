@@ -1,0 +1,52 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine the sugar , salt , cinnamon , nutmeg , ginger , allspice , cloves , pumpkin puree , evaporated milk and eggs ;
+PREDID: 0
+PRED: combine
+  DOBJ: the sugar , salt , cinnamon , nutmeg , ginger , allspice , cloves , pumpkin puree , evaporated milk, eggs
+
+
+SENTID: 2
+SENT: Pour batter into the prepared unbaked pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: the prepared unbaked pie shell
+    PREP: into
+
+
+SENTID: 3
+SENT: Bake at 425 degrees F -LRB- 220 degrees C -RRB- for 15 minutes then lower oven temperature to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: bake
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: at
+  PARG: 15 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: lower
+  DOBJ: oven temperature
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Continue to bake for about another 40 minutes or until pie is firm .
+PREDID: 0
+PRED: continue
+  PARG: about another 40 minutes
+    PREP: for
+  PARG: pie is firm
+    PREP: until
+  OARG: to bake
+

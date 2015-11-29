@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Heat oven to 350 degrees F .
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 350 degrees f
+    PREP: to
+
+
+SENTID: 1
+SENT: In large bowl , combine 1/4 cup of the cooking sauce , the beef , bread crumbs , egg , 1/2 teaspoon salt and 1/4 teaspoon pepper until well mixed .
+PREDID: 0
+PRED: combine
+  DOBJ: 1/4 cup of the cooking
+  PARG: large bowl
+    PREP: in
+
+PREDID: 1
+PRED: sauce
+  DOBJ: the beef , bread crumbs , egg , 1/2 teaspoon salt, 1/4 teaspoon pepper
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 2
+SENT: Spray 12 regular-size muffin cups with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: 12 regular-size muffin cups
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 3
+SENT: Divide beef mixture evenly among cups -LRB- slightly less than 1/4 cup each -RRB- .
+PREDID: 0
+PRED: divide
+  DOBJ: beef mixture
+  PARG: cups -lrb-
+    PREP: among
+  PARG: 1/4 cup each -rrb-
+    PREP: than
+  OARG: evenly
+  OARG: slightly
+
+
+SENTID: 4
+SENT: Push 1 piece of cheese into center of each .
+PREDID: 0
+PRED: push
+  DOBJ: 1 piece of cheese
+  PARG: center of each
+    PREP: into
+
+
+SENTID: 5
+SENT: Bake 20 to 25 minutes or until thermometer inserted in center of loaves in middle of muffin pan reads 160 degrees F.
+PREDID: 0
+PRED: bake
+  PARG: thermometer inserted in center of loaves in middle of muffin pan reads 160 degrees f.
+    PREP: until
+  OARG: 20 to 25 minutes
+
+
+SENTID: 6
+SENT: Meanwhile , heat remaining sauce until hot .
+PREDID: 0
+PRED: heat
+  DOBJ: remaining sauce
+  PARG: hot
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 7
+SENT: Immediately remove loaves from muffin pan ;
+PREDID: 0
+PRED: remove
+  DOBJ: loaves
+  PARG: muffin pan
+    PREP: from
+  OARG: immediately
+
+
+SENTID: 8
+SENT: spoon heated sauce over loaves .
+PREDID: 0
+PRED: spoon
+  DOBJ: heated sauce
+  PARG: loaves
+    PREP: over
+
+
+SENTID: 9
+SENT: Serve with potatoes .
+PREDID: 0
+PRED: serve
+  PARG: potatoes
+    PREP: with
+

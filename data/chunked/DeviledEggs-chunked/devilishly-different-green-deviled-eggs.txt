@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Stir together mashed avocado , onion , tomato , cilantro , lime juice , jalapeno , and chopped garlic ;
+PREDID: 0
+PRED: stir
+  DOBJ: mashed avocado , onion , tomato , cilantro , lime juice , jalapeno , chopped garlic
+  OARG: together
+
+
+SENTID: 5
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 6
+SENT: Refrigerate guacamole , tightly covered , for 1 hour .
+PREDID: 0
+PRED: refrigerate
+  DOBJ: guacamole
+  PARG: 1 hour
+    PREP: for
+  OARG: tightly
+
+
+SENTID: 7
+SENT: Drain pickled garlic cloves and minced pickled jalapeno on a plate lined with paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: pickled garlic cloves, minced pickled jalapeno
+  PARG: a plate lined
+    PREP: on
+  PARG: paper towels
+    PREP: with
+
+
+SENTID: 8
+SENT: Cut each egg in half lengthwise ;
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 9
+SENT: set yolks aside for another use .
+PREDID: 0
+PRED: set
+  DOBJ: yolks
+  PARG: another use
+    PREP: for
+  OARG: aside
+
+
+SENTID: 10
+SENT: Clean away any remaining yolk from egg white halves with a wet paper towel .
+PREDID: 0
+PRED: clean
+  DOBJ: any remaining yolk
+  PARG: egg white halves
+    PREP: from
+  PARG: a wet paper towel
+    PREP: with
+  OARG: away
+
+
+SENTID: 11
+SENT: Place egg whites cut-side up on a serving platter .
+PREDID: 0
+PRED: place
+  DOBJ: egg whites cut-side
+  PARG: a serving platter
+    PREP: on
+  OARG: up
+
+
+SENTID: 12
+SENT: Spoon a generous amount of guacamole into each egg white half ;
+PREDID: 0
+PRED: spoon
+  DOBJ: a generous amount of guacamole
+  PARG: each egg white half
+    PREP: into
+
+
+SENTID: 13
+SENT: top each deviled egg with a pickled garlic clove .
+PREDID: 0
+PRED: top
+  DOBJ: each deviled egg
+  PARG: a pickled garlic clove
+    PREP: with
+
+
+SENTID: 14
+SENT: Sprinkle minced pickled jalapeno , salt , and black pepper over deviled eggs .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: minced pickled jalapeno , salt , black pepper
+  PARG: deviled eggs
+    PREP: over
+

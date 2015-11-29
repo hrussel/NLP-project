@@ -1,0 +1,26 @@
+SENTID: 0
+SENT: Combine the chicken , mayonnaise , feta cheese , green onions , sour cream , and chipotle peppers in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , mayonnaise , feta cheese , green onions , sour cream , chipotle peppers
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Season with garlic salt and pepper to taste ;
+PREDID: 0
+PRED: season
+  PARG: garlic salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 2
+SENT: stir until evenly combined .
+PREDID: 0
+PRED: stir
+  PARG: evenly combined
+    PREP: until
+

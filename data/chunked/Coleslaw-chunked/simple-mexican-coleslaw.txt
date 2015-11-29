@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Place cabbage and carrots in a colander and rinse in cold water ;
+PREDID: 0
+PRED: place
+  DOBJ: cabbage, carrots
+  PARG: a colander
+    PREP: in
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: in
+
+
+SENTID: 1
+SENT: let drain for 5 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: drain
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Whisk rice vinegar , olive oil , and cilantro together in a large salad bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: rice vinegar , olive oil , cilantro
+  PARG: a large salad bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Stir cabbage and carrots into dressing ;
+PREDID: 0
+PRED: stir
+  DOBJ: cabbage, carrots
+  PARG: dressing
+    PREP: into
+
+
+SENTID: 4
+SENT: season with salt .
+PREDID: 0
+PRED: season
+  PARG: salt
+    PREP: with
+
+
+SENTID: 5
+SENT: Slaw can be served immediately or covered and refrigerated for up to 1 day .
+PREDID: 0
+PRED: can
+  DOBJ: or covered, refrigerated
+  PARG: up
+    PREP: for
+  PARG: 1 day
+    PREP: to
+  OARG: slaw
+  OARG: immediately
+  OARG: be served
+

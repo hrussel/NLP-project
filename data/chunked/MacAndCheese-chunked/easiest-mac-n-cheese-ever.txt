@@ -1,0 +1,62 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add pasta and cook until al dente , 8 to 10 minutes ;
+PREDID: 0
+PRED: add
+  DOBJ: pasta
+
+PREDID: 1
+PRED: cook
+  PARG: al dente , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Place a saucepan over medium-low heat .
+PREDID: 0
+PRED: place
+  DOBJ: a saucepan
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Combine the cheese food , milk , and pepper in the saucepan ;
+PREDID: 0
+PRED: combine
+  DOBJ: the cheese food , milk , pepper
+  PARG: the saucepan
+    PREP: in
+
+
+SENTID: 5
+SENT: cook until the cheese has melted , stirring frequently .
+PREDID: 0
+PRED: cook
+  PARG: the cheese has melted , stirring frequently
+    PREP: until
+
+
+SENTID: 6
+SENT: Stir in the drained macaroni until evenly coated .
+PREDID: 0
+PRED: stir
+  PARG: the drained macaroni
+    PREP: in
+  PARG: evenly coated
+    PREP: until
+

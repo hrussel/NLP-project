@@ -1,0 +1,160 @@
+SENTID: 0
+SENT: In a 3-quart saucepan brown beef .
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: a 3-quart saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 2
+SENT: In the same saucepan , saute onion , carrots , celery , basil and parsley in 1 tablespoon butter until vegetables are tender , about 5 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: onion , carrots , celery , basil, parsley
+  PARG: the same saucepan
+    PREP: in
+  PARG: 1 tablespoon butter
+    PREP: in
+  PARG: vegetables are tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Add broth , potatoes and beef and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: broth , potatoes, beef
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Reduce heat , cover and simmer for 5 - 10 minutes or until potatoes are tender .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 1
+PRED: cover
+  PARG: 5 - 10 minutes
+    PREP: for
+
+PREDID: 2
+PRED: simmer
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Meanwhile , in a small skillet melt remaining butter .
+PREDID: 0
+PRED: melt
+  DOBJ: remaining butter
+  PARG: a small skillet
+    PREP: in
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Add flour and cook and stir for 3-5 minutes or until bubbly .
+PREDID: 0
+PRED: add
+  DOBJ: flour
+
+PREDID: 1
+PRED: cook
+  PARG: 3-5 minutes
+    PREP: for
+
+PREDID: 2
+PRED: stir
+  PARG: bubbly
+    PREP: until
+
+
+SENTID: 7
+SENT: Add to soup .
+PREDID: 0
+PRED: add
+  PARG: soup
+    PREP: to
+
+
+SENTID: 8
+SENT: Cook and stir soup for 2 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: soup
+
+PREDID: 1
+PRED: stir
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 9
+SENT: Reduce heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 10
+SENT: Add cheese , milk , salt and pepper and cook and stir until cheese melts .
+PREDID: 0
+PRED: add
+  DOBJ: cheese , milk , salt, pepper
+
+PREDID: 1
+PRED: cook
+  PARG: cheese melts
+    PREP: until
+
+PREDID: 2
+PRED: stir
+
+
+SENTID: 11
+SENT: Remove from the heat .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 12
+SENT: Add sour cream .
+PREDID: 0
+PRED: add
+  DOBJ: sour cream
+
+
+SENTID: 13
+SENT: Stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 14
+SENT: Serve immediately .
+PREDID: 0
+PRED: serve
+  OARG: immediately
+

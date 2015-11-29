@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add noodles and cook 5 to 7 minutes or until al dente ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+PREDID: 1
+PRED: cook
+  PARG: al dente
+    PREP: until
+  OARG: 5 to 7 minutes
+
+
+SENTID: 2
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Melt butter in a large saucepan over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large saucepan
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Stir in onions and garlic , and cook until slightly tender .
+PREDID: 0
+PRED: stir
+  PARG: onions, garlic
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: slightly tender
+    PREP: until
+
+
+SENTID: 5
+SENT: Mix in mushrooms , and continue cooking 2 minutes .
+PREDID: 0
+PRED: mix
+  PARG: mushrooms , continue cooking 2 minutes
+    PREP: in
+
+
+SENTID: 6
+SENT: Place steak strips in saucepan and cook about 1 minute .
+PREDID: 0
+PRED: place
+  DOBJ: steak strips
+  PARG: saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: 1 minute
+    PREP: about
+
+
+SENTID: 7
+SENT: Mix in consomme , Burgundy and lemon juice .
+PREDID: 0
+PRED: mix
+  PARG: consomme , burgundy, lemon juice
+    PREP: in
+
+
+SENTID: 8
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 9
+SENT: In a small bowl , thoroughly blend flour with cold water until smooth .
+PREDID: 0
+PRED: blend
+  DOBJ: flour
+  PARG: a small bowl
+    PREP: in
+  PARG: cold water
+    PREP: with
+  PARG: smooth
+    PREP: until
+  OARG: thoroughly
+
+
+SENTID: 10
+SENT: Reduce saucepan heat to low .
+PREDID: 0
+PRED: reduce
+  DOBJ: saucepan heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 11
+SENT: While stirring constantly , slowly pour flour mixture into saucepan .
+PREDID: 0
+PRED: pour
+  DOBJ: flour mixture
+  PARG: stirring
+    PREP: while
+  PARG: saucepan
+    PREP: into
+  OARG: constantly
+  OARG: slowly
+
+
+SENTID: 12
+SENT: Gradually return to boil while stirring rapidly , until sauce is thick and smooth .
+PREDID: 0
+PRED: return
+  PARG: boil
+    PREP: to
+  PARG: stirring
+    PREP: while
+  PARG: sauce is thick
+    PREP: until
+  OARG: gradually
+  OARG: rapidly
+
+PREDID: 1
+PRED: smooth
+
+
+SENTID: 13
+SENT: Cover saucepan and continue cooking 5 minutes , stirring occasionally .
+PREDID: 0
+PRED: cover
+  OARG: saucepan, continue cooking 5 minutes , stirring
+  OARG: occasionally
+
+
+SENTID: 14
+SENT: Remove from heat , let cool slightly and stir in sour cream .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+  OARG: slightly
+
+PREDID: 2
+PRED: stir
+  PARG: sour cream
+    PREP: in
+
+
+SENTID: 15
+SENT: Serve over cooked egg noodles .
+PREDID: 0
+PRED: serve
+  PARG: cooked egg noodles
+    PREP: over
+

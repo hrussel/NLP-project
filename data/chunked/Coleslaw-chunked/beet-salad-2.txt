@@ -1,0 +1,92 @@
+SENTID: 0
+SENT: Place the beets into a large saucepan with enough water to cover the beets by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the beets
+  PARG: a large saucepan
+    PREP: into
+  PARG: enough water
+    PREP: with
+  PARG: cover the beets
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low , cover , and simmer until the beets are easily pierced with a fork , about 40 minutes ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: the beets are easily pierced with a fork , about 40 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Chill beets in refrigerator until cool enough to handle .
+PREDID: 0
+PRED: chill
+  DOBJ: beets
+  PARG: refrigerator
+    PREP: in
+  PARG: cool enough to handle
+    PREP: until
+
+
+SENTID: 5
+SENT: Peel the beets and grate into a large bowl .
+PREDID: 0
+PRED: peel
+  DOBJ: the beets
+
+PREDID: 1
+PRED: grate
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 6
+SENT: Stir the prunes , walnuts , and pickle with the beets .
+PREDID: 0
+PRED: stir
+  DOBJ: the prunes , walnuts , pickle
+  PARG: the beets
+    PREP: with
+
+
+SENTID: 7
+SENT: Add the mayonnaise and stir until all the ingredients are evenly coated .
+PREDID: 0
+PRED: add
+  DOBJ: the mayonnaise
+
+PREDID: 1
+PRED: stir
+  PARG: all the ingredients are evenly coated
+    PREP: until
+
+
+SENTID: 8
+SENT: Chill completely before serving .
+PREDID: 0
+PRED: chill
+  PARG: serving
+    PREP: before
+  OARG: completely
+

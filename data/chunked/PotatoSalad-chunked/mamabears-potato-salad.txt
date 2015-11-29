@@ -1,0 +1,188 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and let potatoes cool .
+PREDID: 0
+PRED: drain
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: let
+
+PREDID: 2
+PRED: cool
+
+
+SENTID: 4
+SENT: Place eggs in a saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 5
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 7
+SENT: Dice the eggs when cool .
+PREDID: 0
+PRED: dice
+  DOBJ: the eggs
+  OARG: when cool
+
+
+SENTID: 8
+SENT: Place the bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: Drain the bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 10
+SENT: When cooled , crumble and set aside .
+PREDID: 0
+PRED: crumble
+  OARG: when cooled
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 11
+SENT: Dice potatoes into a large salad bowl and mix with crumbled bacon , diced eggs , and salad dressing .
+PREDID: 0
+PRED: dice
+  DOBJ: potatoes
+  PARG: a large salad bowl
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  PARG: crumbled bacon , diced eggs , salad dressing
+    PREP: with
+
+
+SENTID: 12
+SENT: Sprinkle top of salad with shredded Cheddar cheese , and mix the salad thoroughly .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: top of salad
+  PARG: shredded cheddar cheese
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  DOBJ: the salad
+  OARG: thoroughly
+
+
+SENTID: 13
+SENT: Season with black pepper .
+PREDID: 0
+PRED: season
+  PARG: black pepper
+    PREP: with
+
+
+SENTID: 14
+SENT: For best flavor , chill salad overnight .
+PREDID: 0
+PRED: chill
+  DOBJ: salad
+  PARG: best flavor
+    PREP: for
+  OARG: overnight
+

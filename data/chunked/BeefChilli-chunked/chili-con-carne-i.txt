@@ -1,0 +1,110 @@
+SENTID: 0
+SENT: Wash and sort pinto beans .
+PREDID: 0
+PRED: wash
+  DOBJ: pinto beans
+
+PREDID: 1
+PRED: sort
+
+
+SENTID: 1
+SENT: Bring 3 gallons of water to boil in a 6 gallon pot .
+PREDID: 0
+PRED: bring
+  DOBJ: 3 gallons of water
+  PARG: boil
+    PREP: to
+  PARG: a 6 gallon pot
+    PREP: in
+
+
+SENTID: 2
+SENT: Pour in beans , return to a boil and cook 2 minutes .
+PREDID: 0
+PRED: pour
+  PARG: beans
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+PREDID: 2
+PRED: cook
+  OARG: 2 minutes
+
+
+SENTID: 3
+SENT: Remove from heat and let stand 1 hour .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  OARG: stand 1 hour
+
+
+SENTID: 4
+SENT: Stir in salt and simmer until tender , 90 minutes .
+PREDID: 0
+PRED: stir
+  PARG: salt
+    PREP: in
+
+PREDID: 1
+PRED: simmer
+  PARG: tender , 90 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 6
+SENT: Brown beef with onions and garlic over medium high heat in same pot or enormous skillet .
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: onions, garlic
+    PREP: with
+  PARG: medium high heat
+    PREP: over
+  PARG: same pot or enormous skillet
+    PREP: in
+
+
+SENTID: 7
+SENT: Combine meat mixture , tomatoes , tomato paste , chili powder , cumin , pepper and cooked beans in 6 gallon pot ;
+PREDID: 0
+PRED: combine
+  DOBJ: meat mixture , tomatoes , tomato paste , chili powder , cumin , pepper, cooked beans
+  PARG: 6 gallon pot
+    PREP: in
+
+
+SENTID: 8
+SENT: stir ;
+PREDID: 0
+PRED: stir
+
+
+SENTID: 9
+SENT: cover and simmer 1 hour .
+PREDID: 0
+PRED: cover
+  OARG: 1 hour
+
+PREDID: 1
+PRED: simmer
+

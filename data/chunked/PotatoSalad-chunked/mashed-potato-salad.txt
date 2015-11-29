@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Place potatoes in a large saucepan and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Cook over medium heat until potatoes are tender .
+PREDID: 0
+PRED: cook
+  PARG: medium heat
+    PREP: over
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and place cooked potatoes in a large bowl .
+PREDID: 0
+PRED: drain
+  DOBJ: cooked potatoes
+
+PREDID: 1
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 3
+SENT: Mash potatoes with butter and salt and pepper to taste .
+PREDID: 0
+PRED: mash
+  DOBJ: potatoes
+  PARG: butter, salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 4
+SENT: Once mashed stir in the mayonnaise , mustard and sour cream , mixing well .
+PREDID: 0
+PRED: stir
+  DOBJ: mashed
+  PARG: the mayonnaise , mustard, sour cream , mixing
+    PREP: in
+  OARG: once
+  OARG: well
+
+
+SENTID: 5
+SENT: Stir in the celery , onion , pickles and green pepper .
+PREDID: 0
+PRED: stir
+  PARG: the celery , onion , pickles, green pepper
+    PREP: in
+
+
+SENTID: 6
+SENT: Serve warm or at room temperature .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+  PARG: room temperature
+    PREP: at
+

@@ -1,0 +1,61 @@
+SENTID: 0
+SENT: Combine peaches , chicken , and cucumber in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: peaches , chicken , cucumber
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Blend vinegar , mint , sugar , lemon juice , salt , pepper , and hot sauce in a blender until vinaigrette is smooth .
+PREDID: 0
+PRED: blend
+  DOBJ: vinegar , mint , sugar , lemon juice , salt , pepper , hot sauce
+  PARG: a blender
+    PREP: in
+  PARG: vinaigrette is smooth
+    PREP: until
+
+
+SENTID: 2
+SENT: Drizzle vinaigrette over peach mixture ;
+PREDID: 0
+PRED: drizzle
+  DOBJ: vinaigrette
+  PARG: peach mixture
+    PREP: over
+
+
+SENTID: 3
+SENT: toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 4
+SENT: Cover bowl with plastic wrap and refrigerate until chilled , at least 30 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: bowl
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 1
+PRED: refrigerate
+  PARG: chilled , at least 30 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Fold avocado into salad before serving .
+PREDID: 0
+PRED: fold
+  DOBJ: avocado
+  PARG: salad
+    PREP: into
+  PARG: serving
+    PREP: before
+

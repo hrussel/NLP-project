@@ -1,0 +1,40 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a large bowl , combine the ground beef , sausage , bread crumbs , onion , mushrooms , soup and egg .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , sausage , bread crumbs , onion , mushrooms , soup, egg
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Mix together well and place in a 5x9 inch loaf pan .
+PREDID: 0
+PRED: mix
+  PARG: a 5x9 inch loaf pan
+    PREP: in
+  OARG: together
+  OARG: well
+
+PREDID: 1
+PRED: place
+
+
+SENTID: 3
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: at
+  PARG: 50 minutes
+    PREP: for
+

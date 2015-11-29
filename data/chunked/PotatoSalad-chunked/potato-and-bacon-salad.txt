@@ -1,0 +1,225 @@
+SENTID: 0
+SENT: Place the potatoes in a pot with enough water to cover , and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a pot
+    PREP: in
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook for about 20 minutes , or until tender .
+PREDID: 0
+PRED: cook
+  PARG: about 20 minutes
+    PREP: for
+  PARG: tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and cool .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+
+SENTID: 3
+SENT: Meanwhile , place eggs in a saucepan and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+  OARG: meanwhile
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 4
+SENT: Bring water to a boil and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 5
+SENT: Cover , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from hot water , and place in a bowl of cold water to cool .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: place
+  PARG: a bowl of cold water
+    PREP: in
+  OARG: to cool
+
+
+SENTID: 7
+SENT: Peel the eggs , and place 3 of them into a large bowl .
+PREDID: 0
+PRED: peel
+  DOBJ: the eggs
+
+PREDID: 1
+PRED: place
+  DOBJ: 3 of them
+  PARG: a large bowl
+    PREP: into
+
+
+SENTID: 8
+SENT: Reserve the rest for later .
+PREDID: 0
+PRED: reserve
+  DOBJ: the rest
+  PARG: later
+    PREP: for
+
+
+SENTID: 9
+SENT: Mash the eggs in the bowl with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: the eggs
+  PARG: the bowl
+    PREP: in
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 10
+SENT: Stir in the mustard , mayonnaise , celery , salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the mustard , mayonnaise , celery , salt, pepper
+    PREP: in
+
+
+SENTID: 11
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 12
+SENT: Cook bacon slices in the microwave for about 4 minutes , until crisp , or fry in a skillet over medium-high heat .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon slices
+  PARG: the microwave
+    PREP: in
+  PARG: about 4 minutes
+    PREP: for
+  PARG: crisp
+    PREP: until
+
+PREDID: 1
+PRED: fry
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 13
+SENT: Crumble 2 of the bacon slices into the mayonnaise mixture .
+PREDID: 0
+PRED: crumble
+  DOBJ: 2 of the bacon slices
+  PARG: the mayonnaise mixture
+    PREP: into
+
+
+SENTID: 14
+SENT: Reserve the rest for garnish .
+PREDID: 0
+PRED: reserve
+  DOBJ: the rest
+  PARG: garnish
+    PREP: for
+
+
+SENTID: 15
+SENT: Peel and chop the potatoes , and stir into the bowl until evenly coated .
+PREDID: 0
+PRED: peel
+  DOBJ: the potatoes
+
+PREDID: 1
+PRED: chop
+
+PREDID: 2
+PRED: stir
+  PARG: the bowl
+    PREP: into
+  PARG: evenly coated
+    PREP: until
+
+
+SENTID: 16
+SENT: Slice the 2 remaining eggs , and place on top of the salad .
+PREDID: 0
+PRED: slice
+  DOBJ: the 2 remaining eggs
+
+PREDID: 1
+PRED: place
+  PARG: top of the salad
+    PREP: on
+
+
+SENTID: 17
+SENT: Crumble the remaining bacon over the eggs , then sprinkle parsley over the top .
+PREDID: 0
+PRED: crumble
+  DOBJ: the remaining bacon
+  PARG: the eggs
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: sprinkle
+  DOBJ: parsley
+  PARG: the top
+    PREP: over
+

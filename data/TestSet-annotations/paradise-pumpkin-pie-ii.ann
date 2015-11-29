@@ -1,0 +1,136 @@
+T1	predicate 0 7	Preheat
+T2	predicate 97 101	beat
+T3	predicate 138 144	Mix in
+T4	predicate 166 169	Add
+T5	predicate 197 201	Stir
+T6	predicate 227 231	Pour
+T7	predicate 300 307	combine
+T8	predicate 412 415	Mix
+T9	predicate 433 437	pour
+T10	predicate 469 473	Bake
+T11	predicate 529 535	Remove
+T12	predicate 544 548	turn
+T13	predicate 614 617	mix
+T14	predicate 697 701	drop
+T15	predicate 757 762	Broil
+T16	predicate 882 886	Cool
+T17	predicate 894 901	serving
+T18	arg_object 8 12	oven
+R1	object Arg1:T1 Arg2:T18	
+T19	arg_location 474 491	in preheated oven
+T20	Evolution 477 491	preheated oven
+E1	Evolution:T20 Cause:T1
+R2	location Arg1:T10 Arg2:T19	
+T21	arg_location 763 788	5 inches below oven coils
+R4	location Arg1:T15 Arg2:T21	
+T22	arg_other 13 45	to 350 degrees F (175 degrees C)
+R5	other Arg1:T1 Arg2:T22	
+T23	arg_location 73 95	In a small mixing bowl
+R6	location Arg1:T2 Arg2:T23	
+T24	arg_object 102 123	softened cream cheese
+T25	ingredient 102 123	softened cream cheese
+T26	arg_duration 124 136	until fluffy
+R7	object Arg1:T2 Arg2:T24	
+R8	duration Arg1:T2 Arg2:T26	
+R9	co-object Arg1:T3 Arg2:T2	
+T27	arg_object 145 164	1/4 cup white sugar
+T28	ingredient 145 164	1/4 cup white sugar
+R10	object Arg1:T3 Arg2:T27	
+T29	arg_object 170 175	1 egg
+T30	arg_object 180 195	vanilla extract
+R11	object Arg1:T4 Arg2:T29	
+R12	object Arg1:T4 Arg2:T30	
+R13	co-object Arg1:T4 Arg2:T3	
+T31	ingredient 170 175	1 egg
+T32	ingredient 180 195	vanilla extract
+R14	object Arg1:T5 Arg2:T4	
+T33	arg_duration 202 225	until mixture is smooth
+R15	duration Arg1:T5 Arg2:T33	
+T34	arg_object 232 239	mixture
+T35	Evolution 232 239	mixture
+E2	Evolution:T35 Cause:T5
+R16	object Arg1:T6 Arg2:T34	
+T36	arg_co-object 240 257	into pastry shell
+R17	co-object Arg1:T6 Arg2:T36	
+T37	ingredient 245 257	pastry shell
+T38	arg_location 282 298	In a medium bowl
+R18	location Arg1:T7 Arg2:T38	
+T39	arg_object 308 321	pumpkin puree
+T40	arg_object 323 342	1/2 cup white sugar
+T41	arg_object 344 352	cinnamon
+T42	arg_object 354 360	ginger
+T43	arg_object 362 368	nutmeg
+T44	arg_object 370 374	salt
+T45	arg_object 376 391	evaporated milk
+T46	arg_object 397 410	2 beaten eggs
+R19	object Arg1:T7 Arg2:T39	
+R20	object Arg1:T7 Arg2:T40	
+R21	object Arg1:T7 Arg2:T41	
+R22	object Arg1:T7 Arg2:T42	
+R23	object Arg1:T7 Arg2:T43	
+R24	object Arg1:T7 Arg2:T44	
+R25	object Arg1:T7 Arg2:T45	
+R26	object Arg1:T7 Arg2:T46	
+T47	ingredient 308 321	pumpkin puree
+T48	ingredient 323 342	1/2 cup white sugar
+T49	ingredient 344 352	cinnamon
+T50	ingredient 354 360	ginger
+T51	ingredient 362 368	nutmeg
+T52	ingredient 370 374	salt
+T53	ingredient 376 391	evaporated milk
+T54	ingredient 397 410	2 beaten eggs
+R27	object Arg1:T8 Arg2:T7	
+T55	arg_other 416 426	thoroughly
+R28	other Arg1:T8 Arg2:T55	
+T56	arg_object 438 445	mixture
+T57	Evolution 438 445	mixture
+E3	Evolution:T57 Cause:T8
+R29	object Arg1:T9 Arg2:T56	
+T58	arg_co-object 446 467	over cheesecake layer
+T59	Evolution 451 467	cheesecake layer
+E4	Evolution:T59 Cause:T6
+R30	co-object Arg1:T9 Arg2:T58	
+R31	object Arg1:T10 Arg2:T9	
+T60	arg_duration 492 527	for 65 minutes, until set in center
+R32	duration Arg1:T10 Arg2:T60	
+T61	arg_object 536 539	pie
+T62	Evolution 536 539	pie
+E5	Evolution:T62 Cause:T10
+R33	object Arg1:T11 Arg2:T61	
+R34	location Arg1:T11 Arg2:T10	
+T63	arg_object 549 553	oven
+R35	object Arg1:T12 Arg2:T63	
+T64	arg_other 554 572	to broiler setting
+R36	other Arg1:T12 Arg2:T64	
+T65	Evolution 549 553	oven
+E6	Evolution:T65 Cause:T1
+T66	arg_location 597 612	In a small bowl
+R37	location Arg1:T13 Arg2:T66	
+T67	arg_object 627 655	softened butter or margarine
+T68	ingredient 627 655	softened butter or margarine
+T69	arg_object 657 668	brown sugar
+T70	ingredient 657 668	brown sugar
+T71	arg_object 674 688	chopped pecans
+T72	ingredient 674 688	chopped pecans
+R38	object Arg1:T13 Arg2:T67	
+R39	object Arg1:T13 Arg2:T69	
+R40	object Arg1:T13 Arg2:T71	
+T73	arg_object 702 709	mixture
+T74	Evolution 702 709	mixture
+E7	Evolution:T74 Cause:T13
+R41	object Arg1:T14 Arg2:T73	
+T75	arg_other 710 725	by teaspoonfuls
+T76	arg_co-object 726 734	over pie
+T77	Evolution 731 734	pie
+E8	Evolution:T77 Cause:T11
+T78	arg_other 736 755	covering top evenly
+R42	other Arg1:T14 Arg2:T75	
+R43	co-object Arg1:T14 Arg2:T76	
+R44	other Arg1:T14 Arg2:T78	
+R45	object Arg1:T15 Arg2:T14	
+T79	arg_duration 789 836	until mixture begins to bubble, about 3 minutes
+R46	duration Arg1:T15 Arg2:T79	
+R47	object Arg1:T16 Arg2:T15	
+R48	object Arg1:T17 Arg2:T16	
+T80	Evolution 763 788	5 inches below oven coils
+E9	Evolution:T80 Cause:T12

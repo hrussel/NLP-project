@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: Place the beef in a large , deep skillet over medium heat , and cook until evenly brown .
+PREDID: 0
+PRED: place
+  DOBJ: the beef
+  PARG: a large
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: deep
+
+PREDID: 1
+PRED: cook
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Transfer beef to a strainer over a saucepan , and allow grease to drain for about 5 minutes .
+PREDID: 0
+PRED: transfer
+  DOBJ: beef
+  PARG: a strainer
+    PREP: to
+  PARG: a saucepan
+    PREP: over
+
+PREDID: 1
+PRED: allow
+  DOBJ: grease
+  PARG: drain
+    PREP: to
+  PARG: about 5 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Mix any drippings remaining in skillet into the saucepan .
+PREDID: 0
+PRED: mix
+  DOBJ: any drippings remaining
+  PARG: skillet
+    PREP: in
+  PARG: the saucepan
+    PREP: into
+
+
+SENTID: 3
+SENT: Return beef to skillet .
+PREDID: 0
+PRED: return
+  DOBJ: beef
+  PARG: skillet
+    PREP: to
+
+
+SENTID: 4
+SENT: Heat the beef drippings in the saucepan over medium heat , and gradually mix in 1/4 cup flour .
+PREDID: 0
+PRED: heat
+  DOBJ: the beef drippings
+  PARG: the saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: gradually
+
+PREDID: 1
+PRED: mix
+  PARG: 1/4 cup flour
+    PREP: in
+
+
+SENTID: 5
+SENT: Reduce heat to low , and continue cooking 10 minutes , stirring continuously , to form a golden brown roux .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low , continue cooking 10 minutes , stirring
+    PREP: to
+  PARG: form a golden brown roux
+    PREP: to
+  OARG: continuously
+
+
+SENTID: 6
+SENT: Pour in the beef broth , and remove from heat .
+PREDID: 0
+PRED: pour
+  PARG: the beef broth
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 7
+SENT: Pour the water into the skillet with the beef , and mix in remaining flour .
+PREDID: 0
+PRED: pour
+  DOBJ: the water
+  PARG: the skillet
+    PREP: into
+  PARG: the beef
+    PREP: with
+
+PREDID: 1
+PRED: mix
+  PARG: remaining flour
+    PREP: in
+
+
+SENTID: 8
+SENT: Stir in the roux mixture , chili powder , carrot , vinegar , onion , salt , sugar , paprika , and garlic powder .
+PREDID: 0
+PRED: stir
+  PARG: the roux mixture , chili powder , carrot , vinegar , onion , salt , sugar , paprika , garlic powder
+    PREP: in
+
+
+SENTID: 9
+SENT: Bring to a boil , reduce heat to medium-low , and continue cooking 15 minutes , until thickened .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , continue cooking 15 minutes
+    PREP: to
+  PARG: thickened
+    PREP: until
+
+
+SENTID: 10
+SENT: When it 's done cooking , take the chili off the heat , cover it , and let it sit for 30 minutes before using it on burgers , etc. .
+PREDID: 0
+PRED: take
+  DOBJ: the chili
+  PARG: the heat
+    PREP: off
+  OARG: when it 's done cooking
+
+PREDID: 1
+PRED: cover
+  DOBJ: it
+
+PREDID: 2
+PRED: let
+  DOBJ: it sit
+  PARG: 30 minutes
+    PREP: for
+  PARG: using it
+    PREP: before
+  PARG: burgers , etc.
+    PREP: on
+
+
+SENTID: 11
+SENT: It should thicken to a tasty brown paste as it sits .
+PREDID: 0
+PRED: thicken
+  DOBJ: it should
+  PARG: a tasty brown paste
+    PREP: to
+  PARG: it sits
+    PREP: as
+

@@ -1,0 +1,225 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray a 9x13-inch baking dish with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: a 9x13-inch baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Place the sausage in a skillet over medium heat and cook until browned and crumbly , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the sausage
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: browned, crumbly , about 10 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain the sausage and set aside .
+PREDID: 0
+PRED: drain
+  DOBJ: the sausage
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: To make bechamel sauce , melt the butter in a saucepan over medium heat and whisk in the flour .
+PREDID: 0
+PRED: melt
+  DOBJ: the butter
+  PARG: make bechamel sauce
+    PREP: to
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: whisk
+  PARG: the flour
+    PREP: in
+
+
+SENTID: 5
+SENT: Allow the flour and butter to cook until light and foamy , about 2 minutes , whisking constantly ;
+PREDID: 0
+PRED: allow
+  DOBJ: the flour
+
+PREDID: 1
+PRED: butter
+  PARG: cook
+    PREP: to
+  PARG: light, foamy , about 2 minutes , whisking constantly
+    PREP: until
+
+
+SENTID: 6
+SENT: whisk in milk , a little at a time .
+PREDID: 0
+PRED: whisk
+  PARG: milk , a little
+    PREP: in
+  PARG: a time
+    PREP: at
+
+
+SENTID: 7
+SENT: Whisk in the salt and nutmeg and bring the sauce to a bare simmer , whisking constantly until thickened , about 10 minutes .
+PREDID: 0
+PRED: whisk
+  PARG: the salt, nutmeg
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  DOBJ: the sauce
+  PARG: a bare simmer , whisking
+    PREP: to
+  PARG: thickened , about 10 minutes
+    PREP: until
+  OARG: constantly
+
+
+SENTID: 8
+SENT: Remove sauce from the heat and set aside .
+PREDID: 0
+PRED: remove
+  DOBJ: sauce
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 9
+SENT: In a bowl , beat the egg and stir in the ricotta cheese and parsley until thoroughly combined .
+PREDID: 0
+PRED: beat
+  DOBJ: the egg
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the ricotta cheese, parsley
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+
+
+SENTID: 10
+SENT: To assemble lasagna , pour about 1Ê1/2 cup of marinara sauce into the bottom of the prepared baking dish and top the sauce with 4 lasagna noodles , overlapping if necessary .
+PREDID: 0
+PRED: pour
+  PARG: 1Ê1/2 cup of marinara sauce
+    PREP: about
+  PARG: the bottom of the prepared baking dish
+    PREP: into
+  OARG: to assemble lasagna
+
+PREDID: 1
+PRED: top
+  DOBJ: the sauce
+  PARG: 4 lasagna noodles , overlapping
+    PREP: with
+  PARG: necessary
+    PREP: if
+
+
+SENTID: 11
+SENT: On the noodles , layer 1/3 of the ricotta mixture , followed by 1/3 of the cooked sausage , 1/3 cup of mushrooms , 1/4 of the bechamel sauce , 1 cup of the mozzarella cheese , 1/8 cup of the Parmesan cheese and 1 more cup of marinara sauce .
+PREDID: 0
+PRED: layer
+  DOBJ: 1/3 of the ricotta mixture , followed
+  PARG: the noodles
+    PREP: on
+  PARG: 1/3 of the cooked sausage , 1/3 cup of mushrooms , 1/4 of the bechamel sauce , 1 cup of the mozzarella cheese , 1/8 cup of the parmesan cheese, 1 more cup of marinara sauce
+    PREP: by
+
+
+SENTID: 12
+SENT: Repeat the layers twice more , ending with a final layer of noodles topped with a layer of marinara sauce , bechamel sauce , the remaining mozzarella cheese , and remaining Parmesan cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: more , ending
+  PARG: a final layer of noodles topped
+    PREP: with
+  PARG: a layer of marinara sauce , bechamel sauce , the remaining mozzarella cheese , remaining parmesan cheese
+    PREP: with
+  OARG: twice
+  OARG: the layers
+
+
+SENTID: 13
+SENT: Cover the dish with foil .
+PREDID: 0
+PRED: cover
+  DOBJ: the dish
+  PARG: foil
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in the preheated oven until bubbly and the noodles are tender , about 1 hour .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: bubbly, the noodles are tender , about 1 hour
+    PREP: until
+
+
+SENTID: 15
+SENT: Remove foil and bake until the top cheese layer is browned , about 5 more minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: foil
+
+PREDID: 1
+PRED: bake
+  PARG: the top cheese
+    PREP: until
+
+PREDID: 2
+PRED: layer
+  DOBJ: is browned
+  PARG: 5 more minutes
+    PREP: about
+
+
+SENTID: 16
+SENT: Allow the lasagna to stand for 10 minutes before cutting .
+PREDID: 0
+PRED: allow
+  DOBJ: the lasagna
+  PARG: stand
+    PREP: to
+  PARG: 10 minutes
+    PREP: for
+  PARG: cutting
+    PREP: before
+

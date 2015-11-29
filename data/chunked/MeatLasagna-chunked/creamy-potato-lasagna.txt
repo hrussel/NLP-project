@@ -1,0 +1,138 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Lightly grease a 9x13 inch baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch baking dish
+  OARG: lightly
+
+
+SENTID: 2
+SENT: In a medium bowl , whisk together the Alfredo sauce and milk .
+PREDID: 0
+PRED: whisk
+  DOBJ: the alfredo sauce, milk
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Spread 1/4 cup of the sauce in the bottom of the baking dish .
+PREDID: 0
+PRED: spread
+  DOBJ: 1/4 cup of the sauce
+  PARG: the bottom of the baking dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Then layer 1/3 of the potatoes over the sauce in the dish .
+PREDID: 0
+PRED: layer
+  DOBJ: 1/3 of the potatoes
+  PARG: the sauce
+    PREP: over
+  PARG: the dish
+    PREP: in
+  OARG: then
+
+
+SENTID: 5
+SENT: Sprinkle with 1 tablespoon of Parmesan cheese and salt and pepper to taste .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1 tablespoon of parmesan cheese, salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 6
+SENT: In a separate medium bowl , combine the ham , broccoli and 1Ê1/2 cups of the Swiss cheese .
+PREDID: 0
+PRED: combine
+  DOBJ: the ham , broccoli, 1Ê1/2 cups of the swiss cheese
+  PARG: a separate medium bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix well and spread 1/3 of this mixture over the potatoes in the baking dish .
+PREDID: 0
+PRED: mix
+  DOBJ: 1/3 of this mixture
+  OARG: well
+
+PREDID: 1
+PRED: spread
+  PARG: the potatoes
+    PREP: over
+  PARG: the baking dish
+    PREP: in
+
+
+SENTID: 8
+SENT: Then top with another layer of potatoes , followed by the ham mixture , finally topping all with the remaining Swiss cheese and Parmesan cheese .
+PREDID: 0
+PRED: top
+  DOBJ: topping all with the remaining swiss cheese, parmesan cheese
+  PARG: another layer of potatoes , followed
+    PREP: with
+  PARG: the ham mixture
+    PREP: by
+  OARG: then
+  OARG: finally
+
+
+SENTID: 9
+SENT: Pour the remaining Alfredo sauce over all .
+PREDID: 0
+PRED: pour
+  DOBJ: the remaining alfredo sauce
+  PARG: all
+    PREP: over
+
+
+SENTID: 10
+SENT: Cover and bake at 400 degrees F -LRB- 200 degrees C -RRB- for 45 minutes , then uncover and bake at 350 degrees F -LRB- 175 degree C -RRB- for additional 25 minutes or until potatoes are tender .
+PREDID: 0
+PRED: cover
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: at
+
+PREDID: 1
+PRED: bake
+  PARG: 45 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 2
+PRED: uncover
+  PARG: 350 degrees f -lrb- 175 degree c -rrb-
+    PREP: at
+
+PREDID: 3
+PRED: bake
+  PARG: additional 25 minutes
+    PREP: for
+  PARG: potatoes are tender
+    PREP: until
+
+
+SENTID: 11
+SENT: Let stand 10 to 15 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: stand 10 to 15 minutes
+

@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Place potatoes into a large pot and cover with salted water ;
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: salted water
+    PREP: with
+
+
+SENTID: 1
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain , cool , and cut into chunks .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cut
+  PARG: chunks
+    PREP: into
+
+
+SENTID: 4
+SENT: Cook salami in a skillet over medium heat until heated through , about 5 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: salami
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: heated through , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: drain off excess fat and allow to cool .
+PREDID: 0
+PRED: drain
+  PARG: excess fat
+    PREP: off
+
+PREDID: 1
+PRED: allow
+  OARG: to cool
+
+
+SENTID: 6
+SENT: Mix potatoes , eggs , apples , onion , and pickles in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: potatoes , eggs , apples , onion , pickles
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Stir salami , mayonnaise , red wine vinegar , salt , black pepper , and paprika into the potato mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: salami , mayonnaise , red wine vinegar , salt , black pepper , paprika
+  PARG: the potato mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: Chill for at least 2 hours before serving .
+PREDID: 0
+PRED: chill
+  PARG: at least 2 hours
+    PREP: for
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,90 @@
+SENTID: 0
+SENT: In a small bowl combine the orange juice , orange zest , soy sauce , salt , garlic and brown sugar .
+PREDID: 0
+PRED: combine
+  DOBJ: the orange juice , orange zest , soy sauce , salt , garlic, brown sugar
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Heat oil in a large skillet or wok over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: When oil begins to bubble , add chicken .
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+  PARG: bubble
+    PREP: to
+  OARG: when oil begins
+
+
+SENTID: 4
+SENT: Saute until cooked through -LRB- no longer pink inside -RRB- , about 7 to 10 minutes .
+PREDID: 0
+PRED: saute
+  PARG: cooked through -lrb- no longer pink inside -rrb- , about 7 to 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Add orange sauce mixture to chicken and cook until sauce begins to bubble .
+PREDID: 0
+PRED: add
+  DOBJ: orange sauce mixture
+  PARG: chicken
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: sauce begins to bubble
+    PREP: until
+
+
+SENTID: 6
+SENT: Add flour , a little bit at a time , until sauce has thickened to your liking .
+PREDID: 0
+PRED: add
+  DOBJ: flour , a little bit
+  PARG: a time
+    PREP: at
+  PARG: sauce has thickened to your liking
+    PREP: until
+
+
+SENTID: 7
+SENT: Add bean sprouts and cook for 1 minute ;
+PREDID: 0
+PRED: add
+  DOBJ: bean sprouts
+
+PREDID: 1
+PRED: cook
+  PARG: 1 minute
+    PREP: for
+
+
+SENTID: 8
+SENT: serve hot over chow mein noodles .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+  PARG: chow mein noodles
+    PREP: over
+

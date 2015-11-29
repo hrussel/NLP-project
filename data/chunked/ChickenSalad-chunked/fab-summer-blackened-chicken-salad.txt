@@ -1,0 +1,102 @@
+SENTID: 0
+SENT: Warm 1 tablespoon olive oil in a large skillet over medium heat .
+PREDID: 0
+PRED: warm
+  DOBJ: 1 tablespoon olive oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Season both sides of chicken with Cajun seasoning , and place in hot oil .
+PREDID: 0
+PRED: season
+  DOBJ: both sides of chicken
+  PARG: cajun seasoning
+    PREP: with
+
+PREDID: 1
+PRED: place
+  PARG: hot oil
+    PREP: in
+
+
+SENTID: 2
+SENT: Stir in crushed garlic .
+PREDID: 0
+PRED: stir
+  PARG: crushed garlic
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook chicken 5 minutes on each side , or until juices run clear .
+PREDID: 0
+PRED: cook
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+  OARG: chicken 5 minutes
+
+
+SENTID: 4
+SENT: Remove chicken from skillet , drain on paper towels , cool slightly , and dice ;
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+PREDID: 2
+PRED: cool
+  OARG: slightly
+
+PREDID: 3
+PRED: dice
+
+
+SENTID: 5
+SENT: discard oil and garlic .
+PREDID: 0
+PRED: discard
+  DOBJ: oil, garlic
+
+
+SENTID: 6
+SENT: In a small bowl , mix remaining olive oil , balsamic vinegar , mustard , salt , and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: remaining olive oil , balsamic vinegar , mustard , salt , pepper
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: In a large bowl , gently toss the dressing with the mixed salad greens , arugula , avocado , sun-dried tomatoes , and olives .
+PREDID: 0
+PRED: toss
+  DOBJ: the dressing
+  PARG: a large bowl
+    PREP: in
+  PARG: the mixed salad greens , arugula , avocado , sun-dried tomatoes , olives
+    PREP: with
+  OARG: gently
+
+
+SENTID: 8
+SENT: Top with diced chicken to serve .
+PREDID: 0
+PRED: top
+  PARG: diced chicken
+    PREP: with
+  PARG: serve
+    PREP: to
+

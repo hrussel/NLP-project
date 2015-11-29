@@ -1,0 +1,216 @@
+SENTID: 0
+SENT: Preheat oven to 425 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine 2 cups flour , undissolved yeast , sugar and salt in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: 2 cups flour , undissolved yeast , sugar, salt
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 2
+SENT: Add very warm water and oil ;
+PREDID: 0
+PRED: add
+  DOBJ: warm water
+  OARG: very
+
+PREDID: 1
+PRED: oil
+
+
+SENTID: 3
+SENT: mix until well blended , about 1 minute .
+PREDID: 0
+PRED: mix
+  PARG: well blended , about 1 minute
+    PREP: until
+
+
+SENTID: 4
+SENT: Gradually add enough remaining flour to make a soft dough .
+PREDID: 0
+PRED: add
+  DOBJ: remaining flour
+  PARG: make a soft dough
+    PREP: to
+  OARG: gradually
+  OARG: enough
+
+
+SENTID: 5
+SENT: Kneadon a floured surface , adding additional flour if necessary , until smooth and elastic , about 4 minutes .
+PREDID: 0
+PRED: flour
+  DOBJ: kneadon a floured surface , adding additional
+  PARG: necessary
+    PREP: if
+  PARG: smooth, elastic , about 4 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Divide dough into 8 portions ;
+PREDID: 0
+PRED: divide
+  DOBJ: dough
+  PARG: 8 portions
+    PREP: into
+
+
+SENTID: 7
+SENT: cover .
+PREDID: 0
+PRED: cover
+
+
+SENTID: 8
+SENT: -LRB- If using RapidRise Yeast , let dough rise at this point for 10 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: dough rise
+  PARG: using rapidrise yeast
+    PREP: if
+  PARG: this point
+    PREP: at
+  PARG: 10 minutes
+    PREP: for
+  OARG: 
+
+
+SENTID: 9
+SENT: -RRB- Pat each portion of dough with floured hands into an 8-inch circle on a greased baking sheet .
+PREDID: 0
+PRED: pat
+  DOBJ: each portion of dough
+  PARG: floured hands
+    PREP: with
+  PARG: an 8-inch circle
+    PREP: into
+  PARG: a greased baking sheet
+    PREP: on
+  OARG: 
+
+
+SENTID: 10
+SENT: Form a rim by pinching the edge of the dough .
+PREDID: 0
+PRED: form
+  DOBJ: a rim
+  PARG: pinching the edge of the dough
+    PREP: by
+
+
+SENTID: 11
+SENT: Add a second crust to the same baking sheet .
+PREDID: 0
+PRED: add
+  DOBJ: a second crust
+  PARG: the same baking sheet
+    PREP: to
+
+
+SENTID: 12
+SENT: Remove crusts to a wire rack to cool .
+PREDID: 0
+PRED: remove
+  DOBJ: crusts
+  PARG: a wire rack
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 13
+SENT: Continue with remaining pizza dough .
+PREDID: 0
+PRED: continue
+  PARG: remaining pizza dough
+    PREP: with
+
+
+SENTID: 14
+SENT: -LRB- Works best to use several baking sheets .
+PREDID: 0
+PRED: best
+  DOBJ: works
+  PARG: use several baking sheets
+    PREP: to
+
+
+SENTID: 15
+SENT: -RRB- May use crusts immediately or place in freezer bags and freeze for up to 1 month .
+PREDID: 0
+PRED: place
+  DOBJ: may use crusts
+  PARG: freezer bags
+    PREP: in
+  OARG: immediately
+
+PREDID: 1
+PRED: freeze
+  PARG: up
+    PREP: for
+  PARG: 1 month
+    PREP: to
+
+
+SENTID: 16
+SENT: When ready to bake , preheat oven to 475 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 475 degrees f.
+    PREP: to
+  OARG: when ready
+  OARG: to bake
+
+
+SENTID: 17
+SENT: Spread each crust with pizza sauce .
+PREDID: 0
+PRED: spread
+  DOBJ: each crust
+  PARG: pizza sauce
+    PREP: with
+
+
+SENTID: 18
+SENT: Top with desired toppings to make Halloween designs !
+PREDID: 0
+PRED: top
+  PARG: desired toppings
+    PREP: with
+  PARG: make halloween designs
+    PREP: to
+
+
+SENTID: 19
+SENT: Repeat with remaining pizzas .
+PREDID: 0
+PRED: repeat
+  PARG: remaining pizzas
+    PREP: with
+
+
+SENTID: 20
+SENT: Place on a baking sheet and bake for 6 to 8 minutes , until cheese is melted and lightly browned and bottom of crust is browned .
+PREDID: 0
+PRED: place
+  PARG: a baking sheet
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: 6 to 8 minutes
+    PREP: for
+  PARG: cheese is melted, lightly browned, bottom of crust is browned
+    PREP: until
+

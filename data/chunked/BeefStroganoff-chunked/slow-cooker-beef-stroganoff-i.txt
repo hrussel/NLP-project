@@ -1,0 +1,33 @@
+SENTID: 0
+SENT: In a slow cooker , combine the meat , soup , onion , Worcestershire sauce and water .
+PREDID: 0
+PRED: combine
+  DOBJ: the meat , soup , onion , worcestershire sauce, water
+  PARG: a slow cooker
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook on Low setting for 8 hours , or on High setting for about 5 hours .
+PREDID: 0
+PRED: cook
+  PARG: low setting
+    PREP: on
+  PARG: 8 hours
+    PREP: for
+  PARG: high setting
+    PREP: on
+  PARG: about 5 hours
+    PREP: for
+
+
+SENTID: 2
+SENT: Stir in cream cheese just before serving .
+PREDID: 0
+PRED: stir
+  PARG: cream cheese
+    PREP: in
+  PARG: serving
+    PREP: before
+  OARG: just
+

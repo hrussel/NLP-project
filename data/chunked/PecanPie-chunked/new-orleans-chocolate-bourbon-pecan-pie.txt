@@ -1,0 +1,67 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Beat the sugar , corn syrup , bourbon , eggs , butter , and salt together in a mixing bowl until smooth and creamy .
+PREDID: 0
+PRED: beat
+  DOBJ: the sugar , corn syrup , bourbon , eggs , butter , salt
+  PARG: a mixing bowl
+    PREP: in
+  PARG: smooth, creamy
+    PREP: until
+  OARG: together
+
+
+SENTID: 2
+SENT: Fold in the pecans and chocolate chips .
+PREDID: 0
+PRED: fold
+  PARG: the pecans, chocolate chips
+    PREP: in
+
+
+SENTID: 3
+SENT: Pour the mixture into the prepared pie crust .
+PREDID: 0
+PRED: pour
+  DOBJ: the mixture
+  PARG: the prepared pie crust
+    PREP: into
+
+
+SENTID: 4
+SENT: If desired , cover the edges of the pie with aluminum foil strips to prevent excessive browning .
+PREDID: 0
+PRED: cover
+  DOBJ: the edges of the pie
+  PARG: desired
+    PREP: if
+  PARG: aluminum foil strips
+    PREP: with
+  OARG: to prevent excessive browning
+
+
+SENTID: 5
+SENT: Bake in preheated oven until the center sets , about 50 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: the center sets , about 50 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Cool before serving .
+PREDID: 0
+PRED: cool
+  PARG: serving
+    PREP: before
+

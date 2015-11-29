@@ -1,0 +1,53 @@
+SENTID: 0
+SENT: Heat butter in a skillet over medium-low heat until light brown .
+PREDID: 0
+PRED: heat
+  DOBJ: butter
+  PARG: a skillet
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+  PARG: light brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Stir in mushrooms with a pinch of salt .
+PREDID: 0
+PRED: stir
+  PARG: mushrooms
+    PREP: in
+  PARG: a pinch of salt
+    PREP: with
+
+
+SENTID: 2
+SENT: Cook , stirring , until mushrooms shrink and are almost tender , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: stirring
+  PARG: mushrooms shrink, are almost tender , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in black pepper .
+PREDID: 0
+PRED: stir
+  PARG: black pepper
+    PREP: in
+
+
+SENTID: 4
+SENT: Pour in wine and cook , stirring , until mushrooms are tender , about 5 minutes .
+PREDID: 0
+PRED: pour
+  PARG: wine
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  DOBJ: stirring
+  PARG: mushrooms are tender , about 5 minutes
+    PREP: until
+

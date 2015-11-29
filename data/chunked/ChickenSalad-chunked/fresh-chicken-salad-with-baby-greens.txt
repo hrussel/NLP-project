@@ -1,0 +1,94 @@
+SENTID: 0
+SENT: Heat 1 tablespoon olive oil in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon olive oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook chicken breast in the skillet 10 minutes on each side , or until juices run clear .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken breast
+  PARG: the skillet 10 minutes
+    PREP: in
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove chicken from skillet and shred .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: skillet
+    PREP: from
+
+PREDID: 1
+PRED: shred
+
+
+SENTID: 3
+SENT: Return to skillet , mix in pesto sauce , and continue cooking just until sauce is heated through .
+PREDID: 0
+PRED: return
+  PARG: skillet
+    PREP: to
+
+PREDID: 1
+PRED: mix
+  PARG: pesto sauce
+    PREP: in
+
+PREDID: 2
+PRED: continue
+  DOBJ: cooking
+  PARG: sauce is heated through
+    PREP: until
+  OARG: just
+
+
+SENTID: 4
+SENT: Place greens in a bowl , and top with chicken , bell pepper , cucumber , and onion .
+PREDID: 0
+PRED: place
+  DOBJ: greens
+  PARG: a bowl
+    PREP: in
+
+PREDID: 1
+PRED: top
+  PARG: chicken , bell pepper , cucumber , onion
+    PREP: with
+
+
+SENTID: 5
+SENT: Drizzle with remaining olive oil , balsamic vinegar , and honey .
+PREDID: 0
+PRED: drizzle
+  PARG: remaining olive oil , balsamic vinegar , honey
+    PREP: with
+
+
+SENTID: 6
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Toss , and serve .
+PREDID: 0
+PRED: toss
+
+PREDID: 1
+PRED: serve
+

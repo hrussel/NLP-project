@@ -1,0 +1,146 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Spray an 8x8-inch baking dish with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: an 8x8-inch baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Cook and stir the ground beef in a skillet over medium heat , breaking it apart as it cooks , until the meat is no longer pink , about 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef
+
+PREDID: 1
+PRED: stir
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat , breaking it
+    PREP: over
+  PARG: it cooks
+    PREP: as
+  PARG: the meat is no longer pink , about 10 minutes
+    PREP: until
+  OARG: apart
+
+
+SENTID: 3
+SENT: Mix together the cottage cheese , egg , green onion , parsley , and salt and pepper in a bowl until the mixture is well combined .
+PREDID: 0
+PRED: mix
+  DOBJ: the cottage cheese , egg , green onion , parsley , salt, pepper
+  PARG: a bowl
+    PREP: in
+  PARG: the mixture is well combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir in the cooked ground beef .
+PREDID: 0
+PRED: stir
+  PARG: the cooked ground beef
+    PREP: in
+
+
+SENTID: 5
+SENT: Place the mushrooms , hollow sides up , close together in the prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: the mushrooms , hollow sides
+  PARG: the prepared baking dish
+    PREP: in
+  OARG: up
+  OARG: close
+  OARG: together
+
+
+SENTID: 6
+SENT: Spoon about 1 tablespoon of the cheese filling into the cavity of each mushroom , and allow remaining filling to overflow between mushrooms .
+PREDID: 0
+PRED: spoon
+  PARG: 1 tablespoon of the cheese filling
+    PREP: about
+  PARG: the cavity of each mushroom
+    PREP: into
+
+PREDID: 1
+PRED: allow
+  DOBJ: remaining filling
+  PARG: overflow
+    PREP: to
+  PARG: mushrooms
+    PREP: between
+
+
+SENTID: 7
+SENT: Bake in the preheated oven until the cheese filling is set , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the cheese filling is
+    PREP: until
+
+PREDID: 1
+PRED: set
+  PARG: 15 minutes
+    PREP: about
+
+
+SENTID: 8
+SENT: Remove dish from oven , and spread the pasta sauce evenly over the mushrooms .
+PREDID: 0
+PRED: remove
+  DOBJ: dish
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: spread
+  DOBJ: the pasta sauce
+  PARG: the mushrooms
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 9
+SENT: Sprinkle an even layer of mozzarella cheese over the sauce , return the dish to the oven , and broil until the cheese is bubbling and beginning to brown , about 5 more minutes .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: an even layer of mozzarella cheese
+  PARG: the sauce
+    PREP: over
+
+PREDID: 1
+PRED: return
+  DOBJ: the dish
+  PARG: the oven
+    PREP: to
+
+PREDID: 2
+PRED: broil
+  PARG: the cheese is bubbling, beginning to brown , about 5 more minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Let the mushrooms stand 5 minutes before serving .
+PREDID: 0
+PRED: let
+  PARG: serving
+    PREP: before
+  OARG: the mushrooms stand 5 minutes
+

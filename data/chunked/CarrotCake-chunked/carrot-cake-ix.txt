@@ -1,0 +1,122 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease two 9 inch round cake pans .
+PREDID: 0
+PRED: grease
+  DOBJ: two 9 inch round cake pans
+
+
+SENTID: 2
+SENT: In a medium bowl , stir together the flour , cinnamon and sugar .
+PREDID: 0
+PRED: stir
+  DOBJ: the flour , cinnamon, sugar
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Add the oil and eggs , mix until blended , then stir in the carrots and nuts .
+PREDID: 0
+PRED: add
+  DOBJ: the oil, eggs
+
+PREDID: 1
+PRED: mix
+  PARG: blended
+    PREP: until
+
+PREDID: 2
+PRED: stir
+  PARG: the carrots, nuts
+    PREP: in
+
+
+SENTID: 4
+SENT: Divide the batter evenly between the two prepared pans .
+PREDID: 0
+PRED: divide
+  DOBJ: the batter
+  PARG: the two prepared pans
+    PREP: between
+  OARG: evenly
+
+
+SENTID: 5
+SENT: Bake for 25 to 30 minutes in the preheated oven .
+PREDID: 0
+PRED: bake
+  PARG: 25 to 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 6
+SENT: Cool cakes on wire racks before removing from pans .
+PREDID: 0
+PRED: cool
+  DOBJ: cakes
+  PARG: wire racks
+    PREP: on
+  PARG: removing
+    PREP: before
+  PARG: pans
+    PREP: from
+
+
+SENTID: 7
+SENT: To make the frosting , use the second set of ingredients .
+PREDID: 0
+PRED: use
+  DOBJ: the second set of ingredients
+  PARG: make the frosting
+    PREP: to
+
+
+SENTID: 8
+SENT: In a medium bowl , cream together the butter and cream cheese , add the sugar and cream well .
+PREDID: 0
+PRED: cream
+  DOBJ: the butter, cream cheese
+  PARG: a medium bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: add
+  DOBJ: the sugar
+
+PREDID: 2
+PRED: cream
+  OARG: well
+
+
+SENTID: 9
+SENT: Stir in the nuts and vanilla .
+PREDID: 0
+PRED: stir
+  PARG: the nuts, vanilla
+    PREP: in
+
+
+SENTID: 10
+SENT: Use to fill and frost the cooled cake layers .
+PREDID: 0
+PRED: use
+  PARG: fill
+    PREP: to
+
+PREDID: 1
+PRED: frost
+  DOBJ: the cooled cake layers
+

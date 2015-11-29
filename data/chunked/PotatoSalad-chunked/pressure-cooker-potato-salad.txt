@@ -1,0 +1,121 @@
+SENTID: 0
+SENT: Place potatoes in pressure cooker with water .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: pressure cooker
+    PREP: in
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Cook on high pressure 3 minutes .
+PREDID: 0
+PRED: cook
+  PARG: high pressure 3 minutes
+    PREP: on
+
+
+SENTID: 2
+SENT: If potatoes are larger , cook for 4 minutes .
+PREDID: 0
+PRED: cook
+  PARG: potatoes are larger
+    PREP: if
+  PARG: 4 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Let steam release for 3 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: steam release
+  PARG: 3 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Then quickly release pressure and open cooker .
+PREDID: 0
+PRED: open
+  DOBJ: release pressure
+  OARG: then
+  OARG: quickly
+
+
+SENTID: 5
+SENT: Peel and dice potatoes when they are cool enough to handle .
+PREDID: 0
+PRED: peel
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: dice
+  PARG: handle
+    PREP: to
+  OARG: when they are cool
+  OARG: enough
+
+
+SENTID: 6
+SENT: Alternate layers of potatoes , onion , and celery in a large bowl .
+PREDID: 0
+PRED: alternate
+  DOBJ: layers of potatoes , onion , celery
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Season each layer with salt and pepper .
+PREDID: 0
+PRED: season
+  DOBJ: each layer
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Top with the chopped egg and sprinkle with dill .
+PREDID: 0
+PRED: top
+  PARG: the chopped egg
+    PREP: with
+
+PREDID: 1
+PRED: sprinkle
+  PARG: dill
+    PREP: with
+
+
+SENTID: 9
+SENT: Mix together the mayonnaise , mustard , and cider vinegar in a small bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the mayonnaise , mustard , cider vinegar
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Gently fold the mayonnaise mixture into the potatoes .
+PREDID: 0
+PRED: fold
+  DOBJ: the mayonnaise mixture
+  PARG: the potatoes
+    PREP: into
+  OARG: gently
+
+
+SENTID: 11
+SENT: Chill at least one hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: least one hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

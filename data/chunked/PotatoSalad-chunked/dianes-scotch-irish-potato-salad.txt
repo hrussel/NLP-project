@@ -1,0 +1,128 @@
+SENTID: 0
+SENT: Place potatoes in a large pot , cover with water , and bring to a boil .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+PREDID: 2
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to cool .
+PREDID: 0
+PRED: drain
+  OARG: to cool
+
+PREDID: 1
+PRED: allow
+
+
+SENTID: 3
+SENT: Remove skins from potatoes and cut into chunks .
+PREDID: 0
+PRED: remove
+  DOBJ: skins
+  PARG: potatoes
+    PREP: from
+
+PREDID: 1
+PRED: cut
+  PARG: chunks
+    PREP: into
+
+
+SENTID: 4
+SENT: Place in a large bowl .
+PREDID: 0
+PRED: place
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Lightly stir celery , red onion , eggs , black olives , green olives , dill pickle relish , sweet pickle relish , and paprika with potatoes until thoroughly combined .
+PREDID: 0
+PRED: stir
+  DOBJ: celery , red onion , eggs , black olives , green olives , dill pickle relish , sweet pickle relish , paprika
+  PARG: potatoes
+    PREP: with
+  PARG: thoroughly combined
+    PREP: until
+  OARG: lightly
+
+
+SENTID: 6
+SENT: Mix in mustard , vinegar , and mayonnaise ;
+PREDID: 0
+PRED: mix
+  PARG: mustard , vinegar , mayonnaise
+    PREP: in
+
+
+SENTID: 7
+SENT: stir lightly until all ingredients are coated and moist .
+PREDID: 0
+PRED: stir
+  PARG: all ingredients are coated, moist
+    PREP: until
+  OARG: lightly
+
+
+SENTID: 8
+SENT: If salad is n't moist enough , stir up to 1/2 cup more mayonnaise into salad .
+PREDID: 0
+PRED: stir
+  DOBJ: moist
+  PARG: salad is
+    PREP: if
+  PARG: 1/2 cup more mayonnaise
+    PREP: to
+  PARG: salad
+    PREP: into
+  OARG: n't
+  OARG: enough
+  OARG: up
+
+
+SENTID: 9
+SENT: Season with salt and ground black pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, ground black pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 10
+SENT: For best flavor , make the day before and refrigerate overnight .
+PREDID: 0
+PRED: make
+  DOBJ: the day
+  PARG: best flavor
+    PREP: for
+  PARG: and refrigerate
+    PREP: before
+  OARG: overnight
+

@@ -1,0 +1,73 @@
+SENTID: 0
+SENT: Prepare Grilled & Ready ¨ Frozen Grilled Chicken Breast Strips according to package directions .
+PREDID: 0
+PRED: prepare
+  DOBJ: grilled
+
+PREDID: 1
+PRED: ready
+  DOBJ: frozen grilled chicken breast strips according
+  PARG: package directions
+    PREP: to
+
+
+SENTID: 1
+SENT: Meanwhile , in a large skillet , cook and stir mushrooms in hot oil for 4 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: mushrooms
+  PARG: a large skillet
+    PREP: in
+  OARG: meanwhile
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: 4 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Add sweet pepper ;
+PREDID: 0
+PRED: add
+  DOBJ: sweet pepper
+
+
+SENTID: 3
+SENT: cook and stir for 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: 2 minutes
+    PREP: for
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 4
+SENT: Add chicken and stir-fry sauce ;
+PREDID: 0
+PRED: add
+  DOBJ: chicken, stir-fry sauce
+
+
+SENTID: 5
+SENT: cook and stir until heated through .
+PREDID: 0
+PRED: cook
+  PARG: heated through
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 6
+SENT: Serve over hot cooked linguine .
+PREDID: 0
+PRED: serve
+  PARG: hot cooked linguine
+    PREP: over
+

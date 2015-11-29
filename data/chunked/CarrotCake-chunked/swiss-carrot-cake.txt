@@ -1,0 +1,118 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease and flour a 9 inch square baking dish or 9 inch Bundt pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9 inch square baking dish or 9 inch bundt pan
+
+PREDID: 1
+PRED: flour
+
+
+SENTID: 2
+SENT: In a large bowl , whip egg yolks and sugar with an electric mixer until light and fluffy .
+PREDID: 0
+PRED: whip
+  DOBJ: egg yolks, sugar
+  PARG: a large bowl
+    PREP: in
+  PARG: an electric mixer
+    PREP: with
+  PARG: light, fluffy
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in the almonds , carrots ,1 lemon 's juice and zest , flour and baking powder .
+PREDID: 0
+PRED: stir
+  PARG: the almonds , carrots ,1 lemon 's juice, zest , flour, baking powder
+    PREP: in
+
+
+SENTID: 4
+SENT: In a separate bowl with a clean beater , whip egg whites with a pinch of salt until they can hold a peak .
+PREDID: 0
+PRED: whip
+  DOBJ: egg whites
+  PARG: a separate bowl
+    PREP: in
+  PARG: a clean beater
+    PREP: with
+  PARG: a pinch of salt
+    PREP: with
+  PARG: they can hold a peak
+    PREP: until
+
+
+SENTID: 5
+SENT: Fold egg whites into the carrot batter .
+PREDID: 0
+PRED: fold
+  DOBJ: egg whites
+  PARG: the carrot batter
+    PREP: into
+
+
+SENTID: 6
+SENT: Pour into the prepared cake pan .
+PREDID: 0
+PRED: pour
+  PARG: the prepared cake pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Bake for 50 minutes , or until a small knife inserted into the center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 50 minutes
+    PREP: for
+  PARG: a small knife inserted into the center comes out clean
+    PREP: until
+
+
+SENTID: 8
+SENT: For icing , mix the remaining lemon 's juice with confectioners ' sugar until it can be drizzled easily from a spoon .
+PREDID: 0
+PRED: mix
+  DOBJ: the remaining lemon 's juice
+  PARG: icing
+    PREP: for
+  PARG: confectioners ' sugar
+    PREP: with
+  PARG: it can be drizzled easily from a spoon
+    PREP: until
+
+
+SENTID: 9
+SENT: Pour over the cake while warm or cooled .
+PREDID: 0
+PRED: pour
+  PARG: the cake
+    PREP: over
+  PARG: warm or cooled
+    PREP: while
+
+
+SENTID: 10
+SENT: If making in a Bundt pan , remove from the pan before glazing .
+PREDID: 0
+PRED: remove
+  PARG: making
+    PREP: if
+  PARG: a bundt pan
+    PREP: in
+  PARG: the pan
+    PREP: from
+  PARG: glazing
+    PREP: before
+

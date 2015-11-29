@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Cook orzo in the boiling water , stirring occasionally until cooked through but firm to the bite , 10 to 11 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: orzo
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 10 to 11 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 2
+SENT: Drain and rinse under cold water .
+PREDID: 0
+PRED: drain
+  PARG: cold water
+    PREP: under
+
+PREDID: 1
+PRED: rinse
+
+
+SENTID: 3
+SENT: Mix orzo , spinach , chicken , tomatoes , pine nuts , sun-dried tomatoes , and capers in a large bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: orzo , spinach , chicken , tomatoes , pine nuts , sun-dried tomatoes , capers
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Whisk balsamic vinegar , olive oil , sugar , parsley , basil , garlic , oregano , salt , and pepper together in a bowl ;
+PREDID: 0
+PRED: whisk
+  DOBJ: balsamic vinegar , olive oil , sugar , parsley , basil , garlic , oregano , salt , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: drizzle over salad .
+PREDID: 0
+PRED: drizzle
+  PARG: salad
+    PREP: over
+
+
+SENTID: 6
+SENT: Toss to coat .
+PREDID: 0
+PRED: toss
+  PARG: coat
+    PREP: to
+
+
+SENTID: 7
+SENT: Sprinkle Parmesan cheese over salad .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: parmesan cheese
+  PARG: salad
+    PREP: over
+

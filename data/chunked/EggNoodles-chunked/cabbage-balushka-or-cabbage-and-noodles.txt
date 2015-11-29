@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Stir in egg noodles and return to a boil .
+PREDID: 0
+PRED: stir
+  PARG: egg noodles
+    PREP: in
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook noodles uncovered , stirring occasionally , until tender but still slightly firm , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: noodles uncovered , stirring
+  PARG: tender but still slightly firm , about 5 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain well .
+PREDID: 0
+PRED: drain
+  OARG: well
+
+
+SENTID: 4
+SENT: Melt butter in a large skillet or wok over medium heat ;
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet or wok
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: cook and stir onion until browned , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: onion
+
+PREDID: 1
+PRED: stir
+  PARG: browned , about 8 minutes
+    PREP: until
+
+
+SENTID: 6
+SENT: Cook and stir cabbage into onions until cabbage has wilted , another 5 to 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: cabbage
+
+PREDID: 1
+PRED: stir
+  PARG: onions
+    PREP: into
+  PARG: cabbage has wilted , another 5 to 8 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Gently stir cooked noodles into cabbage mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: cooked noodles
+  PARG: cabbage mixture
+    PREP: into
+  OARG: gently
+
+
+SENTID: 8
+SENT: season with salt and black pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, black pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

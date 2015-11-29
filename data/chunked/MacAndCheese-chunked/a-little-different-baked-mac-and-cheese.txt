@@ -1,0 +1,88 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook elbow macaroni in the boiling water , stirring occasionally until cooked through but firm to the bite , 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: elbow macaroni
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: cooked through but firm to the bite , 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Spread half the macaroni into a 9x13-inch casserole dish ;
+PREDID: 0
+PRED: spread
+  DOBJ: half the macaroni
+  PARG: a 9x13-inch casserole dish
+    PREP: into
+
+
+SENTID: 5
+SENT: top with half the tomatoes and half the Cheddar cheese .
+PREDID: 0
+PRED: top
+  PARG: half the tomatoes, half the cheddar cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Repeat layering with remaining macaroni , tomatoes , and Cheddar cheese .
+PREDID: 0
+PRED: repeat
+  DOBJ: layering
+  PARG: remaining macaroni , tomatoes , cheddar cheese
+    PREP: with
+
+
+SENTID: 7
+SENT: Pour milk over entire casserole ;
+PREDID: 0
+PRED: pour
+  DOBJ: milk
+  PARG: entire casserole
+    PREP: over
+
+
+SENTID: 8
+SENT: sprinkle with crushed crackers .
+PREDID: 0
+PRED: sprinkle
+  PARG: crushed crackers
+    PREP: with
+
+
+SENTID: 9
+SENT: Bake in the preheated oven until cheese is melted and crackers are golden , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: cheese is melted, crackers are golden , about 30 minutes
+    PREP: until
+

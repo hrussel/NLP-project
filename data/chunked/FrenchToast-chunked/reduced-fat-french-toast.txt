@@ -1,0 +1,46 @@
+SENTID: 0
+SENT: Beat together egg substitute , milk , vanilla and cinnamon .
+PREDID: 0
+PRED: beat
+  DOBJ: egg substitute , milk , vanilla, cinnamon
+  OARG: together
+
+
+SENTID: 1
+SENT: Dip bread slices in egg mixture until both sides are soaked .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: egg mixture
+    PREP: in
+  PARG: both sides are soaked
+    PREP: until
+
+
+SENTID: 2
+SENT: Spray a skillet or frying pan with cooking spray and heat over medium high heat .
+PREDID: 0
+PRED: spray
+  DOBJ: a skillet or frying pan
+  PARG: cooking spray
+    PREP: with
+
+PREDID: 1
+PRED: heat
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Place bread slices into pan and cook until golden brown on both sides
+PREDID: 0
+PRED: place
+  DOBJ: bread slices
+  PARG: pan
+    PREP: into
+
+PREDID: 1
+PRED: cook
+  PARG: golden brown on both sides
+    PREP: until
+

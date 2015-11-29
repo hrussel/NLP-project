@@ -1,0 +1,115 @@
+SENTID: 0
+SENT: Dip bread slices in beaten eggs .
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: beaten eggs
+    PREP: in
+
+
+SENTID: 1
+SENT: Heat a lightly oiled griddle or frying pan over medium high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: a lightly oiled griddle or frying pan
+  PARG: medium high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cook until browned on both sides .
+PREDID: 0
+PRED: cook
+  PARG: browned on both sides
+    PREP: until
+
+
+SENTID: 3
+SENT: Set aside but keep warm .
+PREDID: 0
+PRED: set
+  DOBJ: warm
+  OARG: aside
+
+PREDID: 1
+PRED: keep
+
+
+SENTID: 4
+SENT: Place bacon in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: skillet
+  PARG: a large
+    PREP: in
+  OARG: deep
+  OARG: bacon
+
+
+SENTID: 5
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Drain and set aside .
+PREDID: 0
+PRED: drain
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 7
+SENT: Reserve 1 tablespoon of bacon grease in pan and fry remaining two eggs .
+PREDID: 0
+PRED: reserve
+  DOBJ: 1 tablespoon of bacon
+
+PREDID: 1
+PRED: grease
+  PARG: pan
+    PREP: in
+
+PREDID: 2
+PRED: fry
+  DOBJ: remaining two eggs
+
+
+SENTID: 8
+SENT: Place one piece of French toast on each of two plates .
+PREDID: 0
+PRED: place
+  DOBJ: one piece of french toast
+  PARG: each of two plates
+    PREP: on
+
+
+SENTID: 9
+SENT: Place the fried eggs on top of the bread , top the eggs with strips of bacon .
+PREDID: 0
+PRED: place
+  DOBJ: the fried eggs
+  PARG: top of the bread
+    PREP: on
+
+PREDID: 1
+PRED: top
+  DOBJ: the eggs
+  PARG: strips of bacon
+    PREP: with
+
+
+SENTID: 10
+SENT: Cover with the remaining pieces of French toast .
+PREDID: 0
+PRED: cover
+  PARG: the remaining pieces of french toast
+    PREP: with
+

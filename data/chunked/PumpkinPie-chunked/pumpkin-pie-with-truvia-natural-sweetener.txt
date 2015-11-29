@@ -1,0 +1,101 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Roll out pastry on floured surface 1 inch larger than inverted 9-inch pie pan .
+PREDID: 0
+PRED: roll
+  PARG: pastry
+    PREP: out
+  PARG: floured surface 1 inch larger
+    PREP: on
+  PARG: inverted 9-inch pie pan
+    PREP: than
+
+
+SENTID: 2
+SENT: Ease pastry into pan ;
+PREDID: 0
+PRED: ease
+  DOBJ: pastry
+  PARG: pan
+    PREP: into
+
+
+SENTID: 3
+SENT: flute and trim edge .
+PREDID: 0
+PRED: flute
+  DOBJ: edge
+
+PREDID: 1
+PRED: trim
+
+
+SENTID: 4
+SENT: Mix pumpkin , evaporated milk , and eggs on medium speed until well blended ;
+PREDID: 0
+PRED: mix
+  DOBJ: pumpkin , evaporated milk , eggs
+  PARG: medium speed
+    PREP: on
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 5
+SENT: add additional ingredients ;
+PREDID: 0
+PRED: add
+  DOBJ: additional ingredients
+
+
+SENTID: 6
+SENT: mix well .
+PREDID: 0
+PRED: mix
+  OARG: well
+
+
+SENTID: 7
+SENT: Pour mixture into prepared pastry shell .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: prepared pastry shell
+    PREP: into
+
+
+SENTID: 8
+SENT: Bake for 35 to 40 minutes or until knife inserted into center comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 35 to 40 minutes
+    PREP: for
+  PARG: knife inserted into center comes out clean
+    PREP: until
+
+
+SENTID: 9
+SENT: Cool on wire rack .
+PREDID: 0
+PRED: cool
+  PARG: wire rack
+    PREP: on
+
+
+SENTID: 10
+SENT: Top with whipped topping , if desired .
+PREDID: 0
+PRED: top
+  PARG: whipped topping
+    PREP: with
+  PARG: desired
+    PREP: if
+

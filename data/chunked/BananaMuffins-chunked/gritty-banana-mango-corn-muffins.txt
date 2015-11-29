@@ -1,0 +1,89 @@
+SENTID: 0
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Whisk together the cornmeal , couscous , brown sugar , baking powder , baking soda , and salt in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the cornmeal , couscous , brown sugar , baking powder , baking soda , salt
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Stir in the dried mango .
+PREDID: 0
+PRED: stir
+  PARG: the dried mango
+    PREP: in
+
+
+SENTID: 3
+SENT: Whisk together the mashed bananas , eggs , vegetable oil , vanilla extract , and buttermilk .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mashed bananas , eggs , vegetable oil , vanilla extract , buttermilk
+  OARG: together
+
+
+SENTID: 4
+SENT: Stir the cornmeal mixture into the banana mixture , and let the batter rest until the couscous absorbs some of the moisture , about 5 minutes .
+PREDID: 0
+PRED: stir
+  DOBJ: the cornmeal mixture
+  PARG: the banana mixture
+    PREP: into
+
+PREDID: 1
+PRED: let
+  DOBJ: the batter rest
+  PARG: the couscous absorbs some of the moisture , about 5 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Spoon the batter into ungreased muffin cups , filling them 2/3 full .
+PREDID: 0
+PRED: spoon
+  DOBJ: the batter
+  PARG: ungreased muffin cups , filling them 2/3 full
+    PREP: into
+
+
+SENTID: 6
+SENT: Bake in the preheated oven until lightly browned , and a toothpick inserted into the center comes out clean , about 15 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: lightly browned , a toothpick inserted into the center comes out clean , about 15 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Cool in the pans for 10 minutes before removing .
+PREDID: 0
+PRED: cool
+  PARG: the pans
+    PREP: in
+  PARG: 10 minutes
+    PREP: for
+  PARG: removing
+    PREP: before
+
+
+SENTID: 8
+SENT: Serve warm or at room temperature .
+PREDID: 0
+PRED: serve
+  DOBJ: warm
+  PARG: room temperature
+    PREP: at
+

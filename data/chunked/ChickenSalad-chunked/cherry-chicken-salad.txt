@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: In a large bowl , combine the chicken , dried cherries , celery , nuts , mayonnaise , milk , salt and pepper and apple if desired .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , dried cherries , celery , nuts , mayonnaise , milk , salt, pepper, apple
+  PARG: a large bowl
+    PREP: in
+  PARG: desired
+    PREP: if
+
+
+SENTID: 1
+SENT: Toss together well and refrigerate until chilled .
+PREDID: 0
+PRED: toss
+  PARG: chilled
+    PREP: until
+  OARG: together
+  OARG: well
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 2
+SENT: Serve on toasted cracked wheat bread or croissants .
+PREDID: 0
+PRED: serve
+  PARG: toasted cracked wheat bread or croissants
+    PREP: on
+

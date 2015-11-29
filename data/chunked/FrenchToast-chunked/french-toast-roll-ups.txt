@@ -1,0 +1,112 @@
+SENTID: 0
+SENT: Beat cream cheese , egg yolk , and 1/4 cup sugar together in a bowl until smooth .
+PREDID: 0
+PRED: beat
+  DOBJ: cream cheese , egg yolk , 1/4 cup sugar
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Pour melted butter into a separate shallow bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: melted butter
+  PARG: a separate shallow bowl
+    PREP: into
+
+
+SENTID: 2
+SENT: Mix remaining 3/4 cup sugar and cinnamon together in a third shallow bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: remaining 3/4 cup sugar, cinnamon
+  PARG: a third shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Spread even amounts of the cream cheese mixture onto one side of each bread slice .
+PREDID: 0
+PRED: spread
+  DOBJ: amounts of the cream cheese mixture
+  PARG: one side of each bread slice
+    PREP: onto
+  OARG: even
+
+
+SENTID: 4
+SENT: Roll the bread into a cylinder around the cream cheese filling .
+PREDID: 0
+PRED: roll
+  DOBJ: the bread
+  PARG: a cylinder
+    PREP: into
+  PARG: the cream cheese filling
+    PREP: around
+
+
+SENTID: 5
+SENT: Brush melted butter around the outside of each cylinder and roll the cylinders in the cinnamon-sugar mixture to coat .
+PREDID: 0
+PRED: brush
+  DOBJ: melted butter
+  PARG: the outside of each cylinder
+    PREP: around
+
+PREDID: 1
+PRED: roll
+  DOBJ: the cylinders
+  PARG: the cinnamon-sugar mixture
+    PREP: in
+  PARG: coat
+    PREP: to
+
+
+SENTID: 6
+SENT: Arrange the rolls in a dish , cover with plastic wrap , and freeze for at least 2 hours .
+PREDID: 0
+PRED: arrange
+  DOBJ: the rolls
+  PARG: a dish
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: plastic wrap
+    PREP: with
+
+PREDID: 2
+PRED: freeze
+  PARG: at least 2 hours
+    PREP: for
+
+
+SENTID: 7
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 8
+SENT: Transfer frozen rolls to a baking dish and bake in preheated oven until hot in the center , 10 to 12 minutes .
+PREDID: 0
+PRED: transfer
+  DOBJ: frozen rolls
+  PARG: a baking dish
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: hot in the center , 10 to 12 minutes
+    PREP: until
+

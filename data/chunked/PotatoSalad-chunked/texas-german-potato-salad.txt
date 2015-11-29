@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and fill with enough water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: fill
+  PARG: enough water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil and cook until tender enough to pierce with a fork .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  PARG: tender enough to pierce with a fork
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , cool enough to handle , and cut into cubes .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: cool
+  PARG: handle
+    PREP: to
+  OARG: enough
+
+PREDID: 2
+PRED: cut
+  PARG: cubes
+    PREP: into
+
+
+SENTID: 3
+SENT: Meanwhile , cook bacon in a large skillet over medium heat until browned and crisp .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: browned, crisp
+    PREP: until
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Remove from the pan with a slotted spoon and drain on paper towels .
+PREDID: 0
+PRED: remove
+  PARG: the pan
+    PREP: from
+  PARG: a slotted spoon
+    PREP: with
+
+PREDID: 1
+PRED: drain
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 5
+SENT: Reserve bacon grease .
+PREDID: 0
+PRED: reserve
+  DOBJ: bacon
+
+PREDID: 1
+PRED: grease
+
+
+SENTID: 6
+SENT: In a large bowl , combine the potatoes , sour cream , mayonnaise , mustard , green onions , olives , eggs , Italian seasoning and ranch dressing .
+PREDID: 0
+PRED: combine
+  DOBJ: the potatoes , sour cream , mayonnaise , mustard , green onions , olives , eggs , italian seasoning, ranch dressing
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Crumble the bacon into the bowl and pour half of the reserved bacon grease over all .
+PREDID: 0
+PRED: crumble
+  DOBJ: the bacon
+  PARG: the bowl
+    PREP: into
+
+PREDID: 1
+PRED: pour
+  DOBJ: half of the reserved bacon
+
+PREDID: 2
+PRED: grease
+  PARG: all
+    PREP: over
+
+
+SENTID: 8
+SENT: Stir gently until everything is evenly distributed .
+PREDID: 0
+PRED: stir
+  PARG: everything is evenly distributed
+    PREP: until
+  OARG: gently
+
+
+SENTID: 9
+SENT: Garnish with a dash of paprika before serving .
+PREDID: 0
+PRED: garnish
+  PARG: a dash of paprika
+    PREP: with
+  PARG: serving
+    PREP: before
+

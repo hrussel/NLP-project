@@ -1,0 +1,135 @@
+SENTID: 0
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Add the egg noodles , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: the egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain and transfer to a greased 9x13 inch baking dish .
+PREDID: 0
+PRED: drain
+  PARG: a greased 9x13 inch baking dish
+    PREP: to
+
+PREDID: 1
+PRED: transfer
+
+
+SENTID: 4
+SENT: Melt the margarine in a saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: the margarine
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 5
+SENT: Whisk in the flour using a fork so that no lumps form .
+PREDID: 0
+PRED: whisk
+  DOBJ: using a fork
+  PARG: the flour
+    PREP: in
+  PARG: no lumps form
+    PREP: that
+  OARG: so
+
+
+SENTID: 6
+SENT: Gradually stir in the milk .
+PREDID: 0
+PRED: stir
+  PARG: the milk
+    PREP: in
+  OARG: gradually
+
+
+SENTID: 7
+SENT: Bring to a simmer , stirring constantly , then add the cheese .
+PREDID: 0
+PRED: bring
+  DOBJ: add the cheese
+  PARG: a simmer , stirring
+    PREP: to
+  OARG: constantly
+  OARG: then
+
+
+SENTID: 8
+SENT: Cook and stir until smooth .
+PREDID: 0
+PRED: cook
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 9
+SENT: Stir in the cream of mushroom soup , and then the dried beef .
+PREDID: 0
+PRED: stir
+  DOBJ: the dried beef
+  PARG: the cream of mushroom soup
+    PREP: in
+  OARG: then
+
+
+SENTID: 10
+SENT: Stir into the noodles in the casserole dish , and top with crushed potato chips .
+PREDID: 0
+PRED: stir
+  PARG: the noodles
+    PREP: into
+  PARG: the casserole dish
+    PREP: in
+
+PREDID: 1
+PRED: top
+  PARG: crushed potato chips
+    PREP: with
+
+
+SENTID: 11
+SENT: Bake for 30 minutes in the preheated oven , until the sauce is thick and bubbling , and top is toasted .
+PREDID: 0
+PRED: bake
+  PARG: 30 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the sauce is thick, bubbling
+    PREP: until
+
+PREDID: 1
+PRED: top
+  DOBJ: is toasted
+

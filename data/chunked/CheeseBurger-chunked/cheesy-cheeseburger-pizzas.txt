@@ -1,0 +1,165 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Place ground beef in a large , deep skillet .
+PREDID: 0
+PRED: place
+  DOBJ: ground beef
+  PARG: a large
+    PREP: in
+  OARG: deep
+
+
+SENTID: 2
+SENT: Cook over medium high heat until evenly brown .
+PREDID: 0
+PRED: cook
+  PARG: medium high heat
+    PREP: over
+  PARG: evenly brown
+    PREP: until
+
+
+SENTID: 3
+SENT: Reduce heat to medium .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium
+    PREP: to
+
+
+SENTID: 4
+SENT: Drain excess fat .
+PREDID: 0
+PRED: drain
+  DOBJ: excess fat
+
+
+SENTID: 5
+SENT: Stir in pepperoni , pizza sauce and feta cheese .
+PREDID: 0
+PRED: stir
+  PARG: pepperoni , pizza sauce, feta cheese
+    PREP: in
+
+
+SENTID: 6
+SENT: Season with Worcestershire sauce , hot pepper sauce , salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: worcestershire sauce , hot pepper sauce , salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Continue cooking for 1 minute , stirring constantly .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: 1 minute , stirring
+    PREP: for
+  OARG: constantly
+
+
+SENTID: 8
+SENT: Lightly coat a cookie sheet with cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: a cookie sheet
+  PARG: cooking spray
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 9
+SENT: Separate biscuits and place on cookie sheet at least 3 inches apart .
+PREDID: 0
+PRED: separate
+  DOBJ: biscuits
+
+PREDID: 1
+PRED: place
+  PARG: cookie sheet
+    PREP: on
+  PARG: least 3 inches
+    PREP: at
+  OARG: apart
+
+
+SENTID: 10
+SENT: With bottom of a glass , press each biscuit to form a 4 inch round biscuit with 1/2 inch rim around the outside edge .
+PREDID: 0
+PRED: press
+  DOBJ: each biscuit
+  PARG: bottom of a glass
+    PREP: with
+  PARG: form a 4 inch round biscuit
+    PREP: to
+  PARG: 1/2 inch rim
+    PREP: with
+  PARG: the outside edge
+    PREP: around
+
+
+SENTID: 11
+SENT: Beat together egg yolk and 1/4 tsp water .
+PREDID: 0
+PRED: beat
+  DOBJ: egg yolk, 1/4 tsp water
+  OARG: together
+
+
+SENTID: 12
+SENT: Brush sides and edges of biscuits with egg mixture .
+PREDID: 0
+PRED: brush
+  DOBJ: sides, edges of biscuits
+  PARG: egg mixture
+    PREP: with
+
+
+SENTID: 13
+SENT: Spoon about 1/4 cup beef mixture into each biscuit cup . Sprinkle with mozzarella cheese .
+PREDID: 0
+PRED: spoon
+  PARG: 1/4 cup beef mixture
+    PREP: about
+  PARG: each biscuit cup
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: mozzarella cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in preheated oven for 15 to 20 minutes , or until biscuits are golden brown , and cheese is bubbly .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 15 to 20 minutes
+    PREP: for
+  PARG: biscuits are golden brown , cheese is bubbly
+    PREP: until
+
+
+SENTID: 15
+SENT: Allow to cool for 2 minutes before serving .
+PREDID: 0
+PRED: allow
+  PARG: 2 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+  OARG: to cool
+

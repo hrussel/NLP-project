@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: In a large bowl , whisk together cream cheese , 1 tablespoon of milk , and sugar until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: cream cheese , 1 tablespoon of milk , sugar
+  PARG: a large bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 1
+SENT: Gently stir in whipped topping .
+PREDID: 0
+PRED: stir
+  PARG: whipped topping
+    PREP: in
+  OARG: gently
+
+
+SENTID: 2
+SENT: Spread into bottom of crust .
+PREDID: 0
+PRED: spread
+  PARG: bottom of crust
+    PREP: into
+
+
+SENTID: 3
+SENT: Pour 1 cup of milk into large bowl , and thoroughly mix in pudding mix , pumpkin , cinnamon , ginger , and cloves .
+PREDID: 0
+PRED: pour
+  DOBJ: 1 cup of milk
+  PARG: large bowl
+    PREP: into
+  OARG: thoroughly
+
+PREDID: 1
+PRED: mix
+  PARG: pudding
+    PREP: in
+
+PREDID: 2
+PRED: mix
+  DOBJ: pumpkin , cinnamon , ginger , cloves
+
+
+SENTID: 4
+SENT: When thickened , spread over cream cheese layer .
+PREDID: 0
+PRED: spread
+  PARG: cream cheese layer
+    PREP: over
+  OARG: when thickened
+
+
+SENTID: 5
+SENT: Refrigerate 4 hours , or until set .
+PREDID: 0
+PRED: refrigerate
+  PARG: set
+    PREP: until
+  OARG: 4 hours
+

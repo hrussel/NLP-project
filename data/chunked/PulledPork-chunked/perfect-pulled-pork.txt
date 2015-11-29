@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Combine all the seasonings in a small bowl and rub evenly over roast .
+PREDID: 0
+PRED: combine
+  DOBJ: all the seasonings
+  PARG: a small bowl
+    PREP: in
+
+PREDID: 1
+PRED: rub
+  PARG: roast
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 1
+SENT: Place meat in a 6-quart slow cooker .
+PREDID: 0
+PRED: place
+  DOBJ: meat
+  PARG: a 6-quart slow cooker
+    PREP: in
+
+
+SENTID: 2
+SENT: Add water .
+PREDID: 0
+PRED: add
+  DOBJ: water
+
+
+SENTID: 3
+SENT: Cover and cook on LOW for 6-8 hours or HIGH for 4-5 hours or until pork is very tender .
+PREDID: 0
+PRED: cover
+  PARG: low
+    PREP: on
+
+PREDID: 1
+PRED: cook
+  PARG: 6-8 hours or high
+    PREP: for
+  PARG: 4-5 hours
+    PREP: for
+  PARG: pork is very tender
+    PREP: until
+
+
+SENTID: 4
+SENT: Remove pork to a large cutting board or platter and let rest for 10-15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: pork
+  PARG: a large cutting board or platter, let rest
+    PREP: to
+  PARG: 10-15 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Pull , slice or chop to serve .
+PREDID: 0
+PRED: pull
+
+PREDID: 1
+PRED: slice
+  PARG: serve
+    PREP: to
+
+PREDID: 2
+PRED: chop
+
+
+SENTID: 6
+SENT: Serve in buns with barbecue sauce .
+PREDID: 0
+PRED: serve
+  PARG: buns
+    PREP: in
+  PARG: barbecue sauce
+    PREP: with
+

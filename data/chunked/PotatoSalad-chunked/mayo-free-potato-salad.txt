@@ -1,0 +1,113 @@
+SENTID: 0
+SENT: Place the potatoes into a large pot and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: the potatoes
+  PARG: a large pot
+    PREP: into
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a boil over high heat , then reduce heat to medium-low , cover , and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain and allow to steam dry for a minute or two .
+PREDID: 0
+PRED: drain
+  PARG: steam dry
+    PREP: to
+
+PREDID: 1
+PRED: allow
+  PARG: a minute or two
+    PREP: for
+
+
+SENTID: 3
+SENT: Chill the potatoes in cold water , and chop into cubes when cool enough to handle .
+PREDID: 0
+PRED: chill
+  DOBJ: the potatoes
+  PARG: cold water
+    PREP: in
+
+PREDID: 1
+PRED: chop
+  PARG: cubes
+    PREP: into
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+
+SENTID: 4
+SENT: Transfer the potatoes into a large salad bowl , and toss lightly with dill pickles , green onions , celery , cilantro , dill pickle juice , dried dill , 1 teaspoon paprika , salt , and pepper .
+PREDID: 0
+PRED: transfer
+  DOBJ: the potatoes
+  PARG: a large salad bowl
+    PREP: into
+
+PREDID: 1
+PRED: toss
+  PARG: dill pickles , green onions , celery , cilantro , dill pickle juice , dried dill , 1 teaspoon paprika , salt , pepper
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 5
+SENT: In a bowl , whisk together the olive oil , red wine vinegar , and Dijon mustard , and pour the dressing over the potato mixture .
+PREDID: 0
+PRED: whisk
+  DOBJ: the olive oil , red wine vinegar , dijon mustard
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+PREDID: 1
+PRED: pour
+  DOBJ: the dressing
+  PARG: the potato mixture
+    PREP: over
+
+
+SENTID: 6
+SENT: Toss again to coat all ingredients with dressing .
+PREDID: 0
+PRED: toss
+  PARG: coat all ingredients
+    PREP: to
+  PARG: dressing
+    PREP: with
+  OARG: again
+
+
+SENTID: 7
+SENT: Sprinkle with 1/4 teaspoon paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: 1/4 teaspoon paprika
+    PREP: with
+

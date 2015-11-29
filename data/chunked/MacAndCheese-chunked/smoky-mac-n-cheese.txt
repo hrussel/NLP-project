@@ -1,0 +1,137 @@
+SENTID: 0
+SENT: Cook and drain macaroni as directed on box .
+PREDID: 0
+PRED: cook
+  DOBJ: macaroni
+
+PREDID: 1
+PRED: drain
+  PARG: directed
+    PREP: as
+  PARG: box
+    PREP: on
+
+
+SENTID: 1
+SENT: Return to saucepan ;
+PREDID: 0
+PRED: return
+  PARG: saucepan
+    PREP: to
+
+
+SENTID: 2
+SENT: keep warm .
+PREDID: 0
+PRED: keep
+  DOBJ: warm
+
+
+SENTID: 3
+SENT: Meanwhile , heat oven to 375 degrees F.
+PREDID: 0
+PRED: heat
+  DOBJ: oven
+  PARG: 375 degrees f.
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 4
+SENT: Spray 13x9-inch glass baking dish with cooking spray .
+PREDID: 0
+PRED: spray
+  DOBJ: 13x9-inch glass baking dish
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 5
+SENT: In 2-quart saucepan , heat cream , mustard , salt and red pepper to boiling .
+PREDID: 0
+PRED: heat
+  DOBJ: cream , mustard , salt, red pepper
+  PARG: 2-quart saucepan
+    PREP: in
+  PARG: boiling
+    PREP: to
+
+
+SENTID: 6
+SENT: Reduce heat ;
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 7
+SENT: stir in Cheddar cheese with wire whisk until smooth .
+PREDID: 0
+PRED: stir
+  PARG: cheddar cheese
+    PREP: in
+  PARG: wire whisk
+    PREP: with
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: Pour sauce over macaroni .
+PREDID: 0
+PRED: pour
+  DOBJ: sauce
+  PARG: macaroni
+    PREP: over
+
+
+SENTID: 9
+SENT: Stir in tomatoes and onions .
+PREDID: 0
+PRED: stir
+  PARG: tomatoes, onions
+    PREP: in
+
+
+SENTID: 10
+SENT: Pour into baking dish .
+PREDID: 0
+PRED: pour
+  PARG: baking dish
+    PREP: into
+
+
+SENTID: 11
+SENT: In small bowl , stir together Parmesan cheese and bread crumbs ;
+PREDID: 0
+PRED: stir
+  DOBJ: parmesan cheese, bread crumbs
+  PARG: small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 12
+SENT: stir in oil .
+PREDID: 0
+PRED: stir
+  PARG: oil
+    PREP: in
+
+
+SENTID: 13
+SENT: Sprinkle over top of macaroni mixture .
+PREDID: 0
+PRED: sprinkle
+  PARG: top of macaroni mixture
+    PREP: over
+
+
+SENTID: 14
+SENT: Bake 20 to 25 minutes or until edges are bubbly and top is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: edges are bubbly, top is golden brown
+    PREP: until
+  OARG: 20 to 25 minutes
+

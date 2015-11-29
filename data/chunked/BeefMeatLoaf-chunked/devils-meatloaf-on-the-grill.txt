@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: Mix ground beef , chorizo sausage , egg , bread crumbs , green chilies , onion , barbecue sauce , ketchup , and onion soup mix in a large bowl until well-combined .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , chorizo sausage , egg , bread crumbs , green chilies , onion , barbecue sauce , ketchup , onion soup
+
+PREDID: 1
+PRED: mix
+  PARG: a large bowl
+    PREP: in
+  PARG: well-combined
+    PREP: until
+
+
+SENTID: 1
+SENT: Cover and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  OARG: overnight
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 2
+SENT: Preheat an outdoor grill for medium heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: an outdoor grill
+  PARG: medium heat
+    PREP: for
+
+
+SENTID: 3
+SENT: Firmly pack the meat mixture into a 9x5-inch loaf pan , and cover with aluminum foil .
+PREDID: 0
+PRED: pack
+  DOBJ: the meat mixture
+  PARG: a 9x5-inch loaf pan
+    PREP: into
+  OARG: firmly
+
+PREDID: 1
+PRED: cover
+  PARG: aluminum foil
+    PREP: with
+
+
+SENTID: 4
+SENT: Place the covered loaf pan on the grill away from direct heat .
+PREDID: 0
+PRED: place
+  DOBJ: the covered loaf pan
+  PARG: the grill
+    PREP: on
+  PARG: direct heat
+    PREP: from
+  OARG: away
+
+
+SENTID: 5
+SENT: Cook for 30 minutes , then carefully remove foil and drain grease .
+PREDID: 0
+PRED: cook
+  PARG: 30 minutes
+    PREP: for
+  OARG: then
+  OARG: carefully
+
+PREDID: 1
+PRED: remove
+  DOBJ: foil
+
+PREDID: 2
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 6
+SENT: Cover the pan with the foil , and return to the grill .
+PREDID: 0
+PRED: cover
+  DOBJ: the pan
+  PARG: the foil
+    PREP: with
+
+PREDID: 1
+PRED: return
+  PARG: the grill
+    PREP: to
+
+
+SENTID: 7
+SENT: Continue cooking until the meatloaf is no longer pink in the center , about 20 minutes more .
+PREDID: 0
+PRED: continue
+  DOBJ: cooking
+  PARG: the meatloaf is no longer pink in the center , about 20 minutes more
+    PREP: until
+

@@ -1,0 +1,333 @@
+SENTID: 0
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Once the water is boiling , stir in the macaroni , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the macaroni
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 2
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 3
+SENT: Reserve about 2 cups of the hot pasta water , then drain the pasta in a colander set in the sink , and rinse with cold water to cool .
+PREDID: 0
+PRED: reserve
+  PARG: 2 cups of the hot pasta water
+    PREP: about
+  OARG: then
+
+PREDID: 1
+PRED: drain
+  DOBJ: the pasta
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+
+PREDID: 2
+PRED: rinse
+  PARG: cold water
+    PREP: with
+  OARG: to cool
+
+
+SENTID: 4
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Return the pasta water to the large pot , and place the lobster halves in the pot , cut-side up .
+PREDID: 0
+PRED: return
+  DOBJ: the pasta water
+  PARG: the large pot
+    PREP: to
+
+PREDID: 1
+PRED: place
+  DOBJ: the lobster halves
+  PARG: the pot , cut-side
+    PREP: in
+  OARG: up
+
+
+SENTID: 6
+SENT: Return the water to a boil , then reduce heat to medium-low , cover , and steam the lobster just until the meat firms and turns opaque , about 3 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low , cover , steam the lobster
+    PREP: to
+  PARG: the meat firms, turns opaque , about 3 minutes
+    PREP: until
+  OARG: just
+
+
+SENTID: 7
+SENT: Remove the lobster and allow to cool for a few minutes , then remove the meat and cut into bite sized pieces . Reserve the shells .
+PREDID: 0
+PRED: remove
+  DOBJ: the lobster
+
+PREDID: 1
+PRED: allow
+  PARG: a few minutes
+    PREP: for
+  OARG: to cool
+  OARG: then
+
+PREDID: 2
+PRED: remove
+  DOBJ: the meat
+
+PREDID: 3
+PRED: cut
+  PARG: bite sized pieces
+    PREP: into
+
+PREDID: 4
+PRED: reserve
+  DOBJ: the shells
+
+
+SENTID: 8
+SENT: Melt 2 tablespoons of butter in a saucepan over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 2 tablespoons of butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Stir in the onion and cook until the onion has softened and turned translucent , about 5 minutes ;
+PREDID: 0
+PRED: stir
+  PARG: the onion
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: the onion has softened, turned translucent , about 5 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: scrape the onions into a small bowl and set aside .
+PREDID: 0
+PRED: scrape
+  DOBJ: the onions
+  PARG: a small bowl
+    PREP: into
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 11
+SENT: Place the reserved lobster shells , garlic , shallots , peppercorns , and milk into the saucepan .
+PREDID: 0
+PRED: place
+  DOBJ: the reserved lobster shells , garlic , shallots , peppercorns , milk
+  PARG: the saucepan
+    PREP: into
+
+
+SENTID: 12
+SENT: Bring to a gentle simmer over medium heat , and cook for 20 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a gentle simmer
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+PREDID: 1
+PRED: cook
+  PARG: 20 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 14
+SENT: Melt 5 tablespoons of butter in a saucepan over medium-low heat .
+PREDID: 0
+PRED: melt
+  DOBJ: 5 tablespoons of butter
+  PARG: a saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 15
+SENT: Whisk in the flour , and stir until the mixture becomes paste-like and light golden brown , about 10 minutes .
+PREDID: 0
+PRED: whisk
+  PARG: the flour
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the mixture becomes paste-like, light golden
+    PREP: until
+
+PREDID: 2
+PRED: brown
+  PARG: 10 minutes
+    PREP: about
+
+
+SENTID: 16
+SENT: Strain the milk through a mesh sieve .
+PREDID: 0
+PRED: strain
+  DOBJ: a mesh sieve
+  OARG: the milk
+
+
+SENTID: 17
+SENT: Gradually whisk the milk into the flour mixture , and bring to a simmer over medium heat .
+PREDID: 0
+PRED: whisk
+  DOBJ: the milk
+  PARG: the flour mixture
+    PREP: into
+  OARG: gradually
+
+PREDID: 1
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 18
+SENT: Cook and stir until the mixture is thick and smooth , 10 to 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the mixture is thick
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+PREDID: 2
+PRED: smooth
+  OARG: 10 to 15 minutes
+
+
+SENTID: 19
+SENT: Stir the Gruyere , Cheddar , and Romano cheeses into the thickened milk mixture until melted and smooth .
+PREDID: 0
+PRED: stir
+  DOBJ: the gruyere , cheddar , romano cheeses
+  PARG: the thickened milk mixture
+    PREP: into
+  PARG: melted
+    PREP: until
+
+PREDID: 1
+PRED: smooth
+
+
+SENTID: 20
+SENT: Season to taste with salt and pepper , then stir in the reserved lobster , onions , and macaroni .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt, pepper
+    PREP: with
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the reserved lobster , onions , macaroni
+    PREP: in
+
+
+SENTID: 21
+SENT: Pour the macaroni into a 4 quart casserole and smooth the top .
+PREDID: 0
+PRED: pour
+  DOBJ: the macaroni
+  PARG: a 4 quart casserole
+    PREP: into
+
+PREDID: 1
+PRED: smooth
+  DOBJ: the top
+
+
+SENTID: 22
+SENT: Sprinkle evenly with the panko crumbs .
+PREDID: 0
+PRED: sprinkle
+  PARG: the panko crumbs
+    PREP: with
+  OARG: evenly
+
+
+SENTID: 23
+SENT: Bake in the preheated oven until the sauce is bubbly , and the top is golden brown , 8 to 12 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the sauce is bubbly , the top is golden brown , 8 to 12 minutes
+    PREP: until
+

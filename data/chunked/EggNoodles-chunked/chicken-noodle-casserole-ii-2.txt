@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In medium skillet , fry onion in butter until softened .
+PREDID: 0
+PRED: fry
+  DOBJ: onion
+  PARG: medium skillet
+    PREP: in
+  PARG: butter
+    PREP: in
+  PARG: softened
+    PREP: until
+
+
+SENTID: 2
+SENT: Pour into 9x13 baking dish .
+PREDID: 0
+PRED: pour
+  PARG: 9x13 baking dish
+    PREP: into
+
+
+SENTID: 3
+SENT: In large bowl , combine chicken chunks , sour cream and soup .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken chunks , sour cream, soup
+  PARG: large bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Stir in 2 cups of shredded cheddar .
+PREDID: 0
+PRED: stir
+  PARG: 2 cups of shredded cheddar
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir in uncooked egg noodles .
+PREDID: 0
+PRED: stir
+  PARG: uncooked egg noodles
+    PREP: in
+
+
+SENTID: 6
+SENT: Pour mixture over onions in baking dish .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: onions
+    PREP: over
+  PARG: baking dish
+    PREP: in
+
+
+SENTID: 7
+SENT: Top with crumbled crackers and remaining cheddar .
+PREDID: 0
+PRED: top
+  PARG: crumbled crackers, remaining cheddar
+    PREP: with
+
+
+SENTID: 8
+SENT: Bake 30 minutes , or until top is golden and noodles are soft .
+PREDID: 0
+PRED: bake
+  PARG: top is golden, noodles are soft
+    PREP: until
+  OARG: 30 minutes
+

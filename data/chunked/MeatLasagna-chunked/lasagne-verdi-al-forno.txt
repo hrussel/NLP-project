@@ -1,0 +1,358 @@
+SENTID: 0
+SENT: Steam the spinach in a steamer or over boiling water until bright green , 2 minutes .
+PREDID: 0
+PRED: steam
+  DOBJ: the spinach
+  PARG: a steamer
+    PREP: in
+  PARG: boiling water
+    PREP: over
+  PARG: bright green , 2 minutes
+    PREP: until
+
+
+SENTID: 1
+SENT: Squeeze to remove excess moisture and process in a food processor to make a paste .
+PREDID: 0
+PRED: squeeze
+  PARG: remove excess moisture
+    PREP: to
+
+PREDID: 1
+PRED: process
+  PARG: a food processor
+    PREP: in
+  PARG: make a paste
+    PREP: to
+
+
+SENTID: 2
+SENT: Combine spinach with eggs , semolina , and salt and process until smooth .
+PREDID: 0
+PRED: combine
+  DOBJ: spinach
+  PARG: eggs , semolina , salt
+    PREP: with
+
+PREDID: 1
+PRED: process
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 3
+SENT: Stir in enough of the flour to make a smooth dough .
+PREDID: 0
+PRED: stir
+  PARG: enough of the flour
+    PREP: in
+  PARG: make a smooth dough
+    PREP: to
+
+
+SENTID: 4
+SENT: Knead briefly , cover and set aside .
+PREDID: 0
+PRED: knead
+  DOBJ: briefly , cover, set
+  OARG: aside
+
+
+SENTID: 5
+SENT: In a large skillet , melt butter over medium-high heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: Saute bacon , carrot , celery and onion until onion is translucent .
+PREDID: 0
+PRED: saute
+  DOBJ: bacon , carrot , celery, onion
+  PARG: onion is translucent
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir in ground pork , ground beef and minced ham , and cook until browned .
+PREDID: 0
+PRED: stir
+  PARG: ground pork , ground beef, minced ham
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: browned
+    PREP: until
+
+
+SENTID: 8
+SENT: Stir in tomato paste , oregano and beef stock .
+PREDID: 0
+PRED: stir
+  PARG: tomato paste , oregano, beef stock
+    PREP: in
+
+
+SENTID: 9
+SENT: -LRB- Reserve the chicken livers for later .
+PREDID: 0
+PRED: reserve
+  DOBJ: the chicken livers
+  PARG: later
+    PREP: for
+  OARG: 
+
+
+SENTID: 10
+SENT: -RRB- Season with salt and pepper , reduce heat to low , cover and simmer 20 minutes .
+PREDID: 0
+PRED: cover
+  DOBJ: season
+  PARG: salt, pepper , reduce heat
+    PREP: with
+  PARG: low
+    PREP: to
+  OARG: 20 minutes
+
+PREDID: 1
+PRED: simmer
+
+
+SENTID: 11
+SENT: While the ragu is simmering , combine 2 tablespoons butter and 2 tablespoons flour in a medium saucepan over medium-low heat .
+PREDID: 0
+PRED: combine
+  DOBJ: 2 tablespoons butter, 2 tablespoons flour
+  PARG: the ragu is simmering
+    PREP: while
+  PARG: a medium saucepan
+    PREP: in
+  PARG: medium-low heat
+    PREP: over
+
+
+SENTID: 12
+SENT: Whisk to make a roux .
+PREDID: 0
+PRED: whisk
+  PARG: make a roux
+    PREP: to
+
+
+SENTID: 13
+SENT: Remove from heat , let rest one minute , then whisk in warm milk .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  OARG: rest one minute
+  OARG: then
+
+PREDID: 2
+PRED: whisk
+  PARG: warm milk
+    PREP: in
+
+
+SENTID: 14
+SENT: Return to heat , simmer 10 minutes , stirring constantly , until thickened .
+PREDID: 0
+PRED: return
+  PARG: heat
+    PREP: to
+
+PREDID: 1
+PRED: simmer
+  PARG: thickened
+    PREP: until
+  OARG: 10 minutes , stirring
+  OARG: constantly
+
+
+SENTID: 15
+SENT: Season with salt and nutmeg .
+PREDID: 0
+PRED: season
+  PARG: salt, nutmeg
+    PREP: with
+
+
+SENTID: 16
+SENT: Remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 17
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 18
+SENT: On a floured surface , divide pasta dough into three portions .
+PREDID: 0
+PRED: divide
+  DOBJ: pasta dough
+  PARG: a floured surface
+    PREP: on
+  PARG: three portions
+    PREP: into
+
+
+SENTID: 19
+SENT: Roll each portion out to a thin sheet .
+PREDID: 0
+PRED: roll
+  DOBJ: each portion
+  PARG: to a thin sheet
+    PREP: out
+
+
+SENTID: 20
+SENT: Have ready an ice water bath .
+PREDID: 0
+PRED: have
+  DOBJ: ready an ice water bath
+
+
+SENTID: 21
+SENT: Cook each sheet 3 minutes in the boiling water ;
+PREDID: 0
+PRED: cook
+  PARG: the boiling water
+    PREP: in
+  OARG: each sheet 3 minutes
+
+
+SENTID: 22
+SENT: remove from the boiling water and dip in the ice water ;
+PREDID: 0
+PRED: remove
+  PARG: the boiling water
+    PREP: from
+
+PREDID: 1
+PRED: dip
+  PARG: the ice water
+    PREP: in
+
+
+SENTID: 23
+SENT: drain and dry on a clean , dry cloth .
+PREDID: 0
+PRED: drain
+  PARG: a clean
+    PREP: on
+
+PREDID: 1
+PRED: dry
+
+PREDID: 2
+PRED: dry
+  DOBJ: cloth
+
+
+SENTID: 24
+SENT: Stir the chicken livers into the simmering sauce .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken livers
+  PARG: the simmering sauce
+    PREP: into
+
+
+SENTID: 25
+SENT: Cook 1 minute , remove from heat and set aside .
+PREDID: 0
+PRED: cook
+  OARG: 1 minute
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: set
+  OARG: aside
+
+
+SENTID: 26
+SENT: Preheat oven to 400 degrees F -LRB- 200 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 400 degrees f -lrb- 200 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 27
+SENT: Grease a 9x13 baking dish .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 baking dish
+
+
+SENTID: 28
+SENT: Place one pasta sheet in bottom of prepared baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: one pasta sheet
+  PARG: bottom of prepared baking dish
+    PREP: in
+
+
+SENTID: 29
+SENT: Spread one-third of the ragu , one-quarter of the bechamel , one-third of the ricotta , and one-quarter of the parmesan over the pasta .
+PREDID: 0
+PRED: spread
+  DOBJ: one-third of the ragu , one-quarter of the bechamel , one-third of the ricotta , one-quarter of the parmesan
+  PARG: the pasta
+    PREP: over
+
+
+SENTID: 30
+SENT: Repeat layers twice .
+PREDID: 0
+PRED: repeat
+  DOBJ: layers
+  OARG: twice
+
+
+SENTID: 31
+SENT: Top with remaining bechamel and parmesan and dot with butter .
+PREDID: 0
+PRED: top
+  PARG: remaining bechamel, parmesan
+    PREP: with
+
+PREDID: 1
+PRED: dot
+  PARG: butter
+    PREP: with
+
+
+SENTID: 32
+SENT: Bake in preheated oven 30 minutes , until top is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven 30 minutes
+    PREP: in
+  PARG: top is golden brown
+    PREP: until
+

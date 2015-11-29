@@ -1,0 +1,107 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F.
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f.
+    PREP: to
+
+
+SENTID: 1
+SENT: Butter a 9 x 13-inch dish .
+PREDID: 0
+PRED: butter
+  DOBJ: a 9 x 13-inch dish
+
+
+SENTID: 2
+SENT: For topping , combine all ingredients and set aside .
+PREDID: 0
+PRED: combine
+  DOBJ: all ingredients
+  PARG: topping
+    PREP: for
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: For filling , heat oil in a saute pan , add onions and cook for 3 to 4 minutes or until they are soft .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: filling
+    PREP: for
+  PARG: a saute pan
+    PREP: in
+
+PREDID: 1
+PRED: add
+  DOBJ: onions
+
+PREDID: 2
+PRED: cook
+  PARG: 3 to 4 minutes
+    PREP: for
+  PARG: they are soft
+    PREP: until
+
+
+SENTID: 4
+SENT: Add yellow squash and saute for 3 to 4 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: yellow squash
+
+PREDID: 1
+PRED: saute
+  PARG: 3 to 4 minutes
+    PREP: for
+
+
+SENTID: 5
+SENT: Transfer to large bowl and add remaining ingredients and toss gently .
+PREDID: 0
+PRED: transfer
+  PARG: large bowl
+    PREP: to
+
+PREDID: 1
+PRED: add
+  DOBJ: remaining ingredients
+
+PREDID: 2
+PRED: toss
+  OARG: gently
+
+
+SENTID: 6
+SENT: Place mixture into prepared pan .
+PREDID: 0
+PRED: place
+  DOBJ: mixture
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 7
+SENT: Cover with topping and bake 30 to 35 minutes or until thoroughly heated .
+PREDID: 0
+PRED: cover
+  PARG: topping
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: thoroughly heated
+    PREP: until
+  OARG: 30 to 35 minutes
+
+
+SENTID: 8
+SENT: Serve .
+PREDID: 0
+PRED: serve
+

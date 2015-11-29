@@ -1,0 +1,36 @@
+SENTID: 0
+SENT: In a large bowl , combine the ground beef , water chestnuts , cheese , onion , chile sauce , mustard and soy sauce .
+PREDID: 0
+PRED: combine
+  DOBJ: the ground beef , water chestnuts , cheese , onion , chile sauce , mustard, soy sauce
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Mix together well and form into 6 patties .
+PREDID: 0
+PRED: mix
+  PARG: 6 patties
+    PREP: into
+  OARG: together
+  OARG: well
+
+PREDID: 1
+PRED: form
+
+
+SENTID: 2
+SENT: Using a griddle or skillet , cook the patties over medium heat for about 5 minutes per side , or to desired doneness .
+PREDID: 0
+PRED: cook
+  DOBJ: using a griddle or skillet
+  PARG: medium heat
+    PREP: over
+  PARG: about 5 minutes
+    PREP: for
+  PARG: side
+    PREP: per
+  PARG: desired doneness
+    PREP: to
+

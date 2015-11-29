@@ -1,0 +1,63 @@
+SENTID: 0
+SENT: Cook pasta in a large pot of boiling salted water .
+PREDID: 0
+PRED: cook
+  DOBJ: pasta
+  PARG: a large pot of boiling salted water
+    PREP: in
+
+
+SENTID: 1
+SENT: Meanwhile , heat butter or margarine in a skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: butter or margarine
+  PARG: a skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: meanwhile
+
+
+SENTID: 2
+SENT: Saute cabbage and onions until tender .
+PREDID: 0
+PRED: saute
+  DOBJ: cabbage, onions
+  PARG: tender
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain pasta , and return to the pot .
+PREDID: 0
+PRED: drain
+  DOBJ: pasta
+
+PREDID: 1
+PRED: return
+  PARG: the pot
+    PREP: to
+
+
+SENTID: 4
+SENT: Add cabbage and onion mixture to the noodles , and toss .
+PREDID: 0
+PRED: add
+  DOBJ: cabbage, onion mixture
+  PARG: the noodles
+    PREP: to
+
+PREDID: 1
+PRED: toss
+
+
+SENTID: 5
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+

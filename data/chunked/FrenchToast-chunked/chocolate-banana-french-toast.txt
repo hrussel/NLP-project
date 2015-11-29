@@ -1,0 +1,86 @@
+SENTID: 0
+SENT: Whisk eggs in a large bowl until well blended .
+PREDID: 0
+PRED: whisk
+  DOBJ: eggs
+  PARG: a large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 1
+SENT: Whisk in chocolate milk and bananas .
+PREDID: 0
+PRED: whisk
+  PARG: chocolate milk, bananas
+    PREP: in
+
+
+SENTID: 2
+SENT: Dip bread slices into egg mixture ;
+PREDID: 0
+PRED: dip
+  DOBJ: bread slices
+  PARG: egg mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: let soak briefly to coat both sides .
+PREDID: 0
+PRED: let
+  DOBJ: soak briefly
+  PARG: coat both sides
+    PREP: to
+
+
+SENTID: 4
+SENT: Remove bread , letting excess egg mixture drip back into bowl , and place in a large lightly buttered or oiled frying pan over medium heat .
+PREDID: 0
+PRED: remove
+  DOBJ: bread , letting excess egg mixture drip
+  PARG: bowl , place
+    PREP: into
+  PARG: a large
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: back
+  OARG: lightly
+
+
+SENTID: 5
+SENT: Cook bread for a few minutes on both sides until golden brown .
+PREDID: 0
+PRED: cook
+  DOBJ: bread
+  PARG: a few minutes
+    PREP: for
+  PARG: both sides
+    PREP: on
+  PARG: golden brown
+    PREP: until
+
+
+SENTID: 6
+SENT: Serve topped with bananas and strawberries , if desired , and drizzled with syrup .
+PREDID: 0
+PRED: serve
+  DOBJ: topped
+  PARG: bananas, strawberries
+    PREP: with
+  PARG: desired , drizzled
+    PREP: if
+  PARG: syrup
+    PREP: with
+
+
+SENTID: 7
+SENT: Or , spread with jam .
+PREDID: 0
+PRED: spread
+  DOBJ: or
+  PARG: jam
+    PREP: with
+

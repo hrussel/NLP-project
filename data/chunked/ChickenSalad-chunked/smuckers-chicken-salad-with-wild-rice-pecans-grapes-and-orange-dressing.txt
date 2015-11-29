@@ -1,0 +1,141 @@
+SENTID: 0
+SENT: Spray a large skillet with Crisco cooking spray :
+PREDID: 0
+PRED: spray
+  DOBJ: a large skillet
+  PARG: crisco cooking spray
+    PREP: with
+
+
+SENTID: 1
+SENT: heat over medium-high heat until hot .
+PREDID: 0
+PRED: heat
+  PARG: medium-high heat
+    PREP: over
+  PARG: hot
+    PREP: until
+
+
+SENTID: 2
+SENT: Add chicken ;
+PREDID: 0
+PRED: add
+  DOBJ: chicken
+
+
+SENTID: 3
+SENT: cook 2 minutes on each side or until lightly browned .
+PREDID: 0
+PRED: cook
+  PARG: each side
+    PREP: on
+  PARG: lightly browned
+    PREP: until
+  OARG: 2 minutes
+
+
+SENTID: 4
+SENT: Place chicken in an 11x17-inch baking dish coated with cooking spray .
+PREDID: 0
+PRED: place
+  DOBJ: chicken
+  PARG: an 11x17-inch baking dish coated
+    PREP: in
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 5
+SENT: Bake at 450 for 20 minutes or until cooked through .
+PREDID: 0
+PRED: bake
+  PARG: 450 for 20 minutes
+    PREP: at
+  PARG: cooked through
+    PREP: until
+
+
+SENTID: 6
+SENT: Remove chicken :
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+
+
+SENTID: 7
+SENT: cook and cut into 1/4-inch strips .
+PREDID: 0
+PRED: cook
+  PARG: 1/4-inch strips
+    PREP: into
+
+PREDID: 1
+PRED: cut
+
+
+SENTID: 8
+SENT: In a large bowl , combine chicken , rice , green onions , and grapes and pecans , if desired .
+PREDID: 0
+PRED: combine
+  DOBJ: chicken , rice , green onions , grapes, pecans
+  PARG: a large bowl
+    PREP: in
+  PARG: desired
+    PREP: if
+
+
+SENTID: 9
+SENT: Toss well and set aside .
+PREDID: 0
+PRED: toss
+  OARG: well
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 10
+SENT: In a small bowl , combine orange rind and next 4 ingredients ;
+PREDID: 0
+PRED: combine
+  DOBJ: orange rind, next 4 ingredients
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 11
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+
+
+SENTID: 12
+SENT: Pour over chicken mixture ;
+PREDID: 0
+PRED: pour
+  PARG: chicken mixture
+    PREP: over
+
+
+SENTID: 13
+SENT: toss well .
+PREDID: 0
+PRED: toss
+  OARG: well
+
+
+SENTID: 14
+SENT: Serve salad at room temperature , on lettuce-lined plates , if desired .
+PREDID: 0
+PRED: serve
+  DOBJ: salad
+  PARG: room temperature
+    PREP: at
+  PARG: lettuce-lined plates
+    PREP: on
+  PARG: desired
+    PREP: if
+

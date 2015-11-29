@@ -1,0 +1,156 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add macaroni noodles , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: macaroni noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain , and set aside .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Preheat the oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook ground beef and onion in a large skillet over medium-high heat until beef is evenly browned .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef, onion
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+  PARG: beef is evenly browned
+    PREP: until
+
+
+SENTID: 5
+SENT: Remove from heat , and drain grease .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: drain
+  DOBJ: grease
+
+
+SENTID: 6
+SENT: Stir in the tomatoes , feta cheese , Parmesan cheese , and cinnamon .
+PREDID: 0
+PRED: stir
+  PARG: the tomatoes , feta cheese , parmesan cheese , cinnamon
+    PREP: in
+
+
+SENTID: 7
+SENT: Mix in pasta , and transfer to a large baking dish .
+PREDID: 0
+PRED: mix
+  PARG: pasta
+    PREP: in
+
+PREDID: 1
+PRED: transfer
+  PARG: a large baking dish
+    PREP: to
+
+
+SENTID: 8
+SENT: In a saucepan over medium heat , mix together the milk and cornstarch until no lumps remain .
+PREDID: 0
+PRED: mix
+  DOBJ: the milk, cornstarch
+  PARG: a saucepan
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: no lumps remain
+    PREP: until
+  OARG: together
+
+
+SENTID: 9
+SENT: Add butter , and bring to a boil .
+PREDID: 0
+PRED: add
+  DOBJ: butter
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Boil for 1 minute , then remove from heat , and pour the sauce over the mixture in the baking dish .
+PREDID: 0
+PRED: boil
+  PARG: 1 minute
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: pour
+  DOBJ: the sauce
+  PARG: the mixture
+    PREP: over
+  PARG: the baking dish
+    PREP: in
+
+
+SENTID: 11
+SENT: Bake for 1 hour in the preheated oven , until the top is golden brown .
+PREDID: 0
+PRED: bake
+  PARG: 1 hour
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+  PARG: the top is golden brown
+    PREP: until
+
+
+SENTID: 12
+SENT: Let stand for 10 minutes before serving .
+PREDID: 0
+PRED: let
+  DOBJ: stand
+  PARG: 10 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

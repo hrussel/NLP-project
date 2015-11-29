@@ -1,0 +1,130 @@
+SENTID: 0
+SENT: In a large pot with boiling salted water cook egg noodles until al dente .
+PREDID: 0
+PRED: cook
+  DOBJ: egg noodles
+  PARG: a large pot
+    PREP: in
+  PARG: boiling salted water
+    PREP: with
+  PARG: al dente
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: In a large skillet over medium heat oil .
+PREDID: 0
+PRED: oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 3
+SENT: Add sliced mushrooms , green bell pepper , onion , and saute for 5 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: sliced mushrooms , green bell pepper , onion , saute
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Stir in ground beef and brown ;
+PREDID: 0
+PRED: stir
+  PARG: ground beef
+    PREP: in
+
+PREDID: 1
+PRED: brown
+
+
+SENTID: 5
+SENT: drain excess grease .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+
+SENTID: 6
+SENT: Add tomatoes , tomato paste , parsley , Italian seasoning , dried oregano , cayenne pepper , salt , ground black pepper and sugar .
+PREDID: 0
+PRED: add
+  DOBJ: tomatoes , tomato paste , parsley , italian seasoning , dried oregano , cayenne pepper , salt , ground black pepper, sugar
+
+
+SENTID: 7
+SENT: Cover and simmer for 30 minutes .
+PREDID: 0
+PRED: cover
+  PARG: 30 minutes
+    PREP: for
+
+PREDID: 1
+PRED: simmer
+
+
+SENTID: 8
+SENT: Stir occasionally .
+PREDID: 0
+PRED: stir
+  OARG: occasionally
+
+
+SENTID: 9
+SENT: In a small bowl combine cream cheese , sour cream , finely chopped green onion , and 1/4 cup of the Parmesan cheese .
+PREDID: 0
+PRED: combine
+  DOBJ: chopped green onion , 1/4 cup of the parmesan cheese
+  PARG: a small bowl
+    PREP: in
+  OARG: finely
+  OARG: cream cheese , sour cream
+
+
+SENTID: 10
+SENT: To assemble , in a greased 2 quart casserole dish layer egg noodles .
+PREDID: 0
+PRED: layer
+  DOBJ: egg noodles
+  PARG: a greased 2 quart casserole dish
+    PREP: in
+  OARG: to assemble
+
+
+SENTID: 11
+SENT: Spread tomato mixture over noodles , followed by the cream cheese mixture .
+PREDID: 0
+PRED: spread
+  DOBJ: tomato mixture
+  PARG: noodles , followed
+    PREP: over
+  PARG: the cream cheese mixture
+    PREP: by
+
+
+SENTID: 12
+SENT: Sprinkle with remaining grated Parmesan cheese and paprika .
+PREDID: 0
+PRED: sprinkle
+  PARG: remaining grated parmesan cheese, paprika
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake in a preheated 325 degree F -LRB- 165 degree C -RRB- oven for 45 minutes .
+PREDID: 0
+PRED: bake
+  PARG: a preheated 325 degree f -lrb- 165 degree c -rrb- oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+

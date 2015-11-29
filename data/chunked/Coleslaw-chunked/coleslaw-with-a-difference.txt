@@ -1,0 +1,18 @@
+SENTID: 0
+SENT: In a large bowl , combine coleslaw , seasoning salt , lemon juice , olive oil , mayonnaise and salsa .
+PREDID: 0
+PRED: combine
+  DOBJ: coleslaw , seasoning salt , lemon juice , olive oil , mayonnaise, salsa
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: Toss well and serve .
+PREDID: 0
+PRED: toss
+  OARG: well
+
+PREDID: 1
+PRED: serve
+

@@ -1,0 +1,116 @@
+T1	predicate 0 7	Preheat
+T2	predicate 47 51	Roll
+T3	predicate 139 142	Cut
+T4	predicate 181 184	Fit
+T5	predicate 239 247	Separate
+T6	predicate 261 266	place
+T7	predicate 300 304	Beat
+T8	predicate 346 351	brush
+T9	predicate 401 406	Place
+T10	predicate 443 447	beat
+T11	predicate 471 474	Mix
+T12	predicate 597 602	Spoon
+T13	predicate 655 659	Bake
+T14	predicate 772 777	Allow
+T15	arg_object 8 12	oven
+T16	arg_other 13 45	to 350 degrees F (175 degrees C)
+R1	object Arg1:T1 Arg2:T15	
+R2	other Arg1:T1 Arg2:T16	
+T17	arg_location 669 690	in the preheated oven
+T18	Evolution 672 690	the preheated oven
+E1	Evolution:T18 Cause:T1
+T19	arg_object 52 66	each pie crust
+T20	ingredient 52 66	each pie crust
+T21	arg_other 67 70	out
+T22	arg_location 71 93	onto a floured surface
+T23	arg_other 94 137	to a rough rectangle about 11 inches square
+R3	object Arg1:T2 Arg2:T19	
+R4	other Arg1:T2 Arg2:T21	
+R5	location Arg1:T2 Arg2:T22	
+R6	other Arg1:T2 Arg2:T23	
+T24	arg_object 143 157	each pie crust
+T25	Evolution 143 157	each pie crust
+E2	Evolution:T25 Cause:T2
+T26	arg_other 158 179	into 12 3-inch rounds
+R7	object Arg1:T3 Arg2:T24	
+R8	other Arg1:T3 Arg2:T26	
+T27	arg_object 185 213	the little pie crust circles
+T28	Evolution 185 213	the little pie crust circles
+E3	Evolution:T28 Cause:T3
+T29	arg_location 214 237	into 24 mini pie dishes
+R9	object Arg1:T4 Arg2:T27	
+R10	location Arg1:T4 Arg2:T29	
+T30	arg_object 248 255	one egg
+T31	ingredient 248 255	one egg
+R11	object Arg1:T5 Arg2:T30	
+T32	arg_object 267 280	the egg white
+T33	Evolution 267 280	the egg white
+E4	Evolution:T33 Cause:T5
+R12	object Arg1:T6 Arg2:T32	
+T34	arg_location 281 298	into a small bowl
+R13	location Arg1:T6 Arg2:T34	
+T35	arg_object 305 318	the egg white
+T36	Evolution 305 318	the egg white
+E5	Evolution:T36 Cause:T6
+R14	object Arg1:T7 Arg2:T35	
+T37	arg_duration 319 340	until slightly frothy
+R15	duration Arg1:T7 Arg2:T37	
+T38	arg_object 352 384	the edges of each mini pie crust
+T39	arg_co-object 385 399	with egg white
+T40	Evolution 352 384	the edges of each mini pie crust
+E6	Evolution:T40 Cause:T4
+T41	Evolution 390 399	egg white
+E7	Evolution:T41 Cause:T7
+R16	object Arg1:T8 Arg2:T38	
+R17	co-object Arg1:T8 Arg2:T39	
+T42	arg_object 407 425	the remaining yolk
+T43	Evolution 407 425	the remaining yolk
+E8	Evolution:T43 Cause:T5
+R18	object Arg1:T9 Arg2:T42	
+T44	arg_location 426 437	into a bowl
+R19	location Arg1:T9 Arg2:T44	
+R20	object Arg1:T10 Arg2:T9	
+T45	arg_co-object 448 469	with remaining 2 eggs
+T46	ingredient 453 469	remaining 2 eggs
+R21	co-object Arg1:T10 Arg2:T45	
+T47	arg_object 475 500	the softened cream cheese
+T48	ingredient 475 500	the softened cream cheese
+T49	arg_object 502 507	sugar
+T50	ingredient 502 507	sugar
+T51	arg_object 509 516	pumpkin
+T52	ingredient 509 516	pumpkin
+T53	arg_object 518 533	vanilla extract
+T54	ingredient 518 533	vanilla extract
+T55	arg_object 539 556	pumpkin pie spice
+T56	ingredient 539 556	pumpkin pie spice
+R22	object Arg1:T11 Arg2:T47	
+R23	object Arg1:T11 Arg2:T49	
+R24	object Arg1:T11 Arg2:T51	
+R25	object Arg1:T11 Arg2:T53	
+R26	object Arg1:T11 Arg2:T55	
+T57	arg_co-object 557 570	into the eggs
+T58	Evolution 562 570	the eggs
+E9	Evolution:T58 Cause:T10
+T59	arg_other 571 595	to make a smooth filling
+R27	co-object Arg1:T11 Arg2:T57	
+R28	other Arg1:T11 Arg2:T59	
+T60	arg_object 603 637	about 2 tablespoons of the filling
+T61	Evolution 603 637	about 2 tablespoons of the filling
+E10	Evolution:T61 Cause:T11
+T62	arg_co-object 638 653	into each crust
+T63	Evolution 643 653	each crust
+E11	Evolution:T63 Cause:T8
+R29	object Arg1:T12 Arg2:T60	
+R30	co-object Arg1:T12 Arg2:T62	
+T64	arg_object 660 668	the pies
+R31	object Arg1:T13 Arg2:T64	
+R32	location Arg1:T13 Arg2:T17	
+T65	Evolution 660 668	the pies
+E12	Evolution:T65 Cause:T12
+T66	arg_duration 691 770	until the crust edges are golden brown and the filling is set, about 15 minutes
+R33	duration Arg1:T13 Arg2:T66	
+T67	arg_other 778 785	to cool
+R34	other Arg1:T14 Arg2:T67	
+T68	predicate 793 799	eating
+R35	object Arg1:T14 Arg2:T13	
+R36	object Arg1:T68 Arg2:T14	

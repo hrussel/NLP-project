@@ -1,0 +1,55 @@
+SENTID: 0
+SENT: In a slow cooker , mix together ketchup , molasses , mustard , pork and beans , salt , and pepper .
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup , molasses , mustard , pork, beans , salt , pepper
+  PARG: a slow cooker
+    PREP: in
+  OARG: together
+
+
+SENTID: 1
+SENT: Cook bacon and bell pepper in a large skillet over medium heat for about 5 to 7 minutes , then add to the slow cooker .
+PREDID: 0
+PRED: cook
+  DOBJ: bacon, bell pepper
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: about 5 to 7 minutes
+    PREP: for
+  OARG: then
+
+PREDID: 1
+PRED: add
+  PARG: the slow cooker
+    PREP: to
+
+
+SENTID: 2
+SENT: In same skillet , brown beef , and stir into the slow cooker .
+PREDID: 0
+PRED: brown
+  DOBJ: beef
+  PARG: same skillet
+    PREP: in
+
+PREDID: 1
+PRED: stir
+  PARG: the slow cooker
+    PREP: into
+
+
+SENTID: 3
+SENT: Cover , and cook on High setting for 1 hour .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  PARG: high setting
+    PREP: on
+  PARG: 1 hour
+    PREP: for
+

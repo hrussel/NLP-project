@@ -1,0 +1,82 @@
+SENTID: 0
+SENT: Bring a large pot of lightly salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of lightly salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 1
+SENT: Add egg noodles , and cook until tender , about 8 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: egg noodles
+
+PREDID: 1
+PRED: cook
+  PARG: tender , about 8 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 3
+SENT: Melt butter in a large skillet over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 4
+SENT: Add sliced kielbasa , and fry until toasty at the edges .
+PREDID: 0
+PRED: add
+  DOBJ: sliced kielbasa
+
+PREDID: 1
+PRED: fry
+  PARG: toasty at the edges
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain excess grease , and stir in the alfredo sauce .
+PREDID: 0
+PRED: drain
+  DOBJ: excess grease
+
+PREDID: 1
+PRED: stir
+  PARG: the alfredo sauce
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in the noodles , and season with salt and pepper .
+PREDID: 0
+PRED: stir
+  PARG: the noodles
+    PREP: in
+
+PREDID: 1
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 7
+SENT: Serve with a sprinkling of Parmesan cheese .
+PREDID: 0
+PRED: serve
+  PARG: a sprinkling of parmesan cheese
+    PREP: with
+

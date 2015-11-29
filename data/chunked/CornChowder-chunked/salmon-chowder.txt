@@ -1,0 +1,65 @@
+SENTID: 0
+SENT: Melt butter in a large pot over medium heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute onion , celery , and garlic powder until onions are tender .
+PREDID: 0
+PRED: saute
+  DOBJ: onion , celery , garlic powder
+  PARG: onions are tender
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in potatoes , carrots , broth , salt , pepper , and dill .
+PREDID: 0
+PRED: stir
+  PARG: potatoes , carrots , broth , salt , pepper , dill
+    PREP: in
+
+
+SENTID: 3
+SENT: Bring to a boil , and reduce heat .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+
+SENTID: 4
+SENT: Cover , and simmer 20 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: simmer
+  OARG: 20 minutes
+
+
+SENTID: 5
+SENT: Stir in salmon , evaporated milk , corn , and cheese .
+PREDID: 0
+PRED: stir
+  PARG: salmon , evaporated milk , corn , cheese
+    PREP: in
+
+
+SENTID: 6
+SENT: Cook until heated through .
+PREDID: 0
+PRED: cook
+  PARG: heated through
+    PREP: until
+

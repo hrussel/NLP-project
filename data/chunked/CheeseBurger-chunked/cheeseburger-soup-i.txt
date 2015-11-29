@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: In a large pot , melt 1 tablespoon butter or margarine over medium heat :
+PREDID: 0
+PRED: melt
+  DOBJ: 1 tablespoon butter or margarine
+  PARG: a large pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: cook and stir vegetables and beef , until beef is brown .
+PREDID: 0
+PRED: cook
+  DOBJ: vegetables, beef
+
+PREDID: 1
+PRED: stir
+  PARG: beef is brown
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir in basil and parsley .
+PREDID: 0
+PRED: stir
+  PARG: basil, parsley
+    PREP: in
+
+
+SENTID: 3
+SENT: Add broth and potatoes .
+PREDID: 0
+PRED: add
+  DOBJ: broth, potatoes
+
+
+SENTID: 4
+SENT: Bring to a boil , then simmer until potatoes are tender , about 10-12 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+  OARG: then
+
+PREDID: 1
+PRED: simmer
+  PARG: potatoes are tender , about 10-12 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Melt the remainder of butter and stir in flour .
+PREDID: 0
+PRED: melt
+  DOBJ: the remainder of butter
+
+PREDID: 1
+PRED: stir
+  PARG: flour
+    PREP: in
+
+
+SENTID: 6
+SENT: Add the milk , stirring until smooth .
+PREDID: 0
+PRED: add
+  DOBJ: the milk , stirring
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 7
+SENT: Gradually add milk mixture to the soup , stirring constantly .
+PREDID: 0
+PRED: add
+  DOBJ: milk mixture
+  PARG: the soup , stirring
+    PREP: to
+  OARG: gradually
+  OARG: constantly
+
+
+SENTID: 8
+SENT: Bring to a boil and reduce heat to simmer .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+  PARG: simmer
+    PREP: to
+
+
+SENTID: 9
+SENT: Stir in cheese .
+PREDID: 0
+PRED: stir
+  PARG: cheese
+    PREP: in
+
+
+SENTID: 10
+SENT: When cheese is melted , add sour cream and heat through .
+PREDID: 0
+PRED: add
+  DOBJ: sour cream
+  OARG: when cheese is melted
+
+PREDID: 1
+PRED: heat
+  DOBJ: through
+

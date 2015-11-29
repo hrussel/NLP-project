@@ -1,0 +1,108 @@
+SENTID: 0
+SENT: Place potatoes in a pot with water to cover .
+PREDID: 0
+PRED: place
+  DOBJ: potatoes
+  PARG: a pot
+    PREP: in
+  PARG: water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring to a boil , cover and simmer , stirring to ensure even cooking , until a thin-bladed paring knife or a metal skewer inserted into a potato can be removed with no resistance , 25 to 30 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  DOBJ: stirring
+
+PREDID: 2
+PRED: simmer
+  DOBJ: cooking
+  PARG: a thin-bladed paring knife or a metal skewer inserted into a potato can be removed with no resistance , 25 to 30 minutes
+    PREP: until
+  OARG: to ensure
+  OARG: even
+
+
+SENTID: 2
+SENT: Drain , rinse under cold water and drain again .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: rinse
+  PARG: cold water
+    PREP: under
+
+PREDID: 2
+PRED: drain
+  OARG: again
+
+
+SENTID: 3
+SENT: Cool slightly .
+PREDID: 0
+PRED: cool
+  OARG: slightly
+
+
+SENTID: 4
+SENT: Cut warm potatoes into 3/4-inch dice with a serrated knife .
+PREDID: 0
+PRED: cut
+  DOBJ: warm potatoes
+  PARG: 3/4-inch dice
+    PREP: into
+  PARG: a serrated knife
+    PREP: with
+
+
+SENTID: 5
+SENT: Cut eggs , celery and pickle in 1/4-inch dice and thinly slice scallions .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs , celery, pickle
+  PARG: 1/4-inch dice
+    PREP: in
+  OARG: thinly
+
+PREDID: 1
+PRED: slice
+  DOBJ: scallions
+
+
+SENTID: 6
+SENT: Add to potatoes , along with parsley .
+PREDID: 0
+PRED: add
+  PARG: potatoes
+    PREP: to
+  PARG: with parsley
+    PREP: along
+
+
+SENTID: 7
+SENT: Stir in mayonnaise and mustard until everything is combined .
+PREDID: 0
+PRED: stir
+  PARG: mayonnaise, mustard
+    PREP: in
+  PARG: everything is combined
+    PREP: until
+
+
+SENTID: 8
+SENT: Chill , covered , before serving .
+PREDID: 0
+PRED: chill
+  DOBJ: covered
+  PARG: serving
+    PREP: before
+

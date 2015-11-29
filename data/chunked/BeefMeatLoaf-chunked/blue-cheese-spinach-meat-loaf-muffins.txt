@@ -1,0 +1,48 @@
+SENTID: 0
+SENT: Preheat an oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a large muffin pan with cooking spray .
+PREDID: 0
+PRED: grease
+  DOBJ: a large muffin pan
+  PARG: cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Combine ground beef , blue cheese , onion , bread crumbs , spinach , eggs , and Worcestershire sauce in a large bowl until well blended .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , blue cheese , onion , bread crumbs , spinach , eggs , worcestershire sauce
+  PARG: a large bowl
+    PREP: in
+  PARG: well blended
+    PREP: until
+
+
+SENTID: 3
+SENT: Divide meat mixture evenly into the prepared muffin pan .
+PREDID: 0
+PRED: divide
+  DOBJ: meat mixture
+  PARG: the prepared muffin pan
+    PREP: into
+  OARG: evenly
+
+
+SENTID: 4
+SENT: Bake in the preheated oven until no longer pink in the center , about 30 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: no longer pink in the center , about 30 minutes
+    PREP: until
+

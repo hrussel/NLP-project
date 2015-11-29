@@ -1,0 +1,143 @@
+SENTID: 0
+SENT: Poach chicken in a large pot of simmering water .
+PREDID: 0
+PRED: poach
+  DOBJ: chicken
+  PARG: a large pot of simmering water
+    PREP: in
+
+
+SENTID: 1
+SENT: Cook until no longer pink in center , about 12 minutes .
+PREDID: 0
+PRED: cook
+  PARG: no longer pink in center , about 12 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Remove from pot and set aside .
+PREDID: 0
+PRED: remove
+  PARG: pot
+    PREP: from
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 3
+SENT: Bring chicken cooking water to a boil and cook pasta in it .
+PREDID: 0
+PRED: bring
+  DOBJ: chicken cooking water
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cook
+  DOBJ: pasta
+  PARG: it
+    PREP: in
+
+
+SENTID: 4
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 5
+SENT: Cut chicken into small pieces , and mix with noodles .
+PREDID: 0
+PRED: cut
+  DOBJ: chicken
+  PARG: small pieces
+    PREP: into
+
+PREDID: 1
+PRED: mix
+  PARG: noodles
+    PREP: with
+
+
+SENTID: 6
+SENT: In a separate bowl , mix together mushroom soup , chicken soup , and sour cream .
+PREDID: 0
+PRED: mix
+  DOBJ: mushroom soup , chicken soup , sour cream
+  PARG: a separate bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Gently stir together cream soup mixture with the chicken mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: cream soup mixture
+  PARG: the chicken mixture
+    PREP: with
+  OARG: gently
+  OARG: together
+
+
+SENTID: 9
+SENT: Place in a 2 quart baking dish .
+PREDID: 0
+PRED: place
+  PARG: a 2 quart baking dish
+    PREP: in
+
+
+SENTID: 10
+SENT: Melt butter in a small saucepan , and remove from heat .
+PREDID: 0
+PRED: melt
+  DOBJ: butter
+  PARG: a small saucepan
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 11
+SENT: Stir in crumbled crackers .
+PREDID: 0
+PRED: stir
+  PARG: crumbled crackers
+    PREP: in
+
+
+SENTID: 12
+SENT: Top casserole with the buttery crackers .
+PREDID: 0
+PRED: top
+  DOBJ: casserole
+  PARG: the buttery crackers
+    PREP: with
+
+
+SENTID: 13
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for about 30 minutes , until heated through and browned on top .
+PREDID: 0
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: about 30 minutes
+    PREP: for
+  PARG: heated through, browned on top
+    PREP: until
+

@@ -1,0 +1,159 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 9x13 inch pan .
+PREDID: 0
+PRED: grease
+  DOBJ: a 9x13 inch pan
+
+
+SENTID: 2
+SENT: Sift together the flour , baking soda and cinnamon .
+PREDID: 0
+PRED: sift
+  DOBJ: the flour , baking soda, cinnamon
+  OARG: together
+
+
+SENTID: 3
+SENT: Set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 4
+SENT: In a large bowl , combine the sugar and oil until blended .
+PREDID: 0
+PRED: combine
+  DOBJ: the sugar
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: oil
+  PARG: blended
+    PREP: until
+
+
+SENTID: 5
+SENT: Beat in the eggs one at a time , then stir in the vanilla .
+PREDID: 0
+PRED: beat
+  PARG: the eggs one at a time
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: stir
+  PARG: the vanilla
+    PREP: in
+
+
+SENTID: 6
+SENT: Stir in the flour mixture just until incorporated .
+PREDID: 0
+PRED: stir
+  PARG: the flour mixture
+    PREP: in
+  PARG: incorporated
+    PREP: until
+  OARG: just
+
+
+SENTID: 7
+SENT: Fold in the pineapple , carrots , coconut and walnuts .
+PREDID: 0
+PRED: fold
+  PARG: the pineapple , carrots , coconut, walnuts
+    PREP: in
+
+
+SENTID: 8
+SENT: Pour batter into prepared pan .
+PREDID: 0
+PRED: pour
+  DOBJ: batter
+  PARG: prepared pan
+    PREP: into
+
+
+SENTID: 9
+SENT: Bake in the preheated oven for 45 minutes , or until a toothpick inserted into the center of the cake comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 45 minutes
+    PREP: for
+  PARG: a toothpick inserted into the center of the cake comes out clean
+    PREP: until
+
+
+SENTID: 10
+SENT: While still warm , poke holes in the cake with a fork .
+PREDID: 0
+PRED: warm
+  DOBJ: poke holes
+  PARG: still
+    PREP: while
+  PARG: the cake
+    PREP: in
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 11
+SENT: In a saucepan , combine butter , sugar , buttermilk and vanilla .
+PREDID: 0
+PRED: combine
+  DOBJ: butter , sugar , buttermilk, vanilla
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 12
+SENT: Bring mixture to a boil over medium heat , then reduce heat and cook for 5 minutes .
+PREDID: 0
+PRED: bring
+  DOBJ: mixture
+  PARG: a boil
+    PREP: to
+  PARG: medium heat
+    PREP: over
+  OARG: then
+
+PREDID: 1
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 2
+PRED: cook
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 13
+SENT: Pour glaze over warm cake , then allow to cool completely .
+PREDID: 0
+PRED: pour
+  DOBJ: glaze
+  PARG: warm
+    PREP: over
+
+PREDID: 1
+PRED: cake
+  OARG: then
+
+PREDID: 2
+PRED: allow
+  OARG: to cool
+  OARG: completely
+

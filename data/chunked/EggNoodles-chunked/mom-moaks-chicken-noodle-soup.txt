@@ -1,0 +1,60 @@
+SENTID: 0
+SENT: Heat the vegetable oil in a stock pot over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the vegetable oil
+  PARG: a stock pot
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir the onion , celery , and carrots in the hot oil until tender , 8 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onion , celery , carrots
+
+PREDID: 1
+PRED: stir
+  PARG: the hot oil
+    PREP: in
+  PARG: tender , 8 to 10 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the chicken broth , baking potatoes , thyme , and poultry seasoning to the vegetable mixture ;
+PREDID: 0
+PRED: add
+  DOBJ: the chicken broth , baking potatoes , thyme , poultry seasoning
+  PARG: the vegetable mixture
+    PREP: to
+
+
+SENTID: 3
+SENT: bring to a simmer and continue cooking until the potatoes are cooked through , about 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a simmer, continue cooking
+    PREP: to
+  PARG: the potatoes are cooked through , about 15 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir the cooked chicken , egg noodles , and evaporated milk into the soup ;
+PREDID: 0
+PRED: stir
+  DOBJ: the cooked chicken , egg noodles , evaporated milk
+  PARG: the soup
+    PREP: into
+
+
+SENTID: 5
+SENT: cook until the noodles are cooked through , another 7 to 10 minutes .
+PREDID: 0
+PRED: cook
+  PARG: the noodles are cooked through , another 7 to 10 minutes
+    PREP: until
+

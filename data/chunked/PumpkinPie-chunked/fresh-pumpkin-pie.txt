@@ -1,0 +1,120 @@
+SENTID: 0
+SENT: Cut pumpkin in half , and remove seeds .
+PREDID: 0
+PRED: cut
+  DOBJ: pumpkin
+  PARG: half
+    PREP: in
+
+PREDID: 1
+PRED: remove
+  DOBJ: seeds
+
+
+SENTID: 1
+SENT: Lightly oil the cut surface .
+PREDID: 0
+PRED: oil
+  DOBJ: the cut surface
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Place cut side down on a jelly roll pan lined with foil and lightly oiled .
+PREDID: 0
+PRED: place
+  DOBJ: cut side
+  PARG: a jelly roll pan lined
+    PREP: on
+  PARG: foil
+    PREP: with
+  OARG: down
+  OARG: lightly
+
+
+SENTID: 3
+SENT: Bake at 325 degrees F -LRB- 165 degrees C -RRB- until the flesh is tender when poked with a fork .
+PREDID: 0
+PRED: bake
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: at
+  PARG: the flesh is tender when poked with a fork
+    PREP: until
+
+
+SENTID: 4
+SENT: Cool until just warm .
+PREDID: 0
+PRED: cool
+  PARG: just warm
+    PREP: until
+
+
+SENTID: 5
+SENT: Scrape the pumpkin flesh from the peel .
+PREDID: 0
+PRED: scrape
+  DOBJ: the pumpkin flesh
+  PARG: the peel
+    PREP: from
+
+
+SENTID: 6
+SENT: Either mash , or puree in small batches in a blender .
+PREDID: 0
+PRED: mash
+
+PREDID: 1
+PRED: puree
+  PARG: small batches
+    PREP: in
+  PARG: a blender
+    PREP: in
+
+
+SENTID: 7
+SENT: In large bowl , blend together 2 cups pumpkin puree , spices , and salt .
+PREDID: 0
+PRED: blend
+  DOBJ: 2 cups pumpkin puree , spices , salt
+  PARG: large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 8
+SENT: Beat in eggs , honey , milk , and cream .
+PREDID: 0
+PRED: beat
+  PARG: eggs , honey , milk , cream
+    PREP: in
+
+
+SENTID: 9
+SENT: Pour filling into pie shell .
+PREDID: 0
+PRED: pour
+  DOBJ: filling
+  PARG: pie shell
+    PREP: into
+
+
+SENTID: 10
+SENT: Bake at 400 degrees F -LRB- 205 degrees C -RRB- for 50 to 55 minutes , or until a knife inserted 1 inch from edge of pie comes out clean .
+PREDID: 0
+PRED: bake
+  PARG: 400 degrees f -lrb- 205 degrees c -rrb-
+    PREP: at
+  PARG: 50 to 55 minutes
+    PREP: for
+  PARG: a knife inserted 1 inch from edge of pie comes out clean
+    PREP: until
+
+
+SENTID: 11
+SENT: Cool on a wire rack .
+PREDID: 0
+PRED: cool
+  PARG: a wire rack
+    PREP: on
+

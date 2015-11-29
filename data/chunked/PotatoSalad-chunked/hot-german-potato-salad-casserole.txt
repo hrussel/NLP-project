@@ -1,0 +1,155 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Bring potatoes to a boil in a large pot of salted water .
+PREDID: 0
+PRED: bring
+  DOBJ: potatoes
+  PARG: a boil
+    PREP: to
+  PARG: a large pot of salted water
+    PREP: in
+
+
+SENTID: 2
+SENT: Reduce heat to medium-low and simmer until tender , about 20 minutes .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: medium-low, simmer
+    PREP: to
+  PARG: tender , about 20 minutes
+    PREP: until
+
+
+SENTID: 3
+SENT: Drain ;
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: transfer potatoes to a large baking dish .
+PREDID: 0
+PRED: transfer
+  DOBJ: potatoes
+  PARG: a large baking dish
+    PREP: to
+
+
+SENTID: 5
+SENT: Place bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 6
+SENT: Drain the bacon slices on paper towels ;
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 7
+SENT: crumble and sprinkle over potatoes .
+PREDID: 0
+PRED: crumble
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: sprinkle
+
+
+SENTID: 8
+SENT: Heat a skillet over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: a skillet
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 9
+SENT: cook and stir celery and green onion until celery is tender , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: celery, green onion
+
+PREDID: 1
+PRED: stir
+  PARG: celery is tender , about 5 minutes
+    PREP: until
+
+
+SENTID: 10
+SENT: Transfer vegetables to baking dish .
+PREDID: 0
+PRED: transfer
+  DOBJ: vegetables
+  PARG: baking dish
+    PREP: to
+
+
+SENTID: 11
+SENT: Whisk mayonnaise , vinegar , sugar , mustard , salt , and black pepper in a bowl until smooth .
+PREDID: 0
+PRED: whisk
+  DOBJ: mayonnaise , vinegar , sugar , mustard , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 12
+SENT: Pour mixture over potatoes and stir until well mixed .
+PREDID: 0
+PRED: pour
+  DOBJ: mixture
+  PARG: potatoes
+    PREP: over
+
+PREDID: 1
+PRED: stir
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 13
+SENT: Sprinkle with Cheddar cheese .
+PREDID: 0
+PRED: sprinkle
+  PARG: cheddar cheese
+    PREP: with
+
+
+SENTID: 14
+SENT: Bake in preheated oven until cheese is melted , 20 to 35 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: cheese is melted , 20 to 35 minutes
+    PREP: until
+

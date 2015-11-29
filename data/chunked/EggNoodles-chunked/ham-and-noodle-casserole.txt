@@ -1,0 +1,106 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Grease a 2-quart casserole .
+PREDID: 0
+PRED: grease
+  DOBJ: a 2-quart casserole
+
+
+SENTID: 2
+SENT: Bring water to a full rolling boil in a pot .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a full rolling boil
+    PREP: to
+  PARG: a pot
+    PREP: in
+
+
+SENTID: 3
+SENT: Cook the egg noodles in the boiling water , stirring occasionally , for 3 minutes ;
+PREDID: 0
+PRED: cook
+  DOBJ: the egg noodles
+  PARG: the boiling water , stirring
+    PREP: in
+  PARG: 3 minutes
+    PREP: for
+  OARG: occasionally
+
+
+SENTID: 4
+SENT: remove from heat , cover , and let stand until the noodles are tender , about 10 minutes .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: let
+  DOBJ: stand
+  PARG: the noodles are tender , about 10 minutes
+    PREP: until
+
+
+SENTID: 5
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 6
+SENT: Stir the noodles , onion , sour cream , chicken soup , ham , and Swiss cheese together in a large bowl .
+PREDID: 0
+PRED: stir
+  DOBJ: the noodles , onion , sour cream , chicken soup , ham , swiss cheese
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 7
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 8
+SENT: Spoon into the prepared casserole .
+PREDID: 0
+PRED: spoon
+  PARG: the prepared casserole
+    PREP: into
+
+
+SENTID: 9
+SENT: Sprinkle the top with bread crumbs .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: the top
+  PARG: bread crumbs
+    PREP: with
+
+
+SENTID: 10
+SENT: Bake in the preheated oven until the casserole is bubbling and the bread crumbs have browned , about 40 minutes .
+PREDID: 0
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: the casserole is bubbling, the bread crumbs have browned , about 40 minutes
+    PREP: until
+

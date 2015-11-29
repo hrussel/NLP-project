@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: Place eggs in a saucepan ;
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a saucepan
+    PREP: in
+
+
+SENTID: 1
+SENT: cover with water .
+PREDID: 0
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , remove from heat , and let eggs stand in hot water for 15 minutes .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove eggs from hot water , cool under cold running water , and peel .
+PREDID: 0
+PRED: remove
+  DOBJ: eggs
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+  PARG: cold running water
+    PREP: under
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut each egg in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: each egg
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 5
+SENT: Place yolks in a bowl ;
+PREDID: 0
+PRED: place
+  DOBJ: yolks
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 6
+SENT: mash with a fork .
+PREDID: 0
+PRED: mash
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 7
+SENT: Stir mayonnaise , horseradish , Dijon mustard , garlic , pickle juice , and vinegar into egg yolks until smooth ;
+PREDID: 0
+PRED: stir
+  DOBJ: mayonnaise , horseradish , dijon mustard , garlic , pickle juice , vinegar
+  PARG: egg yolks
+    PREP: into
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 8
+SENT: season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 9
+SENT: Spoon the yolk filling into a resealable plastic bag ;
+PREDID: 0
+PRED: spoon
+  DOBJ: the yolk filling
+  PARG: a resealable plastic bag
+    PREP: into
+
+
+SENTID: 10
+SENT: snip off one corner of the bag .
+PREDID: 0
+PRED: snip
+  PARG: one corner of the bag
+    PREP: off
+
+
+SENTID: 11
+SENT: Place egg whites cut-side up on a serving platter ;
+PREDID: 0
+PRED: place
+  DOBJ: egg whites cut-side
+  PARG: a serving platter
+    PREP: on
+  OARG: up
+
+
+SENTID: 12
+SENT: distribute minced green onion and tarragon evenly over the cavities .
+PREDID: 0
+PRED: distribute
+  DOBJ: minced green onion, tarragon
+  PARG: the cavities
+    PREP: over
+  OARG: evenly
+
+
+SENTID: 13
+SENT: Pipe filling into egg white halves , sprinkle with paprika , and garnish with whole tarragon leaves .
+PREDID: 0
+PRED: pipe
+  DOBJ: filling
+  PARG: egg white halves
+    PREP: into
+
+PREDID: 1
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+
+PREDID: 2
+PRED: garnish
+  PARG: whole tarragon leaves
+    PREP: with
+
+
+SENTID: 14
+SENT: Cover deviled eggs with plastic wrap ;
+PREDID: 0
+PRED: cover
+  DOBJ: deviled eggs
+  PARG: plastic wrap
+    PREP: with
+
+
+SENTID: 15
+SENT: refrigerate until ready to serve .
+PREDID: 0
+PRED: refrigerate
+  PARG: ready to serve
+    PREP: until
+

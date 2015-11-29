@@ -1,0 +1,184 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Pour out the hot water , then cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 4
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 5
+SENT: Slice the cooled eggs in half lengthwise , and scoop out and reserve the yolks .
+PREDID: 0
+PRED: slice
+  DOBJ: the cooled eggs
+  PARG: half lengthwise
+    PREP: in
+
+PREDID: 1
+PRED: scoop
+  PARG: and reserve the yolks
+    PREP: out
+
+
+SENTID: 6
+SENT: While the eggs are cooking , place the cut-up potato into a saucepan with water to cover , bring to a boil , reduce heat , and simmer until the potato pieces are tender , 10 to 15 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the cut-up potato
+  PARG: the eggs are cooking
+    PREP: while
+  PARG: a saucepan
+    PREP: into
+  PARG: water
+    PREP: with
+  PARG: cover
+    PREP: to
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 2
+PRED: reduce
+  DOBJ: heat
+
+PREDID: 3
+PRED: simmer
+  PARG: the potato pieces are tender , 10 to 15 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain the potato , and let cool .
+PREDID: 0
+PRED: drain
+  DOBJ: the potato
+
+PREDID: 1
+PRED: let
+  DOBJ: cool
+
+
+SENTID: 8
+SENT: In a bowl , mash the reserved egg yolks with pickle relish , mustard , creamy dressing , salt , and pepper until well combined .
+PREDID: 0
+PRED: mash
+  DOBJ: the reserved egg yolks
+  PARG: a bowl
+    PREP: in
+  PARG: pickle relish , mustard , creamy dressing , salt , pepper
+    PREP: with
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 9
+SENT: Place the potato into a bowl , and coarsely mash with a fork .
+PREDID: 0
+PRED: place
+  DOBJ: the potato
+  PARG: a bowl
+    PREP: into
+  OARG: coarsely
+
+PREDID: 1
+PRED: mash
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 10
+SENT: Lightly combine the potato with the yolk mixture .
+PREDID: 0
+PRED: combine
+  DOBJ: the potato
+  PARG: the yolk mixture
+    PREP: with
+  OARG: lightly
+
+
+SENTID: 11
+SENT: Stuff each egg half generously with potato salad , and sprinkle with paprika .
+PREDID: 0
+PRED: stuff
+  DOBJ: each egg half
+  PARG: potato salad
+    PREP: with
+  OARG: generously
+
+PREDID: 1
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+

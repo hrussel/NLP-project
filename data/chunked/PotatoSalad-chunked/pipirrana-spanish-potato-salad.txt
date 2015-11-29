@@ -1,0 +1,131 @@
+SENTID: 0
+SENT: Place egg in a saucepan , and cover with cold water .
+PREDID: 0
+PRED: place
+  DOBJ: egg
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring water to a boil , and immediately remove from heat .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  OARG: immediately
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 2
+SENT: Cover , and let eggs stand in hot water for 10 to 12 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: let
+  DOBJ: eggs stand
+  PARG: hot water
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Remove from hot water , cool , and peel .
+PREDID: 0
+PRED: remove
+  PARG: hot water
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: peel
+
+
+SENTID: 4
+SENT: Cut eggs into quarters , and set aside .
+PREDID: 0
+PRED: cut
+  DOBJ: eggs
+  PARG: quarters
+    PREP: into
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 5
+SENT: Meanwhile , bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Add potatoes , and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain , and transfer to a large bowl .
+PREDID: 0
+PRED: drain
+
+PREDID: 1
+PRED: transfer
+  PARG: a large bowl
+    PREP: to
+
+
+SENTID: 8
+SENT: Toss potatoes with eggs , bell peppers , onion , tomato , tuna , green olives , olive oil , and vinegar .
+PREDID: 0
+PRED: toss
+  DOBJ: potatoes
+  PARG: eggs , bell peppers , onion , tomato , tuna , green olives , olive oil , vinegar
+    PREP: with
+
+
+SENTID: 9
+SENT: Season to taste with salt .
+PREDID: 0
+PRED: season
+  PARG: taste
+    PREP: to
+  PARG: salt
+    PREP: with
+
+
+SENTID: 10
+SENT: Refrigerate , and serve cold
+PREDID: 0
+PRED: refrigerate
+
+PREDID: 1
+PRED: serve
+  DOBJ: cold
+

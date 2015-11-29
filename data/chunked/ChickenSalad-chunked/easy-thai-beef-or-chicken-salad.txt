@@ -1,0 +1,185 @@
+SENTID: 0
+SENT: Rinse rice in a fine mesh strainer under cold running water until no longer cloudy .
+PREDID: 0
+PRED: rinse
+  DOBJ: rice
+  PARG: a fine mesh strainer
+    PREP: in
+  PARG: cold running water
+    PREP: under
+  PARG: no longer cloudy
+    PREP: until
+
+
+SENTID: 1
+SENT: Transfer to a medium saucepan and cover with 2Ê1/2 cups water .
+PREDID: 0
+PRED: transfer
+  PARG: a medium saucepan
+    PREP: to
+
+PREDID: 1
+PRED: cover
+  PARG: 2Ê1/2 cups water
+    PREP: with
+
+
+SENTID: 2
+SENT: Bring to a boil , cover , and reduce heat to low .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+PREDID: 1
+PRED: cover
+
+PREDID: 2
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+
+SENTID: 3
+SENT: Simmer for 15 minutes , remove from heat and let stand for at least 10 minutes , or until all liquid has evaporated .
+PREDID: 0
+PRED: simmer
+  PARG: 15 minutes
+    PREP: for
+
+PREDID: 1
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 2
+PRED: let
+  DOBJ: stand
+  PARG: at least 10 minutes
+    PREP: for
+  PARG: all liquid has evaporated
+    PREP: until
+
+
+SENTID: 4
+SENT: Preheat oven to 250 degrees F -LRB- 120 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 250 degrees f -lrb- 120 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 5
+SENT: Season chicken with salt and garlic powder .
+PREDID: 0
+PRED: season
+  DOBJ: chicken
+  PARG: salt, garlic powder
+    PREP: with
+
+
+SENTID: 6
+SENT: Heat 2 tablespoons vegetable oil in a skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons vegetable oil
+  PARG: a skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 7
+SENT: Cook chicken , reducing heat when necessary , until no longer pink in center and juices run clear .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken , reducing heat
+  PARG: no longer pink in center, juices run clear
+    PREP: until
+  OARG: when necessary
+
+
+SENTID: 8
+SENT: Transfer to preheated oven to keep warm .
+PREDID: 0
+PRED: transfer
+  PARG: preheated oven
+    PREP: to
+  PARG: keep warm
+    PREP: to
+
+
+SENTID: 9
+SENT: Place lettuce , cucumbers , onions , tomatoes , bell peppers , and cilantro together in a large mixing or serving bowl .
+PREDID: 0
+PRED: place
+  DOBJ: lettuce , cucumbers , onions , tomatoes , bell peppers , cilantro
+  PARG: a large mixing or serving bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 10
+SENT: Toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 11
+SENT: In another bowl , stir together the lime juice , fish sauce , sugar , and crushed red pepper until well blended and sugar is dissolved .
+PREDID: 0
+PRED: stir
+  DOBJ: the lime juice , fish sauce , sugar , crushed red pepper
+  PARG: another bowl
+    PREP: in
+  PARG: well blended, sugar is dissolved
+    PREP: until
+  OARG: together
+
+
+SENTID: 12
+SENT: Remove chicken from oven , slice into thin strips , and drizzle with dressing .
+PREDID: 0
+PRED: remove
+  DOBJ: chicken
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: slice
+  PARG: thin strips
+    PREP: into
+
+PREDID: 2
+PRED: drizzle
+  PARG: dressing
+    PREP: with
+
+
+SENTID: 13
+SENT: Divide salad and rice among serving plates , and top each with chicken slices .
+PREDID: 0
+PRED: divide
+  DOBJ: salad, rice
+  PARG: serving plates
+    PREP: among
+
+PREDID: 1
+PRED: top
+  DOBJ: each with chicken slices
+
+
+SENTID: 14
+SENT: Dressing may also be served at the table and each salad dressed individually .
+PREDID: 0
+PRED: served
+  DOBJ: dressing may
+  PARG: the table, each salad dressed
+    PREP: at
+  OARG: also
+  OARG: individually
+

@@ -1,0 +1,228 @@
+SENTID: 0
+SENT: Preheat the oven to 375 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: the oven
+  PARG: 375 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Coat the poblano peppers with a small amount of oil or cooking spray .
+PREDID: 0
+PRED: coat
+  DOBJ: the poblano peppers
+  PARG: a small amount of oil or cooking spray
+    PREP: with
+
+
+SENTID: 2
+SENT: Place directly on the oven rack .
+PREDID: 0
+PRED: place
+  PARG: the oven rack
+    PREP: on
+  OARG: directly
+
+
+SENTID: 3
+SENT: On a baking sheet , combine the onions , red and green bell peppers , celery and corn .
+PREDID: 0
+PRED: combine
+  DOBJ: the onions , red, green bell peppers , celery, corn
+  PARG: a baking sheet
+    PREP: on
+
+
+SENTID: 4
+SENT: Roast the vegetables and peppers for about 15 minutes in the preheated oven .
+PREDID: 0
+PRED: roast
+  DOBJ: the vegetables, peppers
+  PARG: about 15 minutes
+    PREP: for
+  PARG: the preheated oven
+    PREP: in
+
+
+SENTID: 5
+SENT: Check occasionally , and turn or stir as needed for even browning .
+PREDID: 0
+PRED: check
+  OARG: occasionally
+
+PREDID: 1
+PRED: turn
+  PARG: needed
+    PREP: as
+
+PREDID: 2
+PRED: stir
+  PARG: even browning
+    PREP: for
+
+
+SENTID: 6
+SENT: Remove from the oven , and refrigerate until needed .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: refrigerate
+  PARG: needed
+    PREP: until
+
+
+SENTID: 7
+SENT: Tear the corn tortillas into pieces , and place them in a food processor .
+PREDID: 0
+PRED: tear
+  DOBJ: the corn tortillas
+  PARG: pieces
+    PREP: into
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a food processor
+    PREP: in
+
+
+SENTID: 8
+SENT: Process into fine crumbs .
+PREDID: 0
+PRED: process
+  PARG: fine crumbs
+    PREP: into
+
+
+SENTID: 9
+SENT: Place crumbs on a plate .
+PREDID: 0
+PRED: place
+  DOBJ: crumbs
+  PARG: a plate
+    PREP: on
+
+
+SENTID: 10
+SENT: In a shallow bowl , whisk together the eggs and milk .
+PREDID: 0
+PRED: whisk
+  DOBJ: the eggs, milk
+  PARG: a shallow bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 11
+SENT: Heat the oil in a large skillet over medium heat .
+PREDID: 0
+PRED: heat
+  DOBJ: the oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+
+
+SENTID: 12
+SENT: Dip chicken breast halves into the tortilla crumbs to coat , then into the egg mixture , and again in the tortilla crumbs to give them a nice thick coating .
+PREDID: 0
+PRED: dip
+  DOBJ: chicken breast halves
+  PARG: the tortilla crumbs
+    PREP: into
+  PARG: coat
+    PREP: to
+  PARG: the egg mixture
+    PREP: into
+  PARG: the tortilla crumbs
+    PREP: in
+  PARG: give them a nice thick coating
+    PREP: to
+  OARG: then
+  OARG: again
+
+
+SENTID: 13
+SENT: Fry the chicken until golden brown on each side , about 4 minutes per side .
+PREDID: 0
+PRED: fry
+  DOBJ: the chicken
+  PARG: golden brown on each side , about 4 minutes per side
+    PREP: until
+
+
+SENTID: 14
+SENT: When done , refrigerate until cooled completely .
+PREDID: 0
+PRED: refrigerate
+  PARG: cooled completely
+    PREP: until
+  OARG: when done
+
+
+SENTID: 15
+SENT: Place into a food processor along with the mayonnaise .
+PREDID: 0
+PRED: place
+  PARG: a food processor
+    PREP: into
+  PARG: with the mayonnaise
+    PREP: along
+
+
+SENTID: 16
+SENT: Puree until smooth , and set aside .
+PREDID: 0
+PRED: puree
+  PARG: smooth
+    PREP: until
+
+PREDID: 1
+PRED: set
+  OARG: aside
+
+
+SENTID: 17
+SENT: When everything has chilled , dice the chicken breasts .
+PREDID: 0
+PRED: dice
+  DOBJ: the chicken breasts
+  OARG: when everything has chilled
+
+
+SENTID: 18
+SENT: In a large food processor , combine the chicken and roasted vegetables .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken, roasted vegetables
+  PARG: a large food processor
+    PREP: in
+
+
+SENTID: 19
+SENT: Blend in the poblano mayonnaise until your desired consistency is reached .
+PREDID: 0
+PRED: blend
+  PARG: the poblano mayonnaise
+    PREP: in
+  PARG: your desired consistency is reached
+    PREP: until
+
+
+SENTID: 20
+SENT: Taste and season with salt and pepper as desired .
+PREDID: 0
+PRED: taste
+  PARG: salt, pepper
+    PREP: with
+
+PREDID: 1
+PRED: season
+  PARG: desired
+    PREP: as
+

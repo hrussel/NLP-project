@@ -1,0 +1,49 @@
+SENTID: 0
+SENT: Cook beef , garlic and chili powder in saucepot until browned .
+PREDID: 0
+PRED: cook
+  DOBJ: beef , garlic, chili powder
+  PARG: saucepot
+    PREP: in
+  PARG: browned
+    PREP: until
+
+
+SENTID: 1
+SENT: Pour off fat .
+PREDID: 0
+PRED: pour
+  PARG: fat
+    PREP: off
+
+
+SENTID: 2
+SENT: Add beans , salsa , corn and broth .
+PREDID: 0
+PRED: add
+  DOBJ: beans , salsa , corn, broth
+
+
+SENTID: 3
+SENT: Heat to a boil .
+PREDID: 0
+PRED: heat
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Cook over low heat 15 minutes .
+PREDID: 0
+PRED: cook
+  PARG: low heat 15 minutes
+    PREP: over
+
+
+SENTID: 5
+SENT: Serve with Cornbread Squares .
+PREDID: 0
+PRED: serve
+  PARG: cornbread squares
+    PREP: with
+

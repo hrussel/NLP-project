@@ -1,0 +1,172 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 4
+SENT: Cool the eggs under cold running water .
+PREDID: 0
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+
+
+SENTID: 5
+SENT: Peel once cold .
+PREDID: 0
+PRED: peel
+  DOBJ: cold
+  OARG: once
+
+
+SENTID: 6
+SENT: Halve the eggs lengthwise and scoop the yolks into a bowl .
+PREDID: 0
+PRED: halve
+  DOBJ: the eggs lengthwise
+
+PREDID: 1
+PRED: scoop
+  DOBJ: the yolks
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 7
+SENT: Mash the yolks with a fork .
+PREDID: 0
+PRED: mash
+  DOBJ: the yolks
+  PARG: a fork
+    PREP: with
+
+
+SENTID: 8
+SENT: Place the tomatoes , cut sides down , onto a paper towel to drain .
+PREDID: 0
+PRED: place
+  DOBJ: the tomatoes , cut sides
+  PARG: a paper towel
+    PREP: onto
+  PARG: drain
+    PREP: to
+  OARG: down
+
+
+SENTID: 9
+SENT: Mash the cream cheese with a spoon in a bowl until smooth and workable ;
+PREDID: 0
+PRED: mash
+  DOBJ: the cream cheese
+  PARG: a spoon
+    PREP: with
+  PARG: a bowl
+    PREP: in
+  PARG: smooth, workable
+    PREP: until
+
+
+SENTID: 10
+SENT: stir in the egg yolks , salmon , mayonnaise , brown mustard , sour cream , lemon juice , pickle relish , lemon peel , and 1 teaspoon of smoked paprika until well combined .
+PREDID: 0
+PRED: stir
+  PARG: the egg yolks , salmon , mayonnaise , brown mustard , sour cream , lemon juice , pickle relish , lemon peel , 1 teaspoon of smoked paprika
+    PREP: in
+  PARG: well combined
+    PREP: until
+
+
+SENTID: 11
+SENT: Season with salt and pepper .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+
+
+SENTID: 12
+SENT: Spoon the salmon mixture into the egg halves and cherry tomato halves .
+PREDID: 0
+PRED: spoon
+  DOBJ: the salmon mixture
+  PARG: the egg halves, cherry tomato halves
+    PREP: into
+
+
+SENTID: 13
+SENT: Sprinkle with additional smoked paprika for garnish and arrange on a platter .
+PREDID: 0
+PRED: sprinkle
+  PARG: additional smoked paprika
+    PREP: with
+  PARG: garnish
+    PREP: for
+
+PREDID: 1
+PRED: arrange
+  PARG: a platter
+    PREP: on
+
+
+SENTID: 14
+SENT: Chill at least 1 hour before serving .
+PREDID: 0
+PRED: chill
+  PARG: least 1 hour
+    PREP: at
+  PARG: serving
+    PREP: before
+

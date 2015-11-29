@@ -1,0 +1,176 @@
+SENTID: 0
+SENT: Place eggs in a large pot and cover with water .
+PREDID: 0
+PRED: place
+  DOBJ: eggs
+  PARG: a large pot
+    PREP: in
+
+PREDID: 1
+PRED: cover
+  PARG: water
+    PREP: with
+
+
+SENTID: 1
+SENT: Bring to a simmer over high heat .
+PREDID: 0
+PRED: bring
+  PARG: a simmer
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Remove from heat , cover the pot and let sit for 17 minutes .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cover
+  DOBJ: the pot, let sit
+  PARG: 17 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Combine sugar and water in a saucepan and bring to a boil .
+PREDID: 0
+PRED: combine
+  DOBJ: sugar, water
+  PARG: a saucepan
+    PREP: in
+
+PREDID: 1
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 4
+SENT: Pour the warm sugar syrup over the pepper rings in a small bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: the warm sugar syrup
+  PARG: the pepper rings
+    PREP: over
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Stir and set aside .
+PREDID: 0
+PRED: stir
+  OARG: aside
+
+PREDID: 1
+PRED: set
+
+
+SENTID: 6
+SENT: Drain eggs and fill the pan with very cold water .
+PREDID: 0
+PRED: drain
+  DOBJ: eggs
+
+PREDID: 1
+PRED: fill
+  DOBJ: the pan
+  PARG: very cold water
+    PREP: with
+
+
+SENTID: 7
+SENT: Let eggs sit in cold water until they are cool enough to handle , about 15 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: eggs sit
+  PARG: cold water
+    PREP: in
+  PARG: they are
+    PREP: until
+
+PREDID: 1
+PRED: cool
+  PARG: handle
+    PREP: to
+  PARG: 15 minutes
+    PREP: about
+  OARG: enough
+
+
+SENTID: 8
+SENT: Peel eggs and slice in half lengthwise .
+PREDID: 0
+PRED: peel
+  DOBJ: eggs
+
+PREDID: 1
+PRED: slice
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 9
+SENT: Mash together egg yolks , cream cheese , mayonnaise , Sriracha sauce , and Dijon mustard with a spoon or spatula until just combined .
+PREDID: 0
+PRED: mash
+  DOBJ: egg yolks , cream cheese , mayonnaise , sriracha sauce , dijon mustard
+  PARG: a spoon or spatula
+    PREP: with
+  PARG: just combined
+    PREP: until
+  OARG: together
+
+
+SENTID: 10
+SENT: Stir in rice vinegar until smooth .
+PREDID: 0
+PRED: stir
+  PARG: rice vinegar
+    PREP: in
+  PARG: smooth
+    PREP: until
+
+
+SENTID: 11
+SENT: Season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 12
+SENT: Pipe filling into the egg shells .
+PREDID: 0
+PRED: pipe
+  DOBJ: filling
+  PARG: the egg shells
+    PREP: into
+
+
+SENTID: 13
+SENT: Top each egg with a ring of candied pepper and chopped chives .
+PREDID: 0
+PRED: top
+  DOBJ: each egg
+  PARG: a ring of candied pepper, chopped chives
+    PREP: with
+
+
+SENTID: 14
+SENT: Chill for at least 20 minutes before serving .
+PREDID: 0
+PRED: chill
+  PARG: at least 20 minutes
+    PREP: for
+  PARG: serving
+    PREP: before
+

@@ -1,0 +1,100 @@
+SENTID: 0
+SENT: PREHEAT oven to 350 degrees F -LRB- 180 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 180 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Position rack in the bottom third of the oven .
+PREDID: 0
+PRED: position
+  DOBJ: rack
+  PARG: the bottom third of the oven
+    PREP: in
+
+
+SENTID: 2
+SENT: MELT chocolate in the top of a double boiler over water that is barely simmering .
+PREDID: 0
+PRED: melt
+  DOBJ: chocolate
+  PARG: the top of a double boiler
+    PREP: in
+  PARG: water
+    PREP: over
+  PARG: is
+    PREP: that
+  OARG: barely
+
+
+SENTID: 3
+SENT: Stir constantly .
+PREDID: 0
+PRED: stir
+  OARG: constantly
+
+
+SENTID: 4
+SENT: WHISK together sugar , corn syrup , eggs , chocolate , butter , vanilla and salt .
+PREDID: 0
+PRED: whisk
+  DOBJ: sugar , corn syrup , eggs , chocolate , butter , vanilla, salt
+  OARG: together
+
+
+SENTID: 5
+SENT: Add chopped pecans and pour into the unbaked pie shell .
+PREDID: 0
+PRED: add
+  DOBJ: chopped pecans
+
+PREDID: 1
+PRED: pour
+  PARG: the unbaked pie shell
+    PREP: into
+
+
+SENTID: 6
+SENT: Arrange the pecan halves artfully on top of the filling .
+PREDID: 0
+PRED: arrange
+  DOBJ: the pecan halves
+  PARG: top of the filling
+    PREP: on
+  OARG: artfully
+
+
+SENTID: 7
+SENT: BAKE in preheated oven for 50-60 minutes .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 50-60 minutes
+    PREP: for
+
+
+SENTID: 8
+SENT: Transfer to a wire rack to cool .
+PREDID: 0
+PRED: transfer
+  PARG: a wire rack
+    PREP: to
+  OARG: to cool
+
+
+SENTID: 9
+SENT: Cut into wedges and serve with a generous dollop of whipped cream .
+PREDID: 0
+PRED: cut
+  PARG: wedges
+    PREP: into
+
+PREDID: 1
+PRED: serve
+  PARG: a generous dollop of whipped cream
+    PREP: with
+

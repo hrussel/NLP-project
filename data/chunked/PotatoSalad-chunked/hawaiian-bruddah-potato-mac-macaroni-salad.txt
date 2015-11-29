@@ -1,0 +1,209 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Cover the saucepan and bring the water to a boil over high heat .
+PREDID: 0
+PRED: cover
+  DOBJ: the saucepan
+
+PREDID: 1
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Once the water is boiling , remove from the heat and let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: remove
+  DOBJ: the water is boiling
+  PARG: the heat
+    PREP: from
+  OARG: once
+
+PREDID: 1
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 3
+SENT: Pour out the hot water , then cool the eggs under cold running water in the sink ;
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 4
+SENT: peel and chop the cooled eggs .
+PREDID: 0
+PRED: peel
+  DOBJ: the cooled eggs
+
+PREDID: 1
+PRED: chop
+
+
+SENTID: 5
+SENT: Bring a large pot of salted water to a boil .
+PREDID: 0
+PRED: bring
+  DOBJ: a large pot of salted water
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 6
+SENT: Add potatoes and cook until tender but still firm , about 15 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: potatoes
+
+PREDID: 1
+PRED: cook
+  PARG: tender but still firm , about 15 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain and set in the refrigerator to cool .
+PREDID: 0
+PRED: drain
+  PARG: the refrigerator
+    PREP: in
+
+PREDID: 1
+PRED: set
+  OARG: to cool
+
+
+SENTID: 8
+SENT: Fill a large pot with lightly salted water and bring to a rolling boil over high heat .
+PREDID: 0
+PRED: fill
+  DOBJ: a large pot
+  PARG: lightly salted water
+    PREP: with
+
+PREDID: 1
+PRED: bring
+  PARG: a rolling boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 9
+SENT: Once the water is boiling , stir in the macaroni , and return to a boil .
+PREDID: 0
+PRED: stir
+  DOBJ: the water is boiling
+  PARG: the macaroni
+    PREP: in
+  OARG: once
+
+PREDID: 1
+PRED: return
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 10
+SENT: Cook the pasta uncovered , stirring occasionally , until the pasta has cooked through , but is still firm to the bite , about 8 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the pasta uncovered , stirring
+  PARG: the pasta has cooked through , but is still firm to the bite , about 8 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 11
+SENT: Drain in a colander set in the sink ;
+PREDID: 0
+PRED: drain
+  PARG: a colander set
+    PREP: in
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 12
+SENT: rinse with cold water .
+PREDID: 0
+PRED: rinse
+  PARG: cold water
+    PREP: with
+
+
+SENTID: 13
+SENT: Whisk together the mayonnaise , vinegar , curry powder , celery seed , salt , and pepper in a bowl .
+PREDID: 0
+PRED: whisk
+  DOBJ: the mayonnaise , vinegar , curry powder , celery seed , salt , pepper
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 14
+SENT: Combine the cooled potatoes , macaroni , chopped eggs , carrots , peas , and onion in a large bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: the cooled potatoes , macaroni , chopped eggs , carrots , peas , onion
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 15
+SENT: Carefully stir in the dressing ;
+PREDID: 0
+PRED: stir
+  PARG: the dressing
+    PREP: in
+  OARG: carefully
+
+
+SENTID: 16
+SENT: cover and refrigerate overnight .
+PREDID: 0
+PRED: cover
+  OARG: overnight
+
+PREDID: 1
+PRED: refrigerate
+

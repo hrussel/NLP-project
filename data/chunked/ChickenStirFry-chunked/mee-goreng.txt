@@ -1,0 +1,71 @@
+SENTID: 0
+SENT: Heat the oil in a large , deep skillet or wok over medium heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: skillet or wok
+  PARG: a large
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  OARG: deep
+  OARG: the oil
+
+
+SENTID: 1
+SENT: cook the onions in the hot oil until softened , about 5 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: the onions
+  PARG: the hot oil
+    PREP: in
+  PARG: softened , about 5 minutes
+    PREP: until
+
+
+SENTID: 2
+SENT: Add the potato , soy sauce , and water ;
+PREDID: 0
+PRED: add
+  DOBJ: the potato , soy sauce , water
+
+
+SENTID: 3
+SENT: simmer until the potatoes are nearly cooked through , about 15 minutes .
+PREDID: 0
+PRED: simmer
+  PARG: the potatoes are nearly cooked through , about 15 minutes
+    PREP: until
+
+
+SENTID: 4
+SENT: Stir the chicken , tomatoes , chile pepper , peas , carrot , corn , tomato sauce , chili sauce , and eggs into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken , tomatoes , chile pepper , peas , carrot , corn , tomato sauce , chili sauce , eggs
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 5
+SENT: toss to combine .
+PREDID: 0
+PRED: toss
+  PARG: combine
+    PREP: to
+
+
+SENTID: 6
+SENT: Add the noodles and continue cooking until the noodles soften , 2 to 3 minutes more .
+PREDID: 0
+PRED: add
+  DOBJ: the noodles, continue cooking
+  PARG: the noodles soften , 2 to 3 minutes more
+    PREP: until
+
+
+SENTID: 7
+SENT: Serve hot .
+PREDID: 0
+PRED: serve
+  DOBJ: hot
+

@@ -1,0 +1,117 @@
+SENTID: 0
+SENT: Heat 2 tablespoons canola oil and sesame oil in a large skillet over medium-high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: 2 tablespoons canola oil, sesame oil
+  PARG: a large skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Cook and stir chicken and garlic in hot oil until fragrant , about 1 minute .
+PREDID: 0
+PRED: cook
+  DOBJ: chicken, garlic
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: fragrant , about 1 minute
+    PREP: until
+
+
+SENTID: 2
+SENT: Stir chile paste into chicken mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: chile paste
+  PARG: chicken mixture
+    PREP: into
+
+
+SENTID: 3
+SENT: Add soy sauce and simmer for 2 minutes .
+PREDID: 0
+PRED: add
+  DOBJ: soy sauce
+
+PREDID: 1
+PRED: simmer
+  PARG: 2 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Pour chicken and sauce into a bowl .
+PREDID: 0
+PRED: pour
+  DOBJ: chicken
+
+PREDID: 1
+PRED: sauce
+  PARG: a bowl
+    PREP: into
+
+
+SENTID: 5
+SENT: Heat 1 tablespoon canola oil in the skillet over medium-high heat ;
+PREDID: 0
+PRED: heat
+  DOBJ: 1 tablespoon canola oil
+  PARG: the skillet
+    PREP: in
+  PARG: medium-high heat
+    PREP: over
+
+
+SENTID: 6
+SENT: cook and stir cabbage , onion , carrots , and salt in hot oil until cabbage is wilted , 3 to 4 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: cabbage , onion , carrots , salt
+
+PREDID: 1
+PRED: stir
+  PARG: hot oil
+    PREP: in
+  PARG: cabbage is wilted , 3 to 4 minutes
+    PREP: until
+
+
+SENTID: 7
+SENT: Stir the chicken mixture into the cabbage mixture .
+PREDID: 0
+PRED: stir
+  DOBJ: the chicken mixture
+  PARG: the cabbage mixture
+    PREP: into
+
+
+SENTID: 8
+SENT: Add noodles ;
+PREDID: 0
+PRED: add
+  DOBJ: noodles
+
+
+SENTID: 9
+SENT: cook and stir until noodles are hot and chicken is no longer pink inside , 3 to 4 minutes .
+PREDID: 0
+PRED: cook
+  PARG: noodles are hot, chicken is no longer pink inside , 3 to 4 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 10
+SENT: Garnish with pickled ginger .
+PREDID: 0
+PRED: garnish
+  PARG: pickled ginger
+    PREP: with
+

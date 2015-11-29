@@ -1,0 +1,74 @@
+SENTID: 0
+SENT: Heat oil in a skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: oil
+  PARG: a skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 1
+SENT: Saute chicken pieces in hot oil for 6 to 7 minutes .
+PREDID: 0
+PRED: saute
+  DOBJ: chicken pieces
+  PARG: hot oil
+    PREP: in
+  PARG: 6 to 7 minutes
+    PREP: for
+
+
+SENTID: 2
+SENT: Preheat oven to 425 degrees F -LRB- 220 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 425 degrees f -lrb- 220 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 3
+SENT: Spoon 1/4 of peanut sauce onto each pita .
+PREDID: 0
+PRED: spoon
+  DOBJ: 1/4 of peanut sauce
+  PARG: each pita
+    PREP: onto
+
+
+SENTID: 4
+SENT: Sprinkle 1/4 of the browned chicken and 1/4 of the scallions on top of each .
+PREDID: 0
+PRED: sprinkle
+  DOBJ: 1/4 of the browned chicken, 1/4 of the scallions
+  PARG: top of each
+    PREP: on
+
+
+SENTID: 5
+SENT: Top each ` pizza ' with 1 slice cheese .
+PREDID: 0
+PRED: top
+  DOBJ: each ` pizza
+  PARG: 1 slice cheese
+    PREP: with
+
+
+SENTID: 6
+SENT: Place on a lightly greased cookie sheet and bake in the preheated oven for 10 to 12 minutes , until the cheese is melted and bubbly .
+PREDID: 0
+PRED: place
+  PARG: a lightly greased cookie sheet
+    PREP: on
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 10 to 12 minutes
+    PREP: for
+  PARG: the cheese is melted, bubbly
+    PREP: until
+

@@ -1,0 +1,85 @@
+SENTID: 0
+SENT: Boil noodles in boiling salted water just until softened ;
+PREDID: 0
+PRED: boil
+  DOBJ: noodles
+  PARG: boiling salted water
+    PREP: in
+  PARG: softened
+    PREP: until
+  OARG: just
+
+
+SENTID: 1
+SENT: Rinse , and drain .
+PREDID: 0
+PRED: rinse
+
+PREDID: 1
+PRED: drain
+
+
+SENTID: 2
+SENT: Beat the eggs with the melted butter .
+PREDID: 0
+PRED: beat
+  DOBJ: the eggs
+  PARG: the melted butter
+    PREP: with
+
+
+SENTID: 3
+SENT: Mix in sugar , crushed pineapple with juice , vanilla , and cinnamon .
+PREDID: 0
+PRED: mix
+  PARG: sugar , crushed pineapple
+    PREP: in
+  PARG: juice , vanilla , cinnamon
+    PREP: with
+
+
+SENTID: 4
+SENT: Stir in the noodles .
+PREDID: 0
+PRED: stir
+  PARG: the noodles
+    PREP: in
+
+
+SENTID: 5
+SENT: Spread into a greased 9 x 13 inch baking pan .
+PREDID: 0
+PRED: spread
+  PARG: a greased 9 x 13 inch baking pan
+    PREP: into
+
+
+SENTID: 6
+SENT: Place pineapple rings decoratively over the top .
+PREDID: 0
+PRED: place
+  DOBJ: pineapple rings
+  PARG: the top
+    PREP: over
+  OARG: decoratively
+
+
+SENTID: 7
+SENT: Place a cherry in the center of each ring if desired Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 50 minutes , or until golden .
+PREDID: 0
+PRED: place
+  DOBJ: a cherry
+  PARG: the center of each ring
+    PREP: in
+  PARG: desired
+    PREP: if
+
+PREDID: 1
+PRED: bake
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: at
+  PARG: 50 minutes
+    PREP: for
+  PARG: golden
+    PREP: until
+

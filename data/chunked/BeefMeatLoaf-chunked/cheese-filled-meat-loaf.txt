@@ -1,0 +1,166 @@
+SENTID: 0
+SENT: Preheat oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Chop 4 bacon strips ;
+PREDID: 0
+PRED: chop
+  DOBJ: 4 bacon strips
+
+
+SENTID: 2
+SENT: set remaining 4 bacon strips aside .
+PREDID: 0
+PRED: set
+  DOBJ: remaining 4 bacon strips
+  OARG: aside
+
+
+SENTID: 3
+SENT: Cook chopped bacon in a large skillet over medium heat , stirring often , until bacon is browned and crisp , 8 to 10 minutes .
+PREDID: 0
+PRED: cook
+  DOBJ: chopped bacon
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat , stirring
+    PREP: over
+  PARG: bacon is browned, crisp , 8 to 10 minutes
+    PREP: until
+  OARG: often
+
+
+SENTID: 4
+SENT: Set chopped bacon aside .
+PREDID: 0
+PRED: set
+  DOBJ: chopped bacon
+  OARG: aside
+
+
+SENTID: 5
+SENT: Lightly mix ground beef , bread crumbs , beaten egg , garlic , 1 teaspoon Worcestershire sauce , salt , and black pepper together in a bowl until thoroughly combined .
+PREDID: 0
+PRED: mix
+  DOBJ: ground beef , bread crumbs , beaten egg , garlic , 1 teaspoon worcestershire sauce , salt , black pepper
+  PARG: a bowl
+    PREP: in
+  PARG: thoroughly combined
+    PREP: until
+  OARG: lightly
+  OARG: together
+
+
+SENTID: 6
+SENT: Spread meat mixture out on a piece of waxed paper , forming a rectangle about 10 inches square .
+PREDID: 0
+PRED: spread
+  DOBJ: forming a rectangle
+  PARG: on a piece of waxed paper
+    PREP: out
+  PARG: 10 inches square
+    PREP: about
+  OARG: meat mixture
+
+
+SENTID: 7
+SENT: Spread Cheddar cheese and cooked chopped bacon over the meat , leaving a 1/2-inch edge all around .
+PREDID: 0
+PRED: spread
+  DOBJ: cheddar cheese, cooked chopped bacon
+  PARG: the meat
+    PREP: over
+
+
+SENTID: 8
+SENT: Carefully lift an edge and roll the meat around the filling .
+PREDID: 0
+PRED: lift
+  DOBJ: an edge
+  OARG: carefully
+
+PREDID: 1
+PRED: roll
+  DOBJ: the meat
+  PARG: the filling
+    PREP: around
+
+
+SENTID: 9
+SENT: Place into a loaf pan with the seam side down .
+PREDID: 0
+PRED: place
+  PARG: a loaf pan
+    PREP: into
+  PARG: the seam side
+    PREP: with
+  OARG: down
+
+
+SENTID: 10
+SENT: Bake meat loaf in the preheated oven until hot and beginning to brown , about 30 minutes .
+PREDID: 0
+PRED: bake
+  DOBJ: meat loaf
+  PARG: the preheated oven
+    PREP: in
+  PARG: hot, beginning to brown , about 30 minutes
+    PREP: until
+
+
+SENTID: 11
+SENT: Mix ketchup , brown sugar , pineapple , and 1 teaspoon Worcestershire sauce together in a bowl , stirring to dissolve brown sugar .
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup , brown sugar , pineapple , 1 teaspoon worcestershire sauce
+  PARG: a bowl , stirring
+    PREP: in
+  PARG: dissolve brown sugar
+    PREP: to
+  OARG: together
+
+
+SENTID: 12
+SENT: Remove meat loaf from oven and place remaining 4 bacon strips onto meat loaf , weaving them together .
+PREDID: 0
+PRED: remove
+  DOBJ: meat loaf
+  PARG: oven
+    PREP: from
+
+PREDID: 1
+PRED: place
+  DOBJ: remaining 4 bacon strips
+  PARG: meat loaf , weaving them
+    PREP: onto
+  OARG: together
+
+
+SENTID: 13
+SENT: Spread pineapple mixture over woven bacon and top of loaf .
+PREDID: 0
+PRED: spread
+  DOBJ: pineapple mixture
+  PARG: woven bacon, top of loaf
+    PREP: over
+
+
+SENTID: 14
+SENT: Return meat loaf to oven and bake until bacon topping is crisp and pineapple mixture has baked into a glaze , about 20 more minutes .
+PREDID: 0
+PRED: return
+  DOBJ: meat loaf
+  PARG: oven
+    PREP: to
+
+PREDID: 1
+PRED: bake
+  PARG: bacon topping is crisp, pineapple mixture has baked into a glaze , about 20 more minutes
+    PREP: until
+

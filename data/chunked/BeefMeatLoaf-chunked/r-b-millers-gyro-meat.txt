@@ -1,0 +1,139 @@
+SENTID: 0
+SENT: Grind the ground chuck and lamb cubes through the coarse plate of a meat grinder twice to mix thoroughly .
+PREDID: 0
+PRED: grind
+  DOBJ: the coarse plate of a meat grinder
+  PARG: mix
+    PREP: to
+  OARG: the ground chuck, lamb cubes
+  OARG: twice
+  OARG: thoroughly
+
+
+SENTID: 1
+SENT: Place the onion , garlic , marjoram , rosemary , salt , and pepper into a food processor , and pulse until finely ground .
+PREDID: 0
+PRED: place
+  DOBJ: the onion , garlic , marjoram , rosemary , salt , pepper
+  PARG: a food processor
+    PREP: into
+
+PREDID: 1
+PRED: pulse
+  PARG: finely ground
+    PREP: until
+
+
+SENTID: 2
+SENT: Mix together the ground meat and onion mixture in a bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: the ground meat, onion mixture
+  PARG: a bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 3
+SENT: Regrind through a fine plate , and pack the mixture into a 3x7 inch loaf pan .
+PREDID: 0
+PRED: pack
+  DOBJ: a fine plate
+  PARG: a 3x7 inch loaf pan
+    PREP: into
+  OARG: regrind
+
+
+SENTID: 4
+SENT: Wrap tightly with plastic wrap , and refrigerate overnight .
+PREDID: 0
+PRED: wrap
+  PARG: plastic wrap
+    PREP: with
+  OARG: tightly
+
+PREDID: 1
+PRED: refrigerate
+  OARG: overnight
+
+
+SENTID: 5
+SENT: Preheat an oven to 325 degrees F -LRB- 165 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 325 degrees f -lrb- 165 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 6
+SENT: Remove and discard the plastic wrap from the loaf pan , and bake the gyro meat in the preheated oven until the internal temperature reaches 140 degrees F -LRB- 60 degrees C -RRB- , about 1 hour .
+PREDID: 0
+PRED: remove
+  DOBJ: the plastic wrap
+
+PREDID: 1
+PRED: discard
+  PARG: the loaf pan
+    PREP: from
+
+PREDID: 2
+PRED: bake
+  DOBJ: the gyro meat
+  PARG: the preheated oven
+    PREP: in
+  PARG: the internal temperature reaches 140 degrees f -lrb- 60 degrees c -rrb- , about 1 hour
+    PREP: until
+
+
+SENTID: 7
+SENT: Drain away all of the liquid that has accumulated in the pan , then remove the loaf from the pan .
+PREDID: 0
+PRED: drain
+  DOBJ: all of the liquid
+  PARG: has accumulated
+    PREP: that
+  PARG: the pan
+    PREP: in
+  OARG: away
+  OARG: then
+
+PREDID: 1
+PRED: remove
+  DOBJ: the loaf
+  PARG: the pan
+    PREP: from
+
+
+SENTID: 8
+SENT: Place the meat on a rack set above a baking dish to catch the drips , and continue baking until the internal temperature reaches 165 degrees F -LRB- 75 degrees C -RRB- , 15 to 30 minutes more .
+PREDID: 0
+PRED: place
+  DOBJ: the meat
+  PARG: a rack
+    PREP: on
+
+PREDID: 1
+PRED: set
+  PARG: a baking dish
+    PREP: above
+  PARG: catch the drips , continue baking
+    PREP: to
+  PARG: the internal temperature reaches 165 degrees f -lrb- 75 degrees c -rrb- , 15 to 30 minutes more
+    PREP: until
+
+
+SENTID: 9
+SENT: Remove from the oven , and allow to stand 15 minutes before slicing .
+PREDID: 0
+PRED: remove
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: allow
+  PARG: stand 15 minutes
+    PREP: to
+  PARG: slicing
+    PREP: before
+

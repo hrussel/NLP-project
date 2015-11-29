@@ -1,0 +1,133 @@
+SENTID: 0
+SENT: Place the eggs into a saucepan in a single layer , and fill with water to cover the eggs by at least 1 inch .
+PREDID: 0
+PRED: place
+  DOBJ: the eggs
+  PARG: a saucepan
+    PREP: into
+  PARG: a single layer
+    PREP: in
+
+PREDID: 1
+PRED: fill
+  PARG: water
+    PREP: with
+  PARG: cover the eggs
+    PREP: to
+  PARG: at least 1 inch
+    PREP: by
+
+
+SENTID: 1
+SENT: Bring the water to a boil over high heat .
+PREDID: 0
+PRED: bring
+  DOBJ: the water
+  PARG: a boil
+    PREP: to
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 2
+SENT: Cover , and remove from the heat ;
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: remove
+  PARG: the heat
+    PREP: from
+
+
+SENTID: 3
+SENT: let the eggs stand in the hot water for 15 minutes .
+PREDID: 0
+PRED: let
+  DOBJ: the eggs stand
+  PARG: the hot water
+    PREP: in
+  PARG: 15 minutes
+    PREP: for
+
+
+SENTID: 4
+SENT: Pour out the hot water , then cool the eggs under cold running water in the sink .
+PREDID: 0
+PRED: pour
+  PARG: the hot water
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: cool
+  DOBJ: the eggs
+  PARG: cold running water
+    PREP: under
+  PARG: the sink
+    PREP: in
+
+
+SENTID: 5
+SENT: Peel .
+PREDID: 0
+PRED: peel
+
+
+SENTID: 6
+SENT: Cut the cooled eggs in half lengthwise .
+PREDID: 0
+PRED: cut
+  DOBJ: the cooled eggs
+  PARG: half lengthwise
+    PREP: in
+
+
+SENTID: 7
+SENT: Remove the yolks , and place them into a mixing bowl along with the jalapeno , habanero , mayonnaise , and mustard ;
+PREDID: 0
+PRED: remove
+  DOBJ: the yolks
+
+PREDID: 1
+PRED: place
+  DOBJ: them
+  PARG: a mixing bowl
+    PREP: into
+  PARG: with the jalapeno , habanero , mayonnaise , mustard
+    PREP: along
+
+
+SENTID: 8
+SENT: mash together until smooth .
+PREDID: 0
+PRED: mash
+  PARG: smooth
+    PREP: until
+  OARG: together
+
+
+SENTID: 9
+SENT: Transfer the yolk mixture to a pastry bag , and decoratively squeeze into the white halves .
+PREDID: 0
+PRED: transfer
+  DOBJ: the yolk mixture
+  PARG: a pastry bag
+    PREP: to
+  OARG: decoratively
+
+PREDID: 1
+PRED: squeeze
+  PARG: the white halves
+    PREP: into
+
+
+SENTID: 10
+SENT: Sprinkle with paprika to garnish .
+PREDID: 0
+PRED: sprinkle
+  PARG: paprika
+    PREP: with
+  PARG: garnish
+    PREP: to
+

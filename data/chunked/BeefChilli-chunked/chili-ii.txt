@@ -1,0 +1,25 @@
+SENTID: 0
+SENT: Cook ground beef and onion until done .
+PREDID: 0
+PRED: cook
+  DOBJ: ground beef, onion
+  PARG: done
+    PREP: until
+
+
+SENTID: 1
+SENT: In slow cooker or Dutch oven add all ingredients together .
+PREDID: 0
+PRED: add
+  DOBJ: all ingredients
+  PARG: slow cooker or dutch oven
+    PREP: in
+  OARG: together
+
+
+SENTID: 2
+SENT: Simmer several hours .
+PREDID: 0
+PRED: simmer
+  OARG: several hours
+

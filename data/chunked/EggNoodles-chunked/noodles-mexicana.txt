@@ -1,0 +1,75 @@
+SENTID: 0
+SENT: In a large skillet over medium heat , cook the ground beef , onion , and garlic until beef is evenly brown .
+PREDID: 0
+PRED: cook
+  DOBJ: the ground beef , onion , garlic
+  PARG: a large skillet
+    PREP: in
+  PARG: medium heat
+    PREP: over
+  PARG: beef is evenly brown
+    PREP: until
+
+
+SENTID: 1
+SENT: Drain .
+PREDID: 0
+PRED: drain
+
+
+SENTID: 2
+SENT: Mix the corn , olives , tomatoes , chili beans , and green onions into the skillet .
+PREDID: 0
+PRED: mix
+  DOBJ: the corn , olives , tomatoes , chili beans , green onions
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 3
+SENT: Season with taco seasoning and salt .
+PREDID: 0
+PRED: season
+  PARG: taco seasoning, salt
+    PREP: with
+
+
+SENTID: 4
+SENT: Cover , and cook 15 minutes .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: cook
+  OARG: 15 minutes
+
+
+SENTID: 5
+SENT: Mix the egg noodles into the skillet .
+PREDID: 0
+PRED: mix
+  DOBJ: the egg noodles
+  PARG: the skillet
+    PREP: into
+
+
+SENTID: 6
+SENT: Cover , and continue cooking 12 minutes , or until egg noodles are tender .
+PREDID: 0
+PRED: cover
+
+PREDID: 1
+PRED: continue
+  PARG: egg noodles are tender
+    PREP: until
+  OARG: cooking 12 minutes
+
+
+SENTID: 7
+SENT: Top each serving with a dollop of sour cream .
+PREDID: 0
+PRED: top
+  DOBJ: each serving
+  PARG: a dollop of sour cream
+    PREP: with
+

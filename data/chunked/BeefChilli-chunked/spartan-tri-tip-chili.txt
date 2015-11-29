@@ -1,0 +1,111 @@
+SENTID: 0
+SENT: Place the bacon in a large skillet and cook over medium-high heat , turning occasionally , until evenly browned , about 10 minutes .
+PREDID: 0
+PRED: place
+  DOBJ: the bacon
+  PARG: a large skillet
+    PREP: in
+
+PREDID: 1
+PRED: cook
+  PARG: medium-high heat , turning
+    PREP: over
+  PARG: evenly browned , about 10 minutes
+    PREP: until
+  OARG: occasionally
+
+
+SENTID: 1
+SENT: Drain the bacon slices on paper towels .
+PREDID: 0
+PRED: drain
+  DOBJ: the bacon slices
+  PARG: paper towels
+    PREP: on
+
+
+SENTID: 2
+SENT: Crumble bacon when cool enough to handle .
+PREDID: 0
+PRED: crumble
+  DOBJ: bacon
+  PARG: handle
+    PREP: to
+  OARG: when cool
+  OARG: enough
+
+
+SENTID: 3
+SENT: Heat vegetable oil in a large soup pot over medium heat and brown tri tip in the hot oil , working in 4 batches , until beef is browned and no longer pink inside , about 5 minutes per batch .
+PREDID: 0
+PRED: heat
+  DOBJ: vegetable oil
+  PARG: a large soup pot
+    PREP: in
+  PARG: medium heat, brown tri tip
+    PREP: over
+  PARG: the hot oil , working
+    PREP: in
+  PARG: 4 batches
+    PREP: in
+  PARG: beef is browned, no longer pink inside , about 5 minutes per batch
+    PREP: until
+
+
+SENTID: 4
+SENT: Return all cooked beef to pot and stir sweet onion , garlic , jalapeno peppers , chili powder , cumin , and paprika into meat ;
+PREDID: 0
+PRED: return
+  DOBJ: all cooked beef
+  PARG: pot
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  DOBJ: sweet onion , garlic , jalapeno peppers , chili powder , cumin , paprika
+  PARG: meat
+    PREP: into
+
+
+SENTID: 5
+SENT: Pour tomatoes , beer , tequila , oregano , salt , and black pepper into mixture , scraping up and dissolving any browned bits of food on the bottom of the pot .
+PREDID: 0
+PRED: pour
+  DOBJ: tomatoes , beer , tequila , oregano , salt , black pepper
+  PARG: mixture , scraping
+    PREP: into
+  PARG: the bottom of the pot
+    PREP: on
+  OARG: up
+
+
+SENTID: 6
+SENT: Stir reserved bacon , beef stock , chipotle peppers , and steak sauce into the mixture ;
+PREDID: 0
+PRED: stir
+  DOBJ: reserved bacon , beef stock , chipotle peppers , steak sauce
+  PARG: the mixture
+    PREP: into
+
+
+SENTID: 7
+SENT: bring to a boil .
+PREDID: 0
+PRED: bring
+  PARG: a boil
+    PREP: to
+
+
+SENTID: 8
+SENT: Reduce heat to low and stir in Mexican-style corn and green bell pepper .
+PREDID: 0
+PRED: reduce
+  DOBJ: heat
+  PARG: low
+    PREP: to
+
+PREDID: 1
+PRED: stir
+  PARG: mexican-style corn, green bell pepper
+    PREP: in
+

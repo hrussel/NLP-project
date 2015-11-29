@@ -1,0 +1,182 @@
+SENTID: 0
+SENT: Whisk together 1 tablespoon white wine , 1 tablespoon soy sauce , 1 teaspoon brown sugar , and finely chopped green onion .
+PREDID: 0
+PRED: whisk
+  DOBJ: 1 tablespoon white wine , 1 tablespoon soy sauce , 1 teaspoon brown sugar
+  OARG: together
+  OARG: finely
+
+
+SENTID: 1
+SENT: Stir in chicken pieces to coat .
+PREDID: 0
+PRED: stir
+  PARG: chicken pieces
+    PREP: in
+  PARG: coat
+    PREP: to
+
+
+SENTID: 2
+SENT: Cover and refrigerate for 1 hour .
+PREDID: 0
+PRED: cover
+  PARG: 1 hour
+    PREP: for
+
+PREDID: 1
+PRED: refrigerate
+
+
+SENTID: 3
+SENT: Combine white vinegar , rice vinegar , 1 tablespoon soy sauce , sambal chile paste , sesame oil , 2 tablespoons brown sugar , ketchup , 2 tablespoon white wine , and garlic in a bowl .
+PREDID: 0
+PRED: combine
+  DOBJ: white vinegar , rice vinegar , 1 tablespoon soy sauce , sambal chile paste , sesame oil , 2 tablespoons brown sugar , ketchup , 2 tablespoon white wine , garlic
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 4
+SENT: Whisk thoroughly ;
+PREDID: 0
+PRED: whisk
+  OARG: thoroughly
+
+
+SENTID: 5
+SENT: set aside .
+PREDID: 0
+PRED: set
+  OARG: aside
+
+
+SENTID: 6
+SENT: Mix cornstarch with cold water in a small bowl .
+PREDID: 0
+PRED: mix
+  DOBJ: cornstarch
+  PARG: cold water
+    PREP: with
+  PARG: a small bowl
+    PREP: in
+
+
+SENTID: 7
+SENT: Heat peanut oil in a heavy duty , nonstick skillet over high heat .
+PREDID: 0
+PRED: heat
+  DOBJ: peanut oil
+  PARG: a heavy duty , nonstick skillet
+    PREP: in
+  PARG: high heat
+    PREP: over
+
+
+SENTID: 8
+SENT: Stir in chicken ;
+PREDID: 0
+PRED: stir
+  PARG: chicken
+    PREP: in
+
+
+SENTID: 9
+SENT: cook and stir until chicken begins to brown , about 2 minutes Stir in zucchini and red bell pepper ;
+PREDID: 0
+PRED: cook
+  PARG: chicken begins to brown , about 2 minutes stir in zucchini, red bell pepper
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 10
+SENT: cook for 2 more minutes .
+PREDID: 0
+PRED: cook
+  PARG: 2 more minutes
+    PREP: for
+
+
+SENTID: 11
+SENT: Add chicken broth and stir .
+PREDID: 0
+PRED: add
+  DOBJ: chicken broth
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 12
+SENT: Stir in vinegar mixture ;
+PREDID: 0
+PRED: stir
+  PARG: vinegar mixture
+    PREP: in
+
+
+SENTID: 13
+SENT: cook and stir until vegetables are tender and chicken is no longer pink in the center , about 2 minutes .
+PREDID: 0
+PRED: cook
+  PARG: vegetables are tender, chicken is no longer pink in the center , about 2 minutes
+    PREP: until
+
+PREDID: 1
+PRED: stir
+
+
+SENTID: 14
+SENT: Stir in cornstarch mixture until sauce is thickened , about 30 seconds ;
+PREDID: 0
+PRED: stir
+  PARG: cornstarch mixture
+    PREP: in
+  PARG: sauce is thickened , about 30 seconds
+    PREP: until
+
+
+SENTID: 15
+SENT: remove from heat .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+
+SENTID: 16
+SENT: Toss in peanuts ;
+PREDID: 0
+PRED: toss
+  PARG: peanuts
+    PREP: in
+
+
+SENTID: 17
+SENT: season with salt and pepper to taste .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+
+SENTID: 18
+SENT: Stir in green onion tops .
+PREDID: 0
+PRED: stir
+  PARG: green onion tops
+    PREP: in
+
+
+SENTID: 19
+SENT: Serve over white rice .
+PREDID: 0
+PRED: serve
+  PARG: white rice
+    PREP: over
+

@@ -1,0 +1,168 @@
+SENTID: 0
+SENT: Thoroughly sift together all-purpose flour , semolina flour , and pinch of salt .
+PREDID: 0
+PRED: sift
+  DOBJ: all-purpose flour , semolina flour , pinch of salt
+  OARG: thoroughly
+  OARG: together
+
+
+SENTID: 1
+SENT: On a clean surface , make a mountain out of flour mixture then make a deep well in center .
+PREDID: 0
+PRED: make
+  DOBJ: a mountain
+  PARG: a clean surface
+    PREP: on
+  PARG: of flour mixture
+    PREP: out
+  OARG: then
+
+PREDID: 1
+PRED: make
+  DOBJ: a deep
+  PARG: center
+    PREP: in
+  OARG: well
+
+
+SENTID: 2
+SENT: Break the eggs into the well and add olive oil .
+PREDID: 0
+PRED: break
+  DOBJ: the eggs
+  PARG: the well
+    PREP: into
+
+PREDID: 1
+PRED: add
+  DOBJ: olive oil
+
+
+SENTID: 3
+SENT: Whisk eggs very gently with a fork , gradually incorporating flour from the sides of the well .
+PREDID: 0
+PRED: whisk
+  DOBJ: incorporating flour
+  PARG: a fork
+    PREP: with
+  PARG: the sides of the well
+    PREP: from
+  OARG: very
+  OARG: gently
+  OARG: gradually
+  OARG: eggs
+
+
+SENTID: 4
+SENT: When mixture becomes too thick to mix with a fork , begin kneading with your hands .
+PREDID: 0
+PRED: begin
+  DOBJ: kneading
+  PARG: mix
+    PREP: to
+  PARG: a fork
+    PREP: with
+  PARG: your hands
+    PREP: with
+  OARG: when mixture becomes
+  OARG: too
+  OARG: thick
+
+
+SENTID: 5
+SENT: Knead dough for 8 to 12 minutes , until it is smooth and supple .
+PREDID: 0
+PRED: knead
+  DOBJ: dough
+  PARG: 8 to 12 minutes
+    PREP: for
+  PARG: it is smooth, supple
+    PREP: until
+
+
+SENTID: 6
+SENT: Dust dough and work surface with semolina as needed to keep dough from becoming sticky .
+PREDID: 0
+PRED: dust
+  DOBJ: dough, work surface
+  PARG: semolina
+    PREP: with
+  PARG: needed
+    PREP: as
+  PARG: keep dough
+    PREP: to
+  PARG: becoming sticky
+    PREP: from
+
+
+SENTID: 7
+SENT: Wrap dough tightly in plastic and allow it to rest at room temperature for 30 minutes .
+PREDID: 0
+PRED: wrap
+  DOBJ: dough
+  PARG: plastic, allow it
+    PREP: in
+  PARG: rest
+    PREP: to
+  PARG: room temperature
+    PREP: at
+  PARG: 30 minutes
+    PREP: for
+  OARG: tightly
+
+
+SENTID: 8
+SENT: Roll out dough with a pasta machine or a rolling pin to desired thickness .
+PREDID: 0
+PRED: roll
+  PARG: dough
+    PREP: out
+  PARG: a pasta machine or a rolling pin
+    PREP: with
+  PARG: desired thickness
+    PREP: to
+
+
+SENTID: 9
+SENT: Cut into your favorite style of noodle or stuff with your favorite filling to make ravioli .
+PREDID: 0
+PRED: cut
+  PARG: your favorite style of noodle
+    PREP: into
+
+PREDID: 1
+PRED: stuff
+  PARG: your favorite filling
+    PREP: with
+  PARG: make ravioli
+    PREP: to
+
+
+SENTID: 10
+SENT: Bring water to a boil in a large pot , then add 4 teaspoons salt .
+PREDID: 0
+PRED: bring
+  DOBJ: water
+  PARG: a boil
+    PREP: to
+  PARG: a large pot
+    PREP: in
+  OARG: then
+
+PREDID: 1
+PRED: add
+  DOBJ: 4 teaspoons salt
+
+
+SENTID: 11
+SENT: Drain immediately and toss with your favorite sauce .
+PREDID: 0
+PRED: drain
+  PARG: your favorite sauce
+    PREP: with
+  OARG: immediately
+
+PREDID: 1
+PRED: toss
+

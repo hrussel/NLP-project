@@ -1,0 +1,99 @@
+SENTID: 0
+SENT: Preheat an oven to 350 degrees F -LRB- 175 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: an oven
+  PARG: 350 degrees f -lrb- 175 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: Combine ground beef , cracker crumbs , tomato sauce , eggs , onion , bell pepper , salt , thyme , and marjoram in a large bowl and mix well .
+PREDID: 0
+PRED: combine
+  DOBJ: ground beef , cracker crumbs , tomato sauce , eggs , onion , bell pepper , salt , thyme , marjoram
+  PARG: a large bowl
+    PREP: in
+
+PREDID: 1
+PRED: mix
+  OARG: well
+
+
+SENTID: 2
+SENT: Shape beef mixture into two equally sized loaves .
+PREDID: 0
+PRED: shape
+  DOBJ: beef mixture
+  PARG: two equally sized loaves
+    PREP: into
+
+
+SENTID: 3
+SENT: Place both loaves in a 9x13 inch baking dish .
+PREDID: 0
+PRED: place
+  DOBJ: both loaves
+  PARG: a 9x13 inch baking dish
+    PREP: in
+
+
+SENTID: 4
+SENT: Cover with foil and bake in the preheated oven for 1 hour .
+PREDID: 0
+PRED: cover
+  PARG: foil
+    PREP: with
+
+PREDID: 1
+PRED: bake
+  PARG: the preheated oven
+    PREP: in
+  PARG: 1 hour
+    PREP: for
+
+
+SENTID: 5
+SENT: Meanwhile , mix ketchup and corn syrup in a small bowl to make a glaze .
+PREDID: 0
+PRED: mix
+  DOBJ: ketchup, corn syrup
+  PARG: a small bowl
+    PREP: in
+  PARG: make a glaze
+    PREP: to
+  OARG: meanwhile
+
+
+SENTID: 6
+SENT: Remove baking dish from the oven and remove foil .
+PREDID: 0
+PRED: remove
+  DOBJ: baking dish
+  PARG: the oven
+    PREP: from
+
+PREDID: 1
+PRED: remove
+  DOBJ: foil
+
+
+SENTID: 7
+SENT: Brush glaze onto the loaves .
+PREDID: 0
+PRED: brush
+  DOBJ: glaze
+  PARG: the loaves
+    PREP: onto
+
+
+SENTID: 8
+SENT: Return baking dish to the oven uncovered , and continue baking until loaves are no longer pink in the center , 15 to 20 minutes .
+PREDID: 0
+PRED: return
+  DOBJ: baking dish
+  PARG: the oven uncovered , continue baking
+    PREP: to
+  PARG: loaves are no longer pink in the center , 15 to 20 minutes
+    PREP: until
+

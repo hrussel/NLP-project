@@ -1,0 +1,150 @@
+SENTID: 0
+SENT: Preheat oven to 375 degrees F -LRB- 190 degrees C -RRB- .
+PREDID: 0
+PRED: preheat
+  DOBJ: oven
+  PARG: 375 degrees f -lrb- 190 degrees c -rrb-
+    PREP: to
+
+
+SENTID: 1
+SENT: In a 9 inch deep-dish pie pan , combine pecans , brown sugar and margarine ;
+PREDID: 0
+PRED: combine
+  DOBJ: pecans , brown sugar, margarine
+  PARG: a 9 inch deep-dish pie pan
+    PREP: in
+
+
+SENTID: 2
+SENT: spread into a single layer .
+PREDID: 0
+PRED: spread
+  PARG: a single layer
+    PREP: into
+
+
+SENTID: 3
+SENT: Roll out dough , and place bottom crust over pecan mixture .
+PREDID: 0
+PRED: roll
+  PARG: dough
+    PREP: out
+
+PREDID: 1
+PRED: place
+  DOBJ: bottom crust
+  PARG: pecan mixture
+    PREP: over
+
+
+SENTID: 4
+SENT: In a large bowl , combine apples , sugar , flour , cinnamon and nutmeg .
+PREDID: 0
+PRED: combine
+  DOBJ: apples , sugar , flour , cinnamon, nutmeg
+  PARG: a large bowl
+    PREP: in
+
+
+SENTID: 5
+SENT: Pour into crust in pan .
+PREDID: 0
+PRED: pour
+  PARG: crust
+    PREP: into
+  PARG: pan
+    PREP: in
+
+
+SENTID: 6
+SENT: Top with second crust .
+PREDID: 0
+PRED: top
+  PARG: second crust
+    PREP: with
+
+
+SENTID: 7
+SENT: Fold edges of crust over , and flute to seal edges .
+PREDID: 0
+PRED: fold
+  DOBJ: edges of crust
+  PARG: , flute
+    PREP: over
+  PARG: seal edges
+    PREP: to
+
+
+SENTID: 8
+SENT: Make several small slits in the top to allow steam to escape .
+PREDID: 0
+PRED: make
+  DOBJ: several small slits
+  PARG: the top
+    PREP: in
+  PARG: escape
+    PREP: to
+  OARG: to allow steam
+
+
+SENTID: 9
+SENT: Place pan on foil or cookie sheet during baking to guard against spillage .
+PREDID: 0
+PRED: place
+  DOBJ: pan
+  PARG: foil or cookie sheet
+    PREP: on
+  PARG: baking
+    PREP: during
+  PARG: guard
+    PREP: to
+  PARG: spillage
+    PREP: against
+
+
+SENTID: 10
+SENT: Bake in preheated oven for 40 to 50 minutes , or until crust is golden brown and apples are tender .
+PREDID: 0
+PRED: bake
+  PARG: preheated oven
+    PREP: in
+  PARG: 40 to 50 minutes
+    PREP: for
+  PARG: crust is golden brown, apples are tender
+    PREP: until
+
+
+SENTID: 11
+SENT: Cool pie in pan for 5 minutes .
+PREDID: 0
+PRED: cool
+  DOBJ: pie
+  PARG: pan
+    PREP: in
+  PARG: 5 minutes
+    PREP: for
+
+
+SENTID: 12
+SENT: If some of the nuts stick to the pan , remove them with a knife , and place on pie .
+PREDID: 0
+PRED: place
+  PARG: some of the nuts stick
+    PREP: if
+  PARG: the pan , remove them
+    PREP: to
+  PARG: a knife
+    PREP: with
+  PARG: pie
+    PREP: on
+
+
+SENTID: 13
+SENT: Allow to cool for 1 hour .
+PREDID: 0
+PRED: allow
+  PARG: 1 hour
+    PREP: for
+  OARG: to cool
+

@@ -1,0 +1,80 @@
+SENTID: 0
+SENT: Preheat grill for high heat .
+PREDID: 0
+PRED: preheat
+  DOBJ: grill
+  PARG: high heat
+    PREP: for
+
+
+SENTID: 1
+SENT: Lightly oil grate .
+PREDID: 0
+PRED: grate
+  DOBJ: oil
+  OARG: lightly
+
+
+SENTID: 2
+SENT: Grill chicken 10 minutes on each side , or until juices run clear .
+PREDID: 0
+PRED: grill
+  PARG: each side
+    PREP: on
+  PARG: juices run clear
+    PREP: until
+  OARG: chicken 10 minutes
+
+
+SENTID: 3
+SENT: Remove from heat , cool , and cube .
+PREDID: 0
+PRED: remove
+  PARG: heat
+    PREP: from
+
+PREDID: 1
+PRED: cool
+
+PREDID: 2
+PRED: cube
+
+
+SENTID: 4
+SENT: In a large bowl , toss together the chicken , celery , red bell pepper , onion , and corn .
+PREDID: 0
+PRED: toss
+  DOBJ: the chicken , celery , red bell pepper , onion , corn
+  PARG: a large bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 5
+SENT: In a small bowl , mix together the barbeque sauce and mayonnaise .
+PREDID: 0
+PRED: mix
+  DOBJ: the barbeque sauce, mayonnaise
+  PARG: a small bowl
+    PREP: in
+  OARG: together
+
+
+SENTID: 6
+SENT: Pour over the chicken and veggies .
+PREDID: 0
+PRED: pour
+  PARG: the chicken, veggies
+    PREP: over
+
+
+SENTID: 7
+SENT: Stir , and chill until ready to serve .
+PREDID: 0
+PRED: stir
+
+PREDID: 1
+PRED: chill
+  PARG: ready to serve
+    PREP: until
+

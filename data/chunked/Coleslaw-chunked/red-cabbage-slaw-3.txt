@@ -1,0 +1,15 @@
+SENTID: 0
+SENT: Combine cabbage , carrot , mayonnaise , cranberries , walnuts , milk , cider vinegar , and sugar in a bowl ;
+PREDID: 0
+PRED: combine
+  DOBJ: cabbage , carrot , mayonnaise , cranberries , walnuts , milk , cider vinegar , sugar
+  PARG: a bowl
+    PREP: in
+
+
+SENTID: 1
+SENT: stir well .
+PREDID: 0
+PRED: stir
+  OARG: well
+

@@ -1,0 +1,31 @@
+SENTID: 0
+SENT: In a food processor , combine the chicken , mayonnaise , coleslaw dressing , lemon juice and celery .
+PREDID: 0
+PRED: combine
+  DOBJ: the chicken , mayonnaise , coleslaw dressing , lemon juice, celery
+  PARG: a food processor
+    PREP: in
+
+
+SENTID: 1
+SENT: Blend until well mixed .
+PREDID: 0
+PRED: blend
+  PARG: well mixed
+    PREP: until
+
+
+SENTID: 2
+SENT: Season with salt and pepper to taste and refrigerate until chilled .
+PREDID: 0
+PRED: season
+  PARG: salt, pepper
+    PREP: with
+  PARG: taste
+    PREP: to
+
+PREDID: 1
+PRED: refrigerate
+  PARG: chilled
+    PREP: until
+
