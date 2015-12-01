@@ -10,9 +10,11 @@ import java.util.List;
 public class Recipe {
 
     private List<Action> actions;
+    private List<String> ingredients;
 
     public Recipe() {
         this.actions = new ArrayList<>();
+        this.setIngredients(new ArrayList<>());
     }
 
     public List<Action> getActions() {
@@ -21,5 +23,13 @@ public class Recipe {
 
     public void setActions(List<Action> actions) {
         this.actions = actions;
+    }
+
+    public List<String> getIngredients() {
+        return ingredients;
+    }
+
+    public void setIngredients(List<String> ingredients) {
+        this.ingredients = ingredients;
     }
 }

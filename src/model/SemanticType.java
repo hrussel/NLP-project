@@ -5,8 +5,8 @@ package model;
  * Semantic Types
  */
 public enum SemanticType {
-    FOOD,
-    LOCATION,
-    DURATION,
-    OTHER
+        FOOD,
+        LOCATION,
+        DURATION,
+        OTHER
 }

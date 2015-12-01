@@ -2,6 +2,8 @@ import model.*;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -10,10 +12,12 @@ import java.util.Scanner;
  */
 public class RecipeReader {
 
+    public String folder;
     public String filename;
     public static int tId = 1;
 
-    public RecipeReader(String filename) {
+    public RecipeReader(String folder, String filename) {
+        this.folder = folder;
         this.filename = filename;
     }
 
@@ -22,7 +26,8 @@ public class RecipeReader {
         Recipe recipe = new Recipe();
 
         try {
-            File file = new File(this.filename);
+            //"data/chunked/BeefMeatLoaf-chunked/amish-meatloaf.txt"
+            File file = new File("data/chunked/" + this.folder + "-chunked/" + this.filename + ".txt");
             sc = new Scanner(file);
 
             Action currentAction = null;
@@ -73,12 +78,38 @@ public class RecipeReader {
 
                 if (s.contains("OARG: ")) {
                     String oargString = s.substring(s.indexOf("OARG: ") + 6);
-                    StringSpan predicate =  currentAction.getPredicate();
+                    StringSpan predicate = currentAction.getPredicate();
                     predicate.setWord(predicate.getWord() + " " + oargString);
                 }
 
+            }
+            sc.close();
+            file = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename + ".txt");
+            sc = new Scanner(file);
 
-                // System.out.println(s);
+            while (sc.hasNextLine()) {
+                String s = sc.nextLine();
+                if (s.contains("Ingredients")) {
+                    String currentIngredient = null;
+                    sc.nextLine();
+                    while (sc.hasNextLine()) {
+                        s = sc.nextLine();
+                        if (s.isEmpty()) {
+                            recipe.getIngredients().add(currentIngredient);
+                            currentIngredient = null;
+                        } else {
+                            if (s.contains("Data Parsed")) {
+                                break;
+                            }
+                            if (currentIngredient == null) {
+                                currentIngredient = s;
+                            } else {
+                                currentIngredient += " " + s;
+                            }
+                        }
+                    }
+                    break;
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -87,23 +118,83 @@ public class RecipeReader {
                 sc.close();
             }
         }
+        matchIngredients(recipe);
+        createImplicitArguments(recipe);
         printRecipe(recipe);
         return recipe;
     }
 
+    private void matchIngredients(Recipe recipe) {
+        for (Action action : recipe.getActions()) {
+            for (Argument argument : action.getArguments()) {
+                boolean found = false;
+                for (StringSpan argumentSpan : argument.getWords()) {
+                    String word = argumentSpan.getWord();
+                    for (String ingredient : recipe.getIngredients()) {
+                        if (ingredient.contains(word)) {
+                            argument.setSemanticType(SemanticType.FOOD);
+                            found = true;
+                            break;
+                        }
+                    }
+                    if (found) {
+                        break;
+                    }
+                }
+                if (!found) {
+                    argument.setSemanticType(SemanticType.OTHER);
+                }
+            }
+        }
+    }
+
+
+    private void createImplicitArguments(Recipe recipe) {
+        for (Action action : recipe.getActions()) {
+            boolean dobjFound = false;
+            boolean ppFound = false;
+            for (Argument argument : action.getArguments()) {
+                SyntacticType type = argument.getSyntacticType();
+                if (type.equals(SyntacticType.DOBJ)) {
+                    dobjFound = true;
+                }
+                if (type.equals(SyntacticType.PP)) {
+                    ppFound = true;
+                }
+                if (dobjFound && ppFound) {
+                    break;
+                }
+            }
+            if (!dobjFound) {
+                Argument implicitDobj = new Argument();
+                implicitDobj.setSyntacticType(SyntacticType.DOBJ);
+                implicitDobj.setSemanticType(SemanticType.OTHER);
+                implicitDobj.getWords().add(new StringSpan());
+                action.getArguments().add(implicitDobj);
+            }
+            if (!ppFound) {
+                Argument implicitPP = new Argument();
+                implicitPP.setSyntacticType(SyntacticType.PP);
+                implicitPP.setSemanticType(SemanticType.OTHER);
+                implicitPP.getWords().add(new StringSpan());
+                action.getArguments().add(implicitPP);
+            }
+        }
+    }
+
 
     public void printRecipe(Recipe recipe) {
-        tId=1;
-        for(Action action : recipe.getActions()) {
+        tId = 1;
+        for (Action action : recipe.getActions()) {
             StringSpan predicate = action.getPredicate();
             System.out.println("T" + tId + " predicate " + predicate.getStart() + " " + predicate.getEnd() + " " + predicate.getWord());
             tId++;
 
-            for(Argument argument : action.getArguments()) {
-                for(StringSpan argumentSpan : argument.getWords()) {
+            for (Argument argument : action.getArguments()) {
+                for (StringSpan argumentSpan : argument.getWords()) {
                     SemanticType semanticType = argument.getSemanticType();
                     String semanticTypeString = "OBJECT";
-                    if(semanticType!=null) {
+                    if (semanticType != null) {
                         semanticTypeString = semanticType.toString();
                     }
                     System.out.println("T" + tId + " arg_" + semanticTypeString + " " + argumentSpan.getStart() + " " + argumentSpan.getEnd() + " " + argumentSpan.getWord());
@@ -111,5 +202,11 @@ public class RecipeReader {
                 }
             }
         }
+        System.out.println("");
+        System.out.println("Ingredients:");
+        for (String ingredient : recipe.getIngredients()) {
+            System.out.println(ingredient);
+        }
+
     }
 }
