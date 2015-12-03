@@ -1,0 +1,34 @@
+blender
+food processor
+bowl
+cooker
+skillet
+dish
+dishes
+broiler
+oven
+colander
+sink
+pan
+pans
+bag
+grill
+saucepan
+pot
+wok
+wire rack
+plates
+plate
+jar
+refrigerator
+mixer
+platter
+plastic
+**cups
+**glass
+*over [something] heat
+*water -hot/cold/luke warm
+*(paper) towels
+*(baking) sheet
+*(aluminium)foil
+*(floured) surface
