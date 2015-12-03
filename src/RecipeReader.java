@@ -15,7 +15,7 @@ public class RecipeReader {
     public String folder;
     public String filename;
     public static int tId = 1;
-
+    public static int rId = 1;
     public RecipeReader(String folder, String filename) {
         this.folder = folder;
         this.filename = filename;
@@ -23,27 +23,41 @@ public class RecipeReader {
 
     public Recipe read() {
         Scanner sc = null;
+        //Scanner scFullText = null;
         Recipe recipe = new Recipe();
-
+        String sentence = "";
+        int offset=0;
         try {
             //"data/chunked/BeefMeatLoaf-chunked/amish-meatloaf.txt"
             File file = new File("data/chunked/" + this.folder + "-chunked/" + this.filename + ".txt");
+            //File fullTextFile = new File("data/fulltext/"+this.folder+"-fulltext/"+this.filename+".txt");
             sc = new Scanner(file);
+            //scFullText = new Scanner(fullTextFile);
 
             Action currentAction = null;
             while (sc.hasNextLine()) {
                 String s = sc.nextLine();
                 if (s.contains("SENTID: ")) {
-                    String line = sc.nextLine();
+                    String line = sc.nextLine().trim();
                     //System.out.println(line);
                     line = line.substring(s.indexOf("SENT: ") + 6);
-                    //String sentence = sc.nextLine().substring()
 
+
+                   /* while(scFullText.hasNextLine()){
+                        s = scFullText.nextLine();
+                        s.replaceAll("(", "-LRB- ");
+                        s.replaceAll(")", " -RRB-");
+                        if(s.contains(line)){
+
+                            sentence = line;
+                        }
+                    }*/
                 }
-
+                //TODO @Helena : add offset in StringSpans
                 if (s.contains("PRED: ")) {
                     String predicateString = s.substring(s.indexOf("PRED: ") + 6);
-                    StringSpan predicate = new StringSpan(predicateString, 0, 0);
+                    int predIdx = offset+sentence.indexOf(predicateString);
+                    StringSpan predicate = new StringSpan(predicateString, predIdx, predIdx+predicateString.length());
                     currentAction = new Action();
                     currentAction.setPredicate(predicate);
                     recipe.getActions().add(currentAction);
@@ -54,7 +68,9 @@ public class RecipeReader {
                     String[] argumentStrings = argumentStringFull.split(",");
                     Argument argument = new Argument();
                     for (String argumentString : argumentStrings) {
+
                         argumentString = argumentString.trim();
+
                         StringSpan argumentSpan = new StringSpan(argumentString, 0, 0);
                         argument.getWords().add(argumentSpan);
                         //argument.setSemanticType();
@@ -86,7 +102,7 @@ public class RecipeReader {
             sc.close();
             file = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename + ".txt");
             sc = new Scanner(file);
-
+            //TODO @Oz add connection
             while (sc.hasNextLine()) {
                 String s = sc.nextLine();
                 if (s.contains("Ingredients")) {
@@ -96,6 +112,7 @@ public class RecipeReader {
                         s = sc.nextLine();
                         if (s.isEmpty()) {
                             recipe.getIngredients().add(currentIngredient);
+                            //connection.setFrom(currentIngredient) connection.setTo(s)
                             currentIngredient = null;
                         } else {
                             if (s.contains("Data Parsed")) {
@@ -185,21 +202,30 @@ public class RecipeReader {
 
     public void printRecipe(Recipe recipe) {
         tId = 1;
+        rId = 1;
         for (Action action : recipe.getActions()) {
             StringSpan predicate = action.getPredicate();
+            predicate.setTid("T"+tId);
             System.out.println("T" + tId + " predicate " + predicate.getStart() + " " + predicate.getEnd() + " " + predicate.getWord());
             tId++;
 
             for (Argument argument : action.getArguments()) {
                 for (StringSpan argumentSpan : argument.getWords()) {
+                    argumentSpan.setTid("T"+tId);
                     SemanticType semanticType = argument.getSemanticType();
                     String semanticTypeString = "OBJECT";
                     if (semanticType != null) {
                         semanticTypeString = semanticType.toString();
                     }
-                    System.out.println("T" + tId + " arg_" + semanticTypeString + " " + argumentSpan.getStart() + " " + argumentSpan.getEnd() + " " + argumentSpan.getWord());
+                    if(argumentSpan.getStart() == -1){
+                        System.out.println("WRONG!");
+                    }
+                    System.out.println(argumentSpan.getTid() + " arg_" + semanticTypeString + " " + argumentSpan.getStart() + " " + argumentSpan.getEnd() + " " + argumentSpan.getWord());
+                    System.out.println("R" + rId + " "+ semanticTypeString + " Arg1:" + predicate.getTid()  + " Arg2:" + argumentSpan.getTid());
+                    rId++;
                     tId++;
                 }
+
             }
         }
         System.out.println("");

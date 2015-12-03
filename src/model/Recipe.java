@@ -11,10 +11,12 @@ public class Recipe {
 
     private List<Action> actions;
     private List<String> ingredients;
+    private List<Connection> connections;
 
     public Recipe() {
         this.actions = new ArrayList<>();
         this.setIngredients(new ArrayList<>());
+        this.connections = new ArrayList<>();
     }
 
     public List<Action> getActions() {

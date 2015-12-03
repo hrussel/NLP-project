@@ -6,6 +6,7 @@ package model;
  */
 public class StringSpan {
 
+    private String tId;
     private int start;
     private int end;
     private String word;
@@ -21,6 +22,14 @@ public class StringSpan {
         this.word = word;
         this.start = start;
         this.end = end;
+    }
+
+    public String getTid() {
+        return tId;
+    }
+
+    public void setTid(String tId) {
+        this.tId = tId;
     }
 
     public int getStart() {

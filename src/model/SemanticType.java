@@ -8,5 +8,25 @@ public enum SemanticType {
         FOOD,
         LOCATION,
         DURATION,
-        OTHER
+        OTHER;
+
+        @Override
+        public String toString() {
+                String str ="";
+                switch (this){
+                        case FOOD:
+                                str="object";
+                                break;
+                        case LOCATION:
+                                str="location";
+                                break;
+                        case DURATION:
+                                str="duration";
+                                break;
+                        case OTHER:
+                                str="other";
+                                break;
+                }
+                return str;
+        }
 }
