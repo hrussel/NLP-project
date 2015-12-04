@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.regex.Pattern;
 
 /**
  * Created by baris on 11/29/2015.
@@ -23,55 +24,72 @@ public class RecipeReader {
 
     public Recipe read() {
         Scanner sc = null;
-        //Scanner scFullText = null;
+        Scanner scSemiText = null;
         Recipe recipe = new Recipe();
         String sentence = "";
-        int offset=0;
+        int offset=-1;
         try {
             //"data/chunked/BeefMeatLoaf-chunked/amish-meatloaf.txt"
             File file = new File("data/chunked/" + this.folder + "-chunked/" + this.filename + ".txt");
-            //File fullTextFile = new File("data/fulltext/"+this.folder+"-fulltext/"+this.filename+".txt");
+            File semiTextFile = new File("data/semitext/"+this.folder+"-semi/"+this.filename+".txt");
             sc = new Scanner(file);
-            //scFullText = new Scanner(fullTextFile);
+            scSemiText = new Scanner(semiTextFile);
 
             Action currentAction = null;
             while (sc.hasNextLine()) {
                 String s = sc.nextLine();
+
                 if (s.contains("SENTID: ")) {
                     String line = sc.nextLine().trim();
+
                     //System.out.println(line);
-                    line = line.substring(s.indexOf("SENT: ") + 6);
+                    line = getSubString("SENT: ", line);
+                    String semi_s = null;
 
+                   while(scSemiText.hasNextLine()){
+                       semi_s = scSemiText.nextLine();
+                       semi_s = semi_s.toLowerCase();
+                       semi_s = semi_s.replaceAll("[\\W]", "");
 
-                   /* while(scFullText.hasNextLine()){
-                        s = scFullText.nextLine();
-                        s.replaceAll("(", "-LRB- ");
-                        s.replaceAll(")", " -RRB-");
-                        if(s.contains(line)){
+                       String tempLine = line.toLowerCase();
+                       tempLine = tempLine.replaceAll("[\\W]", "");
+                       offset=offset+sentence.length()+1;
+                       //System.out.println("SEMI_S::"+semi_s);
+                       //System.out.println("SENT::"+tempLine);
 
-                            sentence = line;
-                        }
-                    }*/
+                       //I think we could use equals here, but you never know ^^
+                       //Otherwise some libraries exist for comparing string similarities
+                       if(semi_s.contains(tempLine) || tempLine.contains(semi_s)){
+                           sentence = line.toLowerCase();
+//                           sentence = sentence.replaceAll("-lrb- ", "(");
+//                           sentence = sentence.replaceAll(" -rrb-", ")");
+//                           sentence = sentence.replaceAll(" \\.",".");
+//                           System.out.println("offset="+offset+" -"+sentence);
+                           break;
+                       }
+                    }
                 }
                 //TODO @Helena : add offset in StringSpans
                 if (s.contains("PRED: ")) {
-                    String predicateString = s.substring(s.indexOf("PRED: ") + 6);
+                    String predicateString = getSubString("PRED: ",s);
+
                     int predIdx = offset+sentence.indexOf(predicateString);
                     StringSpan predicate = new StringSpan(predicateString, predIdx, predIdx+predicateString.length());
                     currentAction = new Action();
                     currentAction.setPredicate(predicate);
                     recipe.getActions().add(currentAction);
+
                 }
 
                 if (s.contains("DOBJ: ")) {
-                    String argumentStringFull = s.substring(s.indexOf("DOBJ: ") + 6);
+                    String argumentStringFull = getSubString("DOBJ: ",s);
                     String[] argumentStrings = argumentStringFull.split(",");
                     Argument argument = new Argument();
                     for (String argumentString : argumentStrings) {
 
                         argumentString = argumentString.trim();
-
-                        StringSpan argumentSpan = new StringSpan(argumentString, 0, 0);
+                        int argIdx = offset+sentence.indexOf(argumentString);
+                        StringSpan argumentSpan = new StringSpan(argumentString, argIdx, argIdx+argumentString.length());
                         argument.getWords().add(argumentSpan);
                         //argument.setSemanticType();
                         argument.setSyntacticType(SyntacticType.DOBJ);
@@ -80,11 +98,15 @@ public class RecipeReader {
                 }
 
                 if (s.contains("PARG: ")) {
-                    String argumentString = s.substring(s.indexOf("PARG: ") + 6);
+                    String argumentString = getSubString("PARG: ",s);
                     String prep = sc.nextLine();
-                    prep = prep.substring(prep.indexOf("PREP: ") + 6);
+                    prep = getSubString("PREP: ", prep);
                     Argument argument = new Argument();
-                    StringSpan argumentSpan = new StringSpan(prep + " " + argumentString, 0, 0);
+
+                    String spanString = prep + " " + argumentString;
+                    int argIdx = offset+sentence.indexOf(spanString);
+//                    System.out.println("***ARG="+argumentString);
+                    StringSpan argumentSpan = new StringSpan(spanString, argIdx, argIdx+spanString.length());
                     argument.getWords().add(argumentSpan);
                     argument.setSemanticType(SemanticType.OTHER);
                     argument.setSyntacticType(SyntacticType.PP);
@@ -93,9 +115,13 @@ public class RecipeReader {
                 }
 
                 if (s.contains("OARG: ")) {
-                    String oargString = s.substring(s.indexOf("OARG: ") + 6);
+                    String oargString = getSubString("OARG: ", s);
                     StringSpan predicate = currentAction.getPredicate();
-                    predicate.setWord(predicate.getWord() + " " + oargString);
+                    String word = predicate.getWord() + " " + oargString;
+                    predicate.setWord(word);
+                    int wordIdx = offset+sentence.indexOf(word);
+                    predicate.setStart(wordIdx);
+                    predicate.setEnd(wordIdx+word.length());
                 }
 
             }
@@ -139,6 +165,18 @@ public class RecipeReader {
         createImplicitArguments(recipe);
         printRecipe(recipe);
         return recipe;
+    }
+
+    private String getSubString(String pattern, String string){
+        String str=string;
+        str = str.replaceAll(" ,", ",");
+        str = str.replaceAll("-LRB- ", "(");
+        str = str.replaceAll(" -RRB-", ")");
+        str = str.replaceAll("-lrb- ", "(");
+        str = str.replaceAll(" -rrb-", ")");
+        str = str.replaceAll(" \\.",".");
+        str = str.substring(str.indexOf(pattern) + 6).trim();
+        return str;
     }
 
     private void matchIngredients(Recipe recipe) {
@@ -217,9 +255,7 @@ public class RecipeReader {
                     if (semanticType != null) {
                         semanticTypeString = semanticType.toString();
                     }
-                    if(argumentSpan.getStart() == -1){
-                        System.out.println("WRONG!");
-                    }
+
                     System.out.println(argumentSpan.getTid() + " arg_" + semanticTypeString + " " + argumentSpan.getStart() + " " + argumentSpan.getEnd() + " " + argumentSpan.getWord());
                     System.out.println("R" + rId + " "+ semanticTypeString + " Arg1:" + predicate.getTid()  + " Arg2:" + argumentSpan.getTid());
                     rId++;
