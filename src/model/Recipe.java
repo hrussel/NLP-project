@@ -1,9 +1,6 @@
 package model;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 /**
  * Created by baris on 11/29/2015.
@@ -14,11 +11,13 @@ public class Recipe {
     private List<Action> actions;
     private List<String> ingredients;
     private List<Connection> connections;
+    private Map<StringSpan, List<Connection>> connectionsGoingTo;
 
     public Recipe() {
         this.actions = new ArrayList<>();
         this.setIngredients(new ArrayList<>());
         this.setConnections(new ArrayList<>());
+        connectionsGoingTo = new HashMap<>();
     }
 
     public void build() {
@@ -119,6 +118,10 @@ public class Recipe {
                         if (ingredient.toLowerCase().contains(stringSpan.getWord().toLowerCase())) {
                             Connection connection = new Connection(null, action, argument, stringSpan);
                             this.getConnections().add(connection);
+                            if(!connectionsGoingTo.containsKey(stringSpan)) {
+                                connectionsGoingTo.put(stringSpan,new ArrayList<>());
+                            }
+                            connectionsGoingTo.get(stringSpan).add(connection);
                         }
                     }
                 }
@@ -134,8 +137,18 @@ public class Recipe {
             StringSpan sp = argument.getWords().get(0);
             Connection connection = new Connection(action1, action2, argument, sp);
             this.getConnections().add(connection);
-
+            if(!connectionsGoingTo.containsKey(sp)) {
+                connectionsGoingTo.put(sp,new ArrayList<>());
+            }
+            connectionsGoingTo.get(sp).add(connection);
         }
+    }
+
+    public List<Connection> getConnectionsGoingTo(StringSpan stringSpan) {
+        if(connectionsGoingTo.containsKey(stringSpan)) {
+            return connectionsGoingTo.get(stringSpan);
+        }
+        return new ArrayList<>();
     }
 
     public List<Connection> getConnections() {
