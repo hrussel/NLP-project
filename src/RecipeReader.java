@@ -2,9 +2,7 @@ import model.*;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 import java.util.regex.Pattern;
 
 /**
@@ -24,6 +22,10 @@ public class RecipeReader {
     }
 
     public Recipe read() {
+        return this.read(false);
+    }
+
+    public Recipe read(boolean print) {
         Scanner sc = null;
         Scanner scSemiText = null;
         Recipe recipe = new Recipe();
@@ -162,9 +164,10 @@ public class RecipeReader {
                 sc.close();
             }
         }
-        matchIngredients(recipe);
-        createImplicitArguments(recipe);
-        printRecipe(recipe);
+        recipe.build();
+        if(print) {
+            printRecipe(recipe);
+        }
         return recipe;
     }
 
@@ -179,70 +182,6 @@ public class RecipeReader {
         str = str.substring(str.indexOf(pattern) + 6).trim();
         return str;
     }
-
-    private void matchIngredients(Recipe recipe) {
-        for (Action action : recipe.getActions()) {
-            for (Argument argument : action.getArguments()) {
-                boolean found = false;
-
-                List<StringSpan> argumentSpans = argument.getWords();
-                for (StringSpan argumentSpan : argumentSpans) {
-                    String word = argumentSpan.getWord();
-                    for (String ingredient : recipe.getIngredients()) {
-                        if (ingredient.contains(word)) {
-                            argument.setSemanticType(SemanticType.FOOD);
-                            found = true;
-                            break;
-                        }
-                    }
-                    if (found) {
-                        break;
-                    }
-                }
-                //TODO type of the srpingspan instead of the argument
-                if (!found) {
-                    argument.setSemanticType(SemanticType.OTHER);
-                }
-            }
-        }
-    }
-
-
-    private void createImplicitArguments(Recipe recipe) {
-        for (Action action : recipe.getActions()) {
-            boolean dobjFound = false;
-            boolean ppFound = false;
-            for (Argument argument : action.getArguments()) {
-                SyntacticType type = argument.getSyntacticType();
-                if (type.equals(SyntacticType.DOBJ)) {
-                    dobjFound = true;
-                }
-                if (type.equals(SyntacticType.PP)) {
-                    ppFound = true;
-                }
-                if (dobjFound && ppFound) {
-                    break;
-                }
-            }
-            if (!dobjFound) {
-                Argument implicitDobj = new Argument();
-                implicitDobj.setSyntacticType(SyntacticType.DOBJ);
-                implicitDobj.setSemanticType(SemanticType.OTHER);
-                implicitDobj.getWords().add(new StringSpan());
-                action.getArguments().add(implicitDobj);
-            }
-            if (!ppFound) {
-                Argument implicitPP = new Argument();
-                implicitPP.setSyntacticType(SyntacticType.PP);
-                implicitPP.setSemanticType(SemanticType.OTHER);
-                implicitPP.getWords().add(new StringSpan());
-                action.getArguments().add(implicitPP);
-            }
-        }
-    }
-
-
-
 
     public void printRecipe(Recipe recipe) {
         tId = 1;

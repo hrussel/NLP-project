@@ -10,6 +10,8 @@ public class Connection {
     private Argument toArgument;
     private Action toAction;
     private StringSpan toStringSpan;
+    private SemanticType semanticType;
+    private SyntacticType syntacticType;
 
     public Connection(Action fromAction, Action toAction, Argument toArgument, StringSpan toStringSpan) {
         this.fromAction = fromAction;
@@ -48,5 +50,21 @@ public class Connection {
 
     public void setToStringSpan(StringSpan toStringSpan) {
         this.toStringSpan = toStringSpan;
+    }
+
+    public SemanticType getSemanticType() {
+        return semanticType;
+    }
+
+    public void setSemanticType(SemanticType semanticType) {
+        this.semanticType = semanticType;
+    }
+
+    public SyntacticType getSyntacticType() {
+        return syntacticType;
+    }
+
+    public void setSyntacticType(SyntacticType syntacticType) {
+        this.syntacticType = syntacticType;
     }
 }
