@@ -183,7 +183,9 @@ public class RecipeReader {
         for (Action action : recipe.getActions()) {
             for (Argument argument : action.getArguments()) {
                 boolean found = false;
-                for (StringSpan argumentSpan : argument.getWords()) {
+
+                List<StringSpan> argumentSpans = argument.getWords();
+                for (StringSpan argumentSpan : argumentSpans) {
                     String word = argumentSpan.getWord();
                     for (String ingredient : recipe.getIngredients()) {
                         if (ingredient.contains(word)) {
@@ -196,6 +198,7 @@ public class RecipeReader {
                         break;
                     }
                 }
+                //TODO type of the srpingspan instead of the argument
                 if (!found) {
                     argument.setSemanticType(SemanticType.OTHER);
                 }
@@ -236,6 +239,8 @@ public class RecipeReader {
             }
         }
     }
+
+
 
 
     public void printRecipe(Recipe recipe) {

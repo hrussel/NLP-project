@@ -34,4 +34,33 @@ public class Recipe {
     public void setIngredients(List<String> ingredients) {
         this.ingredients = ingredients;
     }
+
+    public void ingredientConnections(){
+        for (String ingredient : ingredients) {
+            for (Action action : actions) {
+                List<Argument> arguments = action.getArguments();
+                for (Argument argument : arguments) {
+                    List<StringSpan> stringSpans = argument.getWords();
+                    for (StringSpan stringSpan : stringSpans) {
+                        if(ingredient.toLowerCase().contains(stringSpan.getWord().toLowerCase())){
+                            Connection connection = new Connection(null, action, argument, stringSpan);
+                            this.connections.add(connection);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    public void sequentialConnections(){
+        for (int i = 0; i < actions.size()-1; i++) {
+            Action action1 = actions.get(i);
+            Action action2 = actions.get(i+1);
+            Argument argument = action2.getArguments().get(0);
+            StringSpan sp = argument.getWords().get(0);
+            Connection connection = new Connection(action1, action2, argument, sp);
+            this.connections.add(connection);
+
+        }
+    }
 }

@@ -9,12 +9,21 @@ import java.util.List;
  */
 public class Argument {
 
+
+    private List<StringSpan> words;
     private SyntacticType syntacticType;
     private SemanticType semanticType;
-    private List<StringSpan> words;
 
     public Argument() {
         this.words = new ArrayList<>();
+    }
+
+    public List<StringSpan> getWords() {
+        return words;
+    }
+
+    public void setWords(List<StringSpan> words) {
+        this.words = words;
     }
 
     public SyntacticType getSyntacticType() {
@@ -31,13 +40,5 @@ public class Argument {
 
     public void setSemanticType(SemanticType semanticType) {
         this.semanticType = semanticType;
-    }
-
-    public List<StringSpan> getWords() {
-        return words;
-    }
-
-    public void setWords(List<StringSpan> words) {
-        this.words = words;
     }
 }

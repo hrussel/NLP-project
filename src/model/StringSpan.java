@@ -11,6 +11,7 @@ public class StringSpan {
     private int end;
     private String word;
 
+
     //for implicit arguments
     public StringSpan() {
         this.word = "";
@@ -55,4 +56,5 @@ public class StringSpan {
     public void setWord(String word) {
         this.word = word;
     }
+
 }

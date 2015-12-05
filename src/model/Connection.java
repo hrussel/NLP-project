@@ -6,31 +6,47 @@ package model;
  */
 public class Connection {
 
-    private StringSpan from;
-    private Argument argument;
-    private StringSpan to;
+    private Action fromAction;
+    private Argument toArgument;
+    private Action toAction;
+    private StringSpan toStringSpan;
 
-    public StringSpan getFrom() {
-        return from;
+    public Connection(Action fromAction, Action toAction, Argument toArgument, StringSpan toStringSpan) {
+        this.fromAction = fromAction;
+        this.toArgument = toArgument;
+        this.toAction = toAction;
+        this.toStringSpan = toStringSpan;
     }
 
-    public void setFrom(StringSpan from) {
-        this.from = from;
+    public Action getFromAction() {
+        return fromAction;
     }
 
-    public Argument getArgument() {
-        return argument;
+    public void setFromAction(Action fromAction) {
+        this.fromAction = fromAction;
     }
 
-    public void setArgument(Argument argument) {
-        this.argument = argument;
+    public Argument getToArgument() {
+        return toArgument;
     }
 
-    public StringSpan getTo() {
-        return to;
+    public void setToArgument(Argument toArgument) {
+        this.toArgument = toArgument;
     }
 
-    public void setTo(StringSpan to) {
-        this.to = to;
+    public Action getToAction() {
+        return toAction;
+    }
+
+    public void setToAction(Action toAction) {
+        this.toAction = toAction;
+    }
+
+    public StringSpan getToStringSpan() {
+        return toStringSpan;
+    }
+
+    public void setToStringSpan(StringSpan toStringSpan) {
+        this.toStringSpan = toStringSpan;
     }
 }
