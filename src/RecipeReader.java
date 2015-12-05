@@ -17,6 +17,7 @@ public class RecipeReader {
     public String filename;
     public static int tId = 1;
     public static int rId = 1;
+
     public RecipeReader(String folder, String filename) {
         this.folder = folder;
         this.filename = filename;
@@ -30,9 +31,9 @@ public class RecipeReader {
         int offset=-1;
         try {
             //"data/chunked/BeefMeatLoaf-chunked/amish-meatloaf.txt"
-            File file = new File("data/chunked/" + this.folder + "-chunked/" + this.filename + ".txt");
-            File semiTextFile = new File("data/semitext/"+this.folder+"-semi/"+this.filename+".txt");
-            sc = new Scanner(file);
+            File chunkedTextFile = new File(Main.FOLDER_CHUNKED + this.folder + "-chunked/" + this.filename);
+            File semiTextFile = new File(Main.FOLDER_SEMI+folder+"-semi/"+filename);
+            sc = new Scanner(chunkedTextFile);
             scSemiText = new Scanner(semiTextFile);
 
             Action currentAction = null;
@@ -126,8 +127,8 @@ public class RecipeReader {
 
             }
             sc.close();
-            file = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename + ".txt");
-            sc = new Scanner(file);
+            chunkedTextFile = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename + ".txt");
+            sc = new Scanner(chunkedTextFile);
             //TODO @Oz add connection
             while (sc.hasNextLine()) {
                 String s = sc.nextLine();
