@@ -20,7 +20,9 @@ public class VerbSignatureModel {
         this.recipes = recipes;
         this.verbSignatureDistribution = new HashMap<>();
         this.totalCounts = new HashMap<>();
+    }
 
+    public Map<String, Map<VerbSignature, Integer>> calculate() {
         for (Recipe recipe : recipes) {
             for (Action action : recipe.getActions()) {
                 String verb = action.getPredicate().getBaseWord();
@@ -41,6 +43,7 @@ public class VerbSignatureModel {
                 }
             }
         }
+        return this.verbSignatureDistribution;
     }
 
     public Map<String, Map<VerbSignature, Integer>> getVerbSignatureDistribution() {

@@ -19,6 +19,8 @@ public class Main {
     public static final String FILE_DEV_LIST = "data/devset_list.txt";
     public static final String FILE_TEST_LIST = "data/testset_list.txt";
 
+    public static final int AMISH_MEATLOAF_INDEX = 280;
+
     private List<Recipe> recipes;
 
 
@@ -27,8 +29,12 @@ public class Main {
         readAllRecipes();
 
         VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);
-        Map<String, Map<VerbSignature, Integer>> verbSignatureDistribution = verbSignatureModel.getVerbSignatureDistribution();
-        double probability = verbSignatureModel.getProbabilityOfAction(recipes.get(0).getActions().get(0));
+        verbSignatureModel.calculate();
+
+        ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipes.get(0),verbSignatureModel);
+        double probability = connectionPriorModel.calculate();
+        System.out.println("P(C) of recipe 1 is "+probability);
+
 
         StringSpanModel stringSpanModel = new StringSpanModel(recipes);
        // stringSpanDistribution = stringSpanModel
