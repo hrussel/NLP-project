@@ -1,3 +1,4 @@
+import model.PartComposite;
 import model.Recipe;
 import model.VerbSignature;
 
@@ -29,6 +30,8 @@ public class Main {
         Map<String, Map<VerbSignature, Integer>> verbSignatureDistribution = verbSignatureModel.getVerbSignatureDistribution();
         double probability = verbSignatureModel.getProbabilityOfAction(recipes.get(0).getActions().get(0));
 
+        StringSpanModel stringSpanModel = new StringSpanModel(recipes);
+       // stringSpanDistribution = stringSpanModel
 
         System.out.println("done.");
     }

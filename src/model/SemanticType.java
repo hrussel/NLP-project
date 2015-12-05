@@ -7,7 +7,6 @@ package model;
 public enum SemanticType {
         FOOD,
         LOCATION,
-        DURATION,
         OTHER;
 
         @Override
@@ -19,9 +18,6 @@ public enum SemanticType {
                                 break;
                         case LOCATION:
                                 str="location";
-                                break;
-                        case DURATION:
-                                str="duration";
                                 break;
                         case OTHER:
                                 str="other";

@@ -136,6 +136,7 @@ public class Recipe {
             Argument argument = action2.getArguments().get(0);
             StringSpan sp = argument.getWords().get(0);
             Connection connection = new Connection(action1, action2, argument, sp);
+
             this.getConnections().add(connection);
             if(!connectionsGoingTo.containsKey(sp)) {
                 connectionsGoingTo.put(sp,new ArrayList<>());
