@@ -10,6 +10,7 @@ import java.util.List;
 public class Action {
     private StringSpan predicate;
     private List<Argument> arguments;
+    private VerbSignature signature;
 
     public Action() {
         this.arguments = new ArrayList<>();
@@ -29,5 +30,13 @@ public class Action {
 
     public void setArguments(List<Argument> arguments) {
         this.arguments = arguments;
+    }
+
+    public VerbSignature getSignature() {
+        return signature;
+    }
+
+    public void setSignature(VerbSignature signature) {
+        this.signature = signature;
     }
 }
