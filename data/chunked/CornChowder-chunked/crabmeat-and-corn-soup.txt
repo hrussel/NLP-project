@@ -122,10 +122,10 @@ PRED: canned
 
 
 SENTID: 9
-SENT: Use one 7Ê1/2 - ounce can crabmeat -LRB- drained -RRB- and 8 ounces imitation crab -LRB- cut into small pieces -RRB- .
+SENT: Use one 7 1/2 - ounce can crabmeat -LRB- drained -RRB- and 8 ounces imitation crab -LRB- cut into small pieces -RRB- .
 PREDID: 0
 PRED: use
-  DOBJ: one 7Ê1/2 - ounce can crabmeat -lrb- drained -rrb-, 8 ounces imitation crab -lrb- cut
+  DOBJ: one 7 1/2 - ounce can crabmeat -lrb- drained -rrb-, 8 ounces imitation crab -lrb- cut
   PARG: small pieces -rrb-
     PREP: into
 

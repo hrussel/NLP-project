@@ -73,11 +73,11 @@ PRED: stir
 
 
 SENTID: 7
-SENT: Spread half of the beef in the bottom of a greased 2Ê1/2 quart casserole dish .
+SENT: Spread half of the beef in the bottom of a greased 2 1/2 quart casserole dish .
 PREDID: 0
 PRED: spread
   DOBJ: half of the beef
-  PARG: the bottom of a greased 2Ê1/2 quart casserole dish
+  PARG: the bottom of a greased 2 1/2 quart casserole dish
     PREP: in
 
 

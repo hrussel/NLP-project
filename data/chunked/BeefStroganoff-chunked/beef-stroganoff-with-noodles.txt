@@ -68,10 +68,10 @@ PRED: reduce
 
 
 SENTID: 6
-SENT: Simmer for 1 to 1Ê1/2 hours or until meat is fork tender .
+SENT: Simmer for 1 to 1 1/2 hours or until meat is fork tender .
 PREDID: 0
 PRED: simmer
-  PARG: 1 to 1Ê1/2 hours
+  PARG: 1 to 1 1/2 hours
     PREP: for
   PARG: meat is fork tender
     PREP: until

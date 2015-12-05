@@ -49,14 +49,14 @@ PRED: bring
 
 
 SENTID: 5
-SENT: Reduce heat and simmer for 1 to 1Ê1/2 hours , stirring occasionally .
+SENT: Reduce heat and simmer for 1 to 1 1/2 hours , stirring occasionally .
 PREDID: 0
 PRED: reduce
   DOBJ: heat
 
 PREDID: 1
 PRED: simmer
-  PARG: 1 to 1Ê1/2 hours , stirring
+  PARG: 1 to 1 1/2 hours , stirring
     PREP: for
   OARG: occasionally
 

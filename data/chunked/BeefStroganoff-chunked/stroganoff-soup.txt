@@ -33,10 +33,10 @@ PRED: rinse
 
 
 SENTID: 3
-SENT: In a slow cooker , combine the soup , 2Ê2/3 cup -LRB- or 2 soup cans -RRB- of water , sour cream and steak sauce .
+SENT: In a slow cooker , combine the soup , 2 2/3 cup -LRB- or 2 soup cans -RRB- of water , sour cream and steak sauce .
 PREDID: 0
 PRED: combine
-  DOBJ: the soup , 2Ê2/3 cup -lrb- or 2 soup cans -rrb- of water , sour cream, steak sauce
+  DOBJ: the soup , 2 2/3 cup -lrb- or 2 soup cans -rrb- of water , sour cream, steak sauce
   PARG: a slow cooker
     PREP: in
 

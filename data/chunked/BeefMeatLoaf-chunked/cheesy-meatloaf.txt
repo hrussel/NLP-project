@@ -38,10 +38,10 @@ PRED: spread
 
 
 SENTID: 4
-SENT: Spread remaining 1Ê1/2 cups cheese over meat loaf mixture .
+SENT: Spread remaining 1 1/2 cups cheese over meat loaf mixture .
 PREDID: 0
 PRED: spread
-  DOBJ: remaining 1Ê1/2 cups cheese
+  DOBJ: remaining 1 1/2 cups cheese
   PARG: meat loaf mixture
     PREP: over
 

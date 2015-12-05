@@ -8,7 +8,7 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: To make the guacamole , mash the avocado in a medium bowl with the juice of half a lime , jalapeno , tomatoes , 1/4 cup onion , and 1Ê1/2 teaspoons of minced garlic ;
+SENT: To make the guacamole , mash the avocado in a medium bowl with the juice of half a lime , jalapeno , tomatoes , 1/4 cup onion , and 1 1/2 teaspoons of minced garlic ;
 PREDID: 0
 PRED: mash
   DOBJ: the avocado
@@ -16,7 +16,7 @@ PRED: mash
     PREP: to
   PARG: a medium bowl
     PREP: in
-  PARG: the juice of half a lime , jalapeno , tomatoes , 1/4 cup onion , 1Ê1/2 teaspoons of minced garlic
+  PARG: the juice of half a lime , jalapeno , tomatoes , 1/4 cup onion , 1 1/2 teaspoons of minced garlic
     PREP: with
 
 

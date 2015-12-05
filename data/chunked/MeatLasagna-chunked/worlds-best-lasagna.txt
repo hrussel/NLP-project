@@ -28,11 +28,11 @@ PRED: season
 
 
 SENTID: 3
-SENT: Simmer , covered , for about 1Ê1/2 hours , stirring occasionally .
+SENT: Simmer , covered , for about 1 1/2 hours , stirring occasionally .
 PREDID: 0
 PRED: simmer
   DOBJ: covered
-  PARG: about 1Ê1/2 hours , stirring
+  PARG: about 1 1/2 hours , stirring
     PREP: for
   OARG: occasionally
 
@@ -90,10 +90,10 @@ PRED: preheat
 
 
 SENTID: 9
-SENT: To assemble , spread 1Ê1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish .
+SENT: To assemble , spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish .
 PREDID: 0
 PRED: spread
-  DOBJ: 1Ê1/2 cups of meat sauce
+  DOBJ: 1 1/2 cups of meat sauce
   PARG: the bottom of a 9x13 inch baking dish
     PREP: in
   OARG: to assemble
@@ -125,10 +125,10 @@ PRED: top
 
 
 SENTID: 13
-SENT: Spoon 1Ê1/2 cups meat sauce over mozzarella , and sprinkle with 1/4 cup Parmesan cheese .
+SENT: Spoon 1 1/2 cups meat sauce over mozzarella , and sprinkle with 1/4 cup Parmesan cheese .
 PREDID: 0
 PRED: spoon
-  DOBJ: 1Ê1/2 cups meat sauce
+  DOBJ: 1 1/2 cups meat sauce
   PARG: mozzarella
     PREP: over
 

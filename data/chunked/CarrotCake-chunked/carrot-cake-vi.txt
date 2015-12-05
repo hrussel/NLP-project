@@ -71,10 +71,10 @@ PRED: pour
 
 
 SENTID: 8
-SENT: Bake for 1Ê1/4 hours , or until a tester inserted in the center comes out clean .
+SENT: Bake for 1 1/4 hours , or until a tester inserted in the center comes out clean .
 PREDID: 0
 PRED: bake
-  PARG: 1Ê1/4 hours
+  PARG: 1 1/4 hours
     PREP: for
   PARG: a tester inserted in the center comes out clean
     PREP: until

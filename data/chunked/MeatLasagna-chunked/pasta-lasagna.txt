@@ -8,10 +8,10 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: Grease a 2Ê1/2 quart baking dish .
+SENT: Grease a 2 1/2 quart baking dish .
 PREDID: 0
 PRED: grease
-  DOBJ: a 2Ê1/2 quart baking dish
+  DOBJ: a 2 1/2 quart baking dish
 
 
 SENTID: 2

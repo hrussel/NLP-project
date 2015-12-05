@@ -8,11 +8,11 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: Mix soup , milk , peas , pimiento , tuna and noodles in 1Ê1/2 - quart baking dish .
+SENT: Mix soup , milk , peas , pimiento , tuna and noodles in 1 1/2 - quart baking dish .
 PREDID: 0
 PRED: mix
   DOBJ: soup , milk , peas , pimiento , tuna, noodles
-  PARG: 1Ê1/2 - quart baking dish
+  PARG: 1 1/2 - quart baking dish
     PREP: in
 
 

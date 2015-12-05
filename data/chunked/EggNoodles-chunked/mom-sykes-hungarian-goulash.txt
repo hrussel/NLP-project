@@ -50,7 +50,7 @@ PRED: stir
 
 
 SENTID: 4
-SENT: Cover , and simmer over medium-low heat for 1Ê1/2 hours .
+SENT: Cover , and simmer over medium-low heat for 1 1/2 hours .
 PREDID: 0
 PRED: cover
 
@@ -58,7 +58,7 @@ PREDID: 1
 PRED: simmer
   PARG: medium-low heat
     PREP: over
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
 
 

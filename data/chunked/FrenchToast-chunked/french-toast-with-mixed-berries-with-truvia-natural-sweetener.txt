@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: In medium bowl , beat milk , egg product , Truvia ¨ natural sweetener , salt and vanilla .
+SENT: In medium bowl , beat milk , egg product , Truvia   natural sweetener , salt and vanilla .
 PREDID: 0
 PRED: beat
-  DOBJ: milk , egg product , truvia ¨ natural sweetener , salt, vanilla
+  DOBJ: milk , egg product , truvia   natural sweetener , salt, vanilla
   PARG: medium bowl
     PREP: in
 

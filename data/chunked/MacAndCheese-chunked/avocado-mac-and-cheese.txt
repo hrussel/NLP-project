@@ -45,11 +45,11 @@ PRED: simmer
 
 
 SENTID: 5
-SENT: When pasta is almost cooked , place in blender the parsley leaves , 1Ê1/2 cups of the diced avocado , the cheese , lime juice and hot milk with garlic cloves ;
+SENT: When pasta is almost cooked , place in blender the parsley leaves , 1 1/2 cups of the diced avocado , the cheese , lime juice and hot milk with garlic cloves ;
 PREDID: 0
 PRED: place
   DOBJ: cooked
-  PARG: blender the parsley leaves , 1Ê1/2 cups of the diced avocado , the cheese , lime juice, hot milk
+  PARG: blender the parsley leaves , 1 1/2 cups of the diced avocado , the cheese , lime juice, hot milk
     PREP: in
   PARG: garlic cloves
     PREP: with

@@ -8,10 +8,10 @@ PRED: heat
 
 
 SENTID: 1
-SENT: Line 12 -LRB- 2Ê1/2 - inch -RRB- muffin-pan cups with foil liners .
+SENT: Line 12 -LRB- 2 1/2 - inch -RRB- muffin-pan cups with foil liners .
 PREDID: 0
 PRED: line
-  DOBJ: 12 -lrb- 2Ê1/2 - inch -rrb- muffin-pan cups
+  DOBJ: 12 -lrb- 2 1/2 - inch -rrb- muffin-pan cups
   PARG: foil liners
     PREP: with
 

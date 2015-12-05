@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: In a large skillet cook the Johnsonville ¨ Mild Italian Ground Sausage , onion , and garlic until meat is brown .
+SENT: In a large skillet cook the Johnsonville   Mild Italian Ground Sausage , onion , and garlic until meat is brown .
 PREDID: 0
 PRED: cook
-  DOBJ: the johnsonville ¨ mild italian ground sausage , onion , garlic
+  DOBJ: the johnsonville   mild italian ground sausage , onion , garlic
   PARG: a large skillet
     PREP: in
   PARG: meat is brown
@@ -18,10 +18,10 @@ PRED: drain
 
 
 SENTID: 2
-SENT: In a 3-1/2 - or 4-quart slow cooker combine Classico ¨ Tomato and Basil pasta sauce , mushrooms , pepperoni , and basil .
+SENT: In a 3-1/2 - or 4-quart slow cooker combine Classico   Tomato and Basil pasta sauce , mushrooms , pepperoni , and basil .
 PREDID: 0
 PRED: combine
-  DOBJ: classico ¨ tomato, basil pasta sauce , mushrooms , pepperoni , basil
+  DOBJ: classico   tomato, basil pasta sauce , mushrooms , pepperoni , basil
   PARG: a 3-1/2 - or 4-quart slow cooker
     PREP: in
 

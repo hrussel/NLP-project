@@ -8,13 +8,13 @@ PRED: place
 
 
 SENTID: 1
-SENT: Pat it into a rectangular shape , about 1/2 inch thick , 8Ê1/2 inches long , and 4 inches wide .
+SENT: Pat it into a rectangular shape , about 1/2 inch thick , 8 1/2 inches long , and 4 inches wide .
 PREDID: 0
 PRED: pat
   DOBJ: and 4 inches
   PARG: a rectangular shape
     PREP: into
-  PARG: 1/2 inch thick , 8Ê1/2 inches
+  PARG: 1/2 inch thick , 8 1/2 inches
     PREP: about
   OARG: long
   OARG: it

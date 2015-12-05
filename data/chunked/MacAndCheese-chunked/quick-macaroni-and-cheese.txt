@@ -6,10 +6,10 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: Grease a 1Ê1/2 quart microwave safe dish .
+SENT: Grease a 1 1/2 quart microwave safe dish .
 PREDID: 0
 PRED: grease
-  DOBJ: a 1Ê1/2 quart microwave safe dish
+  DOBJ: a 1 1/2 quart microwave safe dish
 
 
 SENTID: 2

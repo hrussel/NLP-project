@@ -26,10 +26,10 @@ PRED: stir
 
 
 SENTID: 2
-SENT: Pour the undrained whole tomatoes , tomato sauce , 1Ê1/2 teaspoons Italian seasoning , sugar , oregano , 3/4 teaspoon garlic powder , Worcestershire sauce , and water into a blender and blend until smooth .
+SENT: Pour the undrained whole tomatoes , tomato sauce , 1 1/2 teaspoons Italian seasoning , sugar , oregano , 3/4 teaspoon garlic powder , Worcestershire sauce , and water into a blender and blend until smooth .
 PREDID: 0
 PRED: pour
-  DOBJ: the undrained whole tomatoes , tomato sauce , 1Ê1/2 teaspoons italian seasoning , sugar , oregano , 3/4 teaspoon garlic powder , worcestershire sauce , water
+  DOBJ: the undrained whole tomatoes , tomato sauce , 1 1/2 teaspoons italian seasoning , sugar , oregano , 3/4 teaspoon garlic powder , worcestershire sauce , water
   PARG: a blender
     PREP: into
 
@@ -40,7 +40,7 @@ PRED: blend
 
 
 SENTID: 3
-SENT: Pour the tomato mixture into the saucepan and simmer over low heat for 1Ê1/2 hours , stirring occasionally .
+SENT: Pour the tomato mixture into the saucepan and simmer over low heat for 1 1/2 hours , stirring occasionally .
 PREDID: 0
 PRED: pour
   DOBJ: the tomato mixture
@@ -51,7 +51,7 @@ PREDID: 1
 PRED: simmer
   PARG: low heat
     PREP: over
-  PARG: 1Ê1/2 hours , stirring
+  PARG: 1 1/2 hours , stirring
     PREP: for
   OARG: occasionally
 

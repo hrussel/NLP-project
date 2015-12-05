@@ -65,11 +65,11 @@ PRED: simmer
 
 
 SENTID: 6
-SENT: Top each serving with about 1 tablespoon Cheddar cheese , 1Ê1/2 teaspoons onion , and hot sauce ;
+SENT: Top each serving with about 1 tablespoon Cheddar cheese , 1 1/2 teaspoons onion , and hot sauce ;
 PREDID: 0
 PRED: top
   DOBJ: each serving
-  PARG: about 1 tablespoon cheddar cheese , 1Ê1/2 teaspoons onion , hot sauce
+  PARG: about 1 tablespoon cheddar cheese , 1 1/2 teaspoons onion , hot sauce
     PREP: with
 
 

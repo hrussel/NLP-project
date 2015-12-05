@@ -64,19 +64,19 @@ PRED: discard
 
 
 SENTID: 6
-SENT: Spoon 1 cup of Classico ¨ Four Cheese pasta sauce in the bottom of a 2-quart rectangular baking dish .
+SENT: Spoon 1 cup of Classico   Four Cheese pasta sauce in the bottom of a 2-quart rectangular baking dish .
 PREDID: 0
 PRED: spoon
-  DOBJ: 1 cup of classico ¨ four cheese pasta sauce
+  DOBJ: 1 cup of classico   four cheese pasta sauce
   PARG: the bottom of a 2-quart rectangular baking dish
     PREP: in
 
 
 SENTID: 7
-SENT: Stir remaining Classico ¨ Four Cheese pasta sauce into meat in skillet .
+SENT: Stir remaining Classico   Four Cheese pasta sauce into meat in skillet .
 PREDID: 0
 PRED: stir
-  DOBJ: remaining classico ¨ four cheese pasta sauce
+  DOBJ: remaining classico   four cheese pasta sauce
   PARG: meat
     PREP: into
   PARG: skillet

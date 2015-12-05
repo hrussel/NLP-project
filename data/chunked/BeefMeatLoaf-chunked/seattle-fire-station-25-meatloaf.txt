@@ -95,10 +95,10 @@ PRED: brush
 
 
 SENTID: 8
-SENT: Bake for 1Ê1/2 hours in the preheated oven , or until the internal temperature of the loaf is 180 degrees F -LRB- 82 degrees C -RRB- .
+SENT: Bake for 1 1/2 hours in the preheated oven , or until the internal temperature of the loaf is 180 degrees F -LRB- 82 degrees C -RRB- .
 PREDID: 0
 PRED: bake
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
   PARG: the preheated oven
     PREP: in

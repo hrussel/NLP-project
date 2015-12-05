@@ -54,10 +54,10 @@ PRED: drain
 
 
 SENTID: 6
-SENT: Stir in tomato puree , tomato paste , sugar , 1 teaspoon salt , garlic , and 1Ê1/2 tablespoons parsley .
+SENT: Stir in tomato puree , tomato paste , sugar , 1 teaspoon salt , garlic , and 1 1/2 tablespoons parsley .
 PREDID: 0
 PRED: stir
-  PARG: tomato puree , tomato paste , sugar , 1 teaspoon salt , garlic , 1Ê1/2 tablespoons parsley
+  PARG: tomato puree , tomato paste , sugar , 1 teaspoon salt , garlic , 1 1/2 tablespoons parsley
     PREP: in
 
 
@@ -75,10 +75,10 @@ PRED: simmer
 
 
 SENTID: 8
-SENT: In a bowl , stir together cottage cheese , eggs , pepper , Parmesan , 1Ê1/2 tablespoons parsley , and 1/2 teaspoon salt until blended .
+SENT: In a bowl , stir together cottage cheese , eggs , pepper , Parmesan , 1 1/2 tablespoons parsley , and 1/2 teaspoon salt until blended .
 PREDID: 0
 PRED: stir
-  DOBJ: cottage cheese , eggs , pepper , parmesan , 1Ê1/2 tablespoons parsley , 1/2 teaspoon salt
+  DOBJ: cottage cheese , eggs , pepper , parmesan , 1 1/2 tablespoons parsley , 1/2 teaspoon salt
   PARG: a bowl
     PREP: in
   PARG: blended

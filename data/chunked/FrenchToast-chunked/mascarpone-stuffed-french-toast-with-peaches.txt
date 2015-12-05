@@ -58,11 +58,11 @@ PRED: cut
 
 
 SENTID: 5
-SENT: Slice the rolls into 1Ê1/4 - inch-thick slices .
+SENT: Slice the rolls into 1 1/4 - inch-thick slices .
 PREDID: 0
 PRED: slice
   DOBJ: the rolls
-  PARG: 1Ê1/4 - inch-thick slices
+  PARG: 1 1/4 - inch-thick slices
     PREP: into
 
 

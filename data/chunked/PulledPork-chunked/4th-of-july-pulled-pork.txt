@@ -79,13 +79,13 @@ PRED: remove
 
 
 SENTID: 8
-SENT: Sear all sides of pork butt in the fryer or hot skillet until an internal temperature of 145 degrees F -LRB- 63 degrees C -RRB- is reached , 1 to 1Ê1/2 hours .
+SENT: Sear all sides of pork butt in the fryer or hot skillet until an internal temperature of 145 degrees F -LRB- 63 degrees C -RRB- is reached , 1 to 1 1/2 hours .
 PREDID: 0
 PRED: sear
   DOBJ: all sides of pork butt
   PARG: the fryer or hot skillet
     PREP: in
-  PARG: an internal temperature of 145 degrees f -lrb- 63 degrees c -rrb- is reached , 1 to 1Ê1/2 hours
+  PARG: an internal temperature of 145 degrees f -lrb- 63 degrees c -rrb- is reached , 1 to 1 1/2 hours
     PREP: until
 
 

@@ -52,10 +52,10 @@ PRED: sprinkle
 
 
 SENTID: 6
-SENT: Pour 2Ê1/2 cups water , 1/2 pound corn kernels , and 2 ounces crabmeat into the onion mixture ;
+SENT: Pour 2 1/2 cups water , 1/2 pound corn kernels , and 2 ounces crabmeat into the onion mixture ;
 PREDID: 0
 PRED: pour
-  DOBJ: 2Ê1/2 cups water , 1/2 pound corn kernels , 2 ounces crabmeat
+  DOBJ: 2 1/2 cups water , 1/2 pound corn kernels , 2 ounces crabmeat
   PARG: the onion mixture
     PREP: into
 

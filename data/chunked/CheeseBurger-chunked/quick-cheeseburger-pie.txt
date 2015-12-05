@@ -8,10 +8,10 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: In a medium bowl , mix 1Ê1/3 cups flour and 1/2 teaspoon salt .
+SENT: In a medium bowl , mix 1 1/3 cups flour and 1/2 teaspoon salt .
 PREDID: 0
 PRED: mix
-  DOBJ: 1Ê1/3 cups flour, 1/2 teaspoon salt
+  DOBJ: 1 1/3 cups flour, 1/2 teaspoon salt
   PARG: a medium bowl
     PREP: in
 

@@ -19,10 +19,10 @@ PRED: brown
 
 
 SENTID: 2
-SENT: Meanwhile , mix 1Ê1/4 cups mozzarella , ricotta cheese , 1/4 cup Parmesan , parsley and egg until well blended ;
+SENT: Meanwhile , mix 1 1/4 cups mozzarella , ricotta cheese , 1/4 cup Parmesan , parsley and egg until well blended ;
 PREDID: 0
 PRED: mix
-  DOBJ: 1Ê1/4 cups mozzarella , ricotta cheese , 1/4 cup parmesan , parsley, egg
+  DOBJ: 1 1/4 cups mozzarella , ricotta cheese , 1/4 cup parmesan , parsley, egg
   PARG: well blended
     PREP: until
   OARG: meanwhile

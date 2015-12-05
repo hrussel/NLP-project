@@ -55,10 +55,10 @@ PRED: stir
 
 
 SENTID: 6
-SENT: Reduce heat to Low and cook another 6Ê1/2 hours .
+SENT: Reduce heat to Low and cook another 6 1/2 hours .
 PREDID: 0
 PRED: reduce
   DOBJ: heat
-  PARG: low, cook another 6Ê1/2 hours
+  PARG: low, cook another 6 1/2 hours
     PREP: to
 

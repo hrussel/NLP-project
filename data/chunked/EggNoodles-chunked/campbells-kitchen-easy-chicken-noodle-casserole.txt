@@ -1,9 +1,9 @@
 SENTID: 0
-SENT: Stir the soup , milk , peas , chicken and noodles in a 1Ê1/2 - quart casserole .
+SENT: Stir the soup , milk , peas , chicken and noodles in a 1 1/2 - quart casserole .
 PREDID: 0
 PRED: stir
   DOBJ: the soup , milk , peas , chicken, noodles
-  PARG: a 1Ê1/2 - quart casserole
+  PARG: a 1 1/2 - quart casserole
     PREP: in
 
 

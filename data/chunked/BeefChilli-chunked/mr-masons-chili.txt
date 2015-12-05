@@ -53,7 +53,7 @@ PRED: cover
 
 
 SENTID: 4
-SENT: Reduce heat to a simmer , and cook until meat is tender and flavors have blended , mixing enough water to make a thick chili , about 1Ê1/2 hours .
+SENT: Reduce heat to a simmer , and cook until meat is tender and flavors have blended , mixing enough water to make a thick chili , about 1 1/2 hours .
 PREDID: 0
 PRED: reduce
   DOBJ: heat
@@ -69,7 +69,7 @@ PREDID: 2
 PRED: water
   PARG: make a thick chili
     PREP: to
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: about
 
 

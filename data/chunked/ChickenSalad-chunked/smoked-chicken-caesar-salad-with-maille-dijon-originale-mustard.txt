@@ -46,10 +46,10 @@ PRED: remove
 
 
 SENTID: 4
-SENT: Place the egg , garlic , anchovy fillets , Maille ¨ Dijon Originale mustard and vinegar into a food processor .
+SENT: Place the egg , garlic , anchovy fillets , Maille   Dijon Originale mustard and vinegar into a food processor .
 PREDID: 0
 PRED: place
-  DOBJ: the egg , garlic , anchovy fillets , maille ¨ dijon originale mustard, vinegar
+  DOBJ: the egg , garlic , anchovy fillets , maille   dijon originale mustard, vinegar
   PARG: a food processor
     PREP: into
 

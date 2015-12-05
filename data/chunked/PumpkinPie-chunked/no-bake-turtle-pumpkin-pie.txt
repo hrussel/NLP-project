@@ -29,10 +29,10 @@ PRED: whisk
 
 
 SENTID: 3
-SENT: stir in 1Ê1/2 cups whipped topping .
+SENT: stir in 1 1/2 cups whipped topping .
 PREDID: 0
 PRED: stir
-  PARG: 1Ê1/2 cups whipped topping
+  PARG: 1 1/2 cups whipped topping
     PREP: in
 
 

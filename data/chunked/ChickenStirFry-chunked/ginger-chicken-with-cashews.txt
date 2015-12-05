@@ -9,10 +9,10 @@ PRED: whisk
 
 
 SENTID: 1
-SENT: Combine 1/4 cup cornstarch , 1Ê1/2 teaspoons ground ginger , and curry powder in a large , sealable plastic bag and shake to mix .
+SENT: Combine 1/4 cup cornstarch , 1 1/2 teaspoons ground ginger , and curry powder in a large , sealable plastic bag and shake to mix .
 PREDID: 0
 PRED: combine
-  DOBJ: 1/4 cup cornstarch , 1Ê1/2 teaspoons ground ginger , curry powder
+  DOBJ: 1/4 cup cornstarch , 1 1/2 teaspoons ground ginger , curry powder
   PARG: a large , sealable plastic bag, shake
     PREP: in
   PARG: mix

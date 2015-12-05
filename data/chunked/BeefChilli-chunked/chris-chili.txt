@@ -1,5 +1,5 @@
 SENTID: 0
-SENT: Prepare soup from a packet of onion soup mix according to the package directions , and set 1Ê1/2 cups aside .
+SENT: Prepare soup from a packet of onion soup mix according to the package directions , and set 1 1/2 cups aside .
 PREDID: 0
 PRED: prepare
   DOBJ: soup
@@ -10,7 +10,7 @@ PRED: prepare
 
 PREDID: 1
 PRED: set
-  DOBJ: 1Ê1/2 cups
+  DOBJ: 1 1/2 cups
   OARG: aside
 
 

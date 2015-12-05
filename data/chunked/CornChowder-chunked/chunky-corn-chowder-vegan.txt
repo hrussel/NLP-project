@@ -41,10 +41,10 @@ PRED: set
 
 
 SENTID: 4
-SENT: Combine the vegetable broth , potatoes , carrots , corn , 1Ê1/2 cups soy milk , garlic powder salt , and pepper in a large pot .
+SENT: Combine the vegetable broth , potatoes , carrots , corn , 1 1/2 cups soy milk , garlic powder salt , and pepper in a large pot .
 PREDID: 0
 PRED: combine
-  DOBJ: the vegetable broth , potatoes , carrots , corn , 1Ê1/2 cups soy milk , garlic powder salt , pepper
+  DOBJ: the vegetable broth , potatoes , carrots , corn , 1 1/2 cups soy milk , garlic powder salt , pepper
   PARG: a large pot
     PREP: in
 

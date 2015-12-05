@@ -132,10 +132,10 @@ PRED: stir
 
 
 SENTID: 10
-SENT: To assemble lasagna , pour about 1Ê1/2 cup of marinara sauce into the bottom of the prepared baking dish and top the sauce with 4 lasagna noodles , overlapping if necessary .
+SENT: To assemble lasagna , pour about 1 1/2 cup of marinara sauce into the bottom of the prepared baking dish and top the sauce with 4 lasagna noodles , overlapping if necessary .
 PREDID: 0
 PRED: pour
-  PARG: 1Ê1/2 cup of marinara sauce
+  PARG: 1 1/2 cup of marinara sauce
     PREP: about
   PARG: the bottom of the prepared baking dish
     PREP: into

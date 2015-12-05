@@ -75,10 +75,10 @@ PRED: preheat
 
 
 SENTID: 8
-SENT: Grease 2 8Ê1/2 x4x3-inch glass bread pans .
+SENT: Grease 2 8 1/2 x4x3-inch glass bread pans .
 PREDID: 0
 PRED: grease
-  DOBJ: 2 8Ê1/2 x4x3-inch glass bread pans
+  DOBJ: 2 8 1/2 x4x3-inch glass bread pans
 
 
 SENTID: 9

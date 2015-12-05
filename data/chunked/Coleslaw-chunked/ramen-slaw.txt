@@ -35,12 +35,12 @@ PRED: fold
 
 
 SENTID: 4
-SENT: Chill in refrigerator for 1Ê1/2 hours before serving .
+SENT: Chill in refrigerator for 1 1/2 hours before serving .
 PREDID: 0
 PRED: chill
   PARG: refrigerator
     PREP: in
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
   PARG: serving
     PREP: before

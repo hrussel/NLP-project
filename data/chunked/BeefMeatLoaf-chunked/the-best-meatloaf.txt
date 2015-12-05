@@ -8,10 +8,10 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: Lightly grease an 8Ê1/2 x 4Ê1/2 inch loaf pan .
+SENT: Lightly grease an 8 1/2 x 4 1/2 inch loaf pan .
 PREDID: 0
 PRED: grease
-  DOBJ: an 8Ê1/2 x 4Ê1/2 inch loaf pan
+  DOBJ: an 8 1/2 x 4 1/2 inch loaf pan
   OARG: lightly
 
 

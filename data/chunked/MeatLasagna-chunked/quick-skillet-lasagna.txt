@@ -14,10 +14,10 @@ PRED: drain
 
 
 SENTID: 2
-SENT: Meanwhile , cook Johnsonville ¨ Mild Italian Ground Sausage in a 10-inch nonstick skillet until meat is brown ;
+SENT: Meanwhile , cook Johnsonville   Mild Italian Ground Sausage in a 10-inch nonstick skillet until meat is brown ;
 PREDID: 0
 PRED: cook
-  DOBJ: johnsonville ¨ mild italian ground sausage
+  DOBJ: johnsonville   mild italian ground sausage
   PARG: a 10-inch nonstick skillet
     PREP: in
   PARG: meat is brown
@@ -59,19 +59,19 @@ PRED: spread
 
 
 SENTID: 7
-SENT: Cover with about half of the Classico ¨ Tomato and Basil pasta sauce .
+SENT: Cover with about half of the Classico   Tomato and Basil pasta sauce .
 PREDID: 0
 PRED: cover
-  PARG: about half of the classico ¨ tomato, basil pasta sauce
+  PARG: about half of the classico   tomato, basil pasta sauce
     PREP: with
 
 
 SENTID: 8
-SENT: Spoon cooked meat over Classico ¨ Tomato and Basil pasta sauce .
+SENT: Spoon cooked meat over Classico   Tomato and Basil pasta sauce .
 PREDID: 0
 PRED: spoon
   DOBJ: cooked meat
-  PARG: classico ¨ tomato, basil pasta sauce
+  PARG: classico   tomato, basil pasta sauce
     PREP: over
 
 

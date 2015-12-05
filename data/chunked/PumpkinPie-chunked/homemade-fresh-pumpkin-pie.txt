@@ -70,10 +70,10 @@ PRED: roll
 
 
 SENTID: 6
-SENT: With a sharp knife , cut dough 1Ê1/2 inch larger than the upside down 8 to 9 inch pie pan .
+SENT: With a sharp knife , cut dough 1 1/2 inch larger than the upside down 8 to 9 inch pie pan .
 PREDID: 0
 PRED: cut
-  DOBJ: dough 1Ê1/2 inch larger
+  DOBJ: dough 1 1/2 inch larger
   PARG: a sharp knife
     PREP: with
   PARG: the upside

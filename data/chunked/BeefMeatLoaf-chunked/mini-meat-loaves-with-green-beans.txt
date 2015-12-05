@@ -17,10 +17,10 @@ PRED: bring
 
 
 SENTID: 2
-SENT: In large bowl combine egg , 1/2 cup of the Classico ¨ Tomato and Basil pasta sauce , bread crumbs , 2 tablespoons of the basil , and 1/4 teaspoon salt .
+SENT: In large bowl combine egg , 1/2 cup of the Classico   Tomato and Basil pasta sauce , bread crumbs , 2 tablespoons of the basil , and 1/4 teaspoon salt .
 PREDID: 0
 PRED: combine
-  DOBJ: egg , 1/2 cup of the classico ¨ tomato, basil pasta sauce , bread crumbs , 2 tablespoons of the basil , 1/4 teaspoon salt
+  DOBJ: egg , 1/2 cup of the classico   tomato, basil pasta sauce , bread crumbs , 2 tablespoons of the basil , 1/4 teaspoon salt
   PARG: large bowl
     PREP: in
 
@@ -66,10 +66,10 @@ PRED: place
 
 
 SENTID: 8
-SENT: Spoon on remaining Classico ¨ Tomato and Basil pasta sauce and sprinkle with remaining cheese .
+SENT: Spoon on remaining Classico   Tomato and Basil pasta sauce and sprinkle with remaining cheese .
 PREDID: 0
 PRED: spoon
-  PARG: remaining classico ¨ tomato, basil pasta sauce
+  PARG: remaining classico   tomato, basil pasta sauce
     PREP: on
 
 PREDID: 1

@@ -69,13 +69,13 @@ PRED: stir
 
 
 SENTID: 6
-SENT: Scrape all of the beef out of the pan , and into a 3Ê1/2 quart slow cooker .
+SENT: Scrape all of the beef out of the pan , and into a 3 1/2 quart slow cooker .
 PREDID: 0
 PRED: scrape
   DOBJ: all of the beef
   PARG: of the pan
     PREP: out
-  PARG: a 3Ê1/2 quart slow cooker
+  PARG: a 3 1/2 quart slow cooker
     PREP: into
 
 

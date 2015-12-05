@@ -35,10 +35,10 @@ PRED: cut
 
 
 SENTID: 3
-SENT: Heat 1Ê1/2 tablespoons vegetable oil in a wok or large skillet over medium-high heat ;
+SENT: Heat 1 1/2 tablespoons vegetable oil in a wok or large skillet over medium-high heat ;
 PREDID: 0
 PRED: heat
-  DOBJ: 1Ê1/2 tablespoons vegetable oil
+  DOBJ: 1 1/2 tablespoons vegetable oil
   PARG: a wok or large skillet
     PREP: in
   PARG: medium-high heat
@@ -77,10 +77,10 @@ PRED: cook
 
 
 SENTID: 7
-SENT: Add remaining 1Ê1/2 tablespoons vegetable oil ;
+SENT: Add remaining 1 1/2 tablespoons vegetable oil ;
 PREDID: 0
 PRED: add
-  DOBJ: remaining 1Ê1/2 tablespoons vegetable oil
+  DOBJ: remaining 1 1/2 tablespoons vegetable oil
 
 
 SENTID: 8

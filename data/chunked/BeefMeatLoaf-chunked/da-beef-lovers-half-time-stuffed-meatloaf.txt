@@ -43,7 +43,7 @@ PRED: season
 
 
 SENTID: 5
-SENT: On clean counter top , arrange sheets of wax paper approximately 1Ê1/2 feet long by 1 foot wide .
+SENT: On clean counter top , arrange sheets of wax paper approximately 1 1/2 feet long by 1 foot wide .
 PREDID: 0
 PRED: top
   PARG: clean counter

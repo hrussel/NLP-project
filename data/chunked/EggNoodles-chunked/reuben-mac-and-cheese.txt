@@ -132,10 +132,10 @@ PRED: whisk
 
 
 SENTID: 12
-SENT: Whisk 1Ê1/2 cup Swiss cheese into the sauce , stirring until the cheese has melted and the sauce is smooth .
+SENT: Whisk 1 1/2 cup Swiss cheese into the sauce , stirring until the cheese has melted and the sauce is smooth .
 PREDID: 0
 PRED: whisk
-  DOBJ: 1Ê1/2 cup swiss cheese
+  DOBJ: 1 1/2 cup swiss cheese
   PARG: the sauce , stirring
     PREP: into
   PARG: the cheese has melted, the sauce is smooth
@@ -176,10 +176,10 @@ PRED: stir
 
 
 SENTID: 16
-SENT: Sprinkle remaining 1Ê1/2 cup Swiss cheese in an even layer over the top .
+SENT: Sprinkle remaining 1 1/2 cup Swiss cheese in an even layer over the top .
 PREDID: 0
 PRED: sprinkle
-  DOBJ: remaining 1Ê1/2 cup swiss cheese
+  DOBJ: remaining 1 1/2 cup swiss cheese
   PARG: an even layer
     PREP: in
   PARG: the top

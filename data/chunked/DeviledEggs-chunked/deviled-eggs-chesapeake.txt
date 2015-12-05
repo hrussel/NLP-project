@@ -81,14 +81,14 @@ PRED: mash
 
 
 SENTID: 7
-SENT: Stir crab meat , oil , 1Ê1/2 teaspoons seafood seasoning , and dry mustard into yolks ;
+SENT: Stir crab meat , oil , 1 1/2 teaspoons seafood seasoning , and dry mustard into yolks ;
 PREDID: 0
 PRED: stir
   DOBJ: crab meat
 
 PREDID: 1
 PRED: oil
-  DOBJ: 1Ê1/2 teaspoons seafood seasoning , dry mustard
+  DOBJ: 1 1/2 teaspoons seafood seasoning , dry mustard
   PARG: yolks
     PREP: into
 

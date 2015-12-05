@@ -55,10 +55,10 @@ PRED: cover
 
 
 SENTID: 6
-SENT: Bake for 1Ê1/2 hours in the preheated oven .
+SENT: Bake for 1 1/2 hours in the preheated oven .
 PREDID: 0
 PRED: bake
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
   PARG: the preheated oven
     PREP: in

@@ -57,11 +57,11 @@ PRED: spread
 
 
 SENTID: 5
-SENT: Bake in the preheated oven until no longer pink in the center , about 1Ê1/2 hours .
+SENT: Bake in the preheated oven until no longer pink in the center , about 1 1/2 hours .
 PREDID: 0
 PRED: bake
   PARG: the preheated oven
     PREP: in
-  PARG: no longer pink in the center , about 1Ê1/2 hours
+  PARG: no longer pink in the center , about 1 1/2 hours
     PREP: until
 

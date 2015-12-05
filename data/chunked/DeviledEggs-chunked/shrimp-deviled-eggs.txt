@@ -190,10 +190,10 @@ PRED: snip
 
 
 SENTID: 16
-SENT: Gently squeeze about 1Ê1/2 tablespoon of filling into each egg white half .
+SENT: Gently squeeze about 1 1/2 tablespoon of filling into each egg white half .
 PREDID: 0
 PRED: squeeze
-  PARG: 1Ê1/2 tablespoon of filling
+  PARG: 1 1/2 tablespoon of filling
     PREP: about
   PARG: each egg white half
     PREP: into

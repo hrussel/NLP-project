@@ -91,10 +91,10 @@ PRED: cook
 
 
 SENTID: 7
-SENT: Add the whipping cream and the Maille ¨ Honey Dijon mustard .
+SENT: Add the whipping cream and the Maille   Honey Dijon mustard .
 PREDID: 0
 PRED: add
-  DOBJ: the whipping cream, the maille ¨ honey dijon mustard
+  DOBJ: the whipping cream, the maille   honey dijon mustard
 
 
 SENTID: 8
@@ -168,11 +168,11 @@ PRED: slice
 
 
 SENTID: 15
-SENT: Cover the flattened pizza dough with the Maille ¨ Honey Dijon mustard leek fondue .
+SENT: Cover the flattened pizza dough with the Maille   Honey Dijon mustard leek fondue .
 PREDID: 0
 PRED: cover
   DOBJ: the flattened pizza dough
-  PARG: the maille ¨ honey dijon mustard leek fondue
+  PARG: the maille   honey dijon mustard leek fondue
     PREP: with
 
 

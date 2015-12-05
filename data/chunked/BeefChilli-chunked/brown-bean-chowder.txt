@@ -8,7 +8,7 @@ PRED: place
 
 
 SENTID: 1
-SENT: Bring to a boil , and cook until the beans are almost tender , about 1Ê1/2 hours .
+SENT: Bring to a boil , and cook until the beans are almost tender , about 1 1/2 hours .
 PREDID: 0
 PRED: bring
   PARG: a boil
@@ -16,15 +16,15 @@ PRED: bring
 
 PREDID: 1
 PRED: cook
-  PARG: the beans are almost tender , about 1Ê1/2 hours
+  PARG: the beans are almost tender , about 1 1/2 hours
     PREP: until
 
 
 SENTID: 2
-SENT: Season with 1Ê1/2 teaspoons of chili powder , and 1Ê1/2 teaspoons of salt .
+SENT: Season with 1 1/2 teaspoons of chili powder , and 1 1/2 teaspoons of salt .
 PREDID: 0
 PRED: season
-  PARG: 1Ê1/2 teaspoons of chili powder , 1Ê1/2 teaspoons of salt
+  PARG: 1 1/2 teaspoons of chili powder , 1 1/2 teaspoons of salt
     PREP: with
 
 

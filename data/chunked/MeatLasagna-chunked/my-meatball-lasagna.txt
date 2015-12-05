@@ -58,10 +58,10 @@ PRED: add
 
 
 SENTID: 5
-SENT: Stir 1Ê1/2 cup mozzarella cheese , eggs , Parmesan cheese , and Italian seasoning into bread and onions until thoroughly combined .
+SENT: Stir 1 1/2 cup mozzarella cheese , eggs , Parmesan cheese , and Italian seasoning into bread and onions until thoroughly combined .
 PREDID: 0
 PRED: stir
-  DOBJ: 1Ê1/2 cup mozzarella cheese , eggs , parmesan cheese , italian seasoning
+  DOBJ: 1 1/2 cup mozzarella cheese , eggs , parmesan cheese , italian seasoning
   PARG: bread, onions
     PREP: into
   PARG: thoroughly combined

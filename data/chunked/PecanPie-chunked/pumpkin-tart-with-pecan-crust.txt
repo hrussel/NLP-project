@@ -143,10 +143,10 @@ PRED: smooth
 
 
 SENTID: 14
-SENT: Add pumpkin , 1/2 cup maple syrup , ginger , 1Ê1/2 teaspoons cinnamon , 1/2 teaspoon salt , nutmeg , and cloves ;
+SENT: Add pumpkin , 1/2 cup maple syrup , ginger , 1 1/2 teaspoons cinnamon , 1/2 teaspoon salt , nutmeg , and cloves ;
 PREDID: 0
 PRED: add
-  DOBJ: pumpkin , 1/2 cup maple syrup , ginger , 1Ê1/2 teaspoons cinnamon , 1/2 teaspoon salt , nutmeg , cloves
+  DOBJ: pumpkin , 1/2 cup maple syrup , ginger , 1 1/2 teaspoons cinnamon , 1/2 teaspoon salt , nutmeg , cloves
 
 
 SENTID: 15

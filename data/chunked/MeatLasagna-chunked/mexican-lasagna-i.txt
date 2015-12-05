@@ -83,14 +83,14 @@ PRED: cover
 
 
 SENTID: 9
-SENT: Bake 1Ê1/2 hours in the preheated oven , or until noodles are tender .
+SENT: Bake 1 1/2 hours in the preheated oven , or until noodles are tender .
 PREDID: 0
 PRED: bake
   PARG: the preheated oven
     PREP: in
   PARG: noodles are tender
     PREP: until
-  OARG: 1Ê1/2 hours
+  OARG: 1 1/2 hours
 
 
 SENTID: 10

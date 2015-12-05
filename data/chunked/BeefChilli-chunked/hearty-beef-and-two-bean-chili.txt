@@ -89,11 +89,11 @@ PRED: tip
 
 
 SENTID: 10
-SENT: Once the stove top is cool , wipe up any oil splatters or spills with Clorox ¨ Disinfecting Wipes.
+SENT: Once the stove top is cool , wipe up any oil splatters or spills with Clorox   Disinfecting Wipes.
 PREDID: 0
 PRED: wipe
   DOBJ: any oil splatters or spills
-  PARG: clorox ¨ disinfecting wipes.
+  PARG: clorox   disinfecting wipes.
     PREP: with
   OARG: once
   OARG: up

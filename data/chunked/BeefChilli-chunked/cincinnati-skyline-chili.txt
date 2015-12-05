@@ -24,13 +24,13 @@ PRED: stir
 
 
 SENTID: 2
-SENT: Simmer , uncovered , over low heat for 1Ê1/2 hours .
+SENT: Simmer , uncovered , over low heat for 1 1/2 hours .
 PREDID: 0
 PRED: simmer
   DOBJ: uncovered
   PARG: low heat
     PREP: over
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
 
 

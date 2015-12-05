@@ -23,10 +23,10 @@ PRED: drain
 
 
 SENTID: 3
-SENT: In a large skillet cook Johnsonville ¨ Italian Ground Sausage , onion , sweet pepper , and garlic until sausage is no longer pink ;
+SENT: In a large skillet cook Johnsonville   Italian Ground Sausage , onion , sweet pepper , and garlic until sausage is no longer pink ;
 PREDID: 0
 PRED: cook
-  DOBJ: johnsonville ¨ italian ground sausage , onion , sweet pepper , garlic
+  DOBJ: johnsonville   italian ground sausage , onion , sweet pepper , garlic
   PARG: a large skillet
     PREP: in
   PARG: sausage is no longer pink
@@ -50,10 +50,10 @@ PRED: transfer
 
 
 SENTID: 6
-SENT: Stir in Classico ¨ Tomato and Basil pasta sauce , fennel seed , and cooked pasta .
+SENT: Stir in Classico   Tomato and Basil pasta sauce , fennel seed , and cooked pasta .
 PREDID: 0
 PRED: stir
-  PARG: classico ¨ tomato, basil pasta sauce , fennel seed , cooked pasta
+  PARG: classico   tomato, basil pasta sauce , fennel seed , cooked pasta
     PREP: in
 
 

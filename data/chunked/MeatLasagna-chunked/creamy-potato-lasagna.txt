@@ -57,10 +57,10 @@ PRED: sprinkle
 
 
 SENTID: 6
-SENT: In a separate medium bowl , combine the ham , broccoli and 1Ê1/2 cups of the Swiss cheese .
+SENT: In a separate medium bowl , combine the ham , broccoli and 1 1/2 cups of the Swiss cheese .
 PREDID: 0
 PRED: combine
-  DOBJ: the ham , broccoli, 1Ê1/2 cups of the swiss cheese
+  DOBJ: the ham , broccoli, 1 1/2 cups of the swiss cheese
   PARG: a separate medium bowl
     PREP: in
 

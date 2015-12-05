@@ -68,7 +68,7 @@ PRED: bring
 
 
 SENTID: 7
-SENT: Reduce heat to medium-low , cover , and simmer , stirring occasionally , until flavors blend , about 1Ê1/2 hours .
+SENT: Reduce heat to medium-low , cover , and simmer , stirring occasionally , until flavors blend , about 1 1/2 hours .
 PREDID: 0
 PRED: reduce
   DOBJ: heat
@@ -80,7 +80,7 @@ PRED: reduce
 
 PREDID: 1
 PRED: blend
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: about
 
 

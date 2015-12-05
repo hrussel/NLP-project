@@ -57,7 +57,7 @@ PRED: stir
 
 
 SENTID: 5
-SENT: Place a cover on the pot , reduce heat to low , and simmer the mixture until the beef is tender , about 2Ê1/2 hours .
+SENT: Place a cover on the pot , reduce heat to low , and simmer the mixture until the beef is tender , about 2 1/2 hours .
 PREDID: 0
 PRED: place
   DOBJ: a cover
@@ -73,7 +73,7 @@ PRED: reduce
 PREDID: 2
 PRED: simmer
   DOBJ: the mixture
-  PARG: the beef is tender , about 2Ê1/2 hours
+  PARG: the beef is tender , about 2 1/2 hours
     PREP: until
 
 

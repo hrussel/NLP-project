@@ -128,9 +128,9 @@ PRED: spread
 
 
 SENTID: 11
-SENT: Bake until the loaf is no longer pink in the center and an instant-read meat thermometer reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1Ê1/2 hours .
+SENT: Bake until the loaf is no longer pink in the center and an instant-read meat thermometer reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1 1/2 hours .
 PREDID: 0
 PRED: bake
-  PARG: the loaf is no longer pink in the center, an instant-read meat thermometer reads at least 160 degrees f -lrb- 70 degrees c -rrb- , about 1Ê1/2 hours
+  PARG: the loaf is no longer pink in the center, an instant-read meat thermometer reads at least 160 degrees f -lrb- 70 degrees c -rrb- , about 1 1/2 hours
     PREP: until
 

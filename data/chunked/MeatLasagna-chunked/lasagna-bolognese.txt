@@ -59,11 +59,11 @@ PRED: drain
 
 
 SENTID: 5
-SENT: Drizzle the cooked noodles with about 1Ê1/2 teaspoons of olive oil to prevent them from sticking together .
+SENT: Drizzle the cooked noodles with about 1 1/2 teaspoons of olive oil to prevent them from sticking together .
 PREDID: 0
 PRED: drizzle
   DOBJ: the cooked noodles
-  PARG: about 1Ê1/2 teaspoons of olive oil
+  PARG: about 1 1/2 teaspoons of olive oil
     PREP: with
   PARG: sticking
     PREP: from

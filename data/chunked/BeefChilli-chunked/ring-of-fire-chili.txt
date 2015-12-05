@@ -19,10 +19,10 @@ PRED: discard
 
 
 SENTID: 2
-SENT: Add beef marrow bones , ground chuck , pork , beef short ribs , oxtail , beef shank , flank steak , onions , garlic , 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , and bay leaves to the pot .
+SENT: Add beef marrow bones , ground chuck , pork , beef short ribs , oxtail , beef shank , flank steak , onions , garlic , 1/4 cup chili powder , 2 tablespoons hot paprika , 1 1/2 teaspoon salt , 1 1/2 teaspoon black pepper , 1 1/2 teaspoon oregano , and bay leaves to the pot .
 PREDID: 0
 PRED: add
-  DOBJ: beef marrow bones , ground chuck , pork , beef short ribs , oxtail , beef shank , flank steak , onions , garlic , 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , bay leaves
+  DOBJ: beef marrow bones , ground chuck , pork , beef short ribs , oxtail , beef shank , flank steak , onions , garlic , 1/4 cup chili powder , 2 tablespoons hot paprika , 1 1/2 teaspoon salt , 1 1/2 teaspoon black pepper , 1 1/2 teaspoon oregano , bay leaves
   PARG: the pot
     PREP: to
 
@@ -136,10 +136,10 @@ PRED: discard
 
 
 SENTID: 12
-SENT: Stir 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , and ground cumin into chili -LRB- the ` second dump ' -RRB- Pour water into chili to desired thickness ;
+SENT: Stir 1/4 cup chili powder , 2 tablespoons hot paprika , 1 1/2 teaspoon salt , 1 1/2 teaspoon black pepper , 1 1/2 teaspoon oregano , and ground cumin into chili -LRB- the ` second dump ' -RRB- Pour water into chili to desired thickness ;
 PREDID: 0
 PRED: stir
-  DOBJ: 1/4 cup chili powder , 2 tablespoons hot paprika , 1Ê1/2 teaspoon salt , 1Ê1/2 teaspoon black pepper , 1Ê1/2 teaspoon oregano , ground cumin
+  DOBJ: 1/4 cup chili powder , 2 tablespoons hot paprika , 1 1/2 teaspoon salt , 1 1/2 teaspoon black pepper , 1 1/2 teaspoon oregano , ground cumin
   PARG: chili -lrb- the ` second dump ' -rrb-
     PREP: into
 

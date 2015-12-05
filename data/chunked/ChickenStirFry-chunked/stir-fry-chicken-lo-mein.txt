@@ -1,5 +1,5 @@
 SENTID: 0
-SENT: Prepare Grilled & Ready ¨ Frozen Grilled Chicken Breast Strips according to package directions .
+SENT: Prepare Grilled & Ready   Frozen Grilled Chicken Breast Strips according to package directions .
 PREDID: 0
 PRED: prepare
   DOBJ: grilled

@@ -12,10 +12,10 @@ PRED: break
 
 
 SENTID: 1
-SENT: Stir green bell pepper , onion , seasoned salt , 1Ê1/2 teaspoon ground annatto seed , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , and 1Ê1/2 teaspoon red pepper flakes through the ground beef ;
+SENT: Stir green bell pepper , onion , seasoned salt , 1 1/2 teaspoon ground annatto seed , 1 1/2 teaspoon ground cumin , 1 1/2 teaspoon paprika , and 1 1/2 teaspoon red pepper flakes through the ground beef ;
 PREDID: 0
 PRED: stir
-  DOBJ: green bell pepper , onion , seasoned salt , 1Ê1/2 teaspoon ground annatto seed , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , 1Ê1/2 teaspoon red pepper flakes
+  DOBJ: green bell pepper , onion , seasoned salt , 1 1/2 teaspoon ground annatto seed , 1 1/2 teaspoon ground cumin , 1 1/2 teaspoon paprika , 1 1/2 teaspoon red pepper flakes
 
 
 SENTID: 2
@@ -28,10 +28,10 @@ PRED: pour
 
 
 SENTID: 3
-SENT: season with chili seasoning , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , 1Ê1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , and garlic .
+SENT: season with chili seasoning , 1 1/2 teaspoon ground cumin , 1 1/2 teaspoon paprika , 1 1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , and garlic .
 PREDID: 0
 PRED: season
-  PARG: chili seasoning , 1Ê1/2 teaspoon ground cumin , 1Ê1/2 teaspoon paprika , 1Ê1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , garlic
+  PARG: chili seasoning , 1 1/2 teaspoon ground cumin , 1 1/2 teaspoon paprika , 1 1/2 teaspoon ground annatto seed , 1 teaspoon red pepper flakes , garlic
     PREP: with
 
 

@@ -26,14 +26,14 @@ PRED: stir
 
 
 SENTID: 3
-SENT: Lower heat and simmer for 1Ê1/2 hours , stirring occasionally .
+SENT: Lower heat and simmer for 1 1/2 hours , stirring occasionally .
 PREDID: 0
 PRED: lower
   DOBJ: heat
 
 PREDID: 1
 PRED: simmer
-  PARG: 1Ê1/2 hours , stirring
+  PARG: 1 1/2 hours , stirring
     PREP: for
   OARG: occasionally
 

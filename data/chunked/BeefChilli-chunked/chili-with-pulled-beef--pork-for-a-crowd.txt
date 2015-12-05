@@ -147,10 +147,10 @@ PRED: set
 
 
 SENTID: 18
-SENT: Add 2Ê1/2 cups water to the soup pot and cover with heavy-duty foil , pressing down so foil is concave and touches the meat .
+SENT: Add 2 1/2 cups water to the soup pot and cover with heavy-duty foil , pressing down so foil is concave and touches the meat .
 PREDID: 0
 PRED: add
-  DOBJ: 2Ê1/2 cups water
+  DOBJ: 2 1/2 cups water
   PARG: the soup pot
     PREP: to
 
@@ -289,10 +289,10 @@ PRED: add
 
 
 SENTID: 31
-SENT: Simmer until flavors are unified , 1 to 1Ê1/2 hours .
+SENT: Simmer until flavors are unified , 1 to 1 1/2 hours .
 PREDID: 0
 PRED: simmer
-  PARG: flavors are unified , 1 to 1Ê1/2 hours
+  PARG: flavors are unified , 1 to 1 1/2 hours
     PREP: until
 
 

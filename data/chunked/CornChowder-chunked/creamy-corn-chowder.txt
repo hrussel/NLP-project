@@ -52,10 +52,10 @@ PRED: remove
 
 
 SENTID: 6
-SENT: In a food processor or blender puree all but 1Ê1/2 cups of the vegetable and broth mixture with the tofu .
+SENT: In a food processor or blender puree all but 1 1/2 cups of the vegetable and broth mixture with the tofu .
 PREDID: 0
 PRED: puree
-  DOBJ: all but 1Ê1/2 cups of the vegetable, broth mixture
+  DOBJ: all but 1 1/2 cups of the vegetable, broth mixture
   PARG: a food processor or blender
     PREP: in
   PARG: the tofu
@@ -73,11 +73,11 @@ PRED: process
 
 
 SENTID: 8
-SENT: Combine the pureed mixture with the remaining 1Ê1/2 cups vegetable and broth mixture , and cook over low heat for 5 minutes ;
+SENT: Combine the pureed mixture with the remaining 1 1/2 cups vegetable and broth mixture , and cook over low heat for 5 minutes ;
 PREDID: 0
 PRED: combine
   DOBJ: the pureed mixture
-  PARG: the remaining 1Ê1/2 cups vegetable, broth mixture
+  PARG: the remaining 1 1/2 cups vegetable, broth mixture
     PREP: with
 
 PREDID: 1

@@ -8,10 +8,10 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: In a small bowl mix together 1Ê1/2 cups crushed gingersnaps and 1 tablespoon sugar .
+SENT: In a small bowl mix together 1 1/2 cups crushed gingersnaps and 1 tablespoon sugar .
 PREDID: 0
 PRED: mix
-  DOBJ: 1Ê1/2 cups crushed gingersnaps, 1 tablespoon sugar
+  DOBJ: 1 1/2 cups crushed gingersnaps, 1 tablespoon sugar
   PARG: a small bowl
     PREP: in
   OARG: together

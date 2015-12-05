@@ -28,11 +28,11 @@ PRED: transfer
 
 
 SENTID: 3
-SENT: Bake in the preheated oven until an instant-read meat thermometer inserted into the center of the meatloaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1Ê1/2 hours .
+SENT: Bake in the preheated oven until an instant-read meat thermometer inserted into the center of the meatloaf reads at least 160 degrees F -LRB- 70 degrees C -RRB- , about 1 1/2 hours .
 PREDID: 0
 PRED: bake
   PARG: the preheated oven
     PREP: in
-  PARG: an instant-read meat thermometer inserted into the center of the meatloaf reads at least 160 degrees f -lrb- 70 degrees c -rrb- , about 1Ê1/2 hours
+  PARG: an instant-read meat thermometer inserted into the center of the meatloaf reads at least 160 degrees f -lrb- 70 degrees c -rrb- , about 1 1/2 hours
     PREP: until
 

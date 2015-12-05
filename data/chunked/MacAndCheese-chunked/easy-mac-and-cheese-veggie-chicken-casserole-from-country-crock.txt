@@ -8,10 +8,10 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: Combine 3 tablespoons Country Crock ¨ Spread , milk , rotini , chicken , vegetables and cheddar cheese in 8-inch baking dish .
+SENT: Combine 3 tablespoons Country Crock   Spread , milk , rotini , chicken , vegetables and cheddar cheese in 8-inch baking dish .
 PREDID: 0
 PRED: combine
-  DOBJ: 3 tablespoons country crock ¨ spread , milk , rotini , chicken , vegetables, cheddar cheese
+  DOBJ: 3 tablespoons country crock   spread , milk , rotini , chicken , vegetables, cheddar cheese
   PARG: 8-inch baking dish
     PREP: in
 

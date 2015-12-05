@@ -38,10 +38,10 @@ PRED: stir
 
 
 SENTID: 4
-SENT: Season with pumpkin pie spice , chili powder and SPLENDA ¨ Granulated Sweetener .
+SENT: Season with pumpkin pie spice , chili powder and SPLENDA   Granulated Sweetener .
 PREDID: 0
 PRED: season
-  PARG: pumpkin pie spice , chili powder, splenda ¨ granulated sweetener
+  PARG: pumpkin pie spice , chili powder, splenda   granulated sweetener
     PREP: with
 
 

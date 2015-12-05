@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: Combine 1/4 cup Wish-Bone ¨ Italian Dressing with chipotle chile pepper in small bowl .
+SENT: Combine 1/4 cup Wish-Bone   Italian Dressing with chipotle chile pepper in small bowl .
 PREDID: 0
 PRED: combine
-  DOBJ: 1/4 cup wish-bone ¨ italian dressing
+  DOBJ: 1/4 cup wish-bone   italian dressing
   PARG: chipotle chile pepper
     PREP: with
   PARG: small bowl

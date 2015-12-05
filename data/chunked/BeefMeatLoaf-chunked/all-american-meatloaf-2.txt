@@ -31,13 +31,13 @@ PRED: pat
 
 
 SENTID: 3
-SENT: Bake meatloaf in the preheated oven until firm and no longer pink inside , 1 to 1Ê1/4 hours .
+SENT: Bake meatloaf in the preheated oven until firm and no longer pink inside , 1 to 1 1/4 hours .
 PREDID: 0
 PRED: bake
   DOBJ: meatloaf
   PARG: the preheated oven
     PREP: in
-  PARG: firm, no longer pink inside , 1 to 1Ê1/4 hours
+  PARG: firm, no longer pink inside , 1 to 1 1/4 hours
     PREP: until
 
 

@@ -32,14 +32,14 @@ PRED: reduce
 
 
 SENTID: 3
-SENT: Drain potatoes and reserve 2Ê1/2 cups of potato water .
+SENT: Drain potatoes and reserve 2 1/2 cups of potato water .
 PREDID: 0
 PRED: drain
   DOBJ: potatoes
 
 PREDID: 1
 PRED: reserve
-  DOBJ: 2Ê1/2 cups of potato water
+  DOBJ: 2 1/2 cups of potato water
 
 
 SENTID: 4
@@ -119,10 +119,10 @@ PRED: cook
 
 
 SENTID: 11
-SENT: Pour reserved 2Ê1/2 cups drained potato cooking water into mixture .
+SENT: Pour reserved 2 1/2 cups drained potato cooking water into mixture .
 PREDID: 0
 PRED: pour
-  DOBJ: reserved 2Ê1/2 cups drained potato cooking water
+  DOBJ: reserved 2 1/2 cups drained potato cooking water
   PARG: mixture
     PREP: into
 

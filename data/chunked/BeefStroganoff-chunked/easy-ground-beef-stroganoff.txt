@@ -44,10 +44,10 @@ PRED: stir
 
 
 SENTID: 5
-SENT: Stir together 1Ê1/2 cups cold water and flour ;
+SENT: Stir together 1 1/2 cups cold water and flour ;
 PREDID: 0
 PRED: stir
-  DOBJ: 1Ê1/2 cups cold water
+  DOBJ: 1 1/2 cups cold water
   OARG: together
 
 PREDID: 1

@@ -31,7 +31,7 @@ PRED: flour
 
 
 SENTID: 3
-SENT: Stir in eggs , oil , 1Ê1/4 teaspoon vanilla , pineapple and 3/4 cup chopped pecans .
+SENT: Stir in eggs , oil , 1 1/4 teaspoon vanilla , pineapple and 3/4 cup chopped pecans .
 PREDID: 0
 PRED: stir
   PARG: eggs
@@ -39,7 +39,7 @@ PRED: stir
 
 PREDID: 1
 PRED: oil
-  DOBJ: 1Ê1/4 teaspoon vanilla , pineapple, 3/4 cup chopped pecans
+  DOBJ: 1 1/4 teaspoon vanilla , pineapple, 3/4 cup chopped pecans
 
 
 SENTID: 4
@@ -71,10 +71,10 @@ PRED: allow
 
 
 SENTID: 7
-SENT: In a medium bowl , combine confectioners ' sugar , Neufchatel cheese , 1/2 cup butter or margarine and 1Ê1/4 teaspoons vanilla .
+SENT: In a medium bowl , combine confectioners ' sugar , Neufchatel cheese , 1/2 cup butter or margarine and 1 1/4 teaspoons vanilla .
 PREDID: 0
 PRED: combine
-  DOBJ: confectioners ' sugar , neufchatel cheese , 1/2 cup butter or margarine, 1Ê1/4 teaspoons vanilla
+  DOBJ: confectioners ' sugar , neufchatel cheese , 1/2 cup butter or margarine, 1 1/4 teaspoons vanilla
   PARG: a medium bowl
     PREP: in
 

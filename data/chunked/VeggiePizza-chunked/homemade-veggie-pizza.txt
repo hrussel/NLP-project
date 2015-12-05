@@ -190,10 +190,10 @@ PRED: spoon
 
 
 SENTID: 16
-SENT: Sprinkle with 1Ê1/4 cup mozzarella cheese ;
+SENT: Sprinkle with 1 1/4 cup mozzarella cheese ;
 PREDID: 0
 PRED: sprinkle
-  PARG: 1Ê1/4 cup mozzarella cheese
+  PARG: 1 1/4 cup mozzarella cheese
     PREP: with
 
 

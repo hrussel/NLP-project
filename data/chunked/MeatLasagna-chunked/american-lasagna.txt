@@ -17,10 +17,10 @@ PRED: drain
 
 
 SENTID: 2
-SENT: Mix in basil , oregano , brown sugar , 1Ê1/2 teaspoons salt , diced tomatoes and tomato paste .
+SENT: Mix in basil , oregano , brown sugar , 1 1/2 teaspoons salt , diced tomatoes and tomato paste .
 PREDID: 0
 PRED: mix
-  PARG: basil , oregano , brown sugar , 1Ê1/2 teaspoons salt , diced tomatoes, tomato paste
+  PARG: basil , oregano , brown sugar , 1 1/2 teaspoons salt , diced tomatoes, tomato paste
     PREP: in
 
 

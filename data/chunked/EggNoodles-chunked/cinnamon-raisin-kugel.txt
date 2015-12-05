@@ -89,7 +89,7 @@ PRED: sprinkle
 
 
 SENTID: 10
-SENT: Bake in the preheated oven until kugel is set in the middle , about 1Ê1/2 hours .
+SENT: Bake in the preheated oven until kugel is set in the middle , about 1 1/2 hours .
 PREDID: 0
 PRED: bake
   PARG: the preheated oven
@@ -101,7 +101,7 @@ PREDID: 1
 PRED: set
   PARG: the middle
     PREP: in
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: about
 
 

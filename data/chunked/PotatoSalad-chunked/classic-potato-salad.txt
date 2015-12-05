@@ -1,9 +1,9 @@
 SENTID: 0
-SENT: In 2Ê1/2 quart microwave-safe casserole dishcombine Simply Potatoes and water .
+SENT: In 2 1/2 quart microwave-safe casserole dishcombine Simply Potatoes and water .
 PREDID: 0
 PRED: water
   DOBJ: potatoes
-  PARG: 2Ê1/2 quart microwave-safe casserole dishcombine
+  PARG: 2 1/2 quart microwave-safe casserole dishcombine
     PREP: in
   OARG: simply
 

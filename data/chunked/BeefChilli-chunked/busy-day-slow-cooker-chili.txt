@@ -49,12 +49,12 @@ PRED: stir
 
 
 SENTID: 5
-SENT: Cook on Low 5Ê1/2 to 7Ê1/2 hours .
+SENT: Cook on Low 5 1/2 to 7 1/2 hours .
 PREDID: 0
 PRED: cook
-  PARG: low 5Ê1/2
+  PARG: low 5 1/2
     PREP: on
-  PARG: 7Ê1/2 hours
+  PARG: 7 1/2 hours
     PREP: to
 
 

@@ -115,10 +115,10 @@ PRED: use
 
 
 SENTID: 11
-SENT: Remove 1Ê1/2 cups of the cooking juices and strain into a saucepan .
+SENT: Remove 1 1/2 cups of the cooking juices and strain into a saucepan .
 PREDID: 0
 PRED: remove
-  DOBJ: 1Ê1/2 cups of the cooking juices
+  DOBJ: 1 1/2 cups of the cooking juices
 
 PREDID: 1
 PRED: strain

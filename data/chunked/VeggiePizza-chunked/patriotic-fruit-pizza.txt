@@ -17,7 +17,7 @@ PRED: whisk
 
 
 SENTID: 2
-SENT: In a large mixing bowl , mash the vegetable shortening and margarine together until thoroughly combined , and beat in 1Ê1/2 cup of sugar , eggs , and 1 teaspoon of vanilla extract .
+SENT: In a large mixing bowl , mash the vegetable shortening and margarine together until thoroughly combined , and beat in 1 1/2 cup of sugar , eggs , and 1 teaspoon of vanilla extract .
 PREDID: 0
 PRED: mash
   DOBJ: the vegetable shortening, margarine
@@ -29,7 +29,7 @@ PRED: mash
 
 PREDID: 1
 PRED: beat
-  PARG: 1Ê1/2 cup of sugar , eggs , 1 teaspoon of vanilla extract
+  PARG: 1 1/2 cup of sugar , eggs , 1 teaspoon of vanilla extract
     PREP: in
 
 

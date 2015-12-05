@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: In a large skillet , cook the Johnsonville ¨ Mild Italian Ground Sausage until browned .
+SENT: In a large skillet , cook the Johnsonville   Mild Italian Ground Sausage until browned .
 PREDID: 0
 PRED: cook
-  DOBJ: the johnsonville ¨ mild italian ground sausage
+  DOBJ: the johnsonville   mild italian ground sausage
   PARG: a large skillet
     PREP: in
   PARG: browned
@@ -121,10 +121,10 @@ PRED: remove
 
 
 SENTID: 12
-SENT: In a small bowl , combine the Classico ¨ Four Cheese Alfredo pasta sauce and Italian seasoning .
+SENT: In a small bowl , combine the Classico   Four Cheese Alfredo pasta sauce and Italian seasoning .
 PREDID: 0
 PRED: combine
-  DOBJ: the classico ¨ four cheese alfredo pasta sauce, italian seasoning
+  DOBJ: the classico   four cheese alfredo pasta sauce, italian seasoning
   PARG: a small bowl
     PREP: in
 
@@ -151,10 +151,10 @@ PRED: layer
 
 
 SENTID: 15
-SENT: Top with half of the remaining Classico ¨ Four Cheese Alfredo pasta sauce , half of the cottage cheese mixture , half the hash browns , half of the scrambled egg mixture and half of the sausage mixture .
+SENT: Top with half of the remaining Classico   Four Cheese Alfredo pasta sauce , half of the cottage cheese mixture , half the hash browns , half of the scrambled egg mixture and half of the sausage mixture .
 PREDID: 0
 PRED: top
-  PARG: half of the remaining classico ¨ four cheese alfredo pasta sauce , half of the cottage cheese mixture , half the hash browns , half of the scrambled egg mixture, half of the sausage mixture
+  PARG: half of the remaining classico   four cheese alfredo pasta sauce , half of the cottage cheese mixture , half the hash browns , half of the scrambled egg mixture, half of the sausage mixture
     PREP: with
 
 

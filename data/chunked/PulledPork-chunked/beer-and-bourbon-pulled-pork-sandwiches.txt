@@ -60,14 +60,14 @@ PRED: transfer
 
 
 SENTID: 6
-SENT: Wipe skillet clean and heat remaining 1Ê1/2 teaspoon canola oil and butter over medium heat ;
+SENT: Wipe skillet clean and heat remaining 1 1/2 teaspoon canola oil and butter over medium heat ;
 PREDID: 0
 PRED: wipe
   DOBJ: skillet clean
 
 PREDID: 1
 PRED: heat
-  DOBJ: remaining 1Ê1/2 teaspoon canola oil
+  DOBJ: remaining 1 1/2 teaspoon canola oil
 
 PREDID: 2
 PRED: butter

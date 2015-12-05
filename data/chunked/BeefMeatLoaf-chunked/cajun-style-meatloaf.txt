@@ -97,7 +97,7 @@ PRED: remove
 
 
 SENTID: 11
-SENT: Mix well by hand , and form into a loaf about 1Ê1/2 inches high .
+SENT: Mix well by hand , and form into a loaf about 1 1/2 inches high .
 PREDID: 0
 PRED: mix
   PARG: hand
@@ -108,7 +108,7 @@ PREDID: 1
 PRED: form
   PARG: a loaf
     PREP: into
-  PARG: 1Ê1/2 inches high
+  PARG: 1 1/2 inches high
     PREP: about
 
 

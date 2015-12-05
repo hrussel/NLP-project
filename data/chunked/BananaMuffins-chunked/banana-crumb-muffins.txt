@@ -21,10 +21,10 @@ PRED: line
 
 
 SENTID: 2
-SENT: In a large bowl , mix together 1Ê1/2 cups flour , baking soda , baking powder and salt .
+SENT: In a large bowl , mix together 1 1/2 cups flour , baking soda , baking powder and salt .
 PREDID: 0
 PRED: mix
-  DOBJ: 1Ê1/2 cups flour , baking soda , baking powder, salt
+  DOBJ: 1 1/2 cups flour , baking soda , baking powder, salt
   PARG: a large bowl
     PREP: in
   OARG: together

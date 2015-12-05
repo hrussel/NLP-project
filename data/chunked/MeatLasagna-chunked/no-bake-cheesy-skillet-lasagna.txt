@@ -19,10 +19,10 @@ PRED: drain
 
 
 SENTID: 2
-SENT: Stir in 1Ê1/2 cups water , cooking sauce and noodles .
+SENT: Stir in 1 1/2 cups water , cooking sauce and noodles .
 PREDID: 0
 PRED: stir
-  PARG: 1Ê1/2 cups water , cooking sauce, noodles
+  PARG: 1 1/2 cups water , cooking sauce, noodles
     PREP: in
 
 

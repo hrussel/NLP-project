@@ -111,12 +111,12 @@ PRED: grease
 
 
 SENTID: 11
-SENT: Put in noodles at about a 1Ê1/2 inch depth and pour chicken mixture over noodles .
+SENT: Put in noodles at about a 1 1/2 inch depth and pour chicken mixture over noodles .
 PREDID: 0
 PRED: put
   PARG: noodles
     PREP: in
-  PARG: about a 1Ê1/2 inch depth
+  PARG: about a 1 1/2 inch depth
     PREP: at
 
 PREDID: 1

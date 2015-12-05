@@ -88,10 +88,10 @@ PRED: melt
 
 
 SENTID: 8
-SENT: cook and stir 2 cups celery and 1Ê1/2 cups onion until onion is translucent , about 5 minutes .
+SENT: cook and stir 2 cups celery and 1 1/2 cups onion until onion is translucent , about 5 minutes .
 PREDID: 0
 PRED: cook
-  DOBJ: 2 cups celery, 1Ê1/2 cups onion
+  DOBJ: 2 cups celery, 1 1/2 cups onion
 
 PREDID: 1
 PRED: stir

@@ -59,7 +59,7 @@ PRED: bake
 
 
 SENTID: 6
-SENT: Remove from oven , and cover the loaf with the remaining 1Ê1/2 cans of tomato soup .
+SENT: Remove from oven , and cover the loaf with the remaining 1 1/2 cans of tomato soup .
 PREDID: 0
 PRED: remove
   PARG: oven
@@ -68,7 +68,7 @@ PRED: remove
 PREDID: 1
 PRED: cover
   DOBJ: the loaf
-  PARG: the remaining 1Ê1/2 cans of tomato soup
+  PARG: the remaining 1 1/2 cans of tomato soup
     PREP: with
 
 

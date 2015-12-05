@@ -73,10 +73,10 @@ PRED: simmer
 
 
 SENTID: 8
-SENT: Add 1Ê1/2 cups cheese ;
+SENT: Add 1 1/2 cups cheese ;
 PREDID: 0
 PRED: add
-  DOBJ: 1Ê1/2 cups cheese
+  DOBJ: 1 1/2 cups cheese
 
 
 SENTID: 9
@@ -114,10 +114,10 @@ PRED: mix
 
 
 SENTID: 13
-SENT: Spoon into 1Ê1/2 quart casserole ;
+SENT: Spoon into 1 1/2 quart casserole ;
 PREDID: 0
 PRED: spoon
-  PARG: 1Ê1/2 quart casserole
+  PARG: 1 1/2 quart casserole
     PREP: into
 
 

@@ -78,7 +78,7 @@ PRED: bring
 
 
 SENTID: 8
-SENT: Reduce heat to low and simmer , uncovered , until beef is tender , 2Ê1/2 to 3 hours .
+SENT: Reduce heat to low and simmer , uncovered , until beef is tender , 2 1/2 to 3 hours .
 PREDID: 0
 PRED: reduce
   DOBJ: heat
@@ -88,6 +88,6 @@ PRED: reduce
 PREDID: 1
 PRED: simmer
   DOBJ: uncovered
-  PARG: beef is tender , 2Ê1/2 to 3 hours
+  PARG: beef is tender , 2 1/2 to 3 hours
     PREP: until
 

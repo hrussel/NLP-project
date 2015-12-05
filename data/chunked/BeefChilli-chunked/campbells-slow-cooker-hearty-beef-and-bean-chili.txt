@@ -20,11 +20,11 @@ PRED: pour
 
 
 SENTID: 2
-SENT: Stir the beef , onion , garlic , soup , tomatoes , water , beans , chili powder and cumin in a 3Ê1/2 - quart slow cooker .
+SENT: Stir the beef , onion , garlic , soup , tomatoes , water , beans , chili powder and cumin in a 3 1/2 - quart slow cooker .
 PREDID: 0
 PRED: stir
   DOBJ: the beef , onion , garlic , soup , tomatoes , water , beans , chili powder, cumin
-  PARG: a 3Ê1/2 - quart slow cooker
+  PARG: a 3 1/2 - quart slow cooker
     PREP: in
 
 

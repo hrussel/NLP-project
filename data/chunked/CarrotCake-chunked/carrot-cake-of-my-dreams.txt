@@ -8,11 +8,11 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: Grease a fluted tube pan -LRB- such as Bundt ¨ -RRB- .
+SENT: Grease a fluted tube pan -LRB- such as Bundt   -RRB- .
 PREDID: 0
 PRED: grease
   DOBJ: a fluted tube pan -lrb- such
-  PARG: bundt ¨ -rrb-
+  PARG: bundt   -rrb-
     PREP: as
 
 

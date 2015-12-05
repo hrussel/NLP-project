@@ -50,10 +50,10 @@ PRED: cook
 
 
 SENTID: 5
-SENT: Add the lime juice , chili powder , cayenne pepper , black pepper , salt , and 1Ê1/2 bottles of dark beer .
+SENT: Add the lime juice , chili powder , cayenne pepper , black pepper , salt , and 1 1/2 bottles of dark beer .
 PREDID: 0
 PRED: add
-  DOBJ: the lime juice , chili powder , cayenne pepper , black pepper , salt , 1Ê1/2 bottles of dark beer
+  DOBJ: the lime juice , chili powder , cayenne pepper , black pepper , salt , 1 1/2 bottles of dark beer
 
 
 SENTID: 6

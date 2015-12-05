@@ -85,14 +85,14 @@ PRED: tip
 
 
 SENTID: 10
-SENT: Wipe off any grease or spills on the countertop with Clorox ¨ Disinfecting Wipes.
+SENT: Wipe off any grease or spills on the countertop with Clorox   Disinfecting Wipes.
 PREDID: 0
 PRED: wipe
   PARG: any grease or spills
     PREP: off
   PARG: the countertop
     PREP: on
-  PARG: clorox ¨ disinfecting wipes.
+  PARG: clorox   disinfecting wipes.
     PREP: with
 
 

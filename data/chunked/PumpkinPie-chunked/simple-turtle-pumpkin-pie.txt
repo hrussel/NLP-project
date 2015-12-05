@@ -79,10 +79,10 @@ PRED: whisk
 
 
 SENTID: 8
-SENT: Stir 1Ê1/2 cups whipped topping into pumpkin mixture .
+SENT: Stir 1 1/2 cups whipped topping into pumpkin mixture .
 PREDID: 0
 PRED: stir
-  DOBJ: 1Ê1/2 cups whipped topping
+  DOBJ: 1 1/2 cups whipped topping
   PARG: pumpkin mixture
     PREP: into
 

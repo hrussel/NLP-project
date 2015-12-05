@@ -48,14 +48,14 @@ PRED: skim
 
 
 SENTID: 4
-SENT: Cover loosely , and simmer until the meat is tender , about 1Ê1/2 hours .
+SENT: Cover loosely , and simmer until the meat is tender , about 1 1/2 hours .
 PREDID: 0
 PRED: cover
   OARG: loosely
 
 PREDID: 1
 PRED: simmer
-  PARG: the meat is tender , about 1Ê1/2 hours
+  PARG: the meat is tender , about 1 1/2 hours
     PREP: until
 
 

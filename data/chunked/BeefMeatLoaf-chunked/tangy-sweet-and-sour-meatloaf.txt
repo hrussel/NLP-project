@@ -55,10 +55,10 @@ PRED: bake
 
 
 SENTID: 5
-SENT: Meanwhile , in a small saucepan over medium heat , combine the remaining tomato sauce , SPLENDA ¨ Brown Sugar Blend , vinegar , SPLENDA ¨ Granulated Sweetener and mustard .
+SENT: Meanwhile , in a small saucepan over medium heat , combine the remaining tomato sauce , SPLENDA   Brown Sugar Blend , vinegar , SPLENDA   Granulated Sweetener and mustard .
 PREDID: 0
 PRED: combine
-  DOBJ: the remaining tomato sauce , splenda ¨ brown sugar blend , vinegar , splenda ¨ granulated sweetener, mustard
+  DOBJ: the remaining tomato sauce , splenda   brown sugar blend , vinegar , splenda   granulated sweetener, mustard
   PARG: a small saucepan
     PREP: in
   PARG: medium heat

@@ -55,19 +55,19 @@ PRED: reserve
 
 
 SENTID: 5
-SENT: place 2Ê1/4 cup of crumbs into a large mixing bowl .
+SENT: place 2 1/4 cup of crumbs into a large mixing bowl .
 PREDID: 0
 PRED: place
-  DOBJ: 2Ê1/4 cup of crumbs
+  DOBJ: 2 1/4 cup of crumbs
   PARG: a large mixing bowl
     PREP: into
 
 
 SENTID: 6
-SENT: Mix the 2Ê1/4 cups of cracker crumbs in the mixing bowl with ground beef , Worcestershire sauce , steak sauce , mustard , black pepper , soda , rosemary , cayenne pepper , cinnamon , garlic powder , dill relish , sweet relish , egg , self-rising flour , tomato sauce , and onion until thoroughly combined .
+SENT: Mix the 2 1/4 cups of cracker crumbs in the mixing bowl with ground beef , Worcestershire sauce , steak sauce , mustard , black pepper , soda , rosemary , cayenne pepper , cinnamon , garlic powder , dill relish , sweet relish , egg , self-rising flour , tomato sauce , and onion until thoroughly combined .
 PREDID: 0
 PRED: mix
-  DOBJ: the 2Ê1/4 cups of cracker crumbs
+  DOBJ: the 2 1/4 cups of cracker crumbs
   PARG: the mixing bowl
     PREP: in
   PARG: ground beef , worcestershire sauce , steak sauce , mustard , black pepper , soda , rosemary , cayenne pepper , cinnamon , garlic powder , dill relish , sweet relish , egg , self-rising flour , tomato sauce , onion

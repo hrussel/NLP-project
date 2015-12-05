@@ -98,10 +98,10 @@ PRED: set
 
 
 SENTID: 7
-SENT: Make the peanut sauce by stirring together peanut butter and 3Ê1/2 cups of water in a saucepan over medium heat until mixture is smooth and the peanut butter is melted .
+SENT: Make the peanut sauce by stirring together peanut butter and 3 1/2 cups of water in a saucepan over medium heat until mixture is smooth and the peanut butter is melted .
 PREDID: 0
 PRED: make
-  DOBJ: peanut butter, 3Ê1/2 cups of water
+  DOBJ: peanut butter, 3 1/2 cups of water
   PARG: stirring
     PREP: by
   PARG: a saucepan

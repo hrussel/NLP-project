@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: Bring 1Ê1/2 cups water to a boil in a small saucepan .
+SENT: Bring 1 1/2 cups water to a boil in a small saucepan .
 PREDID: 0
 PRED: bring
-  DOBJ: 1Ê1/2 cups water
+  DOBJ: 1 1/2 cups water
   PARG: a boil
     PREP: to
   PARG: a small saucepan

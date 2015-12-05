@@ -86,12 +86,12 @@ PRED: cover
 
 
 SENTID: 9
-SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1Ê1/2 hours , or until noodles are tender .
+SENT: Bake at 350 degrees F -LRB- 175 degrees C -RRB- for 1 1/2 hours , or until noodles are tender .
 PREDID: 0
 PRED: bake
   PARG: 350 degrees f -lrb- 175 degrees c -rrb-
     PREP: at
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
   PARG: noodles are tender
     PREP: until

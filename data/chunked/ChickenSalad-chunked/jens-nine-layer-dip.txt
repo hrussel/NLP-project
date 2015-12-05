@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: Place the chicken , 1Ê1/2 tablespoons of cilantro , and vegetable oil in a skillet over medium heat , and pan-fry the chicken breasts until lightly golden brown , no longer pink in the middle , and the juices run clear , about 5 minutes per side .
+SENT: Place the chicken , 1 1/2 tablespoons of cilantro , and vegetable oil in a skillet over medium heat , and pan-fry the chicken breasts until lightly golden brown , no longer pink in the middle , and the juices run clear , about 5 minutes per side .
 PREDID: 0
 PRED: place
-  DOBJ: the chicken , 1Ê1/2 tablespoons of cilantro , vegetable oil
+  DOBJ: the chicken , 1 1/2 tablespoons of cilantro , vegetable oil
   PARG: a skillet
     PREP: in
   PARG: medium heat , pan-fry the chicken breasts
@@ -120,10 +120,10 @@ PRED: cheese
 
 
 SENTID: 9
-SENT: Sprinkle the top with 1Ê1/2 tablespoons of cilantro , black olives , green onions , and 1/4 cup of shredded cheddar cheese .
+SENT: Sprinkle the top with 1 1/2 tablespoons of cilantro , black olives , green onions , and 1/4 cup of shredded cheddar cheese .
 PREDID: 0
 PRED: sprinkle
   DOBJ: the top
-  PARG: 1Ê1/2 tablespoons of cilantro , black olives , green onions , 1/4 cup of shredded cheddar cheese
+  PARG: 1 1/2 tablespoons of cilantro , black olives , green onions , 1/4 cup of shredded cheddar cheese
     PREP: with
 

@@ -28,11 +28,11 @@ PRED: tip
 
 
 SENTID: 3
-SENT: Once the stove top is cool , wipe up any oil splatters with Clorox ¨ Disinfecting Wipes.
+SENT: Once the stove top is cool , wipe up any oil splatters with Clorox   Disinfecting Wipes.
 PREDID: 0
 PRED: wipe
   DOBJ: the stove top is cool
-  PARG: clorox ¨ disinfecting wipes.
+  PARG: clorox   disinfecting wipes.
     PREP: with
   OARG: once
   OARG: up
@@ -194,8 +194,8 @@ PRED: stir
 
 
 SENTID: 18
-SENT: Makes 3Ê1/2 cups .
+SENT: Makes 3 1/2 cups .
 PREDID: 0
 PRED: makes
-  DOBJ: 3Ê1/2 cups
+  DOBJ: 3 1/2 cups
 

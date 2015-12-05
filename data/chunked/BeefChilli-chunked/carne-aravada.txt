@@ -111,9 +111,9 @@ PRED: transfer
 
 
 SENTID: 10
-SENT: Simmer until tender , about 1Ê1/2 hours .
+SENT: Simmer until tender , about 1 1/2 hours .
 PREDID: 0
 PRED: simmer
-  PARG: tender , about 1Ê1/2 hours
+  PARG: tender , about 1 1/2 hours
     PREP: until
 

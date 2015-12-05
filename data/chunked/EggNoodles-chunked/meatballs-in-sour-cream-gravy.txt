@@ -27,10 +27,10 @@ PRED: drain
 
 
 SENTID: 2
-SENT: In a bowl , mix the beef , 1Ê1/4 teaspoons salt , pepper , eggs , and onion .
+SENT: In a bowl , mix the beef , 1 1/4 teaspoons salt , pepper , eggs , and onion .
 PREDID: 0
 PRED: mix
-  DOBJ: the beef , 1Ê1/4 teaspoons salt , pepper , eggs , onion
+  DOBJ: the beef , 1 1/4 teaspoons salt , pepper , eggs , onion
   PARG: a bowl
     PREP: in
 

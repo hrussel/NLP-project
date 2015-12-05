@@ -54,10 +54,10 @@ PRED: reduce
 
 
 SENTID: 5
-SENT: Simmer for 1Ê1/2 hours .
+SENT: Simmer for 1 1/2 hours .
 PREDID: 0
 PRED: simmer
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
 
 

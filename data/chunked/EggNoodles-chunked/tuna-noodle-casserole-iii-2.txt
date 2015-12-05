@@ -37,11 +37,11 @@ PRED: drain
 
 
 SENTID: 4
-SENT: In a 1Ê1/2 quart glass casserole dish , layer noodles , butter cubes , 2 slices of cheese , 1/2 of the tuna , and 1/2 of the soup .
+SENT: In a 1 1/2 quart glass casserole dish , layer noodles , butter cubes , 2 slices of cheese , 1/2 of the tuna , and 1/2 of the soup .
 PREDID: 0
 PRED: layer
   DOBJ: noodles , butter cubes , 2 slices of cheese , 1/2 of the tuna , 1/2 of the soup
-  PARG: a 1Ê1/2 quart glass casserole dish
+  PARG: a 1 1/2 quart glass casserole dish
     PREP: in
 
 

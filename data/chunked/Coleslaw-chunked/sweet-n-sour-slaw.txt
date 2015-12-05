@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: In a jar with lid , combine SPLENDA ¨ Granulated Sweetener , vinegar , water , salt , mustard seed and celery seed .
+SENT: In a jar with lid , combine SPLENDA   Granulated Sweetener , vinegar , water , salt , mustard seed and celery seed .
 PREDID: 0
 PRED: combine
-  DOBJ: splenda ¨ granulated sweetener , vinegar , water , salt , mustard seed, celery seed
+  DOBJ: splenda   granulated sweetener , vinegar , water , salt , mustard seed, celery seed
   PARG: a jar
     PREP: in
   PARG: lid

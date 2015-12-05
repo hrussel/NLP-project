@@ -141,10 +141,10 @@ PRED: place
 
 
 SENTID: 10
-SENT: Spoon about 1Ê1/2 tablespoons of the queso sauce over each roll .
+SENT: Spoon about 1 1/2 tablespoons of the queso sauce over each roll .
 PREDID: 0
 PRED: spoon
-  PARG: 1Ê1/2 tablespoons of the queso sauce
+  PARG: 1 1/2 tablespoons of the queso sauce
     PREP: about
   PARG: each roll
     PREP: over

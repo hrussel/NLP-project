@@ -17,10 +17,10 @@ PRED: spray
 
 
 SENTID: 2
-SENT: Whisk 1Ê1/2 cups sifted whole wheat flour with baking soda , baking powder , salt , and 1/2 teaspoon cinnamon in a large bowl .
+SENT: Whisk 1 1/2 cups sifted whole wheat flour with baking soda , baking powder , salt , and 1/2 teaspoon cinnamon in a large bowl .
 PREDID: 0
 PRED: whisk
-  DOBJ: 1Ê1/2 cups sifted whole wheat flour
+  DOBJ: 1 1/2 cups sifted whole wheat flour
   PARG: baking soda , baking powder , salt , 1/2 teaspoon cinnamon
     PREP: with
   PARG: a large bowl

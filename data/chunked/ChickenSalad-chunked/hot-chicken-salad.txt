@@ -15,10 +15,10 @@ PRED: combine
 
 
 SENTID: 2
-SENT: Mix well and pour into a 1Ê1/2 quart casserole dish .
+SENT: Mix well and pour into a 1 1/2 quart casserole dish .
 PREDID: 0
 PRED: mix
-  PARG: a 1Ê1/2 quart casserole dish
+  PARG: a 1 1/2 quart casserole dish
     PREP: into
   OARG: well
 

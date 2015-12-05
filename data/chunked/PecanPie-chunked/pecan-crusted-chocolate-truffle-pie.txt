@@ -45,7 +45,7 @@ PRED: cool
 
 
 SENTID: 5
-SENT: In a metal bowl set over a pan of simmering water , combine 1Ê1/3 cups chocolate chips and 1/2 cup butter .
+SENT: In a metal bowl set over a pan of simmering water , combine 1 1/3 cups chocolate chips and 1/2 cup butter .
 PREDID: 0
 PRED: set
   PARG: a metal bowl
@@ -55,7 +55,7 @@ PRED: set
 
 PREDID: 1
 PRED: combine
-  DOBJ: 1Ê1/3 cups chocolate chips, 1/2 cup butter
+  DOBJ: 1 1/3 cups chocolate chips, 1/2 cup butter
 
 
 SENTID: 6

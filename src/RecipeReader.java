@@ -30,6 +30,7 @@ public class RecipeReader {
         Scanner scSemiText = null;
         Recipe recipe = new Recipe();
         String sentence = "";
+        String lastLine = "";
         int offset=-1;
         try {
             //"data/chunked/BeefMeatLoaf-chunked/amish-meatloaf.txt"
@@ -41,10 +42,11 @@ public class RecipeReader {
             Action currentAction = null;
             while (sc.hasNextLine()) {
                 String s = sc.nextLine();
+                lastLine = s;
 
                 if (s.contains("SENTID: ")) {
                     String line = sc.nextLine().trim();
-
+                    lastLine = line;
                     //System.out.println(line);
                     line = getSubString("SENT: ", line);
                     String semi_s = null;
@@ -103,6 +105,7 @@ public class RecipeReader {
                 if (s.contains("PARG: ")) {
                     String argumentString = getSubString("PARG: ",s);
                     String prep = sc.nextLine();
+                    lastLine = prep;
                     prep = getSubString("PREP: ", prep);
                     Argument argument = new Argument();
 
@@ -120,16 +123,15 @@ public class RecipeReader {
                 if (s.contains("OARG: ")) {
                     String oargString = getSubString("OARG: ", s);
                     StringSpan predicate = currentAction.getPredicate();
-                    String word = predicate.getWord() + " " + oargString;
-                    predicate.setWord(word);
-                    int wordIdx = offset+sentence.indexOf(word);
+                    predicate.addExtra(oargString);
+                    int wordIdx = offset+sentence.indexOf(predicate.getBaseWord());
                     predicate.setStart(wordIdx);
-                    predicate.setEnd(wordIdx+word.length());
+                    predicate.setEnd(wordIdx+predicate.getBaseWord().length());
                 }
 
             }
             sc.close();
-            chunkedTextFile = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename + ".txt");
+            chunkedTextFile = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename);
             sc = new Scanner(chunkedTextFile);
             //TODO @Oz add connection
             while (sc.hasNextLine()) {
@@ -157,7 +159,7 @@ public class RecipeReader {
                     break;
                 }
             }
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         } finally {
             if (sc != null) {

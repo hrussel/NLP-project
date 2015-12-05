@@ -34,14 +34,14 @@ PRED: add
 
 
 SENTID: 3
-SENT: Cook in the microwave at 70 percent power until the meatloaf is firm and no longer pink in the center , 4 to 5Ê1/2 minutes depending on the microwave .
+SENT: Cook in the microwave at 70 percent power until the meatloaf is firm and no longer pink in the center , 4 to 5 1/2 minutes depending on the microwave .
 PREDID: 0
 PRED: cook
   PARG: the microwave
     PREP: in
   PARG: 70 percent power
     PREP: at
-  PARG: the meatloaf is firm, no longer pink in the center , 4 to 5Ê1/2 minutes depending on the microwave
+  PARG: the meatloaf is firm, no longer pink in the center , 4 to 5 1/2 minutes depending on the microwave
     PREP: until
 
 

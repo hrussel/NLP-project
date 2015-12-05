@@ -171,10 +171,10 @@ PRED: stir
 
 
 SENTID: 15
-SENT: Stir in 1 tablespoon of olive oil , the frozen peas , the juice of 1 lime , and 1Ê1/2 teaspoons of salt .
+SENT: Stir in 1 tablespoon of olive oil , the frozen peas , the juice of 1 lime , and 1 1/2 teaspoons of salt .
 PREDID: 0
 PRED: stir
-  PARG: 1 tablespoon of olive oil , the frozen peas , the juice of 1 lime , 1Ê1/2 teaspoons of salt
+  PARG: 1 tablespoon of olive oil , the frozen peas , the juice of 1 lime , 1 1/2 teaspoons of salt
     PREP: in
 
 

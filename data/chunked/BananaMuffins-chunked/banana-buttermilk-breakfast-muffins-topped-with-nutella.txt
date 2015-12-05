@@ -88,10 +88,10 @@ PRED: transfer
 
 
 SENTID: 9
-SENT: Spread each muffin with 1 tablespoon -LRB- 15 mL -RRB- of NUTELLA ¨ .
+SENT: Spread each muffin with 1 tablespoon -LRB- 15 mL -RRB- of NUTELLA   .
 PREDID: 0
 PRED: spread
   DOBJ: each muffin
-  PARG: 1 tablespoon -lrb- 15 ml -rrb- of nutella ¨
+  PARG: 1 tablespoon -lrb- 15 ml -rrb- of nutella
     PREP: with
 

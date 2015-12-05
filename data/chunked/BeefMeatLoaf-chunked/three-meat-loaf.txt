@@ -25,10 +25,10 @@ PRED: set
 
 
 SENTID: 3
-SENT: Mix thoroughly ground beef , ground turkey , ground lamb , 2Ê1/4 cup tomato sauce , oats , egg , sweet onion , salt , and pepper in a large bowl ;
+SENT: Mix thoroughly ground beef , ground turkey , ground lamb , 2 1/4 cup tomato sauce , oats , egg , sweet onion , salt , and pepper in a large bowl ;
 PREDID: 0
 PRED: mix
-  DOBJ: ground beef , ground turkey , ground lamb , 2Ê1/4 cup tomato sauce , oats , egg , sweet onion , salt , pepper
+  DOBJ: ground beef , ground turkey , ground lamb , 2 1/4 cup tomato sauce , oats , egg , sweet onion , salt , pepper
   PARG: a large bowl
     PREP: in
   OARG: thoroughly

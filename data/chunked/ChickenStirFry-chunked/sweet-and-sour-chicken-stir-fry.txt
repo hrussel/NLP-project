@@ -1,8 +1,8 @@
 SENTID: 0
-SENT: Combine SMUCKER 'S ¨ preserves , vinegar , garlic salt , ginger , soy sauce and crushed red pepper flakes ;
+SENT: Combine SMUCKER 'S   preserves , vinegar , garlic salt , ginger , soy sauce and crushed red pepper flakes ;
 PREDID: 0
 PRED: combine
-  DOBJ: smucker 's ¨ preserves , vinegar , garlic salt , ginger , soy sauce, crushed red pepper flakes
+  DOBJ: smucker 's   preserves , vinegar , garlic salt , ginger , soy sauce, crushed red pepper flakes
 
 
 SENTID: 1

@@ -78,7 +78,7 @@ PRED: drizzle
 
 
 SENTID: 7
-SENT: Transfer all to a large bowl with sliced onions and mix Maille ¨ Dijon Originale mustard into salad .
+SENT: Transfer all to a large bowl with sliced onions and mix Maille   Dijon Originale mustard into salad .
 PREDID: 0
 PRED: transfer
   DOBJ: all to a large bowl
@@ -87,7 +87,7 @@ PRED: transfer
 
 PREDID: 1
 PRED: mix
-  DOBJ: maille ¨ dijon originale mustard
+  DOBJ: maille   dijon originale mustard
   PARG: salad
     PREP: into
 

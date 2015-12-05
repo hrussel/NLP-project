@@ -54,11 +54,11 @@ PRED: cover
 
 
 SENTID: 5
-SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 1Ê1/2 hours .
+SENT: Bake at 375 degrees F -LRB- 190 degrees C -RRB- for 1 1/2 hours .
 PREDID: 0
 PRED: bake
   PARG: 375 degrees f -lrb- 190 degrees c -rrb-
     PREP: at
-  PARG: 1Ê1/2 hours
+  PARG: 1 1/2 hours
     PREP: for
 

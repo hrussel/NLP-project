@@ -67,10 +67,10 @@ PRED: reduce
 
 
 SENTID: 5
-SENT: simmer until stock has reduced to about 1Ê1/2 cups of liquid , about 2 hours .
+SENT: simmer until stock has reduced to about 1 1/2 cups of liquid , about 2 hours .
 PREDID: 0
 PRED: simmer
-  PARG: stock has reduced to about 1Ê1/2 cups of liquid , about 2 hours
+  PARG: stock has reduced to about 1 1/2 cups of liquid , about 2 hours
     PREP: until
 
 

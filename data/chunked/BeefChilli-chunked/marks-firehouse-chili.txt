@@ -32,7 +32,7 @@ PRED: stir
 
 
 SENTID: 3
-SENT: Bring mixture to a boil , reduce heat to low , and cook at a simmer until thickened , 1 to 1Ê1/2 hours .
+SENT: Bring mixture to a boil , reduce heat to low , and cook at a simmer until thickened , 1 to 1 1/2 hours .
 PREDID: 0
 PRED: bring
   DOBJ: mixture
@@ -49,6 +49,6 @@ PREDID: 2
 PRED: cook
   PARG: a simmer
     PREP: at
-  PARG: thickened , 1 to 1Ê1/2 hours
+  PARG: thickened , 1 to 1 1/2 hours
     PREP: until
 

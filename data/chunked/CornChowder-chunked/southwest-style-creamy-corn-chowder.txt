@@ -8,7 +8,7 @@ PRED: place
 
 
 SENTID: 1
-SENT: Cook on High for 1 hour , then reduce heat to Low and cook for an additional 2Ê1/2 hours .
+SENT: Cook on High for 1 hour , then reduce heat to Low and cook for an additional 2 1/2 hours .
 PREDID: 0
 PRED: cook
   PARG: high
@@ -25,6 +25,6 @@ PRED: reduce
 
 PREDID: 2
 PRED: cook
-  PARG: an additional 2Ê1/2 hours
+  PARG: an additional 2 1/2 hours
     PREP: for
 

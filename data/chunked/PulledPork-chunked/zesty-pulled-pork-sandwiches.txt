@@ -20,7 +20,7 @@ PRED: coat
 
 
 SENTID: 2
-SENT: Cover and cook on High until pork is very tender , about 4Ê1/2 hours .
+SENT: Cover and cook on High until pork is very tender , about 4 1/2 hours .
 PREDID: 0
 PRED: cover
   PARG: high
@@ -28,7 +28,7 @@ PRED: cover
 
 PREDID: 1
 PRED: cook
-  PARG: pork is very tender , about 4Ê1/2 hours
+  PARG: pork is very tender , about 4 1/2 hours
     PREP: until
 
 

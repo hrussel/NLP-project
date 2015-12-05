@@ -10,11 +10,11 @@ PRED: cut
 
 
 SENTID: 1
-SENT: Cut remaining loaf into 1Ê1/2 inch slices ;
+SENT: Cut remaining loaf into 1 1/2 inch slices ;
 PREDID: 0
 PRED: cut
   DOBJ: remaining loaf
-  PARG: 1Ê1/2 inch slices
+  PARG: 1 1/2 inch slices
     PREP: into
 
 

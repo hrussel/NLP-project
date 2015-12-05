@@ -42,10 +42,10 @@ PRED: bake
 
 
 SENTID: 4
-SENT: Heat the cream of mushroom soup , milk , and 1Ê1/2 cup Cheddar cheese in a saucepan over medium heat until the cheese has melted , about 10 minutes .
+SENT: Heat the cream of mushroom soup , milk , and 1 1/2 cup Cheddar cheese in a saucepan over medium heat until the cheese has melted , about 10 minutes .
 PREDID: 0
 PRED: heat
-  DOBJ: the cream of mushroom soup , milk , 1Ê1/2 cup cheddar cheese
+  DOBJ: the cream of mushroom soup , milk , 1 1/2 cup cheddar cheese
   PARG: a saucepan
     PREP: in
   PARG: medium heat

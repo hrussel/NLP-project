@@ -18,12 +18,12 @@ PRED: shape
 
 
 SENTID: 2
-SENT: Bake at 350 degrees F for 1Ê1/4 hours or until done .
+SENT: Bake at 350 degrees F for 1 1/4 hours or until done .
 PREDID: 0
 PRED: bake
   PARG: 350 degrees f
     PREP: at
-  PARG: 1Ê1/4 hours
+  PARG: 1 1/4 hours
     PREP: for
   PARG: done
     PREP: until

@@ -95,10 +95,10 @@ PRED: spoon
 
 
 SENTID: 11
-SENT: Top with half of the cooked noodles , and 1Ê1/2 packages of cheese slices .
+SENT: Top with half of the cooked noodles , and 1 1/2 packages of cheese slices .
 PREDID: 0
 PRED: top
-  PARG: half of the cooked noodles , 1Ê1/2 packages of cheese slices
+  PARG: half of the cooked noodles , 1 1/2 packages of cheese slices
     PREP: with
 
 

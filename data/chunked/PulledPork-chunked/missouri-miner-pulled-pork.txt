@@ -104,7 +104,7 @@ PRED: wipe
 
 
 SENTID: 10
-SENT: Return shredded pork to slow cooker and add about 1Ê1/2 bottles barbeque sauce .
+SENT: Return shredded pork to slow cooker and add about 1 1/2 bottles barbeque sauce .
 PREDID: 0
 PRED: return
   DOBJ: shredded pork
@@ -112,7 +112,7 @@ PRED: return
 
 PREDID: 1
 PRED: add
-  PARG: 1Ê1/2 bottles barbeque sauce
+  PARG: 1 1/2 bottles barbeque sauce
     PREP: about
 
 

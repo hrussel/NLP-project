@@ -8,10 +8,10 @@ PRED: preheat
 
 
 SENTID: 1
-SENT: Lightly grease a 1Ê1/2 quart casserole dish .
+SENT: Lightly grease a 1 1/2 quart casserole dish .
 PREDID: 0
 PRED: grease
-  DOBJ: a 1Ê1/2 quart casserole dish
+  DOBJ: a 1 1/2 quart casserole dish
   OARG: lightly
 
 

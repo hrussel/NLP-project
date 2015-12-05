@@ -68,10 +68,10 @@ PRED: refrigerate
 
 
 SENTID: 4
-SENT: Mix together the balsamic vinegar , 1Ê1/2 cups of root beer , whiskey , and brown sugar in a bowl , and stir until the sugar dissolves .
+SENT: Mix together the balsamic vinegar , 1 1/2 cups of root beer , whiskey , and brown sugar in a bowl , and stir until the sugar dissolves .
 PREDID: 0
 PRED: mix
-  DOBJ: the balsamic vinegar , 1Ê1/2 cups of root beer , whiskey , brown sugar
+  DOBJ: the balsamic vinegar , 1 1/2 cups of root beer , whiskey , brown sugar
   PARG: a bowl
     PREP: in
   OARG: together

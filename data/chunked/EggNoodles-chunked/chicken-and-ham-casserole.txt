@@ -56,11 +56,11 @@ PRED: stir
 
 
 SENTID: 5
-SENT: Transfer this mixture to a 1Ê1/2 quart casserole dish .
+SENT: Transfer this mixture to a 1 1/2 quart casserole dish .
 PREDID: 0
 PRED: transfer
   DOBJ: this mixture
-  PARG: a 1Ê1/2 quart casserole dish
+  PARG: a 1 1/2 quart casserole dish
     PREP: to
 
 

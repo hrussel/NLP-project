@@ -57,10 +57,10 @@ PRED: stir
 
 
 SENTID: 5
-SENT: Stir into the chopped chicken 2Ê1/4 cups of the toasted almonds .
+SENT: Stir into the chopped chicken 2 1/4 cups of the toasted almonds .
 PREDID: 0
 PRED: stir
-  PARG: the chopped chicken 2Ê1/4 cups of the toasted almonds
+  PARG: the chopped chicken 2 1/4 cups of the toasted almonds
     PREP: into
 
 

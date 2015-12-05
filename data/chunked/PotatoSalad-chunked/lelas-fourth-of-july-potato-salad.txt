@@ -21,13 +21,13 @@ PRED: bring
 
 
 SENTID: 2
-SENT: -RRB- Reduce heat to medium-low and simmer until fork-tender , about 1 to 1Ê1/2 hours .
+SENT: -RRB- Reduce heat to medium-low and simmer until fork-tender , about 1 to 1 1/2 hours .
 PREDID: 0
 PRED: simmer
   DOBJ: reduce heat
   PARG: medium-low
     PREP: to
-  PARG: fork-tender , about 1 to 1Ê1/2 hours
+  PARG: fork-tender , about 1 to 1 1/2 hours
     PREP: until
 
 

@@ -77,10 +77,10 @@ PRED: whisk
 
 
 SENTID: 8
-SENT: stir in 1Ê1/2 cup Swiss cheese .
+SENT: stir in 1 1/2 cup Swiss cheese .
 PREDID: 0
 PRED: stir
-  PARG: 1Ê1/2 cup swiss cheese
+  PARG: 1 1/2 cup swiss cheese
     PREP: in
 
 

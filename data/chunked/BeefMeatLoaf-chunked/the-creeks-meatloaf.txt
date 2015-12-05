@@ -25,10 +25,10 @@ PRED: shape
 
 
 SENTID: 3
-SENT: Line 1Ê1/2 - quart loaf pan with bread slices .
+SENT: Line 1 1/2 - quart loaf pan with bread slices .
 PREDID: 0
 PRED: line
-  DOBJ: 1Ê1/2 - quart loaf pan
+  DOBJ: 1 1/2 - quart loaf pan
   PARG: bread slices
     PREP: with
 

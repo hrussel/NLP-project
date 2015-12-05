@@ -58,10 +58,10 @@ PRED: blend
 
 
 SENTID: 6
-SENT: Add the butter mixture , grated carrots , Maille ¨ Old Style mustard , crushed walnuts , raisins , citrus fruit zests , cinnamon , ginger and chopped grains of coriander and mix everything carefully together .
+SENT: Add the butter mixture , grated carrots , Maille   Old Style mustard , crushed walnuts , raisins , citrus fruit zests , cinnamon , ginger and chopped grains of coriander and mix everything carefully together .
 PREDID: 0
 PRED: add
-  DOBJ: the butter mixture , grated carrots , maille ¨ old style mustard , crushed walnuts , raisins , citrus fruit zests , cinnamon , ginger, chopped grains of coriander, mix everything
+  DOBJ: the butter mixture , grated carrots , maille   old style mustard , crushed walnuts , raisins , citrus fruit zests , cinnamon , ginger, chopped grains of coriander, mix everything
   OARG: carefully
   OARG: together
 

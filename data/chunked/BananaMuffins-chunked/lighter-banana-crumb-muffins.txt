@@ -20,10 +20,10 @@ PRED: line
 
 
 SENTID: 2
-SENT: Whisk 1Ê1/2 cup flour , baking soda , baking powder , and salt in a bowl .
+SENT: Whisk 1 1/2 cup flour , baking soda , baking powder , and salt in a bowl .
 PREDID: 0
 PRED: whisk
-  DOBJ: 1Ê1/2 cup flour , baking soda , baking powder , salt
+  DOBJ: 1 1/2 cup flour , baking soda , baking powder , salt
   PARG: a bowl
     PREP: in
 
@@ -69,10 +69,10 @@ PRED: mix
 
 
 SENTID: 7
-SENT: stir 1Ê1/2 teaspoons of applesauce into the mixture until it resembles coarse crumbs .
+SENT: stir 1 1/2 teaspoons of applesauce into the mixture until it resembles coarse crumbs .
 PREDID: 0
 PRED: stir
-  DOBJ: 1Ê1/2 teaspoons of applesauce
+  DOBJ: 1 1/2 teaspoons of applesauce
   PARG: the mixture
     PREP: into
   PARG: it resembles coarse crumbs

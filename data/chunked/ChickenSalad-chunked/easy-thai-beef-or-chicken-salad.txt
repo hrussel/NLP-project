@@ -12,7 +12,7 @@ PRED: rinse
 
 
 SENTID: 1
-SENT: Transfer to a medium saucepan and cover with 2Ê1/2 cups water .
+SENT: Transfer to a medium saucepan and cover with 2 1/2 cups water .
 PREDID: 0
 PRED: transfer
   PARG: a medium saucepan
@@ -20,7 +20,7 @@ PRED: transfer
 
 PREDID: 1
 PRED: cover
-  PARG: 2Ê1/2 cups water
+  PARG: 2 1/2 cups water
     PREP: with
 
 

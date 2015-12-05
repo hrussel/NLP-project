@@ -84,10 +84,10 @@ PRED: bake
 
 
 SENTID: 9
-SENT: Sprinkle 1Ê3/4 cups of the cheese over dough .
+SENT: Sprinkle 1 3/4 cups of the cheese over dough .
 PREDID: 0
 PRED: sprinkle
-  DOBJ: 1Ê3/4 cups of the cheese
+  DOBJ: 1 3/4 cups of the cheese
   PARG: dough
     PREP: over
 

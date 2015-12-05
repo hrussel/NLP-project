@@ -21,7 +21,7 @@ PRED: butter
 
 
 SENTID: 2
-SENT: Spoon into 9x13 inch baking dish and bake for 1Ê1/4 hours , until golden and knife inserted in center comes out clean .
+SENT: Spoon into 9x13 inch baking dish and bake for 1 1/4 hours , until golden and knife inserted in center comes out clean .
 PREDID: 0
 PRED: spoon
   PARG: 9x13 inch baking dish
@@ -29,7 +29,7 @@ PRED: spoon
 
 PREDID: 1
 PRED: bake
-  PARG: 1Ê1/4 hours
+  PARG: 1 1/4 hours
     PREP: for
   PARG: golden, knife inserted in center comes out clean
     PREP: until
