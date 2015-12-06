@@ -1,5 +1,6 @@
 import model.Argument;
 import model.ArgumentTypesModel;
+import model.PartComposite;
 import model.Recipe;
 import model.VerbSignature;
 
@@ -43,6 +44,7 @@ public class Main {
     public Main() {
         recipes = new ArrayList<>();
         readAllRecipes();
+
         VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);
         verbSignatureModel.calculate();
 
@@ -54,6 +56,8 @@ public class Main {
         System.out.println("P(C) of recipe 1 is "+probability);
 
 
+        StringSpanModel stringSpanModel = new StringSpanModel(recipes);
+       // stringSpanDistribution = stringSpanModel
 
         System.out.println("done.");
     }
