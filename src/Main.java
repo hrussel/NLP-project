@@ -1,5 +1,6 @@
 import model.Argument;
 import model.Recipe;
+import probabilityModel.*;
 
 import java.io.File;
 import java.util.*;

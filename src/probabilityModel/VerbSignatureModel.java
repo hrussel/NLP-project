@@ -1,3 +1,5 @@
+package probabilityModel;
+
 import model.Action;
 import model.Recipe;
 import model.VerbSignature;
