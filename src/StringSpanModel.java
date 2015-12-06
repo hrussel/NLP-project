@@ -18,12 +18,7 @@ public class StringSpanModel {
         this.partCompositeDistribution = new HashMap<>();
         this.totalCounts = new HashMap<>();
 
-        int i = 0;
         for (Recipe recipe : recipes) {
-            i++;
-            if (i == 500) {
-                break;
-            }
             System.out.print(".");
             for (Action action : recipe.getActions()) {
                 for (Argument argument : action.getArguments()) {
