@@ -1,5 +1,7 @@
 package model;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.*;
 
 /**
@@ -7,7 +9,7 @@ import java.util.*;
  * Recipe model
  */
 public class Recipe {
-
+    private List<String> locations;
     private List<Action> actions;
     private List<String> ingredients;
     private List<Connection> connections;
@@ -22,11 +24,57 @@ public class Recipe {
 
     public void build() {
         matchIngredients();
+        matchLocations();
         createImplicitArguments();
         buildIngredientConnections();
         buildSequentialConnections();
         buildVerbSignatures();
     }
+
+
+    private void matchLocations()
+    {
+        locations = new ArrayList<>();
+        File locationstxt = new File("data/locations.txt");
+        try
+        {
+            Scanner sc = null;
+
+            sc = new Scanner(locationstxt);
+            while (sc.hasNextLine())
+            {
+                String loc = sc.nextLine();
+                locations.add(loc);
+
+            }
+
+
+            for(Action act : this.getActions())
+            {
+                for (Argument argument : act.getArguments())
+                {
+
+                    List<StringSpan> wordz=argument.getWords();
+                    for(StringSpan str : wordz)
+                    {
+                        for(String location :locations )
+                        if(str.getBaseWord().matches(".*"+location+".*"))
+                        {
+                            argument.setSemanticType(SemanticType.LOCATION);
+                        }
+                    }
+                }
+
+            }
+
+        }
+        catch(FileNotFoundException exception){System.out.println("The file " + locationstxt.getPath() + " was not found.");}
+
+
+
+
+    }
+
 
     private void matchIngredients() {
         for (Action action : this.getActions()) {
