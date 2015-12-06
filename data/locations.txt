@@ -5,7 +5,7 @@ cooker
 skillet
 dish
 dishes
-broiler
+boiler
 oven
 colander
 sink
@@ -24,6 +24,14 @@ refrigerator
 mixer
 platter
 plastic
+surface
+baking sheet
+aluminium foil
+paper towel
+hot water
+cold water
+luke warm water
+
 **cups
 **glass
 *over [something] heat

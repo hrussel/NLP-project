@@ -28,7 +28,7 @@ public class StringSpanModel {
                         List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(stringSpan);
                         boolean hasOrigin = false;
                         int count = 0;
-                        
+                        //TODO isRaw
                         if(!stringSpanConnections.isEmpty()){
                             hasOrigin = true;
                             SemanticType semanticTypeConnection = stringSpanConnections.get(0).getSemanticType();
@@ -36,7 +36,7 @@ public class StringSpanModel {
                                 semanticType = semanticTypeConnection;
                         }
                         PartComposite partComposite = new PartComposite(semanticType, hasOrigin);
-                        String word = stringSpan.getWord();
+                        String word = stringSpan.getBaseWord();
                         if(partCompositeDistribution.containsKey(word)){
                             stringCounts = partCompositeDistribution.get(word);
 
