@@ -74,7 +74,7 @@ public class RecipeReader {
                        }
                     }
                 }
-                //TODO @Helena : add offset in StringSpans
+
                 if (s.contains("PRED: ")) {
                     String predicateString = getSubString("PRED: ",s);
 
@@ -133,7 +133,7 @@ public class RecipeReader {
             sc.close();
             chunkedTextFile = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename);
             sc = new Scanner(chunkedTextFile);
-            //TODO @Oz add connection
+
             while (sc.hasNextLine()) {
                 String s = sc.nextLine();
                 if (s.contains("Ingredients")) {

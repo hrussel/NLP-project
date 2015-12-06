@@ -1,3 +1,5 @@
+import model.Argument;
+import model.ArgumentTypesModel;
 import model.Recipe;
 import model.VerbSignature;
 
@@ -23,15 +25,32 @@ public class Main {
     private List<Recipe> recipes;
 
 
+    private Recipe getAmishRecipe()
+    {
+        return recipes.get(AMISH_MEATLOAF_INDEX);
+    }
+
+    private double testArgumentTypesModel()
+    {
+        double pResult;
+        Recipe testrecipe = getAmishRecipe();
+        Argument testarg= testrecipe.getActions().get(1).getArguments().get(0);
+        ArgumentTypesModel testATM = new ArgumentTypesModel(testrecipe,testarg);
+        pResult= testATM.calculateProbability();
+
+        return pResult;
+    }
     public Main() {
         recipes = new ArrayList<>();
         readAllRecipes();
-
         VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);
         verbSignatureModel.calculate();
 
         ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipes.get(0),verbSignatureModel);
         double probability = connectionPriorModel.calculate();
+
+        System.out.println(testArgumentTypesModel());
+
         System.out.println("P(C) of recipe 1 is "+probability);
 
 

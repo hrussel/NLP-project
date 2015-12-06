@@ -117,6 +117,9 @@ public class Recipe {
                     for (StringSpan stringSpan : stringSpans) {
                         if (ingredient.toLowerCase().contains(stringSpan.getWord().toLowerCase())) {
                             Connection connection = new Connection(null, action, argument, stringSpan);
+                            connection.setSemanticType(SemanticType.FOOD);
+                            connection.setSyntacticType(SyntacticType.DOBJ);
+
                             this.getConnections().add(connection);
                             if(!connectionsGoingTo.containsKey(stringSpan)) {
                                 connectionsGoingTo.put(stringSpan,new ArrayList<>());
@@ -136,6 +139,8 @@ public class Recipe {
             Argument argument = action2.getArguments().get(0);
             StringSpan sp = argument.getWords().get(0);
             Connection connection = new Connection(action1, action2, argument, sp);
+
+
             this.getConnections().add(connection);
             if(!connectionsGoingTo.containsKey(sp)) {
                 connectionsGoingTo.put(sp,new ArrayList<>());
