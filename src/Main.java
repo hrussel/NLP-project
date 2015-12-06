@@ -1,6 +1,13 @@
+import model.Argument;
+import model.ArgumentTypesModel;
+import model.PartComposite;
 import model.Recipe;
+import model.VerbSignature;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.*;
 
 public class Main {
@@ -19,6 +26,21 @@ public class Main {
     private List<Recipe> recipes;
 
 
+    private Recipe getAmishRecipe()
+    {
+        return recipes.get(AMISH_MEATLOAF_INDEX);
+    }
+
+    private double testArgumentTypesModel()
+    {
+        double pResult;
+        Recipe testrecipe = getAmishRecipe();
+        Argument testarg= testrecipe.getActions().get(1).getArguments().get(0);
+        ArgumentTypesModel testATM = new ArgumentTypesModel(testrecipe,testarg);
+        pResult= testATM.calculateProbability();
+
+        return pResult;
+    }
     public Main() {
         recipes = new ArrayList<>();
         readAllRecipes();
@@ -28,11 +50,14 @@ public class Main {
 
         ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipes.get(0),verbSignatureModel);
         double probability = connectionPriorModel.calculate();
+
+        System.out.println(testArgumentTypesModel());
+
         System.out.println("P(C) of recipe 1 is "+probability);
 
 
         StringSpanModel stringSpanModel = new StringSpanModel(recipes);
-       // stringSpanDistribution = stringSpanModel
+        System.out.println(stringSpanModel.toString());
 
         System.out.println("done.");
     }

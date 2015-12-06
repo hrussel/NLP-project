@@ -19,6 +19,7 @@ public class StringSpanModel {
         this.totalCounts = new HashMap<>();
 
         for (Recipe recipe : recipes) {
+            System.out.print(".");
             for (Action action : recipe.getActions()) {
                 for (Argument argument : action.getArguments()) {
                     SemanticType semanticType = argument.getSemanticType();
@@ -30,7 +31,9 @@ public class StringSpanModel {
                         
                         if(!stringSpanConnections.isEmpty()){
                             hasOrigin = true;
-                            semanticType = stringSpanConnections.get(0).getSemanticType();
+                            SemanticType semanticTypeConnection = stringSpanConnections.get(0).getSemanticType();
+                            if(semanticTypeConnection != null)
+                                semanticType = semanticTypeConnection;
                         }
                         PartComposite partComposite = new PartComposite(semanticType, hasOrigin);
                         String word = stringSpan.getWord();
@@ -51,7 +54,9 @@ public class StringSpanModel {
                     }
                 }
             }
+            break;
         }
+        System.out.println("");
     }
 
     private void incrementTotalCount(String string){
@@ -68,11 +73,17 @@ public class StringSpanModel {
 
     @Override
     public String toString() {
-        for (String s : partCompositeDistribution.keySet()) {
-            for (PartComposite partComposite : partCompositeDistribution.get(s).keySet()) {
-                
+        String string ="";
+        for (String word : partCompositeDistribution.keySet()) {
+            string+=word+"\t";
+            Map<PartComposite, Integer> counts = partCompositeDistribution.get(word);
+            for (PartComposite partComposite : counts.keySet()) {
+                string+=partComposite.getSemanticType()+":";
+                string+=counts.get(partComposite)+"\t";
             }
+            string+="TOTAL:"+totalCounts.get(word);
+            string+="\n";
         }
-        return null;
+        return string;
     }
 }
