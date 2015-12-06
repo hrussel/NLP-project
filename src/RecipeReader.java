@@ -74,7 +74,6 @@ public class RecipeReader {
                        }
                     }
                 }
-
                 if (s.contains("PRED: ")) {
                     String predicateString = getSubString("PRED: ",s);
 
@@ -133,7 +132,6 @@ public class RecipeReader {
             sc.close();
             chunkedTextFile = new File("data/fulltext/" + this.folder + "-fulltext/" + this.filename);
             sc = new Scanner(chunkedTextFile);
-
             while (sc.hasNextLine()) {
                 String s = sc.nextLine();
                 if (s.contains("Ingredients")) {

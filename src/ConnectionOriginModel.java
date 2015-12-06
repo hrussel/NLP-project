@@ -40,6 +40,6 @@ public class ConnectionOriginModel {
         if (foundConnection && action.getSignature().isLeaf()) {
             return 0.0;
         }
-        return probability;
+        return 1.0;
     }
 }
