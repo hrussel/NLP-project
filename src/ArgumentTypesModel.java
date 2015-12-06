@@ -1,6 +1,7 @@
 import model.*;
 
 import java.util.List;
+import java.util.Set;
 
 /**
  * Created by Andy on 12/5/2015.
@@ -10,9 +11,8 @@ public class ArgumentTypesModel {
     Argument arg;
     Recipe recipe;
 
-    public ArgumentTypesModel(Recipe recipe, Argument arg)
-    {
-        this.recipe =  recipe;
+    public ArgumentTypesModel(Recipe recipe, Argument arg) {
+        this.recipe = recipe;
         this.arg = arg;
     }
 
@@ -24,42 +24,41 @@ public class ArgumentTypesModel {
      */
 
 
-    public double calculateProbability ()
-    {
+    public double calculateProbability() {
 
 
-        double totalprobability=1;
+        double totalprobability = 1.0;
 
-        for (StringSpan str : arg.getWords()  ) {
-            boolean firstPass=true;
-            Connection previousConnection=  null;
+        boolean firstPass = true;
+        Connection previousConnection = null;
+        for (StringSpan str : arg.getWords()) {
+
             List<Connection> connections = recipe.getConnectionsGoingTo(str);
-            for(Connection con : connections)
-            {
-                if(firstPass)
-                {
+            if (totalprobability == 0.0) {
+                return totalprobability;
+            }
+
+            for (Connection con : connections) {
+
+                if (firstPass) {
                     previousConnection = con;
-                    firstPass=false;
+                    firstPass = false;
                 }
 
+                SemanticType previousSemType = previousConnection.getFromAction().getSemanticType();
+                Set<SyntacticType> previousSynType = previousConnection.getFromAction().getSignature().getSyntacticTypeSet();
 
-                SemanticType previousSemType = previousConnection.getSemanticType();
-                SyntacticType previousSynType = previousConnection.getSyntacticType();
 
-
-                if (! (con.getSemanticType().equals(previousSemType))&& !(con.getSyntacticType().equals(previousSynType )))
-                {
+                if (!(con.getFromAction().getSemanticType().equals(previousSemType)) && !(con.getFromAction().getSignature().getSyntacticTypeSet().equals(previousSynType))) {
 
                     totalprobability = 0;
-                }
-                else totalprobability =1;
+                    break;
+                } else totalprobability = 1;
 
                 previousConnection = con;
             }
 
         }
-
-
 
 
         return totalprobability;

@@ -11,9 +11,11 @@ public class Action {
     private StringSpan predicate;
     private List<Argument> arguments;
     private VerbSignature signature;
+    private SemanticType semanticType;
 
     public Action() {
         this.arguments = new ArrayList<>();
+        this.semanticType = SemanticType.OTHER;
     }
 
     public StringSpan getPredicate() {
@@ -38,5 +40,13 @@ public class Action {
 
     public void setSignature(VerbSignature signature) {
         this.signature = signature;
+    }
+
+    public SemanticType getSemanticType() {
+        return semanticType;
+    }
+
+    public void setSemanticType(SemanticType semanticType) {
+        this.semanticType = semanticType;
     }
 }

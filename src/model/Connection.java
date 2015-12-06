@@ -10,14 +10,14 @@ public class Connection {
     private Argument toArgument;
     private Action toAction;
     private StringSpan toStringSpan;
-    private SemanticType semanticType;
-    private SyntacticType syntacticType;
+    private boolean fromIngredient;
 
-    public Connection(Action fromAction, Action toAction, Argument toArgument, StringSpan toStringSpan) {
+    public Connection(Action fromAction, Action toAction, Argument toArgument, StringSpan toStringSpan, boolean fromIngredient) {
         this.fromAction = fromAction;
         this.toArgument = toArgument;
         this.toAction = toAction;
         this.toStringSpan = toStringSpan;
+        this.fromIngredient = fromIngredient;
     }
 
     public Action getFromAction() {
@@ -52,19 +52,11 @@ public class Connection {
         this.toStringSpan = toStringSpan;
     }
 
-    public SemanticType getSemanticType() {
-        return semanticType;
+    public boolean isFromIngredient() {
+        return fromIngredient;
     }
 
-    public void setSemanticType(SemanticType semanticType) {
-        this.semanticType = semanticType;
-    }
-
-    public SyntacticType getSyntacticType() {
-        return syntacticType;
-    }
-
-    public void setSyntacticType(SyntacticType syntacticType) {
-        this.syntacticType = syntacticType;
+    public void setFromIngredient(boolean fromIngredient) {
+        this.fromIngredient = fromIngredient;
     }
 }

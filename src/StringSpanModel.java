@@ -18,35 +18,43 @@ public class StringSpanModel {
         this.partCompositeDistribution = new HashMap<>();
         this.totalCounts = new HashMap<>();
 
+        int i = 0;
         for (Recipe recipe : recipes) {
+            i++;
+            if (i == 500) {
+                break;
+            }
             System.out.print(".");
             for (Action action : recipe.getActions()) {
                 for (Argument argument : action.getArguments()) {
                     SemanticType semanticType = argument.getSemanticType();
                     for (StringSpan stringSpan : argument.getWords()) {
+                        String word = stringSpan.getBaseWord();
+                        if (word.isEmpty()) {
+                            continue;
+                        }
                         Map<PartComposite, Integer> stringCounts = null;
                         List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(stringSpan);
                         boolean hasOrigin = false;
                         int count = 0;
-                        
-                        if(!stringSpanConnections.isEmpty()){
-                            hasOrigin = true;
-                            SemanticType semanticTypeConnection = stringSpanConnections.get(0).getSemanticType();
-                            if(semanticTypeConnection != null)
+
+                        if (!stringSpanConnections.isEmpty()) {
+                            hasOrigin = !stringSpanConnections.get(0).isFromIngredient();
+                            SemanticType semanticTypeConnection = stringSpanConnections.get(0).getFromAction().getSemanticType();
+                            if (semanticTypeConnection != null)
                                 semanticType = semanticTypeConnection;
                         }
                         PartComposite partComposite = new PartComposite(semanticType, hasOrigin);
-                        String word = stringSpan.getWord();
-                        if(partCompositeDistribution.containsKey(word)){
+                        if (partCompositeDistribution.containsKey(word)) {
                             stringCounts = partCompositeDistribution.get(word);
 
-                            
-                            if(stringCounts.containsKey(partComposite)){
+
+                            if (stringCounts.containsKey(partComposite)) {
                                 count = stringCounts.get(partComposite);
                             }
-                            
-                        }else{
-                             stringCounts = new HashMap<>();
+
+                        } else {
+                            stringCounts = new HashMap<>();
                         }
                         stringCounts.put(partComposite, ++count);
                         partCompositeDistribution.put(word, stringCounts);
@@ -54,14 +62,13 @@ public class StringSpanModel {
                     }
                 }
             }
-            break;
         }
         System.out.println("");
     }
 
-    private void incrementTotalCount(String string){
+    private void incrementTotalCount(String string) {
         int count = 0;
-        if(totalCounts.containsKey(string)){
+        if (totalCounts.containsKey(string)) {
             count = totalCounts.get(string);
         }
         totalCounts.put(string, ++count);
@@ -71,34 +78,39 @@ public class StringSpanModel {
         return partCompositeDistribution;
     }
 
-    public double getProbabilityOfString(String string, SemanticType semanticType, boolean hasOrigin){
-        if(!partCompositeDistribution.containsKey(string))
-            return 0;
+    public double getProbabilityOfString(String string, SemanticType semanticType, boolean hasOrigin) {
+        if (!partCompositeDistribution.containsKey(string)) {
+            System.out.println("StringSpanModel error ==> no key");
+            return 0.0;
+        }
         Map<PartComposite, Integer> typeCounts = partCompositeDistribution.get(string);
 
         PartComposite partComposite = new PartComposite(semanticType, hasOrigin);
-        if(!typeCounts.containsKey(partComposite)){
+        if (!typeCounts.containsKey(partComposite)) {
             System.out.println("StringSpanModel error ==> ask Helena");
-            return 0;
+            return 0.0;
         }
         int count = typeCounts.get(partComposite);
+        if (count == 0) {
+            System.out.println("StringSpanModel error ==> no count");
+        }
 
-        return count / totalCounts.get(string);
+        return 1.0 * count / totalCounts.get(string);
 
     }
 
     @Override
     public String toString() {
-        String string ="";
+        String string = "";
         for (String word : partCompositeDistribution.keySet()) {
-            string+=word+"\t";
+            string += word + "\t";
             Map<PartComposite, Integer> counts = partCompositeDistribution.get(word);
             for (PartComposite partComposite : counts.keySet()) {
-                string+=partComposite.getSemanticType()+":";
-                string+=counts.get(partComposite)+"\t";
+                string += partComposite.getSemanticType() + ":";
+                string += counts.get(partComposite) + "\t";
             }
-            string+="TOTAL:"+totalCounts.get(word);
-            string+="\n";
+            string += "TOTAL:" + totalCounts.get(word);
+            string += "\n";
         }
         return string;
     }

@@ -116,13 +116,17 @@ public class Recipe {
                     List<StringSpan> stringSpans = argument.getWords();
                     for (StringSpan stringSpan : stringSpans) {
                         if (ingredient.toLowerCase().contains(stringSpan.getWord().toLowerCase())) {
-                            Connection connection = new Connection(null, action, argument, stringSpan);
-                            connection.setSemanticType(SemanticType.FOOD);
-                            connection.setSyntacticType(SyntacticType.DOBJ);
+                            Action ingredientAction = new Action();
+                            Set<SyntacticType> syntacticTypes = new HashSet<>();
+                            //TODO @Baris can foods be pp
+                            syntacticTypes.add(SyntacticType.DOBJ);
+                            ingredientAction.setSignature(new VerbSignature(syntacticTypes, true));
+                            ingredientAction.setSemanticType(SemanticType.FOOD);
+                            Connection connection = new Connection(ingredientAction, action, argument, stringSpan, true);
 
                             this.getConnections().add(connection);
-                            if(!connectionsGoingTo.containsKey(stringSpan)) {
-                                connectionsGoingTo.put(stringSpan,new ArrayList<>());
+                            if (!connectionsGoingTo.containsKey(stringSpan)) {
+                                connectionsGoingTo.put(stringSpan, new ArrayList<>());
                             }
                             connectionsGoingTo.get(stringSpan).add(connection);
                         }
@@ -136,19 +140,30 @@ public class Recipe {
         for (int i = 0; i < actions.size() - 1; i++) {
             Action action1 = actions.get(i);
             Action action2 = actions.get(i + 1);
-            Argument argument = action2.getArguments().get(0);
-            StringSpan sp = argument.getWords().get(0);
-            Connection connection = new Connection(action1, action2, argument, sp);
-            this.getConnections().add(connection);
-            if(!connectionsGoingTo.containsKey(sp)) {
-                connectionsGoingTo.put(sp,new ArrayList<>());
+            for (Argument argument : action2.getArguments()) {
+                boolean found = false;
+                for (StringSpan stringSpan : argument.getWords()) {
+                    List<Connection> existingConnections = this.getConnectionsGoingTo(stringSpan);
+                    if (existingConnections.isEmpty()) {
+                        Connection connection = new Connection(action1, action2, argument, stringSpan, false);
+                        this.connections.add(connection);
+                        if (!connectionsGoingTo.containsKey(stringSpan)) {
+                            connectionsGoingTo.put(stringSpan, new ArrayList<>());
+                        }
+                        connectionsGoingTo.get(stringSpan).add(connection);
+                        found = true;
+                        break;
+                    }
+                }
+                if (found) {
+                    break;
+                }
             }
-            connectionsGoingTo.get(sp).add(connection);
         }
     }
 
     public List<Connection> getConnectionsGoingTo(StringSpan stringSpan) {
-        if(connectionsGoingTo.containsKey(stringSpan)) {
+        if (connectionsGoingTo.containsKey(stringSpan)) {
             return connectionsGoingTo.get(stringSpan);
         }
         return new ArrayList<>();

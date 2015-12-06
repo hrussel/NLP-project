@@ -31,7 +31,7 @@ public class ConnectionOriginModel {
         boolean foundConnection = false;
         for (Connection connection : connections) {
             Action fromAction = connection.getFromAction();
-            if (fromAction != null) {
+            if (!connection.isFromIngredient()) {
                 foundConnection = true;
                 probability *= previousProbabilities.get(fromAction);
             }

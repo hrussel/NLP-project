@@ -1,7 +1,7 @@
-import model.Action;
-import model.Argument;
-import model.Recipe;
-import model.StringSpan;
+import model.*;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by baris on 12/6/2015.
@@ -23,8 +23,14 @@ public class RecipeModel {
         double probability = 1.0;
         for (Action action : recipe.getActions()) {
             probability *= verbSignatureModel.getProbabilityOfAction(action);
+            if(probability == 0) {
+                return probability;
+            }
             for (Argument argument : action.getArguments()) {
                 probability *= calculateArgumentProbability(argument);
+                if(probability == 0) {
+                    return probability;
+                }
             }
         }
         return probability;
@@ -33,8 +39,21 @@ public class RecipeModel {
     private double calculateArgumentProbability(Argument argument) {
         ArgumentTypesModel argumentTypesModel = new ArgumentTypesModel(recipe, argument);
         double probability = argumentTypesModel.calculateProbability();
-        for(StringSpan stringSpan : argument.getWords()) {
-            //probability*=stringSpanModel.getProbability(stringSpan.getBaseWord());
+        if(probability == 0) {
+            return probability;
+        }
+        for (StringSpan stringSpan : argument.getWords()) {
+            if(!stringSpan.getBaseWord().isEmpty()) {
+                boolean hasOrigin = false;
+                List<Connection> connections = recipe.getConnectionsGoingTo(stringSpan);
+                if(!connections.isEmpty() && !connections.get(0).isFromIngredient())  {
+                    hasOrigin = true;
+                }
+                probability *= stringSpanModel.getProbabilityOfString(stringSpan.getBaseWord(), argument.getSemanticType(), hasOrigin);
+                if(probability == 0) {
+                    return probability;
+                }
+            }
         }
         return probability;
     }
