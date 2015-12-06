@@ -71,6 +71,22 @@ public class StringSpanModel {
         return partCompositeDistribution;
     }
 
+    public double getProbabilityOfString(String string, SemanticType semanticType, boolean hasOrigin){
+        if(!partCompositeDistribution.containsKey(string))
+            return 0;
+        Map<PartComposite, Integer> typeCounts = partCompositeDistribution.get(string);
+
+        PartComposite partComposite = new PartComposite(semanticType, hasOrigin);
+        if(!typeCounts.containsKey(partComposite)){
+            System.out.println("StringSpanModel error ==> ask Helena");
+            return 0;
+        }
+        int count = typeCounts.get(partComposite);
+
+        return count / totalCounts.get(string);
+
+    }
+
     @Override
     public String toString() {
         String string ="";
