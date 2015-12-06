@@ -28,16 +28,16 @@ public class Main {
         recipes = new ArrayList<>();
         readAllRecipes();
 
-        VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);
-        verbSignatureModel.calculate();
+        //VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);
+        //verbSignatureModel.calculate();
 
-        ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipes.get(0),verbSignatureModel);
-        double probability = connectionPriorModel.calculate();
-        System.out.println("P(C) of recipe 1 is "+probability);
+        //ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipes.get(0),verbSignatureModel);
+        //double probability = connectionPriorModel.calculate();
+        //System.out.println("P(C) of recipe 1 is "+probability);
 
 
         StringSpanModel stringSpanModel = new StringSpanModel(recipes);
-       // stringSpanDistribution = stringSpanModel
+        System.out.println(stringSpanModel.toString());
 
         System.out.println("done.");
     }

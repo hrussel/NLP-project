@@ -31,6 +31,11 @@ public class PartComposite {
 
     @Override
     public boolean equals(Object obj) {
-        return obj instanceof PartComposite && this.semanticType == ((PartComposite) obj).semanticType && this.hasOrigin == ((PartComposite) obj).hasOrigin;
+        return obj instanceof PartComposite && this.semanticType.equals(((PartComposite) obj).semanticType) && this.hasOrigin == ((PartComposite) obj).hasOrigin;
+    }
+
+    @Override
+    public int hashCode() {
+        return 37 * (hasOrigin?1:0) + 71 * semanticType.hashCode();
     }
 }
