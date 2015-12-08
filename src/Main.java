@@ -1,3 +1,4 @@
+import em.LocalSearch;
 import model.Argument;
 import model.Recipe;
 import probabilityModel.*;
@@ -37,20 +38,26 @@ public class Main {
 
     public Main() {
         recipes = new ArrayList<>();
+        System.out.println("Reading all recipes");
         readAllRecipes();
+
+        Recipe amishMeatloaf = recipes.get(AMISH_MEATLOAF_INDEX);
 
         VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);
         verbSignatureModel.calculate();
 
-        ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipes.get(AMISH_MEATLOAF_INDEX), verbSignatureModel);
+        ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(amishMeatloaf, verbSignatureModel);
         double connectionProbability = connectionPriorModel.calculate();
         System.out.println("P(C) of amish meatloaf is " + connectionProbability);
 
         StringSpanModel stringSpanModel = new StringSpanModel(recipes);
-        RecipeModel recipeModel = new RecipeModel(recipes.get(AMISH_MEATLOAF_INDEX), verbSignatureModel, stringSpanModel);
+        RecipeModel recipeModel = new RecipeModel(amishMeatloaf, verbSignatureModel, stringSpanModel);
         double recipeProbability = recipeModel.calculate();
         System.out.println("P(R|C) of recipe amish meatloaf is " + recipeProbability);
         System.out.println("P(R,C) of recipe amish meatloaf is " + connectionProbability * recipeProbability);
+
+        JointProbabilityModel jointProbabilityModel = new JointProbabilityModel(connectionPriorModel, recipeModel);
+
         //System.out.println(testArgumentTypesModel());
 
 

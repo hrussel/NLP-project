@@ -31,6 +31,7 @@ public class RecipeReader {
         Recipe recipe = new Recipe();
         String sentence = "";
         String lastLine = "";
+        int actionIndex = 0;
         int offset=-1;
         try {
             //"data/chunked/BeefMeatLoaf-chunked/amish-meatloaf.txt"
@@ -79,7 +80,8 @@ public class RecipeReader {
 
                     int predIdx = offset+sentence.indexOf(predicateString);
                     StringSpan predicate = new StringSpan(predicateString, predIdx, predIdx+predicateString.length());
-                    currentAction = new Action();
+                    currentAction = new Action(actionIndex);
+                    actionIndex++;
                     currentAction.setPredicate(predicate);
                     recipe.getActions().add(currentAction);
 

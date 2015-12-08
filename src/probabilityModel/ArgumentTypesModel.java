@@ -53,9 +53,9 @@ public class ArgumentTypesModel {
 
                 if (!(con.getFromAction().getSemanticType().equals(previousSemType)) && !(con.getFromAction().getSignature().getSyntacticTypeSet().equals(previousSynType))) {
 
-                    totalprobability = 0;
+                    totalprobability = 0.0;
                     break;
-                } else totalprobability = 1;
+                } else totalprobability = 1.0;
 
                 previousConnection = con;
             }

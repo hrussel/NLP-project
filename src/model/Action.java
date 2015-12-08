@@ -8,12 +8,14 @@ import java.util.List;
  * Action class
  */
 public class Action {
+    private int index;
     private StringSpan predicate;
     private List<Argument> arguments;
     private VerbSignature signature;
     private SemanticType semanticType;
 
-    public Action() {
+    public Action(int index) {
+        this.index = index;
         this.arguments = new ArrayList<>();
         this.semanticType = SemanticType.OTHER;
     }
@@ -48,5 +50,13 @@ public class Action {
 
     public void setSemanticType(SemanticType semanticType) {
         this.semanticType = semanticType;
+    }
+
+    public int getIndex() {
+        return index;
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
     }
 }

@@ -32,49 +32,37 @@ public class Recipe {
     }
 
 
-    private void matchLocations()
-    {
+    private void matchLocations() {
         locations = new ArrayList<>();
         File locationstxt = new File("data/locations.txt");
-        try
-        {
+        try {
             Scanner sc = null;
 
             sc = new Scanner(locationstxt);
-            while (sc.hasNextLine())
-            {
+            while (sc.hasNextLine()) {
                 String loc = sc.nextLine();
                 locations.add(loc);
 
             }
 
+            for (Action act : this.getActions()) {
+                for (Argument argument : act.getArguments()) {
 
-            for(Action act : this.getActions())
-            {
-                for (Argument argument : act.getArguments())
-                {
-
-                    List<StringSpan> wordz=argument.getWords();
-                    for(StringSpan str : wordz)
-                    {
-                        for(String location :locations )
-                        if(str.getBaseWord().matches(".*"+location+".*"))
-                        {
-                            argument.setSemanticType(SemanticType.LOCATION);
-                        }
+                    List<StringSpan> wordz = argument.getWords();
+                    for (StringSpan str : wordz) {
+                        for (String location : locations)
+                            if (str.getBaseWord().matches(".*" + location + ".*")) {
+                                argument.setSemanticType(SemanticType.LOCATION);
+                            }
                     }
                 }
 
             }
 
+        } catch (FileNotFoundException exception) {
+            System.out.println("The file " + locationstxt.getPath() + " was not found.");
         }
-        catch(FileNotFoundException exception){System.out.println("The file " + locationstxt.getPath() + " was not found.");}
-
-
-
-
     }
-
 
     private void matchIngredients() {
         for (Action action : this.getActions()) {
@@ -140,12 +128,14 @@ public class Recipe {
         for (Action action : this.getActions()) {
             Set<SyntacticType> syntacticTypeSet = new HashSet<>();
             for (Argument argument : action.getArguments()) {
-                syntacticTypeSet.add(argument.getSyntacticType());
+                if(argument.getSemanticType().equals(SemanticType.FOOD)) {
+                    syntacticTypeSet.add(argument.getSyntacticType());
+                }
             }
 
             boolean leaf = true;
             for (Connection connection : this.getConnections()) {
-                if (connection.getToAction() == action && connection.getFromAction() != null) {
+                if (connection.getToAction() == action && !connection.isFromIngredient()) {
                     leaf = false;
                     break;
                 }
@@ -164,7 +154,7 @@ public class Recipe {
                     List<StringSpan> stringSpans = argument.getWords();
                     for (StringSpan stringSpan : stringSpans) {
                         if (ingredient.toLowerCase().contains(stringSpan.getWord().toLowerCase())) {
-                            Action ingredientAction = new Action();
+                            Action ingredientAction = new Action(-1);
                             Set<SyntacticType> syntacticTypes = new HashSet<>();
                             //TODO @Baris can foods be pp
                             syntacticTypes.add(SyntacticType.DOBJ);
@@ -190,9 +180,15 @@ public class Recipe {
             Action action2 = actions.get(i + 1);
             for (Argument argument : action2.getArguments()) {
                 boolean found = false;
+                Connection lastConnection = null;
                 for (StringSpan stringSpan : argument.getWords()) {
                     List<Connection> existingConnections = this.getConnectionsGoingTo(stringSpan);
                     if (existingConnections.isEmpty()) {
+                        if(lastConnection!=null) {
+                            if(!lastConnection.getFromAction().getSemanticType().equals(action1.getSemanticType()) ) {
+                                continue;
+                            }
+                        }
                         Connection connection = new Connection(action1, action2, argument, stringSpan, false);
                         this.connections.add(connection);
                         if (!connectionsGoingTo.containsKey(stringSpan)) {
@@ -201,6 +197,8 @@ public class Recipe {
                         connectionsGoingTo.get(stringSpan).add(connection);
                         found = true;
                         break;
+                    } else {
+                        lastConnection = existingConnections.get(0);
                     }
                 }
                 if (found) {
@@ -240,6 +238,5 @@ public class Recipe {
     public void setIngredients(List<String> ingredients) {
         this.ingredients = ingredients;
     }
-
 
 }
