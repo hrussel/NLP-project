@@ -28,7 +28,7 @@ public class RecipeModel {
                 return probability;
             }
             for (Argument argument : action.getArguments()) {
-                probability *= calculateArgumentProbability(argument);
+                probability *= calculateArgumentProbability(action, argument);
                 if(probability == 0) {
                     return probability;
                 }
@@ -37,22 +37,30 @@ public class RecipeModel {
         return probability;
     }
 
-    private double calculateArgumentProbability(Argument argument) {
+    private double calculateArgumentProbability(Action action, Argument argument) {
         ArgumentTypesModel argumentTypesModel = new ArgumentTypesModel(recipe, argument);
         double probability = argumentTypesModel.calculateProbability();
         if(probability == 0) {
             return probability;
         }
-        for (StringSpan stringSpan : argument.getWords()) {
-            if(!stringSpan.getBaseWord().isEmpty()) {
-                boolean hasOrigin = false;
-                List<Connection> connections = recipe.getConnectionsGoingTo(stringSpan);
-                if(!connections.isEmpty() && !connections.get(0).isFromIngredient())  {
-                    hasOrigin = true;
+        if(argument.getSemanticType().equals(SemanticType.FOOD)) {
+
+            for (StringSpan stringSpan : argument.getWords()) {
+
+                List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(stringSpan);
+                boolean ingredient = false;
+                for (Connection stringSpanConnection : stringSpanConnections) {
+                    //We don't look at the ingredients
+                    if (stringSpanConnection.isFromIngredient()) {
+                        ingredient = true;
+                        break;
+                    }
                 }
-                probability *= stringSpanModel.getProbabilityOfString(stringSpan.getBaseWord(), argument.getSemanticType(), hasOrigin);
-                if(probability == 0) {
-                    return probability;
+                if (!ingredient && !stringSpan.getBaseWord().isEmpty()) {
+                    probability *= stringSpanModel.getProbabilityOfString(stringSpan.getBaseWord(), action);
+                    if (probability == 0) {
+                        return probability;
+                    }
                 }
             }
         }

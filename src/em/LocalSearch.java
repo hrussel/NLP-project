@@ -15,11 +15,13 @@ public class LocalSearch {
     public static final int SEARCH_SIZE = 100;
     private final List<Recipe> recipes;
     private final VerbSignatureModel verbSignatureModel;
+    private StringSpanModel stringSpanModel;
     Random random = new Random(42);
 
-    public LocalSearch(List<Recipe> recipes, VerbSignatureModel verbSignatureModel) {
+    public LocalSearch(List<Recipe> recipes, VerbSignatureModel verbSignatureModel, StringSpanModel stringSpanModel) {
         this.recipes = recipes;
         this.verbSignatureModel = verbSignatureModel;
+        this.stringSpanModel = stringSpanModel;
     }
 
     public void search() {
@@ -30,7 +32,6 @@ public class LocalSearch {
 
     public void searchForRecipe(Recipe recipe) {
         ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipe, verbSignatureModel);
-        StringSpanModel stringSpanModel = new StringSpanModel(recipes);
         RecipeModel recipeModel = new RecipeModel(recipe, verbSignatureModel, stringSpanModel);
         JointProbabilityModel jointProbabilityModel = new JointProbabilityModel(connectionPriorModel, recipeModel);
 
@@ -72,7 +73,7 @@ public class LocalSearch {
         }
 
         double nextProbability = jointProbabilityModel.calculate();
-        if (nextProbability < initialProbability) {
+        if (nextProbability <= initialProbability) {
             swapConnections(recipe, action1, argument1, stringSpan1, action2, argument2, stringSpan2);
             return false;
         }
@@ -84,13 +85,13 @@ public class LocalSearch {
         List<Connection> connections2 = recipe.getConnectionsGoingTo(stringSpan2);
 
         Connection connection1 = null;
-        if (connections1.isEmpty()) {
+        if (!connections1.isEmpty()) {
             connection1 = connections1.get(0);
         }
 
         Connection connection2 = null;
-        if (connections2.isEmpty()) {
-            connection2 = connections1.get(0);
+        if (!connections2.isEmpty()) {
+            connection2 = connections2.get(0);
         }
 
         if (connection1 != null && connection2 != null) {

@@ -58,6 +58,8 @@ public class Main {
 
         JointProbabilityModel jointProbabilityModel = new JointProbabilityModel(connectionPriorModel, recipeModel);
 
+        LocalSearch localSearch = new LocalSearch(recipes,verbSignatureModel,stringSpanModel);
+        localSearch.search();
         //System.out.println(testArgumentTypesModel());
 
 

@@ -35,7 +35,7 @@ public class ConnectionOriginModel {
             Action fromAction = connection.getFromAction();
             if (!connection.isFromIngredient()) {
                 foundConnection = true;
-                probability *= previousProbabilities.get(fromAction);
+                //probability *= previousProbabilities.get(fromAction);
             }
         }
         //TODO @Baris if an origin has been used in a previous connection much less likely to be used again.

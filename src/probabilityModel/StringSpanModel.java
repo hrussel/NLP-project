@@ -109,6 +109,10 @@ public class StringSpanModel {
             }
         }
 
+        if(sumTotalCounts == 0) {
+            return 1.0;
+        }
+
         return 1.0 * sumCounts / sumTotalCounts;
 
     }
