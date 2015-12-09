@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Created by baris on 12/9/2015.
- * This class is the main EM class.
+ * This class is the main EM class as in 5.
  */
 public class EM {
 
