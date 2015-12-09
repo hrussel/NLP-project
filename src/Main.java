@@ -1,3 +1,4 @@
+import em.EM;
 import em.LocalSearch;
 import model.Argument;
 import model.Recipe;
@@ -41,7 +42,7 @@ public class Main {
         System.out.println("Reading all recipes");
         readAllRecipes();
 
-        Recipe amishMeatloaf = recipes.get(AMISH_MEATLOAF_INDEX);
+        /*Recipe amishMeatloaf = recipes.get(AMISH_MEATLOAF_INDEX);
 
         VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);
         verbSignatureModel.calculate();
@@ -50,20 +51,27 @@ public class Main {
         double connectionProbability = connectionPriorModel.calculate();
         System.out.println("P(C) of amish meatloaf is " + connectionProbability);
 
-        StringSpanModel stringSpanModel = new StringSpanModel(recipes);
-        RecipeModel recipeModel = new RecipeModel(amishMeatloaf, verbSignatureModel, stringSpanModel);
+        PartCompositeModel partCompositeModel = new PartCompositeModel(recipes);
+        RecipeModel recipeModel = new RecipeModel(amishMeatloaf, verbSignatureModel, partCompositeModel);
         double recipeProbability = recipeModel.calculate();
         System.out.println("P(R|C) of recipe amish meatloaf is " + recipeProbability);
         System.out.println("P(R,C) of recipe amish meatloaf is " + connectionProbability * recipeProbability);
 
-        JointProbabilityModel jointProbabilityModel = new JointProbabilityModel(connectionPriorModel, recipeModel);
+        /*JointProbabilityModel jointProbabilityModel = new JointProbabilityModel(connectionPriorModel, recipeModel);
 
-        LocalSearch localSearch = new LocalSearch(recipes,verbSignatureModel,stringSpanModel);
-        localSearch.search();
+        LocalSearch localSearch = new LocalSearch(recipes,verbSignatureModel, partCompositeModel);
+        localSearch.search();*/
+
+        EM em = new EM(recipes);
+        em.search();
+
+        Recipe amishMeatloaf = recipes.get(AMISH_MEATLOAF_INDEX);
+        Util.printRecipe(amishMeatloaf);
+
         //System.out.println(testArgumentTypesModel());
 
 
-        //System.out.println(stringSpanModel.toString());
+        //System.out.println(partCompositeModel.toString());
 
         System.out.println("done.");
     }

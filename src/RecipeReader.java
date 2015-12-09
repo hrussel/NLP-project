@@ -168,7 +168,7 @@ public class RecipeReader {
         }
         recipe.build();
         if(print) {
-            printRecipe(recipe);
+            Util.printRecipe(recipe);
         }
         return recipe;
     }
@@ -183,39 +183,5 @@ public class RecipeReader {
         str = str.replaceAll(" \\.",".");
         str = str.substring(str.indexOf(pattern) + 6).trim();
         return str;
-    }
-
-    public void printRecipe(Recipe recipe) {
-        tId = 1;
-        rId = 1;
-        for (Action action : recipe.getActions()) {
-            StringSpan predicate = action.getPredicate();
-            predicate.setTid("T"+tId);
-            System.out.println("T" + tId + " predicate " + predicate.getStart() + " " + predicate.getEnd() + " " + predicate.getWord());
-            tId++;
-
-            for (Argument argument : action.getArguments()) {
-                for (StringSpan argumentSpan : argument.getWords()) {
-                    argumentSpan.setTid("T"+tId);
-                    SemanticType semanticType = argument.getSemanticType();
-                    String semanticTypeString = "OBJECT";
-                    if (semanticType != null) {
-                        semanticTypeString = semanticType.toString();
-                    }
-
-                    System.out.println(argumentSpan.getTid() + " arg_" + semanticTypeString + " " + argumentSpan.getStart() + " " + argumentSpan.getEnd() + " " + argumentSpan.getWord());
-                    System.out.println("R" + rId + " "+ semanticTypeString + " Arg1:" + predicate.getTid()  + " Arg2:" + argumentSpan.getTid());
-                    rId++;
-                    tId++;
-                }
-
-            }
-        }
-        System.out.println("");
-        System.out.println("Ingredients:");
-        for (String ingredient : recipe.getIngredients()) {
-            System.out.println(ingredient);
-        }
-
     }
 }
