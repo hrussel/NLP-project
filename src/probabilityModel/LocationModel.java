@@ -3,6 +3,7 @@ package probabilityModel;
 import model.*;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 
@@ -11,15 +12,17 @@ import java.util.Map;
  */
 public class LocationModel
 {
-    private StringSpan toStr;
-    private Connection conn;
-    private StringSpan verb_i;
-    private static Map<String, Map<String, Integer>> locVerbCounts = new HashMap<>();
 
-    public LocationModel(Connection conn) {
-        this.conn = conn;
-        this.toStr = conn.getToStringSpan();
-        this.verb_i = conn.getToAction().getPredicate();
+    private List<Recipe> recipes ;
+    private  Map<String, Map<String, Integer>> locationsDistribution; //<Verb, <Location, Times>>
+    private Map<String, Integer> locationCounts;
+
+    public LocationModel(List<Recipe> recipes) {
+
+        this.recipes= recipes;
+        locationsDistribution= new HashMap<>();
+        locationCounts= new HashMap<>();
+
 
     }
 
@@ -27,41 +30,71 @@ public class LocationModel
     {
         double totalProbability= 0;
         //!attention Needs to be checked if location is retrieved properly
-        Action fromAction = conn.getFromAction();
-        StringSpan fromLocation = fromAction.getArguments().get(0).getWords().get(0);
 
 
-        if (!(toStr.equals(""))) //case it's not implicit
+        for (Recipe recipe:recipes)
         {
-            if (toStr.getBaseWord().matches(".*" + verb_i + ".*")) {
-                totalProbability = 1;
-            }
-        }
-        else //case implicit
-        {
-            if (locVerbCounts.containsKey(verb_i))
+            for (Action action : recipe.getActions())
             {
-                Map<String, Integer> locationCounts = locVerbCounts.get(verb_i);
-                if (locationCounts.containsKey(fromLocation.getBaseWord()))
+                String verb_i = action.getPredicate().getBaseWord();
+                for (Argument argument: action.getArguments())
                 {
-                    locationCounts.put(fromLocation.getBaseWord(), locationCounts.get(fromLocation.getBaseWord()) + 1);
+                    if (argument.getSemanticType().equals(SemanticType.LOCATION))
+                    {
+                        for (StringSpan string: argument.getWords())
+                        {
+                            List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(string);
+                            for (Connection conn : stringSpanConnections)
+                            {
+                                Action fromAction = conn.getFromAction();
 
-                } else
-                {
-                    locationCounts.put(fromLocation.getBaseWord(), 1);
+                                for (Argument arg2 : fromAction.getArguments())
+                                 {
+                                     List<StringSpan> fromLocation = arg2.getWords();
+                                     for (StringSpan str : fromLocation)
+                                     {
+                                         String location = str.getBaseWord();
+                                        if (!(string.equals(""))) //case it's not implicit
+                                        {
+
+
+                                            if (string.getBaseWord().matches(".*" + verb_i + ".*")) {
+                                                totalProbability = 1;
+                                            }
+                                        } else //case implicit
+                                        {
+                                            if (locationsDistribution.containsKey(verb_i)) {
+                                                Map<String, Integer> locationCounts = locationsDistribution.get(verb_i);
+                                                if (locationCounts.containsKey(action.getPredicate().getBaseWord()))
+                                                {
+                                                    locationCounts.put(location, locationCounts.get(location) + 1);
+
+                                                }
+                                                else
+                                                {
+                                                    locationCounts.put(location, 1);
+                                                }
+
+                                            } else
+                                            {
+                                                Map<String, Integer> locationCounts = new HashMap<>();
+                                                locationCounts.put(location, 1);
+                                                locationsDistribution.put(verb_i, locationCounts);
+
+                                            }
+
+                                            /*TODO total probability =
+                                            Times a verb appears with a location
+                                            over the times the verb appears in general */
+                                        }
+                                     }
+                                 }
+                            }
+                        }
+                    }
                 }
-
-            } else
-            {
-                Map<String, Integer> locationCounts = new HashMap<>();
-                locationCounts.put(fromLocation.getBaseWord(), 1);
-                locVerbCounts.put(verb_i.getBaseWord(), locationCounts);
-
             }
 
-            /*TODO total probability =
-            Times a verb appears with a location
-            over the times the verb appears in general */
         }
 
 
