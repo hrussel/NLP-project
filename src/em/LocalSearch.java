@@ -15,24 +15,27 @@ public class LocalSearch {
     public static final int SEARCH_SIZE = 100;
     private final List<Recipe> recipes;
     private final VerbSignatureModel verbSignatureModel;
-    private StringSpanModel stringSpanModel;
-    Random random = new Random(42);
+    private PartCompositeModel partCompositeModel;
+    private Random random = new Random(42);
+    private int swappedCount;
 
-    public LocalSearch(List<Recipe> recipes, VerbSignatureModel verbSignatureModel, StringSpanModel stringSpanModel) {
+    public LocalSearch(List<Recipe> recipes, VerbSignatureModel verbSignatureModel, PartCompositeModel partCompositeModel) {
         this.recipes = recipes;
         this.verbSignatureModel = verbSignatureModel;
-        this.stringSpanModel = stringSpanModel;
+        this.partCompositeModel = partCompositeModel;
+        this.swappedCount = 0;
     }
 
-    public void search() {
+    public int search() {
         for (Recipe recipe : recipes) {
             searchForRecipe(recipe);
         }
+        return swappedCount;
     }
 
     public void searchForRecipe(Recipe recipe) {
         ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipe, verbSignatureModel);
-        RecipeModel recipeModel = new RecipeModel(recipe, verbSignatureModel, stringSpanModel);
+        RecipeModel recipeModel = new RecipeModel(recipe, verbSignatureModel, partCompositeModel);
         JointProbabilityModel jointProbabilityModel = new JointProbabilityModel(connectionPriorModel, recipeModel);
 
         boolean foundImprovement = true;
@@ -42,6 +45,7 @@ public class LocalSearch {
                 boolean swapped = searchStep(recipe, jointProbabilityModel);
                 if (swapped) {
                     foundImprovement = true;
+                    swappedCount++;
                 }
             }
         }
@@ -87,11 +91,17 @@ public class LocalSearch {
         Connection connection1 = null;
         if (!connections1.isEmpty()) {
             connection1 = connections1.get(0);
+            if(connection1.getFromAction().getIndex()<0) {
+                return false;
+            }
         }
 
         Connection connection2 = null;
         if (!connections2.isEmpty()) {
             connection2 = connections2.get(0);
+            if(connection2.getFromAction().getIndex()<0) {
+                return false;
+            }
         }
 
         if (connection1 != null && connection2 != null) {

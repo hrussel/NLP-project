@@ -3,6 +3,8 @@ package model;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Created by baris on 11/29/2015.
@@ -28,9 +30,28 @@ public class Recipe {
         createImplicitArguments();
         buildIngredientConnections();
         buildSequentialConnections();
+        update();
+    }
+
+    public void update() {
+        updateArgumentTypes();
         buildVerbSignatures();
     }
 
+    private void updateArgumentTypes() {
+        for (Action action : actions) {
+            for (Argument argument : action.getArguments()) {
+                for (StringSpan stringSpan : argument.getWords()) {
+                    List<Connection> connections = getConnectionsGoingTo(stringSpan);
+                    if (!connections.isEmpty()) {
+                        Connection connection = connections.get(0);
+                        argument.setSemanticType(connection.getFromAction().getSemanticType());
+                        break;
+                    }
+                }
+            }
+        }
+    }
 
     private void matchLocations() {
         locations = new ArrayList<>();
@@ -83,7 +104,6 @@ public class Recipe {
                         break;
                     }
                 }
-                //TODO type of the srpingspan instead of the argument
                 if (!found) {
                     argument.setSemanticType(SemanticType.OTHER);
                 }
@@ -128,7 +148,7 @@ public class Recipe {
         for (Action action : this.getActions()) {
             Set<SyntacticType> syntacticTypeSet = new HashSet<>();
             for (Argument argument : action.getArguments()) {
-                if(argument.getSemanticType().equals(SemanticType.FOOD)) {
+                if (argument.getSemanticType().equals(SemanticType.FOOD)) {
                     syntacticTypeSet.add(argument.getSyntacticType());
                 }
             }
@@ -184,8 +204,8 @@ public class Recipe {
                 for (StringSpan stringSpan : argument.getWords()) {
                     List<Connection> existingConnections = this.getConnectionsGoingTo(stringSpan);
                     if (existingConnections.isEmpty()) {
-                        if(lastConnection!=null) {
-                            if(!lastConnection.getFromAction().getSemanticType().equals(action1.getSemanticType()) ) {
+                        if (lastConnection != null) {
+                            if (!lastConnection.getFromAction().getSemanticType().equals(action1.getSemanticType())) {
                                 continue;
                             }
                         }
@@ -214,6 +234,8 @@ public class Recipe {
         }
         return new ArrayList<>();
     }
+
+
 
     public List<Connection> getConnections() {
         return connections;

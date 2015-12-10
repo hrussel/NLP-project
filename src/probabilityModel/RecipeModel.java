@@ -12,12 +12,12 @@ public class RecipeModel {
 
     private Recipe recipe;
     private VerbSignatureModel verbSignatureModel;
-    private StringSpanModel stringSpanModel;
+    private PartCompositeModel partCompositeModel;
 
-    public RecipeModel(Recipe recipe, VerbSignatureModel verbSignatureModel, StringSpanModel stringSpanModel) {
+    public RecipeModel(Recipe recipe, VerbSignatureModel verbSignatureModel, PartCompositeModel partCompositeModel) {
         this.recipe = recipe;
         this.verbSignatureModel = verbSignatureModel;
-        this.stringSpanModel = stringSpanModel;
+        this.partCompositeModel = partCompositeModel;
     }
 
     public double calculate() {
@@ -57,7 +57,7 @@ public class RecipeModel {
                     }
                 }
                 if (!ingredient && !stringSpan.getBaseWord().isEmpty()) {
-                    probability *= stringSpanModel.getProbabilityOfString(stringSpan.getBaseWord(), action);
+                    probability *= partCompositeModel.getProbabilityOfString(stringSpan.getBaseWord(), action);
                     if (probability == 0) {
                         return probability;
                     }

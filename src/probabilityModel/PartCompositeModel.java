@@ -8,20 +8,23 @@ import java.util.Map;
 
 /**
  * Created by Helena Russello on 05-12-15.
+ * This is the part composite model as in 3.2.2
  */
-public class StringSpanModel {
+public class PartCompositeModel {
 
     private Map<String, Map<String, Integer>> partCompositeDistribution;
     private Map<String, Integer> totalCounts;
     private List<Recipe> recipes;
 
-    public StringSpanModel(List<Recipe> recipes) {
+    public PartCompositeModel(List<Recipe> recipes) {
         this.recipes = recipes;
         this.partCompositeDistribution = new HashMap<>();
         this.totalCounts = new HashMap<>();
+    }
 
+    public void calculate() {
         for (Recipe recipe : recipes) {
-            System.out.print(".");
+            //System.out.print(".");
             for (Action action : recipe.getActions()) {
                 for (Argument argument : action.getArguments()) {
                     SemanticType semanticType = argument.getSemanticType();
@@ -89,7 +92,7 @@ public class StringSpanModel {
         int sumCounts = 0;
         int sumTotalCounts = 0;
         if (!partCompositeDistribution.containsKey(string)) {
-            System.out.println("StringSpanModel error ==> no key");
+            System.out.println("PartCompositeModel error ==> no key");
             return 0.0;
         }
         Map<String, Integer> stringCounts = partCompositeDistribution.get(string);
