@@ -30,8 +30,8 @@ public class LocationModel {
 
     public  void calculateProbability()
     {
-        double totalProbability = 0;
-        //!attention Needs to be checked if location is retrieved properly
+
+
 
         for (Recipe recipe : recipes) {
             for (Action action : recipe.getActions()) {
