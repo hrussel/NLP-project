@@ -1,9 +1,9 @@
+package util;
+
 import model.*;
 
 import java.io.File;
-import java.io.IOException;
 import java.util.*;
-import java.util.regex.Pattern;
 
 /**
  * Created by baris on 11/29/2015.
@@ -35,8 +35,8 @@ public class RecipeReader {
         int offset=-1;
         try {
             //"data/chunked/BeefMeatLoaf-chunked/amish-meatloaf.txt"
-            File chunkedTextFile = new File(Main.FOLDER_CHUNKED + this.folder + "-chunked/" + this.filename);
-            File semiTextFile = new File(Main.FOLDER_SEMI+folder+"-semi/"+filename);
+            File chunkedTextFile = new File(Parameters.FOLDER_CHUNKED + this.folder + "-chunked/" + this.filename);
+            File semiTextFile = new File(Parameters.FOLDER_SEMI+folder+"-semi/"+filename);
             sc = new Scanner(chunkedTextFile);
             scSemiText = new Scanner(semiTextFile);
 

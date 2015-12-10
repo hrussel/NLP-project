@@ -1,8 +1,10 @@
 import em.EM;
-import em.LocalSearch;
 import model.Argument;
 import model.Recipe;
 import probabilityModel.*;
+import util.Parameters;
+import util.RecipeReader;
+import util.Util;
 
 import java.io.File;
 import java.util.*;
@@ -11,22 +13,11 @@ import java.util.regex.Pattern;
 
 public class Main {
 
-    public static final String FOLDER_DEV_ANNOTATIONS = "data/DevSet-annotations/";
-    public static final String FOLDER_TEST_ANNOTATIONS = "data/TestSet-annotations/";
-    public static final String FOLDER_CHUNKED = "data/chunked/";
-    public static final String FOLDER_FULL = "data/fulltext/";
-    public static final String FOLDER_SEMI = "data/semitext/";
-
-    public static final String FILE_DEV_LIST = "data/devset_list.txt";
-    public static final String FILE_TEST_LIST = "data/testset_list.txt";
-
-    public static final int AMISH_MEATLOAF_INDEX = 280;
-
-    private List<Recipe> recipes;
+     private List<Recipe> recipes;
 
 
     private Recipe getAmishRecipe() {
-        return recipes.get(AMISH_MEATLOAF_INDEX);
+        return recipes.get(Parameters.AMISH_MEATLOAF_INDEX);
     }
 
     private double testArgumentTypesModel() {
@@ -67,7 +58,7 @@ public class Main {
        EM em = new EM(recipes);
        em.search();
 
-        Recipe amishMeatloaf = recipes.get(AMISH_MEATLOAF_INDEX);
+        Recipe amishMeatloaf = recipes.get(Parameters.AMISH_MEATLOAF_INDEX);
         Util.printRecipe(amishMeatloaf);
 
         /*String [] measures = Util.MEASURES;
@@ -128,7 +119,7 @@ public class Main {
     }
 
     private void readAllRecipes() {
-        File chunkedFolder = new File(FOLDER_CHUNKED);
+        File chunkedFolder = new File(Parameters.FOLDER_CHUNKED);
         String chunkedFolderEnd = "-chunked";
         int chunkedFolderEndLenght = chunkedFolderEnd.length();
         File[] folders = chunkedFolder.listFiles();

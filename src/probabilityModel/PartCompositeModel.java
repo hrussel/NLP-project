@@ -29,7 +29,7 @@ public class PartCompositeModel {
                 for (Argument argument : action.getArguments()) {
                     SemanticType semanticType = argument.getSemanticType();
                     //We only look at the arguments of type food
-                    if(semanticType != SemanticType.FOOD)
+                    if (semanticType != SemanticType.FOOD)
                         continue;
                     for (StringSpan stringSpan : argument.getWords()) {
                         String word = stringSpan.getBaseWord();
@@ -46,34 +46,35 @@ public class PartCompositeModel {
                             stringCounts = new HashMap<>();
                         }
 
-                        List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(stringSpan);
-
-                        for (Connection stringSpanConnection : stringSpanConnections) {
+                        Connection stringSpanConnection = recipe.getConnectionGoingTo(stringSpan);
+                        if (stringSpanConnection != null) {
                             //We don't look at the ingredients
-                            if (stringSpanConnection.isFromIngredient()){
-                                break;
-                            }
-                            for (Argument fromArgument : stringSpanConnection.getFromAction().getArguments()){
-                                if(fromArgument.getSemanticType() != SemanticType.FOOD)
-                                    continue;
+                            if (!stringSpanConnection.isFromIngredient()) {
+                                for (Argument fromArgument : stringSpanConnection.getFromAction().getArguments()) {
+                                    if (fromArgument.getSemanticType() != SemanticType.FOOD)
+                                        continue;
 
-                                for (StringSpan fromSpan : fromArgument.getWords()) {
-                                    int count = 0;
-                                    String fromSpanWord = fromSpan.getBaseWord();
-                                    if (stringCounts.containsKey(fromSpanWord)) {
-                                        count = stringCounts.get(fromSpanWord);
+                                    for (StringSpan fromSpan : fromArgument.getWords()) {
+                                        int count = 0;
+                                        String fromSpanWord = fromSpan.getBaseWord();
+                                        if (stringCounts.containsKey(fromSpanWord)) {
+                                            count = stringCounts.get(fromSpanWord);
+                                        }
+                                        stringCounts.put(fromSpanWord, ++count);
                                     }
-                                    stringCounts.put(fromSpanWord, ++count);
                                 }
                             }
                         }
 
                         partCompositeDistribution.put(word, stringCounts);
                         incrementTotalCount(word);
+
+
                     }
                 }
             }
         }
+
     }
 
     private void incrementTotalCount(String string) {
@@ -98,21 +99,21 @@ public class PartCompositeModel {
         Map<String, Integer> stringCounts = partCompositeDistribution.get(string);
 
         int stringTotalCount = totalCounts.get(string);
-        if(stringTotalCount == 0){
+        if (stringTotalCount == 0) {
             return 0.0;
         }
 
         for (Argument argument : origin.getArguments()) {
             for (StringSpan stringSpan : argument.getWords()) {
                 String stringSpanWord = stringSpan.getWord();
-                if(stringCounts.containsKey(stringSpanWord)){
-                    sumCounts+=stringCounts.get(stringSpanWord);
-                    sumTotalCounts+=stringTotalCount;
+                if (stringCounts.containsKey(stringSpanWord)) {
+                    sumCounts += stringCounts.get(stringSpanWord);
+                    sumTotalCounts += stringTotalCount;
                 }
             }
         }
 
-        if(sumTotalCounts == 0) {
+        if (sumTotalCounts == 0) {
             return 1.0;
         }
 

@@ -85,28 +85,29 @@ public class LocalSearch {
     }
 
     public boolean swapConnections(Recipe recipe, Action action1, Argument argument1, StringSpan stringSpan1, Action action2, Argument argument2, StringSpan stringSpan2) {
-        List<Connection> connections1 = recipe.getConnectionsGoingTo(stringSpan1);
-        List<Connection> connections2 = recipe.getConnectionsGoingTo(stringSpan2);
+        Connection connection1 = recipe.getConnectionGoingTo(stringSpan1);
+        Connection connection2 = recipe.getConnectionGoingTo(stringSpan2);
 
-        Connection connection1 = null;
-        if (!connections1.isEmpty()) {
-            connection1 = connections1.get(0);
-            if(connection1.getFromAction().getIndex()<0) {
+        if (connection1 != null) {
+            if (connection1.getFromAction().getIndex() < 0) {
                 return false;
             }
         }
 
-        Connection connection2 = null;
-        if (!connections2.isEmpty()) {
-            connection2 = connections2.get(0);
-            if(connection2.getFromAction().getIndex()<0) {
+        if (connection2 != null) {
+            if (connection2.getFromAction().getIndex() < 0) {
                 return false;
             }
         }
 
-        if (connection1 != null && connection2 != null) {
-            if (connection1.getFromAction().getIndex() >= action2.getIndex() ||
-                    connection2.getFromAction().getIndex() >= action1.getIndex()) {
+        if (connection1 != null) {
+            if (connection1.getFromAction().getIndex() >= action2.getIndex()) {
+                return false;
+            }
+        }
+
+        if (connection2 != null) {
+            if (connection2.getFromAction().getIndex() >= action1.getIndex()) {
                 return false;
             }
         }
@@ -115,16 +116,14 @@ public class LocalSearch {
             connection1.setToAction(action2);
             connection1.setToArgument(argument2);
             connection1.setToStringSpan(stringSpan2);
-            recipe.getConnectionsGoingTo(stringSpan1).remove(0);
-            recipe.getConnectionsGoingTo(stringSpan2).add(connection1);
+            recipe.setConnectionGoingTo(stringSpan2, connection1);
         }
 
         if (connection2 != null) {
             connection2.setToAction(action1);
             connection2.setToArgument(argument1);
             connection2.setToStringSpan(stringSpan1);
-            recipe.getConnectionsGoingTo(stringSpan2).remove(0);
-            recipe.getConnectionsGoingTo(stringSpan1).add(connection2);
+            recipe.setConnectionGoingTo(stringSpan1, connection2);
         }
         return true;
     }
