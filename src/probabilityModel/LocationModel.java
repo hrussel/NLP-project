@@ -3,6 +3,7 @@ package probabilityModel;
 import model.*;
 import util.StringMatcher;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -16,7 +17,7 @@ public class LocationModel {
     private List<Recipe> recipes;
     private Map<String, Map<String, Integer>> locationsDistribution; //<Verb, <Location, Times>>
     private Map<String, Integer> locationCounts;
-    private Map<String, Map<String,Double>> probabilities;
+    //private Map<String, Map<String,Double>> probabilities; //verb, location, probability
 
     public LocationModel(List<Recipe> recipes) {
 
@@ -27,7 +28,8 @@ public class LocationModel {
 
     }
 
-    public double calculateProbability() {
+    public  void calculateProbability()
+    {
         double totalProbability = 0;
         //!attention Needs to be checked if location is retrieved properly
 
@@ -45,13 +47,12 @@ public class LocationModel {
                                     List<StringSpan> fromLocation = arg2.getWords();
                                     for (StringSpan str : fromLocation) {
                                         String location = str.getBaseWord();
-                                        if (!(currentLocation.getBaseWord().equals(""))) //case it's not implicit
+                                        if ((currentLocation.getBaseWord().equals(""))) //case it's not implicit
                                         {
 
 
-                                            if (currentLocation.getBaseWord().matches(".*" +fromLocation + ".*")) {
-                                                totalProbability = 1;
-                                            }
+                                                continue;
+
                                         } else //case implicit
                                         {
                                             if (locationsDistribution.containsKey(verb_i)) {
@@ -70,9 +71,7 @@ public class LocationModel {
 
                                             }
 
-                                            /*TODO total probability =
-                                            Times a verb appears with a location
-                                            over the times the verb appears in general */
+
                                         }
                                     }
                                 }
@@ -85,6 +84,38 @@ public class LocationModel {
         }
 
 
+    }
+
+    public double returnProbability(Recipe rec, Action verb, StringSpan location)
+    {
+        double totalProbability=0;
+
+        if (!(location.getBaseWord().equals(""))) //case it's not implicit
+        {
+            List<StringSpan> fromLocation= new ArrayList<>();
+            Connection con = rec.getConnectionGoingTo(location);
+            Action originAction = con.getFromAction();
+            for (Argument argument : originAction.getArguments()) {
+
+                if (argument.getSemanticType().equals(SemanticType.LOCATION))
+                {
+                    fromLocation=argument.getWords();
+                }
+            }
+
+            for(StringSpan loc: fromLocation)
+            {
+                if (loc.getBaseWord().matches(".*" + location.getBaseWord() + ".*")) {
+                    totalProbability=1;
+                }
+            }
+        }
+        else
+        {
+            double totalVerbCount  = locationsDistribution.get(verb.getPredicate().getBaseWord()).size();
+            double totalVerbLocationCount= locationsDistribution.get(verb.getPredicate().getBaseWord()).get(location.getBaseWord());
+            totalProbability= totalVerbLocationCount/totalVerbCount;
+        }
         return totalProbability;
     }
 }
