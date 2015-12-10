@@ -41,9 +41,9 @@ public class LocationModel
                 {
                     if (argument.getSemanticType().equals(SemanticType.LOCATION))
                     {
-                        for (StringSpan string: argument.getWords())
+                        for (StringSpan currentLocation: argument.getWords())
                         {
-                            List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(string);
+                            List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(currentLocation);
                             for (Connection conn : stringSpanConnections)
                             {
                                 Action fromAction = conn.getFromAction();
@@ -54,11 +54,11 @@ public class LocationModel
                                      for (StringSpan str : fromLocation)
                                      {
                                          String location = str.getBaseWord();
-                                        if (!(string.equals(""))) //case it's not implicit
+                                        if (!(currentLocation.equals(""))) //case it's not implicit
                                         {
 
 
-                                            if (string.getBaseWord().matches(".*" + verb_i + ".*")) {
+                                            if (currentLocation.getBaseWord().matches(".*" + verb_i + ".*")) {
                                                 totalProbability = 1;
                                             }
                                         } else //case implicit
