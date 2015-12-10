@@ -15,12 +15,14 @@ public class LocalSearch {
     public static final int SEARCH_SIZE = 100;
     private final List<Recipe> recipes;
     private final VerbSignatureModel verbSignatureModel;
+    private final LocationModel locationModel;
     private PartCompositeModel partCompositeModel;
     private Random random = new Random(42);
     private int swappedCount;
 
-    public LocalSearch(List<Recipe> recipes, VerbSignatureModel verbSignatureModel, PartCompositeModel partCompositeModel) {
+    public LocalSearch(List<Recipe> recipes, VerbSignatureModel verbSignatureModel, PartCompositeModel partCompositeModel, LocationModel locationModel) {
         this.recipes = recipes;
+        this.locationModel=locationModel;
         this.verbSignatureModel = verbSignatureModel;
         this.partCompositeModel = partCompositeModel;
         this.swappedCount = 0;

@@ -14,6 +14,7 @@ public class EM {
     private List<Recipe> recipes;
     private VerbSignatureModel verbSignatureModel;
     private PartCompositeModel partCompositeModel;
+    private LocationModel locationModel;
     private LocalSearch localSearch;
     private int iteration;
 
@@ -38,6 +39,8 @@ public class EM {
         verbSignatureModel.calculate();
         this.partCompositeModel = new PartCompositeModel(recipes);
         partCompositeModel.calculate();
+        this.locationModel= new LocationModel(recipes);
+        locationModel.calculateProbability();
         System.out.println("Initialized EM");
     }
 
