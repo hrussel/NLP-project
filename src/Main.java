@@ -6,6 +6,8 @@ import probabilityModel.*;
 
 import java.io.File;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Main {
 
@@ -62,11 +64,60 @@ public class Main {
         LocalSearch localSearch = new LocalSearch(recipes,verbSignatureModel, partCompositeModel);
         localSearch.search();*/
 
-        EM em = new EM(recipes);
-        em.search();
+       EM em = new EM(recipes);
+       em.search();
 
         Recipe amishMeatloaf = recipes.get(AMISH_MEATLOAF_INDEX);
         Util.printRecipe(amishMeatloaf);
+
+        /*String [] measures = Util.MEASURES;
+        Pattern pattern = null;
+        Matcher matcher = null;
+        for (Recipe recipe : recipes) {
+            for (String s : recipe.getIngredients()) {
+                boolean print = false;
+                String old = s;
+                s = s.toLowerCase();
+                //If ends xith : don't add this as an ingredient
+                if(s.contains(":"))
+                    continue;
+
+                //end bracket
+                while(s.contains("(") && s.contains(")")){
+                    int lp = s.indexOf("(");
+                    int rp = s.indexOf(")");
+                    String start = s.substring(0, lp).trim();
+                    String end = s.substring(rp+1, s.length()).trim();
+                    s = start + " "+ end;
+                }
+
+                //begin number (fraction ok)
+                pattern = Pattern.compile("(\\d)+(/\\d)?[ \t]");
+                matcher = pattern.matcher(s);
+                if(matcher.find())
+                    s = s.substring(matcher.end()).trim();
+
+                for (String measure : measures) {
+
+                    pattern = Pattern.compile(measure+" ");
+                    matcher = pattern.matcher(s);
+                    if(matcher.find())
+                        s = s.substring(matcher.end()).trim();
+                    print = true;
+
+                }
+
+                //coma case
+                if(s.contains(",")){
+                    s = s.substring(0, s.indexOf(",")).trim();
+                }
+
+                if(print)
+                    System.out.println(s);
+                if(s.length() <= 1)
+                    System.out.println("OLD:"+old);
+            }
+        }*/
 
         //System.out.println(testArgumentTypesModel());
 

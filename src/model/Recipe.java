@@ -3,6 +3,8 @@ package model;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * Created by baris on 11/29/2015.
@@ -102,7 +104,6 @@ public class Recipe {
                         break;
                     }
                 }
-                //TODO type of the srpingspan instead of the argument
                 if (!found) {
                     argument.setSemanticType(SemanticType.OTHER);
                 }
@@ -233,6 +234,8 @@ public class Recipe {
         }
         return new ArrayList<>();
     }
+
+
 
     public List<Connection> getConnections() {
         return connections;

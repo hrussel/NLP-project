@@ -142,7 +142,10 @@ public class RecipeReader {
                     while (sc.hasNextLine()) {
                         s = sc.nextLine();
                         if (s.isEmpty()) {
-                            recipe.getIngredients().add(currentIngredient);
+                            currentIngredient = Util.cleanIngredient(currentIngredient);
+                            if(currentIngredient != null && currentIngredient.length() > 1){
+                                recipe.getIngredients().add(currentIngredient);
+                            }
                             //connection.setFrom(currentIngredient) connection.setTo(s)
                             currentIngredient = null;
                         } else {
