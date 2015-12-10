@@ -24,12 +24,12 @@ public class RecipeModel {
         double probability = 1.0;
         for (Action action : recipe.getActions()) {
             probability *= verbSignatureModel.getProbabilityOfAction(action);
-            if(probability == 0) {
+            if (probability == 0) {
                 return probability;
             }
             for (Argument argument : action.getArguments()) {
                 probability *= calculateArgumentProbability(action, argument);
-                if(probability == 0) {
+                if (probability == 0) {
                     return probability;
                 }
             }
@@ -40,21 +40,18 @@ public class RecipeModel {
     private double calculateArgumentProbability(Action action, Argument argument) {
         ArgumentTypesModel argumentTypesModel = new ArgumentTypesModel(recipe, argument);
         double probability = argumentTypesModel.calculateProbability();
-        if(probability == 0) {
+        if (probability == 0) {
             return probability;
         }
-        if(argument.getSemanticType().equals(SemanticType.FOOD)) {
+        if (argument.getSemanticType().equals(SemanticType.FOOD)) {
 
             for (StringSpan stringSpan : argument.getWords()) {
 
-                List<Connection> stringSpanConnections = recipe.getConnectionsGoingTo(stringSpan);
+                Connection stringSpanConnection = recipe.getConnectionGoingTo(stringSpan);
                 boolean ingredient = false;
-                for (Connection stringSpanConnection : stringSpanConnections) {
-                    //We don't look at the ingredients
-                    if (stringSpanConnection.isFromIngredient()) {
-                        ingredient = true;
-                        break;
-                    }
+                //We don't look at the ingredients
+                if (stringSpanConnection != null && stringSpanConnection.isFromIngredient()) {
+                    ingredient = true;
                 }
                 if (!ingredient && !stringSpan.getBaseWord().isEmpty()) {
                     probability *= partCompositeModel.getProbabilityOfString(stringSpan.getBaseWord(), action);

@@ -27,7 +27,10 @@ public class ConnectionOriginModel {
         List<Connection> connections = new ArrayList<>();
         for (Argument argument : action.getArguments()) {
             for (StringSpan stringSpan : argument.getWords()) {
-                connections.addAll(recipe.getConnectionsGoingTo(stringSpan));
+                Connection connection = recipe.getConnectionGoingTo(stringSpan);
+                if(connection!=null) {
+                    connections.add(connection);
+                }
             }
         }
         boolean foundConnection = false;

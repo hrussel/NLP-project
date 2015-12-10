@@ -16,6 +16,7 @@ public class Argument {
 
     public Argument() {
         this.words = new ArrayList<>();
+        this.semanticType = SemanticType.OTHER;
     }
 
     public List<StringSpan> getWords() {

@@ -35,15 +35,15 @@ public class ArgumentTypesModel {
         Connection previousConnection = null;
         for (StringSpan str : arg.getWords()) {
 
-            List<Connection> connections = recipe.getConnectionsGoingTo(str);
+            Connection connection = recipe.getConnectionGoingTo(str);
             if (totalprobability == 0.0) {
                 return totalprobability;
             }
 
-            for (Connection con : connections) {
+            if (connection != null) {
 
                 if (firstPass) {
-                    previousConnection = con;
+                    previousConnection = connection;
                     firstPass = false;
                 }
 
@@ -51,15 +51,15 @@ public class ArgumentTypesModel {
                 Set<SyntacticType> previousSynType = previousConnection.getFromAction().getSignature().getSyntacticTypeSet();
 
 
-                if (!(con.getFromAction().getSemanticType().equals(previousSemType))) {
-                        //&& !(con.getFromAction().getSignature().getSyntacticTypeSet().equals(previousSynType))) {
+                if (!(connection.getFromAction().getSemanticType().equals(previousSemType))) {
+                    //&& !(con.getFromAction().getSignature().getSyntacticTypeSet().equals(previousSynType))) {
 
                     totalprobability = 0.0;
-                    break;
                 } else totalprobability = 1.0;
 
-                previousConnection = con;
+                previousConnection = connection;
             }
+
 
         }
 

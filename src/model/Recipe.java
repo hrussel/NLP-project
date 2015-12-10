@@ -1,10 +1,10 @@
 package model;
 
+import util.StringMatcher;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * Created by baris on 11/29/2015.
@@ -15,7 +15,7 @@ public class Recipe {
     private List<Action> actions;
     private List<String> ingredients;
     private List<Connection> connections;
-    private Map<StringSpan, List<Connection>> connectionsGoingTo;
+    private Map<StringSpan, Connection> connectionsGoingTo;
 
     public Recipe() {
         this.actions = new ArrayList<>();
@@ -42,9 +42,8 @@ public class Recipe {
         for (Action action : actions) {
             for (Argument argument : action.getArguments()) {
                 for (StringSpan stringSpan : argument.getWords()) {
-                    List<Connection> connections = getConnectionsGoingTo(stringSpan);
-                    if (!connections.isEmpty()) {
-                        Connection connection = connections.get(0);
+                    Connection connection = getConnectionGoingTo(stringSpan);
+                    if (connection != null) {
                         argument.setSemanticType(connection.getFromAction().getSemanticType());
                         break;
                     }
@@ -65,16 +64,17 @@ public class Recipe {
                 locations.add(loc);
 
             }
+            StringMatcher locationMatcher = new StringMatcher(locations);
 
             for (Action act : this.getActions()) {
                 for (Argument argument : act.getArguments()) {
 
-                    List<StringSpan> wordz = argument.getWords();
-                    for (StringSpan str : wordz) {
-                        for (String location : locations)
-                            if (str.getBaseWord().matches(".*" + location + ".*")) {
-                                argument.setSemanticType(SemanticType.LOCATION);
-                            }
+                    List<StringSpan> words = argument.getWords();
+                    for (StringSpan str : words) {
+                        if (locationMatcher.isMatching(str.getBaseWord())) {
+                            argument.setSemanticType(SemanticType.LOCATION);
+                            break;
+                        }
                     }
                 }
 
@@ -86,26 +86,17 @@ public class Recipe {
     }
 
     private void matchIngredients() {
+        StringMatcher ingredientMather = new StringMatcher(ingredients);
         for (Action action : this.getActions()) {
             for (Argument argument : action.getArguments()) {
                 boolean found = false;
 
                 List<StringSpan> argumentSpans = argument.getWords();
                 for (StringSpan argumentSpan : argumentSpans) {
-                    String word = argumentSpan.getWord();
-                    for (String ingredient : this.getIngredients()) {
-                        if (ingredient.contains(word)) {
-                            argument.setSemanticType(SemanticType.FOOD);
-                            found = true;
-                            break;
-                        }
+                    String word = argumentSpan.getBaseWord();
+                    if (ingredientMather.isMatching(word)) {
+                        argument.setSemanticType(SemanticType.FOOD);
                     }
-                    if (found) {
-                        break;
-                    }
-                }
-                if (!found) {
-                    argument.setSemanticType(SemanticType.OTHER);
                 }
             }
         }
@@ -167,27 +158,23 @@ public class Recipe {
     }
 
     public void buildIngredientConnections() {
-        for (String ingredient : ingredients) {
-            for (Action action : actions) {
-                List<Argument> arguments = action.getArguments();
-                for (Argument argument : arguments) {
-                    List<StringSpan> stringSpans = argument.getWords();
-                    for (StringSpan stringSpan : stringSpans) {
-                        if (ingredient.toLowerCase().contains(stringSpan.getWord().toLowerCase())) {
-                            Action ingredientAction = new Action(-1);
-                            Set<SyntacticType> syntacticTypes = new HashSet<>();
-                            //TODO @Baris can foods be pp
-                            syntacticTypes.add(SyntacticType.DOBJ);
-                            ingredientAction.setSignature(new VerbSignature(syntacticTypes, true));
-                            ingredientAction.setSemanticType(SemanticType.FOOD);
-                            Connection connection = new Connection(ingredientAction, action, argument, stringSpan, true);
+        StringMatcher ingredientMatcher = new StringMatcher(ingredients);
+        for (Action action : actions) {
+            List<Argument> arguments = action.getArguments();
+            for (Argument argument : arguments) {
+                List<StringSpan> stringSpans = argument.getWords();
+                for (StringSpan stringSpan : stringSpans) {
+                    if(ingredientMatcher.isMatching(stringSpan.getBaseWord())) {
+                        Action ingredientAction = new Action(-1);
+                        Set<SyntacticType> syntacticTypes = new HashSet<>();
+                        //TODO @Baris can foods be pp
+                        syntacticTypes.add(SyntacticType.DOBJ);
+                        ingredientAction.setSignature(new VerbSignature(syntacticTypes, true));
+                        ingredientAction.setSemanticType(SemanticType.FOOD);
+                        Connection connection = new Connection(ingredientAction, action, argument, stringSpan, true);
 
-                            this.getConnections().add(connection);
-                            if (!connectionsGoingTo.containsKey(stringSpan)) {
-                                connectionsGoingTo.put(stringSpan, new ArrayList<>());
-                            }
-                            connectionsGoingTo.get(stringSpan).add(connection);
-                        }
+                        this.getConnections().add(connection);
+                        connectionsGoingTo.put(stringSpan, connection);
                     }
                 }
             }
@@ -202,23 +189,18 @@ public class Recipe {
                 boolean found = false;
                 Connection lastConnection = null;
                 for (StringSpan stringSpan : argument.getWords()) {
-                    List<Connection> existingConnections = this.getConnectionsGoingTo(stringSpan);
-                    if (existingConnections.isEmpty()) {
-                        if (lastConnection != null) {
-                            if (!lastConnection.getFromAction().getSemanticType().equals(action1.getSemanticType())) {
-                                continue;
-                            }
+                    Connection existingConnection = this.getConnectionGoingTo(stringSpan);
+                    if (existingConnection == null) {
+                        if (lastConnection != null && !lastConnection.getFromAction().getSemanticType().equals(action1.getSemanticType())) {
+                            continue;
                         }
                         Connection connection = new Connection(action1, action2, argument, stringSpan, false);
                         this.connections.add(connection);
-                        if (!connectionsGoingTo.containsKey(stringSpan)) {
-                            connectionsGoingTo.put(stringSpan, new ArrayList<>());
-                        }
-                        connectionsGoingTo.get(stringSpan).add(connection);
+                        connectionsGoingTo.put(stringSpan, connection);
                         found = true;
                         break;
                     } else {
-                        lastConnection = existingConnections.get(0);
+                        lastConnection = existingConnection;
                     }
                 }
                 if (found) {
@@ -228,14 +210,17 @@ public class Recipe {
         }
     }
 
-    public List<Connection> getConnectionsGoingTo(StringSpan stringSpan) {
+    public Connection getConnectionGoingTo(StringSpan stringSpan) {
         if (connectionsGoingTo.containsKey(stringSpan)) {
             return connectionsGoingTo.get(stringSpan);
         }
-        return new ArrayList<>();
+        return null;
     }
 
-
+    public void setConnectionGoingTo(StringSpan stringSpan, Connection connection) {
+        connectionsGoingTo.values().remove(connection);
+        connectionsGoingTo.put(stringSpan, connection);
+    }
 
     public List<Connection> getConnections() {
         return connections;
