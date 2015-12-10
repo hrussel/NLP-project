@@ -16,6 +16,7 @@ public class LocationModel
     private List<Recipe> recipes ;
     private  Map<String, Map<String, Integer>> locationsDistribution; //<Verb, <Location, Times>>
     private Map<String, Integer> locationCounts;
+    private Map<String, Map<String,Double>> probabilities;
 
     public LocationModel(List<Recipe> recipes) {
 
@@ -58,7 +59,7 @@ public class LocationModel
                                         {
 
 
-                                            if (currentLocation.getBaseWord().matches(".*" + verb_i + ".*")) {
+                                            if (currentLocation.getBaseWord().matches(".*" +fromLocation + ".*")) {
                                                 totalProbability = 1;
                                             }
                                         } else //case implicit
