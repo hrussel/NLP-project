@@ -22,7 +22,7 @@ public class StringSpan {
     }
 
     public StringSpan(String word, int start, int end) {
-        this.baseWord = word;
+        this.baseWord = word.replaceAll("[()]", "");
         this.extras = "";
         this.start = start;
         this.end = end;

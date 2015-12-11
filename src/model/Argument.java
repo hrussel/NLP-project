@@ -13,10 +13,12 @@ public class Argument {
     private List<StringSpan> words;
     private SyntacticType syntacticType;
     private SemanticType semanticType;
+    private boolean semanticTypeFixed;
 
     public Argument() {
         this.words = new ArrayList<>();
         this.semanticType = SemanticType.OTHER;
+        this.semanticTypeFixed = false;
     }
 
     public List<StringSpan> getWords() {
@@ -40,6 +42,16 @@ public class Argument {
     }
 
     public void setSemanticType(SemanticType semanticType) {
-        this.semanticType = semanticType;
+        if(!semanticTypeFixed) {
+            this.semanticType = semanticType;
+        }
+    }
+
+    public boolean isSemanticTypeFixed() {
+        return semanticTypeFixed;
+    }
+
+    public void setSemanticTypeFixed(boolean semanticTypeFixed) {
+        this.semanticTypeFixed = semanticTypeFixed;
     }
 }

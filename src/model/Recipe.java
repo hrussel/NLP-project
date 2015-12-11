@@ -35,7 +35,19 @@ public class Recipe {
 
     public void update() {
         updateArgumentTypes();
+        updateActionTypes();
         buildVerbSignatures();
+    }
+
+    private void updateActionTypes() {
+        for (Action action : actions) {
+            action.setSemanticType(SemanticType.LOCATION);
+            for (Argument argument : action.getArguments()) {
+                if(argument.getSemanticType().equals(SemanticType.FOOD)) {
+                    action.setSemanticType(SemanticType.FOOD);
+                }
+            }
+        }
     }
 
     private void updateArgumentTypes() {
@@ -44,7 +56,9 @@ public class Recipe {
                 for (StringSpan stringSpan : argument.getWords()) {
                     Connection connection = getConnectionGoingTo(stringSpan);
                     if (connection != null) {
-                        argument.setSemanticType(connection.getFromAction().getSemanticType());
+                        if(connection.getFromAction().getSemanticType()!=SemanticType.OTHER) {
+                            argument.setSemanticType(connection.getFromAction().getSemanticType());
+                        }
                         break;
                     }
                 }

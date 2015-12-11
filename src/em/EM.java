@@ -26,7 +26,7 @@ public class EM {
     public void search() {
         initialize();
         boolean improved = true;
-        while (improved) {
+        while (improved && iteration<51) {
             improved = eStep();
             mStep();
         }
@@ -39,13 +39,13 @@ public class EM {
         verbSignatureModel.calculate();
         this.partCompositeModel = new PartCompositeModel(recipes);
         partCompositeModel.calculate();
-        this.locationModel= new LocationModel(recipes);
+        this.locationModel = new LocationModel(recipes);
         locationModel.calculateProbability();
         System.out.println("Initialized EM");
     }
 
     private boolean eStep() {
-        this.localSearch = new LocalSearch(recipes, verbSignatureModel,partCompositeModel, locationModel);
+        this.localSearch = new LocalSearch(recipes, verbSignatureModel, partCompositeModel, locationModel);
         int swappedCount = this.localSearch.search();
         iteration++;
         System.out.println("E-Step: iteration " + iteration + " improved " + swappedCount + " connections.");
@@ -53,7 +53,7 @@ public class EM {
     }
 
     private void mStep() {
-        for(Recipe recipe: recipes) {
+        for (Recipe recipe : recipes) {
             recipe.update();
         }
         this.verbSignatureModel = new VerbSignatureModel(recipes);
