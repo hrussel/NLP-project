@@ -114,10 +114,10 @@ public class PartCompositeModel {
         }
 
         if (sumTotalCounts == 0) {
-            return 1.0;
+            return 0.5; // i hack you
         }
 
-        return 1.0 * sumCounts / sumTotalCounts;
+        return 0.5 * sumCounts / sumTotalCounts; // i hack you
 
     }
 

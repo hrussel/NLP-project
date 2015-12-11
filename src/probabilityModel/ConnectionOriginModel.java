@@ -28,7 +28,7 @@ public class ConnectionOriginModel {
         for (Argument argument : action.getArguments()) {
             for (StringSpan stringSpan : argument.getWords()) {
                 Connection connection = recipe.getConnectionGoingTo(stringSpan);
-                if(connection!=null) {
+                if (connection != null) {
                     connections.add(connection);
                 }
             }
@@ -38,13 +38,13 @@ public class ConnectionOriginModel {
             Action fromAction = connection.getFromAction();
             if (!connection.isFromIngredient()) {
                 foundConnection = true;
-                //probability *= previousProbabilities.get(fromAction);
+                probability *= 1.0 / (action.getIndex() - fromAction.getIndex());
             }
         }
         //TODO @Baris if an origin has been used in a previous connection much less likely to be used again.
         if (foundConnection && action.getSignature().isLeaf()) {
             return 0.0;
         }
-        return 1.0;
+        return probability;
     }
 }

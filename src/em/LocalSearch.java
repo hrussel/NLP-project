@@ -55,6 +55,23 @@ public class LocalSearch {
         if (recipe == recipes.get(Parameters.AMISH_MEATLOAF_INDEX)) {
             double probability = jointProbabilityModel.calculate();
             System.out.println("Amish meatloaf probability: " + probability);
+
+           /* Action action1 = recipe.getActions().get(2);
+            Argument argument1 = action1.getArguments().get(0);
+            Argument argument2 = action1.getArguments().get(1);
+            StringSpan stringSpan1 = argument1.getWords().get(0);
+            StringSpan stringSpan2 = argument2.getWords().get(0);
+
+            boolean swapped = swapConnections(recipe, action1, argument1, stringSpan1, action1, argument2, stringSpan2);
+            if (!swapped) {
+                return;
+            }
+
+            double nextProbability = jointProbabilityModel.calculate();
+            if (nextProbability <= probability) {
+                swapConnections(recipe, action1, argument1, stringSpan1, action1, argument2, stringSpan2);
+                return;
+            }*/
         }
     }
 
