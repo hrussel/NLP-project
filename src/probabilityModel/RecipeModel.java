@@ -13,11 +13,13 @@ public class RecipeModel {
     private Recipe recipe;
     private VerbSignatureModel verbSignatureModel;
     private PartCompositeModel partCompositeModel;
+    private LocationModel locationModel;
 
-    public RecipeModel(Recipe recipe, VerbSignatureModel verbSignatureModel, PartCompositeModel partCompositeModel) {
+    public RecipeModel(Recipe recipe, VerbSignatureModel verbSignatureModel, PartCompositeModel partCompositeModel, LocationModel locationModel) {
         this.recipe = recipe;
         this.verbSignatureModel = verbSignatureModel;
         this.partCompositeModel = partCompositeModel;
+        this.locationModel = locationModel;
     }
 
     public double calculate() {
@@ -58,6 +60,13 @@ public class RecipeModel {
                     if (probability == 0) {
                         return probability;
                     }
+                }
+            }
+        } else if (argument.getSemanticType().equals(SemanticType.LOCATION)) {
+            for (StringSpan stringSpan : argument.getWords()) {
+                probability *= locationModel.returnProbability(recipe, action, stringSpan);
+                if (probability == 0) {
+                    return probability;
                 }
             }
         }

@@ -2,6 +2,7 @@ package em;
 
 import model.*;
 import probabilityModel.*;
+import util.Parameters;
 
 import java.util.List;
 import java.util.Random;
@@ -17,12 +18,12 @@ public class LocalSearch {
     private final VerbSignatureModel verbSignatureModel;
     private final LocationModel locationModel;
     private PartCompositeModel partCompositeModel;
-    private Random random = new Random(42);
+    private Random random = new Random();
     private int swappedCount;
 
     public LocalSearch(List<Recipe> recipes, VerbSignatureModel verbSignatureModel, PartCompositeModel partCompositeModel, LocationModel locationModel) {
         this.recipes = recipes;
-        this.locationModel=locationModel;
+        this.locationModel = locationModel;
         this.verbSignatureModel = verbSignatureModel;
         this.partCompositeModel = partCompositeModel;
         this.swappedCount = 0;
@@ -37,7 +38,7 @@ public class LocalSearch {
 
     public void searchForRecipe(Recipe recipe) {
         ConnectionPriorModel connectionPriorModel = new ConnectionPriorModel(recipe, verbSignatureModel);
-        RecipeModel recipeModel = new RecipeModel(recipe, verbSignatureModel, partCompositeModel);
+        RecipeModel recipeModel = new RecipeModel(recipe, verbSignatureModel, partCompositeModel, locationModel);
         JointProbabilityModel jointProbabilityModel = new JointProbabilityModel(connectionPriorModel, recipeModel);
 
         boolean foundImprovement = true;
@@ -50,6 +51,10 @@ public class LocalSearch {
                     swappedCount++;
                 }
             }
+        }
+        if (recipe == recipes.get(Parameters.AMISH_MEATLOAF_INDEX)) {
+            double probability = jointProbabilityModel.calculate();
+            System.out.println("Amish meatloaf probability: " + probability);
         }
     }
 
@@ -129,4 +134,5 @@ public class LocalSearch {
         }
         return true;
     }
+
 }

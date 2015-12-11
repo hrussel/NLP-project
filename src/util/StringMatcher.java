@@ -35,6 +35,22 @@ public class StringMatcher {
                 return true;
             }
         }
+        for (String clusterWord : cluster) {
+            boolean matching = true;
+            String[] clusterSubWords = clusterWord.toLowerCase().split(" ");
+            for (String subWord : clusterSubWords) {
+                if (subWord.isEmpty() || subWord.matches(".*\\d+.*")) {
+                    continue;
+                }
+                if (!word.toLowerCase().contains(subWord)) {
+                    matching = false;
+                    break;
+                }
+            }
+            if (matching) {
+                return true;
+            }
+        }
         return false;
     }
 }

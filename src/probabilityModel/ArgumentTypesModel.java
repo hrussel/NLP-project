@@ -51,8 +51,7 @@ public class ArgumentTypesModel {
                 Set<SyntacticType> previousSynType = previousConnection.getFromAction().getSignature().getSyntacticTypeSet();
 
 
-                if (!(connection.getFromAction().getSemanticType().equals(previousSemType))) {
-                    //&& !(con.getFromAction().getSignature().getSyntacticTypeSet().equals(previousSynType))) {
+                if (!(connection.getFromAction().getSemanticType().equals(previousSemType))){// || !(connection.getFromAction().getSignature().getSyntacticTypeSet().equals(previousSynType))) {
 
                     totalprobability = 0.0;
                 } else totalprobability = 1.0;

@@ -28,9 +28,7 @@ public class LocationModel {
 
     }
 
-    public  void calculateProbability()
-    {
-
+    public void calculateProbability() {
 
 
         for (Recipe recipe : recipes) {
@@ -51,19 +49,17 @@ public class LocationModel {
                                         {
 
 
-                                                continue;
+                                            continue;
 
                                         } else //case implicit
                                         {
                                             if (locationsDistribution.containsKey(verb_i)) {
                                                 Map<String, Integer> locationCounts = locationsDistribution.get(verb_i);
-                                                if (locationCounts.containsKey(action.getPredicate().getBaseWord())) {
+                                                if (locationCounts.containsKey(location)) {
                                                     locationCounts.put(location, locationCounts.get(location) + 1);
-
                                                 } else {
                                                     locationCounts.put(location, 1);
                                                 }
-
                                             } else {
                                                 Map<String, Integer> locationCounts = new HashMap<>();
                                                 locationCounts.put(location, 1);
@@ -86,35 +82,71 @@ public class LocationModel {
 
     }
 
-    public double returnProbability(Recipe rec, Action verb, StringSpan location)
-    {
-        double totalProbability=0;
-
+    public double returnProbability(Recipe rec, Action verb, StringSpan location) {
+        double totalProbability = 0.0;
         if (!(location.getBaseWord().equals(""))) //case it's not implicit
         {
-            List<StringSpan> fromLocation= new ArrayList<>();
+            List<StringSpan> fromLocation = new ArrayList<>();
             Connection con = rec.getConnectionGoingTo(location);
-            Action originAction = con.getFromAction();
-            for (Argument argument : originAction.getArguments()) {
+            if (con != null) {
+                Action originAction = con.getFromAction();
+                for (Argument argument : originAction.getArguments()) {
 
-                if (argument.getSemanticType().equals(SemanticType.LOCATION))
-                {
-                    fromLocation=argument.getWords();
+                    if (argument.getSemanticType().equals(SemanticType.LOCATION)) {
+                        fromLocation = argument.getWords();
+                        break;
+                    }
                 }
-            }
+                List<String> stringList = new ArrayList<>();
+                stringList.add(location.getBaseWord());
+                StringMatcher stringMatcher = new StringMatcher(stringList);
+                for (StringSpan loc : fromLocation) {
 
-            for(StringSpan loc: fromLocation)
-            {
-                if (loc.getBaseWord().matches(".*" + location.getBaseWord() + ".*")) {
-                    totalProbability=1;
+                    if (stringMatcher.isMatching(loc.getBaseWord())) {
+                        totalProbability = 1.0;
+                    }
                 }
+            } else {
+                return 1.0;
             }
-        }
-        else
-        {
-            double totalVerbCount  = locationsDistribution.get(verb.getPredicate().getBaseWord()).size();
-            double totalVerbLocationCount= locationsDistribution.get(verb.getPredicate().getBaseWord()).get(location.getBaseWord());
-            totalProbability= totalVerbLocationCount/totalVerbCount;
+        } else {
+            try {
+                if(locationsDistribution.containsKey(verb.getPredicate().getBaseWord())) {
+                    Map<String,Integer> counts = locationsDistribution.get(verb.getPredicate().getBaseWord());
+                    double totalVerbCount = counts.size();
+                    if(totalVerbCount == 0) {
+                        totalProbability = 0.0;
+                    } else {
+                        Connection con = rec.getConnectionGoingTo(location);
+                        if (con != null) {
+                            Action originAction = con.getFromAction();
+
+                            List<StringSpan> fromLocation = new ArrayList<>();
+                            for (Argument argument : originAction.getArguments()) {
+                                if (argument.getSemanticType().equals(SemanticType.LOCATION)) {
+                                    fromLocation = argument.getWords();
+                                    break;
+                                }
+                            }
+
+                            for(StringSpan fromStringSpan : fromLocation) {
+                                if(counts.containsKey(fromStringSpan.getBaseWord())) {
+                                    double totalVerbLocationCount = counts.get(fromStringSpan.getBaseWord());
+                                    totalProbability = totalVerbLocationCount / totalVerbCount;
+                                    return totalProbability;
+                                }
+                            }
+
+                        } else {
+                            return 1.0;
+                        }
+                    }
+                } else {
+                    totalProbability = 0.0;
+                }
+            }catch (Exception e){
+                e.printStackTrace();
+            }
         }
         return totalProbability;
     }
