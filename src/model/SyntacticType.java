@@ -6,5 +6,16 @@ package model;
  */
 public enum SyntacticType {
     DOBJ,
-    PP
+    PP;
+
+    @Override
+    public String toString() {
+        switch (this){
+            case DOBJ:
+                return "DOBJ";
+            case PP:
+                return "PP";
+        }
+        return "";
+    }
 }

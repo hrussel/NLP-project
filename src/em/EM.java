@@ -45,7 +45,7 @@ public class EM {
     }
 
     private boolean eStep() {
-        this.localSearch = new LocalSearch(recipes, verbSignatureModel, partCompositeModel);
+        this.localSearch = new LocalSearch(recipes, verbSignatureModel,partCompositeModel, locationModel);
         int swappedCount = this.localSearch.search();
         iteration++;
         System.out.println("E-Step: iteration " + iteration + " improved " + swappedCount + " connections.");

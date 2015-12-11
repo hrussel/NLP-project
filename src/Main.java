@@ -1,12 +1,12 @@
 import em.EM;
-import model.Argument;
-import model.Recipe;
+import model.*;
 import probabilityModel.*;
 import util.Parameters;
 import util.RecipeReader;
+import util.StringMatcher;
 import util.Util;
 
-import java.io.File;
+import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -58,8 +58,157 @@ public class Main {
        EM em = new EM(recipes);
        em.search();
 
-        Recipe amishMeatloaf = recipes.get(Parameters.AMISH_MEATLOAF_INDEX);
-        Util.printRecipe(amishMeatloaf);
+        Map<String, Map<String, Integer>> verbSignatureMap = new HashMap<>();
+        Map<String, Integer> predicateCounts = new HashMap<>();
+        for (Recipe recipe : recipes) {
+            for (Action action : recipe.getActions()) {
+
+                String predicate = action.getPredicate().getBaseWord().toLowerCase().trim();
+
+                String verbSignature = action.getSignature().toString();
+
+
+                Map<String, Integer> predicateMap = null;
+                int count = 0;
+                int pCount = 0;
+                if (!verbSignatureMap.containsKey(predicate)) {
+                    predicateMap = new HashMap<String, Integer>();
+                } else {
+                    predicateMap = verbSignatureMap.get(predicate);
+                    pCount = predicateCounts.get(predicate);
+                    if(predicateMap.containsKey(verbSignature)){
+                        count = predicateMap.get(verbSignature);
+
+                    }
+
+                }
+
+                predicateMap.put(verbSignature, ++count);
+                verbSignatureMap.put(predicate, predicateMap);
+                predicateCounts.put(predicate, ++pCount);
+
+            }
+        }
+        System.out.println("#########################################################################");
+        System.out.println(verbSignatureMap.toString());
+
+        Map<String, Map<String, Integer>> topVerbSignatures = new HashMap<>();
+
+        Map<String, Integer> topPredicates = sortByValue1(predicateCounts);
+        //TOP 10 predicates
+        int iter = 0;
+        for (String predicate : topPredicates.keySet()) {
+            System.out.print(predicate);
+            Map<String, Integer> vs = verbSignatureMap.get(predicate);
+            int total = predicateCounts.get(predicate);
+            int i=0;
+            for (Map.Entry<String, Integer> stringIntegerEntry : vs.entrySet()) {
+                if(i>0){
+                    System.out.print("\t\t");
+                }
+                System.out.println("\t"+stringIntegerEntry.getKey()+"\t\t"+stringIntegerEntry.getValue()+"\t"+total);
+                i++;
+            }
+
+            if(iter++ == 9)
+                break;
+        }
+
+        List<String> locationList = new ArrayList<>();
+
+        try {
+            BufferedReader br = new BufferedReader(new FileReader("data/locations.txt"));
+            String line = null;
+            while((line = br.readLine()) != null){
+                locationList.add(line.toLowerCase().trim());
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        //Location counts
+        Map<String, Map<String, Integer>> locationCounts = new HashMap<>();
+        Map<String, Integer> totalLocation = new HashMap<>();
+        for (Recipe recipe : recipes) {
+            for (Connection connection : recipe.getConnections()) {
+                Action actionFrom = connection.getFromAction();
+                if(actionFrom == null || actionFrom.getPredicate() == null ||  actionFrom.getPredicate().getBaseWord() == null)
+                    continue;
+                String predicate = actionFrom.getPredicate().getBaseWord().toLowerCase().trim();
+                Action actionTo = connection.getToAction();
+                if(!totalLocation.containsKey(predicate))
+                    totalLocation.put(predicate, 0);
+                for (Argument argument : actionTo.getArguments()) {
+
+
+                        int totalCount = 0;
+
+                        Map<String, Integer> locs = null;
+                        if(!locationCounts.containsKey(predicate)){
+                            locs = new HashMap<>();
+
+                        }else{
+                            locs = locationCounts.get(predicate);
+                            totalCount = totalLocation.get(predicate);
+                        }
+
+                        for (StringSpan stringSpan : argument.getWords()) {
+                            String spString = stringSpan.getBaseWord().toLowerCase().trim();
+                            boolean foundLoc = false;
+                            for (String loc : locationList) {
+                                if(spString.contains(loc)) {
+                                    spString = loc;
+                                    foundLoc = true;
+                                    break;
+                                }
+                            }
+                            if(!foundLoc)
+                                continue;
+                            int count = 0;
+                            if(locs.containsKey(spString))
+                                count = locs.get(spString);
+                            locs.put(spString, ++count);
+                            totalLocation.put(predicate, ++totalCount);
+                        }
+
+                        locationCounts.put(predicate, locs);
+
+                }
+            }
+        }
+
+        System.out.println("#########################################################################");
+        System.out.println(verbSignatureMap.toString());
+
+        Map<String, Map<String, Integer>> topTenLocations = new HashMap<>();
+
+        Map<String, Integer> sortedTopLocs = sortByValue1(totalLocation);
+        //TOP 10 predicates
+        iter = 0;
+        for (String predicate : sortedTopLocs.keySet()) {
+
+            if(!locationCounts.containsKey(predicate))
+                continue;
+            Map<String, Integer> vs = locationCounts.get(predicate);
+            System.out.print(predicate);
+            int total = totalLocation.get(predicate);
+            int i=0;
+            for (Map.Entry<String, Integer> stringIntegerEntry : vs.entrySet()) {
+                if(i>0){
+                    System.out.print("\t\t");
+                }
+                System.out.println("\t"+stringIntegerEntry.getKey()+"\t\t"+stringIntegerEntry.getValue()+"\t"+total);
+                i++;
+            }
+
+            if(iter++ == 9)
+                break;
+        }
+
+//        Recipe amishMeatloaf = recipes.get(Parameters.AMISH_MEATLOAF_INDEX);
+//        Util.printRecipe(amishMeatloaf);
 
         /*String [] measures = Util.MEASURES;
         Pattern pattern = null;
@@ -141,6 +290,42 @@ public class Main {
                 }
             }
         }
+    }
+
+    /* Source : http://stackoverflow.com/questions/109383/how-to-sort-a-mapkey-value-on-the-values-in-java */
+    public Map<String, Integer> sortByValue( Map<String, Integer> map ) {
+        List<Map.Entry<String, Integer>> list = new LinkedList<>( map.entrySet() );
+        Collections.sort( list, new Comparator<Map.Entry<String, Integer>>() {
+            public int compare( Map.Entry<String, Integer> o1, Map.Entry<String, Integer> o2 ) {
+                int result = 0;
+                Integer a = o1.getValue();
+                Integer b = o2.getValue();
+                return a - b;
+            }
+        } );
+
+        Map<String, Integer> result = new LinkedHashMap<String, Integer>();
+        for (Map.Entry<String, Integer> entry : list) {
+            result.put( entry.getKey(), entry.getValue() );
+        }
+        return result;
+    }
+
+    Map sortByValue1(Map map) {
+        List list = new LinkedList(map.entrySet());
+        Collections.sort(list, new Comparator() {
+            public int compare(Object o1, Object o2) {
+                return ((Comparable) ((Map.Entry) (o2)).getValue())
+                        .compareTo(((Map.Entry) (o1)).getValue());
+            }
+        });
+
+        Map result = new LinkedHashMap();
+        for (Iterator it = list.iterator(); it.hasNext();) {
+            Map.Entry entry = (Map.Entry)it.next();
+            result.put(entry.getKey(), entry.getValue());
+        }
+        return result;
     }
 
     public static void main(String[] args) {
