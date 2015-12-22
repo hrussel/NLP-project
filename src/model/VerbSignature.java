@@ -45,4 +45,15 @@ public class VerbSignature {
         }
         return 37* leafInt + 71 * syntacticTypeSet.hashCode();
     }
+
+    @Override
+    public String toString() {
+        String string="{";
+        int count = 0;
+        for (SyntacticType syntacticType : syntacticTypeSet) {
+            string+= (count > 0 ?", ":"")+syntacticType.toString();
+            count++;
+        }
+        return string+"}"+(leaf?":leaf":"");
+    }
 }
