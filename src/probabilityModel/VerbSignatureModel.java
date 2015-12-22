@@ -52,7 +52,7 @@ public class VerbSignatureModel {
         return verbSignatureDistribution;
     }
 
-    public double getProbabilityOfAction(Action action) {
+    public double getProbabilityOfAction(Recipe recipe, Action action) {
         String verb = action.getPredicate().getBaseWord();
         if (verbSignatureDistribution.containsKey(verb)) {
             VerbSignature signature = action.getSignature();
@@ -60,11 +60,18 @@ public class VerbSignatureModel {
             if (signatureCounts.containsKey(signature)) {
                 int signatureCount = signatureCounts.get(signature);
                 int totalCount = totalCounts.get(verb);
-                return 1.0 * signatureCount / totalCount;
+                double probability = 1.0 * signatureCount / totalCount;
+                if(probability == 0) {
+                    recipe.increaseZeroCount();
+                    probability = 0.0000001;
+                }
+                return probability;
             } else {
+                recipe.increaseZeroCount();
                 return 0;
             }
         } else {
+            recipe.increaseZeroCount();
             return 0;
         }
     }

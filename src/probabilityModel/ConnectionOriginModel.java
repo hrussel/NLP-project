@@ -38,11 +38,18 @@ public class ConnectionOriginModel {
             Action fromAction = connection.getFromAction();
             if (!connection.isFromIngredient()) {
                 foundConnection = true;
-                probability *= 1.0 / (action.getIndex() - fromAction.getIndex());
+                if (fromAction.getIndex() >= action.getIndex()) {
+
+                    recipe.increaseZeroCount();
+                    return 0.0;
+                }
+                probability *= 10.0 / Math.pow(10.0, (action.getIndex() - fromAction.getIndex()));
             }
         }
         //TODO @Baris if an origin has been used in a previous connection much less likely to be used again.
         if (foundConnection && action.getSignature().isLeaf()) {
+
+            recipe.increaseZeroCount();
             return 0.0;
         }
         return probability;

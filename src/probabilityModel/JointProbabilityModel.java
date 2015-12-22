@@ -14,10 +14,8 @@ public class JointProbabilityModel {
     }
 
     public double calculate() {
+        recipeModel.getRecipe().setZeroCount(0);
         double probability = this.connectionPriorModel.calculate();
-        if (probability == 0) {
-            return probability;
-        }
         probability *= this.recipeModel.calculate();
         return probability;
     }

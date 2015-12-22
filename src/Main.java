@@ -34,7 +34,7 @@ public class Main {
         recipes = new ArrayList<>();
         System.out.println("Reading all recipes");
         readAllRecipes();
-
+        //Recipe amishMeatloaf2 = recipes.get(Parameters.AMISH_MEATLOAF_INDEX);
         /*Recipe amishMeatloaf = recipes.get(AMISH_MEATLOAF_INDEX);
 
         VerbSignatureModel verbSignatureModel = new VerbSignatureModel(recipes);

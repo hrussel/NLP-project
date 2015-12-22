@@ -82,7 +82,7 @@ public class LocationModel {
 
     }
 
-    public double returnProbability(Recipe rec, Action verb, StringSpan location) {
+    public double returnProbability(Recipe rec, Action verb,Argument argument, StringSpan location) {
         double totalProbability = 0.0;
         if (!(location.getBaseWord().equals(""))) //case it's not implicit
         {
@@ -90,10 +90,10 @@ public class LocationModel {
             Connection con = rec.getConnectionGoingTo(location);
             if (con != null) {
                 Action originAction = con.getFromAction();
-                for (Argument argument : originAction.getArguments()) {
+                for (Argument originArgument : originAction.getArguments()) {
 
-                    if (argument.getSemanticType().equals(SemanticType.LOCATION)) {
-                        fromLocation = argument.getWords();
+                    if (originArgument.getSemanticType().equals(SemanticType.LOCATION)) {
+                        fromLocation = originArgument.getWords();
                         break;
                     }
                 }
@@ -104,6 +104,9 @@ public class LocationModel {
 
                     if (stringMatcher.isMatching(loc.getBaseWord())) {
                         totalProbability = 1.0;
+                        argument.setSemanticType(SemanticType.LOCATION);
+                        argument.setSemanticTypeFixed(true);
+
                     }
                 }
             } else {
@@ -116,15 +119,16 @@ public class LocationModel {
                     double totalVerbCount = counts.size();
                     if(totalVerbCount == 0) {
                         totalProbability = 0.0;
+                        rec.increaseZeroCount();
                     } else {
                         Connection con = rec.getConnectionGoingTo(location);
                         if (con != null) {
                             Action originAction = con.getFromAction();
 
                             List<StringSpan> fromLocation = new ArrayList<>();
-                            for (Argument argument : originAction.getArguments()) {
-                                if (argument.getSemanticType().equals(SemanticType.LOCATION)) {
-                                    fromLocation = argument.getWords();
+                            for (Argument originArgument : originAction.getArguments()) {
+                                if (originArgument.getSemanticType().equals(SemanticType.LOCATION)) {
+                                    fromLocation = originArgument.getWords();
                                     break;
                                 }
                             }
@@ -133,6 +137,10 @@ public class LocationModel {
                                 if(counts.containsKey(fromStringSpan.getBaseWord())) {
                                     double totalVerbLocationCount = counts.get(fromStringSpan.getBaseWord());
                                     totalProbability = totalVerbLocationCount / totalVerbCount;
+                                    if(totalProbability==0) {
+                                        rec.increaseZeroCount();
+                                        totalProbability = 0.0000001;
+                                    }
                                     return totalProbability;
                                 }
                             }
@@ -142,7 +150,8 @@ public class LocationModel {
                         }
                     }
                 } else {
-                    totalProbability = 0.0;
+                    totalProbability = 0.01;
+                    rec.increaseZeroCount();
                 }
             }catch (Exception e){
                 e.printStackTrace();

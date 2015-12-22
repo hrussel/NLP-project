@@ -89,17 +89,19 @@ public class PartCompositeModel {
         return partCompositeDistribution;
     }
 
-    public double getProbabilityOfString(String string, Action origin) {
+    public double getProbabilityOfString(Recipe recipe, String string, Action origin) {
         int sumCounts = 0;
         int sumTotalCounts = 0;
         if (!partCompositeDistribution.containsKey(string)) {
             System.out.println("PartCompositeModel error ==> no key");
+            recipe.increaseZeroCount();
             return 0.0;
         }
         Map<String, Integer> stringCounts = partCompositeDistribution.get(string);
 
         int stringTotalCount = totalCounts.get(string);
         if (stringTotalCount == 0) {
+            recipe.increaseZeroCount();
             return 0.0;
         }
 
@@ -114,10 +116,15 @@ public class PartCompositeModel {
         }
 
         if (sumTotalCounts == 0) {
-            return 0.5; // i hack you
+            recipe.increaseZeroCount();
+            return 0.01; // i hack you
         }
-
-        return 0.5 * sumCounts / sumTotalCounts; // i hack you
+        double probability = 1.0 * sumCounts / sumTotalCounts;
+        if(probability == 0) {
+            probability = 0.0000001;
+            recipe.increaseZeroCount();
+        }
+        return probability;
 
     }
 

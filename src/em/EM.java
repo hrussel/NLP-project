@@ -26,7 +26,7 @@ public class EM {
     public void search() {
         initialize();
         boolean improved = true;
-        while (improved && iteration<51) {
+        while (improved && iteration<1001) {
             improved = eStep();
             mStep();
         }

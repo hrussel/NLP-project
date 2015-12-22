@@ -16,12 +16,14 @@ public class Recipe {
     private List<String> ingredients;
     private List<Connection> connections;
     private Map<StringSpan, Connection> connectionsGoingTo;
+    private int zeroCount;
 
     public Recipe() {
         this.actions = new ArrayList<>();
         this.setIngredients(new ArrayList<>());
         this.setConnections(new ArrayList<>());
         connectionsGoingTo = new HashMap<>();
+        zeroCount = 0;
     }
 
     public void build() {
@@ -34,6 +36,7 @@ public class Recipe {
     }
 
     public void update() {
+        zeroCount = 0;
         updateArgumentTypes();
         updateActionTypes();
         buildVerbSignatures();
@@ -43,7 +46,7 @@ public class Recipe {
         for (Action action : actions) {
             action.setSemanticType(SemanticType.LOCATION);
             for (Argument argument : action.getArguments()) {
-                if(argument.getSemanticType().equals(SemanticType.FOOD)) {
+                if (argument.getSemanticType().equals(SemanticType.FOOD)) {
                     action.setSemanticType(SemanticType.FOOD);
                 }
             }
@@ -54,12 +57,23 @@ public class Recipe {
         for (Action action : actions) {
             for (Argument argument : action.getArguments()) {
                 for (StringSpan stringSpan : argument.getWords()) {
+                    if (stringSpan.getWord().contains("until") ||
+                            stringSpan.getWord().contains("hour") ||
+                            stringSpan.getWord().contains("seconds") ||
+                            stringSpan.getWord().contains("while") ||
+                            stringSpan.getWord().contains("minute")) {
+                        argument.setSemanticType(SemanticType.OTHER);
+                        argument.setSemanticTypeFixed(true);
+                        break;
+                    }
                     Connection connection = getConnectionGoingTo(stringSpan);
                     if (connection != null) {
-                        if(connection.getFromAction().getSemanticType()!=SemanticType.OTHER) {
-                            argument.setSemanticType(connection.getFromAction().getSemanticType());
-                        }
+                        //if(connection.getFromAction().getSemanticType()!=SemanticType.OTHER) {
+                        argument.setSemanticType(connection.getFromAction().getSemanticType());
+                        // }
                         break;
+                    } else {
+                        // argument.setSemanticType(SemanticType.OTHER);
                     }
                 }
             }
@@ -87,6 +101,7 @@ public class Recipe {
                     for (StringSpan str : words) {
                         if (locationMatcher.isMatching(str.getBaseWord())) {
                             argument.setSemanticType(SemanticType.LOCATION);
+                            argument.setSemanticTypeFixed(true);
                             break;
                         }
                     }
@@ -110,6 +125,7 @@ public class Recipe {
                     String word = argumentSpan.getBaseWord();
                     if (ingredientMather.isMatching(word)) {
                         argument.setSemanticType(SemanticType.FOOD);
+                        argument.setSemanticTypeFixed(true);
                     }
                 }
             }
@@ -178,7 +194,7 @@ public class Recipe {
             for (Argument argument : arguments) {
                 List<StringSpan> stringSpans = argument.getWords();
                 for (StringSpan stringSpan : stringSpans) {
-                    if(ingredientMatcher.isMatching(stringSpan.getBaseWord())) {
+                    if (ingredientMatcher.isMatching(stringSpan.getBaseWord())) {
                         Action ingredientAction = new Action(-1);
                         Set<SyntacticType> syntacticTypes = new HashSet<>();
                         //TODO @Baris can foods be pp
@@ -260,4 +276,15 @@ public class Recipe {
         this.ingredients = ingredients;
     }
 
+    public int getZeroCount() {
+        return zeroCount;
+    }
+
+    public void setZeroCount(int zeroCount) {
+        this.zeroCount = zeroCount;
+    }
+
+    public void increaseZeroCount() {
+        this.zeroCount++;
+    }
 }

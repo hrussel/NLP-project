@@ -2,8 +2,6 @@ package probabilityModel;
 
 import model.*;
 
-import java.util.List;
-
 /**
  * Created by baris on 12/6/2015.
  * This class calculates the probability P(R|C) as in 3.2
@@ -24,52 +22,41 @@ public class RecipeModel {
 
     public double calculate() {
         double probability = 1.0;
-        for (Action action : recipe.getActions()) {
-            probability *= verbSignatureModel.getProbabilityOfAction(action);
-            if (probability == 0) {
-                return probability;
-            }
+        for (Action action : getRecipe().getActions()) {
+            probability *= verbSignatureModel.getProbabilityOfAction(getRecipe(), action);
             for (Argument argument : action.getArguments()) {
                 probability *= calculateArgumentProbability(action, argument);
-                if (probability == 0) {
-                    return probability;
-                }
             }
         }
         return probability;
     }
 
     private double calculateArgumentProbability(Action action, Argument argument) {
-        ArgumentTypesModel argumentTypesModel = new ArgumentTypesModel(recipe, argument);
+        ArgumentTypesModel argumentTypesModel = new ArgumentTypesModel(getRecipe(), argument);
         double probability = argumentTypesModel.calculateProbability();
-        if (probability == 0) {
-            return probability;
-        }
         if (argument.getSemanticType().equals(SemanticType.FOOD)) {
 
             for (StringSpan stringSpan : argument.getWords()) {
 
-                Connection stringSpanConnection = recipe.getConnectionGoingTo(stringSpan);
+                Connection stringSpanConnection = getRecipe().getConnectionGoingTo(stringSpan);
                 boolean ingredient = false;
                 //We don't look at the ingredients
                 if (stringSpanConnection != null && stringSpanConnection.isFromIngredient()) {
                     ingredient = true;
                 }
                 if (!ingredient && !stringSpan.getBaseWord().isEmpty()) {
-                    probability *= partCompositeModel.getProbabilityOfString(stringSpan.getBaseWord(), action);
-                    if (probability == 0) {
-                        return probability;
-                    }
+                    probability *= partCompositeModel.getProbabilityOfString(getRecipe(), stringSpan.getBaseWord(), action);
                 }
             }
         } else if (argument.getSemanticType().equals(SemanticType.LOCATION)) {
             for (StringSpan stringSpan : argument.getWords()) {
-                probability *= locationModel.returnProbability(recipe, action, stringSpan);
-                if (probability == 0) {
-                    return probability;
-                }
+                probability *= locationModel.returnProbability(getRecipe(), action, argument, stringSpan);
             }
         }
         return probability;
+    }
+
+    public Recipe getRecipe() {
+        return recipe;
     }
 }

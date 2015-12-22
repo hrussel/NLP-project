@@ -3,6 +3,7 @@ package em;
 import model.*;
 import probabilityModel.*;
 import util.Parameters;
+import util.Util;
 
 import java.util.List;
 import java.util.Random;
@@ -13,7 +14,7 @@ import java.util.Random;
  */
 public class LocalSearch {
 
-    public static final int SEARCH_SIZE = 100;
+    public static final int SEARCH_SIZE = 200;
     private final List<Recipe> recipes;
     private final VerbSignatureModel verbSignatureModel;
     private final LocationModel locationModel;
@@ -54,8 +55,9 @@ public class LocalSearch {
         }
         if (recipe == recipes.get(Parameters.AMISH_MEATLOAF_INDEX)) {
             double probability = jointProbabilityModel.calculate();
+            Util.printRecipe(recipe);
             System.out.println("Amish meatloaf probability: " + probability);
-
+            System.out.println("Zero count: " + recipe.getZeroCount());
            /* Action action1 = recipe.getActions().get(2);
             Argument argument1 = action1.getArguments().get(0);
             Argument argument2 = action1.getArguments().get(1);
@@ -77,6 +79,7 @@ public class LocalSearch {
 
     public boolean searchStep(Recipe recipe, JointProbabilityModel jointProbabilityModel) {
         double initialProbability = jointProbabilityModel.calculate();
+        int initialZeroCount = recipe.getZeroCount();
         int index = random.nextInt(recipe.getActions().size());
         Action action1 = recipe.getActions().get(index);
 
@@ -101,9 +104,15 @@ public class LocalSearch {
         }
 
         double nextProbability = jointProbabilityModel.calculate();
-        if (nextProbability <= initialProbability) {
+        int nextZeroCount = recipe.getZeroCount();
+        if (nextProbability < initialProbability) {
             swapConnections(recipe, action1, argument1, stringSpan1, action2, argument2, stringSpan2);
             return false;
+        } else if (nextProbability == initialProbability) {
+            if(nextZeroCount > initialZeroCount){
+                swapConnections(recipe, action1, argument1, stringSpan1, action2, argument2, stringSpan2);
+                return false;
+            } else return nextZeroCount != initialZeroCount;
         }
         return true;
     }

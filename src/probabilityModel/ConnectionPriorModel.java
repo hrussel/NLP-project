@@ -31,7 +31,7 @@ public class ConnectionPriorModel {
     }
 
     private double calculateProbabilityOfDestinationSubset(Action action, Map<Action, Double> previousProbabilities) {
-        double probability = verbSignatureModel.getProbabilityOfAction(action);
+        double probability = verbSignatureModel.getProbabilityOfAction(recipe, action);
         ConnectionOriginModel connectionOriginModel = new ConnectionOriginModel(recipe, action, previousProbabilities);
         probability *= connectionOriginModel.calculate();
         return probability;

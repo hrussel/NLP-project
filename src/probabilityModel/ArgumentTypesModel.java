@@ -36,9 +36,9 @@ public class ArgumentTypesModel {
         for (StringSpan str : arg.getWords()) {
 
             Connection connection = recipe.getConnectionGoingTo(str);
-            if (totalprobability == 0.0) {
+           /* if (totalprobability == 0.0) {
                 return totalprobability;
-            }
+            }*/
 
             if (connection != null) {
 
@@ -50,12 +50,20 @@ public class ArgumentTypesModel {
                 SemanticType previousSemType = previousConnection.getFromAction().getSemanticType();
                 Set<SyntacticType> previousSynType = previousConnection.getFromAction().getSignature().getSyntacticTypeSet();
 
-
                 if (!(connection.getFromAction().getSemanticType().equals(previousSemType))){// || !(connection.getFromAction().getSignature().getSyntacticTypeSet().equals(previousSynType))) {
 
-                    totalprobability = 0.0;
-                } else totalprobability = 1.0;
+                    totalprobability *= 0.0;
+                    recipe.increaseZeroCount();
+                } else totalprobability *= 1.0;
 
+                if(arg.isSemanticTypeFixed() && !connection.getFromAction().getSemanticType().equals(arg.getSemanticType())) {
+                    if(arg.getSemanticType()==SemanticType.OTHER) {
+                        totalprobability *= 0.0;
+                    } else {
+                        totalprobability *= 0.0;
+                    }
+                    recipe.increaseZeroCount();
+                }
                 previousConnection = connection;
             }
 
